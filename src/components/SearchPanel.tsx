@@ -340,7 +340,7 @@ export function SearchPanel({ open, onClose }: SearchPanelProps) {
     <div
       ref={trapRef}
       className="fixed inset-0 z-50 flex flex-col"
-      style={{ background: 'rgba(19,15,10,0.97)', backdropFilter: 'blur(8px)' }}
+      style={{ background: 'rgba(245,239,226,0.97)', backdropFilter: 'blur(8px)' }}
       role="dialog"
       aria-modal="true"
       aria-label="Search the Bible"

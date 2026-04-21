@@ -232,10 +232,13 @@ export function ReaderPage() {
         ))}
       </div>
 
-      {/* Chapter navigation */}
+      {/* Bottom padding so content isn't hidden behind the fixed nav */}
+      <div className="h-16" aria-hidden="true" />
+
+      {/* Fixed chapter navigation bar */}
       <nav
-        className="flex items-center justify-between pt-8 mt-6"
-        style={{ borderTop: '1px solid rgba(200,160,80,0.10)' }}
+        className="fixed bottom-0 left-0 right-0 z-20 flex items-center justify-between px-6 h-14
+                   bg-surface/90 backdrop-blur-sm border-t border-border"
         aria-label="Chapter navigation"
       >
         <button
@@ -284,11 +287,11 @@ export function ReaderPage() {
         </button>
       </nav>
 
-      {/* Back to top button */}
+      {/* Back to top button — sit above the fixed nav */}
       {showBackToTop && (
         <button
           onClick={() => window.scrollTo({ top: 0, behavior: 'smooth' })}
-          className="fixed bottom-6 right-6 z-20 p-3 rounded-full bg-surface-raised border border-border-strong
+          className="fixed bottom-16 right-6 z-20 p-3 rounded-full bg-surface-raised border border-border-strong
                      shadow-lg text-text-muted hover:text-accent hover:border-accent transition-all cursor-pointer
                      animate-simple-fade-in"
           aria-label="Back to top"
