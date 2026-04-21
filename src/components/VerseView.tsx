@@ -1,4 +1,4 @@
-import { useState, useCallback, memo } from 'react'
+import { useState, useCallback, memo, useRef } from 'react'
 import type { Verse, ReaderSettings, TranslationEntry } from '../types/bible'
 import { WordCard } from './WordCard'
 import { ShareVerse } from './ShareVerse'
@@ -34,6 +34,22 @@ export const VerseView = memo(function VerseView({
   const hasDual = hasLxx || hasKjv || hasRon
   const [, setAnnotationKey] = useState(0)
   const handleAnnotationChange = useCallback(() => setAnnotationKey(k => k + 1), [])
+  const [copied, setCopied] = useState(false)
+  const copyTimerRef = useRef<ReturnType<typeof setTimeout> | null>(null)
+
+  const handleCopy = useCallback(() => {
+    const text = verse.translations?.ron
+      || verse.translations?.lxx
+      || verse.translations?.kjv
+      || verse.translation
+      || ''
+    const label = `${bookAbbrev} ${chapter}:${verse.num}  ${text}`
+    navigator.clipboard.writeText(label).then(() => {
+      setCopied(true)
+      if (copyTimerRef.current) clearTimeout(copyTimerRef.current)
+      copyTimerRef.current = setTimeout(() => setCopied(false), 1800)
+    })
+  }, [verse, bookAbbrev, chapter])
 
   return (
     <div
@@ -109,8 +125,24 @@ export const VerseView = memo(function VerseView({
             />
           )}
 
-          {/* Hover actions: share + annotate */}
+          {/* Hover actions: copy + share + annotate */}
           <div className="flex items-center gap-1 opacity-0 group-hover:opacity-100 focus-within:opacity-100 transition-opacity duration-200">
+            <button
+              onClick={handleCopy}
+              className="p-1.5 rounded text-text-faint hover:text-accent transition-colors cursor-pointer"
+              aria-label={copied ? 'Copied!' : `Copy verse ${verse.num}`}
+              title={copied ? 'Copied!' : 'Copy verse'}
+            >
+              {copied ? (
+                <svg className="w-3.5 h-3.5 text-accent" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={2.5} aria-hidden="true">
+                  <path strokeLinecap="round" strokeLinejoin="round" d="M5 13l4 4L19 7" />
+                </svg>
+              ) : (
+                <svg className="w-3.5 h-3.5" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={1.8} aria-hidden="true">
+                  <path strokeLinecap="round" strokeLinejoin="round" d="M8 16H6a2 2 0 01-2-2V6a2 2 0 012-2h8a2 2 0 012 2v2m-6 12h8a2 2 0 002-2v-8a2 2 0 00-2-2h-8a2 2 0 00-2 2v8a2 2 0 002 2z" />
+                </svg>
+              )}
+            </button>
             <ShareVerse
               verse={verse}
               bookAbbrev={bookAbbrev}
