@@ -449,7 +449,7 @@
         }
       ],
       "translations": {
-        "ron": "Și au anunțat aceasta lui Iacov, zicând: \"Iată, împărații amoriților au înconjurat pe fiii tăi și le-au jefuit cirmele.\" 6. Si s-a sculat din casa lui, el si cei trei fii ai sai, toti robii tatalui sau si slujitorii sai, si a mers impotriva lor cu sase mii 8 barbati, care purtau spabii"
+        "ron": "Și au anunțat aceasta lui Iacov, zicând: \"Iată, împărații amoriților au înconjurat pe fiii tăi și le-au jefuit cirmele"
       }
     },
     {
@@ -597,7 +597,10 @@
           "t": "säyəfə",
           "gl": ""
         }
-      ]
+      ],
+      "translations": {
+        "ron": "Si s-a sculat din casa lui, el si cei trei fii ai sai, toti robii tatalui sau si slujitorii sai, si a mers impotriva lor cu sase mii 8 barbati, care purtau spabii"
+      }
     },
     {
       "num": 8,

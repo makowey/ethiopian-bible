@@ -194,7 +194,7 @@
         }
       ],
       "translations": {
-        "ron": "Și în luna nouă a lunii, Iacov a vorbit întregului popor al casei sale, zicând: \"Curățiți-vă, schimbați-vă hainele, și haideți să ne ridicăm și să ne suim la Betel, unde I-am jurat să fac jurământ în ziua când am fugit de la fața lui Esau, fratele meu, pentru că El a fost cu mine și m-a adus în această țară în pace, și lepădați dumnezeii străini care sunt printre voi.\" 2. Și au renunțat la dumnezeii străini și la ceea ce era în urechile lor și la ceea ce era †pe gâturile lor† 3 și la idolii pe care Rahela i-a furat de la Laban, fratele ei, ea i-a dat-o în întregime lui Iacov. El le-a ars și le-a sfărâmat în bucăți, le-a nimicit și le-a ascuns sub un stejar care este în țara Sihemului"
+        "ron": "Și în luna nouă a lunii, Iacov a vorbit întregului popor al casei sale, zicând: \"Curățiți-vă, schimbați-vă hainele, și haideți să ne ridicăm și să ne suim la Betel, unde I-am jurat să fac jurământ în ziua când am fugit de la fața lui Esau, fratele meu, pentru că El a fost cu mine și m-a adus în această țară în pace, și lepădați dumnezeii străini care sunt printre voi"
       }
     },
     {
@@ -332,7 +332,10 @@
           "t": "säqimonə",
           "gl": ""
         }
-      ]
+      ],
+      "translations": {
+        "ron": "Și au renunțat la dumnezeii străini și la ceea ce era în urechile lor și la ceea ce era †pe gâturile lor† 3 și la idolii pe care Rahela i-a furat de la Laban, fratele ei, ea i-a dat-o în întregime lui Iacov. El le-a ars și le-a sfărâmat în bucăți, le-a nimicit și le-a ascuns sub un stejar care este în țara Sihemului"
+      }
     },
     {
       "num": 3,
@@ -476,7 +479,7 @@
         }
       ],
       "translations": {
-        "ron": "Isaac a zis: \"Lasă-l pe fiul meu Iacov să vină și lasă-mă să-l văd [paragraful continuă] înainte de a muri.\" 1 5. Iacov s-a dus la tatăl său Isaac și la mama sa, Rebeca, la casa tatălui său Avraam, 2 și a luat cu el pe doi din fiii săi, Levi și Iuda, și a venit la tatăl său Isaac și la mama sa Rebeca"
+        "ron": "Isaac a zis: \"Lasă-l pe fiul meu Iacov să vină și lasă-mă să-l văd [paragraful continuă] înainte de a muri"
       }
     },
     {
@@ -609,7 +612,10 @@
           "t": "rəbəqa",
           "gl": ""
         }
-      ]
+      ],
+      "translations": {
+        "ron": "Iacov s-a dus la tatăl său Isaac și la mama sa, Rebeca, la casa tatălui său Avraam, 2 și a luat cu el pe doi din fiii săi, Levi și Iuda, și a venit la tatăl său Isaac și la mama sa Rebeca"
+      }
     },
     {
       "num": 6,
@@ -693,7 +699,7 @@
         }
       ],
       "translations": {
-        "ron": "Și ea i-a văzut pe cei doi fii ai lui, i-a recunoscut și i-a zis: \"Aceștia sunt fiii tăi, fiul meu?\" și ea i-a îmbrățișat, i-a sărutat și i-a binecuvântat, zicând: \"În tine se va face ilustră sămânța lui Avraam și te vei dovedi o binecuvântare pe pământ.\" 8. Iacov a intrat la Isaac, tatăl său, în camera unde zăcea, și cei doi fii ai lui erau cu el, și a luat mâna tatălui său și, aplecându-se, l-a sărutat, și Isaac s-a agățat de gâtul lui Iacov, fiul său, și a plâns pe gâtul lui"
+        "ron": "Și ea i-a văzut pe cei doi fii ai lui, i-a recunoscut și i-a zis: \"Aceștia sunt fiii tăi, fiul meu?\" și ea i-a îmbrățișat, i-a sărutat și i-a binecuvântat, zicând: \"În tine se va face ilustră sămânța lui Avraam și te vei dovedi o binecuvântare pe pământ"
       }
     },
     {
@@ -751,7 +757,10 @@
           "t": "həyä",
           "gl": ""
         }
-      ]
+      ],
+      "translations": {
+        "ron": "Iacov a intrat la Isaac, tatăl său, în camera unde zăcea, și cei doi fii ai lui erau cu el, și a luat mâna tatălui său și, aplecându-se, l-a sărutat, și Isaac s-a agățat de gâtul lui Iacov, fiul său, și a plâns pe gâtul lui"
+      }
     },
     {
       "num": 9,
@@ -810,7 +819,7 @@
         }
       ],
       "translations": {
-        "ron": "Intunericul a lasat ochii lui Isaac si el a vazut pe cei doi fii ai lui Iacov, Levi si Iuda, si a zis: \"Acestia sunt fiii tai, fiul meu? căci ei sunt ca tine.\" 10. Și El i-a spus că ei erau cu adevărat fiii Lui: \"Și ai văzut cu adevărat că ei sunt cu adevărat fiii Mei.\" 11. Și s-au apropiat de el, iar el s-a întors, i-a sărutat și i-a îmbrățișat pe amândoi"
+        "ron": "Intunericul a lasat ochii lui Isaac si el a vazut pe cei doi fii ai lui Iacov, Levi si Iuda, si a zis: \"Acestia sunt fiii tai, fiul meu? căci ei sunt ca tine"
       }
     },
     {
@@ -873,7 +882,10 @@
           "t": "ʾəmunətu",
           "gl": ""
         }
-      ]
+      ],
+      "translations": {
+        "ron": "Și El i-a spus că ei erau cu adevărat fiii Lui: \"Și ai văzut cu adevărat că ei sunt cu adevărat fiii Mei"
+      }
     },
     {
       "num": 11,
@@ -915,7 +927,10 @@
           "t": "ḫəburä",
           "gl": ""
         }
-      ]
+      ],
+      "translations": {
+        "ron": "Și s-au apropiat de el, iar el s-a întors, i-a sărutat și i-a îmbrățișat pe amândoi"
+      }
     },
     {
       "num": 12,
@@ -1739,7 +1754,7 @@
         }
       ],
       "translations": {
-        "ron": "Și când vei ședea pe scaunul de domnie al onoarei neprihănirii tale, va fi mare pace pentru toată sămânța fiilor celui preaiubit, 4 Și binecuvântat va fi cel ce te va binecuvânta; Și toți cei ce te urăsc, te mâhnesc și te blestemă vor fi dezrădăcinați, nimiciți de pe pământ și blestemați.\" 21. Intorcandu-se, l-a sarutat din nou si l-a imbratisat si s-a bucurat foarte mult; căci îi văzuse pe fiii lui Iacov, fiul său, în adevăr"
+        "ron": "Și când vei ședea pe scaunul de domnie al onoarei neprihănirii tale, va fi mare pace pentru toată sămânța fiilor celui preaiubit, 4 Și binecuvântat va fi cel ce te va binecuvânta; Și toți cei ce te urăsc, te mâhnesc și te blestemă vor fi dezrădăcinați, nimiciți de pe pământ și blestemați"
       }
     },
     {
@@ -1807,7 +1822,10 @@
           "t": "zäbäṣədəqə",
           "gl": ""
         }
-      ]
+      ],
+      "translations": {
+        "ron": "Intorcandu-se, l-a sarutat din nou si l-a imbratisat si s-a bucurat foarte mult; căci îi văzuse pe fiii lui Iacov, fiul său, în adevăr"
+      }
     },
     {
       "num": 22,
@@ -2406,7 +2424,7 @@
         }
       ],
       "translations": {
-        "ron": "Fie ca tu să prosperi și să împlinești jurământul pe care l- ai jurat și să nu-ți dezlegi jurământul; căci vei fi tras la răspundere ca atingând jurământul; 2 Acum, dar, grăbește-te să-l îndeplinești, și fie ca Acela să fie mulțumit de Cel ce a făcut toate lucrurile, căruia i-ai jurat jurământul.\" 30. Și i-a zis Rebecăi: \"Du-te cu Iacov, fiul tău\"; Rebeca a mers cu Iacov, fiul ei, și Debora cu ea, și au venit la Betel"
+        "ron": "Fie ca tu să prosperi și să împlinești jurământul pe care l- ai jurat și să nu-ți dezlegi jurământul; căci vei fi tras la răspundere ca atingând jurământul; 2 Acum, dar, grăbește-te să-l îndeplinești, și fie ca Acela să fie mulțumit de Cel ce a făcut toate lucrurile, căruia i-ai jurat jurământul"
       }
     },
     {
@@ -2494,7 +2512,10 @@
           "t": "betelə",
           "gl": ""
         }
-      ]
+      ],
+      "translations": {
+        "ron": "Și i-a zis Rebecăi: \"Du-te cu Iacov, fiul tău\"; Rebeca a mers cu Iacov, fiul ei, și Debora cu ea, și au venit la Betel"
+      }
     },
     {
       "num": 31,

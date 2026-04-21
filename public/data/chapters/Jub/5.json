@@ -359,7 +359,7 @@
         }
       ],
       "translations": {
-        "ron": "Și El a zis: \"Voi nimici pe om și orice făptură de pe fața pământului pe care am făcut-o.\" 5. Dar Noe a găsit har înaintea ochilor Domnului"
+        "ron": "Și El a zis: \"Voi nimici pe om și orice făptură de pe fața pământului pe care am făcut-o"
       }
     },
     {
@@ -397,7 +397,10 @@
           "t": "ʾäʿəyənətihu",
           "gl": ""
         }
-      ]
+      ],
+      "translations": {
+        "ron": "Dar Noe a găsit har înaintea ochilor Domnului"
+      }
     },
     {
       "num": 6,
@@ -644,7 +647,10 @@
           "t": "biṣomu",
           "gl": ""
         }
-      ]
+      ],
+      "translations": {
+        "ron": "Si a trimis sabia Lui in mijlocul lor, ca fiecare sa-si ucida aproapele, si au inceput sa se ucida unii pe altii, pana cand toti au cazut de sabie si au fost nimiciti de pe pamant"
+      }
     },
     {
       "num": 10,

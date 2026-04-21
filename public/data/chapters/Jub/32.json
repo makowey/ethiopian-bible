@@ -1454,7 +1454,7 @@
         }
       ],
       "translations": {
-        "ron": "Și Domnul i S-a arătat noaptea, l-a binecuvântat și i-a zis: \"Numele tău nu se va numi Iacov, ci Israel îți va pune numele.\" 18. Și El i-a spus din nou: \"Eu sunt Domnul, care am creat cerul și pământul, și te voi mări și te voi înmulți nespus de mult, și împărați vor ieși din tine și vor judeca pretutindeni oriunde a călcat piciorul fiilor oamenilor"
+        "ron": "Și Domnul i S-a arătat noaptea, l-a binecuvântat și i-a zis: \"Numele tău nu se va numi Iacov, ci Israel îți va pune numele"
       }
     },
     {
@@ -1572,7 +1572,10 @@
           "t": "säbəʾə",
           "gl": ""
         }
-      ]
+      ],
+      "translations": {
+        "ron": "Și El i-a spus din nou: \"Eu sunt Domnul, care am creat cerul și pământul, și te voi mări și te voi înmulți nespus de mult, și împărați vor ieși din tine și vor judeca pretutindeni oriunde a călcat piciorul fiilor oamenilor"
+      }
     },
     {
       "num": 19,
@@ -1731,7 +1734,7 @@
         }
       ],
       "translations": {
-        "ron": "Ana voi da seminței tale tot pământul 2 care este sub cer, și ei vor judeca toate neamurile după dorințele lor, și după aceea vor lua în stăpânire tot pământul și îl vor moșteni pentru totdeauna.\" 20. Si a terminat de vorbit cu el, si S-a suit de la el, si Iacov s-a uitat pana S-a suit la cer"
+        "ron": "Ana voi da seminței tale tot pământul 2 care este sub cer, și ei vor judeca toate neamurile după dorințele lor, și după aceea vor lua în stăpânire tot pământul și îl vor moșteni pentru totdeauna"
       }
     },
     {
@@ -2108,7 +2111,7 @@
         }
       ],
       "translations": {
-        "ron": "Nu te teme, căci, după cum ai văzut și ai citit, așa vei face. totul să fie; și scrie totul așa cum ai văzut și ai citit.\" 25. Iar Iacov a zis: \"Doamne, cum pot sa-mi amintesc tot ce am citit si am vazut?\" El i-a zis: \"Îmi voi aduce aminte de toate lucrurile tale\""
+        "ron": "Nu te teme, căci, după cum ai văzut și ai citit, așa vei face. totul să fie; și scrie totul așa cum ai văzut și ai citit"
       }
     },
     {
@@ -2161,7 +2164,10 @@
           "t": "kwəlo",
           "gl": ""
         }
-      ]
+      ],
+      "translations": {
+        "ron": "Iar Iacov a zis: \"Doamne, cum pot sa-mi amintesc tot ce am citit si am vazut?\" El i-a zis: \"Îmi voi aduce aminte de toate lucrurile tale\""
+      }
     },
     {
       "num": 26,

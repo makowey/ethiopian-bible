@@ -1319,7 +1319,7 @@
         }
       ],
       "translations": {
-        "ron": "Vă spun și vă mărturisesc, fiii mei, după judecata care va veni asupra omului care vrea să-l rănească pe fratele său.\" 12. Și și-a împărțit toate averile între cei doi în ziua aceea, și a dat partea cea mai mare celui ce era întâiul născut, și turnul și tot ce era în jurul lui, și tot ce avea Avraam la Fântâna Jurământului"
+        "ron": "Vă spun și vă mărturisesc, fiii mei, după judecata care va veni asupra omului care vrea să-l rănească pe fratele său"
       }
     },
     {
@@ -1407,7 +1407,10 @@
           "t": "zäʾäwəda",
           "gl": ""
         }
-      ]
+      ],
+      "translations": {
+        "ron": "Și și-a împărțit toate averile între cei doi în ziua aceea, și a dat partea cea mai mare celui ce era întâiul născut, și turnul și tot ce era în jurul lui, și tot ce avea Avraam la Fântâna Jurământului"
+      }
     },
     {
       "num": 13,
@@ -1456,7 +1459,7 @@
         }
       ],
       "translations": {
-        "ron": "Iar el a zis: \"Aceasta parte mai mare o voi da intâților născuți.\" 14. Iar Esau a zis: \"Am vandut lui Iacov si i- am dat lui Iacov dreptul meu de nascut; Lui să-i fie dat, și n-am nici un cuvânt de spus cu privire la el, căci este al Lui.\" 15. Iar Isaac a zis: \"Fie ca o binecuvântare să rămână peste voi, fiii mei, și peste sămânța voastră astăzi, căci voi Mi-ați dat odihnă și inima mea nu este îndurerată cu privire la dreptul de întâi născut, ca nu cumva să faceți răutate din pricina din ea"
+        "ron": "Iar el a zis: \"Aceasta parte mai mare o voi da intâților născuți"
       }
     },
     {
@@ -1554,7 +1557,10 @@
           "t": "häläwätə",
           "gl": ""
         }
-      ]
+      ],
+      "translations": {
+        "ron": "Iar Esau a zis: \"Am vandut lui Iacov si i- am dat lui Iacov dreptul meu de nascut; Lui să-i fie dat, și n-am nici un cuvânt de spus cu privire la el, căci este al Lui"
+      }
     },
     {
       "num": 15,
@@ -1711,7 +1717,10 @@
           "t": "läʿalämə",
           "gl": ""
         }
-      ]
+      ],
+      "translations": {
+        "ron": "Iar Isaac a zis: \"Fie ca o binecuvântare să rămână peste voi, fiii mei, și peste sămânța voastră astăzi, căci voi Mi-ați dat odihnă și inima mea nu este îndurerată cu privire la dreptul de întâi născut, ca nu cumva să faceți răutate din pricina din ea"
+      }
     },
     {
       "num": 17,
@@ -1818,7 +1827,10 @@
           "t": "wänomu",
           "gl": ""
         }
-      ]
+      ],
+      "translations": {
+        "ron": "Și a sfârșit poruncindu-le și binecuvântându-i, și ei au mâncat și au băut împreună înaintea Lui, iar El s-a bucurat pentru că era un singur gând între ei, și ei au ieșit de la El, s-au odihnit în ziua aceea și au adormit"
+      }
     },
     {
       "num": 18,

@@ -954,7 +954,7 @@
         }
       ],
       "translations": {
-        "ron": "Și l-a chemat pe Iacov și a zis, fiul Meu Iacov, Dumnezeul tuturor celor 4 să te binecuvânteze și să te întărească ca să faci dreptate și voia Lui înaintea Lui, și să te aleagă pe tine și sămânța ta, ca să devii un popor pentru moștenirea Lui, după voia Lui. Și tu, fiul meu, Iacov, apropie-te și sărută-mă.\" 11. Si s-a apropiat si l-a sarutat si i-a zis: \"Binecuvântat să fie fiul meu Iacov și toți fiii lui Dumnezeu Cel Preaînalt, până în veci. Dumnezeu să-ți dea o sămânță a neprihănirii; Și pe unii din fiii tăi să-i sfințească în mijlocul întregului pământ; Fie ca națiunile să-Ți slujească, Și toate neamurile se pleacă înaintea seminței tale"
+        "ron": "Și l-a chemat pe Iacov și a zis, fiul Meu Iacov, Dumnezeul tuturor celor 4 să te binecuvânteze și să te întărească ca să faci dreptate și voia Lui înaintea Lui, și să te aleagă pe tine și sămânța ta, ca să devii un popor pentru moștenirea Lui, după voia Lui. Și tu, fiul meu, Iacov, apropie-te și sărută-mă"
       }
     },
     {
@@ -2030,7 +2030,7 @@
         }
       ],
       "translations": {
-        "ron": "Această casă am zidit-o pentru mine însumi, ca să-Mi pot pune [paragraful continuă] numele pe ea pe pământ: [îți este dată ție și seminției tale în veci], 2 și se va numi casa lui Avraam; ea îți este dată ție și seminței tale în veci; căci Tu vei zidi casa mea 3 și vei întări numele meu înaintea lui Dumnezeu în veac: sămânța ta și numele tău vor dăinui în toate generațiile pământului.\" 25. Si a incetat sa-i porunceasca 4 si sa-l binecuvanteze. 26 Cei doi stăteau împreună pe același pat, iar Iacov dormea în sânul lui Avraam, tatăl tatălui său, și el l-a sărutat de șapte ori, și dragostea și inima lui s-au bucurat pentru el"
+        "ron": "Această casă am zidit-o pentru mine însumi, ca să-Mi pot pune [paragraful continuă] numele pe ea pe pământ: [îți este dată ție și seminției tale în veci], 2 și se va numi casa lui Avraam; ea îți este dată ție și seminței tale în veci; căci Tu vei zidi casa mea 3 și vei întări numele meu înaintea lui Dumnezeu în veac: sămânța ta și numele tău vor dăinui în toate generațiile pământului"
       }
     },
     {
@@ -2288,7 +2288,10 @@
           "t": "läʿalämə",
           "gl": ""
         }
-      ]
+      ],
+      "translations": {
+        "ron": "Si a incetat sa-i porunceasca 4 si sa-l binecuvanteze. 26 Cei doi stăteau împreună pe același pat, iar Iacov dormea în sânul lui Avraam, tatăl tatălui său, și el l-a sărutat de șapte ori, și dragostea și inima lui s-au bucurat pentru el"
+      }
     },
     {
       "num": 28,
@@ -2415,7 +2418,10 @@
           "t": "zäläʿalämə",
           "gl": ""
         }
-      ]
+      ],
+      "translations": {
+        "ron": "Si l-a binecuvantat pe Iacov si a zis: \"Fiul meu, de care ma bucur din toata inima si afectiunea mea, fie ca harul si mila Ta sa înălță-1 totdeauna pe El și pe sămânța Lui"
+      }
     },
     {
       "num": 30,

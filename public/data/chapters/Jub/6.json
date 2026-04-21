@@ -749,7 +749,7 @@
         }
       ],
       "translations": {
-        "ron": "Dar carnea, împreună cu viața ei, cu sângele, să nu mâncați; căci viața oricărei făpturi este în sânge, ca să nu vi se ceară sângele din viața voastră. Din mâna fiecărui om, din mâna fiecăruia (fiară), voi cere sângele omului. 8, 8. Cine varsă sângele omului prin om, sângele lui va fi vărsat; căci după chipul lui Dumnezeu l-a făcut om. 9, 9. Creșteți, și înmulțiți-vă pe pământ.\" 10. Noe si fiii lui au jurat ca nu vor manca orice sânge care era în orice trup și a făcut un legământ înaintea Domnului Dumnezeu, în veci, în toate generațiile pământului, în această lună"
+        "ron": "Dar carnea, împreună cu viața ei, cu sângele, să nu mâncați; căci viața oricărei făpturi este în sânge, ca să nu vi se ceară sângele din viața voastră. Din mâna fiecărui om, din mâna fiecăruia (fiară), voi cere sângele omului. 8, 8. Cine varsă sângele omului prin om, sângele lui va fi vărsat; căci după chipul lui Dumnezeu l-a făcut om. 9, 9. Creșteți, și înmulțiți-vă pe pământ"
       }
     },
     {
@@ -889,7 +889,10 @@
           "t": "śəga",
           "gl": ""
         }
-      ]
+      ],
+      "translations": {
+        "ron": "Noe si fiii lui au jurat ca nu vor manca orice sânge care era în orice trup și a făcut un legământ înaintea Domnului Dumnezeu, în veci, în toate generațiile pământului, în această lună"
+      }
     },
     {
       "num": 11,

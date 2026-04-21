@@ -1009,7 +1009,7 @@
         }
       ],
       "translations": {
-        "ron": "Și a născocit un plan rău împotriva copiilor lui Israel, ca să-i chinuiască; și a zis poporului Egiptului: 13. \"Iată, poporul copiilor lui Israel a crescut și s-a înmulțit mai mult decât noi. Veniți și haideți să ne purtăm cu înțelepciune cu ei înainte de a deveni prea mulți, și haideți să-i chinuim cu sclavie înainte ca războiul să vină peste noi și înainte ca și ei să lupte împotriva noastră; altminteri, ei se vor uni cu vrăjmașii noștri și-i vor scoate din țara noastră, căci inimile și fețele lor sunt îndreptate spre țara Canaanului.\" 14. Și a pus peste ei stăpâni de sarcini ca să-i chinuiască cu robie; și au zidit 2 cetăți puternice pentru Faraon, Pithom și Raamses, și au zidit toate zidurile și toate cetățile care căzuseră în cetățile Egiptului"
+        "ron": "Și a născocit un plan rău împotriva copiilor lui Israel, ca să-i chinuiască; și a zis poporului Egiptului: 13. \"Iată, poporul copiilor lui Israel a crescut și s-a înmulțit mai mult decât noi. Veniți și haideți să ne purtăm cu înțelepciune cu ei înainte de a deveni prea mulți, și haideți să-i chinuim cu sclavie înainte ca războiul să vină peste noi și înainte ca și ei să lupte împotriva noastră; altminteri, ei se vor uni cu vrăjmașii noștri și-i vor scoate din țara noastră, căci inimile și fețele lor sunt îndreptate spre țara Canaanului"
       }
     },
     {
@@ -1229,7 +1229,10 @@
           "t": "bäqəne",
           "gl": ""
         }
-      ]
+      ],
+      "translations": {
+        "ron": "Și a pus peste ei stăpâni de sarcini ca să-i chinuiască cu robie; și au zidit 2 cetăți puternice pentru Faraon, Pithom și Raamses, și au zidit toate zidurile și toate cetățile care căzuseră în cetățile Egiptului"
+      }
     },
     {
       "num": 15,

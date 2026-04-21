@@ -444,7 +444,7 @@
         }
       ],
       "translations": {
-        "ron": "Și cum să nu fac lucrul acesta pe care mi l-ai poruncit, ca să-i cinstesc pe tatăl meu și pe fratele meu! 5. Spune-mi, mamă, ce perversitate ai văzut în mine și mă voi întoarce de la ea, și îndurarea va fi asupra mea.\" 6. Și ea i-a zis: \"Fiul meu, n-am văzut în tine în toate zilele mele nici o faptă stricată, ci (numai) fapte drepte. Și totuși îți voi spune adevărul, fiul meu: voi muri anul acesta și nu voi supraviețui acestui an în viața mea; căci am văzut într-un vis ziua morții mele, că nu voi trăi mai mult de o sută cincizeci și cinci de ani; și iată, am împlinit toate zilele vieții mele pe care trebuie să le trăiesc.\" 7. Și Iacov a râs de cuvintele mamei sale, pentru că mama lui îi spusese că trebuie să moară; și ea stătea în fața lui, în stăpânirea puterii ei, și nu era infirmă; căci ea a intrat și a ieșit și a văzut, și dinții ei erau puternici, și nici o boală nu o atinsese în toate zilele vieții ei"
+        "ron": "Și cum să nu fac lucrul acesta pe care mi l-ai poruncit, ca să-i cinstesc pe tatăl meu și pe fratele meu! 5. Spune-mi, mamă, ce perversitate ai văzut în mine și mă voi întoarce de la ea, și îndurarea va fi asupra mea"
       }
     },
     {
@@ -572,7 +572,10 @@
           "t": "bäḥəyəwätə",
           "gl": ""
         }
-      ]
+      ],
+      "translations": {
+        "ron": "Și ea i-a zis: \"Fiul meu, n-am văzut în tine în toate zilele mele nici o faptă stricată, ci (numai) fapte drepte. Și totuși îți voi spune adevărul, fiul meu: voi muri anul acesta și nu voi supraviețui acestui an în viața mea; căci am văzut într-un vis ziua morții mele, că nu voi trăi mai mult de o sută cincizeci și cinci de ani; și iată, am împlinit toate zilele vieții mele pe care trebuie să le trăiesc"
+      }
     },
     {
       "num": 7,
@@ -724,7 +727,10 @@
           "t": "ḥəyəwäta",
           "gl": ""
         }
-      ]
+      ],
+      "translations": {
+        "ron": "Și Iacov a râs de cuvintele mamei sale, pentru că mama lui îi spusese că trebuie să moară; și ea stătea în fața lui, în stăpânirea puterii ei, și nu era infirmă; căci ea a intrat și a ieșit și a văzut, și dinții ei erau puternici, și nici o boală nu o atinsese în toate zilele vieții ei"
+      }
     },
     {
       "num": 8,
@@ -853,7 +859,7 @@
         }
       ],
       "translations": {
-        "ron": "Și Iacov i-a zis: \"Binecuvântat sunt eu, mamă, dacă zilele mele se apropie de zilele vieții tale și puterea mea rămâne cu mine ca putere a ta; și tu nu vei muri, căci tu glumești cu mine cu privire la moartea ta.\" 9. Și ea s-a dus la Isaac și i-a zis: \"O singură cerere îți fac: fă-l pe Esau să jure că nu-l va răni pe Iacov și nu-l va urmări cu vrăjmășie; căci cunoști gândurile lui Esau, că sunt stricate din tinerețea lui și că nu este bunătate în el; căci el dorește ca după moartea ta să-l omoare"
+        "ron": "Și Iacov i-a zis: \"Binecuvântat sunt eu, mamă, dacă zilele mele se apropie de zilele vieții tale și puterea mea rămâne cu mine ca putere a ta; și tu nu vei muri, căci tu glumești cu mine cu privire la moartea ta"
       }
     },
     {
@@ -941,7 +947,10 @@
           "t": "bäṣäləʾə",
           "gl": ""
         }
-      ]
+      ],
+      "translations": {
+        "ron": "Și ea s-a dus la Isaac și i-a zis: \"O singură cerere îți fac: fă-l pe Esau să jure că nu-l va răni pe Iacov și nu-l va urmări cu vrăjmășie; căci cunoști gândurile lui Esau, că sunt stricate din tinerețea lui și că nu este bunătate în el; căci el dorește ca după moartea ta să-l omoare"
+      }
     },
     {
       "num": 10,
@@ -1175,7 +1184,7 @@
         }
       ],
       "translations": {
-        "ron": "Și el este amar împotriva ta, pentru că l-ai binecuvântat pe Iacov, fiul tău desăvârșit și neprihănit; căci nu este nici un rău, ci numai bunătate în El, și de când a venit de la Haran până în ziua de azi, El nu ne-a jefuit de nimic, căci El ne aduce totul la vremea lui întotdeauna, și Se bucură din toată inima când luăm mâinile Lui, și El ne binecuvântează, și nu S-a depărtat de noi de când a venit de la Haran până în ziua de azi, și El rămâne cu noi neîncetat acasă, cinstindu-ne.\" 13. Și Isaac i-a zis: \"Și eu cunosc și văd faptele lui Iacov, care este cu noi, cum ne cinstește din toată inima; dar mai înainte l-am iubit pe Esau mai mult decât pe Iacov, pentru că el era întâiul născut; dar acum îl iubesc pe Iacov mai mult decât pe Esau, căci el a făcut felurite fapte rele și nu este neprihănire în el, căci toate căile lui sunt nelegiuire și violență [și nu este neprihănire în jurul lui]"
+        "ron": "Și el este amar împotriva ta, pentru că l-ai binecuvântat pe Iacov, fiul tău desăvârșit și neprihănit; căci nu este nici un rău, ci numai bunătate în El, și de când a venit de la Haran până în ziua de azi, El nu ne-a jefuit de nimic, căci El ne aduce totul la vremea lui întotdeauna, și Se bucură din toată inima când luăm mâinile Lui, și El ne binecuvântează, și nu S-a depărtat de noi de când a venit de la Haran până în ziua de azi, și El rămâne cu noi neîncetat acasă, cinstindu-ne"
       }
     },
     {
@@ -1248,7 +1257,10 @@
           "t": "yakäbəränä",
           "gl": ""
         }
-      ]
+      ],
+      "translations": {
+        "ron": "Și Isaac i-a zis: \"Și eu cunosc și văd faptele lui Iacov, care este cu noi, cum ne cinstește din toată inima; dar mai înainte l-am iubit pe Esau mai mult decât pe Iacov, pentru că el era întâiul născut; dar acum îl iubesc pe Iacov mai mult decât pe Esau, căci el a făcut felurite fapte rele și nu este neprihănire în el, căci toate căile lui sunt nelegiuire și violență [și nu este neprihănire în jurul lui]"
+      }
     },
     {
       "num": 14,
@@ -1492,7 +1504,7 @@
         }
       ],
       "translations": {
-        "ron": "Dar dacă voiește să ucidă pe Iacov, fratele lui, în mâinile lui Iacov, i se va da și nu va scăpa din mâinile lui, [căci se va pogorî în mâinile lui.] 2 17. Și nu te teme din pricina lui Iacov; căci păzitorul 3 al lui Iacov este mare, puternic și cinstit și lăudat mai mult decât păzitorul lui Esau.\" 18. Și Rebecca a trimis și a chemat-o pe Esau, iar el a venit la ea, iar ea i-a spus: \"Am o cerere, fiul meu, să-ți fac și făgăduiește să o faci, fiul meu\""
+        "ron": "Dar dacă voiește să ucidă pe Iacov, fratele lui, în mâinile lui Iacov, i se va da și nu va scăpa din mâinile lui, [căci se va pogorî în mâinile lui.] 2 17. Și nu te teme din pricina lui Iacov; căci păzitorul 3 al lui Iacov este mare, puternic și cinstit și lăudat mai mult decât păzitorul lui Esau"
       }
     },
     {
@@ -1692,7 +1704,10 @@
           "t": "səʾəlätäki",
           "gl": ""
         }
-      ]
+      ],
+      "translations": {
+        "ron": "Și Rebecca a trimis și a chemat-o pe Esau, iar el a venit la ea, iar ea i-a spus: \"Am o cerere, fiul meu, să-ți fac și făgăduiește să o faci, fiul meu\""
+      }
     },
     {
       "num": 20,
@@ -1909,7 +1924,10 @@
           "t": "yafäqərukəmu",
           "gl": ""
         }
-      ]
+      ],
+      "translations": {
+        "ron": "Și ea i-a zis: \"Te rog ca în ziua în care voi muri, să mă iei și să mă îngropi lângă Sara, mama tatălui tău, și ca tu și Iacov să vă iubiți unul pe altul și ca nici unul să nu dorească răul împotriva celuilalt, ci numai dragostea reciprocă, și (astfel) veți prospera, fiii mei, și fiți cinstiți în mijlocul țării și nici un vrăjmaș nu se va bucura de voi, și veți fi o binecuvântare și o milă în ochii tuturor celor ce vă iubesc"
+      }
     },
     {
       "num": 21,
@@ -2016,7 +2034,10 @@
           "t": "ʾäʿəṣəmətiki",
           "gl": ""
         }
-      ]
+      ],
+      "translations": {
+        "ron": "Și el a zis: \"Voi face tot ce-mi vei spune și te voi îngropa în ziua în care vei muri lângă Sara, mama tatălui meu, așa cum ai dorit ca oasele ei să fie lângă oasele tale"
+      }
     },
     {
       "num": 22,
@@ -2437,7 +2458,7 @@
         }
       ],
       "translations": {
-        "ron": "Iar el a zis: \"Iti voi face placerea; crede-mă că nici un rău nu va ieși din mine sau din fiii mei împotriva lui Esau, și eu voi fi primul în nimic, decât numai în dragoste.\" 27. Și au mâncat și au băut, ea și fiii ei în noaptea aceea, și ea a murit, trei jubilee și o săptămână și un an, în noaptea aceea, și cei doi fii ai ei, Esau și Iacov, a îngropat-o în peștera dublă 1 lângă Sara, mama tatălui lor. Ultimele cuvinte și avertismente ale lui Isaac: moartea sa. Moartea lui Lea (xxxvi. 1-24)."
+        "ron": "Iar el a zis: \"Iti voi face placerea; crede-mă că nici un rău nu va ieși din mine sau din fiii mei împotriva lui Esau, și eu voi fi primul în nimic, decât numai în dragoste"
       }
     },
     {
@@ -2475,7 +2496,10 @@
           "t": "lelitə",
           "gl": ""
         }
-      ]
+      ],
+      "translations": {
+        "ron": "Și au mâncat și au băut, ea și fiii ei în noaptea aceea, și ea a murit, trei jubilee și o săptămână și un an, în noaptea aceea, și cei doi fii ai ei, Esau și Iacov, a îngropat-o în peștera dublă 1 lângă Sara, mama tatălui lor. Ultimele cuvinte și avertismente ale lui Isaac: moartea sa. Moartea lui Lea (xxxvi. 1-24)."
+      }
     }
   ]
 }

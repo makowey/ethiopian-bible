@@ -869,7 +869,7 @@
         }
       ],
       "translations": {
-        "ron": "Noe s-a sculat din somn și a știut tot ce îi făcuse fiul său mai mic, și-a blestemat fiul și a zis: \"Blestemat să fie Canaanul! un rob rob va fi el pentru frații săi.\" 3 11. El l-a binecuvântat pe Sem și a zis: \"Binecuvântat să fie Domnul Dumnezeul lui Sem, și Canaan va fi slujitorul lui"
+        "ron": "Noe s-a sculat din somn și a știut tot ce îi făcuse fiul său mai mic, și-a blestemat fiul și a zis: \"Blestemat să fie Canaanul! un rob rob va fi el pentru frații săi"
       }
     },
     {
@@ -912,7 +912,10 @@
           "t": "läsemə",
           "gl": ""
         }
-      ]
+      ],
+      "translations": {
+        "ron": "El l-a binecuvântat pe Sem și a zis: \"Binecuvântat să fie Domnul Dumnezeul lui Sem, și Canaan va fi slujitorul lui"
+      }
     },
     {
       "num": 12,
@@ -976,7 +979,7 @@
         }
       ],
       "translations": {
-        "ron": "Dumnezeu va mări pe Iafet, și Dumnezeu va locui în locuința lui Sem, și Canaan va fi slujitorul Lui.\" 4 13. Ham știa că tatăl său îl blestemase pe fiul său mai mic, și era nemulțumit că blestemase pe fiul său, și s-a despărțit de tatăl său, de el și de fiii săi împreună cu el, Cuș, Mițraim, Put și Canaan"
+        "ron": "Dumnezeu va mări pe Iafet, și Dumnezeu va locui în locuința lui Sem, și Canaan va fi slujitorul Lui"
       }
     },
     {
@@ -1044,7 +1047,10 @@
           "t": "läwälədu",
           "gl": ""
         }
-      ]
+      ],
+      "translations": {
+        "ron": "Ham știa că tatăl său îl blestemase pe fiul său mai mic, și era nemulțumit că blestemase pe fiul său, și s-a despărțit de tatăl său, de el și de fiii săi împreună cu el, Cuș, Mițraim, Put și Canaan"
+      }
     },
     {
       "num": 14,

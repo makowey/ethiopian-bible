@@ -189,7 +189,7 @@
         }
       ],
       "translations": {
-        "ron": "Acum, dar, fiul meu, ascultă glasul meu, scoală-te și fugi la Laban, fratele meu, la Haran, și rămâi cu el câteva zile, până când mânia fratelui tău se va îndepărta, iar el își va îndepărta mânia de la tine și va uita tot ce ai făcut; atunci te voi trimite și te voi aduce de acolo.\" 4. Iar Iacov a zis: \"Nu mă tem; dacă vrea să mă omoare, îl voi omorî.\" 5. Dar ea i-a zis: \"Să nu fiu lipsită de amândoi fii ai mei într-o singură zi.\" 6. Iar Iacov a zis Rebecăi, mama lui: \"Iată, tu știi că tatăl meu a îmbătrânit și nu vezi, pentru că ochii lui sunt plictisitori și, dacă îl părăsesc, va fi rău în ochii lui, pentru că îl părăsesc și mă îndepărtez de tine, iar tatăl meu se va mânia și mă va blestema. Nu voi merge; 1 Când Mă va alunga, numai atunci Mă voi duce.\" 7. Rebeca i-a zis lui Iacov: \"Voi intra si ii voi vorbi, iar el te va trimite.\" 8. Rebeca a intrat și i-a zis lui Isaac: \"Îmi urăsc viața din pricina celor două fiice ale lui Het, pe care Esau i le-a luat de nevastă; și dacă Iacov își ia o nevastă dintre fiicele țării ca acestea, cu ce scop trăiesc mai departe; căci fiicele Canaanului sunt rele.\" 1 9. Isaac l-a chemat pe Iacov, l-a binecuvântat, l-a mustrat și i-a zis: 10. \"Să nu te iei de nevastă din nici una din fiicele Canaanului; scoală-te și du-te în Mesopotamia, la casa lui Betuel, tatăl mamei tale, și ia-ți de acolo o nevastă din fiicele lui Laban, fratele mamei tale"
+        "ron": "Acum, dar, fiul meu, ascultă glasul meu, scoală-te și fugi la Laban, fratele meu, la Haran, și rămâi cu el câteva zile, până când mânia fratelui tău se va îndepărta, iar el își va îndepărta mânia de la tine și va uita tot ce ai făcut; atunci te voi trimite și te voi aduce de acolo"
       }
     },
     {
@@ -267,7 +267,10 @@
           "t": "ʿəlätə",
           "gl": ""
         }
-      ]
+      ],
+      "translations": {
+        "ron": "Iar Iacov a zis: \"Nu mă tem; dacă vrea să mă omoare, îl voi omorî"
+      }
     },
     {
       "num": 6,
@@ -389,7 +392,10 @@
           "t": "ʾəmənekəmu",
           "gl": ""
         }
-      ]
+      ],
+      "translations": {
+        "ron": "Iar Iacov a zis Rebecăi, mama lui: \"Iată, tu știi că tatăl meu a îmbătrânit și nu vezi, pentru că ochii lui sunt plictisitori și, dacă îl părăsesc, va fi rău în ochii lui, pentru că îl părăsesc și mă îndepărtez de tine, iar tatăl meu se va mânia și mă va blestema. Nu voi merge; 1 Când Mă va alunga, numai atunci Mă voi duce"
+      }
     },
     {
       "num": 7,
@@ -431,7 +437,10 @@
           "t": "wäyəfenəwäkä",
           "gl": ""
         }
-      ]
+      ],
+      "translations": {
+        "ron": "Rebeca i-a zis lui Iacov: \"Voi intra si ii voi vorbi, iar el te va trimite"
+      }
     },
     {
       "num": 8,
@@ -508,7 +517,10 @@
           "t": "ʾänəsətəya",
           "gl": ""
         }
-      ]
+      ],
+      "translations": {
+        "ron": "Rebeca a intrat și i-a zis lui Isaac: \"Îmi urăsc viața din pricina celor două fiice ale lui Het, pe care Esau i le-a luat de nevastă; și dacă Iacov își ia o nevastă dintre fiicele țării ca acestea, cu ce scop trăiesc mai departe; căci fiicele Canaanului sunt rele"
+      }
     },
     {
       "num": 9,
@@ -655,7 +667,10 @@
           "t": "läʾəməkä",
           "gl": ""
         }
-      ]
+      ],
+      "translations": {
+        "ron": "Isaac l-a chemat pe Iacov, l-a binecuvântat, l-a mustrat și i-a zis: 10. \"Să nu te iei de nevastă din nici una din fiicele Canaanului; scoală-te și du-te în Mesopotamia, la casa lui Betuel, tatăl mamei tale, și ia-ți de acolo o nevastă din fiicele lui Laban, fratele mamei tale"
+      }
     },
     {
       "num": 11,
@@ -804,7 +819,7 @@
         }
       ],
       "translations": {
-        "ron": "Și Dumnezeu Atotputernic să te binecuvânteze, să te mărească și să te înmulțească ca să devii o companie de națiuni și să-ți dea binecuvântările tatălui meu Avraam, ție și seminței tale după tine, ca să poți moșteni țara șederilor tale și toată țara pe care Dumnezeu i-a dat-o lui Avraam: du-te, fiul meu, în pace.\" 12. Isaac l-a trimis pe Iacov si s-a dus in Mesopotamia, la Laban, fiul lui Betuel Sirul, fratele Rebecai, mama lui Iacov"
+        "ron": "Și Dumnezeu Atotputernic să te binecuvânteze, să te mărească și să te înmulțească ca să devii o companie de națiuni și să-ți dea binecuvântările tatălui meu Avraam, ție și seminței tale după tine, ca să poți moșteni țara șederilor tale și toată țara pe care Dumnezeu i-a dat-o lui Avraam: du-te, fiul meu, în pace"
       }
     },
     {
@@ -887,7 +902,10 @@
           "t": "läyaʿəqobə",
           "gl": ""
         }
-      ]
+      ],
+      "translations": {
+        "ron": "Isaac l-a trimis pe Iacov si s-a dus in Mesopotamia, la Laban, fiul lui Betuel Sirul, fratele Rebecai, mama lui Iacov"
+      }
     },
     {
       "num": 13,
@@ -1223,7 +1241,7 @@
         }
       ],
       "translations": {
-        "ron": "Nu te teme din pricina lui, sora mea, căci el este pe calea dreaptă și este un om desăvârșit; și este credincios și nu va pieri. Nu plânge.\" 18. Isaac a mângâiat-o pe Rebeca datorită fiului ei Iacov și l-a binecuvântat"
+        "ron": "Nu te teme din pricina lui, sora mea, căci el este pe calea dreaptă și este un om desăvârșit; și este credincios și nu va pieri. Nu plânge"
       }
     },
     {
@@ -1266,7 +1284,10 @@
           "t": "wäbaräko",
           "gl": ""
         }
-      ]
+      ],
+      "translations": {
+        "ron": "Isaac a mângâiat-o pe Rebeca datorită fiului ei Iacov și l-a binecuvântat"
+      }
     },
     {
       "num": 19,
@@ -1900,7 +1921,7 @@
         }
       ],
       "translations": {
-        "ron": "Și iată, Eu voi fi cu tine și te voi păzi oriunde vei merge și te voi aduce iarăși în această țară în pace; căci nu te voi părăsi până nu voi face tot ce-ți voi spune.\" 25. Iacov s-a sculat din somn si a zis: \"Cu adevarat, locul acesta este Casa Domnului, si eu n-am cunoscut.\" Și s-a temut și a zis: \"Înfricoșătoare este locul acesta, care nu este altul decât casa lui Dumnezeu, și aceasta este poarta cerului.\" 26. Iacov s-a sculat dis-de-dimineață și a luat piatra pe care i-o pusese sub cap și a așezat-o ca pe un stâlp pentru un semn și a turnat untdelemn deasupra ei. Și a numit locul acela Betel; dar numele locului a fost Luz la început"
+        "ron": "Și iată, Eu voi fi cu tine și te voi păzi oriunde vei merge și te voi aduce iarăși în această țară în pace; căci nu te voi părăsi până nu voi face tot ce-ți voi spune"
       }
     },
     {
@@ -2023,7 +2044,10 @@
           "t": "sämayə",
           "gl": ""
         }
-      ]
+      ],
+      "translations": {
+        "ron": "Iacov s-a sculat din somn si a zis: \"Cu adevarat, locul acesta este Casa Domnului, si eu n-am cunoscut.\" Și s-a temut și a zis: \"Înfricoșătoare este locul acesta, care nu este altul decât casa lui Dumnezeu, și aceasta este poarta cerului"
+      }
     },
     {
       "num": 26,
@@ -2155,7 +2179,10 @@
           "t": "bəḥeru",
           "gl": ""
         }
-      ]
+      ],
+      "translations": {
+        "ron": "Iacov s-a sculat dis-de-dimineață și a luat piatra pe care i-o pusese sub cap și a așezat-o ca pe un stâlp pentru un semn și a turnat untdelemn deasupra ei. Și a numit locul acela Betel; dar numele locului a fost Luz la început"
+      }
     },
     {
       "num": 27,

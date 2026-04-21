@@ -909,7 +909,7 @@
         }
       ],
       "translations": {
-        "ron": "Și în acele zile, dacă un om trăiește un jubileu și jumătate de ani, ei vor spune cu privire la el: \"El a trăit mult, și cea mai mare parte a zilelor lui sunt durere și tristețe și Necazul, 1 Și nu este pace: 13. Căci nenorocirea urmează nenorocirii, și rană peste rană, și necaz peste necaz, și vești rele peste vești rele, și boală peste boală, și toate judecățile rele ca acestea, una cu alta, boală și răsturnare, zăpadă și îngheț și gheață, febră, frisoane, toropeală, foamete, moarte, sabie și robie, și tot felul de calamități și dureri.\" 2 14. Și toți aceștia vor veni peste un neam rău, care păcătuiește pe pământ: lucrările lor sunt necurăția și curvia, întinăciunea și urâciunile"
+        "ron": "Și în acele zile, dacă un om trăiește un jubileu și jumătate de ani, ei vor spune cu privire la el: \"El a trăit mult, și cea mai mare parte a zilelor lui sunt durere și tristețe și Necazul, 1 Și nu este pace: 13. Căci nenorocirea urmează nenorocirii, și rană peste rană, și necaz peste necaz, și vești rele peste vești rele, și boală peste boală, și toate judecățile rele ca acestea, una cu alta, boală și răsturnare, zăpadă și îngheț și gheață, febră, frisoane, toropeală, foamete, moarte, sabie și robie, și tot felul de calamități și dureri"
       }
     },
     {
@@ -982,7 +982,10 @@
           "t": "gəbəromu",
           "gl": ""
         }
-      ]
+      ],
+      "translations": {
+        "ron": "Și toți aceștia vor veni peste un neam rău, care păcătuiește pe pământ: lucrările lor sunt necurăția și curvia, întinăciunea și urâciunile"
+      }
     },
     {
       "num": 15,
@@ -1041,7 +1044,7 @@
         }
       ],
       "translations": {
-        "ron": "Atunci vor spune: \"Zilele strămoșilor au fost multe (chiar), până la o mie de ani, și au fost bune; dar, iată, zilele vieții noastre, dacă un om a trăit multe, sunt de trei zeci de ani și zece, și, dacă este puternic, de patru zeci de ani, iar cei răi 4 și nu este pace în zilele acestui neam rău.\" 16. Și în acea generație fiii vor convinge pe părinții lor și pe bătrânii lor de păcat și nelegiuire5 și de cuvintele gurii lor și de marile răutăți pe care le comit și cu privire la părăsirea legământului 6 pe care Domnul l-a făcut între ei și El, pentru ca ei să păzească și să împlinească toate poruncile Sale, rânduielile Sale și toate legile Sale, fără a se îndepărta nici la dreapta, nici la stânga"
+        "ron": "Atunci vor spune: \"Zilele strămoșilor au fost multe (chiar), până la o mie de ani, și au fost bune; dar, iată, zilele vieții noastre, dacă un om a trăit multe, sunt de trei zeci de ani și zece, și, dacă este puternic, de patru zeci de ani, iar cei răi 4 și nu este pace în zilele acestui neam rău"
       }
     },
     {
@@ -1149,7 +1152,10 @@
           "t": "yəgäbəru",
           "gl": ""
         }
-      ]
+      ],
+      "translations": {
+        "ron": "Și în acea generație fiii vor convinge pe părinții lor și pe bătrânii lor de păcat și nelegiuire5 și de cuvintele gurii lor și de marile răutăți pe care le comit și cu privire la părăsirea legământului 6 pe care Domnul l-a făcut între ei și El, pentru ca ei să păzească și să împlinească toate poruncile Sale, rânduielile Sale și toate legile Sale, fără a se îndepărta nici la dreapta, nici la stânga"
+      }
     },
     {
       "num": 17,

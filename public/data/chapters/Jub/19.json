@@ -1977,7 +1977,10 @@
           "t": "tänagäräni",
           "gl": ""
         }
-      ]
+      ],
+      "translations": {
+        "ron": "El a chemat pe Iacov înaintea ochilor Rebecăi, mama lui, l-a [paragraful continuă] sărutat, l-a binecuvântat și i-a zis: 27. \"Iacov, fiul meu preaiubit, pe care-l iubește sufletul meu, fie ca Dumnezeu să te binecuvânteze de deasupra întinderii și să-ți dea toate binecuvântările cu care i-a binecuvântat pe Adam, pe Enoh, pe Noe și pe Sem; și toate lucrurile despre care mi-a spus și toate lucrurile pe care mi-a făgăduit să mi le dea, fie ca El să se lipească de tine și de sămânța ta în veci, potrivit zilelor cerului deasupra pământului"
+      }
     },
     {
       "num": 28,
@@ -2121,7 +2124,7 @@
         }
       ],
       "translations": {
-        "ron": "Și Domnul Dumnezeu să-ți fie tată ție și tu, fiul întâi născut, și poporului întotdeauna. Du-te în pace, fiul meu.\" 30. Si amandoi au iesit impreuna din Avraam"
+        "ron": "Și Domnul Dumnezeu să-ți fie tată ție și tu, fiul întâi născut, și poporului întotdeauna. Du-te în pace, fiul meu"
       }
     },
     {
@@ -2234,7 +2237,10 @@
           "t": "ʾəməyaʿəqobə",
           "gl": ""
         }
-      ]
+      ],
+      "translations": {
+        "ron": "Si amandoi au iesit impreuna din Avraam"
+      }
     }
   ],
   "note": "Sarah's death, burial at Machpelah, and the search for Isaac's wife. Jubilees adds Rebecca's oracle and a blessing that explicitly transfers the Abrahamic covenant."

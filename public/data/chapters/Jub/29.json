@@ -119,7 +119,7 @@
         }
       ],
       "translations": {
-        "ron": "Căci El le-a spus cum văzuse totul într-un vis, chiar tot ceea ce îi spusese ca să se întoarcă la casa tatălui său; și ei au zis: \"În orice loc unde vei merge vom merge cu tine.\" 4. Iacov a binecuvantat pe Dumnezeul lui Isaac, tatal lui, si pe Dumnezeul lui Avraam, tatal lui, si el s-a sculat, a calare pe nevestele si pe copiii sai, si-a luat toate averile si a trecut raul si a venit in tara Galaadului, si Iacov si-a ascuns intentia de Laban și i-a spus că nu"
+        "ron": "Căci El le-a spus cum văzuse totul într-un vis, chiar tot ceea ce îi spusese ca să se întoarcă la casa tatălui său; și ei au zis: \"În orice loc unde vei merge vom merge cu tine"
       }
     },
     {
@@ -172,7 +172,10 @@
           "t": "läʾäbuhu",
           "gl": ""
         }
-      ]
+      ],
+      "translations": {
+        "ron": "Iacov a binecuvantat pe Dumnezeul lui Isaac, tatal lui, si pe Dumnezeul lui Avraam, tatal lui, si el s-a sculat, a calare pe nevestele si pe copiii sai, si-a luat toate averile si a trecut raul si a venit in tara Galaadului, si Iacov si-a ascuns intentia de Laban și i-a spus că nu"
+      }
     },
     {
       "num": 5,

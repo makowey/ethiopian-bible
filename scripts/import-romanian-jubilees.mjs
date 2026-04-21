@@ -193,7 +193,7 @@ function splitVerses(text) {
 
   // The verse separator regex: `. [footnote?] N. [footnote?] UPPERCASE`
   // Footnote numbers can appear both before and after the verse number.
-  const sepRE = /\.\s+(?:\d+\s+)?(\d+)\.\s+(?:\d+\s+)?(?=[A-ZȘȚĂÎÂ"„])/g
+  const sepRE = /\.[""]?\s+(?:\d+\s+)?(\d+)\s*\.\s+(?:\d+\s+)?(?=[A-ZȘȚĂÎÂ"„])/g
   const breaks = []
   let m
   while ((m = sepRE.exec(stripped)) !== null) {

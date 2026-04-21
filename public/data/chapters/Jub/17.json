@@ -329,7 +329,7 @@
         }
       ],
       "translations": {
-        "ron": "Sara l-a văzut pe Ismael jucându-se și dansând 6 și pe Avraam bucurându-se cu mare bucurie, s-a gelos pe Ismael și i-a zis lui Avraam: \"Alungă roaba aceasta și pe fiul ei; căci fiul acestei robi nu va moșteni împreună cu fiul meu, Isaac.\" 5. Și lucrul acesta a fost dureros înaintea lui Avraam, din pricina robului său și din pricina fiului său, ca să-i izgonească de la el"
+        "ron": "Sara l-a văzut pe Ismael jucându-se și dansând 6 și pe Avraam bucurându-se cu mare bucurie, s-a gelos pe Ismael și i-a zis lui Avraam: \"Alungă roaba aceasta și pe fiul ei; căci fiul acestei robi nu va moșteni împreună cu fiul meu, Isaac"
       }
     },
     {
@@ -397,7 +397,10 @@
           "t": "ʾəməḫäbehu",
           "gl": ""
         }
-      ]
+      ],
+      "translations": {
+        "ron": "Și lucrul acesta a fost dureros înaintea lui Avraam, din pricina robului său și din pricina fiului său, ca să-i izgonească de la el"
+      }
     },
     {
       "num": 6,
@@ -586,7 +589,7 @@
         }
       ],
       "translations": {
-        "ron": "Cât despre fiul robei acesteia, îl voi face un neam mare de 7, pentru că este din sămânța ta.\" 8. Avraam s-a sculat dis-de-dimineață și a luat pâine și o sticlă cu apă, le-a pus pe umerii lui Agar și ai copilului și a alungat-o"
+        "ron": "Cât despre fiul robei acesteia, îl voi face un neam mare de 7, pentru că este din sămânța ta"
       }
     },
     {
@@ -709,7 +712,10 @@
           "t": "wäwädəqä",
           "gl": ""
         }
-      ]
+      ],
+      "translations": {
+        "ron": "Avraam s-a sculat dis-de-dimineață și a luat pâine și o sticlă cu apă, le-a pus pe umerii lui Agar și ai copilului și a alungat-o"
+      }
     },
     {
       "num": 10,
@@ -928,7 +934,7 @@
         }
       ],
       "translations": {
-        "ron": "Și un înger al lui Dumnezeu, unul din sfinții, i-a zis: \"De ce plângi, Agar? Scoală-te, ia copilul și ține-l în mâna ta; căci Dumnezeu ți-a auzit glasul și a văzut copilul.\" 12. Și ea 2 și-a deschis ochii și a văzut un izvor de apă, s-a dus și și-a umplut sticla cu apă și i-a dat copilului să bea, și ea s-a sculat și s-a dus spre pustia Paran"
+        "ron": "Și un înger al lui Dumnezeu, unul din sfinții, i-a zis: \"De ce plângi, Agar? Scoală-te, ia copilul și ține-l în mâna ta; căci Dumnezeu ți-a auzit glasul și a văzut copilul"
       }
     },
     {
@@ -991,7 +997,10 @@
           "t": "ḥəṣ́ana",
           "gl": ""
         }
-      ]
+      ],
+      "translations": {
+        "ron": "Și ea 2 și-a deschis ochii și a văzut un izvor de apă, s-a dus și și-a umplut sticla cu apă și i-a dat copilului să bea, și ea s-a sculat și s-a dus spre pustia Paran"
+      }
     },
     {
       "num": 13,

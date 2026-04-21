@@ -399,7 +399,7 @@
         }
       ],
       "translations": {
-        "ron": "Îmi este de ajuns că ți-am văzut fața în timp ce †sunt† 3 încă în viață; Da, adevărată este vedenia pe care am văzut-o la Betel. Binecuvântat să fie Doamne, Dumnezeul meu, în vecii vecilor, și binecuvântat să fie [paragraful continuă] Numele Lui.\" 5. Iosif si fratii lui au mancat paine inaintea tatalui lor si au baut vin, si Iacov s-a bucurat cu mare bucurie pentru ca l-a vazut pe Iosif mancand cu fratii sai si band inaintea lui, si a binecuvantat pe Creatorul tuturor lucrurilor, care il pastrase si pastrase pentru el pe cei doisprezece fii ai sai. 6. 1Iosif dăduse în dar tatălui său și fraților săi dreptul de a locui în țara Gosen, în Ramses și în toată ținutul dimprejur, peste care domnea înaintea lui Faraon. Israel și fiii lui locuiau în țara Gosen, cea mai bună parte a țării Egiptului; și Israel avea o sută treizeci de ani când a intrat în Egipt, 7. Iosif a hrănit pe tatăl său și pe frații săi, precum și averile lor cu pâine cât le-a fost de ajuns2 pentru cei șapte ani de foamete"
+        "ron": "Îmi este de ajuns că ți-am văzut fața în timp ce †sunt† 3 încă în viață; Da, adevărată este vedenia pe care am văzut-o la Betel. Binecuvântat să fie Doamne, Dumnezeul meu, în vecii vecilor, și binecuvântat să fie [paragraful continuă] Numele Lui"
       }
     },
     {
@@ -472,7 +472,10 @@
           "t": "ṭəqä",
           "gl": ""
         }
-      ]
+      ],
+      "translations": {
+        "ron": "Iosif si fratii lui au mancat paine inaintea tatalui lor si au baut vin, si Iacov s-a bucurat cu mare bucurie pentru ca l-a vazut pe Iosif mancand cu fratii sai si band inaintea lui, si a binecuvantat pe Creatorul tuturor lucrurilor, care il pastrase si pastrase pentru el pe cei doisprezece fii ai sai. 6. 1Iosif dăduse în dar tatălui său și fraților săi dreptul de a locui în țara Gosen, în Ramses și în toată ținutul dimprejur, peste care domnea înaintea lui Faraon. Israel și fiii lui locuiau în țara Gosen, cea mai bună parte a țării Egiptului; și Israel avea o sută treizeci de ani când a intrat în Egipt, 7. Iosif a hrănit pe tatăl său și pe frații săi, precum și averile lor cu pâine cât le-a fost de ajuns2 pentru cei șapte ani de foamete"
+      }
     },
     {
       "num": 6,

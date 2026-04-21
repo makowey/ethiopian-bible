@@ -1073,7 +1073,7 @@
         }
       ],
       "translations": {
-        "ron": "Și veți fi pentru o binecuvântare 7 pe pământ, și toate neamurile pământului vă vor dori, și binecuvântați pe fiii voștri în Numele Meu, pentru ca ei să fie binecuvântați ca și Mine.\" 11. El a dat daruri lui Ismael, fiilor lui si fiilor lui Ketura, si i-a trimis departe de Isaac, fiul sau, si a dat totul lui Isaac, fiul sau. 8 Ketura (cf. Gen. xvii. 9f.). \"Observați omiterea urmașilor lui Esau. Potrivit lui Pirḳe de R. Eliezer xxix., Esau, deși fusese circumcis, \"disprețuia circumcizia\" (dreptul său de întâi născut). urmau să fie uciși cu pietre (cf. Lev. XXI. 9, XX. 10). Locuințele ismaeliților și ale fiilor lui Keturah (xx. 12-13)"
+        "ron": "Și veți fi pentru o binecuvântare 7 pe pământ, și toate neamurile pământului vă vor dori, și binecuvântați pe fiii voștri în Numele Meu, pentru ca ei să fie binecuvântați ca și Mine"
       }
     },
     {
@@ -1246,7 +1246,10 @@
           "t": "gädamə",
           "gl": ""
         }
-      ]
+      ],
+      "translations": {
+        "ron": "El a dat daruri lui Ismael, fiilor lui si fiilor lui Ketura, si i-a trimis departe de Isaac, fiul sau, si a dat totul lui Isaac, fiul sau. 8 Ketura (cf. Gen. xvii. 9f.). \"Observați omiterea urmașilor lui Esau. Potrivit lui Pirḳe de R. Eliezer xxix., Esau, deși fusese circumcis, \"disprețuia circumcizia\" (dreptul său de întâi născut). urmau să fie uciși cu pietre (cf. Lev. XXI. 9, XX. 10). Locuințele ismaeliților și ale fiilor lui Keturah (xx. 12-13)"
+      }
     },
     {
       "num": 13,

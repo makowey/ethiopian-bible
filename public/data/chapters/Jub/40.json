@@ -459,7 +459,7 @@
         }
       ],
       "translations": {
-        "ron": "Și acum, Faraon să numească supraveghetori 1 în toată țara Egiptului, și să strângă hrană în fiecare cetate de-a lungul zilelor anilor de belșug, și va fi hrană pentru cei șapte ani de foamete, și țara nu va pieri din cauza foametei, căci va fi foarte grea.\" 5. Și Domnul i-a dat lui Iosif favoare și milă în ochii lui Faraon, și Faraon a zis slujitorilor săi: \"Nu vom găsi un om atât de înțelept și de prevăzător ca acest om, căci spiritul Domnului este cu el.\" 6. L-a numit al doilea în toată împărăția lui și i-a dat stăpânire peste tot Egiptul și l-a făcut să călărească în al doilea car al lui Faraon"
+        "ron": "Și acum, Faraon să numească supraveghetori 1 în toată țara Egiptului, și să strângă hrană în fiecare cetate de-a lungul zilelor anilor de belșug, și va fi hrană pentru cei șapte ani de foamete, și țara nu va pieri din cauza foametei, căci va fi foarte grea"
       }
     },
     {
@@ -572,7 +572,10 @@
           "t": "məsəlehu",
           "gl": ""
         }
-      ]
+      ],
+      "translations": {
+        "ron": "Și Domnul i-a dat lui Iosif favoare și milă în ochii lui Faraon, și Faraon a zis slujitorilor săi: \"Nu vom găsi un om atât de înțelept și de prevăzător ca acest om, căci spiritul Domnului este cu el"
+      }
     },
     {
       "num": 6,
@@ -649,7 +652,10 @@
           "t": "zäfärəʿonə",
           "gl": ""
         }
-      ]
+      ],
+      "translations": {
+        "ron": "L-a numit al doilea în toată împărăția lui și i-a dat stăpânire peste tot Egiptul și l-a făcut să călărească în al doilea car al lui Faraon"
+      }
     },
     {
       "num": 7,
@@ -698,7 +704,7 @@
         }
       ],
       "translations": {
-        "ron": "Și l-a îmbrăcat cu haine byssus, și el i-a pus un lanț de aur la gât, și (un vestitor) a proclamat înaintea lui \"'Êl 'Êl wa' Abîrĕr,\" 2 și el i-a pus un inel pe mână și l-a pus conducător peste toată casa lui, și l-a mărit, și i-a spus: \"Numai pe tron voi fi mai mare decât tine.\" 8. Iosif a domnit peste toata tara Egiptului si peste toti capetele lui Faraon si peste toti slujitorii lui si toti cei ce faceau treburile regelui il iubeau, umbla in dreptate, era fara mandrie si fara truga, fara respect fata de persoane si nu primea daruri, ci judeca cu dreptate pe tot poporul tarii"
+        "ron": "Și l-a îmbrăcat cu haine byssus, și el i-a pus un lanț de aur la gât, și (un vestitor) a proclamat înaintea lui \"'Êl 'Êl wa' Abîrĕr,\" 2 și el i-a pus un inel pe mână și l-a pus conducător peste toată casa lui, și l-a mărit, și i-a spus: \"Numai pe tron voi fi mai mare decât tine"
       }
     },
     {
@@ -791,7 +797,10 @@
           "t": "nəguśə",
           "gl": ""
         }
-      ]
+      ],
+      "translations": {
+        "ron": "Iosif a domnit peste toata tara Egiptului si peste toti capetele lui Faraon si peste toti slujitorii lui si toti cei ce faceau treburile regelui il iubeau, umbla in dreptate, era fara mandrie si fara truga, fara respect fata de persoane si nu primea daruri, ci judeca cu dreptate pe tot poporul tarii"
+      }
     },
     {
       "num": 9,

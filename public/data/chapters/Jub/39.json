@@ -454,7 +454,7 @@
         }
       ],
       "translations": {
-        "ron": "Și femeia a văzut că el nu vrea să se culce cu ea, și l-a calomniat în prezența domnului său, zicând: \"Robul tău evreu, pe care-l iubești, a căutat să mă silească ca să se culce cu mine; și s-a întâmplat că, atunci când mi-am ridicat glasul, el a fugit și și-a lăsat haina în mâinile mele când l-am ținut în brațe, iar el a frânt prin ușă.\" 11. Egipteanul a vazut haina lui Iosif si usa sparta, a auzit cuvintele nevestei sale si l-a aruncat pe Iosif in temnita in locul unde erau tinuti prizonierii pe care imprastiat impreuna"
+        "ron": "Și femeia a văzut că el nu vrea să se culce cu ea, și l-a calomniat în prezența domnului său, zicând: \"Robul tău evreu, pe care-l iubești, a căutat să mă silească ca să se culce cu mine; și s-a întâmplat că, atunci când mi-am ridicat glasul, el a fugit și și-a lăsat haina în mâinile mele când l-am ținut în brațe, iar el a frânt prin ușă"
       }
     },
     {
@@ -492,7 +492,10 @@
           "t": "səburä",
           "gl": ""
         }
-      ]
+      ],
+      "translations": {
+        "ron": "Egipteanul a vazut haina lui Iosif si usa sparta, a auzit cuvintele nevestei sale si l-a aruncat pe Iosif in temnita in locul unde erau tinuti prizonierii pe care imprastiat impreuna"
+      }
     },
     {
       "num": 12,

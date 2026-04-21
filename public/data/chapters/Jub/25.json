@@ -479,7 +479,7 @@
         }
       ],
       "translations": {
-        "ron": "Și acum, fiul meu, ascultă glasul meu și fă voia mamei tale și nu- A.M. ți lua o nevastă din fiicele acestei țări, ci numai din casa tatălui meu și din neamul tatălui meu. Îți vei lua o nevastă din casa tatălui meu, și Dumnezeul cel Preaînalt te va binecuvânta, iar copiii tăi vor fi un neam neprihănit și o sămânță sfântă.\" 4. Apoi a vorbit Iacov către Rebeca, mama lui, și i-a zis: \"Iată, mamă, am nouă săptămâni 4 ani și nici nu știu, nici nu m-am atins de vreo femeie, nici nu m-am logodit cu vreuna, nici măcar nu mă gândesc să-mi iau o nevastă din fiicele Canaanului"
+        "ron": "Și acum, fiul meu, ascultă glasul meu și fă voia mamei tale și nu- A.M. ți lua o nevastă din fiicele acestei țări, ci numai din casa tatălui meu și din neamul tatălui meu. Îți vei lua o nevastă din casa tatălui meu, și Dumnezeul cel Preaînalt te va binecuvânta, iar copiii tăi vor fi un neam neprihănit și o sămânță sfântă"
       }
     },
     {
@@ -817,7 +817,10 @@
           "t": "bəʾəsitä",
           "gl": ""
         }
-      ]
+      ],
+      "translations": {
+        "ron": "Apoi a vorbit Iacov către Rebeca, mama lui, și i-a zis: \"Iată, mamă, am nouă săptămâni 4 ani și nici nu știu, nici nu m-am atins de vreo femeie, nici nu m-am logodit cu vreuna, nici măcar nu mă gândesc să-mi iau o nevastă din fiicele Canaanului"
+      }
     },
     {
       "num": 7,
@@ -1364,7 +1367,10 @@
           "t": "ʿalämə",
           "gl": ""
         }
-      ]
+      ],
+      "translations": {
+        "ron": "Atunci și-a ridicat fața spre cer, și-a întins degetele mâinilor, și-a deschis gura și a binecuvântat pe Dumnezeul Cel Preaînalt, care făcuse cerul și pământul, și I-a mulțumit și L-a lăudat"
+      }
     },
     {
       "num": 13,
@@ -1488,7 +1494,7 @@
         }
       ],
       "translations": {
-        "ron": "Binecuvântează-l, Doamne, și pune în gura mea binecuvântarea neprihănirii, ca să-l binecuvântez.\" 14. Și în ceasul acela, când Duhul dreptății 2 S-a pogorât în gura ei, ea și-a pus amândouă mâinile pe capul lui Iacov și a zis: 15. \"Binecuvântat ești, Domnul neprihănirii și Dumnezeul veacurilor; Și fie ca El să te binecuvânteze mai presus de toate generațiile oamenilor. Fie ca El să-ți dea, fiul meu, calea neprihănirii și să descopere neprihănirea seminței tale"
+        "ron": "Binecuvântează-l, Doamne, și pune în gura mea binecuvântarea neprihănirii, ca să-l binecuvântez"
       }
     },
     {

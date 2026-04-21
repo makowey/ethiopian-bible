@@ -2114,7 +2114,7 @@
         }
       ],
       "translations": {
-        "ron": "Și El ne-a spus: \"Iată, Eu voi despărți pentru Mine 2 un popor dintre toate popoarele și aceștia vor păzi ziua de sabat și îi voi sfinți pentru Mine ca popor al Meu și îi voi binecuvânta; după cum Eu am sfințit ziua de sabat și o sfințesc pentru Mine Însumi, tot așa îi voi binecuvânta și ei vor fi poporul Meu și Eu voi fi Dumnezeul lor. 20 . Și Eu am ales sămânța lui Iacov 3 din tot ce am văzut și l-am scris ca fiind fiul Meu întâi născut, 4 și l-am sfințit pentru Mine în vecii vecilor; și îi voi învăța ziua Sabatului, ca să păzească Sabatul departe de orice lucrare.\" 21. Și astfel El a făcut în ea un semn 5 în care ei să țină Sabatul cu noi 6 în ziua a șaptea, să mănânce și să bea și să- L binecuvânteze pe Cel 7 care a creat toate lucrurile după cum a binecuvântat și a sfințit pentru Sine un popor pe care l-a câștigat 8 mai presus de toate popoarele, și ca ei să păzească Sabatul împreună cu noi"
+        "ron": "Și El ne-a spus: \"Iată, Eu voi despărți pentru Mine 2 un popor dintre toate popoarele și aceștia vor păzi ziua de sabat și îi voi sfinți pentru Mine ca popor al Meu și îi voi binecuvânta; după cum Eu am sfințit ziua de sabat și o sfințesc pentru Mine Însumi, tot așa îi voi binecuvânta și ei vor fi poporul Meu și Eu voi fi Dumnezeul lor"
       }
     },
     {
@@ -2187,7 +2187,10 @@
           "t": "ʿalämə",
           "gl": ""
         }
-      ]
+      ],
+      "translations": {
+        "ron": "Și Eu am ales sămânța lui Iacov 3 din tot ce am văzut și l-am scris ca fiind fiul Meu întâi născut, 4 și l-am sfințit pentru Mine în vecii vecilor; și îi voi învăța ziua Sabatului, ca să păzească Sabatul departe de orice lucrare"
+      }
     },
     {
       "num": 21,
@@ -2329,7 +2332,10 @@
           "t": "məsəlenä",
           "gl": ""
         }
-      ]
+      ],
+      "translations": {
+        "ron": "Și astfel El a făcut în ea un semn 5 în care ei să țină Sabatul cu noi 6 în ziua a șaptea, să mănânce și să bea și să- L binecuvânteze pe Cel 7 care a creat toate lucrurile după cum a binecuvântat și a sfințit pentru Sine un popor pe care l-a câștigat 8 mai presus de toate popoarele, și ca ei să păzească Sabatul împreună cu noi"
+      }
     },
     {
       "num": 22,

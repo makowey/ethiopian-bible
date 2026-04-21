@@ -214,7 +214,7 @@
         }
       ],
       "translations": {
-        "ron": "Și Dumnezeu i-a zis: \"Avraam, Avraam\"; și el a spus: \"Iată, (iată) sunt Eu.\" 2. Și El a zis: \"Ia-l pe preaiubitul tău 3 fiu pe care-l iubești, (chiar) Isaac, și du- te în țara înaltă, 4 și adu-l pe unul din munții pe care ți-l voi arăta.\" 3. Și el s-a sculat dis-de-dimineață și și-a pus șaua pe măgar și i-a luat cu el pe cei doi tineri ai săi și pe Isaac, fiul său, și a tăiat lemnul arderii de tot, și s-a dus la locul acela a treia zi, și a văzut locul departe"
+        "ron": "Și Dumnezeu i-a zis: \"Avraam, Avraam\"; și el a spus: \"Iată, (iată) sunt Eu"
       }
     },
     {
@@ -304,7 +304,7 @@
         }
       ],
       "translations": {
-        "ron": "El a ajuns la un izvor cu apă și le-a zis tinerilor săi: \"Rămâneți aici cu măgarul, iar eu și băiatul vom merge (încoace), și după ce ne vom închina, vom veni din nou la voi.\" 5. El a luat lemnul arderii de tot și l-a pus peste Isaac, fiul său, a luat în mână focul și cuțitul și s-au dus amândoi împreună la locul acela"
+        "ron": "El a ajuns la un izvor cu apă și le-a zis tinerilor săi: \"Rămâneți aici cu măgarul, iar eu și băiatul vom merge (încoace), și după ce ne vom închina, vom veni din nou la voi"
       }
     },
     {
@@ -362,7 +362,10 @@
           "t": "wämäṭəbaḥətä",
           "gl": ""
         }
-      ]
+      ],
+      "translations": {
+        "ron": "El a luat lemnul arderii de tot și l-a pus peste Isaac, fiul său, a luat în mână focul și cuțitul și s-au dus amândoi împreună la locul acela"
+      }
     },
     {
       "num": 6,
@@ -673,7 +676,7 @@
         }
       ],
       "translations": {
-        "ron": "Și am stat înaintea lui, și înaintea prințului din Mastêmâ, 2 și Domnul a zis: \"Poruncește-i să nu-și pună mâna pe băiat, nici să-i facă nimic, căci am arătat că se teme de Domnul.\" 10. L-am chemat din cer și i-am zis: \"Avraame, Avraame\"; și el s-a înspăimântat și a zis: \"Iată, (iată) sunt eu\""
+        "ron": "Și am stat înaintea lui, și înaintea prințului din Mastêmâ, 2 și Domnul a zis: \"Poruncește-i să nu-și pună mâna pe băiat, nici să-i facă nimic, căci am arătat că se teme de Domnul"
       }
     },
     {
@@ -721,7 +724,10 @@
           "t": "ʾänä",
           "gl": ""
         }
-      ]
+      ],
+      "translations": {
+        "ron": "L-am chemat din cer și i-am zis: \"Avraame, Avraame\"; și el s-a înspăimântat și a zis: \"Iată, (iată) sunt eu\""
+      }
     },
     {
       "num": 11,
@@ -930,7 +936,7 @@
         }
       ],
       "translations": {
-        "ron": "Și eu i-am spus: \"Nu-ți pune mâna pe băiat și nu-i faci nimic; căci acum am arătat că te temi de Domnul și n-ai oprit de la mine pe fiul tău, fiul tău întâi născut.\" 12. Și prințul din Mastêmâ a fost făcut de rușine; Avraam și-a ridicat ochii și s-a uitat și, iată, un singur berbec a prins 3... prin coarnele sale, și Avraam s- a dus și a luat berbecul și l-a oferit ca ardere de tot în locul fiului său"
+        "ron": "Și eu i-am spus: \"Nu-ți pune mâna pe băiat și nu-i faci nimic; căci acum am arătat că te temi de Domnul și n-ai oprit de la mine pe fiul tău, fiul tău întâi născut"
       }
     },
     {
@@ -1245,7 +1251,10 @@
           "t": "ḫəburä",
           "gl": ""
         }
-      ]
+      ],
+      "translations": {
+        "ron": "Avraam s-a dus la tinerii lui, s-au sculat și s-au dus împreună la [paragraful continuă] Beer-Șeba, și Avraam a locuit lângă fântâna jurământului"
+      }
     },
     {
       "num": 18,

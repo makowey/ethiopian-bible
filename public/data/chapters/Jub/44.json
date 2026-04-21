@@ -526,7 +526,7 @@
         }
       ],
       "translations": {
-        "ron": "Mă voi pogorî cu tine și te voi ridica 2 (din nou), și în țara aceasta vei fi îngropat, și Iosif își va pune mâinile pe ochii tăi. Nu vă temeți; coboară în Egipt.\" 7. Si fiii lui s-au sculat, si fiii fiilor sai, si au pus pe tatal lor si averile lor pe carute"
+        "ron": "Mă voi pogorî cu tine și te voi ridica 2 (din nou), și în țara aceasta vei fi îngropat, și Iosif își va pune mâinile pe ochii tăi. Nu vă temeți; coboară în Egipt"
       }
     },
     {
@@ -649,7 +649,10 @@
           "t": "gəbəṣə",
           "gl": ""
         }
-      ]
+      ],
+      "translations": {
+        "ron": "Si fiii lui s-au sculat, si fiii fiilor sai, si au pus pe tatal lor si averile lor pe carute"
+      }
     },
     {
       "num": 9,

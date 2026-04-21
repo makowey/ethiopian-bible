@@ -514,7 +514,7 @@
         }
       ],
       "translations": {
-        "ron": "Și când Iacov s-a întors și a căutat-o, ea i-a spus: \"Eu nu sunt curat pentru tine, căci am fost pângărit în ceea ce te privește; căci Ruben m-a pângărit, a zăcut cu mine noaptea, și eu dormeam, și n-am descoperit până nu mi-a descoperit fusta și nu s-a culcat cu mine.\" 8. Iacov s-a mâniat foarte tare pe Ruben pentru că se culcase cu Bilha, pentru că descoperise fusta tatălui său"
+        "ron": "Și când Iacov s-a întors și a căutat-o, ea i-a spus: \"Eu nu sunt curat pentru tine, căci am fost pângărit în ceea ce te privește; căci Ruben m-a pângărit, a zăcut cu mine noaptea, și eu dormeam, și n-am descoperit până nu mi-a descoperit fusta și nu s-a culcat cu mine"
       }
     },
     {
@@ -587,7 +587,10 @@
           "t": "ʾäbuhu",
           "gl": ""
         }
-      ]
+      ],
+      "translations": {
+        "ron": "Iacov s-a mâniat foarte tare pe Ruben pentru că se culcase cu Bilha, pentru că descoperise fusta tatălui său"
+      }
     },
     {
       "num": 9,
@@ -1031,7 +1034,7 @@
         }
       ],
       "translations": {
-        "ron": "Și iarăși este scris a doua oară: \"Blestemat să fie cel ce zace cu nevasta tatălui său, căci a descoperit rușinea tatălui său\"; și toți sfinții Domnului ziceau: \"Așa să fie; Așa să fie.\" 3 13. Și tu, Moise, poruncești copiilor lui Israel să păzească acest cuvânt; căci (implică) o pedeapsă cu moartea; și este necurat și nu este ispășire pentru totdeauna să ispășească pentru omul care a săvârșit aceasta, dar el va fi omorât, ucis, ucis cu pietre, dezrădăcinat din mijlocul poporului Dumnezeului nostru"
+        "ron": "Și iarăși este scris a doua oară: \"Blestemat să fie cel ce zace cu nevasta tatălui său, căci a descoperit rușinea tatălui său\"; și toți sfinții Domnului ziceau: \"Așa să fie; Așa să fie"
       }
     },
     {
@@ -1194,7 +1197,10 @@
           "t": "ʾäməlakənä",
           "gl": ""
         }
-      ]
+      ],
+      "translations": {
+        "ron": "Și tu, Moise, poruncești copiilor lui Israel să păzească acest cuvânt; căci (implică) o pedeapsă cu moartea; și este necurat și nu este ispășire pentru totdeauna să ispășească pentru omul care a săvârșit aceasta, dar el va fi omorât, ucis, ucis cu pietre, dezrădăcinat din mijlocul poporului Dumnezeului nostru"
+      }
     },
     {
       "num": 14,

@@ -1381,7 +1381,7 @@
         }
       ],
       "translations": {
-        "ron": "Și Noe s-a bucurat că partea aceasta a ieșit pentru Sem și pentru fiii lui, și și-a adus aminte de tot ce spusese cu gura lui în profeție; căci el spusese: Binecuvântat să fie Domnul Dumnezeul lui Sem, și Domnul să locuiască în locuința lui Sem.\" 7 19. Și știa că Grădina Edenului este sfânta sfintelor și locuința [paragraful continuă] Domnului, Muntele Sinai centrul deșertului și Muntele Sion — centrul buricului pământului: aceste trei 8 au fost create ca locuri sfinte față în față"
+        "ron": "Și Noe s-a bucurat că partea aceasta a ieșit pentru Sem și pentru fiii lui, și și-a adus aminte de tot ce spusese cu gura lui în profeție; căci el spusese: Binecuvântat să fie Domnul Dumnezeul lui Sem, și Domnul să locuiască în locuința lui Sem"
       }
     },
     {
@@ -1479,7 +1479,10 @@
           "t": "lämədərə",
           "gl": ""
         }
-      ]
+      ],
+      "translations": {
+        "ron": "Și știa că Grădina Edenului este sfânta sfintelor și locuința [paragraful continuă] Domnului, Muntele Sinai centrul deșertului și Muntele Sion — centrul buricului pământului: aceste trei 8 au fost create ca locuri sfinte față în față"
+      }
     },
     {
       "num": 20,

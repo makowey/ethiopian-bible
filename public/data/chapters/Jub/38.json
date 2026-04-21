@@ -144,7 +144,7 @@
         }
       ],
       "translations": {
-        "ron": "XXXVIII. După aceea, Iuda a vorbit lui Iacov, tatăl său, și i-a zis: \"Pleacă-ți arcul, tată, și trimite săgețile tale, aruncă jos pe vrăjmaș și ucide pe vrăjmaș; și să ai puterea, căci nu vom ucide pe fratele tău, căci el este ca tine și este ca tine; să-i dăm cinstea aceasta.\" 2. Atunci Iacov și-a îndoit arcul și a trimis săgeata și l-a lovit pe Esau, fratele său, (la pieptul drept) și l-a ucis"
+        "ron": "XXXVIII. După aceea, Iuda a vorbit lui Iacov, tatăl său, și i-a zis: \"Pleacă-ți arcul, tată, și trimite săgețile tale, aruncă jos pe vrăjmaș și ucide pe vrăjmaș; și să ai puterea, căci nu vom ucide pe fratele tău, căci el este ca tine și este ca tine; să-i dăm cinstea aceasta"
       }
     },
     {
@@ -252,7 +252,10 @@
           "t": "wäqätälo",
           "gl": ""
         }
-      ]
+      ],
+      "translations": {
+        "ron": "Atunci Iacov și-a îndoit arcul și a trimis săgeata și l-a lovit pe Esau, fratele său, (la pieptul drept) și l-a ucis"
+      }
     },
     {
       "num": 4,
