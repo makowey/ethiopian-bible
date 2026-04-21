@@ -106,7 +106,56 @@ const READING_TIPS = [
   },
 ]
 
-type Tab = 'fidel' | 'reading' | 'vocab' | 'numerals'
+const HISTORY: Array<{ period: string; years: string; content: string }> = [
+  {
+    period: 'South Arabian origins',
+    years: 'c. 900 – 400 BCE',
+    content: 'Ge\'ez descends from the Ancient South Arabian (Sabaean) script, brought to the Horn of Africa by Semitic-speaking migrants crossing the Red Sea from the Arabian Peninsula. The earliest inscriptions in the region are in Sabaean, found at sites like Yeha in northern Ethiopia. At this stage the script was consonantal only — vowels were not written, like Hebrew or Arabic.',
+  },
+  {
+    period: 'Proto-Ethiopic',
+    years: 'c. 400 BCE – 300 CE',
+    content: 'Over several centuries the Sabaean script was adapted into a local form now called Proto-Ethiopic or Old Ethiopic. The language evolved independently as the Aksumite civilisation rose to power. Inscriptions from this era mix Sabaean and local features. Writing was still abjad (consonants only), carved in stone in a right-to-left or boustrophedon direction.',
+  },
+  {
+    period: 'Aksumite Kingdom & the vowel revolution',
+    years: 'c. 300 – 700 CE',
+    content: 'The most transformative development came under the Kingdom of Aksum. Around the 4th century CE, Ge\'ez scribes invented a system of seven vowel modifications for each consonant — creating the world\'s first fully vocalised abugida (syllabic alphabet). Each consonant base was modified by consistent strokes to indicate the vowel, making Ge\'ez far easier to read than pure consonantal scripts. This innovation is unique in ancient script history and remains in use unchanged today.',
+  },
+  {
+    period: 'Christianisation & the Bible',
+    years: 'c. 330 – 600 CE',
+    content: 'King Ezana of Aksum converted to Christianity around 330 CE, making Ethiopia one of the first Christian kingdoms. Within decades, the Nine Saints — missionaries from Syria and Egypt — began translating the Bible into Ge\'ez. The Ge\'ez Bible canon (the Haile Selassie Bible) eventually included 81 books, more than any other Christian tradition. This period produced the vast majority of surviving Ge\'ez literature.',
+  },
+  {
+    period: 'Classical literary period',
+    years: 'c. 600 – 1500 CE',
+    content: 'As spoken everyday language, Ge\'ez gradually gave way to Amharic and Tigrinya, but it flourished as a liturgical and literary tongue — analogous to Latin in medieval Europe. Scholars produced major works: the Kebra Nagast (Glory of Kings), the Fetha Nagast (Law of Kings), hagiographies, and extensive theological commentary. Monasteries like Debre Damo and Lalibela became centres of manuscript production.',
+  },
+  {
+    period: 'Zagwe and Solomonic dynasties',
+    years: 'c. 900 – 1700 CE',
+    content: 'The Zagwe dynasty (c. 900–1270) and the restored Solomonic dynasty that followed oversaw a golden age of Ge\'ez manuscript culture. Illuminated parchment codices — kaleidoscopic with gold leaf and mineral pigments — were produced in great numbers. Scribal schools (qǝne schools) trained priests to compose poetry in Ge\'ez. The language became deeply intertwined with Ethiopian national and religious identity.',
+  },
+  {
+    period: 'Modern survival',
+    years: '1700 CE – present',
+    content: 'Ge\'ez is no longer spoken as a mother tongue but remains the liturgical language of the Ethiopian Orthodox Tewahedo Church, the Eritrean Orthodox Church, and the Ethiopian Catholic Church — serving over 50 million Christians. Priests and deacons undergo years of training to chant and interpret Ge\'ez scripture. The Ethiopic script (Unicode block U+1200–U+137F) was standardised in 1991 and is fully supported on modern devices.',
+  },
+]
+
+const FEATURES: Array<{ label: string; detail: string }> = [
+  { label: 'Language family',     detail: 'Afroasiatic → Semitic → South Semitic → Ethiopic → Classical Ethiopic' },
+  { label: 'Script type',         detail: 'Abugida (syllabary) — each glyph encodes consonant + vowel' },
+  { label: 'Writing direction',   detail: 'Left to right (reversed from its South Arabian ancestor)' },
+  { label: 'Characters',          detail: '33 base consonants × 7 vowel orders = 231 core syllables + labiovelar extensions' },
+  { label: 'Closest relatives',   detail: 'Amharic, Tigrinya, Tigre (all derived from Ge\'ez), and distantly Arabic & Hebrew' },
+  { label: 'Oldest inscription',  detail: 'Hawulti stele, Matara, Eritrea — c. 2nd–3rd century CE' },
+  { label: 'Script origin',       detail: 'Adapted from Ancient South Arabian (Sabaean) script' },
+  { label: 'Current use',         detail: 'Liturgical language of ~50 million Orthodox and Catholic Ethiopian & Eritrean Christians' },
+]
+
+type Tab = 'fidel' | 'reading' | 'vocab' | 'numerals' | 'history'
 
 export function GeezPage() {
   const [activeTab, setActiveTab] = useState<Tab>('fidel')
@@ -131,18 +180,18 @@ export function GeezPage() {
       </header>
 
       {/* Tabs */}
-      <div className="flex gap-1 mb-6 border-b border-border">
-        {(['fidel', 'reading', 'vocab', 'numerals'] as Tab[]).map(tab => (
+      <div className="flex gap-1 mb-6 border-b border-border overflow-x-auto">
+        {(['history', 'fidel', 'reading', 'vocab', 'numerals'] as Tab[]).map(tab => (
           <button
             key={tab}
             onClick={() => setActiveTab(tab)}
-            className={`px-4 py-2 text-sm font-ui transition-colors cursor-pointer capitalize border-b-2 -mb-px ${
+            className={`px-4 py-2 text-sm font-ui transition-colors cursor-pointer whitespace-nowrap border-b-2 -mb-px ${
               activeTab === tab
                 ? 'border-accent text-accent'
                 : 'border-transparent text-text-muted hover:text-text'
             }`}
           >
-            {tab === 'fidel' ? 'Fidel Chart' : tab === 'reading' ? 'How to Read' : tab === 'vocab' ? 'Vocabulary' : 'Numerals'}
+            {tab === 'history' ? 'History' : tab === 'fidel' ? 'Fidel Chart' : tab === 'reading' ? 'How to Read' : tab === 'vocab' ? 'Vocabulary' : 'Numerals'}
           </button>
         ))}
       </div>
@@ -314,6 +363,47 @@ export function GeezPage() {
                 <div key={p.sym} className="flex items-center gap-4">
                   <span className="font-geez text-2xl text-geez w-8 text-center" lang="gez">{p.sym}</span>
                   <span className="font-body text-text-muted text-sm">{p.name}</span>
+                </div>
+              ))}
+            </div>
+          </div>
+        </div>
+      )}
+
+      {/* ── HISTORY ─────────────────────────────────────────────── */}
+      {activeTab === 'history' && (
+        <div className="max-w-2xl">
+          {/* Quick-facts strip */}
+          <div className="manuscript-panel p-4 mb-6">
+            <h3 className="font-ui text-xs uppercase tracking-widest text-text-faint mb-3">At a glance</h3>
+            <dl className="space-y-2">
+              {FEATURES.map(f => (
+                <div key={f.label} className="flex flex-col sm:flex-row sm:gap-3">
+                  <dt className="font-ui text-xs text-accent/80 font-medium flex-shrink-0 sm:w-40">{f.label}</dt>
+                  <dd className="font-body text-text-muted text-sm">{f.detail}</dd>
+                </div>
+              ))}
+            </dl>
+          </div>
+
+          {/* Timeline */}
+          <div className="relative">
+            {/* vertical rule */}
+            <div className="absolute left-3 top-2 bottom-2 w-px bg-accent/20" aria-hidden="true" />
+
+            <div className="space-y-6 pl-10">
+              {HISTORY.map((era, i) => (
+                <div key={i} className="relative animate-reveal-up" style={{ animationDelay: `${i * 0.06}s` }}>
+                  {/* dot */}
+                  <div
+                    className="absolute -left-7 top-1.5 w-2.5 h-2.5 rounded-full border-2 border-accent/50 bg-surface"
+                    aria-hidden="true"
+                  />
+                  <div className="font-ui text-[0.6rem] uppercase tracking-widest text-accent/60 mb-0.5">
+                    {era.years}
+                  </div>
+                  <h3 className="font-title text-base font-semibold text-text mb-1">{era.period}</h3>
+                  <p className="font-body text-text-muted text-base leading-relaxed">{era.content}</p>
                 </div>
               ))}
             </div>
