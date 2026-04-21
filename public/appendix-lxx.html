@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>NT Quotations — LXX vs Masoretic Text &amp; Apocrypha</title>
+<title>NT Quotations — LXX, Apocrypha &amp; 1 Enoch</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,600;0,900;1,400;1,600&family=Crimson+Pro:ital,wght@0,300;0,400;0,600;1,300;1,400&family=Frank+Ruhl+Libre:wght@400;500;700&display=swap" rel="stylesheet">
@@ -14,6 +14,7 @@
   --bg-lxx:      #F5F0E6;
   --bg-nt:       #EFF4EE;
   --bg-ap:       #F4F0F8;
+  --bg-en:       #FBF6EE;
   --sidebar:     #191108;
   --s-text:      #D0B890;
   --s-muted:     #7A6040;
@@ -31,9 +32,11 @@
   --c-targ:      #7A5C1F;
   --c-interp:    #265C26;
   --c-apoc:      #6B3070;
+  --c-enoch:     #8B5E14;
   --font-d: 'Playfair Display', Georgia, serif;
   --font-b: 'Crimson Pro', 'Times New Roman', serif;
   --font-h: 'Frank Ruhl Libre', serif;
+  --font-ge: 'Noto Serif Ethiopic', 'Noto Sans Ethiopic', 'Ethiopic', serif;
 }
 * { box-sizing: border-box; margin: 0; padding: 0; }
 
@@ -48,398 +51,165 @@ body {
 
 /* ── SIDEBAR ── */
 .sidebar {
-  width: 272px;
-  min-width: 272px;
+  width: 272px; min-width: 272px;
   background: var(--sidebar);
-  display: flex;
-  flex-direction: column;
+  display: flex; flex-direction: column;
   overflow: hidden;
   border-right: 1px solid #0D0800;
 }
-
 .sidebar-head {
   padding: 18px 16px 12px;
   border-bottom: 1px solid rgba(255,255,255,0.06);
 }
+.sidebar-label { font-size: 10px; letter-spacing: .18em; text-transform: uppercase; color: var(--s-muted); margin-bottom: 3px; }
+.sidebar-title { font-family: var(--font-d); font-size: 13.5px; color: var(--s-text); font-style: italic; line-height: 1.35; }
 
-.sidebar-label {
-  font-size: 10px;
-  letter-spacing: 0.18em;
-  text-transform: uppercase;
-  color: var(--s-muted);
-  margin-bottom: 3px;
-}
-
-.sidebar-title {
-  font-family: var(--font-d);
-  font-size: 13.5px;
-  color: var(--s-text);
-  font-style: italic;
-  line-height: 1.35;
-}
-
-.sidebar-nav {
-  display: flex;
-  border-bottom: 1px solid rgba(255,255,255,0.06);
-}
-
+.sidebar-nav { display: flex; border-bottom: 1px solid rgba(255,255,255,0.06); }
 .snav-btn {
-  flex: 1;
-  padding: 8px 6px;
-  font-size: 10px;
-  letter-spacing: 0.1em;
-  text-transform: uppercase;
+  flex: 1; padding: 7px 4px;
+  font-size: 9.5px; letter-spacing: .08em; text-transform: uppercase;
   font-family: var(--font-b);
-  background: none;
-  border: none;
-  color: var(--s-muted);
-  cursor: pointer;
-  border-bottom: 2px solid transparent;
-  transition: color 0.15s, border-color 0.15s;
+  background: none; border: none; color: var(--s-muted);
+  cursor: pointer; border-bottom: 2px solid transparent;
+  transition: color .15s, border-color .15s;
 }
-.snav-btn.active {
-  color: var(--s-text);
-  border-bottom-color: var(--gold);
-}
+.snav-btn.active { color: var(--s-text); border-bottom-color: var(--gold); }
 .snav-btn:hover { color: var(--s-text); }
 
-.sidebar-list {
-  flex: 1;
-  overflow-y: auto;
-  padding: 4px 0;
-}
+.sidebar-list { flex: 1; overflow-y: auto; padding: 4px 0; }
 .sidebar-list::-webkit-scrollbar { width: 3px; }
 .sidebar-list::-webkit-scrollbar-thumb { background: rgba(255,255,255,0.08); border-radius: 2px; }
 
 .p-item {
-  padding: 9px 16px;
-  cursor: pointer;
+  padding: 9px 16px; cursor: pointer;
   border-left: 3px solid transparent;
-  transition: background 0.12s, border-color 0.12s;
+  transition: background .12s, border-color .12s;
 }
 .p-item:hover  { background: var(--s-hover); }
 .p-item.active { background: var(--s-active); border-left-color: var(--gold); }
-
-.p-item-refs {
-  font-size: 10px;
-  color: var(--s-muted);
-  letter-spacing: 0.03em;
-  margin-bottom: 2px;
-}
-
-.p-item-title {
-  font-family: var(--font-d);
-  font-size: 13px;
-  color: var(--s-text);
-  font-style: italic;
-  line-height: 1.3;
-}
-
-.p-badge {
-  display: inline-block;
-  margin-top: 4px;
-  font-size: 9px;
-  letter-spacing: 0.09em;
-  text-transform: uppercase;
-  padding: 2px 5px;
-  border-radius: 2px;
-}
+.p-item-refs { font-size: 10px; color: var(--s-muted); margin-bottom: 2px; }
+.p-item-title { font-family: var(--font-d); font-size: 13px; color: var(--s-text); font-style: italic; line-height: 1.3; }
+.p-badge { display: inline-block; margin-top: 4px; font-size: 9px; letter-spacing: .09em; text-transform: uppercase; padding: 2px 5px; border-radius: 2px; }
 
 .back-link {
-  display: block;
-  padding: 10px 16px;
-  font-size: 11px;
-  color: var(--s-muted);
-  text-decoration: none;
+  display: block; padding: 10px 16px;
+  font-size: 11px; color: var(--s-muted); text-decoration: none;
   border-top: 1px solid rgba(255,255,255,0.06);
-  letter-spacing: 0.04em;
+  letter-spacing: .04em;
 }
 .back-link:hover { color: var(--s-text); }
 
 /* ── MAIN ── */
-.main {
-  flex: 1;
-  display: flex;
-  flex-direction: column;
-  overflow: hidden;
-}
+.main { flex: 1; display: flex; flex-direction: column; overflow: hidden; }
+.main-head { padding: 18px 28px 12px; border-bottom: 1px solid var(--border); background: var(--bg); }
+.main-eyebrow { font-size: 10px; letter-spacing: .16em; text-transform: uppercase; color: var(--muted); margin-bottom: 4px; }
+.main-title { font-family: var(--font-d); font-size: 24px; font-weight: 700; line-height: 1.2; }
+.main-refs { font-family: var(--font-d); font-size: 13px; font-style: italic; color: var(--accent); margin-top: 3px; }
 
-.main-head {
-  padding: 18px 28px 12px;
-  border-bottom: 1px solid var(--border);
-  background: var(--bg);
-}
-
-.main-eyebrow {
-  font-size: 10px;
-  letter-spacing: 0.16em;
-  text-transform: uppercase;
-  color: var(--muted);
-  margin-bottom: 4px;
-}
-
-.main-title {
-  font-family: var(--font-d);
-  font-size: 24px;
-  font-weight: 700;
-  line-height: 1.2;
-}
-
-.main-refs {
-  font-family: var(--font-d);
-  font-size: 13px;
-  font-style: italic;
-  color: var(--accent);
-  margin-top: 3px;
-}
-
-.main-body {
-  flex: 1;
-  overflow-y: auto;
-  padding: 20px 28px 40px;
-}
+.main-body { flex: 1; overflow-y: auto; padding: 20px 28px 40px; }
 .main-body::-webkit-scrollbar { width: 5px; }
 .main-body::-webkit-scrollbar-thumb { background: var(--border); border-radius: 3px; }
 
 /* ── LEGEND ── */
 .legend {
-  display: flex;
-  gap: 10px;
-  flex-wrap: wrap;
-  margin-bottom: 18px;
-  padding: 9px 12px;
-  background: white;
-  border: 1px solid var(--border);
-  border-radius: 3px;
+  display: flex; gap: 10px; flex-wrap: wrap;
+  margin-bottom: 18px; padding: 9px 12px;
+  background: white; border: 1px solid var(--border); border-radius: 3px;
 }
-.legend-item {
-  display: flex;
-  align-items: center;
-  gap: 5px;
-  font-size: 11px;
-  color: var(--muted);
-}
+.legend-item { display: flex; align-items: center; gap: 5px; font-size: 11px; color: var(--muted); }
 .legend-dot { width: 7px; height: 7px; border-radius: 50%; }
 
-/* ── THREE COLUMNS ── */
-.columns {
-  display: grid;
-  grid-template-columns: 1fr 1fr 1fr;
-  border: 1px solid var(--border);
-  border-radius: 4px;
-  overflow: hidden;
-  margin-bottom: 18px;
-}
-.columns-two {
-  display: grid;
-  grid-template-columns: 1fr 1fr;
-  border: 1px solid var(--border);
-  border-radius: 4px;
-  overflow: hidden;
-  margin-bottom: 18px;
-}
+/* ── COLUMNS ── */
+.columns     { display: grid; grid-template-columns: 1fr 1fr 1fr; border: 1px solid var(--border); border-radius: 4px; overflow: hidden; margin-bottom: 18px; }
+.columns-two { display: grid; grid-template-columns: 1fr 1fr;     border: 1px solid var(--border); border-radius: 4px; overflow: hidden; margin-bottom: 18px; }
+
 .col { padding: 16px 14px; }
 .col:not(:last-child) { border-right: 1px solid var(--border); }
 .col-mt  { background: var(--bg-mt); }
 .col-lxx { background: var(--bg-lxx); }
 .col-nt  { background: var(--bg-nt); }
 .col-ap  { background: var(--bg-ap); }
+.col-en  { background: var(--bg-en); }
 
-.col-head {
-  margin-bottom: 12px;
-  padding-bottom: 9px;
-  border-bottom: 1px solid var(--border);
-}
-.col-lang {
-  font-size: 9.5px;
-  letter-spacing: 0.18em;
-  text-transform: uppercase;
-  color: var(--muted);
-  margin-bottom: 2px;
-}
-.col-ref {
-  font-family: var(--font-d);
-  font-size: 12px;
-  font-style: italic;
-  color: var(--muted);
-}
-.col-stripe {
-  height: 2px;
-  width: 24px;
-  margin-top: 7px;
-  border-radius: 1px;
-}
+.col-head { margin-bottom: 12px; padding-bottom: 9px; border-bottom: 1px solid var(--border); }
+.col-lang { font-size: 9.5px; letter-spacing: .18em; text-transform: uppercase; color: var(--muted); margin-bottom: 2px; }
+.col-ref  { font-family: var(--font-d); font-size: 12px; font-style: italic; color: var(--muted); }
+.col-stripe { height: 2px; width: 24px; margin-top: 7px; border-radius: 1px; }
 
-.t-hebrew {
-  font-family: var(--font-h);
-  font-size: 20px;
-  line-height: 1.9;
-  direction: rtl;
-  text-align: right;
-  margin-bottom: 7px;
-}
-.t-greek {
-  font-family: var(--font-b);
-  font-size: 15.5px;
-  line-height: 1.7;
-  font-style: italic;
-  margin-bottom: 7px;
-}
-.t-translit {
-  font-size: 11px;
-  color: var(--muted);
-  font-style: italic;
-  margin-bottom: 7px;
-}
-.t-english {
-  font-size: 14.5px;
-  line-height: 1.65;
-}
+.t-hebrew  { font-family: var(--font-h); font-size: 20px; line-height: 1.9; direction: rtl; text-align: right; margin-bottom: 7px; }
+.t-greek   { font-family: var(--font-b); font-size: 15.5px; line-height: 1.7; font-style: italic; margin-bottom: 7px; }
+.t-geez    { font-family: var(--font-ge); font-size: 18px; line-height: 2.1; margin-bottom: 7px; color: var(--ink); }
+.t-translit{ font-size: 11px; color: var(--muted); font-style: italic; margin-bottom: 7px; }
+.t-english { font-size: 14.5px; line-height: 1.65; }
 
-.key-section {
-  margin-top: 11px;
-  padding-top: 11px;
-  border-top: 1px solid var(--border);
-}
-.key-label {
-  font-size: 9.5px;
-  letter-spacing: 0.14em;
-  text-transform: uppercase;
-  color: var(--muted);
-  margin-bottom: 3px;
-}
-.key-term {
-  font-family: var(--font-d);
-  font-size: 13.5px;
-  font-weight: 600;
-  color: var(--accent);
-  margin-bottom: 2px;
-}
-.key-meaning {
-  font-size: 12px;
-  line-height: 1.5;
-  color: var(--muted);
-  font-style: italic;
-}
+.key-section { margin-top: 11px; padding-top: 11px; border-top: 1px solid var(--border); }
+.key-label  { font-size: 9.5px; letter-spacing: .14em; text-transform: uppercase; color: var(--muted); margin-bottom: 3px; }
+.key-term   { font-family: var(--font-d); font-size: 13.5px; font-weight: 600; color: var(--accent); margin-bottom: 2px; }
+.key-meaning{ font-size: 12px; line-height: 1.5; color: var(--muted); font-style: italic; }
 
-.follows-badge {
-  display: inline-block;
-  font-size: 10.5px;
-  padding: 3px 7px;
-  border-radius: 2px;
-  margin-top: 10px;
-}
+.follows-badge { display: inline-block; font-size: 10.5px; padding: 3px 7px; border-radius: 2px; margin-top: 10px; }
 
 /* absent column */
 .col-absent {
-  background: repeating-linear-gradient(
-    -45deg,
-    transparent, transparent 12px,
-    rgba(90,45,106,0.035) 12px, rgba(90,45,106,0.035) 24px
-  );
+  background: repeating-linear-gradient(-45deg, transparent, transparent 12px, rgba(90,45,106,0.035) 12px, rgba(90,45,106,0.035) 24px);
 }
-.absent-msg {
-  padding: 20px 0;
-  text-align: center;
-  font-family: var(--font-d);
-  font-size: 13.5px;
-  font-style: italic;
-  color: var(--c-absent);
-  opacity: 0.75;
+.absent-msg { padding: 20px 0; text-align: center; font-family: var(--font-d); font-size: 13.5px; font-style: italic; color: var(--c-absent); opacity: .75; }
+
+/* Ethiopian canon callout */
+.eth-canon {
+  display: inline-flex; align-items: center; gap: 5px;
+  font-size: 10.5px; padding: 4px 9px; border-radius: 2px;
+  background: rgba(139,94,20,.1); color: var(--c-enoch);
+  margin-bottom: 10px; font-family: var(--font-b);
 }
 
 /* ── DIVERGENCE BOX ── */
 .div-box {
-  background: white;
-  border: 1px solid var(--border);
+  background: white; border: 1px solid var(--border);
   border-left: 4px solid var(--accent);
-  padding: 12px 16px;
-  border-radius: 0 3px 3px 0;
-  margin-bottom: 18px;
+  padding: 12px 16px; border-radius: 0 3px 3px 0; margin-bottom: 18px;
 }
-.div-box.apoc { border-left-color: var(--c-apoc); }
-.div-label {
-  font-size: 9.5px;
-  letter-spacing: 0.16em;
-  text-transform: uppercase;
-  color: var(--accent);
-  margin-bottom: 4px;
-}
-.div-box.apoc .div-label { color: var(--c-apoc); }
-.div-text {
-  font-family: var(--font-d);
-  font-size: 14px;
-  line-height: 1.55;
-}
+.div-box.apoc  { border-left-color: var(--c-apoc); }
+.div-box.enoch { border-left-color: var(--c-enoch); }
+.div-label { font-size: 9.5px; letter-spacing: .16em; text-transform: uppercase; color: var(--accent); margin-bottom: 4px; }
+.div-box.apoc  .div-label { color: var(--c-apoc); }
+.div-box.enoch .div-label { color: var(--c-enoch); }
+.div-text { font-family: var(--font-d); font-size: 14px; line-height: 1.55; }
 
 /* ── COMMENTARY ── */
 .commentary { margin-bottom: 30px; }
-.section-label {
-  font-size: 9.5px;
-  letter-spacing: 0.16em;
-  text-transform: uppercase;
-  color: var(--muted);
-  margin-bottom: 8px;
-}
-.commentary-text {
-  font-size: 16.5px;
-  line-height: 1.78;
-  max-width: 70ch;
-}
+.section-label { font-size: 9.5px; letter-spacing: .16em; text-transform: uppercase; color: var(--muted); margin-bottom: 8px; }
+.commentary-text { font-size: 16.5px; line-height: 1.78; max-width: 70ch; }
 
-/* ── STRENGTH INDICATOR (apocrypha) ── */
-.strength-bar {
-  display: flex;
-  align-items: center;
-  gap: 8px;
-  margin-bottom: 18px;
-}
+/* ── STRENGTH PIPS ── */
+.strength-bar { display: flex; align-items: center; gap: 8px; margin-bottom: 18px; }
 .strength-label { font-size: 11px; color: var(--muted); }
-.strength-pips { display: flex; gap: 3px; }
-.pip {
-  width: 18px;
-  height: 5px;
-  border-radius: 2px;
-  background: var(--border);
-}
-.pip.on { background: var(--c-apoc); }
+.strength-pips  { display: flex; gap: 3px; }
+.pip { width: 18px; height: 5px; border-radius: 2px; background: var(--border); }
+.pip.on-apoc  { background: var(--c-apoc); }
+.pip.on-enoch { background: var(--c-enoch); }
 
 /* ── BADGE COLORS ── */
-.b-translation { background: rgba(74,94,112,.14); color: var(--c-trans); }
-.b-substantial { background: rgba(122,31,31,.13); color: var(--c-major); }
-.b-absent      { background: rgba(90,45,106,.13); color: var(--c-absent); }
-.b-textual     { background: rgba(26,88,88,.12);  color: var(--c-textual); }
-.b-targumic    { background: rgba(122,92,31,.13); color: var(--c-targ); }
-.b-interpretive{ background: rgba(38,92,38,.12);  color: var(--c-interp); }
-.b-apocrypha   { background: rgba(107,48,112,.13);color: var(--c-apoc); }
-.b-allusion    { background: rgba(107,48,112,.09);color: var(--c-apoc); }
+.b-translation  { background: rgba(74,94,112,.14);  color: var(--c-trans); }
+.b-substantial  { background: rgba(122,31,31,.13);  color: var(--c-major); }
+.b-absent       { background: rgba(90,45,106,.13);  color: var(--c-absent); }
+.b-textual      { background: rgba(26,88,88,.12);   color: var(--c-textual); }
+.b-targumic     { background: rgba(122,92,31,.13);  color: var(--c-targ); }
+.b-interpretive { background: rgba(38,92,38,.12);   color: var(--c-interp); }
+.b-apocrypha    { background: rgba(107,48,112,.13); color: var(--c-apoc); }
+.b-allusion     { background: rgba(107,48,112,.09); color: var(--c-apoc); }
+.b-enoch        { background: rgba(139,94,20,.14);  color: var(--c-enoch); }
+.b-enoch-lost   { background: rgba(139,94,20,.09);  color: var(--c-enoch); }
 
 /* ── ANIMATION ── */
-.fade-in { animation: fi 0.2s ease-out; }
-@keyframes fi {
-  from { opacity: 0; transform: translateY(4px); }
-  to   { opacity: 1; transform: translateY(0); }
-}
+.fade-in { animation: fi .2s ease-out; }
+@keyframes fi { from { opacity:0; transform:translateY(4px); } to { opacity:1; transform:translateY(0); } }
 
 /* ── INTRO ── */
 .intro-panel { max-width: 640px; padding: 12px 0; }
-.intro-heading {
-  font-family: var(--font-d);
-  font-size: 21px;
-  font-weight: 600;
-  margin-bottom: 12px;
-  line-height: 1.3;
-}
+.intro-heading { font-family: var(--font-d); font-size: 21px; font-weight: 600; margin-bottom: 12px; line-height: 1.3; }
 .intro-text { font-size: 16.5px; line-height: 1.78; margin-bottom: 12px; }
-.intro-tip {
-  font-size: 13px;
-  color: var(--muted);
-  font-style: italic;
-  padding: 9px 13px;
-  background: white;
-  border: 1px solid var(--border);
-  border-radius: 3px;
-}
+.intro-tip { font-size: 13px; color: var(--muted); font-style: italic; padding: 9px 13px; background: white; border: 1px solid var(--border); border-radius: 3px; }
 
 /* ── RESPONSIVE ── */
 @media (max-width: 860px) {
@@ -448,17 +218,14 @@ body {
   .sidebar-list { overflow-x: auto; display: flex; flex-direction: row; gap: 4px; padding: 5px 6px; }
   .p-item { min-width: 145px; border-left: none; border-bottom: 3px solid transparent; }
   .p-item.active { border-left-color: transparent; border-bottom-color: var(--gold); }
-  .main { height: auto; }
-  .main-body { overflow: visible; }
+  .main { height: auto; } .main-body { overflow: visible; }
   .columns, .columns-two { grid-template-columns: 1fr; }
   .col:not(:last-child) { border-right: none; border-bottom: 1px solid var(--border); }
 }
 </style>
 </head>
 <body>
-
 <nav class="sidebar" id="sidebar"></nav>
-
 <main class="main">
   <div class="main-head" id="main-head">
     <div class="main-eyebrow" id="main-eyebrow">NT Quotations · Textual Analysis</div>
@@ -467,435 +234,449 @@ body {
   </div>
   <div class="main-body" id="main-body"></div>
 </main>
-
 <script>
-/* ═══════════════════════════════════════════
+/* ═══════════════════════════════════════════════════════════
    DATA
-═══════════════════════════════════════════ */
+═══════════════════════════════════════════════════════════ */
+
 const CANONICAL = [
   {
-    id: 'isa-7-14',
-    otRef: 'Isaiah 7:14', ntRef: 'Matthew 1:23',
-    category: 'Translation Divergence', type: 'translation',
-    title: 'Virgin or Young Woman?',
-    divergence: 'The NT depends entirely on the LXX\'s "virgin" (παρθένος); the MT\'s Hebrew word ʿalmah simply means "young woman."',
-    mt: {
-      hebrew: 'הִנֵּה הָעַלְמָה הָרָה וְיֹלֶדֶת בֵּן',
-      translit: 'hinneh ha-ʿalmah harah we-yoledet ben',
-      english: 'Behold, the young woman is pregnant and bearing a son',
-      keyTerm: 'עַלְמָה (ʿalmah)',
-      keyMeaning: '"Young woman" of marriageable age; no inherent implication of virginity'
-    },
-    lxx: {
-      greek: 'ἰδοὺ ἡ παρθένος ἐν γαστρὶ ἕξει καὶ τέξεται υἱόν',
-      english: 'Behold, the virgin will conceive in the womb and bear a son',
-      keyTerm: 'παρθένος (parthenos)',
-      keyMeaning: '"Virgin" — the LXX translators chose this far more specific term'
-    },
-    nt: {
-      greek: 'ἰδοὺ ἡ παρθένος ἐν γαστρὶ ἕξει καὶ τέξεται υἱόν',
-      english: 'Behold, the virgin will conceive and bear a son',
-      follows: 'LXX verbatim'
-    },
-    commentary: 'The Hebrew עַלְמָה (ʿalmah) occurs nine times in the OT and refers to a young woman of marriageable age, without any necessary implication of virginity (the specific Hebrew term for "virgin" is בְּתוּלָה, betulah). The LXX translators chose παρθένος (parthenos), which explicitly denotes a virgin. Matthew\'s entire birth narrative rests on this LXX reading: both the angel\'s announcement and the evangelist\'s editorial comment depend on the word "virgin." This is arguably the single most consequential LXX/MT divergence in all of New Testament theology.'
+    id:'isa-7-14', otRef:'Isaiah 7:14', ntRef:'Matthew 1:23',
+    category:'Translation Divergence', type:'translation',
+    title:'Virgin or Young Woman?',
+    divergence:'The NT depends entirely on the LXX\'s "virgin" (παρθένος); the MT\'s Hebrew word ʿalmah simply means "young woman."',
+    mt:{ hebrew:'הִנֵּה הָעַלְמָה הָרָה וְיֹלֶדֶת בֵּן', translit:'hinneh ha-ʿalmah harah we-yoledet ben',
+      english:'Behold, the young woman is pregnant and bearing a son',
+      keyTerm:'עַלְמָה (ʿalmah)', keyMeaning:'"Young woman" of marriageable age; no inherent implication of virginity' },
+    lxx:{ greek:'ἰδοὺ ἡ παρθένος ἐν γαστρὶ ἕξει καὶ τέξεται υἱόν',
+      english:'Behold, the virgin will conceive in the womb and bear a son',
+      keyTerm:'παρθένος (parthenos)', keyMeaning:'"Virgin" — the LXX translators chose this far more specific term' },
+    nt:{ greek:'ἰδοὺ ἡ παρθένος ἐν γαστρὶ ἕξει καὶ τέξεται υἱόν',
+      english:'Behold, the virgin will conceive and bear a son', reference:'Matthew 1:23', follows:'LXX verbatim' },
+    commentary:'The Hebrew עַלְמָה (ʿalmah) occurs nine times in the OT and refers to a young woman of marriageable age, without any necessary implication of virginity (the specific Hebrew term for "virgin" is בְּתוּלָה, betulah). The LXX translators chose παρθένος (parthenos), which explicitly denotes a virgin. Matthew\'s entire birth narrative rests on this LXX reading: both the angel\'s announcement and the evangelist\'s editorial comment depend on the word "virgin." This is arguably the single most consequential LXX/MT divergence in all of New Testament theology.'
   },
   {
-    id: 'ps-40-6',
-    otRef: 'Psalm 40:6 (LXX 39:7)', ntRef: 'Hebrews 10:5',
-    category: 'Substantial Difference', type: 'substantial',
-    title: 'Body or Ears?',
-    divergence: 'Hebrews 10:5–10 builds its entire incarnational argument on "a body you prepared for me" — a reading wholly absent from the MT.',
-    mt: {
-      hebrew: 'אָזְנַיִם כָּרִיתָ לִּי',
-      translit: 'oznayim karita li',
-      english: 'Ears you have dug / opened for me',
-      keyTerm: 'אָזְנַיִם (oznayim)',
-      keyMeaning: '"Ears" — possibly an idiom for receptive obedience; cf. the ear-piercing rite of Ex 21:6'
-    },
-    lxx: {
-      greek: 'σῶμα δὲ κατηρτίσω μοι',
-      english: 'But a body you have prepared for me',
-      keyTerm: 'σῶμα (sōma)',
-      keyMeaning: '"Body" — a radical departure; may reflect a different Hebrew Vorlage or interpretive expansion'
-    },
-    nt: {
-      greek: 'σῶμα δὲ κατηρτίσω μοι',
-      english: 'A body you have prepared for me',
-      follows: 'LXX verbatim'
-    },
-    commentary: 'The MT\'s "ears you have dug/opened" is likely an idiom meaning "you have given me attentive, obedient hearing" — perhaps alluding to the boring of a slave\'s ear in Exodus 21:6 to signal permanent service. The LXX\'s "a body you have prepared for me" is a substantial departure that may reflect a different Hebrew parent text or an expansive interpretation. The author of Hebrews quotes this LXX reading and explicitly interprets it: Christ\'s words at the Incarnation ("a body you prepared for me") mean that the offering of his physical body abolishes the animal sacrificial system. The entire christological argument of Hebrews 10:5–10 would be impossible from the MT alone.'
+    id:'ps-40-6', otRef:'Psalm 40:6 (LXX 39:7)', ntRef:'Hebrews 10:5',
+    category:'Substantial Difference', type:'substantial',
+    title:'Body or Ears?',
+    divergence:'Hebrews 10:5–10 builds its entire incarnational argument on "a body you prepared for me" — a reading wholly absent from the MT.',
+    mt:{ hebrew:'אָזְנַיִם כָּרִיתָ לִּי', translit:'oznayim karita li',
+      english:'Ears you have dug / opened for me',
+      keyTerm:'אָזְנַיִם (oznayim)', keyMeaning:'"Ears" — possibly an idiom for receptive obedience; cf. the ear-piercing rite of Ex 21:6' },
+    lxx:{ greek:'σῶμα δὲ κατηρτίσω μοι', english:'But a body you have prepared for me',
+      keyTerm:'σῶμα (sōma)', keyMeaning:'"Body" — a radical departure; may reflect a different Hebrew Vorlage or interpretive expansion' },
+    nt:{ greek:'σῶμα δὲ κατηρτίσω μοι', english:'A body you have prepared for me',
+      reference:'Hebrews 10:5', follows:'LXX verbatim' },
+    commentary:'The MT\'s "ears you have dug/opened" is likely an idiom meaning "you have given me attentive, obedient hearing." The LXX\'s "a body you have prepared for me" is a substantial departure. The author of Hebrews quotes this LXX reading and explicitly interprets it: Christ\'s words at the Incarnation ("a body you prepared for me") mean that the offering of his physical body abolishes the animal sacrificial system. The entire christological argument of Hebrews 10:5–10 would be impossible from the MT alone.'
   },
   {
-    id: 'amos-9-12',
-    otRef: 'Amos 9:11–12', ntRef: 'Acts 15:17',
-    category: 'Absent from MT', type: 'absent',
-    title: 'Edom or the Gentiles?',
-    divergence: 'The MT envisions Israel conquering Edom; the LXX transforms this into all Gentiles seeking the Lord — the theological basis for the Jerusalem Council\'s ruling on Gentile inclusion.',
-    mt: {
-      hebrew: 'לְמַעַן יִירְשׁוּ אֶת-שְׁאֵרִית אֱדוֹם',
-      translit: 'lemaʿan yireshu et-sheʾerit edom',
-      english: 'So that they may possess the remnant of Edom and all the nations called by my name',
-      keyTerm: 'אֱדוֹם (Edom) + יִירְשׁוּ (possess)',
-      keyMeaning: 'National restoration: Israel will inherit / conquer Edom\'s remnant'
-    },
-    lxx: {
-      greek: 'ὅπως ἐκζητήσωσιν οἱ κατάλοιποι τῶν ἀνθρώπων τὸν κύριον, καὶ πάντα τὰ ἔθνη',
-      english: 'So that the remnant of mankind may seek the Lord, even all the Gentiles upon whom my name is called',
-      keyTerm: 'ἄνθρωποι / ἔθνη (mankind / Gentiles)',
-      keyMeaning: 'אדם (man) read instead of אדום (Edom); יירשו (possess) → ἐκζητήσωσιν (seek)'
-    },
-    nt: {
-      greek: 'ὅπως ἐκζητήσωσιν οἱ κατάλοιποι τῶν ἀνθρώπων τὸν κύριον',
-      english: 'So that the remnant of mankind may seek the Lord, and all the Gentiles',
-      follows: 'LXX; fundamentally different meaning from MT'
-    },
-    commentary: 'James\'s entire scriptural argument at the Jerusalem Council — that Gentiles should be welcomed without circumcision — rests on this LXX rendering. The MT\'s prophecy is nationalistic: Israel will possess and dominate Edom\'s remnant. The LXX transformation results from two textual differences: (1) The consonants אדם (adam, "man") were read instead of אדום (edom, "Edom") — a plausible variant in unvowelled Hebrew. (2) יִירְשׁוּ (yireshu, "possess/inherit") became ἐκζητήσωσιν (seek) — an expansive rendering. The LXX\'s universalist text became a charter for Gentile mission. Without it, the Jerusalem Council\'s foundational proof-text disappears from the OT entirely.'
+    id:'amos-9-12', otRef:'Amos 9:11–12', ntRef:'Acts 15:17',
+    category:'Absent from MT', type:'absent',
+    title:'Edom or the Gentiles?',
+    divergence:'The MT envisions Israel conquering Edom; the LXX transforms this into all Gentiles seeking the Lord — the theological basis for the Jerusalem Council\'s ruling.',
+    mt:{ hebrew:'לְמַעַן יִירְשׁוּ אֶת-שְׁאֵרִית אֱדוֹם', translit:'lemaʿan yireshu et-sheʾerit edom',
+      english:'So that they may possess the remnant of Edom and all the nations called by my name',
+      keyTerm:'אֱדוֹם (Edom) + יִירְשׁוּ (possess)', keyMeaning:'National restoration: Israel will conquer Edom\'s remnant' },
+    lxx:{ greek:'ὅπως ἐκζητήσωσιν οἱ κατάλοιποι τῶν ἀνθρώπων τὸν κύριον, καὶ πάντα τὰ ἔθνη',
+      english:'So that the remnant of mankind may seek the Lord, even all the Gentiles upon whom my name is called',
+      keyTerm:'ἄνθρωποι / ἔθνη', keyMeaning:'אדם (man) read instead of אדום (Edom); "possess" → "seek"' },
+    nt:{ greek:'ὅπως ἐκζητήσωσιν οἱ κατάλοιποι τῶν ἀνθρώπων τὸν κύριον',
+      english:'So that the remnant of mankind may seek the Lord, and all the Gentiles', reference:'Acts 15:17', follows:'LXX; fundamentally different meaning from MT' },
+    commentary:'James\'s entire scriptural argument at the Jerusalem Council rests on this LXX rendering. The MT\'s prophecy is nationalistic: Israel will possess and dominate Edom\'s remnant. The LXX transformation results from: (1) consonants אדם (man) read instead of אדום (Edom); (2) יִירְשׁוּ (possess) becoming ἐκζητήσωσιν (seek). The LXX\'s universalist text became a charter for Gentile mission. Without it, the Jerusalem Council\'s foundational proof-text disappears from the OT entirely.'
   },
   {
-    id: 'gen-47-31',
-    otRef: 'Genesis 47:31', ntRef: 'Hebrews 11:21',
-    category: 'Orthographic Variant', type: 'textual',
-    title: 'Staff or Bed?',
-    divergence: 'Identical Hebrew consonants מטה were vocalized as "bed" (MT) vs "staff" (LXX) — a difference of vowel-pointing alone.',
-    mt: {
-      hebrew: 'וַיִּשְׁתַּחוּ יִשְׂרָאֵל עַל-רֹאשׁ הַמִּטָּה',
-      translit: 'wayyishtaḥu yisraʾel ʿal-roʾsh ha-mittah',
-      english: 'And Israel bowed in worship at the head of the bed',
-      keyTerm: 'מִּטָּה (mittah)',
-      keyMeaning: '"Bed" — the Masoretes vocalized the consonants מטה as mittah'
-    },
-    lxx: {
-      greek: 'καὶ προσεκύνησεν Ισραηλ ἐπὶ τὸ ἄκρον τῆς ῥάβδου αὐτοῦ',
-      english: 'And Israel worshiped toward the top of his staff',
-      keyTerm: 'ῥάβδος (rhabdos)',
-      keyMeaning: '"Staff" — same consonants מטה read as matteh (rod/staff)'
-    },
-    nt: {
-      greek: 'προσεκύνησεν ἐπὶ τὸ ἄκρον τῆς ῥάβδου αὐτοῦ',
-      english: 'He worshiped leaning on the top of his staff',
-      follows: 'LXX exactly'
-    },
-    commentary: 'Ancient Hebrew was written without vowels. The consonants מטה can be read as מִטָּה (mittah, "bed") or מַטֶּה (matteh, "rod/staff") — both common Hebrew words. The Masoretes, who added vowel points to the text in the early medieval period, chose "bed." The LXX translators, working from an unvowelled text, read "staff" — evoking the patriarch\'s shepherd crook and lifelong journey. Hebrews 11:21 quotes the LXX verbatim as an example of faith. The "staff" reading also resonates with the Joseph narrative\'s recurring rod imagery and may reflect a genuinely older tradition.'
+    id:'gen-47-31', otRef:'Genesis 47:31', ntRef:'Hebrews 11:21',
+    category:'Orthographic Variant', type:'textual',
+    title:'Staff or Bed?',
+    divergence:'Identical Hebrew consonants מטה were vocalized as "bed" (MT) vs "staff" (LXX) — a difference of vowel-pointing alone.',
+    mt:{ hebrew:'וַיִּשְׁתַּחוּ יִשְׂרָאֵל עַל-רֹאשׁ הַמִּטָּה', translit:'wayyishtaḥu yisraʾel ʿal-roʾsh ha-mittah',
+      english:'And Israel bowed in worship at the head of the bed',
+      keyTerm:'מִּטָּה (mittah)', keyMeaning:'"Bed" — the Masoretes vocalized the consonants מטה as mittah' },
+    lxx:{ greek:'καὶ προσεκύνησεν Ισραηλ ἐπὶ τὸ ἄκρον τῆς ῥάβδου αὐτοῦ',
+      english:'And Israel worshiped toward the top of his staff',
+      keyTerm:'ῥάβδος (rhabdos)', keyMeaning:'"Staff" — same consonants מטה read as matteh (rod/staff)' },
+    nt:{ greek:'προσεκύνησεν ἐπὶ τὸ ἄκρον τῆς ῥάβδου αὐτοῦ',
+      english:'He worshiped leaning on the top of his staff', reference:'Hebrews 11:21', follows:'LXX exactly' },
+    commentary:'Ancient Hebrew was written without vowels. The consonants מטה can be read as מִטָּה (mittah, "bed") or מַטֶּה (matteh, "rod/staff"). The Masoretes vocalized it "bed"; the LXX translators read "staff" — evoking the patriarch\'s shepherd crook. Hebrews 11:21 quotes the LXX verbatim as an example of faith. The "staff" reading may reflect a genuinely older tradition and resonates with the Joseph narrative\'s rod imagery.'
   },
   {
-    id: 'eph-4-8',
-    otRef: 'Psalm 68:18', ntRef: 'Ephesians 4:8',
-    category: 'Targumic Reading', type: 'targumic',
-    title: 'Gave or Received Gifts?',
-    divergence: 'Ephesians reverses the direction of gift-giving, changing "received" to "gave" — differing from both MT and LXX, likely following Aramaic targumic tradition.',
-    mt: {
-      hebrew: 'לָקַחְתָּ מַתָּנוֹת בָּאָדָם',
-      translit: 'laqaḥta mattanot ba-adam',
-      english: 'You have received gifts among men',
-      keyTerm: 'לָקַחְתָּ (laqaḥta)',
-      keyMeaning: '"You received" — God / the victorious king receiving tribute after ascending'
-    },
-    lxx: {
-      greek: 'ἔλαβες δόματα ἐν ἀνθρώπῳ',
-      english: 'You received gifts among men',
-      keyTerm: 'ἔλαβες (elabes)',
-      keyMeaning: '"You received" — LXX closely follows MT; both have "received"'
-    },
-    nt: {
-      greek: 'ἔδωκεν δόματα τοῖς ἀνθρώποις',
-      english: 'He gave gifts to men',
-      follows: 'Neither MT nor LXX — follows Aramaic Targum tradition'
-    },
-    commentary: 'Uniquely among these examples, Ephesians 4:8 differs from both the MT and the LXX, which both read "received." The Aramaic Targum on the Psalms, however, reads "gave gifts to men," interpreted as Moses ascending Mount Sinai to receive the Torah and then distributing it to Israel. Paul may be drawing on this targumic tradition, or may be making his own inspired midrashic application: he inverts the direction of gift-giving — where the Psalm celebrated a king receiving tribute from conquered peoples, Paul sees Christ the ascended conqueror distributing spiritual gifts (apostles, prophets, evangelists, pastors, teachers) to the church. The theological move from "received" to "gave" is the argument itself.'
+    id:'eph-4-8', otRef:'Psalm 68:18', ntRef:'Ephesians 4:8',
+    category:'Targumic Reading', type:'targumic',
+    title:'Gave or Received Gifts?',
+    divergence:'Ephesians reverses the direction of gift-giving — differing from both MT and LXX, likely following Aramaic targumic tradition.',
+    mt:{ hebrew:'לָקַחְתָּ מַתָּנוֹת בָּאָדָם', translit:'laqaḥta mattanot ba-adam',
+      english:'You have received gifts among men',
+      keyTerm:'לָקַחְתָּ (laqaḥta)', keyMeaning:'"You received" — God / the victorious king receiving tribute after ascending' },
+    lxx:{ greek:'ἔλαβες δόματα ἐν ἀνθρώπῳ', english:'You received gifts among men',
+      keyTerm:'ἔλαβες (elabes)', keyMeaning:'"You received" — LXX closely follows MT; both have "received"' },
+    nt:{ greek:'ἔδωκεν δόματα τοῖς ἀνθρώποις', english:'He gave gifts to men',
+      reference:'Ephesians 4:8', follows:'Neither MT nor LXX — follows Aramaic Targum tradition' },
+    commentary:'Ephesians 4:8 differs from both MT and LXX, which both read "received." The Aramaic Targum on the Psalms reads "gave gifts to men," interpreted as Moses ascending Sinai to receive the Torah then distributing it to Israel. Paul inverts the direction of gift-giving: Christ the ascended conqueror distributes spiritual gifts to the church. The theological move from "received" to "gave" is the argument itself.'
   },
   {
-    id: 'isa-28-16',
-    otRef: 'Isaiah 28:16', ntRef: 'Romans 9:33 / 1 Peter 2:6',
-    category: 'LXX Intensification', type: 'translation',
-    title: '"Never" Put to Shame',
-    divergence: 'The MT uses a military metaphor ("will not flee in panic"); the LXX shifts to shame/honor language adopted wholesale by both Romans and 1 Peter.',
-    mt: {
-      hebrew: 'לֹא יָחִישׁ',
-      translit: 'lo yaḥish',
-      english: 'Will not hurry away / will not flee in panic',
-      keyTerm: 'יָחִישׁ (yaḥish)',
-      keyMeaning: '"Hasten/hurry" — a military image: the faithful need not flee in rout'
-    },
-    lxx: {
-      greek: 'ὁ πιστεύων ἐπ᾽ αὐτῷ οὐ μὴ καταισχυνθῇ',
-      english: 'The one who believes in him will by no means be put to shame',
-      keyTerm: 'οὐ μή + καταισχυνθῇ',
-      keyMeaning: '"By no means" (strong negation) + "be shamed" — shifts to honor/shame register'
-    },
-    nt: {
-      greek: 'ὁ πιστεύων ἐπ᾽ αὐτῷ οὐ καταισχυνθήσεται',
-      english: 'The one who believes in him will not be put to shame',
-      follows: 'LXX; shame/honor framework fits Greco-Roman context'
-    },
-    commentary: 'The MT\'s prophecy operates in the register of military security: the one who trusts will not need to flee in panic when crisis comes. The LXX shifts the metaphor into the honor-shame domain, which was the primary social currency of the Greco-Roman world. Both Paul in Romans and Peter in his first letter cite the LXX text, building soteriological arguments about the believer\'s security in Christ using shame-and-honor language that their audiences would have found deeply resonant. The LXX was not merely a verbal translation but a cultural one into Hellenistic categories.'
+    id:'isa-28-16', otRef:'Isaiah 28:16', ntRef:'Romans 9:33 / 1 Peter 2:6',
+    category:'LXX Intensification', type:'translation',
+    title:'"Never" Put to Shame',
+    divergence:'The MT uses a military metaphor ("will not flee"); the LXX shifts to shame/honor language adopted wholesale by Romans and 1 Peter.',
+    mt:{ hebrew:'לֹא יָחִישׁ', translit:'lo yaḥish', english:'Will not hurry away / will not flee in panic',
+      keyTerm:'יָחִישׁ (yaḥish)', keyMeaning:'"Hasten/hurry" — a military image: the faithful need not flee in rout' },
+    lxx:{ greek:'ὁ πιστεύων ἐπ᾽ αὐτῷ οὐ μὴ καταισχυνθῇ', english:'The one who believes in him will by no means be put to shame',
+      keyTerm:'οὐ μή + καταισχυνθῇ', keyMeaning:'"By no means" (strong negation) + "be shamed" — shifts to honor/shame register' },
+    nt:{ greek:'ὁ πιστεύων ἐπ᾽ αὐτῷ οὐ καταισχυνθήσεται',
+      english:'The one who believes in him will not be put to shame',
+      reference:'Romans 9:33; 1 Peter 2:6', follows:'LXX; shame/honor framework fits Greco-Roman context' },
+    commentary:'The MT\'s prophecy operates in the register of military security: the one who trusts will not need to flee when crisis comes. The LXX shifts the metaphor into the honor-shame domain, which was the primary social currency of the Greco-Roman world. Both Paul in Romans and Peter in his first letter cite the LXX text, building soteriological arguments using shame-and-honor language deeply resonant for their audiences.'
   },
   {
-    id: 'deut-32-43',
-    otRef: 'Deuteronomy 32:43', ntRef: 'Hebrews 1:6',
-    category: 'Absent from MT', type: 'absent',
-    title: '"Let All Angels Worship Him"',
-    divergence: 'The angel-worship clause is entirely absent from the MT, but present in both the LXX and the Dead Sea Scrolls — confirming a lost Hebrew original.',
-    mt: {
-      absent: true,
-      english: '[Deut 32:43 MT reads: "Rejoice, O nations, with his people." The call for divine beings to worship is completely absent from the MT.]',
-      keyTerm: '(clause absent)',
-      keyMeaning: 'The MT is a shorter recension; this angel-worship command does not exist in it in any form'
-    },
-    lxx: {
-      greek: 'καὶ προσκυνησάτωσαν αὐτῷ πάντες υἱοὶ θεοῦ',
-      english: 'And let all the sons of God worship him',
-      keyTerm: 'υἱοὶ θεοῦ (huioi theou)',
-      keyMeaning: '"Sons of God" = divine beings/angels; this entire colon is absent from the MT'
-    },
-    nt: {
-      greek: 'καὶ προσκυνησάτωσαν αὐτῷ πάντες ἄγγελοι θεοῦ',
-      english: 'And let all God\'s angels worship him',
-      follows: 'LXX (with ἄγγελοι for υἱοί); confirmed by Dead Sea Scroll 4QDeutq'
-    },
-    commentary: 'The Dead Sea Scroll fragment 4QDeutq (Cave 4) contains Hebrew text corresponding to the LXX addition — proving that the LXX did not invent this verse but translated a genuine Hebrew Vorlage that the MT later shortened. Hebrews 1:6 uses this verse as the climax of its opening catena arguing for Jesus\'s superiority over angels: if the OT itself commands all divine beings to worship the Son, his supremacy over the angelic order is scripturally grounded. This argument is literally impossible from the MT alone — the verse quoted does not exist there.'
+    id:'deut-32-43', otRef:'Deuteronomy 32:43', ntRef:'Hebrews 1:6',
+    category:'Absent from MT', type:'absent',
+    title:'"Let All Angels Worship Him"',
+    divergence:'The angel-worship clause is entirely absent from the MT, but present in both the LXX and the Dead Sea Scrolls — confirming a lost Hebrew original.',
+    mt:{ absent:true, english:'[Deut 32:43 MT reads: "Rejoice, O nations, with his people." The call for divine beings to worship is completely absent.]',
+      keyTerm:'(clause absent)', keyMeaning:'The MT is a shorter recension; this angel-worship command does not exist there in any form' },
+    lxx:{ greek:'καὶ προσκυνησάτωσαν αὐτῷ πάντες υἱοὶ θεοῦ',
+      english:'And let all the sons of God worship him',
+      keyTerm:'υἱοὶ θεοῦ (huioi theou)', keyMeaning:'"Sons of God" = divine beings; this entire colon is absent from the MT' },
+    nt:{ greek:'καὶ προσκυνησάτωσαν αὐτῷ πάντες ἄγγελοι θεοῦ',
+      english:'And let all God\'s angels worship him',
+      reference:'Hebrews 1:6', follows:'LXX (with ἄγγελοι for υἱοί); confirmed by Dead Sea Scroll 4QDeutq' },
+    commentary:'The Dead Sea Scroll fragment 4QDeutq contains Hebrew corresponding to the LXX addition — proving the LXX did not invent this verse but translated a genuine Hebrew Vorlage that the MT later shortened. Hebrews 1:6 uses this verse as the climax of its opening argument for Jesus\'s superiority over angels. This argument is literally impossible from the MT alone — the verse quoted does not exist there.'
   },
   {
-    id: 'joel-2-28',
-    otRef: 'Joel 2:28 (MT 3:1)', ntRef: 'Acts 2:17',
-    category: 'Interpretive Addition', type: 'interpretive',
-    title: '"In the Last Days"',
-    divergence: 'Both MT and LXX say "afterward"; Peter replaces this with "in the last days" — claiming Pentecost inaugurates the eschatological era.',
-    mt: {
-      hebrew: 'וְהָיָה אַחֲרֵי-כֵן',
-      translit: 've-hayah aḥarei-khen',
-      english: 'And it shall come to pass afterward',
-      keyTerm: 'אַחֲרֵי-כֵן (aḥarei-khen)',
-      keyMeaning: '"After this / afterward" — a vague temporal marker with no eschatological specificity'
-    },
-    lxx: {
-      greek: 'καὶ ἔσται μετὰ ταῦτα',
-      english: 'And it shall be after these things',
-      keyTerm: 'μετὰ ταῦτα',
-      keyMeaning: '"After these things" — closely follows MT; no eschatological intensification'
-    },
-    nt: {
-      greek: 'καὶ ἔσται ἐν ταῖς ἐσχάταις ἡμέραις',
-      english: 'And it shall be in the last days',
-      follows: 'Peter replaces both MT and LXX with an explicit eschatological phrase'
-    },
-    commentary: 'Both the MT and the LXX have only "afterward/after these things." Peter\'s Pentecost sermon substitutes ἐν ταῖς ἐσχάταις ἡμέραις ("in the last days"), a phrase drawn from the prophetic tradition (Isaiah 2:2, Micah 4:1) that signals the final eschatological era. By changing "afterward" to "in the last days," Peter makes a programmatic theological claim: the outpouring of the Spirit at Pentecost is not merely a sequel — it is the inauguration of the eschaton. This single two-word substitution establishes the eschatological framework for the entire book of Acts.'
+    id:'joel-2-28', otRef:'Joel 2:28 (MT 3:1)', ntRef:'Acts 2:17',
+    category:'Interpretive Addition', type:'interpretive',
+    title:'"In the Last Days"',
+    divergence:'Both MT and LXX say "afterward"; Peter replaces this with "in the last days" — claiming Pentecost inaugurates the eschatological era.',
+    mt:{ hebrew:'וְהָיָה אַחֲרֵי-כֵן', translit:'ve-hayah aḥarei-khen', english:'And it shall come to pass afterward',
+      keyTerm:'אַחֲרֵי-כֵן (aḥarei-khen)', keyMeaning:'"After this / afterward" — a vague temporal marker with no eschatological specificity' },
+    lxx:{ greek:'καὶ ἔσται μετὰ ταῦτα', english:'And it shall be after these things',
+      keyTerm:'μετὰ ταῦτα', keyMeaning:'"After these things" — closely follows MT; no eschatological intensification' },
+    nt:{ greek:'καὶ ἔσται ἐν ταῖς ἐσχάταις ἡμέραις',
+      english:'And it shall be in the last days',
+      reference:'Acts 2:17', follows:'Peter replaces both MT and LXX with an explicit eschatological phrase' },
+    commentary:'Both the MT and the LXX have only "afterward/after these things." Peter\'s Pentecost sermon substitutes ἐν ταῖς ἐσχάταις ἡμέραις ("in the last days"), a phrase from the prophetic tradition (Isaiah 2:2, Micah 4:1) that signals the final eschatological era. This single substitution establishes the eschatological framework for the entire book of Acts: Pentecost is not merely a sequel — it is the inauguration of the end-times.'
   }
 ];
 
-/* ── APOCRYPHAL / DEUTEROCANONICAL ALLUSIONS ── */
 const APOCRYPHA = [
   {
-    id: 'ap-rom1-wis13',
-    apocRef: 'Wisdom 13:1–9; 14:22–27', ntRef: 'Romans 1:18–32',
-    category: 'Close Parallel', type: 'apocrypha',
-    strength: 5,
-    title: 'The Catalog of Gentile Idolatry',
-    divergence: 'Romans 1:18–32 follows the argument and vocabulary of Wisdom of Solomon 13–14 paragraph by paragraph — the most extensive NT borrowing from the Deuterocanon.',
-    apoc: {
-      source: 'Wisdom of Solomon 13:1–5 / 14:22–27',
-      greek: 'πάντες ἄνθρωποι οἷς παρῆν θεοῦ ἀγνωσία… οὐκ ἴσχυσαν εἰδέναι τὸν ὄντα',
-      english: 'All people who were ignorant of God were foolish by nature; and they were unable from the good things that are seen to know the one who exists… They live in a great war of ignorance, and this evil they call peace. They murder children in their initiations and celebrate secret mysteries… No longer do they keep either their lives or their marriages pure.',
-      keyTerm: 'Natural knowledge / catalog of vices',
-      keyMeaning: 'Wisdom 13 argues Gentiles should know God from creation; ch. 14 lists sexual sins, murder, idolatry resulting from paganism'
-    },
-    nt: {
-      greek: 'τὸ γνωστὸν τοῦ θεοῦ φανερόν ἐστιν ἐν αὐτοῖς… παρέδωκεν αὐτοὺς ὁ θεὸς εἰς πάθη ἀτιμίας',
-      english: 'What can be known about God is plain to them… God gave them up to dishonorable passions… They were filled with all manner of unrighteousness, evil, covetousness, malice, envy, murder, strife, deceit…',
-      reference: 'Romans 1:19–32',
-      follows: 'Follows Wisdom of Solomon\'s argument structure and vocabulary closely'
-    },
-    commentary: 'Romans 1:18–32 is almost certainly dependent on Wisdom of Solomon 13–14. The parallels are structural, not merely verbal: (1) both argue from natural revelation that God is knowable from creation (Wis 13:1–9 / Rom 1:19–21); (2) both conclude that the Gentiles are "without excuse" (Wis 13:8 / Rom 1:20 — ἀναπολόγητοι); (3) both follow with an extensive catalog of sins resulting from idolatry (Wis 14:22–27 / Rom 1:24–32), using overlapping terms. Paul\'s innovation is to extend the argument: Wisdom concludes that Jews who know the Law are better off; Romans 2 then turns the same logic against Jewish privilege.'
+    id:'ap-rom1-wis13', apocRef:'Wisdom 13:1–9; 14:22–27', ntRef:'Romans 1:18–32',
+    category:'Close Parallel', type:'apocrypha', strength:5,
+    title:'The Catalog of Gentile Idolatry',
+    divergence:'Romans 1:18–32 follows the argument and vocabulary of Wisdom of Solomon 13–14 paragraph by paragraph — the most extensive NT borrowing from the Deuterocanon.',
+    apoc:{ source:'Wisdom 13:1–5 / 14:22–27',
+      greek:'πάντες ἄνθρωποι οἷς παρῆν θεοῦ ἀγνωσία… οὐκ ἴσχυσαν εἰδέναι τὸν ὄντα',
+      english:'All people who were ignorant of God were foolish by nature; and they were unable from the good things that are seen to know the one who exists… They live in a great war of ignorance, and this evil they call peace. They murder children in their initiations. No longer do they keep either their lives or their marriages pure.',
+      keyTerm:'Natural knowledge / catalog of vices', keyMeaning:'Wisdom 13 argues Gentiles should know God from creation; ch. 14 lists the sexual sins and murders that result from idolatry' },
+    nt:{ greek:'τὸ γνωστὸν τοῦ θεοῦ φανερόν ἐστιν ἐν αὐτοῖς… παρέδωκεν αὐτοὺς ὁ θεὸς εἰς πάθη ἀτιμίας',
+      english:'What can be known about God is plain to them… God gave them up to dishonorable passions… They were filled with all manner of unrighteousness, evil, covetousness, malice, envy, murder, strife…',
+      reference:'Romans 1:19–32', follows:'Follows Wisdom of Solomon\'s argument structure and vocabulary closely' },
+    commentary:'Romans 1:18–32 is almost certainly dependent on Wisdom of Solomon 13–14. The parallels are structural, not merely verbal: (1) both argue natural revelation makes God knowable from creation (Wis 13:1–9 / Rom 1:19–21); (2) both conclude Gentiles are "without excuse" (Wis 13:8 / Rom 1:20 — ἀναπολόγητοι); (3) both follow with an extensive vice catalog resulting from idolatry (Wis 14:22–27 / Rom 1:24–32). Paul\'s innovation is to extend the argument: Wisdom concludes Jews who know the Law are better off; Romans 2 then turns the same logic against Jewish privilege.'
   },
   {
-    id: 'ap-heb1-wis7',
-    apocRef: 'Wisdom 7:25–26', ntRef: 'Hebrews 1:3',
-    category: 'Verbal Parallel', type: 'apocrypha',
-    strength: 5,
-    title: 'Radiance and Image of God',
-    divergence: 'Hebrews 1:3\'s language for the Son — "radiance of glory" and "exact imprint of his nature" — appears to be drawn directly from Wisdom\'s description of divine Wisdom.',
-    apoc: {
-      source: 'Wisdom of Solomon 7:25–26',
-      greek: 'ἀπόρροια γάρ ἐστιν τῆς τοῦ παντοδυνάμου δόξης εἰλικρινής… ἀπαύγασμα γάρ ἐστιν φωτὸς ἀϊδίου καὶ ἔσοπτρον ἀκηλίδωτον τῆς τοῦ θεοῦ ἐνεργείας καὶ εἰκὼν τῆς ἀγαθότητος αὐτοῦ',
-      english: 'For she is a pure emanation of the glory of the Almighty… For she is a reflection (ἀπαύγασμα) of eternal light, a spotless mirror of the working of God, and an image of his goodness.',
-      keyTerm: 'ἀπαύγασμα (apaugasma)',
-      keyMeaning: '"Radiance / reflection" — the key term shared verbatim between Wisdom 7:26 and Hebrews 1:3'
-    },
-    nt: {
-      greek: 'ὃς ὢν ἀπαύγασμα τῆς δόξης καὶ χαρακτὴρ τῆς ὑποστάσεως αὐτοῦ',
-      english: 'He is the radiance (ἀπαύγασμα) of the glory of God and the exact imprint of his nature',
-      reference: 'Hebrews 1:3',
-      follows: 'Appropriates Wisdom\'s ἀπαύγασμα and applies it to the Son, not impersonal Wisdom'
-    },
-    commentary: 'The author of Hebrews opens the letter with an exalted christological statement using vocabulary lifted almost verbatim from Wisdom of Solomon. The rare term ἀπαύγασμα ("radiance/reflection") occurs in the LXX only at Wisdom 7:26. Hebrews takes the attributes of personified Wisdom — radiance of divine glory, image of God\'s goodness — and applies them directly to the pre-existent Son. This is part of the broader early Christian practice of identifying Jesus with the divine Wisdom figure of Jewish wisdom literature, transferring to him what Wisdom texts said about the personified divine attribute.'
+    id:'ap-heb1-wis7', apocRef:'Wisdom 7:25–26', ntRef:'Hebrews 1:3',
+    category:'Verbal Parallel', type:'apocrypha', strength:5,
+    title:'Radiance and Image of God',
+    divergence:'Hebrews 1:3\'s language for the Son — "radiance of glory" and "exact imprint of his nature" — is drawn directly from Wisdom\'s description of divine Wisdom.',
+    apoc:{ source:'Wisdom 7:25–26',
+      greek:'ἀπόρροια γάρ ἐστιν τῆς τοῦ παντοδυνάμου δόξης εἰλικρινής… ἀπαύγασμα γάρ ἐστιν φωτὸς ἀϊδίου καὶ εἰκὼν τῆς ἀγαθότητος αὐτοῦ',
+      english:'For she is a pure emanation of the glory of the Almighty… For she is a reflection (ἀπαύγασμα) of eternal light, a spotless mirror of the working of God, and an image of his goodness.',
+      keyTerm:'ἀπαύγασμα (apaugasma)', keyMeaning:'"Radiance / reflection" — the key term shared verbatim between Wisdom 7:26 and Hebrews 1:3' },
+    nt:{ greek:'ὃς ὢν ἀπαύγασμα τῆς δόξης καὶ χαρακτὴρ τῆς ὑποστάσεως αὐτοῦ',
+      english:'He is the radiance (ἀπαύγασμα) of the glory of God and the exact imprint of his nature',
+      reference:'Hebrews 1:3', follows:'Appropriates Wisdom\'s ἀπαύγασμα, applying Wisdom\'s attributes to the Son' },
+    commentary:'The author of Hebrews opens with an exalted christological statement using vocabulary lifted almost verbatim from Wisdom of Solomon. The rare term ἀπαύγασμα ("radiance/reflection") occurs in the LXX only at Wisdom 7:26. Hebrews takes the attributes of personified Wisdom — radiance of divine glory, image of God\'s goodness — and applies them directly to the pre-existent Son. This is part of the broader early Christian practice of identifying Jesus with the divine Wisdom figure of Jewish wisdom literature.'
   },
   {
-    id: 'ap-mt27-wis2',
-    apocRef: 'Wisdom 2:12–20', ntRef: 'Matthew 27:43',
-    category: 'Direct Quote', type: 'apocrypha',
-    strength: 4,
-    title: '"If He Is God\'s Son, Let Him Deliver Him"',
-    divergence: 'The mockers at the cross quote language found almost verbatim in Wisdom 2:18, describing how the wicked test the righteous man who claims to be God\'s son.',
-    apoc: {
-      source: 'Wisdom 2:18–20',
-      greek: 'εἰ γάρ ἐστιν ὁ δίκαιος υἱὸς θεοῦ, ἀντιλήψεται αὐτοῦ καὶ ῥύσεται αὐτὸν ἐκ χειρὸς ἀνθεστηκότων',
-      english: 'For if the righteous man is God\'s son, he will help him and will deliver him from the hand of his adversaries. Let us test him with insult and torture, so that we may find out how gentle he is.',
-      keyTerm: 'υἱὸς θεοῦ (huios theou)',
-      keyMeaning: '"Son of God" — Wisdom 2 depicts the wicked testing the righteous man who calls himself God\'s child'
-    },
-    nt: {
-      greek: 'πέποιθεν ἐπὶ τὸν θεόν, ῥυσάσθω νῦν εἰ θέλει αὐτόν· εἶπεν γὰρ ὅτι θεοῦ εἰμι υἱός',
-      english: 'He trusts in God; let God deliver him now, if he desires him. For he said, "I am the Son of God."',
-      reference: 'Matthew 27:43',
-      follows: 'Nearly direct quotation of Wisdom 2:18 — possibly the most deliberate Deuterocanonical citation in the Gospels'
-    },
-    commentary: 'The taunt of the chief priests and elders at the cross ("if he is the Son of God, let God deliver him now") is strikingly close to Wisdom 2:18: "if the righteous man is God\'s son, he will help him and deliver him." Wisdom 2 describes the conspiracy of the wicked against the righteous sufferer who calls himself a child of God — a passage Matthew\'s passion narrative appears to consciously fulfill. This is one of the clearest cases of a NT Passion narrative drawing on Deuterocanonical text. Many scholars consider it a deliberate literary echo designed to present the crucifixion as the fulfillment of Wisdom\'s portrait of the persecuted righteous man.'
+    id:'ap-mt27-wis2', apocRef:'Wisdom 2:12–20', ntRef:'Matthew 27:43',
+    category:'Direct Quote', type:'apocrypha', strength:4,
+    title:'"If He Is God\'s Son, Let Him Deliver Him"',
+    divergence:'The mockers at the cross quote language found almost verbatim in Wisdom 2:18 — describing the wicked testing the righteous man who claims to be God\'s son.',
+    apoc:{ source:'Wisdom 2:18–20',
+      greek:'εἰ γάρ ἐστιν ὁ δίκαιος υἱὸς θεοῦ, ἀντιλήψεται αὐτοῦ καὶ ῥύσεται αὐτὸν ἐκ χειρὸς ἀνθεστηκότων',
+      english:'For if the righteous man is God\'s son, he will help him and will deliver him from the hand of his adversaries. Let us test him with insult and torture, so that we may find out how gentle he is.',
+      keyTerm:'υἱὸς θεοῦ (huios theou)', keyMeaning:'"Son of God" — Wisdom 2 depicts the wicked testing the righteous man who calls himself God\'s child' },
+    nt:{ greek:'πέποιθεν ἐπὶ τὸν θεόν, ῥυσάσθω νῦν εἰ θέλει αὐτόν· εἶπεν γὰρ ὅτι θεοῦ εἰμι υἱός',
+      english:'He trusts in God; let God deliver him now, if he desires him. For he said, "I am the Son of God."',
+      reference:'Matthew 27:43', follows:'Near-direct quotation of Wisdom 2:18 — possibly the most deliberate Deuterocanonical citation in the Gospels' },
+    commentary:'The taunt of the chief priests at the cross closely echoes Wisdom 2:18: "if the righteous man is God\'s son, he will deliver him." Wisdom 2 describes the conspiracy of the wicked against the righteous sufferer who calls himself a child of God — a passage Matthew\'s passion narrative appears to consciously fulfill. Many scholars consider this a deliberate literary echo designed to present the crucifixion as the fulfillment of Wisdom\'s portrait of the persecuted righteous man.'
   },
   {
-    id: 'ap-heb11-2mac7',
-    apocRef: '2 Maccabees 7', ntRef: 'Hebrews 11:35',
-    category: 'Historical Allusion', type: 'apocrypha',
-    strength: 4,
-    title: 'Resurrection of the Martyrs',
-    divergence: 'Hebrews 11:35b refers to those "tortured, refusing to accept release, so that they might rise again to a better life" — the martyrs of 2 Maccabees 7 are the only historical referent that fits.',
-    apoc: {
-      source: '2 Maccabees 7:1–42',
-      greek: 'ὁ δὲ ἔφη Οὐρανόθεν ταῦτα κεκτημένος διὰ τοὺς αὐτοῦ νόμους καὶ ταῦτα νῦν ὑπεροράω, καὶ παρ᾽ αὐτοῦ ταῦτα πάλιν ἐλπίζω κομίσασθαι',
-      english: 'The third brother said: "I got these limbs from Heaven, and for the sake of his laws I disdain them, and from him I hope to get them back again." … The mother said: "Do not fear this butcher, but prove worthy of your brothers. Accept death, so that in God\'s mercy I may get you back again along with your brothers."',
-      keyTerm: 'Resurrection hope under torture',
-      keyMeaning: 'Seven brothers are tortured to death under Antiochus IV, each expressing confident hope in bodily resurrection'
-    },
-    nt: {
-      greek: 'ἄλλοι δὲ ἐτυμπανίσθησαν, οὐ προσδεξάμενοι τὴν ἀπολύτρωσιν, ἵνα κρείττονος ἀναστάσεως τύχωσιν',
-      english: 'Others were tortured, refusing to accept release, so that they might rise again to a better life (resurrection)',
-      reference: 'Hebrews 11:35b',
-      follows: 'Direct historical allusion; "tortured" (ἐτυμπανίσθησαν) refers to the specific rack-like instrument in 2 Macc 7'
-    },
-    commentary: 'Hebrews 11:35b shifts from OT examples of faith (the previous verses) to unnamed heroes who "were tortured" (ἐτυμπανίσθησαν) and "refused to accept release, so that they might rise again to a better life." The Greek verb τυμπανίζω refers to stretching on a rack or wheel — the exact instrument described in 2 Maccabees 7. The seven brothers and their mother, martyred under Antiochus Epiphanes IV, are the only historical referent matching this description, and their explicit resurrection hope ("I will get these back from him again") is the "better resurrection" Hebrews cites. This makes 2 Maccabees 7 the likely historical source for this passage.'
+    id:'ap-heb11-2mac7', apocRef:'2 Maccabees 7', ntRef:'Hebrews 11:35',
+    category:'Historical Allusion', type:'apocrypha', strength:4,
+    title:'Resurrection of the Martyrs',
+    divergence:'Hebrews 11:35b refers to those "tortured, refusing to accept release, so that they might rise again to a better life" — the martyrs of 2 Maccabees 7 are the only historical referent that fits.',
+    apoc:{ source:'2 Maccabees 7:1–42',
+      greek:'παρ᾽ αὐτοῦ ταῦτα πάλιν ἐλπίζω κομίσασθαι',
+      english:'"I got these limbs from Heaven, and for the sake of his laws I disdain them, and from him I hope to get them back again." … The mother said: "Accept death, so that in God\'s mercy I may get you back again along with your brothers."',
+      keyTerm:'Resurrection hope under torture', keyMeaning:'Seven brothers are tortured to death, each expressing confident hope in bodily resurrection' },
+    nt:{ greek:'ἄλλοι δὲ ἐτυμπανίσθησαν, οὐ προσδεξάμενοι τὴν ἀπολύτρωσιν, ἵνα κρείττονος ἀναστάσεως τύχωσιν',
+      english:'Others were tortured, refusing to accept release, so that they might rise again to a better life (resurrection)',
+      reference:'Hebrews 11:35b', follows:'"Tortured" (ἐτυμπανίσθησαν) refers to the specific rack-instrument in 2 Macc 7; no other historical referent fits' },
+    commentary:'Hebrews 11:35b shifts from OT examples of faith to unnamed heroes who "were tortured" (ἐτυμπανίσθησαν). The Greek verb τυμπανίζω refers to stretching on a rack or wheel — the exact instrument in 2 Maccabees 7. The seven brothers and their mother, martyred under Antiochus Epiphanes IV, are the only historical referent matching this description. Their explicit resurrection hope ("I will get these back from him again") is the "better resurrection" Hebrews cites.'
   },
   {
-    id: 'ap-mt11-sir51',
-    apocRef: 'Sirach 51:23–27', ntRef: 'Matthew 11:28–30',
-    category: 'Close Parallel', type: 'apocrypha',
-    strength: 4,
-    title: '"Come to Me… Take My Yoke"',
-    divergence: 'Jesus\'s invitation in Matthew 11:28–30 — "Come to me… take my yoke upon you… find rest for your souls" — closely follows Sirach\'s invitation by divine Wisdom.',
-    apoc: {
-      source: 'Sirach 51:23–27',
-      greek: 'ἐγγίσατε πρός με ἀπαίδευτοι καὶ αὐλίσθητε ἐν οἴκῳ παιδείας… ὑποθέτω τράχηλον ὑμῶν ὑπὸ ζυγόν, καὶ ἐπιδεξάσθω ἡ ψυχὴ ὑμῶν παιδείαν… ἐν πόνοις ὀλίγοις εὕρομεν πολλὴν ἀνάπαυσιν',
-      english: 'Draw near to me, you who are uneducated, and lodge in the house of instruction… Put your neck under her yoke, and let your souls receive instruction… With little effort I found much rest (ἀνάπαυσιν) for myself.',
-      keyTerm: 'ζυγός / ἀνάπαυσις (yoke / rest)',
-      keyMeaning: 'Wisdom\'s yoke and rest — vocabulary and invitation structure shared with Matthew 11'
-    },
-    nt: {
-      greek: 'δεῦτε πρός με πάντες οἱ κοπιῶντες… ἄρατε τὸν ζυγόν μου ἐφ᾽ ὑμᾶς… εὑρήσετε ἀνάπαυσιν ταῖς ψυχαῖς ὑμῶν',
-      english: 'Come to me, all who labor and are heavy laden… Take my yoke upon you… and you will find rest for your souls.',
-      reference: 'Matthew 11:28–30',
-      follows: 'Adopts Wisdom\'s invitation structure; Jesus speaks as divine Wisdom incarnate'
-    },
-    commentary: 'The parallel between Matthew 11:28–30 and Sirach 51:23–27 is one of the most theologically significant connections between the NT and the Deuterocanon. Both texts feature: (1) an invitation ("come to me" / "draw near to me"), (2) the imagery of a yoke (ζυγός), (3) the promise of rest (ἀνάπαυσις) for the soul, (4) an implied contrast between burden and ease. Sirach\'s text is spoken by personified Wisdom; Jesus\'s text is spoken in the first person. The implication, widely noted in NT scholarship, is that Matthew is presenting Jesus as the embodiment and fulfillment of divine Wisdom — taking over Wisdom\'s own words and applying them to himself.'
+    id:'ap-mt11-sir51', apocRef:'Sirach 51:23–27', ntRef:'Matthew 11:28–30',
+    category:'Close Parallel', type:'apocrypha', strength:4,
+    title:'"Come to Me… Take My Yoke"',
+    divergence:'Jesus\'s invitation in Matthew 11:28–30 — "Come to me… take my yoke… find rest" — closely follows Sirach\'s invitation by divine Wisdom.',
+    apoc:{ source:'Sirach 51:23–27',
+      greek:'ἐγγίσατε πρός με ἀπαίδευτοι… ὑποθέτω τράχηλον ὑμῶν ὑπὸ ζυγόν… εὕρομεν πολλὴν ἀνάπαυσιν',
+      english:'Draw near to me, you who are uneducated, and lodge in the house of instruction… Put your neck under her yoke, and let your souls receive instruction… With little effort I found much rest (ἀνάπαυσιν) for myself.',
+      keyTerm:'ζυγός / ἀνάπαυσις (yoke / rest)', keyMeaning:'Wisdom\'s yoke and rest — vocabulary and invitation structure shared with Matthew 11' },
+    nt:{ greek:'δεῦτε πρός με πάντες οἱ κοπιῶντες… ἄρατε τὸν ζυγόν μου ἐφ᾽ ὑμᾶς… εὑρήσετε ἀνάπαυσιν ταῖς ψυχαῖς ὑμῶν',
+      english:'Come to me, all who labor and are heavy laden… Take my yoke upon you… and you will find rest for your souls.',
+      reference:'Matthew 11:28–30', follows:'Adopts Wisdom\'s invitation structure; Jesus speaks as divine Wisdom incarnate' },
+    commentary:'Matthew 11:28–30 and Sirach 51:23–27 share: (1) an invitation ("come to me"), (2) the imagery of a yoke (ζυγός), (3) the promise of rest (ἀνάπαυσις) for the soul. Sirach\'s text is spoken by personified Wisdom; Jesus\'s text is spoken in the first person. Matthew is presenting Jesus as the embodiment of divine Wisdom — taking over Wisdom\'s own words and applying them to himself.'
   },
   {
-    id: 'ap-jas1-sir5',
-    apocRef: 'Sirach 5:11', ntRef: 'James 1:19',
-    category: 'Verbal Parallel', type: 'apocrypha',
-    strength: 3,
-    title: '"Quick to Hear, Slow to Speak"',
-    divergence: 'James\'s famous maxim about listening appears to quote Sirach\'s wisdom saying nearly verbatim.',
-    apoc: {
-      source: 'Sirach 5:11',
-      greek: 'γίνου ταχὺς ἐν ἀκροάσει σου καὶ ἐν μακροθυμίᾳ ἀποκρίνου',
-      english: 'Be quick to hear (ταχὺς ἐν ἀκροάσει), and be deliberate in answering.',
-      keyTerm: 'ταχὺς ἐν ἀκροάσει',
-      keyMeaning: '"Quick to hear" — the phrase is nearly identical to James 1:19'
-    },
-    nt: {
-      greek: 'ἔστω δὲ πᾶς ἄνθρωπος ταχὺς εἰς τὸ ἀκοῦσαι, βραδὺς εἰς τὸ λαλῆσαι',
-      english: 'Let every person be quick to hear (ταχύς), slow to speak, slow to anger.',
-      reference: 'James 1:19',
-      follows: 'Follows Sirach\'s phrasing; James is deeply indebted to Ben Sira\'s wisdom tradition throughout'
-    },
-    commentary: 'James is widely recognized as the NT letter most saturated in wisdom tradition, and its relationship to Sirach (Ben Sira) is pervasive. James 1:19\'s celebrated triad — "quick to hear, slow to speak, slow to anger" — shares its opening clause almost verbatim with Sirach 5:11. The letter of James draws on Sirach extensively throughout: both books share concerns about controlling the tongue (cf. Sirach 19:16 / James 3), the dangers of wealth (Sirach 31:1–11 / James 5), and the testing of the righteous. James may be deliberately recasting Sirach\'s wisdom in light of the teaching of Jesus.'
+    id:'ap-jas1-sir5', apocRef:'Sirach 5:11', ntRef:'James 1:19',
+    category:'Verbal Parallel', type:'apocrypha', strength:3,
+    title:'"Quick to Hear, Slow to Speak"',
+    divergence:'James\'s famous maxim appears to quote Sirach\'s wisdom saying nearly verbatim.',
+    apoc:{ source:'Sirach 5:11',
+      greek:'γίνου ταχὺς ἐν ἀκροάσει σου καὶ ἐν μακροθυμίᾳ ἀποκρίνου',
+      english:'Be quick to hear (ταχὺς ἐν ἀκροάσει), and be deliberate in answering.',
+      keyTerm:'ταχὺς ἐν ἀκροάσει', keyMeaning:'"Quick to hear" — the phrase is nearly identical to James 1:19' },
+    nt:{ greek:'ἔστω δὲ πᾶς ἄνθρωπος ταχὺς εἰς τὸ ἀκοῦσαι, βραδὺς εἰς τὸ λαλῆσαι',
+      english:'Let every person be quick to hear (ταχύς), slow to speak, slow to anger.',
+      reference:'James 1:19', follows:'Follows Sirach\'s phrasing; James is deeply indebted to Ben Sira throughout' },
+    commentary:'James is the NT letter most saturated in wisdom tradition. Its celebrated triad — "quick to hear, slow to speak, slow to anger" — shares its opening clause almost verbatim with Sirach 5:11. The letter of James draws on Sirach extensively: both books share concerns about controlling the tongue (Sirach 19:16 / James 3), the dangers of wealth (Sirach 31:1–11 / James 5), and testing of the righteous.'
   },
   {
-    id: 'ap-1pet1-wis3',
-    apocRef: 'Wisdom 3:5–6', ntRef: '1 Peter 1:6–7',
-    category: 'Close Parallel', type: 'apocrypha',
-    strength: 3,
-    title: 'Faith Tested Like Gold in Fire',
-    divergence: 'The image of faith tested like gold in a furnace — central to 1 Peter\'s theology of suffering — follows Wisdom\'s description of the righteous suffering under trial.',
-    apoc: {
-      source: 'Wisdom 3:5–6',
-      greek: 'ὀλίγα παιδευθέντες μεγάλα εὐεργετηθήσονται, ὅτι ὁ θεὸς ἐπείρασεν αὐτοὺς καὶ εὗρεν αὐτοὺς ἀξίους ἑαυτοῦ· ὡς χρυσὸν ἐν χωνευτηρίῳ ἐδοκίμασεν αὐτούς',
-      english: 'Having been disciplined a little, they will receive great good, because God tested them and found them worthy of himself; like gold in the furnace (ὡς χρυσὸν ἐν χωνευτηρίῳ) he tried them.',
-      keyTerm: 'χρυσός / δοκιμάζω (gold / test/prove)',
-      keyMeaning: 'Wisdom 3 applies the smelting metaphor to the righteous who suffer and are vindicated'
-    },
-    nt: {
-      greek: 'ἵνα τὸ δοκίμιον ὑμῶν τῆς πίστεως πολυτιμότερον χρυσίου τοῦ ἀπολλυμένου διὰ πυρὸς δὲ δοκιμαζομένου',
-      english: 'So that the tested genuineness (δοκίμιον) of your faith — more precious than gold (χρυσίου) that perishes though it is tested by fire (διὰ πυρὸς δοκιμαζομένου)',
-      reference: '1 Peter 1:6–7',
-      follows: 'Shares vocabulary (gold, fire, test/prove) and the theology of suffering as divine refinement'
-    },
-    commentary: 'Wisdom of Solomon 3 is concerned with the suffering of the righteous: outwardly they appear to perish, but God is testing them as gold is tested in a furnace. 1 Peter 1:6–7 applies the same imagery to Christian suffering under persecution, using the same Greek vocabulary: χρυσός (gold), πῦρ (fire), and δοκιμάζω (test/prove). The theological logic is identical: suffering is not abandonment but divine refinement, and the tested faith emerges more precious than refined gold. Whether 1 Peter directly quotes Wisdom or draws on a common wisdom tradition is debated, but the conceptual and verbal overlap is striking.'
+    id:'ap-1pet1-wis3', apocRef:'Wisdom 3:5–6', ntRef:'1 Peter 1:6–7',
+    category:'Close Parallel', type:'apocrypha', strength:3,
+    title:'Faith Tested Like Gold in Fire',
+    divergence:'The image of faith tested like gold — central to 1 Peter\'s theology of suffering — follows Wisdom\'s description of the righteous suffering under trial.',
+    apoc:{ source:'Wisdom 3:5–6',
+      greek:'ὅτι ὁ θεὸς ἐπείρασεν αὐτοὺς καὶ εὗρεν αὐτοὺς ἀξίους ἑαυτοῦ· ὡς χρυσὸν ἐν χωνευτηρίῳ ἐδοκίμασεν αὐτούς',
+      english:'Because God tested them and found them worthy of himself; like gold in the furnace (ὡς χρυσὸν ἐν χωνευτηρίῳ) he tried them.',
+      keyTerm:'χρυσός / δοκιμάζω (gold / test)', keyMeaning:'Wisdom 3 applies the smelting metaphor to the righteous who suffer and are vindicated' },
+    nt:{ greek:'τὸ δοκίμιον ὑμῶν τῆς πίστεως πολυτιμότερον χρυσίου τοῦ ἀπολλυμένου διὰ πυρὸς δὲ δοκιμαζομένου',
+      english:'The tested genuineness of your faith — more precious than gold that perishes though tested by fire.',
+      reference:'1 Peter 1:6–7', follows:'Shares vocabulary (gold, fire, test) and theology of suffering as divine refinement' },
+    commentary:'Wisdom 3 is concerned with the suffering of the righteous: God tests them as gold in a furnace. 1 Peter 1:6–7 applies the same imagery to Christian suffering under persecution, using the same Greek vocabulary: χρυσός (gold), πῦρ (fire), and δοκιμάζω (test). The theological logic is identical: suffering is not abandonment but divine refinement.'
   },
   {
-    id: 'ap-heb4-wis18',
-    apocRef: 'Wisdom 18:14–16', ntRef: 'Hebrews 4:12',
-    category: 'Thematic Parallel', type: 'allusion',
-    strength: 3,
-    title: 'The All-Powerful Word as a Sharp Sword',
-    divergence: 'Hebrews\'s image of the Word of God as a "living and active" two-edged sword leaping from heaven appears to draw on Wisdom\'s poetic account of the divine Word at the Exodus.',
-    apoc: {
-      source: 'Wisdom 18:14–16',
-      greek: 'σοῦ παντοδυνάμου λόγου ἀπ᾽ οὐρανῶν ἐκ θρόνων βασιλείων εἰς μέσον τῆς ὀλεθρίας ἥλατο γῆς ξίφος ὀξὺ τὴν ἀνυπόκριτόν σου ἐπιταγὴν φέρων',
-      english: 'Your all-powerful word (παντοδυνάμου λόγου) leaped from heaven, from the royal throne, into the midst of the doomed land, carrying your stern command like a sharp sword (ξίφος ὀξύ).',
-      keyTerm: 'λόγος + ξίφος ὀξύ (Word + sharp sword)',
-      keyMeaning: 'The divine Word as an agent of judgment, depicted as a sharp sword leaping from heaven'
-    },
-    nt: {
-      greek: 'ζῶν γὰρ ὁ λόγος τοῦ θεοῦ καὶ ἐνεργής, καὶ τομώτερος ὑπὲρ πᾶσαν μάχαιραν δίστομον',
-      english: 'For the word of God is living and active, sharper than any two-edged sword, piercing to the division of soul and of spirit…',
-      reference: 'Hebrews 4:12',
-      follows: 'Shares the "word of God / sharp sword" complex; Wisdom 18 is the most likely intertextual background'
-    },
-    commentary: 'The description in Hebrews 4:12 of the word of God as "living and active, sharper than any two-edged sword" shares its conceptual and metaphorical DNA with Wisdom 18:15–16, where the divine Word leaps from the royal throne bearing "a sharp sword." Both texts associate the divine Word with sword imagery and with divine judgment penetrating to what is hidden. Wisdom\'s context is the Passover night — the destroying Word executing judgment — while Hebrews applies the image to the penetrating power of scripture to expose the condition of the human heart. This is a thematic allusion rather than a verbal quotation, but the Wisdom background is widely recognized in scholarship.'
+    id:'ap-tobit-rev8', apocRef:'Tobit 12:15', ntRef:'Revelation 8:2',
+    category:'Verbal Parallel', type:'apocrypha', strength:4,
+    title:'The Seven Angels Who Stand Before God',
+    divergence:'Revelation\'s "seven angels who stand before God" echoes Tobit\'s self-identification by the angel Raphael — one of seven who present prayers before the Holy One.',
+    apoc:{ source:'Tobit 12:15',
+      greek:'ἐγώ εἰμι Ραφαηλ, εἷς ἐκ τῶν ἑπτὰ ἁγίων ἀγγέλων, οἳ προσαναφέρουσιν τὰς προσευχὰς τῶν ἁγίων καὶ εἰσπορεύονται ἐνώπιον τῆς δόξης τοῦ ἁγίου',
+      english:'"I am Raphael, one of the seven holy angels who present the prayers of the holy ones and enter before the glory of the Holy One."',
+      keyTerm:'ἑπτὰ ἄγγελοι (seven angels)', keyMeaning:'Tobit names Raphael as one of seven angels who stand in the divine presence — the earliest attested reference to this tradition' },
+    nt:{ greek:'καὶ εἶδον τοὺς ἑπτὰ ἀγγέλους οἳ ἐνώπιον τοῦ θεοῦ ἑστήκασιν',
+      english:'And I saw the seven angels who stand before God, and seven trumpets were given to them.',
+      reference:'Revelation 8:2', follows:'The seven angelic ministers are a known tradition; Tobit 12:15 is their earliest literary attestation' },
+    commentary:'Tobit 12:15 is the oldest known text naming and numbering the angelic ministers who stand in the divine presence. Revelation 8:2 refers to these "seven angels who stand before God" as a known institution requiring no introduction, suggesting John\'s audience was familiar with the tradition. The same seven-angel tradition appears in 1 Enoch (the seven archangels) and later Jewish texts. Since Tobit is canonical in the Ethiopian Bible, Catholic, and Orthodox traditions, this link between Tobit and Revelation is taken with full scriptural seriousness in those traditions.'
+  },
+  {
+    id:'ap-rom10-bar3', apocRef:'Baruch 3:29–30', ntRef:'Romans 10:6–7',
+    category:'Close Parallel', type:'apocrypha', strength:4,
+    title:'"Who Has Gone Up to Heaven / Descended Into the Abyss?"',
+    divergence:'Romans 10:6–7\'s rhetorical questions about ascending to heaven and descending into the abyss follow Baruch 3\'s personified Wisdom passage more closely than they follow Deuteronomy 30.',
+    apoc:{ source:'Baruch 3:29–30',
+      greek:'τίς ἀνέβη εἰς τὸν οὐρανὸν καὶ ἔλαβεν αὐτήν… τίς διέβη πέραν τῆς θαλάσσης καὶ εὗρεν αὐτήν',
+      english:'"Who has gone up into heaven and taken her [Wisdom], and brought her down from the clouds? Who has gone over the sea and found her…?"',
+      keyTerm:'ἀνέβη εἰς τὸν οὐρανόν / τίς (who has gone up?)',
+      keyMeaning:'Baruch 3:29–30 uses the same rhetorical pattern about inaccessible Wisdom later applied christologically by Paul' },
+    nt:{ greek:'τίς ἀναβήσεται εἰς τὸν οὐρανόν; τοῦτ᾽ ἔστιν Χριστὸν καταγαγεῖν· ἤ τίς καταβήσεται εἰς τὴν ἄβυσσον;',
+      english:'"Who will ascend into heaven?" (that is, to bring Christ down) or "Who will descend into the abyss?" (that is, to bring Christ up from the dead).',
+      reference:'Romans 10:6–7', follows:'Paul applies to Christ the rhetorical pattern of Baruch 3 (and Deut 30:12), where Wisdom is the inaccessible object' },
+    commentary:'Romans 10:6–7 is formally a midrash on Deuteronomy 30:12–13, but Paul\'s move — identifying the inaccessible divine gift with a personal Christ who has descended and ascended — follows the pattern of Baruch 3:29–30 more naturally than Deuteronomy\'s plain text. Baruch has already applied Deuteronomy\'s "ascending to heaven" language to personified Wisdom; Paul then identifies that Wisdom with Christ. This is a case of layered intertextuality: Deuteronomy → Baruch\'s Wisdom → Paul\'s Christology. Baruch is canonical in the Ethiopian, Catholic, and Orthodox traditions.'
+  },
+  {
+    id:'ap-heb4-wis18', apocRef:'Wisdom 18:14–16', ntRef:'Hebrews 4:12',
+    category:'Thematic Parallel', type:'allusion', strength:3,
+    title:'The All-Powerful Word as a Sharp Sword',
+    divergence:'Hebrews\'s image of the Word of God as a "living and active" two-edged sword appears to draw on Wisdom\'s poetic account of the divine Word at the Passover Exodus.',
+    apoc:{ source:'Wisdom 18:14–16',
+      greek:'σοῦ παντοδυνάμου λόγου ἀπ᾽ οὐρανῶν ἐκ θρόνων βασιλείων εἰς μέσον τῆς ὀλεθρίας ἥλατο γῆς ξίφος ὀξὺ τὴν ἀνυπόκριτόν σου ἐπιταγὴν φέρων',
+      english:'"Your all-powerful word leaped from heaven, from the royal throne, into the midst of the doomed land, carrying your stern command like a sharp sword (ξίφος ὀξύ)."',
+      keyTerm:'λόγος + ξίφος ὀξύ (Word + sharp sword)', keyMeaning:'The divine Word as an agent of judgment, depicted as a sharp sword leaping from heaven' },
+    nt:{ greek:'ζῶν γὰρ ὁ λόγος τοῦ θεοῦ καὶ ἐνεργής, καὶ τομώτερος ὑπὲρ πᾶσαν μάχαιραν δίστομον',
+      english:'For the word of God is living and active, sharper than any two-edged sword, piercing to the division of soul and of spirit…',
+      reference:'Hebrews 4:12', follows:'Shares the "word of God / sharp sword" complex; Wisdom 18 is the likely intertextual background' },
+    commentary:'Hebrews 4:12 shares its conceptual and metaphorical DNA with Wisdom 18:15–16, where the divine Word leaps from the royal throne bearing "a sharp sword." Both texts associate the divine Word with sword imagery and with divine judgment penetrating what is hidden. Wisdom\'s context is the Passover night; Hebrews applies the image to the penetrating power of scripture to expose the human heart.'
   }
 ];
 
-/* ═══════════════════════════════════════════
-   STATE & RENDERING
-═══════════════════════════════════════════ */
+const ENOCH = [
+  {
+    id:'en-jude14', enochRef:'1 Enoch 1:9', ntRef:'Jude 14–15',
+    source:'1 Enoch (Book of the Watchers)', category:'Direct Named Quotation',
+    type:'enoch', strength:5,
+    title:'"Enoch Prophesied…" — The Only Named NT Quote',
+    divergence:'Jude explicitly names Enoch as prophet and quotes 1 Enoch 1:9 word-for-word — the only NT citation of a non-canonical book by name.',
+    enoch:{
+      geez:'ወናሁ፡ ይመጽእ፡ ምስለ፡ ርቡዓት፡ አእላፍ፡ ቅዱሳኒሁ፡ ለገቢረ፡ ኵነኔ',
+      greek:'ἰδοὺ ἦλθεν κύριος ἐν ἁγίαις μυριάσιν αὐτοῦ ποιῆσαι κρίσιν κατὰ πάντων',
+      english:'1 Enoch 1:9: "Behold! The Lord comes with ten thousands of his holy ones, to execute judgment upon all, and to destroy all the ungodly, and to convict all flesh of all the works of their ungodliness which they have ungodly committed, and of all the hard things which ungodly sinners have spoken against him."',
+      keyTerm:'ἐν ἁγίαις μυριάσιν (en hagiais myriasin)',
+      keyMeaning:'"With ten thousands of his holy ones" — the exact phrase quoted verbatim in Jude 14; confirmed by Qumran Aramaic fragments 4QEnoch'
+    },
+    nt:{
+      greek:'ἰδοὺ ἦλθεν κύριος ἐν ἁγίαις μυριάσιν αὐτοῦ, ποιῆσαι κρίσιν κατὰ πάντων καὶ ἐλέγξαι πάντας τοὺς ἀσεβεῖς',
+      english:'"Behold, the Lord comes with ten thousands of his holy ones, to execute judgment on all and to convict all the ungodly of all their deeds of ungodliness…" — Enoch, the seventh from Adam, prophesied about these.',
+      reference:'Jude 14–15',
+      follows:'Direct quotation; Jude explicitly attributes the prophecy to Enoch by name'
+    },
+    commentary:'This is the most remarkable verse in the NT for canonical studies: Jude quotes 1 Enoch 1:9 verbatim and explicitly names Enoch as a prophet ("Enoch, the seventh from Adam, prophesied…"). The Greek of Jude 14–15 matches the Greek fragments of 1 Enoch 1:9 from the Dead Sea Scrolls and the Qumran Aramaic fragments (4QEnoch). 1 Enoch is not in the Hebrew/Protestant OT, but it is canonical in the Ethiopian Orthodox Tewahedo Church, where it has been read as scripture since the 4th century. For the Ethiopian tradition, this explicit quotation proves that 1 Enoch is prophetic scripture — a NT author named it as such.'
+  },
+  {
+    id:'en-jude6-watchers', enochRef:'1 Enoch 6–16 (The Watchers)', ntRef:'Jude 6 / 2 Peter 2:4 / 1 Peter 3:19',
+    source:'1 Enoch (Book of the Watchers)', category:'Narrative Dependence',
+    type:'enoch', strength:5,
+    title:'The Imprisoned Watchers',
+    divergence:'Jude, 2 Peter, and 1 Peter all depend on 1 Enoch\'s detailed narrative of fallen angels bound in chains — not Genesis 6, which mentions only "sons of God" with no imprisonment.',
+    enoch:{
+      geez:'ወኀደሰ፡ ዐቢይ፡ ሚካኤል፡ ወቀጽዖሙ፡ ለሰይጣናት፡ ዐቢያት',
+      greek:'δῆσον αὐτοὺς ἕως ἡμέρας κρίσεως',
+      english:'1 Enoch 10:12–13: "Bind them fast for seventy generations in the valleys of the earth, till the day of their judgment and of their consummation… In those days they shall be led off to the abyss of fire and to the torment and the prison in which they shall be confined for ever." (1 Enoch 6–8: The Watchers descended on Mount Hermon, took human wives, taught humanity forbidden arts — metallurgy, enchantments, astrology.)',
+      keyTerm:'Chains / Darkness / Until judgment',
+      keyMeaning:'1 Enoch 10–16 supplies the detailed narrative of binding, imprisonment, and future judgment — none of which appears in Genesis 6'
+    },
+    nt:{
+      greek:'ἀγγέλους τε τοὺς μὴ τηρήσαντας τὴν ἑαυτῶν ἀρχὴν ἀλλὰ ἀπολιπόντας τὸ ἴδιον οἰκητήριον εἰς κρίσιν μεγάλης ἡμέρας δεσμοῖς ἀϊδίοις ὑπὸ ζόφον τετήρηκεν',
+      english:'Jude 6: "The angels who did not stay within their own position of authority, but left their proper dwelling, he has kept in eternal chains under gloomy darkness until the judgment of the great day." 2 Pet 2:4: "God cast them into Tartarus, delivering them to chains of gloomy darkness." 1 Pet 3:19: "he went and proclaimed to the spirits in prison."',
+      reference:'Jude 6 / 2 Peter 2:4 / 1 Peter 3:19–20',
+      follows:'Presupposes 1 Enoch\'s narrative; Genesis 6 alone does not supply the chains, imprisonment, or future judgment'
+    },
+    commentary:'Genesis 6:1–4 mentions "sons of God" who took human wives and fathered the Nephilim, but says nothing about imprisonment, chains, or future judgment. All of that detail comes from 1 Enoch 6–16, which elaborates the story extensively: 200 Watchers descended on Mount Hermon, took wives, taught forbidden arts, and were then bound by the archangels and cast into the abyss to await final judgment. Jude 6, 2 Peter 2:4, and 1 Peter 3:19–20 all presuppose this Enochic narrative — "left their proper dwelling" (1 Enoch\'s departure from heaven), "eternal chains," "gloomy darkness," "kept until judgment." None of this is in Genesis; it all comes from 1 Enoch. This makes 1 Enoch the actual source text for these NT passages, not merely background reading.'
+  },
+  {
+    id:'en-rev4-throne', enochRef:'1 Enoch 14:8–25 (Throne Vision)', ntRef:'Revelation 4–5',
+    source:'1 Enoch (Book of the Watchers)', category:'Visionary Template',
+    type:'enoch', strength:4,
+    title:'Enoch\'s Throne Vision & the Apocalypse',
+    divergence:'Enoch\'s ascent to the divine throne in 1 Enoch 14 is the earliest Jewish throne-room vision and provides the template for John\'s heavenly throne scene in Revelation 4–5.',
+    enoch:{
+      geez:'ወርኢኩ፡ ዙፋነ፡ ዐቢየ፡ ወምስሌሁ፡ ምስሌ፡ ቀዱ',
+      greek:'καὶ εἶδον θρόνον ὑψηλόν, τὸ εἶδος αὐτοῦ ὡς κρύσταλλος',
+      english:'1 Enoch 14:18–22: "I looked and saw a lofty throne — its appearance was as crystal, and its wheels as the shining sun, and I heard the voice of the cherubim. From under the throne came rivers of flaming fire… And the Great Glory sat on it… none of the angels could enter and look at his face because of the splendor and glory, and no flesh could behold him."',
+      keyTerm:'Crystal throne / fire / cherubim / the Great Glory',
+      keyMeaning:'1 Enoch 14 is the prototype of Jewish merkabah mysticism — its elements recur directly in Revelation 4'
+    },
+    nt:{
+      greek:'καὶ ἰδοὺ θρόνος ἔκειτο ἐν τῷ οὐρανῷ… καὶ ἐνώπιον τοῦ θρόνου ὡς θάλασσα ὑαλίνη ὁμοία κρυστάλλῳ… καὶ τέσσαρα ζῷα',
+      english:'Rev 4:2–6: "A throne stood in heaven… before the throne there was as it were a sea of glass, like crystal. And around the throne… four living creatures, full of eyes…"',
+      reference:'Revelation 4–5',
+      follows:'Draws on 1 Enoch 14 as the primary template, alongside Ezekiel 1 and Isaiah 6'
+    },
+    commentary:'1 Enoch 14 is the earliest extant Jewish apocalyptic throne vision — predating Daniel\'s and certainly Revelation. Its elements — a crystal-like throne, surrounding fire, attendant living beings, the impossibility of approaching the glory — recur directly in Revelation 4. Scholarship identifies 1 Enoch 14 as one of the key sources of merkabah (throne-chariot) mysticism, which provided the visionary grammar for Revelation. The sequence: Enoch\'s heavenly ascent → throne vision → the "Great Glory" who speaks from the throne parallels John\'s sequence: heavenly door opens → throne vision → the One seated on the throne. The heavenly court with attending beings maps onto Revelation\'s 24 elders and four living creatures.'
+  },
+  {
+    id:'en-son-of-man', enochRef:'1 Enoch 46–48 (Parables of Enoch)', ntRef:'Matthew 26:64 / Mark 14:62',
+    source:'1 Enoch (Parables / Similitudes)', category:'Christological Title',
+    type:'enoch', strength:4,
+    title:'The Pre-Existent "Son of Man"',
+    divergence:'The fully-developed heavenly Son of Man — pre-existent, named before creation, seated on a throne of glory — appears in 1 Enoch 46–48 in ways that go far beyond Daniel 7 and likely shaped Jesus\'s self-understanding.',
+    enoch:{
+      geez:'ወርኢኩ፡ ህየ፡ ዘቅድሙ፡ ርእሰ፡ ዓዋቅ፡ ወምስሌሁ፡ ካልእ፡ ዘቅርነ፡ ምስሌሁ',
+      greek:'[Parables preserved only in Ethiopic Ge\'ez — no Greek or Aramaic fragments survive]',
+      english:'1 Enoch 46:1–2: "There I saw one who had a head of days, and his head was white like wool. And with him was another whose face had the appearance of a man… This is the Son of Man who has righteousness… and who reveals all the treasures of that which is hidden." 1 Enoch 48:3: "Before the sun and the signs were created, before the stars of the heaven were made, his name was named before the Lord of Spirits."',
+      keyTerm:'ወልደ ሰብእ / Son of Man — pre-existent, enthroned',
+      keyMeaning:'1 Enoch develops Daniel\'s "one like a son of man" into a pre-existent, named, heavenly individual who will judge the world — a major christological resource'
+    },
+    nt:{
+      greek:'ὄψεσθε τὸν υἱὸν τοῦ ἀνθρώπου καθήμενον ἐκ δεξιῶν τῆς δυνάμεως καὶ ἐρχόμενον ἐπὶ τῶν νεφελῶν τοῦ οὐρανοῦ',
+      english:'"From now on you will see the Son of Man seated at the right hand of Power and coming on the clouds of heaven." (Jesus before the Sanhedrin)',
+      reference:'Matthew 26:64 / Mark 14:62',
+      follows:'Jesus\'s self-designation "Son of Man" may draw on 1 Enoch\'s fully-developed figure, not only on Daniel 7'
+    },
+    commentary:'Daniel 7:13 speaks of "one like a son of man" coming on clouds — a corporate or representative figure, not yet an individual heavenly being. In the Parables of Enoch (1 Enoch 37–71) this figure becomes a pre-existent, individually named heavenly being whose name was hidden before creation, who sits on a throne of glory, and who will execute eschatological judgment. Jesus\'s self-identification as "the Son of Man" who will come on the clouds and sit at the right hand of Power (Matthew 26:64) contains elements absent from Daniel but present in 1 Enoch. The Parables are preserved only in Ethiopic Ge\'ez — no Qumran fragments for this section have been found — making the Ethiopian canon uniquely important for understanding this connection.'
+  },
+  {
+    id:'en-jude9-moses', enochRef:'Assumption of Moses (lost text)', ntRef:'Jude 9',
+    source:'Assumption of Moses / Testament of Moses', category:'Lost Source Text',
+    type:'enoch', strength:5,
+    title:'Michael Disputes the Body of Moses',
+    divergence:'Jude 9 quotes the Assumption of Moses — a Jewish pseudepigraphon now lost except through patristic citations — as the source for Michael\'s dispute with the devil over Moses\'s body.',
+    enoch:{
+      geez:'[Text lost — known through Origen, Clement of Alexandria, Didymus the Blind, and Gelasius of Cyzicus]',
+      greek:'[Patristic citation, Origen De Principiis 3.2.1]: "In the Assumption of Moses, the archangel Michael, when disputing with the devil about the body of Moses, said: \'The Lord rebuke you, O devil.\'"',
+      english:'The Assumption of Moses described Moses\'s death and the dispute between the archangel Michael and the devil over whether Moses deserved burial or belonged to the devil (either as lord of matter or because Moses had killed an Egyptian). Michael refused to pronounce his own judgment and appealed to God: "The Lord rebuke you."',
+      keyTerm:'Assumption of Moses (Ἀνάληψις Μωϋσέως)',
+      keyMeaning:'A Jewish pseudepigraphon, probably 1st century CE, now lost but quoted by Origen, Clement, and others who explicitly identify it as Jude\'s source'
+    },
+    nt:{
+      greek:'ὁ δὲ Μιχαὴλ ὁ ἀρχάγγελος, ὅτε τῷ διαβόλῳ διακρινόμενος διελέγετο περὶ τοῦ Μωϋσέως σώματος, οὐκ ἐτόλμησεν κρίσιν ἐπενεγκεῖν βλασφημίας, ἀλλ᾽ εἶπεν· Ἐπιτιμήσαι σοι κύριος',
+      english:'But when the archangel Michael, contending with the devil, was disputing about the body of Moses, he did not presume to pronounce a blasphemous judgment, but said, "The Lord rebuke you."',
+      reference:'Jude 9',
+      follows:'Direct quote from the Assumption of Moses, confirmed by multiple church fathers who identify the source'
+    },
+    commentary:'This is the second explicit NT quotation of a non-canonical Jewish work — though Jude 9 does not name its source, unlike Jude 14. Origen, Clement of Alexandria, Didymus the Blind, and other church fathers all identify the story as coming from the Assumption of Moses. The Latin manuscript that survives (known as "Testament of Moses") breaks off before Moses\'s death, suggesting the account of the heavenly dispute was in the now-lost "Assumption" section. Michael\'s behavior models humility: even before the devil\'s false claims, he did not presume to pronounce his own judgment but appealed to God. This non-canonical incident became foundational for early Christian angelology and demonology.'
+  },
+  {
+    id:'en-heb11-enoch', enochRef:'1 Enoch 12–16 / Genesis 5:24', ntRef:'Hebrews 11:5',
+    source:'1 Enoch / Genesis (LXX)', category:'Expanded Tradition',
+    type:'enoch', strength:3,
+    title:'Enoch\'s Translation: Pleasing God',
+    divergence:'Genesis 5:24 says only Enoch "walked with God and was not." Hebrews 11:5 draws on the LXX\'s "pleased God" and implicitly on the Enochic tradition of Enoch\'s heavenly translation and commission.',
+    enoch:{
+      geez:'ወሖረ፡ ሄኖክ፡ ምስለ፡ አምላክ፡ ወአልቦ፡ ርእዮ',
+      greek:'[LXX Gen 5:24]: καὶ εὐηρέστησεν Ενωχ τῷ θεῷ καὶ οὐχ ηὑρίσκετο ὅτι μετέθηκεν αὐτὸν ὁ θεός',
+      english:'1 Enoch 12:1–2: "Before these things Enoch was hidden, and no one of the children of men knew where he was hidden, and where he abode, and what had become of him. And his activities had to do with the Watchers, and his days were with the holy ones." The whole Enochic corpus presents Enoch as translated to heaven, given cosmic tours, and appointed as heavenly scribe and intercessor.',
+      keyTerm:'Translation / "pleased God" / not seeing death',
+      keyMeaning:'The LXX reads "pleased God" (εὐηρέστησεν) where the MT reads "walked with God"; the full Enochic tradition elaborates the translation narrative'
+    },
+    nt:{
+      greek:'Πίστει Ενωχ μετετέθη τοῦ μὴ ἰδεῖν θάνατον… πρὸ γὰρ τῆς μεταθέσεως μεμαρτύρηται εὐαρεστηκέναι τῷ θεῷ',
+      english:'By faith Enoch was taken up so that he should not see death, and he was not found, because God had taken him. Before he was taken he was commended as having pleased God.',
+      reference:'Hebrews 11:5',
+      follows:'Follows LXX Gen 5:24 ("pleased God"); the "not seeing death" tradition enriched by the Enochic corpus'
+    },
+    commentary:'Hebrews 11:5 follows the LXX reading of Genesis 5:24 (εὐηρέστησεν = "pleased God") rather than the MT\'s "walked with God." But the tradition that Enoch was transferred to heaven, given special revelation, and appointed as heavenly mediator all comes from the 1 Enoch corpus. By placing Enoch first in the "Hall of Faith" (before Noah, Abraham, etc.), the author signals that the Enochic faith-tradition is foundational. The explicit quotation of 1 Enoch in Jude 14–15, combined with this Enoch passage in Hebrews, suggests the Enochic tradition was treated as near-scriptural by multiple NT authors — consistent with the Ethiopian church\'s canonization of 1 Enoch.'
+  },
+  {
+    id:'en-enoch-nephilim', enochRef:'1 Enoch 6–8, 15 / Genesis 6:1–4', ntRef:'Matthew 22:30 / 1 Corinthians 11:10',
+    source:'1 Enoch (Book of the Watchers)', category:'Theological Background',
+    type:'enoch', strength:3,
+    title:'Angels, Marriage, and the Veil',
+    divergence:'Jesus\'s statement that resurrected people are "like angels, not marrying" and Paul\'s remark that women should cover their heads "because of the angels" both make sense against the backdrop of 1 Enoch\'s Watchers narrative.',
+    enoch:{
+      geez:'ወወስዱ፡ ሎሙ፡ አንስት፡ ወኩሉ፡ ሐርደ',
+      greek:'καὶ ἔλαβον ἑαυτοῖς γυναῖκας ἀπὸ πασῶν ὧν ἐξελέξαντο',
+      english:'1 Enoch 6:1–2: "When the children of men had multiplied, beautiful daughters were born to them. And the angels, the children of heaven, saw and lusted after them and said to one another: \'Come, let us choose wives.\'" 1 Enoch 15:7: "But as for you, you were formerly spiritual, living the eternal life, and immortal for all generations of the world. That is why I have not arranged wives for you."',
+      keyTerm:'Angels who left their station / took wives',
+      keyMeaning:'1 Enoch elaborates Gen 6:1–4 into a narrative where heavenly beings violated the boundary between angels (who do not marry) and humans (who do)'
+    },
+    nt:{
+      greek:'ἐν γὰρ τῇ ἀναστάσει οὔτε γαμοῦσιν οὔτε γαμίζονται, ἀλλ᾽ ὡς ἄγγελοι ἐν τῷ οὐρανῷ εἰσιν',
+      english:'Matt 22:30: "In the resurrection they neither marry nor give in marriage, but are like angels in heaven." 1 Cor 11:10: "That is why a wife ought to have a symbol of authority on her head, because of the angels."',
+      reference:'Matthew 22:30 / 1 Corinthians 11:10',
+      follows:'Both sayings assume familiarity with a tradition (supplied by 1 Enoch) about angels and marriage'
+    },
+    commentary:'Both sayings presuppose a tradition about angels and marriage that is unexplained in the canonical OT but fully elaborated in 1 Enoch. Jesus\'s point — that resurrected people are "like angels, not marrying" — implies that proper angels do not marry; 1 Enoch provides the narrative that explains why (God did not arrange wives for heavenly beings, and the Watchers who took wives violated their nature). Paul\'s cryptic reference to women covering their heads "because of the angels" has puzzled interpreters for centuries; the most natural reading, given that 1 Enoch was widely known in 2nd Temple Judaism, is that Paul is alluding to the Watcher tradition: women should not provide visual occasions for angelic transgression. While not a formal quotation, these passages are most naturally read in light of the Enochic tradition.'
+  }
+];
+
+/* ═══════════════════════════════════════════════════════════
+   RENDERING
+═══════════════════════════════════════════════════════════ */
 let currentSection = 'canonical';
 
 const typeColors = {
-  translation:  'var(--c-trans)',
-  substantial:  'var(--c-major)',
-  absent:       'var(--c-absent)',
-  textual:      'var(--c-textual)',
-  targumic:     'var(--c-targ)',
-  interpretive: 'var(--c-interp)',
-  apocrypha:    'var(--c-apoc)',
-  allusion:     'var(--c-apoc)'
+  translation:'var(--c-trans)', substantial:'var(--c-major)', absent:'var(--c-absent)',
+  textual:'var(--c-textual)', targumic:'var(--c-targ)', interpretive:'var(--c-interp)',
+  apocrypha:'var(--c-apoc)', allusion:'var(--c-apoc)',
+  enoch:'var(--c-enoch)', 'enoch-lost':'var(--c-enoch)'
 };
-
 const typeDots = {
-  translation:  '#4A5E70',
-  substantial:  '#7A1F1F',
-  absent:       '#5A2D6A',
-  textual:      '#1A5858',
-  targumic:     '#7A5C1F',
-  interpretive: '#265C26',
-  apocrypha:    '#6B3070',
-  allusion:     '#9B60A0'
+  translation:'#4A5E70', substantial:'#7A1F1F', absent:'#5A2D6A',
+  textual:'#1A5858', targumic:'#7A5C1F', interpretive:'#265C26',
+  apocrypha:'#6B3070', allusion:'#9B60A0',
+  enoch:'#8B5E14', 'enoch-lost':'#A07830'
 };
 
 function colStripe(color) {
   return `<div class="col-stripe" style="background:${color}"></div>`;
 }
 
-function strengthPips(n) {
-  let html = '<div class="strength-bar"><span class="strength-label">Scholarly confidence:</span><div class="strength-pips">';
-  for (let i = 1; i <= 5; i++) html += `<div class="pip${i <= n ? ' on' : ''}"></div>`;
+function strengthPips(n, cls) {
+  let html = `<div class="strength-bar"><span class="strength-label">Scholarly confidence:</span><div class="strength-pips">`;
+  for (let i = 1; i <= 5; i++) html += `<div class="pip${i <= n ? ' '+cls : ''}"></div>`;
   return html + '</div></div>';
 }
 
@@ -907,123 +688,105 @@ function buildCanonicalLegend() {
   ];
   return `<div class="legend">${types.map(([t,l])=>`<div class="legend-item"><div class="legend-dot" style="background:${typeDots[t]}"></div><span>${l}</span></div>`).join('')}</div>`;
 }
-
 function buildApocLegend() {
-  const types = [
-    ['apocrypha','Direct Quote / Close Parallel'],['allusion','Thematic Allusion']
-  ];
-  return `<div class="legend">${types.map(([t,l])=>`<div class="legend-item"><div class="legend-dot" style="background:${typeDots[t]}"></div><span>${l}</span></div>`).join('')}</div>`;
+  return `<div class="legend">
+    <div class="legend-item"><div class="legend-dot" style="background:${typeDots.apocrypha}"></div><span>Close Parallel / Direct Quote</span></div>
+    <div class="legend-item"><div class="legend-dot" style="background:${typeDots.allusion}"></div><span>Thematic Allusion</span></div>
+  </div>`;
+}
+function buildEnochLegend() {
+  return `<div class="legend">
+    <div class="legend-item"><div class="legend-dot" style="background:${typeDots.enoch}"></div><span>1 Enoch / Pseudepigrapha</span></div>
+    <div class="legend-item"><div class="legend-dot" style="background:${typeDots['enoch-lost']}"></div><span>Lost Source (patristic evidence)</span></div>
+    <div class="legend-item" style="font-size:10px;color:var(--muted);font-style:italic">Ge'ez text = Ethiopian canon</div>
+  </div>`;
 }
 
 function buildCanonicalView(p) {
   const color = typeColors[p.type];
   const mtCol = p.mt.absent ? `
     <div class="col col-mt col-absent">
-      <div class="col-head">
-        <div class="col-lang">Masoretic Text · Hebrew</div>
-        <div class="col-ref">${p.otRef}</div>
-        ${colStripe('var(--c-textual)')}
-      </div>
+      <div class="col-head"><div class="col-lang">Masoretic Text · Hebrew</div><div class="col-ref">${p.otRef}</div>${colStripe('var(--c-textual)')}</div>
       <div class="absent-msg">This clause is absent<br>from the Masoretic Text</div>
-      <div class="key-section">
-        <div class="key-label">Note</div>
-        <div class="key-term">${p.mt.keyTerm}</div>
-        <div class="key-meaning">${p.mt.keyMeaning}</div>
-      </div>
+      <div class="key-section"><div class="key-label">Note</div><div class="key-term">${p.mt.keyTerm}</div><div class="key-meaning">${p.mt.keyMeaning}</div></div>
     </div>` : `
     <div class="col col-mt">
-      <div class="col-head">
-        <div class="col-lang">Masoretic Text · Hebrew</div>
-        <div class="col-ref">${p.otRef}</div>
-        ${colStripe('var(--c-textual)')}
-      </div>
+      <div class="col-head"><div class="col-lang">Masoretic Text · Hebrew</div><div class="col-ref">${p.otRef}</div>${colStripe('var(--c-textual)')}</div>
       <div class="t-hebrew">${p.mt.hebrew}</div>
       <div class="t-translit">${p.mt.translit}</div>
       <div class="t-english">${p.mt.english}</div>
-      <div class="key-section">
-        <div class="key-label">Key Word</div>
-        <div class="key-term">${p.mt.keyTerm}</div>
-        <div class="key-meaning">${p.mt.keyMeaning}</div>
-      </div>
+      <div class="key-section"><div class="key-label">Key Word</div><div class="key-term">${p.mt.keyTerm}</div><div class="key-meaning">${p.mt.keyMeaning}</div></div>
     </div>`;
 
   return `
     ${buildCanonicalLegend()}
-    <div class="div-box">
-      <div class="div-label">The Divergence</div>
-      <div class="div-text">${p.divergence}</div>
-    </div>
+    <div class="div-box"><div class="div-label">The Divergence</div><div class="div-text">${p.divergence}</div></div>
     <div class="columns fade-in">
       ${mtCol}
       <div class="col col-lxx">
-        <div class="col-head">
-          <div class="col-lang">Septuagint · Greek</div>
-          <div class="col-ref">${p.otRef}</div>
-          ${colStripe(color)}
-        </div>
+        <div class="col-head"><div class="col-lang">Septuagint · Greek</div><div class="col-ref">${p.otRef}</div>${colStripe(color)}</div>
         <div class="t-greek">${p.lxx.greek}</div>
         <div class="t-english">${p.lxx.english}</div>
-        <div class="key-section">
-          <div class="key-label">Key Word</div>
-          <div class="key-term">${p.lxx.keyTerm}</div>
-          <div class="key-meaning">${p.lxx.keyMeaning}</div>
-        </div>
+        <div class="key-section"><div class="key-label">Key Word</div><div class="key-term">${p.lxx.keyTerm}</div><div class="key-meaning">${p.lxx.keyMeaning}</div></div>
       </div>
       <div class="col col-nt">
-        <div class="col-head">
-          <div class="col-lang">New Testament · Greek</div>
-          <div class="col-ref">${p.ntRef}</div>
-          ${colStripe('var(--c-interp)')}
-        </div>
+        <div class="col-head"><div class="col-lang">New Testament · Greek</div><div class="col-ref">${p.ntRef}</div>${colStripe('var(--c-interp)')}</div>
         <div class="t-greek">${p.nt.greek}</div>
         <div class="t-english">${p.nt.english}</div>
         <span class="follows-badge b-${p.type}">${p.nt.follows}</span>
       </div>
     </div>
-    <div class="commentary">
-      <div class="section-label">Scholarly Commentary</div>
-      <div class="commentary-text">${p.commentary}</div>
-    </div>`;
+    <div class="commentary"><div class="section-label">Scholarly Commentary</div><div class="commentary-text">${p.commentary}</div></div>`;
 }
 
 function buildApocryphalView(p) {
   return `
     ${buildApocLegend()}
-    ${strengthPips(p.strength)}
-    <div class="div-box apoc">
-      <div class="div-label">The Connection</div>
-      <div class="div-text">${p.divergence}</div>
-    </div>
+    ${strengthPips(p.strength,'on-apoc')}
+    <div class="div-box apoc"><div class="div-label">The Connection</div><div class="div-text">${p.divergence}</div></div>
     <div class="columns-two fade-in">
       <div class="col col-ap">
-        <div class="col-head">
-          <div class="col-lang">Deuterocanon / Apocrypha</div>
-          <div class="col-ref">${p.apoc.source}</div>
-          ${colStripe('var(--c-apoc)')}
-        </div>
+        <div class="col-head"><div class="col-lang">Deuterocanon / Apocrypha</div><div class="col-ref">${p.apoc.source}</div>${colStripe('var(--c-apoc)')}</div>
         <div class="t-greek">${p.apoc.greek}</div>
         <div class="t-english">${p.apoc.english}</div>
-        <div class="key-section">
-          <div class="key-label">Key Term</div>
-          <div class="key-term">${p.apoc.keyTerm}</div>
-          <div class="key-meaning">${p.apoc.keyMeaning}</div>
-        </div>
+        <div class="key-section"><div class="key-label">Key Term</div><div class="key-term">${p.apoc.keyTerm}</div><div class="key-meaning">${p.apoc.keyMeaning}</div></div>
       </div>
       <div class="col col-nt">
-        <div class="col-head">
-          <div class="col-lang">New Testament · Greek</div>
-          <div class="col-ref">${p.ntRef}</div>
-          ${colStripe('var(--c-interp)')}
-        </div>
+        <div class="col-head"><div class="col-lang">New Testament · Greek</div><div class="col-ref">${p.ntRef}</div>${colStripe('var(--c-interp)')}</div>
         <div class="t-greek">${p.nt.greek}</div>
         <div class="t-english">${p.nt.english}</div>
         <span class="follows-badge b-apocrypha">${p.nt.follows}</span>
       </div>
     </div>
-    <div class="commentary">
-      <div class="section-label">Scholarly Commentary</div>
-      <div class="commentary-text">${p.commentary}</div>
-    </div>`;
+    <div class="commentary"><div class="section-label">Scholarly Commentary</div><div class="commentary-text">${p.commentary}</div></div>`;
+}
+
+function buildEnochView(p) {
+  const isLost = p.enoch.geez.startsWith('[Text lost') || p.enoch.geez.startsWith('[Parables');
+  return `
+    ${buildEnochLegend()}
+    ${strengthPips(p.strength,'on-enoch')}
+    <div class="div-box enoch"><div class="div-label">The Connection</div><div class="div-text">${p.divergence}</div></div>
+    <div class="columns-two fade-in">
+      <div class="col col-en">
+        <div class="col-head"><div class="col-lang">${p.source}</div><div class="col-ref">${p.enochRef}</div>${colStripe('var(--c-enoch)')}</div>
+        ${isLost
+          ? `<div class="absent-msg" style="color:var(--c-enoch)">${p.enoch.geez.replace('[','').replace(']','')}</div>`
+          : `<div class="t-geez">${p.enoch.geez}</div>`
+        }
+        ${!isLost && p.enoch.greek && !p.enoch.greek.startsWith('[') ? `<div class="t-greek">${p.enoch.greek}</div>` : ''}
+        ${p.enoch.greek && p.enoch.greek.startsWith('[') && !isLost ? `<div class="t-translit">${p.enoch.greek}</div>` : ''}
+        <div class="t-english">${p.enoch.english}</div>
+        <div class="key-section"><div class="key-label">Key Term</div><div class="key-term">${p.enoch.keyTerm}</div><div class="key-meaning">${p.enoch.keyMeaning}</div></div>
+      </div>
+      <div class="col col-nt">
+        <div class="col-head"><div class="col-lang">New Testament · Greek</div><div class="col-ref">${p.ntRef}</div>${colStripe('var(--c-interp)')}</div>
+        <div class="t-greek">${p.nt.greek}</div>
+        <div class="t-english">${p.nt.english}</div>
+        <span class="follows-badge b-enoch">${p.nt.follows}</span>
+      </div>
+    </div>
+    <div class="commentary"><div class="section-label">Scholarly Commentary</div><div class="commentary-text">${p.commentary}</div></div>`;
 }
 
 /* ── SIDEBAR ── */
@@ -1031,11 +794,12 @@ function buildSidebar() {
   document.getElementById('sidebar').innerHTML = `
     <div class="sidebar-head">
       <div class="sidebar-label">Biblical Studies · Appendix</div>
-      <div class="sidebar-title">NT Quotations:<br>LXX &amp; Apocrypha</div>
+      <div class="sidebar-title">NT Quotations:<br>LXX · Apocrypha · 1 Enoch</div>
     </div>
     <div class="sidebar-nav">
       <button class="snav-btn active" id="btn-canon" onclick="switchSection('canonical')">LXX vs MT</button>
       <button class="snav-btn" id="btn-apoc"  onclick="switchSection('apocrypha')">Apocrypha</button>
+      <button class="snav-btn" id="btn-enoch" onclick="switchSection('enoch')">1 Enoch</button>
     </div>
     <div class="sidebar-list" id="sidebar-list"></div>
     <a class="back-link" href="/">← Back to Study Modules</a>
@@ -1045,23 +809,24 @@ function buildSidebar() {
 
 function renderList() {
   const list = document.getElementById('sidebar-list');
-  const data = currentSection === 'canonical' ? CANONICAL : APOCRYPHA;
+  let data, labelFn;
+  if (currentSection === 'canonical') {
+    data = CANONICAL;
+    labelFn = p => ({ refs: `${p.otRef} → ${p.ntRef}`, title: p.title, badge: `b-${p.type}`, cat: p.category });
+  } else if (currentSection === 'apocrypha') {
+    data = APOCRYPHA;
+    labelFn = p => ({ refs: `${p.apocRef} → ${p.ntRef}`, title: p.title, badge: `b-${p.type}`, cat: p.category });
+  } else {
+    data = ENOCH;
+    labelFn = p => ({ refs: `${p.enochRef} → ${p.ntRef}`, title: p.title, badge: 'b-enoch', cat: p.category });
+  }
   list.innerHTML = '';
   data.forEach((p, i) => {
+    const { refs, title, badge, cat } = labelFn(p);
     const div = document.createElement('div');
     div.className = 'p-item' + (i === 0 ? ' active' : '');
     div.dataset.id = p.id;
-    if (currentSection === 'canonical') {
-      div.innerHTML = `
-        <div class="p-item-refs">${p.otRef} → ${p.ntRef}</div>
-        <div class="p-item-title">${p.title}</div>
-        <span class="p-badge b-${p.type}">${p.category}</span>`;
-    } else {
-      div.innerHTML = `
-        <div class="p-item-refs">${p.apocRef} → ${p.ntRef}</div>
-        <div class="p-item-title">${p.title}</div>
-        <span class="p-badge b-apocrypha">${p.category}</span>`;
-    }
+    div.innerHTML = `<div class="p-item-refs">${refs}</div><div class="p-item-title">${title}</div><span class="p-badge ${badge}">${cat}</span>`;
     div.addEventListener('click', () => loadPassage(p.id));
     list.appendChild(div);
   });
@@ -1069,28 +834,33 @@ function renderList() {
 
 function switchSection(section) {
   currentSection = section;
-  document.getElementById('btn-canon').classList.toggle('active', section === 'canonical');
-  document.getElementById('btn-apoc').classList.toggle('active', section === 'apocrypha');
+  ['canon','apoc','enoch'].forEach(k => document.getElementById('btn-'+k).classList.remove('active'));
+  const map = {canonical:'canon', apocrypha:'apoc', enoch:'enoch'};
+  document.getElementById('btn-'+map[section]).classList.add('active');
   renderList();
-  const data = section === 'canonical' ? CANONICAL : APOCRYPHA;
+  const data = section === 'canonical' ? CANONICAL : section === 'apocrypha' ? APOCRYPHA : ENOCH;
   loadPassage(data[0].id);
 }
 
 function loadPassage(id) {
-  const data = currentSection === 'canonical' ? CANONICAL : APOCRYPHA;
-  const p = data.find(x => x.id === id);
+  const allData = [...CANONICAL, ...APOCRYPHA, ...ENOCH];
+  const p = allData.find(x => x.id === id);
   if (!p) return;
 
   document.querySelectorAll('.p-item').forEach(el => el.classList.toggle('active', el.dataset.id === id));
 
   if (currentSection === 'canonical') {
     document.getElementById('main-eyebrow').textContent = `${p.category}  ·  LXX vs Masoretic Text`;
-    document.getElementById('main-refs').textContent = `${p.otRef}  ·  ${p.ntRef}`;
+    document.getElementById('main-refs').textContent    = `${p.otRef}  ·  ${p.ntRef}`;
     document.getElementById('main-body').innerHTML = buildCanonicalView(p);
-  } else {
+  } else if (currentSection === 'apocrypha') {
     document.getElementById('main-eyebrow').textContent = `${p.category}  ·  NT & Deuterocanon`;
-    document.getElementById('main-refs').textContent = `${p.apocRef}  ·  ${p.ntRef}`;
+    document.getElementById('main-refs').textContent    = `${p.apocRef}  ·  ${p.ntRef}`;
     document.getElementById('main-body').innerHTML = buildApocryphalView(p);
+  } else {
+    document.getElementById('main-eyebrow').textContent = `${p.category}  ·  NT & ${p.source}`;
+    document.getElementById('main-refs').textContent    = `${p.enochRef}  ·  ${p.ntRef}`;
+    document.getElementById('main-body').innerHTML = buildEnochView(p);
   }
 
   document.getElementById('main-title').textContent = p.title;
