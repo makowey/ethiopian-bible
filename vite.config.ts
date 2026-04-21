@@ -4,7 +4,7 @@ import react from '@vitejs/plugin-react'
 import tailwindcss from '@tailwindcss/vite'
 
 export default defineConfig({
-  base: '/ethiopian-bible/',
+  base: '/',
   plugins: [react(), tailwindcss()],
   server: { port: 3300 },
   test: {
