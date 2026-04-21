@@ -39,7 +39,8 @@
         }
       ],
       "translations": {
-        "lxx": "Have mercy upon us, O Lord God of all, and behold us:"
+        "lxx": "Have mercy upon us, O Lord God of all, and behold us:",
+        "ron": "Pe cel care se teme de Domnul, nu-l va întâmpina răul, fără numai ispita şi iarăşi îl va izbăvi."
       }
     },
     {
@@ -74,7 +75,8 @@
         }
       ],
       "translations": {
-        "lxx": "and send thy fear upon all the nations that seek not after thee."
+        "lxx": "and send thy fear upon all the nations that seek not after thee.",
+        "ron": "Bărbatul înţelept nu va urî legea, iar cel care se făţărniceşte în aceea este ca o corabie în furtună."
       }
     },
     {
@@ -119,7 +121,8 @@
         }
       ],
       "translations": {
-        "lxx": "Lift up thy hand against the strange nations, and let them see thy power."
+        "lxx": "Lift up thy hand against the strange nations, and let them see thy power.",
+        "ron": "Omul înţelegător va crede legii şi legea îi va fi credincioasă."
       }
     },
     {
@@ -189,7 +192,8 @@
         }
       ],
       "translations": {
-        "lxx": "As thou wast sanctified in us before them: so be thou magnified among them before us."
+        "lxx": "As thou wast sanctified in us before them: so be thou magnified among them before us.",
+        "ron": "Pregăteşte cuvântul şi aşa vorbeşte, leagă împreună învăţătura şi răspunde."
       }
     },
     {
@@ -249,7 +253,8 @@
         }
       ],
       "translations": {
-        "lxx": "And let them know thee, as we have known thee, that there is no God but only thou, O God."
+        "lxx": "And let them know thee, as we have known thee, that there is no God but only thou, O God.",
+        "ron": "Ca roata carului este inima nebunului şi ca osia pe care se întoarce este gândul lui."
       }
     },
     {
@@ -279,7 +284,8 @@
         }
       ],
       "translations": {
-        "lxx": "Shew new signs, and make other strange wonders: glorify thy hand and thy right arm, that they may set forth thy wondrous works."
+        "lxx": "Shew new signs, and make other strange wonders: glorify thy hand and thy right arm, that they may set forth thy wondrous works.",
+        "ron": "Ca un armăsar este prietenul hulitor; el nechează oricine ar încăleca pe el."
       }
     },
     {
@@ -309,7 +315,8 @@
         }
       ],
       "translations": {
-        "lxx": "Raise up indignation, and pour out wrath: take away the adversary, and destroy the enemy."
+        "lxx": "Raise up indignation, and pour out wrath: take away the adversary, and destroy the enemy.",
+        "ron": "Pentru ce zi pe zi întrece şi toată lumina zilei anului de la soare este?"
       }
     },
     {
@@ -339,7 +346,8 @@
         }
       ],
       "translations": {
-        "lxx": "Make the time short, remember the covenant, and let them declare thy wonderful works."
+        "lxx": "Make the time short, remember the covenant, and let them declare thy wonderful works.",
+        "ron": "Prin înţelepciunea Domnului ele s-au deosebit între ele, că El a statornicit vremurile felurite şi zilele de praznic."
       }
     },
     {
@@ -369,7 +377,8 @@
         }
       ],
       "translations": {
-        "lxx": "Let him that escapeth be consumed by the rage of the fire; and let them perish that oppress the people."
+        "lxx": "Let him that escapeth be consumed by the rage of the fire; and let them perish that oppress the people.",
+        "ron": "Dintre ele pe unele le-a înălţat şi le-a sfinţit; pe altele le-a pus în numărul zilelor."
       }
     },
     {
@@ -399,7 +408,8 @@
         }
       ],
       "translations": {
-        "lxx": "Smite in sunder the heads of the rulers of the heathen, that say, There is none other but we."
+        "lxx": "Smite in sunder the heads of the rulers of the heathen, that say, There is none other but we.",
+        "ron": "Şi toţi oamenii sunt din ţărână şi din pământ a fost zidit Adam."
       }
     },
     {
@@ -474,7 +484,8 @@
         }
       ],
       "translations": {
-        "lxx": "Gather all the tribes of Jacob together."
+        "lxx": "Gather all the tribes of Jacob together.",
+        "ron": "Cu mulţimea ştiinţei Domnul i-a osebit şi a schimbat căile lor."
       }
     },
     {
@@ -529,7 +540,8 @@
         }
       ],
       "translations": {
-        "lxx": "A cheerful and good heart will have a care of his meat and diet."
+        "lxx": "A cheerful and good heart will have a care of his meat and diet.",
+        "ron": "Dintre ei a binecuvântat şi a înălţat, i-a sfinţit şi i-a apropiat la Sine."
       }
     },
     {
@@ -557,7 +569,10 @@
           "t": "yaʿəqobə",
           "gl": ""
         }
-      ]
+      ],
+      "translations": {
+        "ron": "Dintre ei a blestemat şi a supus şi i-a scos din locaşurile lor."
+      }
     }
   ],
   "translationSources": {

@@ -30,7 +30,8 @@
       ],
       "translations": {
         "lxx": "And the Lord spoke to Moses, saying,",
-        "kjv": "And the LORD spake unto Moses, saying,"
+        "kjv": "And the LORD spake unto Moses, saying,",
+        "ron": "În vremea aceea a grăit Domnul cu Moise, zicând:"
       }
     },
     {
@@ -76,7 +77,8 @@
       ],
       "translations": {
         "lxx": "Speak to the children of Israel, and thou shalt say to them, I am the Lord your God.",
-        "kjv": "Speak unto the children of Israel, and say unto them, I am the LORD your God."
+        "kjv": "Speak unto the children of Israel, and say unto them, I am the LORD your God.",
+        "ron": "\"Vorbeşte fiilor lui Israel şi zi către ei: Eu sunt Domnul Dumnezeul vostru."
       }
     },
     {
@@ -177,7 +179,8 @@
       ],
       "translations": {
         "lxx": "Ye shall not do according to the devices of Egypt, in which ye dwelt: and according to the devices of the land of Chanaan, into which I bring you, ye shall not do; and ye shall not walk in their ordinances.",
-        "kjv": "After the doings of the land of Egypt, wherein ye dwelt, shall ye not do: and after the doings of the land of Canaan, whither I bring you, shall ye not do: neither shall ye walk in their ordinances."
+        "kjv": "After the doings of the land of Egypt, wherein ye dwelt, shall ye not do: and after the doings of the land of Canaan, whither I bring you, shall ye not do: neither shall ye walk in their ordinances.",
+        "ron": "De datinile pământului Egiptului, în care aţi trăit, să nu vă ţineţi, nici de datinile pământului Canaanului, în care am să vă duc, să nu vă ţineţi şi nici să umblaţi după obiceiurile lor."
       }
     },
     {
@@ -238,7 +241,8 @@
       ],
       "translations": {
         "lxx": "Ye shall observe my judgments, and shall keep my ordinances, and shall walk in them: I am the Lord your God.",
-        "kjv": "Ye shall do my judgments, and keep mine ordinances, to walk therein: I am the LORD your God."
+        "kjv": "Ye shall do my judgments, and keep mine ordinances, to walk therein: I am the LORD your God.",
+        "ron": "Ci legile Mele să le pliniţi şi aşezămintele Mele să le păziţi, umblând după cum poruncesc ele, că Eu sunt Domnul Dumnezeul vostru."
       }
     },
     {
@@ -314,7 +318,8 @@
       ],
       "translations": {
         "lxx": "So ye shall keep all my ordinances, and all my judgments, and do them; which if a man do, he shall live in them: I am the Lord your God.",
-        "kjv": "Ye shall therefore keep my statutes, and my judgments: which if a man do, he shall live in them: I am the LORD."
+        "kjv": "Ye shall therefore keep my statutes, and my judgments: which if a man do, he shall live in them: I am the LORD.",
+        "ron": "Păziţi toate poruncile Mele şi toate hotărârile să le ţineţi, căci omul care le plineşte va trăi prin ele: Eu sunt Domnul Dumnezeul vostru."
       }
     },
     {
@@ -390,7 +395,8 @@
       ],
       "translations": {
         "lxx": "No man shall draw nigh to any of his near kindred to uncover their nakedness; I am the Lord.",
-        "kjv": "None of you shall approach to any that is near of kin to him, to uncover their nakedness: I am the LORD."
+        "kjv": "None of you shall approach to any that is near of kin to him, to uncover their nakedness: I am the LORD.",
+        "ron": "Nimeni să nu se apropie de nici o rudă după trup, cu gândul ca să-i descopere goliciunea. Eu sunt Domnul!"
       }
     },
     {
@@ -451,7 +457,8 @@
       ],
       "translations": {
         "lxx": "Thou shalt not uncover the nakedness of thy father, or the nakedness of thy mother, for she is thy mother; thou shalt not uncover her nakedness.",
-        "kjv": "The nakedness of thy father, or the nakedness of thy mother, shalt thou not uncover: she is thy mother; thou shalt not uncover her nakedness."
+        "kjv": "The nakedness of thy father, or the nakedness of thy mother, shalt thou not uncover: she is thy mother; thou shalt not uncover her nakedness.",
+        "ron": "Goliciunea tatălui tău şi goliciunea mamei tale să n-o descoperi! Că este mama ta, să nu-i descoperi goliciunea ei."
       }
     },
     {
@@ -502,7 +509,8 @@
       ],
       "translations": {
         "lxx": "Thou shalt not uncover the nakedness of thy father's wife; it is thy father's nakedness.",
-        "kjv": "The nakedness of thy father’s wife shalt thou not uncover: it is thy father’s nakedness."
+        "kjv": "The nakedness of thy father’s wife shalt thou not uncover: it is thy father’s nakedness.",
+        "ron": "Goliciunea femeii tatălui tău să n-o descoperi, că este goliciunea tatălui tău!"
       }
     },
     {
@@ -613,7 +621,8 @@
       ],
       "translations": {
         "lxx": "The nakedness of thy sister by thy father or by thy mother, born at home or abroad, their nakedness thou shalt not uncover.",
-        "kjv": "The nakedness of thy sister, the daughter of thy father, or daughter of thy mother, whether she be born at home, or born abroad, even their nakedness thou shalt not uncover."
+        "kjv": "The nakedness of thy sister, the daughter of thy father, or daughter of thy mother, whether she be born at home, or born abroad, even their nakedness thou shalt not uncover.",
+        "ron": "Goliciunea surorii tale, goliciunea fiicei tatălui tău sau a fiicei mamei tale, care s-a născut în casă sau afară din casă, să n-o descoperi!"
       }
     },
     {
@@ -679,7 +688,8 @@
       ],
       "translations": {
         "lxx": "The nakedness of thy son's daughter, or thy daughter's daughter, their nakedness thou shalt not uncover; because it is thy nakedness.",
-        "kjv": "The nakedness of thy son’s daughter, or of thy daughter’s daughter, even their nakedness thou shalt not uncover: for theirs is thine own nakedness."
+        "kjv": "The nakedness of thy son’s daughter, or of thy daughter’s daughter, even their nakedness thou shalt not uncover: for theirs is thine own nakedness.",
+        "ron": "Goliciunea fiicei fiului tău sau a fiicei fiicei tale să n-o descoperi, căci goliciunea ta este!"
       }
     },
     {
@@ -750,7 +760,8 @@
       ],
       "translations": {
         "lxx": "Thou shalt not uncover the nakedness of the daughter of thy father's wife; she is thy sister by the same father: thou shalt not uncover her nakedness.",
-        "kjv": "The nakedness of thy father’s wife’s daughter, begotten of thy father, she is thy sister, thou shalt not uncover her nakedness."
+        "kjv": "The nakedness of thy father’s wife’s daughter, begotten of thy father, she is thy sister, thou shalt not uncover her nakedness.",
+        "ron": "Goliciunea fiicei femeii tatălui tău; care s-a născut din tatăl tău, să n-o descoperi, că soră îţi este după tată!"
       }
     },
     {
@@ -801,7 +812,8 @@
       ],
       "translations": {
         "lxx": "Thou shalt not uncover the nakedness of thy father's sister, for she is near akin to thy father.",
-        "kjv": "Thou shalt not uncover the nakedness of thy father’s sister: she is thy father’s near kinswoman."
+        "kjv": "Thou shalt not uncover the nakedness of thy father’s sister: she is thy father’s near kinswoman.",
+        "ron": "Goliciunea surorii tatălui tău să n-o descoperi, că este de un sânge cu tatăl tău!"
       }
     },
     {
@@ -852,7 +864,8 @@
       ],
       "translations": {
         "lxx": "Thou shalt not uncover the nakedness of thy mother's sister, for she is near akin to thy mother.",
-        "kjv": "Thou shalt not uncover the nakedness of thy mother’s sister: for she is thy mother’s near kinswoman."
+        "kjv": "Thou shalt not uncover the nakedness of thy mother’s sister: for she is thy mother’s near kinswoman.",
+        "ron": "Goliciunea surorii mamei tale să n-o descoperi, că este de un sânge cu mama ta!"
       }
     },
     {
@@ -903,7 +916,8 @@
       ],
       "translations": {
         "lxx": "Thou shalt not uncover the nakedness of thy father's brother, and thou shalt not go in to his wife; for she is thy relation.",
-        "kjv": "Thou shalt not uncover the nakedness of thy father’s brother, thou shalt not approach to his wife: she is thine aunt."
+        "kjv": "Thou shalt not uncover the nakedness of thy father’s brother, thou shalt not approach to his wife: she is thine aunt.",
+        "ron": "Goliciunea fratelui tatălui tău să n-o descoperi şi de femeia lui să nu te apropii, că sunt unchiul şi mătuşa ta!"
       }
     },
     {
@@ -934,7 +948,8 @@
       ],
       "translations": {
         "lxx": "Thou shalt not uncover the nakedness of thy daughter-in-law, for she is thy son's wife, thou shalt not uncover her nakedness.",
-        "kjv": "Thou shalt not uncover the nakedness of thy daughter in law: she is thy son’s wife; thou shalt not uncover her nakedness."
+        "kjv": "Thou shalt not uncover the nakedness of thy daughter in law: she is thy son’s wife; thou shalt not uncover her nakedness.",
+        "ron": "Goliciunea nurorii tale să n-o descoperi, că ea este femeia fiului tău; să nu-i descoperi goliciunea!"
       }
     },
     {
@@ -980,7 +995,8 @@
       ],
       "translations": {
         "lxx": "Thou shalt not uncover the nakedness of thy brother's wife: it is thy brother's nakedness.",
-        "kjv": "Thou shalt not uncover the nakedness of thy brother’s wife: it is thy brother’s nakedness."
+        "kjv": "Thou shalt not uncover the nakedness of thy brother’s wife: it is thy brother’s nakedness.",
+        "ron": "Goliciunea femeii fratelui tău să n-o descoperi, că este goliciunea fratelui tău."
       }
     },
     {
@@ -1081,7 +1097,8 @@
       ],
       "translations": {
         "lxx": "The nakedness of a woman and her daughter shalt thou not uncover; her son's daughter, and her daughter's daughter, shalt thou not take, to uncover their nakedness, for they are thy kinswomen: it is impiety.",
-        "kjv": "Thou shalt not uncover the nakedness of a woman and her daughter, neither shalt thou take her son’s daughter, or her daughter’s daughter, to uncover her nakedness; for they are her near kinswomen: it is wickedness."
+        "kjv": "Thou shalt not uncover the nakedness of a woman and her daughter, neither shalt thou take her son’s daughter, or her daughter’s daughter, to uncover her nakedness; for they are her near kinswomen: it is wickedness.",
+        "ron": "Goliciunea unei femei şi a fiicei ei să nu descoperi; pe fiica fiului ei şi pe fiica fiicei ei să nu le iei, ca să le descoperi goliciunea; aceasta este nelegiuire, că sunt rude de sânge cu ea!"
       }
     },
     {
@@ -1167,7 +1184,8 @@
       ],
       "translations": {
         "lxx": "Thou shalt not take a wife in addition to her sister, as a rival, to uncover her nakedness in opposition to her, while she is yet living.",
-        "kjv": "Neither shalt thou take a wife to her sister, to vex her, to uncover her nakedness, beside the other in her life time."
+        "kjv": "Neither shalt thou take a wife to her sister, to vex her, to uncover her nakedness, beside the other in her life time.",
+        "ron": "Să nu iei concubină pe sora femeii tale, ca să descoperi ruşinea ei în vremea ei, vie fiind ea."
       }
     },
     {
@@ -1243,7 +1261,8 @@
       ],
       "translations": {
         "lxx": "And thou shalt not go in to a woman under separation for her uncleanness, to uncover her nakedness.",
-        "kjv": "Also thou shalt not approach unto a woman to uncover her nakedness, as long as she is put apart for her uncleanness."
+        "kjv": "Also thou shalt not approach unto a woman to uncover her nakedness, as long as she is put apart for her uncleanness.",
+        "ron": "Să nu te apropii de femeie în timpul regulii ei, ca să-i descoperi goliciunea."
       }
     },
     {
@@ -1304,7 +1323,8 @@
       ],
       "translations": {
         "lxx": "And thou shalt not lie with thy neighbour's wife, to defile thyself with her.",
-        "kjv": "Moreover thou shalt not lie carnally with thy neighbour’s wife, to defile thyself with her."
+        "kjv": "Moreover thou shalt not lie carnally with thy neighbour’s wife, to defile thyself with her.",
+        "ron": "Şi cu femeia aproapelui tău să nu te culci, ca să-ţi verşi sămânţa şi ca să te spurci cu ea."
       }
     },
     {
@@ -1365,7 +1385,8 @@
       ],
       "translations": {
         "lxx": "And thou shalt not give of thy seed to serve a ruler; and thou shalt not profane my holy name; I am the Lord.",
-        "kjv": "And thou shalt not let any of thy seed pass through the fire to Molech, neither shalt thou profane the name of thy God: I am the LORD."
+        "kjv": "And thou shalt not let any of thy seed pass through the fire to Molech, neither shalt thou profane the name of thy God: I am the LORD.",
+        "ron": "Din copiii tăi să nu dai în slujba lui Moloh, ca să nu pângăreşti numele Dumnezeului tău. Eu sunt Domnul."
       }
     },
     {
@@ -1421,7 +1442,8 @@
       ],
       "translations": {
         "lxx": "And thou shalt not lie with a man as with a woman, for it is an abomination.",
-        "kjv": "Thou shalt not lie with mankind, as with womankind: it is abomination."
+        "kjv": "Thou shalt not lie with mankind, as with womankind: it is abomination.",
+        "ron": "Să nu te culci cu bărbat, ca şi cu femeie; aceasta este spurcăciune."
       }
     },
     {
@@ -1532,7 +1554,8 @@
       ],
       "translations": {
         "lxx": "Neither shalt thou lie with any quadruped for copulation, to be polluted with it: neither shall a woman present herself before any quadruped to have connexion with it; for it is an abomination.",
-        "kjv": "Neither shalt thou lie with any beast to defile thyself therewith: neither shall any woman stand before a beast to lie down thereto: it is confusion."
+        "kjv": "Neither shalt thou lie with any beast to defile thyself therewith: neither shall any woman stand before a beast to lie down thereto: it is confusion.",
+        "ron": "Cu nici un dobitoc să nu te culci, ca să-ţi verşi sămânţa şi să te spurci cu el; nici femeia să nu stea la dobitoc, ca să se spurce cu el; aceasta e urâciune."
       }
     },
     {
@@ -1608,7 +1631,8 @@
       ],
       "translations": {
         "lxx": "Do not defile yourselves with any of these things; for in all these things the nations are defiled, which I drive out before you,",
-        "kjv": "Defile not ye yourselves in any of these things: for in all these the nations are defiled which I cast out before you:"
+        "kjv": "Defile not ye yourselves in any of these things: for in all these the nations are defiled which I cast out before you:",
+        "ron": "Să nu vă întinaţi cu nimic din acestea, că cu toate acestea s-au întinat păgânii, pe care ţu îi izgonesc dinaintea feţei voastre."
       }
     },
     {
@@ -1669,7 +1693,8 @@
       ],
       "translations": {
         "lxx": "and the land is polluted; and I have recompensed their iniquity to them because of it, and the land is aggrieved with them that dwell upon it.",
-        "kjv": "And the land is defiled: therefore I do visit the iniquity thereof upon it, and the land itself vomiteth out her inhabitants."
+        "kjv": "And the land is defiled: therefore I do visit the iniquity thereof upon it, and the land itself vomiteth out her inhabitants.",
+        "ron": "Că s-a întinat pământul şi am privit la nelegiuirile lor şi a lepădat pământul pe cei ce trăiau pe el."
       }
     },
     {
@@ -1745,7 +1770,8 @@
       ],
       "translations": {
         "lxx": "And ye shall keep all my statutes and all my ordinances, and ye shall do none of these abominations; neither the native, nor the stranger that joins himself with you:",
-        "kjv": "Ye shall therefore keep my statutes and my judgments, and shall not commit any of these abominations; neither any of your own nation, nor any stranger that sojourneth among you:"
+        "kjv": "Ye shall therefore keep my statutes and my judgments, and shall not commit any of these abominations; neither any of your own nation, nor any stranger that sojourneth among you:",
+        "ron": "Iar voi să păziţi toate poruncile Mele şi toate legile Mele şi să nu faceţi toate ticăloşiile acestea, nici băştinaşul, nici străinul care trăieşte între ţoi."
       }
     },
     {
@@ -1821,7 +1847,8 @@
       ],
       "translations": {
         "lxx": "(for all these abominations the men of the land did who were before you, and the land was defiled,)",
-        "kjv": "(For all these abominations have the men of the land done, which were before you, and the land is defiled;)"
+        "kjv": "(For all these abominations have the men of the land done, which were before you, and the land is defiled;)",
+        "ron": "Că toate urâciunile acestea le-au făcut oamenii pământului acestuia care e înaintea voastră şi s-a întinat pământul;"
       }
     },
     {
@@ -1882,7 +1909,8 @@
       ],
       "translations": {
         "lxx": "and lest the land be aggrieved with you in your polluting it, as it was aggrieved with the nations before you.",
-        "kjv": "That the land spue not you out also, when ye defile it, as it spued out the nations that were before you."
+        "kjv": "That the land spue not you out also, when ye defile it, as it spued out the nations that were before you.",
+        "ron": "Ca nu cumva să vă lepede şi pe voi pământul, când îl veţi întina, cum a aruncat el de la sine pe popoarele care au fost înainte de voi."
       }
     },
     {
@@ -1958,7 +1986,8 @@
       ],
       "translations": {
         "lxx": "For whosoever shall do any of these abominations, the souls that do them shall be destroyed from among their people.",
-        "kjv": "For whosoever shall commit any of these abominations, even the souls that commit them shall be cut off from among their people."
+        "kjv": "For whosoever shall commit any of these abominations, even the souls that commit them shall be cut off from among their people.",
+        "ron": "Că tot cel ce va face ticăloşiile acestea, sufletul care va face acestea se va stârpi din poporul său."
       }
     },
     {
@@ -2044,7 +2073,8 @@
       ],
       "translations": {
         "lxx": "And ye shall keep mine ordinances, that ye may not do any of the abominable practices, which have taken place before your time: and ye shall not be polluted in them; for I am the Lord your God.",
-        "kjv": "Therefore shall ye keep mine ordinance, that ye commit not any one of these abominable customs, which were committed before you, and that ye defile not yourselves therein: I am the LORD your God."
+        "kjv": "Therefore shall ye keep mine ordinance, that ye commit not any one of these abominable customs, which were committed before you, and that ye defile not yourselves therein: I am the LORD your God.",
+        "ron": "Deci păziţi poruncile Mele şi să nu umblaţi după obiceiurile urâte, după care au umblat cei dinaintea voastră, nici să vă întinaţi cu ele. Eu sunt Domnul Dumnezeul vostru\"."
       }
     }
   ],

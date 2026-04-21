@@ -6,175 +6,262 @@
       "num": 1,
       "geez": "",
       "translation": "Alleluia. Give thanks to the Lord; for he is good: for his mercy endures for ever.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Lăudaţi pe Domnul că este bun, că în veac este mila Lui."
+      }
     },
     {
       "num": 2,
       "geez": "",
       "translation": "Let now the house of Israel say, that he is good: for his mercy endures for ever.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Să zică, dar, casa lui Israel, că este bun, că în veac este mila Lui."
+      }
     },
     {
       "num": 3,
       "geez": "",
       "translation": "Let now the house of Aaron say, that he is good: for his mercy endures for ever.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Să zică, dar, casa lui Aaron, că este bun, că în veac este mila Lui."
+      }
     },
     {
       "num": 4,
       "geez": "",
       "translation": "Let now all that fear the Lord say, that he is good: for his mercy endures for ever.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Să zică, dar, toţi cei ce se tem de Domnul, că este bun, că în veac este mila Lui."
+      }
     },
     {
       "num": 5,
       "geez": "",
       "translation": "I called on the Lord out of affliction: and he hearkened to me, so as to bring me into a wide place.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "În necaz am chemat pe Domnul şi m-a auzit şi m-a scos întru desfătare."
+      }
     },
     {
       "num": 6,
       "geez": "",
       "translation": "The Lord is my helper; and I will not fear what man shall do to me.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Domnul este ajutorul meu, nu mă voi teme de ce-mi va face mie omul."
+      }
     },
     {
       "num": 7,
       "geez": "",
       "translation": "The Lord is my helper; and I shall see my desire upon mine enemies.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Domnul este ajutorul meu şi eu voi privi cu bucurie pe vrăjmaşii mei."
+      }
     },
     {
       "num": 8,
       "geez": "",
       "translation": "It is better to trust in the Lord than to trust in man.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Mai bine este a Te încrede în Domnul, decât a Te încrede în om."
+      }
     },
     {
       "num": 9,
       "geez": "",
       "translation": "It is better to hope in the Lord, than to hope in princes.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Mai bine este a nădăjdui în Domnul, decât a nădăjdui în căpetenii."
+      }
     },
     {
       "num": 10,
       "geez": "",
       "translation": "All nations compassed me about: but in the name of the Lord I repulsed them.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Toate neamurile m-au înconjurat şi în numele Domnului i-am înfrânt pe ei."
+      }
     },
     {
       "num": 11,
       "geez": "",
       "translation": "They completely compassed me about: but in the name of the Lord I repulsed them.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Înconjurând m-au înconjurat şi în numele Domnului i-am înfrânt pe ei."
+      }
     },
     {
       "num": 12,
       "geez": "",
       "translation": "They compassed me about as bees do a honeycomb, and they burst into flame as fire among thorns: but in the name of the Lord I repulsed them.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Înconjuratu-m-au ca albinele fagurele, dar s-au stins ca focul de spini şi în numele Domnului i-am înfrânt pe ei."
+      }
     },
     {
       "num": 13,
       "geez": "",
       "translation": "I was thrust, and sorely shaken, that I might fall: but the Lord helped me.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Împingându-mă m-au împins să cad, dar Domnul m-a sprijinit."
+      }
     },
     {
       "num": 14,
       "geez": "",
       "translation": "The Lord is my strength and my song, and is become my salvation.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Tăria mea şi lauda mea este Domnul şi mi-a fost mie spre izbăvire."
+      }
     },
     {
       "num": 15,
       "geez": "",
       "translation": "The voice of exultation and salvation is in the tabernacles of the righteous: the right hand of the Lord has wrought mightily.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Glas de bucurie şi de izbăvire în corturile drepţilor: \"Dreapta Domnului a făcut putere,"
+      }
     },
     {
       "num": 16,
       "geez": "",
       "translation": "The right hand of the Lord has exalted me: the right hand of the Lord has wrought powerfully.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Dreapta Domnului m-a înălţat, dreapta Domnului a făcut putere!\""
+      }
     },
     {
       "num": 17,
       "geez": "",
       "translation": "I shall not die, but live, and recount the works of the Lord.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Nu voi muri, ci voi fi viu şi voi povesti lucrurile Domnului."
+      }
     },
     {
       "num": 18,
       "geez": "",
       "translation": "The Lord has chastened me sore: but he has not given me up to death.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Certând m-a certat Domnul, dar morţii nu m-a dat."
+      }
     },
     {
       "num": 19,
       "geez": "",
       "translation": "Open to me the gates of righteousness: I will go into them, and give praise to the Lord.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Deschideţi-mi mie porţile dreptăţii, intrând în ele voi lăuda pe Domnul."
+      }
     },
     {
       "num": 20,
       "geez": "",
       "translation": "This is the gate of the Lord: the righteous shall enter by it.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Aceasta este poarta Domnului; drepţii vor intra prin ea."
+      }
     },
     {
       "num": 21,
       "geez": "",
       "translation": "I will give thanks to thee; because thou hast heard me, and art become my salvation.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Te voi lăuda, că m-ai auzit şi ai fost mie spre izbăvire."
+      }
     },
     {
       "num": 22,
       "geez": "",
       "translation": "The stone which the builders rejected, the same is become the head of the corner.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Piatra pe care n-au băgat-o în seamă ziditorii, aceasta s-a făcut în capul unghiului."
+      }
     },
     {
       "num": 23,
       "geez": "",
       "translation": "This has been done of the Lord; and it is wonderful in our eyes.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "De la Domnul s-a făcut aceasta şi minunată este în ochii noştri."
+      }
     },
     {
       "num": 24,
       "geez": "",
       "translation": "This is the day which the Lord has made: let us exult and rejoice in it.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Aceasta este ziua pe care a făcut-o Domnul, să ne bucurăm şi să ne veselim întru ea."
+      }
     },
     {
       "num": 25,
       "geez": "",
       "translation": "O Lord, save now: O Lord, send now prosperity.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "O, Doamne, mântuieşte! O, Doamne, sporeşte!"
+      }
     },
     {
       "num": 26,
       "geez": "",
       "translation": "Blessed is he that comes in the name of the Lord: we have blessed you out of the house of the Lord.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Binecuvântat este cel ce vine întru numele Domnului; binecuvântatu-v-am pe voi, din casa Domnului."
+      }
     },
     {
       "num": 27,
       "geez": "",
       "translation": "God is the Lord, and he has shined upon us: celebrate the feast with thick branches, binding the victims even to the horns of the altar.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Dumnezeu este Domnul şi S-a arătat nouă. Tocmiţi sărbătoare cu ramuri umbroase, până la coarnele altarului."
+      }
     },
     {
       "num": 28,
       "geez": "",
       "translation": "Thou art my God, and I will give thee thanks: thou art my God, and I will exalt thee. I will give thanks to thee, for thou hast heard me, and art become my salvation.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Dumnezeul meu eşti Tu şi Te voi lăuda; Dumnezeul meu eşti Tu şi Te voi înălţa. Te voi lăuda că m-ai auzit şi ai fost mie spre mântuire."
+      }
     },
     {
       "num": 29,
       "geez": "",
       "translation": "Give thanks to the Lord; for he is good: for his mercy endures for ever.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Lăudaţi pe Domnul că este bun, că în veac este mila Lui."
+      }
     }
   ]
 }

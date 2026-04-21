@@ -6,19 +6,28 @@
       "num": 1,
       "geez": "",
       "translation": "A Song of Degrees. Behold now, bless ye the Lord, all the servants of the Lord, who stand in the house of the Lord, in the courts of the house of our God.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Iată acum binecuvântaţi pe Domnul toate slugile Domnului, care staţi în casa Domnului, în curţile casei Dumnezeului nostru."
+      }
     },
     {
       "num": 2,
       "geez": "",
       "translation": "Lift up your hands by night in the sanctuaries, and bless the Lord.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Noaptea ridicaţi mâinile voastre spre cele sfinte şi binecuvântaţi pe Domnul."
+      }
     },
     {
       "num": 3,
       "geez": "",
       "translation": "May the Lord, who made heaven and earth, bless thee out of Sion.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Te va binecuvânta Domnul din Sion, Cel ce a făcut cerul şi pământul."
+      }
     }
   ]
 }

@@ -6,37 +6,55 @@
       "num": 1,
       "geez": "",
       "translation": "A Psalm of David. The Lord tends me as a shepherd, and I shall want nothing.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Domnul mă paşte şi nimic nu-mi va lipsi."
+      }
     },
     {
       "num": 2,
       "geez": "",
       "translation": "In a place of green grass, there he has made me dwell: he has nourished me by the water of rest.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "La loc de păşune, acolo m-a sălăşluit; la apa odihnei m-a hrănit."
+      }
     },
     {
       "num": 3,
       "geez": "",
       "translation": "He has restored my soul: he has guided me into the paths of righteousness, for his name's sake.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Sufletul meu l-a întors, povăţuitu-m-a pe căile dreptăţii, pentru numele Lui."
+      }
     },
     {
       "num": 4,
       "geez": "",
       "translation": "Yea, even if I should walk in the midst of the shadow of death, I will not be afraid of evils: for thou art with me; thy rod and thy staff, these have comforted me.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Că de voi şi umbla în mijlocul morţii, nu mă voi teme de rele; că Tu cu mine eşti."
+      }
     },
     {
       "num": 5,
       "geez": "",
       "translation": "Thou hast prepared a table before me in presence of them that afflict me: thou hast thoroughly anointed my head with oil; and thy cup cheers me like the best wine.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Toiagul Tău şi varga Ta, acestea m-au mângâiat."
+      }
     },
     {
       "num": 6,
       "geez": "",
       "translation": "Thy mercy also shall follow me all the days of my life: and my dwelling shall be in the house of the Lord for a very long time.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Gătit-ai masă înaintea mea, împotriva celor ce mă necăjesc; uns-ai cu untdelemn capul meu şi paharul Tău este adăpându-mă ca un puternic."
+      }
     }
   ]
 }

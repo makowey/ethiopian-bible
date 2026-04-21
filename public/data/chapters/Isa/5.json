@@ -65,7 +65,8 @@
       ],
       "translations": {
         "lxx": "Now I will sing to my beloved a song of my beloved concerning my vineyard. My beloved had a vineyard on a high hill in a fertile place.",
-        "kjv": "Now will I sing to my wellbeloved a song of my beloved touching his vineyard. My wellbeloved hath a vineyard in a very fruitful hill:"
+        "kjv": "Now will I sing to my wellbeloved a song of my beloved touching his vineyard. My wellbeloved hath a vineyard in a very fruitful hill:",
+        "ron": "Vreau să cânt pentru prietenul meu cântecul lui de dragoste pentru via lui. Prietenul meu avea o vie pe o coastă mănoasă."
       }
     },
     {
@@ -171,7 +172,8 @@
       ],
       "translations": {
         "lxx": "And I made a hedge round it, and dug a trench, and planted a choice vine, and built a tower in the midst of it, and dug a place for the wine-vat in it: and I waited for it to bring forth grapes, and it brought forth thorns.",
-        "kjv": "And he fenced it, and gathered out the stones thereof, and planted it with the choicest vine, and built a tower in the midst of it, and also made a winepress therein: and he looked that it should bring forth grapes, and it brought forth wild grapes."
+        "kjv": "And he fenced it, and gathered out the stones thereof, and planted it with the choicest vine, and built a tower in the midst of it, and also made a winepress therein: and he looked that it should bring forth grapes, and it brought forth wild grapes.",
+        "ron": "El a săpat-o, a curăţit-o de pietre şi a sădit-o cu viţă de bun soi. Ridicat-a în mijlocul ei un turn, săpat-a şi un teasc. Şi avea nădejde că va face struguri, dar ea a făcut aguridă."
       }
     },
     {
@@ -237,7 +239,8 @@
       ],
       "translations": {
         "lxx": "And now, ye dwellers in Jerusalem, and every man of Juda, judge between me and my vineyard.",
-        "kjv": "And now, O inhabitants of Jerusalem, and men of Judah, judge, I pray you, betwixt me and my vineyard."
+        "kjv": "And now, O inhabitants of Jerusalem, and men of Judah, judge, I pray you, betwixt me and my vineyard.",
+        "ron": "Şi acum voi, locuitori ai Ierusalimului şi bărbaţi ai lui Iuda, fiţi judecători intre mine şi via mea."
       }
     },
     {
@@ -308,7 +311,8 @@
       ],
       "translations": {
         "lxx": "What shall I do any more to my vineyard, that I have not done to it? Whereas I expected it to bring forth grapes, but it has brought forth thorns.",
-        "kjv": "What could have been done more to my vineyard, that I have not done in it? wherefore, when I looked that it should bring forth grapes, brought it forth wild grapes?"
+        "kjv": "What could have been done more to my vineyard, that I have not done in it? wherefore, when I looked that it should bring forth grapes, brought it forth wild grapes?",
+        "ron": "Ce se putea face pentru via mea şi n-am făcut eu? Pentru ce atunci când nădăjduiam să-mi rodească struguri, mi-a rodit aguridă?"
       }
     },
     {
@@ -364,7 +368,8 @@
       ],
       "translations": {
         "lxx": "And now I will tell you what I will do to my vineyard: I will take away its hedge, and it shall be for a spoil; and I will pull down its walls, and it shall be left to be trodden down.",
-        "kjv": "And now go to; I will tell you what I will do to my vineyard: I will take away the hedge thereof, and it shall be eaten up; and break down the wall thereof, and it shall be trodden down:"
+        "kjv": "And now go to; I will tell you what I will do to my vineyard: I will take away the hedge thereof, and it shall be eaten up; and break down the wall thereof, and it shall be trodden down:",
+        "ron": "Acum vă voi face să ştiţi cum mă voi purta cu via mea: Strica-voi gardul ei şi ea va fi pustiită, dărâma-voi zidul ei şi va fi călcată în picioare."
       }
     },
     {
@@ -445,7 +450,8 @@
       ],
       "translations": {
         "lxx": "And I will forsake my vineyard; and it shall not be pruned, nor dug, and thorns shall come up upon it as on barren land; and I will command the clouds to rain no rain upon it.",
-        "kjv": "And I will lay it waste: it shall not be pruned, nor digged; but there shall come up briers and thorns: I will also command the clouds that they rain no rain upon it."
+        "kjv": "And I will lay it waste: it shall not be pruned, nor digged; but there shall come up briers and thorns: I will also command the clouds that they rain no rain upon it.",
+        "ron": "Şi o voi pustii! Nu va mai fi tăiată, nici săpată şi o vor năpădi spinii şi bălăriile. De asemenea şi norilor le voi da poruncă să nu-şi mai verse ploaia peste ea."
       }
     },
     {
@@ -576,7 +582,8 @@
       ],
       "translations": {
         "lxx": "For the vineyard of the Lord of hosts is the house of Israel, and the men of Juda his beloved plant: I expected it to bring forth judgment, and it brought forth iniquity; and not righteousness, but a cry.",
-        "kjv": "For the vineyard of the LORD of hosts is the house of Israel, and the men of Judah his pleasant plant: and he looked for judgment, but behold oppression; for righteousness, but behold a cry."
+        "kjv": "For the vineyard of the LORD of hosts is the house of Israel, and the men of Judah his pleasant plant: and he looked for judgment, but behold oppression; for righteousness, but behold a cry.",
+        "ron": "Dar via Domnului Savaot este casa lui Israel, iar oamenii din Iuda sunt sădirea Sa dragă. El nădăjduia ca acesta să fie un popor fără păcate, dar iată-l plin de sânge. Nădăjduit-a să-I rodească dreptate, dar iată: răzvrătire."
       }
     },
     {
@@ -692,7 +699,8 @@
       ],
       "translations": {
         "lxx": "Woe to them that join house to house, and add field to field, that they may take away something of their neighbour's: will ye dwell alone upon the land?",
-        "kjv": "Woe unto them that join house to house, that lay field to field, till there be no place, that they may be placed alone in the midst of the earth!"
+        "kjv": "Woe unto them that join house to house, that lay field to field, till there be no place, that they may be placed alone in the midst of the earth!",
+        "ron": "Vai vouă care clădiţi casă lângă casă şi grămădiţi ţarini lângă ţarini până nu mai rămâne nici un loc, ca să fiţi numai voi stăpânitori în ţară!"
       }
     },
     {
@@ -788,7 +796,8 @@
       ],
       "translations": {
         "lxx": "For these things have reached the ears of the Lord of hosts: for though many houses should be built, many and fair houses shall be desolate, and there shall be no inhabitants in them.",
-        "kjv": "In mine ears said the LORD of hosts, Of a truth many houses shall be desolate, even great and fair, without inhabitant."
+        "kjv": "In mine ears said the LORD of hosts, Of a truth many houses shall be desolate, even great and fair, without inhabitant.",
+        "ron": "Urechile mele au auzit de asemenea acest jurământ al Domnului Savaot: \"Jur că aceste case multe, mari şi frumoase, vor fi pustii şi nimeni nu va mai locui în ele."
       }
     },
     {
@@ -849,7 +858,8 @@
       ],
       "translations": {
         "lxx": "For where ten yoke of oxen plough the land shall yield one jar-full, and he that sows six homers shall produce three measures.",
-        "kjv": "Yea, ten acres of vineyard shall yield one bath, and the seed of an homer shall yield an ephah."
+        "kjv": "Yea, ten acres of vineyard shall yield one bath, and the seed of an homer shall yield an ephah.",
+        "ron": "Zece pogoane de vie vor rodi un bat, şi un homer de sămânţă, numai o efă\"."
       }
     },
     {
@@ -920,7 +930,8 @@
       ],
       "translations": {
         "lxx": "Woe to them that rise up in the morning, and follow strong drink; who wait at it till the evening: for the wine shall inflame them.",
-        "kjv": "Woe unto them that rise up early in the morning, that they may follow strong drink; that continue until night, till wine inflame them!"
+        "kjv": "Woe unto them that rise up early in the morning, that they may follow strong drink; that continue until night, till wine inflame them!",
+        "ron": "Vai de cei ce dis-de-dimineaţă aleargă după băuturi îmbătătoare; vai de cei ce până târziu seara se înfierbântă cu vin!"
       }
     },
     {
@@ -1001,7 +1012,8 @@
       ],
       "translations": {
         "lxx": "For they drink wine with harp, and psaltery, and drums, and pipes: but they regard not the works of the Lord, and consider not the works of his hands.",
-        "kjv": "And the harp, and the viol, the tabret, and pipe, and wine, are in their feasts: but they regard not the work of the LORD, neither consider the operation of his hands."
+        "kjv": "And the harp, and the viol, the tabret, and pipe, and wine, are in their feasts: but they regard not the work of the LORD, neither consider the operation of his hands.",
+        "ron": "Cei care doresc, la ospeţele lor, chitară, harpă, tobă, flaut şi vin ei nu iau în seamă faptele Domnului şi nu văd lucrurile mâinilor Sale."
       }
     },
     {
@@ -1062,7 +1074,8 @@
       ],
       "translations": {
         "lxx": "Therefore my people have been taken captive, because they know not the Lord: and there has been a multitude of dead bodies, because of hunger and of thirst for water.",
-        "kjv": "Therefore my people are gone into captivity, because they have no knowledge: and their honourable men are famished, and their multitude dried up with thirst."
+        "kjv": "Therefore my people are gone into captivity, because they have no knowledge: and their honourable men are famished, and their multitude dried up with thirst.",
+        "ron": "Pentru aceasta poporul meu va fi dus în robie fără să bage de seamă, mai-marii săi vor fi doborâţi de foame, iar gloata se va usca de sete!"
       }
     },
     {
@@ -1133,7 +1146,8 @@
       ],
       "translations": {
         "lxx": "Therefore hell has enlarged its desire and opened its mouth without ceasing: and her glorious and great, and her rich and her pestilent men shall go down into it.",
-        "kjv": "Therefore hell hath enlarged herself, and opened her mouth without measure: and their glory, and their multitude, and their pomp, and he that rejoiceth, shall descend into it."
+        "kjv": "Therefore hell hath enlarged herself, and opened her mouth without measure: and their glory, and their multitude, and their pomp, and he that rejoiceth, shall descend into it.",
+        "ron": "De aceea şi iadul şi-a mărit de două ori lăcomia lui, căscat-a gura sa peste măsură; acolo se vor coborî mărirea Sionului şi gloatele sale, chiotele de veselie..."
       }
     },
     {
@@ -1184,7 +1198,8 @@
       ],
       "translations": {
         "lxx": "And the mean man shall be brought low, and the great man shall be disgraced, and the lofty eyes shall be brought low.",
-        "kjv": "And the mean man shall be brought down, and the mighty man shall be humbled, and the eyes of the lofty shall be humbled:"
+        "kjv": "And the mean man shall be brought down, and the mighty man shall be humbled, and the eyes of the lofty shall be humbled:",
+        "ron": "Omul cel muritor va fi smerit şi umilit şi ochii celor mândri vor fi pogorâţi."
       }
     },
     {
@@ -1235,7 +1250,8 @@
       ],
       "translations": {
         "lxx": "But the Lord of hosts shall be exalted in judgment, and the holy God shall be glorified in righteousness.",
-        "kjv": "But the LORD of hosts shall be exalted in judgment, and God that is holy shall be sanctified in righteousness."
+        "kjv": "But the LORD of hosts shall be exalted in judgment, and God that is holy shall be sanctified in righteousness.",
+        "ron": "Dar Domnul Savaot este mare prin judecata Sa şi Dumnezeul cel sfânt este sfânt prin dreptatea Sa."
       }
     },
     {
@@ -1306,7 +1322,8 @@
       ],
       "translations": {
         "lxx": "And they that were spoiled shall be fed as bulls, and lambs shall feed on the waste places of them that are taken away.",
-        "kjv": "Then shall the lambs feed after their manner, and the waste places of the fat ones shall strangers eat."
+        "kjv": "Then shall the lambs feed after their manner, and the waste places of the fat ones shall strangers eat.",
+        "ron": "Oile vor paşte în voie, iar străinii se vor hrăni în locurile mănoase, lăsate de cei bogaţi."
       }
     },
     {
@@ -1382,7 +1399,8 @@
       ],
       "translations": {
         "lxx": "Woe to them that draw sins to them as with a long rope, and iniquities as with a thong of the heifer's yoke:",
-        "kjv": "Woe unto them that draw iniquity with cords of vanity, and sin as it were with a cart rope:"
+        "kjv": "Woe unto them that draw iniquity with cords of vanity, and sin as it were with a cart rope:",
+        "ron": "Vai de cei ce îşi atrag pedeapsa ca şi cu nişte frânghii şi plata păcatului ca şi cu nişte ştreanguri,"
       }
     },
     {
@@ -1438,7 +1456,8 @@
       ],
       "translations": {
         "lxx": "who say, Let him speedily hasten what he will do, that we may see it: and let the counsel of the Holy One of Israel come, that we may know it.",
-        "kjv": "That say, Let him make speed, and hasten his work, that we may see it: and let the counsel of the Holy One of Israel draw nigh and come, that we may know it!"
+        "kjv": "That say, Let him make speed, and hasten his work, that we may see it: and let the counsel of the Holy One of Israel draw nigh and come, that we may know it!",
+        "ron": "Căci ei zic: \"Grăbească Domnul să-Şi facă lucrul Său curând, ca să vedem şi să se plinească planul Sfântului lui Israel, ca să-l cunoaştem\"."
       }
     },
     {
@@ -1539,7 +1558,8 @@
       ],
       "translations": {
         "lxx": "Woe to them that call evil good, and good evil; who make darkness light, and light darkness; who make bitter sweet, and sweet bitter.",
-        "kjv": "Woe unto them that call evil good, and good evil; that put darkness for light, and light for darkness; that put bitter for sweet, and sweet for bitter!"
+        "kjv": "Woe unto them that call evil good, and good evil; that put darkness for light, and light for darkness; that put bitter for sweet, and sweet for bitter!",
+        "ron": "Vai de cei ce zic răului bine şi binelui rău; care numesc lumina întuneric şi întunericul lumină; care socotesc amarul dulce şi dulcele amar!"
       }
     },
     {
@@ -1590,7 +1610,8 @@
       ],
       "translations": {
         "lxx": "Woe to them that are wise in their own conceit, and knowing in their own sight.",
-        "kjv": "Woe unto them that are wise in their own eyes, and prudent in their own sight!"
+        "kjv": "Woe unto them that are wise in their own eyes, and prudent in their own sight!",
+        "ron": "Vai de cei care sunt înţelepţi în ochii lor şi pricepuţi după gândurile lor!"
       }
     },
     {
@@ -1651,7 +1672,8 @@
       ],
       "translations": {
         "lxx": "Woe to the strong ones of you that drink wine, and the mighty ones that mingle strong drink:",
-        "kjv": "Woe unto them that are mighty to drink wine, and men of strength to mingle strong drink:"
+        "kjv": "Woe unto them that are mighty to drink wine, and men of strength to mingle strong drink:",
+        "ron": "Vai de cei viteji la băut vin şi meşteri la făcut băuturi îmbătătoare!"
       }
     },
     {
@@ -1702,7 +1724,8 @@
       ],
       "translations": {
         "lxx": "who justify the ungodly for rewards, and take away the righteousness of the righteous.",
-        "kjv": "Which justify the wicked for reward, and take away the righteousness of the righteous from him!"
+        "kjv": "Which justify the wicked for reward, and take away the righteousness of the righteous from him!",
+        "ron": "Vai de cei ce dau dreptate celui nelegiuit pentru mită şi lipsesc de dreptate pe cel drept!"
       }
     },
     {
@@ -1833,7 +1856,8 @@
       ],
       "translations": {
         "lxx": "Therefore as stubble shall be burnt by a coal of fire, and shall be consumed by a violent flame, their root shall be as chaff, and their flower shall go up as dust: for they rejected the law of the Lord of hosts, and insulted the word of the Holy One of Israel.",
-        "kjv": "Therefore as the fire devoureth the stubble, and the flame consumeth the chaff, so their root shall be as rottenness, and their blossom shall go up as dust: because they have cast away the law of the LORD of hosts, and despised the word of the Holy One of Israel."
+        "kjv": "Therefore as the fire devoureth the stubble, and the flame consumeth the chaff, so their root shall be as rottenness, and their blossom shall go up as dust: because they have cast away the law of the LORD of hosts, and despised the word of the Holy One of Israel.",
+        "ron": "Pentru aceasta, după cum paiele sunt mistuite de foc şi iarba uscată de flăcări, aşa rădăcina lor va fi topită ca pleava şi floarea lor va fi spulberată precum este cenuşa, căci au călcat legea Domnului Savaot şi au nesocotit cuvântul Sfântului lui Israel!"
       }
     },
     {
@@ -1899,7 +1923,8 @@
       ],
       "translations": {
         "lxx": "Therefore the Lord of hosts was greatly angered against his people, and he reached forth his hand upon them, and smote them: and the mountains were troubled, and their carcases were as dung in the midst of the way: yet for all this his anger has not been turned away, but his hand is yet raised.",
-        "kjv": "Therefore is the anger of the LORD kindled against his people, and he hath stretched forth his hand against them, and hath smitten them: and the hills did tremble, and their carcases were torn in the midst of the streets. For all this his anger is not turned away, but his hand is stretched out still."
+        "kjv": "Therefore is the anger of the LORD kindled against his people, and he hath stretched forth his hand against them, and hath smitten them: and the hills did tremble, and their carcases were torn in the midst of the streets. For all this his anger is not turned away, but his hand is stretched out still.",
+        "ron": "De aceea, mânia Domnului s-a aprins împotriva poporului Său! El întinde mâna Sa spre el, îl loveşte şi munţii se clatină. Cadavrele lor sunt ca gunoiul pe cale. Cu toate acestea mânia Lui nu se domoleşte şi mâna Lui stă mereu întinsă"
       }
     },
     {
@@ -1975,7 +2000,8 @@
       ],
       "translations": {
         "lxx": "Therefore shall he lift up a signal to the nations that are afar, and shall hiss for them from the end of the earth; and, behold, they are coming very quickly.",
-        "kjv": "And he will lift up an ensign to the nations from far, and will hiss unto them from the end of the earth: and, behold, they shall come with speed swiftly:"
+        "kjv": "And he will lift up an ensign to the nations from far, and will hiss unto them from the end of the earth: and, behold, they shall come with speed swiftly:",
+        "ron": "Şi va ridica steagul pentru un popor de departe şi îl va chema de la capătul pământului. Iată-l că se zoreşte şi vine."
       }
     },
     {
@@ -2036,7 +2062,8 @@
       ],
       "translations": {
         "lxx": "They shall not hunger nor be weary, neither shall they slumber nor sleep; neither shall they loose their girdles from their loins, neither shall their shoe-latchets be broken.",
-        "kjv": "None shall be weary nor stumble among them; none shall slumber nor sleep; neither shall the girdle of their loins be loosed, nor the latchet of their shoes be broken:"
+        "kjv": "None shall be weary nor stumble among them; none shall slumber nor sleep; neither shall the girdle of their loins be loosed, nor the latchet of their shoes be broken:",
+        "ron": "Nimeni din ai lui nu va obosi, nici va boli, nu va dormita, nici va adormi; nimeni nu-şi va descinge brâul şi nici cureaua încălţămintei lui nu se va rupe."
       }
     },
     {
@@ -2107,7 +2134,8 @@
       ],
       "translations": {
         "lxx": "Whose arrows are sharp, and their bows bent; their horses' hoofs are counted as solid rock: their chariot-wheels are as a storm.",
-        "kjv": "Whose arrows are sharp, and all their bows bent, their horses’ hoofs shall be counted like flint, and their wheels like a whirlwind:"
+        "kjv": "Whose arrows are sharp, and all their bows bent, their horses’ hoofs shall be counted like flint, and their wheels like a whirlwind:",
+        "ron": "Săgeţile lor sunt ascuţite şi arcurile lor gata să tragă. Copitele cailor sunt ca şi cremenea cea tare, roţile căruţelor sunt ca o furtună."
       }
     },
     {
@@ -2183,7 +2211,8 @@
       ],
       "translations": {
         "lxx": "They rage as lions, and draw nigh as a lion's whelps: and he shall seize, and roar as a wild beast, and he shall cast them forth, and there shall be none to deliver them.",
-        "kjv": "Their roaring shall be like a lion, they shall roar like young lions: yea, they shall roar, and lay hold of the prey, and shall carry it away safe, and none shall deliver it."
+        "kjv": "Their roaring shall be like a lion, they shall roar like young lions: yea, they shall roar, and lay hold of the prey, and shall carry it away safe, and none shall deliver it.",
+        "ron": "Strigătul, strigăt de leu, răcnesc ca puii de leu, mugesc şi apucă prada, şi nimeni nu roate s-o scape."
       }
     },
     {
@@ -2264,7 +2293,8 @@
       ],
       "translations": {
         "lxx": "And he shall roar on account of them in that day, as the sound of the swelling sea; and they shall look to the land, and, behold, there shall be thick darkness in their perplexity.",
-        "kjv": "And in that day they shall roar against them like the roaring of the sea: and if one look unto the land, behold darkness and sorrow, and the light is darkened in the heavens thereof."
+        "kjv": "And in that day they shall roar against them like the roaring of the sea: and if one look unto the land, behold darkness and sorrow, and the light is darkened in the heavens thereof.",
+        "ron": "În vremea aceea fi-va împotriva lui un vuiet ca vuietul mării. Toţi vor arunca privirea spre pământ şi iată: întuneric şi strâmtorare; lumina se va întuneca întocmai ca o noapte, fără să se mai ivească zorile!"
       }
     }
   ],

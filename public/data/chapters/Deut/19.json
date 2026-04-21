@@ -95,7 +95,8 @@
       ],
       "translations": {
         "lxx": "And when the Lord thy God shall have destroyed the nations, which God gives thee, even the land, and ye shall inherit them, and dwell in their cities, and in their houses,",
-        "kjv": "When the LORD thy God hath cut off the nations, whose land the LORD thy God giveth thee, and thou succeedest them, and dwellest in their cities, and in their houses;"
+        "kjv": "When the LORD thy God hath cut off the nations, whose land the LORD thy God giveth thee, and thou succeedest them, and dwellest in their cities, and in their houses;",
+        "ron": "\"Când Domnul Dumnezeul tău va pierde pe popoarele al căror pământ ţi-l dă ţie Domnul Dumnezeul tău, şi tu vei intra în moştenirea lor şi te vei aşeza în cetăţile lor şi în casele lor,"
       }
     },
     {
@@ -156,7 +157,8 @@
       ],
       "translations": {
         "lxx": "thou shalt separate for thyself three cities in the midst of thy land, which the Lord thy God gives thee.",
-        "kjv": "Thou shalt separate three cities for thee in the midst of thy land, which the LORD thy God giveth thee to possess it."
+        "kjv": "Thou shalt separate three cities for thee in the midst of thy land, which the LORD thy God giveth thee to possess it.",
+        "ron": "Atunci să-ţi alegi trei cetăţi în ţara ta pe care Domnul Dumnezeul tău ţi-o dă în stăpânire."
       }
     },
     {
@@ -242,7 +244,8 @@
       ],
       "translations": {
         "lxx": "Take a survey of thy way, and thou shalt divide the coasts of thy land, which the Lord thy God apportions to thee, into three parts, and there shall be there a refuge for every manslayer.",
-        "kjv": "Thou shalt prepare thee a way, and divide the coasts of thy land, which the LORD thy God giveth thee to inherit, into three parts, that every slayer may flee thither."
+        "kjv": "Thou shalt prepare thee a way, and divide the coasts of thy land, which the LORD thy God giveth thee to inherit, into three parts, that every slayer may flee thither.",
+        "ron": "Să-ţi faci drum şi să împarţi în trei părţi tot pământul tău pe care ţi-l dă Domnul Dumnezeul tău de moştenire. Acelea vor sluji ca loc de scăpare oricărui ucigaş."
       }
     },
     {
@@ -333,7 +336,8 @@
       ],
       "translations": {
         "lxx": "And this shall be the ordinance of the manslayer, who shall flee thither, and shall live, whosoever shall have smitten his neighbour ignorantly, whereas he hated him not in times past.",
-        "kjv": "And this is the case of the slayer, which shall flee thither, that he may live: Whoso killeth his neighbour ignorantly, whom he hated not in time past;"
+        "kjv": "And this is the case of the slayer, which shall flee thither, that he may live: Whoso killeth his neighbour ignorantly, whom he hated not in time past;",
+        "ron": "Şi iată care ucigaş va fugi acolo şi va trăi: cel ce va ucide pe aproapele său fără voie şi fără să-i fi fost vrăjmaş nici cu o zi, nici cu două înainte;"
       }
     },
     {
@@ -489,7 +493,8 @@
       ],
       "translations": {
         "lxx": "And whosoever shall enter with his neighbour into the thicket, to gather wood, if the hand of him that cuts wood with the axe should be violently shaken, and the axe head falling off from the handle should light on his neighbour, and he should die, he shall flee to one of these cities, and live.",
-        "kjv": "As when a man goeth into the wood with his neighbour to hew wood, and his hand fetcheth a stroke with the axe to cut down the tree, and the head slippeth from the helve, and lighteth upon his neighbour, that he die; he shall flee unto one of those cities, and live:"
+        "kjv": "As when a man goeth into the wood with his neighbour to hew wood, and his hand fetcheth a stroke with the axe to cut down the tree, and the head slippeth from the helve, and lighteth upon his neighbour, that he die; he shall flee unto one of those cities, and live:",
+        "ron": "Cel ce se va duce cu aproapele său în pădure să taie lemne şi, învârtind mâna sa cu toporul, ca să taie un copac, va sări toporul din coadă şi va lovi pe aproapele şi acela va muri, acesta să fugă în una din aceste cetăţi ale tale, spre a scăpa cu viaţă,"
       }
     },
     {
@@ -615,7 +620,8 @@
       ],
       "translations": {
         "lxx": "Lest the avenger of blood pursue after the slayer, because his heart is hot, and overtake him, if the way be too long, and slay him, though there is to this man no sentence of death, because he hated him not in time past.",
-        "kjv": "Lest the avenger of the blood pursue the slayer, while his heart is hot, and overtake him, because the way is long, and slay him; whereas he was not worthy of death, inasmuch as he hated him not in time past."
+        "kjv": "Lest the avenger of the blood pursue the slayer, while his heart is hot, and overtake him, because the way is long, and slay him; whereas he was not worthy of death, inasmuch as he hated him not in time past.",
+        "ron": "Ca răzbunătorul sângelui, în aprinderea inimii lui, să nu se mânie pe ucigaş şi să nu-l ajungă pe acesta, dacă va fi lung drumul, şi să nu-l ucidă, întrucât nu este vinovat de moarte, pentru că nu i-a fost vrăjmaş nici cu o zi, nici cu două înainte."
       }
     },
     {
@@ -686,7 +692,8 @@
       ],
       "translations": {
         "lxx": "Therefore I charge thee, saying, Thou shalt separate for thyself three cities.",
-        "kjv": "Wherefore I command thee, saying, Thou shalt separate three cities for thee."
+        "kjv": "Wherefore I command thee, saying, Thou shalt separate three cities for thee.",
+        "ron": "De aceea ţi-am dat eu poruncă şi ţi-am zis: Alege-ţi trei cetăţi."
       }
     },
     {
@@ -787,7 +794,8 @@
       ],
       "translations": {
         "lxx": "And if the Lord shall enlarge thy borders, as he sware to thy fathers, and the Lord shall give to thee all the land which he said he would give to thy fathers;",
-        "kjv": "And if the LORD thy God enlarge thy coast, as he hath sworn unto thy fathers, and give thee all the land which he promised to give unto thy fathers;"
+        "kjv": "And if the LORD thy God enlarge thy coast, as he hath sworn unto thy fathers, and give thee all the land which he promised to give unto thy fathers;",
+        "ron": "Iar când Domnul Dumnezeul tău va lărgi hotarele tale, după cum S-a jurat părinţilor tăi, şi îţi va da tot pământul pe care a făgăduit să-l dea părinţilor tăi,"
       }
     },
     {
@@ -938,7 +946,8 @@
       ],
       "translations": {
         "lxx": "if thou shalt hearken to do all these commands, which I charge thee this day, to love the Lord thy God, to walk in all his ways continually; thou shalt add for thyself yet three cities to these three.",
-        "kjv": "If thou shalt keep all these commandments to do them, which I command thee this day, to love the LORD thy God, and to walk ever in his ways; then shalt thou add three cities more for thee, beside these three:"
+        "kjv": "If thou shalt keep all these commandments to do them, which I command thee this day, to love the LORD thy God, and to walk ever in his ways; then shalt thou add three cities more for thee, beside these three:",
+        "ron": "Dacă te vei sili să împlineşti toate poruncile acestea, pe care ţi le spun eu astăzi, şi vei iubi pe Domnul Dumnezeul tău şi vei umbla în căile Lui în toate zilele, atunci la aceste trei cetăţi să mai adaugi încă trei cetăţi,"
       }
     },
     {
@@ -1019,7 +1028,8 @@
       ],
       "translations": {
         "lxx": "So innocent blood shall not be spilt in the land, which the Lord thy God gives thee to inherit, and there shall not be in thee one guilty of blood.",
-        "kjv": "That innocent blood be not shed in thy land, which the LORD thy God giveth thee for an inheritance, and so blood be upon thee."
+        "kjv": "That innocent blood be not shed in thy land, which the LORD thy God giveth thee for an inheritance, and so blood be upon thee.",
+        "ron": "Ca să nu se verse sângele nevinovatului în pământul tău pe care Domnul Dumnezeul tău ţi-l dă de moştenire şi să nu ai asupra ta vină de sânge."
       }
     },
     {
@@ -1115,7 +1125,8 @@
       ],
       "translations": {
         "lxx": "But if there should be in thee a man hating his neighbour, and he should lay wait for him, and rise up against him, and smite him, that he die, and he should flee to one of these cities,",
-        "kjv": "But if any man hate his neighbour, and lie in wait for him, and rise up against him, and smite him mortally that he die, and fleeth into one of these cities:"
+        "kjv": "But if any man hate his neighbour, and lie in wait for him, and rise up against him, and smite him mortally that he die, and fleeth into one of these cities:",
+        "ron": "Iar dacă cineva din ai tăi va fi duşman aproapelui tău şi-l va pândi şi va sări la acela şi-l va ucide şi apoi va fugi în una din cetăţile acestea,"
       }
     },
     {
@@ -1176,7 +1187,8 @@
       ],
       "translations": {
         "lxx": "then shall the elders of his city send, and take him thence, and they shall deliver him into the hands of the avengers of blood, and he shall die.",
-        "kjv": "Then the elders of his city shall send and fetch him thence, and deliver him into the hand of the avenger of blood, that he may die."
+        "kjv": "Then the elders of his city shall send and fetch him thence, and deliver him into the hand of the avenger of blood, that he may die.",
+        "ron": "Bătrânii cetăţii lui să trimită ca să-l ia de acolo şi să-l dea în mâinile răzbunătorului sângelui, ca să moară."
       }
     },
     {
@@ -1237,7 +1249,8 @@
       ],
       "translations": {
         "lxx": "Thine eye shall not spare him; so shalt thou purge innocent blood from Israel, and it shall be well with thee.",
-        "kjv": "Thine eye shall not pity him, but thou shalt put away the guilt of innocent blood from Israel, that it may go well with thee."
+        "kjv": "Thine eye shall not pity him, but thou shalt put away the guilt of innocent blood from Israel, that it may go well with thee.",
+        "ron": "Să nu-l cruţe pe unul ca acela ochiul tău. Spală pe Israel de sângele nevinovat şi va fi bine."
       }
     },
     {
@@ -1318,7 +1331,8 @@
       ],
       "translations": {
         "lxx": "Thou shalt not move the landmarks of thy neighbour, which thy fathers set in the inheritance, in which thou hast obtained a share in the land, which the Lord thy God gives thee to inherit.",
-        "kjv": "Thou shalt not remove thy neighbour’s landmark, which they of old time have set in thine inheritance, which thou shalt inherit in the land that the LORD thy God giveth thee to possess it."
+        "kjv": "Thou shalt not remove thy neighbour’s landmark, which they of old time have set in thine inheritance, which thou shalt inherit in the land that the LORD thy God giveth thee to possess it.",
+        "ron": "Să nu muţi hotarul aproapelui tău, pe care l-au aşezat strămoşii moşiei tale, care ţi s-a cuvenit în pământul pe care Domnul Dumnezeul tău ţi-l dă în stăpânire."
       }
     },
     {
@@ -1434,7 +1448,8 @@
       ],
       "translations": {
         "lxx": "One witness shall not stand to testify against a man for any iniquity, or for any fault, or for any sin which he may commit; by the mouth of two witnesses, or by the mouth of three witnesses, shall every word be established.",
-        "kjv": "One witness shall not rise up against a man for any iniquity, or for any sin, in any sin that he sinneth: at the mouth of two witnesses, or at the mouth of three witnesses, shall the matter be established."
+        "kjv": "One witness shall not rise up against a man for any iniquity, or for any sin, in any sin that he sinneth: at the mouth of two witnesses, or at the mouth of three witnesses, shall the matter be established.",
+        "ron": "Nu ajunge numai un martor pentru a vădi pe cineva de vreo vină sau de vreo nelegiuire sau de vreun păcat de care s-ar fi făcut vinovat, ci orice pricină să se dovedească prin spusa a doi sau trei martori."
       }
     },
     {
@@ -1490,7 +1505,8 @@
       ],
       "translations": {
         "lxx": "And if an unjust witness rise up against a man, alleging iniquity against him;",
-        "kjv": "If a false witness rise up against any man to testify against him that which is wrong;"
+        "kjv": "If a false witness rise up against any man to testify against him that which is wrong;",
+        "ron": "De se va ridica asupra cuiva martor nedrept, învinuindu-l de nelegiuire,"
       }
     },
     {
@@ -1581,7 +1597,8 @@
       ],
       "translations": {
         "lxx": "then shall the two men between whom the controversy is, stand before the Lord, and before the priests, and before the judges, who may be in those days.",
-        "kjv": "Then both the men, between whom the controversy is, shall stand before the LORD, before the priests and the judges, which shall be in those days;"
+        "kjv": "Then both the men, between whom the controversy is, shall stand before the LORD, before the priests and the judges, which shall be in those days;",
+        "ron": "Amândoi oamenii aceştia între care este pricina să se înfăţişeze înaintea Domnului, la preot sau la judecătorii care vor fi în zilele acelea."
       }
     },
     {
@@ -1667,7 +1684,8 @@
       ],
       "translations": {
         "lxx": "And the judges shall make diligent inquiry, and, behold, if an unjust witness has borne unjust testimony; and has stood up against his brother;",
-        "kjv": "And the judges shall make diligent inquisition: and, behold, if the witness be a false witness, and hath testified falsely against his brother;"
+        "kjv": "And the judges shall make diligent inquisition: and, behold, if the witness be a false witness, and hath testified falsely against his brother;",
+        "ron": "Şi judecătorii să cerceteze bine şi, dacă martorul acela va fi martor mincinos şi va fi mărturisit strâmb asupra fratelui său,"
       }
     },
     {
@@ -1728,7 +1746,8 @@
       ],
       "translations": {
         "lxx": "then shall ye do to him as he wickedly devised to do against his brother, and thou shalt remove the evil from yourselves.",
-        "kjv": "Then shall ye do unto him, as he had thought to have done unto his brother: so shalt thou put the evil away from among you."
+        "kjv": "Then shall ye do unto him, as he had thought to have done unto his brother: so shalt thou put the evil away from among you.",
+        "ron": "Să-i faceţi ceea ce voise să facă el fratelui său. Şi aşa să stârpeşti răul din mijlocul tău;"
       }
     },
     {
@@ -1789,7 +1808,8 @@
       ],
       "translations": {
         "lxx": "And the rest shall hear and fear, and do no more according to this evil thing in the midst of you.",
-        "kjv": "And those which remain shall hear, and fear, and shall henceforth commit no more any such evil among you."
+        "kjv": "And those which remain shall hear, and fear, and shall henceforth commit no more any such evil among you.",
+        "ron": "Şi vor auzi şi ceilalţi şi se vor teme şi nu se vor apuca să mai facă în mijlocul tău acest rău."
       }
     },
     {
@@ -1885,7 +1905,8 @@
       ],
       "translations": {
         "lxx": "Thine eye shall not spare him: thou shalt exact life for life, eye for eye, tooth for tooth, hand for hand, foot for foot.",
-        "kjv": "And thine eye shall not pity; but life shall go for life, eye for eye, tooth for tooth, hand for hand, foot for foot."
+        "kjv": "And thine eye shall not pity; but life shall go for life, eye for eye, tooth for tooth, hand for hand, foot for foot.",
+        "ron": "Să nu-l cruţe ochiul tău, ci să ceri suflet pentru suflet, ochi pentru ochi, dinte pentru dinte, mână pentru mână, picior pentru picior. Cu răul pe care îl va face cineva-aproapelui său, cu acela trebuie să i se plătească\"."
       }
     }
   ],

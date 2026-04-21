@@ -6,19 +6,28 @@
       "num": 1,
       "geez": "",
       "translation": "A Song of Degrees. O Lord, my heart is not exalted, neither have mine eyes been haughtily raised: neither have I exercised myself in great matters, nor in things too wonderful for me.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Doamne, nu s-a mândrit inima mea, nici nu s-au înălţat ochii mei, nici n-am umblat după lucruri mari, nici după lucruri mai presus de mine,"
+      }
     },
     {
       "num": 2,
       "geez": "",
       "translation": "I shall have sinned if I have not been humble, but have exalted my soul: according to the relation of a weaned child to his mother, so wilt thou recompense my soul.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Dimpotrivă, mi-am smerit şi mi-am domolit sufletul meu, ca un prunc înţărcat de mama lui, ca răsplată a sufletului meu."
+      }
     },
     {
       "num": 3,
       "geez": "",
       "translation": "Let Israel hope in the Lord, from henceforth and for ever.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Să nădăjduiască Israel în Domnul, de acum şi până în veac!"
+      }
     }
   ]
 }

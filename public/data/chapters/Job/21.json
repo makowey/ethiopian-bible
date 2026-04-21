@@ -35,7 +35,8 @@
       ],
       "translations": {
         "lxx": "But Job answered and said,",
-        "kjv": "But Job answered and said,"
+        "kjv": "But Job answered and said,",
+        "ron": "Atunci Iov a vorbit încă o dată şi a zis:"
       }
     },
     {
@@ -86,7 +87,8 @@
       ],
       "translations": {
         "lxx": "Hear ye, hear ye my words, that I may not have this consolation from you.",
-        "kjv": "Hear diligently my speech, and let this be your consolations."
+        "kjv": "Hear diligently my speech, and let this be your consolations.",
+        "ron": "\"Ascultaţi cu luare-aminte cuvântul meu şi aici să se oprească mângâierile voastre."
       }
     },
     {
@@ -142,7 +144,8 @@
       ],
       "translations": {
         "lxx": "Raise me, and I will speak; then ye shall not laugh me to scorn.",
-        "kjv": "Suffer me that I may speak; and after that I have spoken, mock on."
+        "kjv": "Suffer me that I may speak; and after that I have spoken, mock on.",
+        "ron": "Îngăduiţi-mi să vorbesc şi eu, şi după ce voi vorbi, atunci poţi să-ţi baţi joc."
       }
     },
     {
@@ -173,7 +176,8 @@
       ],
       "translations": {
         "lxx": "What! is my reproof of man? and why should I not be angry?",
-        "kjv": "As for me, is my complaint to man? and if it were so, why should not my spirit be troubled?"
+        "kjv": "As for me, is my complaint to man? and if it were so, why should not my spirit be troubled?",
+        "ron": "Oare plângerea mea se înalţă împotriva unui om? Şi atunci răbdarea mea cum n-o să fie pe sfârşite?"
       }
     },
     {
@@ -219,7 +223,8 @@
       ],
       "translations": {
         "lxx": "Look upon me, and wonder, laying your hand upon your cheek.",
-        "kjv": "Mark me, and be astonished, and lay your hand upon your mouth."
+        "kjv": "Mark me, and be astonished, and lay your hand upon your mouth.",
+        "ron": "Uitaţi-vă la mine şi miraţi-vă foarte şi puneţi mâna la gură."
       }
     },
     {
@@ -260,7 +265,8 @@
       ],
       "translations": {
         "lxx": "For even when I remember, I am alarmed, and pains seize my flesh.",
-        "kjv": "Even when I remember I am afraid, and trembling taketh hold on my flesh."
+        "kjv": "Even when I remember I am afraid, and trembling taketh hold on my flesh.",
+        "ron": "Căci, când mă gândesc, mă apucă groaza şi toată carnea de pe mine tremură."
       }
     },
     {
@@ -311,7 +317,8 @@
       ],
       "translations": {
         "lxx": "Wherefore do the ungodly live, and grow old even in wealth?",
-        "kjv": "Wherefore do the wicked live, become old, yea, are mighty in power?"
+        "kjv": "Wherefore do the wicked live, become old, yea, are mighty in power?",
+        "ron": "Pentru ce ticăloşii au viaţă, ajung la adânci bătrâneţe şi sporesc în putere?"
       }
     },
     {
@@ -362,7 +369,8 @@
       ],
       "translations": {
         "lxx": "Their seed is according to their desire, and their children are in their sight.",
-        "kjv": "Their seed is established in their sight with them, and their offspring before their eyes."
+        "kjv": "Their seed is established in their sight with them, and their offspring before their eyes.",
+        "ron": "Urmaşii lor se ridică voinici în faţa lor şi odraslele lor dăinuiesc sub ochii lor."
       }
     },
     {
@@ -403,7 +411,8 @@
       ],
       "translations": {
         "lxx": "Their houses are prosperous, neither have they any where cause for fear, neither is there a scourge from the Lord upon them.",
-        "kjv": "Their houses are safe from fear, neither is the rod of God upon them."
+        "kjv": "Their houses are safe from fear, neither is the rod of God upon them.",
+        "ron": "Casele lor stau nevătămate, fără teamă şi varga lui Dumnezeu nu stă deasupra lor."
       }
     },
     {
@@ -454,7 +463,8 @@
       ],
       "translations": {
         "lxx": "Their cow does not cast her calf, and their beast with young is safe, and does not miscarry.",
-        "kjv": "Their bull gendereth, and faileth not; their cow calveth, and casteth not her calf."
+        "kjv": "Their bull gendereth, and faileth not; their cow calveth, and casteth not her calf.",
+        "ron": "Taurii sunt plini de vlagă şi prăsitori, juncanele lor fată şi nu leapădă."
       }
     },
     {
@@ -485,7 +495,8 @@
       ],
       "translations": {
         "lxx": "And they remain as an unfailing flock, and their children play before them, taking up the psaltery and harp;",
-        "kjv": "They send forth their little ones like a flock, and their children dance."
+        "kjv": "They send forth their little ones like a flock, and their children dance.",
+        "ron": "Copiii lor zburdă ca oile şi odraslele lor dănţuiesc împrejur."
       }
     },
     {
@@ -576,7 +587,8 @@
       ],
       "translations": {
         "lxx": "and they rejoice at the voice of a song.",
-        "kjv": "They take the timbrel and harp, and rejoice at the sound of the organ."
+        "kjv": "They take the timbrel and harp, and rejoice at the sound of the organ.",
+        "ron": "Ei cântă din tobă şi din harfă şi se desfată la sunetele flautului."
       }
     },
     {
@@ -727,7 +739,8 @@
       ],
       "translations": {
         "lxx": "Yet such a man says to the Lord, Depart from me; I desire not to know thy ways.",
-        "kjv": "Therefore they say unto God, Depart from us; for we desire not the knowledge of thy ways."
+        "kjv": "Therefore they say unto God, Depart from us; for we desire not the knowledge of thy ways.",
+        "ron": "Şi tocmai ei ziceau lui Dumnezeu: \"În lături de la noi! Nu vrem deloc să cunoaştem căile Tale!"
       }
     },
     {
@@ -793,7 +806,8 @@
       ],
       "translations": {
         "lxx": "Nevertheless, the lamp of the ungodly also shall be put out, and destruction shall come upon them, and pangs of vengeance shall seize them.",
-        "kjv": "How oft is the candle of the wicked put out! and how oft cometh their destruction upon them! God distributeth sorrows in his anger."
+        "kjv": "How oft is the candle of the wicked put out! and how oft cometh their destruction upon them! God distributeth sorrows in his anger.",
+        "ron": "De câte ori se stinge candela nelegiuiţilor şi nenorocirea dă năvală peste ei? De câte ori Dumnezeu nimiceşte cu mânia Sa pe cei răufăcători,"
       }
     },
     {
@@ -894,7 +908,8 @@
       ],
       "translations": {
         "lxx": "And they shall be as chaff before the wind, or as dust which the storm has taken up.",
-        "kjv": "They are as stubble before the wind, and as chaff that the storm carrieth away."
+        "kjv": "They are as stubble before the wind, and as chaff that the storm carrieth away.",
+        "ron": "Ca să fie ei ca paiul în bătaia vântului şi ca pleava pe care o răsuceşte vârtejul?"
       }
     },
     {
@@ -920,7 +935,8 @@
       ],
       "translations": {
         "lxx": "Let his eyes see his own destruction, and let him not be saved by the Lord.",
-        "kjv": "His eyes shall see his destruction, and he shall drink of the wrath of the Almighty."
+        "kjv": "His eyes shall see his destruction, and he shall drink of the wrath of the Almighty.",
+        "ron": "Să-şi vadă cu ochii nenorocirea şi să se adape din mânia Celui Atotputernic!"
       }
     },
     {
@@ -981,7 +997,8 @@
       ],
       "translations": {
         "lxx": "For his desire is in his house with him, and the number of his months has been suddenly cut off.",
-        "kjv": "For what pleasure hath he in his house after him, when the number of his months is cut off in the midst?"
+        "kjv": "For what pleasure hath he in his house after him, when the number of his months is cut off in the midst?",
+        "ron": "Fiindcă ce-i mai pasă de casa lui, după moartea lui, când numărul lunilor lui a fost retezat?"
       }
     },
     {
@@ -1057,7 +1074,8 @@
       ],
       "translations": {
         "lxx": "Is it not the Lord who teaches understanding and knowledge? and does not he judge murders?",
-        "kjv": "Shall any teach God knowledge? seeing he judgeth those that are high."
+        "kjv": "Shall any teach God knowledge? seeing he judgeth those that are high.",
+        "ron": "Dar nu cumva Îi vom da noi învăţătură lui Dumnezeu, Lui care stă şi judecă pe cei de sus?"
       }
     },
     {
@@ -1103,7 +1121,8 @@
       ],
       "translations": {
         "lxx": "One shall die in his perfect strength, and wholly at ease and prosperous;",
-        "kjv": "One dieth in his full strength, being wholly at ease and quiet."
+        "kjv": "One dieth in his full strength, being wholly at ease and quiet.",
+        "ron": "Unul moare, în plinătatea puterii sale, când este înconjurat de fericire şi de pace,"
       }
     },
     {
@@ -1149,7 +1168,8 @@
       ],
       "translations": {
         "lxx": "and his inwards are full of fat, and his marrow is diffused throughout him.",
-        "kjv": "His breasts are full of milk, and his bones are moistened with marrow."
+        "kjv": "His breasts are full of milk, and his bones are moistened with marrow.",
+        "ron": "Când găleţile îi sunt pline de lapte şi oasele pe care le suge, pline cu măduvă."
       }
     },
     {
@@ -1195,7 +1215,8 @@
       ],
       "translations": {
         "lxx": "And another dies in bitterness of soul, not eating any good thing.",
-        "kjv": "And another dieth in the bitterness of his soul, and never eateth with pleasure."
+        "kjv": "And another dieth in the bitterness of his soul, and never eateth with pleasure.",
+        "ron": "Altul moare, cu sufletul copleşit de amărăciune, fără să fi gustat vreo fericire."
       }
     },
     {
@@ -1261,7 +1282,8 @@
       ],
       "translations": {
         "lxx": "But they lie down in the earth together, and corruption covers them.",
-        "kjv": "They shall lie down alike in the dust, and the worms shall cover them."
+        "kjv": "They shall lie down alike in the dust, and the worms shall cover them.",
+        "ron": "Şi unul şi altul se culcă în ţărână şi viermii îi cotropesc."
       }
     },
     {
@@ -1297,7 +1319,8 @@
       ],
       "translations": {
         "lxx": "So I know you, that ye presumptuously attack me:",
-        "kjv": "Behold, I know your thoughts, and the devices which ye wrongfully imagine against me."
+        "kjv": "Behold, I know your thoughts, and the devices which ye wrongfully imagine against me.",
+        "ron": "Ştiu prea bine gândurile voastre şi socotinţele pe care vi le făuriţi în privinţa mea."
       }
     },
     {
@@ -1353,7 +1376,8 @@
       ],
       "translations": {
         "lxx": "so that ye will say, Where is the house of the prince? and where is the covering of the tabernacles of the ungodly?",
-        "kjv": "For ye say, Where is the house of the prince? and where are the dwelling places of the wicked?"
+        "kjv": "For ye say, Where is the house of the prince? and where are the dwelling places of the wicked?",
+        "ron": "Voi ziceţi în mintea voastră: Unde este casa asupritorului şi unde este cortul în care locuiau nelegiuiţii?"
       }
     },
     {
@@ -1404,7 +1428,8 @@
       ],
       "translations": {
         "lxx": "Ask those that go by the way, and do not disown their tokens.",
-        "kjv": "Have ye not asked them that go by the way? and do ye not know their tokens,"
+        "kjv": "Have ye not asked them that go by the way? and do ye not know their tokens,",
+        "ron": "N-aţi întrebat oare pe cei ce trec pe drum şi n-aţi recunoscut dreptatea spuselor lor?"
       }
     },
     {
@@ -1445,7 +1470,8 @@
       ],
       "translations": {
         "lxx": "For the wicked hastens to the day of destruction: they shall be led away for the day of his vengeance.",
-        "kjv": "That the wicked is reserved to the day of destruction? they shall be brought forth to the day of wrath."
+        "kjv": "That the wicked is reserved to the day of destruction? they shall be brought forth to the day of wrath.",
+        "ron": "Anume cum că în ziua nenorocirii cel rău este cruţat şi că în ceasul mâniei el scapă?"
       }
     },
     {
@@ -1506,7 +1532,8 @@
       ],
       "translations": {
         "lxx": "Who will tell him his way to his face, whereas he has done it? who shall recompense him?",
-        "kjv": "Who shall declare his way to his face? and who shall repay him what he hath done?"
+        "kjv": "Who shall declare his way to his face? and who shall repay him what he hath done?",
+        "ron": "Cine îl mustră în faţă pentru purtarea lui şi cine-i întoarce cu aceeaşi măsură faptele pe care le-a făcut?"
       }
     },
     {
@@ -1552,7 +1579,8 @@
       ],
       "translations": {
         "lxx": "And he has been led away to the tombs, and he has watched over the heaps.",
-        "kjv": "Yet shall he be brought to the grave, and shall remain in the tomb."
+        "kjv": "Yet shall he be brought to the grave, and shall remain in the tomb.",
+        "ron": "Iar când este dus la locul de odihnă, din stâlpul de la căpătâi el parcă stă de strajă."
       }
     }
   ],

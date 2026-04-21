@@ -65,7 +65,8 @@
       ],
       "translations": {
         "lxx": "And these are the generations of Aaron and Moses, in the day in which the Lord spoke to Moses in mount Sina.",
-        "kjv": "These also are the generations of Aaron and Moses in the day that the LORD spake with Moses in mount Sinai."
+        "kjv": "These also are the generations of Aaron and Moses in the day that the LORD spake with Moses in mount Sinai.",
+        "ron": "Iată acum spiţa neamului lui Aaron şi a lui Moise, din timpul când a grăit Domnul cu Moise pe Muntele Sinai, şi iată numele fiilor lui Aaron:"
       }
     },
     {
@@ -126,7 +127,8 @@
       ],
       "translations": {
         "lxx": "And these are the names of the sons of Aaron; Nadab the first-born; and Abiud, Eleazar and Ithamar.",
-        "kjv": "And these are the names of the sons of Aaron; Nadab the firstborn, and Abihu, Eleazar, and Ithamar."
+        "kjv": "And these are the names of the sons of Aaron; Nadab the firstborn, and Abihu, Eleazar, and Ithamar.",
+        "ron": "Nadab, întâiul născut, Abiud, Eleazar şi Itamar."
       }
     },
     {
@@ -207,7 +209,8 @@
       ],
       "translations": {
         "lxx": "These are the names of the sons of Aaron, the anointed priests whom they consecrated to the priesthood.",
-        "kjv": "These are the names of the sons of Aaron, the priests which were anointed, whom he consecrated to minister in the priest’s office."
+        "kjv": "These are the names of the sons of Aaron, the priests which were anointed, whom he consecrated to minister in the priest’s office.",
+        "ron": "Acestea sunt numele fiilor lui Aaron, preoţi miruiţi, care au fost sfinţiţi, ca să slujească cele ale preoţiei."
       }
     },
     {
@@ -328,7 +331,8 @@
       ],
       "translations": {
         "lxx": "And Nadab and Abiud died before the Lord, when they offered strange fire before the Lord, in the wilderness of Sina; and they had no children; and Eleazar and Ithamar ministered in the priests' office with Aaron their father.",
-        "kjv": "And Nadab and Abihu died before the LORD, when they offered strange fire before the LORD, in the wilderness of Sinai, and they had no children: and Eleazar and Ithamar ministered in the priest’s office in the sight of Aaron their father."
+        "kjv": "And Nadab and Abihu died before the LORD, when they offered strange fire before the LORD, in the wilderness of Sinai, and they had no children: and Eleazar and Ithamar ministered in the priest’s office in the sight of Aaron their father.",
+        "ron": "Insă Nadab ş: Abiud au murit înaintea feţei Domnului, când au adus foc străin înaintea feţei Domnului în pustiul Sinai, neavând copii, şi au rămas preoţi numai Eleazar şi Itamar cu tatăl lor Aaron."
       }
     },
     {
@@ -359,7 +363,8 @@
       ],
       "translations": {
         "lxx": "And the Lord spoke to Moses, saying,",
-        "kjv": "And the LORD spake unto Moses, saying,"
+        "kjv": "And the LORD spake unto Moses, saying,",
+        "ron": "Atunci a grăit Domnul cu Moise şi a zis:"
       }
     },
     {
@@ -410,7 +415,8 @@
       ],
       "translations": {
         "lxx": "Take the tribe of Levi, and thou shalt set them before Aaron the priest, and they shall minister to him,",
-        "kjv": "Bring the tribe of Levi near, and present them before Aaron the priest, that they may minister unto him."
+        "kjv": "Bring the tribe of Levi near, and present them before Aaron the priest, that they may minister unto him.",
+        "ron": "\"Ia seminţia lui Levi şi o pune la îndemâna lui Aaron preotul, ca să-l ajute în slujba lui."
       }
     },
     {
@@ -476,7 +482,8 @@
       ],
       "translations": {
         "lxx": "and shall keep his charges, and the charges of the children of Israel, before the tabernacle of witness, to do the works of the tabernacle.",
-        "kjv": "And they shall keep his charge, and the charge of the whole congregation before the tabernacle of the congregation, to do the service of the tabernacle."
+        "kjv": "And they shall keep his charge, and the charge of the whole congregation before the tabernacle of the congregation, to do the service of the tabernacle.",
+        "ron": "Să fie de pază în locul lui şi în locul fiilor lui Israel la cortul adunării; să facă slujbele la cort;"
       }
     },
     {
@@ -537,7 +544,8 @@
       ],
       "translations": {
         "lxx": "And they shall keep all the furniture of the tabernacle of witness, and the charges of the children of Israel as to all the works of the tabernacle.",
-        "kjv": "And they shall keep all the instruments of the tabernacle of the congregation, and the charge of the children of Israel, to do the service of the tabernacle."
+        "kjv": "And they shall keep all the instruments of the tabernacle of the congregation, and the charge of the children of Israel, to do the service of the tabernacle.",
+        "ron": "Să păstreze toate lucrurile cortului adunării, să străjuiască în locul fiilor lui Israel şi să facă slujbele la cort."
       }
     },
     {
@@ -628,7 +636,8 @@
       ],
       "translations": {
         "lxx": "And thou shalt give the Levites to Aaron, and to his sons the priests; they are given for a gift to me of the children of Israel.",
-        "kjv": "And thou shalt give the Levites unto Aaron and to his sons: they are wholly given unto him out of the children of Israel."
+        "kjv": "And thou shalt give the Levites unto Aaron and to his sons: they are wholly given unto him out of the children of Israel.",
+        "ron": "Dă pe leviţi la îndemâna lui Aaron, fratele tău, şi fiilor lui, preoţilor; să-Mi fie dăruiţi Mie dintre fiii lui Israel."
       }
     },
     {
@@ -734,7 +743,8 @@
       ],
       "translations": {
         "lxx": "And thou shalt appoint Aaron and his sons over the tabernacle of witness; and they shall keep their charge of priesthood, and all things belonging to the altar, and within the veil; and the stranger that touches them shall die.",
-        "kjv": "And thou shalt appoint Aaron and his sons, and they shall wait on their priest’s office: and the stranger that cometh nigh shall be put to death."
+        "kjv": "And thou shalt appoint Aaron and his sons, and they shall wait on their priest’s office: and the stranger that cometh nigh shall be put to death.",
+        "ron": "Iar lui Aaron şi fiilor lui încredinţează-le cortul adunării, ca să-şi păzească datoria lor preoţească şi toate cele de la jertfelnic şi de după perdea; iar de se va apropia cineva străin, să fie omorât\"."
       }
     },
     {
@@ -765,7 +775,8 @@
       ],
       "translations": {
         "lxx": "And the Lord spoke to Moses, saying,",
-        "kjv": "And the LORD spake unto Moses, saying,"
+        "kjv": "And the LORD spake unto Moses, saying,",
+        "ron": "Şi a grăit Domnul cu Moise şi a zis:"
       }
     },
     {
@@ -981,7 +992,8 @@
       ],
       "translations": {
         "lxx": "Behold, I have taken the Levites from the midst of the children of Israel, instead of every male that opens the womb from among the children of Israel: they shall be their ransom, and the Levites shall be mine.",
-        "kjv": "And I, behold, I have taken the Levites from among the children of Israel instead of all the firstborn that openeth the matrix among the children of Israel: therefore the Levites shall be mine;"
+        "kjv": "And I, behold, I have taken the Levites from among the children of Israel instead of all the firstborn that openeth the matrix among the children of Israel: therefore the Levites shall be mine;",
+        "ron": "\"Iată, Eu am luat din fiii lui Israel pe leviţi în locul tuturor întâilor născuţi, în locul tuturor celor ce se nasc întâi în Israel şi aceia vor fi în locul acestora."
       }
     },
     {
@@ -1022,7 +1034,8 @@
       ],
       "translations": {
         "lxx": "For every first-born is mine; in the day in which I smote every first-born in the land of Egypt, I sanctified to myself every first-born in Israel: both of man and beast, they shall be mine: I am the Lord.",
-        "kjv": "Because all the firstborn are mine; for on the day that I smote all the firstborn in the land of Egypt I hallowed unto me all the firstborn in Israel, both man and beast: mine shall they be: I am the LORD."
+        "kjv": "Because all the firstborn are mine; for on the day that I smote all the firstborn in the land of Egypt I hallowed unto me all the firstborn in Israel, both man and beast: mine shall they be: I am the LORD.",
+        "ron": "Leviţii să fie ai Mei, căci toţi întâi-născuţii sunt ai Mei. În ziua când am lovit pe toţi întâi-născuţii în pământul Egiptului, atunci Mi-am sfinţit pe toţi întâi-născuţii lui Israel de la om până la dobitoc şi aceştia să fie ai Mei. Eu sunt Domnul\"."
       }
     },
     {
@@ -1118,7 +1131,8 @@
       ],
       "translations": {
         "lxx": "And the Lord spoke to Moses in the wilderness of Sina, saying,",
-        "kjv": "And the LORD spake unto Moses in the wilderness of Sinai, saying,"
+        "kjv": "And the LORD spake unto Moses in the wilderness of Sinai, saying,",
+        "ron": "Iarăşi a grăit Domnul cu Moise, în pustiul Sinai, şi a zis:"
       }
     },
     {
@@ -1169,7 +1183,8 @@
       ],
       "translations": {
         "lxx": "Take the number of the sons of Levi, according to the houses of their families, according to their divisions; number ye them every male from a month old and upwards.",
-        "kjv": "Number the children of Levi after the house of their fathers, by their families: every male from a month old and upward shalt thou number them."
+        "kjv": "Number the children of Levi after the house of their fathers, by their families: every male from a month old and upward shalt thou number them.",
+        "ron": "\"Numără pe fiii lui Levi, după familiile lor, după neamurile lor; pe toţi cei de parte bărbătească, de la o lună în sus să-i numeri\"."
       }
     },
     {
@@ -1220,7 +1235,8 @@
       ],
       "translations": {
         "lxx": "And Moses and Aaron numbered them by the word of the Lord, as the Lord commanded them.",
-        "kjv": "And Moses numbered them according to the word of the LORD, as he was commanded."
+        "kjv": "And Moses numbered them according to the word of the LORD, as he was commanded.",
+        "ron": "Şi i-au numărat Moise şi Aaron, după cuvântul Domnului, cum le poruncise Domnul."
       }
     },
     {
@@ -1271,7 +1287,8 @@
       ],
       "translations": {
         "lxx": "And these were the sons of Levi by their names; Gedson, Caath, and Merari.",
-        "kjv": "And these were the sons of Levi by their names; Gershon, and Kohath, and Merari."
+        "kjv": "And these were the sons of Levi by their names; Gershon, and Kohath, and Merari.",
+        "ron": "Iată dar care sunt fiii lui Levi, după numele lor: Gherşon, Cahat şi Merari."
       }
     },
     {
@@ -1317,7 +1334,8 @@
       ],
       "translations": {
         "lxx": "And these are the names of the sons of Gedson according to their families; Lobeni and Semei:",
-        "kjv": "And these are the names of the sons of Gershon by their families; Libni, and Shimei."
+        "kjv": "And these are the names of the sons of Gershon by their families; Libni, and Shimei.",
+        "ron": "Iar numele fiilor lui Gherşon, după neamurile lor, sunt: Libni şi Şimei."
       }
     },
     {
@@ -1353,7 +1371,8 @@
       ],
       "translations": {
         "lxx": "and the sons of Caath according to their families; Amram and Issaar, Chebron and Oziel:",
-        "kjv": "And the sons of Kohath by their families; Amram, and Izehar, Hebron, and Uzziel."
+        "kjv": "And the sons of Kohath by their families; Amram, and Izehar, Hebron, and Uzziel.",
+        "ron": "Fiii lui Cahat, după neamurile lor, sunt: Amram, Iţhar, Hebron şi Uziel."
       }
     },
     {
@@ -1394,7 +1413,8 @@
       ],
       "translations": {
         "lxx": "and the sons of Merari according to their families, Mooli and Musi; these are the families of the Levites according to the houses of their families.",
-        "kjv": "And the sons of Merari by their families; Mahli, and Mushi. These are the families of the Levites according to the house of their fathers."
+        "kjv": "And the sons of Merari by their families; Mahli, and Mushi. These are the families of the Levites according to the house of their fathers.",
+        "ron": "Fiii lui Merari, după neamurile lor, sunt: Mahli şi Muşi. Acestea sunt neamurile lui Levi, după familiile lor."
       }
     },
     {
@@ -1445,7 +1465,8 @@
       ],
       "translations": {
         "lxx": "To Gedson belongs the family of Lobeni, and the family of Semei: these are the families of Gedson.",
-        "kjv": "Of Gershon was the family of the Libnites, and the family of the Shimites: these are the families of the Gershonites."
+        "kjv": "Of Gershon was the family of the Libnites, and the family of the Shimites: these are the families of the Gershonites.",
+        "ron": "Din Gherşon au ieşit neamul lui Libni şi neamul lui Şimei: aceste neamuri sunt din Gherşon."
       }
     },
     {
@@ -1506,7 +1527,8 @@
       ],
       "translations": {
         "lxx": "The numbering of them according to the number of every male from a month old and upwards, their numbering was seven thousand and five hundred.",
-        "kjv": "Those that were numbered of them, according to the number of all the males, from a month old and upward, even those that were numbered of them were seven thousand and five hundred."
+        "kjv": "Those that were numbered of them, according to the number of all the males, from a month old and upward, even those that were numbered of them were seven thousand and five hundred.",
+        "ron": "Socotindu-se la număr tot cel de parte bărbătească, de la o lună în sus, s-au numărat în neamul lui Gherşon şapte mii cinci sute."
       }
     },
     {
@@ -1557,7 +1579,8 @@
       ],
       "translations": {
         "lxx": "And the sons of Gedson shall encamp westward behind the tabernacle.",
-        "kjv": "The families of the Gershonites shall pitch behind the tabernacle westward."
+        "kjv": "The families of the Gershonites shall pitch behind the tabernacle westward.",
+        "ron": "Fiii lui Gherşon trebuia să se aşeze cu tabăra în urma cortului, spre asfinţit."
       }
     },
     {
@@ -1608,7 +1631,8 @@
       ],
       "translations": {
         "lxx": "And the ruler of the household of the family of Gedson was Elisaph the son of Dael.",
-        "kjv": "And the chief of the house of the father of the Gershonites shall be Eliasaph the son of Lael."
+        "kjv": "And the chief of the house of the father of the Gershonites shall be Eliasaph the son of Lael.",
+        "ron": "Eliasaf, fiul lui Lael, era căpetenia familiei fiilor lui Gherşon."
       }
     },
     {
@@ -1679,7 +1703,8 @@
       ],
       "translations": {
         "lxx": "And the charge of the sons of Gedson in the tabernacle of witness was the tent and the veil, and the covering of the door of the tabernacle of witness,",
-        "kjv": "And the charge of the sons of Gershon in the tabernacle of the congregation shall be the tabernacle, and the tent, the covering thereof, and the hanging for the door of the tabernacle of the congregation,"
+        "kjv": "And the charge of the sons of Gershon in the tabernacle of the congregation shall be the tabernacle, and the tent, the covering thereof, and the hanging for the door of the tabernacle of the congregation,",
+        "ron": "Fiii lui Gherşon la cortul adunării aveau să păzească cortul şi acoperişul lui, perdeaua de la uşa cortului adunării,"
       }
     },
     {
@@ -1745,7 +1770,8 @@
       ],
       "translations": {
         "lxx": "and the curtains of the court, and the veil of the door of the court, which is by the tabernacle, and the remainder of all its works.",
-        "kjv": "And the hangings of the court, and the curtain for the door of the court, which is by the tabernacle, and by the altar round about, and the cords of it for all the service thereof."
+        "kjv": "And the hangings of the court, and the curtain for the door of the court, which is by the tabernacle, and by the altar round about, and the cords of it for all the service thereof.",
+        "ron": "Perdelele curţii, perdeaua de la intrarea curţii celei dimprejurul cortului şi jertfelnicului, frânghiile şi toate uneltele lor."
       }
     },
     {
@@ -1821,7 +1847,8 @@
       ],
       "translations": {
         "lxx": "To Caath belonged one division, that of Amram, and another division, that of Issaar, and another division, that of Chebron, and another division, that of Oziel: these are the divisions of Caath, according to number.",
-        "kjv": "And of Kohath was the family of the Amramites, and the family of the Izeharites, and the family of the Hebronites, and the family of the Uzzielites: these are the families of the Kohathites."
+        "kjv": "And of Kohath was the family of the Amramites, and the family of the Izeharites, and the family of the Hebronites, and the family of the Uzzielites: these are the families of the Kohathites.",
+        "ron": "Din Cahat a ieşit familia lui Amram, familia lui Iţhar, familia lui Hebron şi familia lui Uziel: aceste familii sunt din Cahat."
       }
     },
     {
@@ -1912,7 +1939,8 @@
       ],
       "translations": {
         "lxx": "Every male from a month old and upward, eight thousand and six hundred, keeping the charges of the holy things.",
-        "kjv": "In the number of all the males, from a month old and upward, were eight thousand and six hundred, keeping the charge of the sanctuary."
+        "kjv": "In the number of all the males, from a month old and upward, were eight thousand and six hundred, keeping the charge of the sanctuary.",
+        "ron": "Socotindu-se la număr tot cel de parte bărbătească, de la o lună în sus, s-au numărat în neamul acesta opt mii trei sute. Ei păzeau locaşul sfânt."
       }
     },
     {
@@ -1963,7 +1991,8 @@
       ],
       "translations": {
         "lxx": "The families of the sons of Caath, shall encamp beside the tabernacle toward the south.",
-        "kjv": "The families of the sons of Kohath shall pitch on the side of the tabernacle southward."
+        "kjv": "The families of the sons of Kohath shall pitch on the side of the tabernacle southward.",
+        "ron": "Familiile fiilor lui Cahat trebuia să-şi aşeze tabăra lângă cort, în partea de miazăzi;"
       }
     },
     {
@@ -2014,7 +2043,8 @@
       ],
       "translations": {
         "lxx": "And the chief of the house of the families of the divisions of Caath, was Elisaphan the son of Oziel.",
-        "kjv": "And the chief of the house of the father of the families of the Kohathites shall be Elizaphan the son of Uzziel."
+        "kjv": "And the chief of the house of the father of the families of the Kohathites shall be Elizaphan the son of Uzziel.",
+        "ron": "Iar căpetenie în familiile neamului lui Cahat era Elţafan, fiul lui Uziel."
       }
     },
     {
@@ -2095,7 +2125,8 @@
       ],
       "translations": {
         "lxx": "And their charge was the ark, and the table, and the candlestick, and the altars, and all the vessels of the sanctuary wherewith they do holy service, and the veil, and all their works.",
-        "kjv": "And their charge shall be the ark, and the table, and the candlestick, and the altars, and the vessels of the sanctuary wherewith they minister, and the hanging, and all the service thereof."
+        "kjv": "And their charge shall be the ark, and the table, and the candlestick, and the altars, and the vessels of the sanctuary wherewith they minister, and the hanging, and all the service thereof.",
+        "ron": "În paza lor se afla chivotul, masa, sfeşnicul, jertfelnicul, vasele sfinte, care se întrebuinţează la slujbe, şi perdeaua cu toate ale ei."
       }
     },
     {
@@ -2166,7 +2197,8 @@
       ],
       "translations": {
         "lxx": "And the chief over the chief of the Levites, was Eleazar the son of Aaron the priest, appointed to keep the charges of the holy things.",
-        "kjv": "And Eleazar the son of Aaron the priest shall be chief over the chief of the Levites, and have the oversight of them that keep the charge of the sanctuary."
+        "kjv": "And Eleazar the son of Aaron the priest shall be chief over the chief of the Levites, and have the oversight of them that keep the charge of the sanctuary.",
+        "ron": "Căpetenie peste căpeteniile leviţilor era Eleazar, fiul preotului Aaron , care era rânduit să privegheze pe cei ce aveau în păstrare locaşul sfânt."
       }
     },
     {
@@ -2222,7 +2254,8 @@
       ],
       "translations": {
         "lxx": "To Merari belonged the family of Mooli, and the family of Musi: these are the families of Merari.",
-        "kjv": "Of Merari was the family of the Mahlites, and the family of the Mushites: these are the families of Merari."
+        "kjv": "Of Merari was the family of the Mahlites, and the family of the Mushites: these are the families of Merari.",
+        "ron": "Din Merari au ieşit familia lui Mahli şi familia lui Muşi; aceste familii sunt din Merari."
       }
     },
     {
@@ -2278,7 +2311,8 @@
       ],
       "translations": {
         "lxx": "The mustering of them according to number, every male from a month old and upwards, was six thousand and fifty.",
-        "kjv": "And those that were numbered of them, according to the number of all the males, from a month old and upward, were six thousand and two hundred."
+        "kjv": "And those that were numbered of them, according to the number of all the males, from a month old and upward, were six thousand and two hundred.",
+        "ron": "Socotindu-se la număr tot cel de parte bărbătească de la o lună în sus, s-au numărat în neamul acesta şase mii două sute;"
       }
     },
     {
@@ -2354,7 +2388,8 @@
       ],
       "translations": {
         "lxx": "And the head of the house of the families of the division of Merari, was Suriel the son of Abichail: they shall encamp by the side of the tabernacle northwards.",
-        "kjv": "And the chief of the house of the father of the families of Merari was Zuriel the son of Abihail: these shall pitch on the side of the tabernacle northward."
+        "kjv": "And the chief of the house of the father of the families of Merari was Zuriel the son of Abihail: these shall pitch on the side of the tabernacle northward.",
+        "ron": "Iar căpetenie peste familiile din neamul lui Merari era Ţuriel, fiul lui Abihael. Aceştia trebuia să-şi aşeze tabăra lângă cort, în partea de miazănoapte."
       }
     },
     {
@@ -2430,7 +2465,8 @@
       ],
       "translations": {
         "lxx": "The oversight of the charge of the sons of Merari included the chapiters of the tabernacle, and its bars, and its pillars, and its sockets, and all their furniture, and their works,",
-        "kjv": "And under the custody and charge of the sons of Merari shall be the boards of the tabernacle, and the bars thereof, and the pillars thereof, and the sockets thereof, and all the vessels thereof, and all that serveth thereto,"
+        "kjv": "And under the custody and charge of the sons of Merari shall be the boards of the tabernacle, and the bars thereof, and the pillars thereof, and the sockets thereof, and all the vessels thereof, and all that serveth thereto,",
+        "ron": "În paza fiilor lui Merari s-au rânduit scândurile dimprejurul cortului, pârghiile lui, stâlpii lui, postamentele acestora, şi toate lucrurile şi uneltele lor,"
       }
     },
     {
@@ -2471,7 +2507,8 @@
       ],
       "translations": {
         "lxx": "and the pillars of the court round about, and their bases, and their pins, and their cords.",
-        "kjv": "And the pillars of the court round about, and their sockets, and their pins, and their cords."
+        "kjv": "And the pillars of the court round about, and their sockets, and their pins, and their cords.",
+        "ron": "Stâlpii curţii din toate părţile ei, postamentele lor, ţăruşii curţii şi frânghiile ei."
       }
     },
     {
@@ -2602,7 +2639,8 @@
       ],
       "translations": {
         "lxx": "They that encamp before the tabernacle of witness on the east shall be Moses and Aaron and his sons, keeping the charges of the sanctuary according to the charges of the children of Israel; and the stranger that touches them, shall die.",
-        "kjv": "But those that encamp before the tabernacle toward the east, even before the tabernacle of the congregation eastward, shall be Moses, and Aaron and his sons, keeping the charge of the sanctuary for the charge of the children of Israel; and the stranger that cometh nigh shall be put to death."
+        "kjv": "But those that encamp before the tabernacle toward the east, even before the tabernacle of the congregation eastward, shall be Moses, and Aaron and his sons, keeping the charge of the sanctuary for the charge of the children of Israel; and the stranger that cometh nigh shall be put to death.",
+        "ron": "Iar în partea de dinainte a cortului adunării, spre răsărit, trebuia să-şi aşeze tabăra Moise şi Aaron şi fiii acestuia, cărora li se încredinţase paza locaşului sfânt în locul fiilor lui Israel. Iar de se va apropia vreun străin, să fie omorât."
       }
     },
     {
@@ -2693,7 +2731,8 @@
       ],
       "translations": {
         "lxx": "All the numbering of the Levites, whom Moses and Aaron numbered by the word of the Lord, according to their families, every male from a month old and upwards, were two and twenty thousand.",
-        "kjv": "All that were numbered of the Levites, which Moses and Aaron numbered at the commandment of the LORD, throughout their families, all the males from a month old and upward, were twenty and two thousand."
+        "kjv": "All that were numbered of the Levites, which Moses and Aaron numbered at the commandment of the LORD, throughout their families, all the males from a month old and upward, were twenty and two thousand.",
+        "ron": "Deci toţi leviţii număraţi, pe care i-au numărat Moise şi Aaron, cum poruncise Domnul, după neamurile lor, parte bărbătească, de la o lună în sus, au fost douăzeci şi două de mii."
       }
     },
     {
@@ -2789,7 +2828,8 @@
       ],
       "translations": {
         "lxx": "And the Lord spoke to Moses, saying, Count every first-born male of the children of Israel from a month old and upwards, and take the number by name.",
-        "kjv": "And the LORD said unto Moses, Number all the firstborn of the males of the children of Israel from a month old and upward, and take the number of their names."
+        "kjv": "And the LORD said unto Moses, Number all the firstborn of the males of the children of Israel from a month old and upward, and take the number of their names.",
+        "ron": "Apoi a zis Domnul către Moise: \"Socoteşte pe tot bărbatul întâi-născut dintre fiii lui Israel, de la o lună în sus, şi ia numărul numelor lor."
       }
     },
     {
@@ -2895,7 +2935,8 @@
       ],
       "translations": {
         "lxx": "And thou shalt take the Levites for me—I am the Lord—instead of all the first-born of the sons of Israel, and the cattle of the Levites instead of all the first-born among the cattle of the children of Israel.",
-        "kjv": "And thou shalt take the Levites for me (I am the LORD) instead of all the firstborn among the children of Israel; and the cattle of the Levites instead of all the firstlings among the cattle of the children of Israel."
+        "kjv": "And thou shalt take the Levites for me (I am the LORD) instead of all the firstborn among the children of Israel; and the cattle of the Levites instead of all the firstlings among the cattle of the children of Israel.",
+        "ron": "Şi în locul tuturor întâi-născuţilor ai fiilor lui Israel, să iei pentru Mine pe leviţi. Eu sunt Domnul. Şi vitele leviţilor să le iei în locul a tot întâi-născutului din vitele fiilor lui Israel\"."
       }
     },
     {
@@ -2951,7 +2992,8 @@
       ],
       "translations": {
         "lxx": "And Moses counted, as the Lord commanded him, every first-born among the children of Israel.",
-        "kjv": "And Moses numbered, as the LORD commanded him, all the firstborn among the children of Israel."
+        "kjv": "And Moses numbered, as the LORD commanded him, all the firstborn among the children of Israel.",
+        "ron": "Şi a numărat Moise, după cum îi poruncise Domnul, pe toţi întâi-născuţii dintre fiii lui Israel;"
       }
     },
     {
@@ -3022,7 +3064,8 @@
       ],
       "translations": {
         "lxx": "And all the male first-born in number by name, from a month old and upwards, were according to their numbering twenty-two thousand and two hundred and seventy-three.",
-        "kjv": "And all the firstborn males by the number of names, from a month old and upward, of those that were numbered of them, were twenty and two thousand two hundred and threescore and thirteen."
+        "kjv": "And all the firstborn males by the number of names, from a month old and upward, of those that were numbered of them, were twenty and two thousand two hundred and threescore and thirteen.",
+        "ron": "Şi întâi-născuţii de parte bărbătească de la o lună în sus, după numărul numelor, au fost toţi douăzeci şi două de mii două sute şaptezeci şi trei."
       }
     },
     {
@@ -3053,7 +3096,8 @@
       ],
       "translations": {
         "lxx": "And the Lord spoke to Moses, saying,",
-        "kjv": "And the LORD spake unto Moses, saying,"
+        "kjv": "And the LORD spake unto Moses, saying,",
+        "ron": "Şi a grăit Domnul cu Moise şi a zis:"
       }
     },
     {
@@ -3154,7 +3198,8 @@
       ],
       "translations": {
         "lxx": "Take the Levites instead of all the first-born of the sons of Israel, and the cattle of the Levites instead of their cattle, and the Levites shall be mine; I am the Lord.",
-        "kjv": "Take the Levites instead of all the firstborn among the children of Israel, and the cattle of the Levites instead of their cattle; and the Levites shall be mine: I am the LORD."
+        "kjv": "Take the Levites instead of all the firstborn among the children of Israel, and the cattle of the Levites instead of their cattle; and the Levites shall be mine: I am the LORD.",
+        "ron": "\"Ia pe leviţi în locul tuturor întâi-născuţilor fiilor lui Israel şi vitele leviţilor în locul vitelor lor, şi să fie leviţii ai Mei. Eu sunt Domnul!"
       }
     },
     {
@@ -3210,7 +3255,8 @@
       ],
       "translations": {
         "lxx": "And for the ransoms of the two hundred and seventy-three which exceed the Levites in number of the first-born of the sons of Israel;",
-        "kjv": "And for those that are to be redeemed of the two hundred and threescore and thirteen of the firstborn of the children of Israel, which are more than the Levites;"
+        "kjv": "And for those that are to be redeemed of the two hundred and threescore and thirteen of the firstborn of the children of Israel, which are more than the Levites;",
+        "ron": "Iar ca răscumpărare pentru cei două sute şaptezeci şi trei de întâi-născuţi ai fiilor lui Israel, care trec peste numărul leviţilor,"
       }
     },
     {
@@ -3266,7 +3312,8 @@
       ],
       "translations": {
         "lxx": "thou shalt even take five shekels a head; thou shalt take them according to the holy didrachm, twenty oboli to the shekel.",
-        "kjv": "Thou shalt even take five shekels apiece by the poll, after the shekel of the sanctuary shalt thou take them: (the shekel is twenty gerahs:)"
+        "kjv": "Thou shalt even take five shekels apiece by the poll, after the shekel of the sanctuary shalt thou take them: (the shekel is twenty gerahs:)",
+        "ron": "Să iei câte cinci sicli de cap, socotind câte douăzeci de ghere într-un siclu, după siclul sfânt,"
       }
     },
     {
@@ -3317,7 +3364,8 @@
       ],
       "translations": {
         "lxx": "And thou shalt give the money to Aaron and to his sons, the ransom of those who exceed in number among them.",
-        "kjv": "And thou shalt give the money, wherewith the odd number of them is to be redeemed, unto Aaron and to his sons."
+        "kjv": "And thou shalt give the money, wherewith the odd number of them is to be redeemed, unto Aaron and to his sons.",
+        "ron": "Şi argintul acesta să-l dai lui Aaron şi fiilor lui, ca răscumpărare pentru cei ce prisosesc peste numărul lor\"."
       }
     },
     {
@@ -3393,7 +3441,8 @@
       ],
       "translations": {
         "lxx": "And Moses took the silver, the ransom of those that exceeded in number the redemption of the Levites.",
-        "kjv": "And Moses took the redemption money of them that were over and above them that were redeemed by the Levites:"
+        "kjv": "And Moses took the redemption money of them that were over and above them that were redeemed by the Levites:",
+        "ron": "Şi adunând Moise argintul de răscumpărare pentru întâi-născuţii lui Israel, care treceau peste numărul leviţilor,"
       }
     },
     {
@@ -3429,7 +3478,8 @@
       ],
       "translations": {
         "lxx": "He took the silver from the first-born of the sons of Israel, a thousand three hundred and sixty-five shekels, according to the holy shekel.",
-        "kjv": "Of the firstborn of the children of Israel took he the money; a thousand three hundred and threescore and five shekels, after the shekel of the sanctuary:"
+        "kjv": "Of the firstborn of the children of Israel took he the money; a thousand three hundred and threescore and five shekels, after the shekel of the sanctuary:",
+        "ron": "S-au găsit o mie trei sute şaizeci şi cinci de sicli, după siclul sfânt."
       }
     },
     {
@@ -3515,7 +3565,8 @@
       ],
       "translations": {
         "lxx": "And Moses gave the ransom of them that were over to Aaron and his sons, by the word of the Lord, as the Lord commanded Moses.",
-        "kjv": "And Moses gave the money of them that were redeemed unto Aaron and to his sons, according to the word of the LORD, as the LORD commanded Moses."
+        "kjv": "And Moses gave the money of them that were redeemed unto Aaron and to his sons, according to the word of the LORD, as the LORD commanded Moses.",
+        "ron": "Şi a dat Moise argintul de răscumpărare, pentru cei ce prisoseau, lui Aaron şi fiilor lui, după cuvântul Domnului, precum poruncise Domnul lui Moise."
       }
     }
   ],

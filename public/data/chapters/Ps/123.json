@@ -6,49 +6,73 @@
       "num": 1,
       "geez": "",
       "translation": "A Song of Degrees. If it had not been that the Lord was among us, let Israel now say;",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "De n-ar fi fost Domnul cu noi, să spună Israel!"
+      }
     },
     {
       "num": 2,
       "geez": "",
       "translation": "if it had not been that the Lord was among us, when men rose up against us;",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "De n-ar fi fost Domnul cu noi, când s-au ridicat oamenii împotriva noastră,"
+      }
     },
     {
       "num": 3,
       "geez": "",
       "translation": "verily they would have swallowed us up alive, when their wrath was kindled against us:",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "De vii ne-ar fi înghiţit pe noi, când s-a aprins mânia lor împotriva noastră."
+      }
     },
     {
       "num": 4,
       "geez": "",
       "translation": "verily the water would have drowned us, our soul would have gone under the torrent.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Apa ne-ar fi înecat pe noi, şuvoi ar fi trecut peste sufletul nostru."
+      }
     },
     {
       "num": 5,
       "geez": "",
       "translation": "Yea, our soul would have gone under the overwhelming water.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Atunci ar fi trecut peste sufletul nostru valuri înspăimântătoare."
+      }
     },
     {
       "num": 6,
       "geez": "",
       "translation": "Blessed be the Lord, who has not given us for a prey to their teeth.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Binecuvântat este Domnul, Care nu ne-a dat pe noi spre vânare dinţilor lor."
+      }
     },
     {
       "num": 7,
       "geez": "",
       "translation": "Our soul has been delivered as a sparrow from the snare of the fowlers: the snare is broken, and we are delivered.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Sufletul nostru a scăpat ca o pasăre din cursa vânătorilor; cursa s-a sfărâmat şi noi ne-am izbăvit."
+      }
     },
     {
       "num": 8,
       "geez": "",
       "translation": "Our help is in the name of the Lord, who made heaven and earth.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Ajutorul nostru este în numele Domnului, Cel ce a făcut cerul şi pământul."
+      }
     }
   ]
 }

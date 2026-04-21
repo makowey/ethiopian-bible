@@ -6,61 +6,91 @@
       "num": 1,
       "geez": "",
       "translation": "Alleluia. I will give thee thanks, O Lord, with my whole heart, in the council of the upright, and in the congregation.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Lăuda-Te-voi, Doamne, cu toată inima mea, în sfatul celor drepţi şi în adunare."
+      }
     },
     {
       "num": 2,
       "geez": "",
       "translation": "The works of the Lord are great, sought out according to all his will.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Mari sunt lucrurile Domnului şi potrivite tuturor voilor Lui."
+      }
     },
     {
       "num": 3,
       "geez": "",
       "translation": "His work is worthy of thanksgiving and honour: and his righteousness endures for ever and ever.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Laudă şi măreţie este lucrul Lui şi dreptatea Lui rămâne în veacul veacului."
+      }
     },
     {
       "num": 4,
       "geez": "",
       "translation": "He has caused his wonderful works to be remembered: the Lord is merciful and compassionate.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Pomenire a făcut de minunile Sale. Milostiv şi îndurat este Domnul."
+      }
     },
     {
       "num": 5,
       "geez": "",
       "translation": "He has given food to them that fear him: he will remember his covenant for ever.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Hrană a dat celor ce se tem de Dânsul; aduceţi-vă aminte în veac de legământul Lui."
+      }
     },
     {
       "num": 6,
       "geez": "",
       "translation": "He has declared to his people the power of his works, to give them the inheritance of the heathen.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Tăria lucrurilor Sale a vestit-o poporului Său, ca să le dea lor moştenirea neamurilor."
+      }
     },
     {
       "num": 7,
       "geez": "",
       "translation": "The works of his hands are truth and judgment: all his commandments are sure:",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Lucrurile mâinilor Lui adevăr şi judecată. Adevărate sunt toate poruncile Lui,"
+      }
     },
     {
       "num": 8,
       "geez": "",
       "translation": "established for ever and ever, done in truth and uprightness.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Întărite în veacul veacului, făcute în adevăr şi dreptate."
+      }
     },
     {
       "num": 9,
       "geez": "",
       "translation": "He sent redemption to his people: he commanded his covenant for ever: holy and fearful is his name.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Izbăvire a trimis poporului Său; poruncit-a în veac legământul Său; sfânt şi înfricoşător este numele Lui."
+      }
     },
     {
       "num": 10,
       "geez": "",
       "translation": "The fear of the Lord is the beginning of wisdom, and all that act accordingly have a good understanding; his praise endures for ever and ever.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Începutul înţelepciunii este frica de Domnul; înţelegere bună este tuturor celor ce o fac pe ea. Lauda Lui rămâne în veacul veacului."
+      }
     }
   ]
 }

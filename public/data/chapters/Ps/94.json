@@ -6,67 +6,100 @@
       "num": 1,
       "geez": "",
       "translation": "The praise of a Song by David. Come, let us exult in the Lord; let us make a joyful noise to God our Saviour.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Veniţi să ne bucurăm de Domnul şi să strigăm lui Dumnezeu, Mântuitorului nostru."
+      }
     },
     {
       "num": 2,
       "geez": "",
       "translation": "Let us come before his presence with thanksgiving, and make a joyful noise to him with psalms.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Să întâmpinăm faţa Lui întru laudă şi în psalmi să-I strigăm Lui,"
+      }
     },
     {
       "num": 3,
       "geez": "",
       "translation": "For the Lord is a great God, and a great king over all gods: for the Lord will not cast off his people.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Că Dumnezeu mare este Domnul şi Împărat mare peste tot pământul."
+      }
     },
     {
       "num": 4,
       "geez": "",
       "translation": "For the ends of the earth are in his hands; and the heights of the mountains are his.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Că în mâna Lui sunt marginile pământului şi înălţimile munţilor ale Lui sunt."
+      }
     },
     {
       "num": 5,
       "geez": "",
       "translation": "For the sea is his, and he made it: and his hands formed the dry land.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Că a Lui este marea şi El a făcut-o pe ea, şi uscatul mâinile Lui l-au zidit."
+      }
     },
     {
       "num": 6,
       "geez": "",
       "translation": "Come, let us worship and fall down before him; and weep before the Lord that made us.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Veniţi să ne închinăm şi să cădem înaintea Lui şi să plângem înaintea Domnului, Celui ce ne-a făcut pe noi."
+      }
     },
     {
       "num": 7,
       "geez": "",
       "translation": "For he is our God; and we are the people of his pasture, and the sheep of his hand.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Că El este Dumnezeul nostru şi noi poporul păşunii Lui şi oile mâinii Lui."
+      }
     },
     {
       "num": 8,
       "geez": "",
       "translation": "To-day, if ye will hear his voice, harden not your hearts, as in the provocation, according to the day of irritation in the wilderness:",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "O, de I-aţi auzi glasul care zice: \"Să nu vă învârtoşaţi inimile voastre,"
+      }
     },
     {
       "num": 9,
       "geez": "",
       "translation": "where your fathers tempted me, proved me, and saw my works.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Ca în timpul cercetării, ca în ziua ispitirii în pustiu,"
+      }
     },
     {
       "num": 10,
       "geez": "",
       "translation": "Forty years was I grieved with this generation, and said, They do always err in their heart, and they have not known my ways.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Unde M-au ispitit părinţii voştri, M-au ispitit şi au văzut lucrurile Mele."
+      }
     },
     {
       "num": 11,
       "geez": "",
       "translation": "So I sware in my wrath, They shall not enter into my rest.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Patruzeci de ani am urât neamul acesta şi am zis: \"Pururea rătăcesc cu inima\"."
+      }
     }
   ]
 }

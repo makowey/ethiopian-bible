@@ -6,37 +6,55 @@
       "num": 1,
       "geez": "",
       "translation": "For the end, by David for a remembrance, that the Lord may save me.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Dumnezeule, spre ajutorul meu ia aminte! Doamne, să-mi ajuţi mie grăbeşte-Te!"
+      }
     },
     {
       "num": 2,
       "geez": "",
       "translation": "Draw nigh, O God, to my help.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Să se ruşineze şi să se înfrunte cei ce caută sufletul meu;"
+      }
     },
     {
       "num": 3,
       "geez": "",
       "translation": "Let them be ashamed and confounded that seek my soul: let them be turned backward and put to shame, that wish me evil.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Să se întoarcă înapoi şi să se ruşineze cei ce-mi voiesc mie rele;"
+      }
     },
     {
       "num": 4,
       "geez": "",
       "translation": "Let them that say to me, Aha, aha, be turned back and put to shame immediately.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Întoarcă-se îndată ruşinaţi cei ce-mi grăiesc mie: \"Bine, bine!\""
+      }
     },
     {
       "num": 5,
       "geez": "",
       "translation": "Let all that seek thee exult and be glad in thee: and let those that love thy salvation say continually, Let God be magnified.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Să se bucure şi să se veselească de Tine toţi cei ce Te caută pe Tine, Dumnezeule, şi să zică pururea cei ce iubesc mântuirea Ta: \"Slăvit să fie Domnul!\""
+      }
     },
     {
       "num": 6,
       "geez": "",
       "translation": "But I am poor and needy; O God, help me: thou art my helper and deliverer, O Lord, delay not.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Iar eu sărac sunt şi sărman, Dumnezeule, ajută-mă!"
+      }
     }
   ]
 }

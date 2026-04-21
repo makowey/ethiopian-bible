@@ -65,7 +65,8 @@
       ],
       "translations": {
         "lxx": "And Jacob dwelt in the land where his father sojourned, in the land of Chanaan.",
-        "kjv": "And Jacob dwelt in the land wherein his father was a stranger, in the land of Canaan."
+        "kjv": "And Jacob dwelt in the land wherein his father was a stranger, in the land of Canaan.",
+        "ron": "Iacov a locuit în ţara Canaan, unde locuise şi Isaac, tatăl său."
       }
     },
     {
@@ -236,7 +237,8 @@
       ],
       "translations": {
         "lxx": "And these are the generations of Jacob. And Joseph was seventeen years old, feeding the sheep of his father with his brethren, being young; with the sons of Balla, and with the sons of Zelpha, the wives of his father; and Joseph brought to Israel their father their evil reproach.",
-        "kjv": "These are the generations of Jacob. Joseph, being seventeen years old, was feeding the flock with his brethren; and the lad was with the sons of Bilhah, and with the sons of Zilpah, his father’s wives: and Joseph brought unto his father their evil report."
+        "kjv": "These are the generations of Jacob. Joseph, being seventeen years old, was feeding the flock with his brethren; and the lad was with the sons of Bilhah, and with the sons of Zilpah, his father’s wives: and Joseph brought unto his father their evil report.",
+        "ron": "Iată acum şi istoria urmaşilor lui Iacov: Iosif, fiind de şaptesprezece ani, păştea oile tatălui său împreună cu fraţii săi. Petrecându-şi copilăria cu feciorii Bilhăi şi cu feciorii Zilpei, femeile tatălui său, Iosif aducea lui Israel, tatăl său, veşti despre purtările lor rele."
       }
     },
     {
@@ -317,7 +319,8 @@
       ],
       "translations": {
         "lxx": "And Jacob loved Joseph more than all his sons, because he was to him the son of old age; and he made for him a coat of many colours.",
-        "kjv": "Now Israel loved Joseph more than all his children, because he was the son of his old age: and he made him a coat of many colours."
+        "kjv": "Now Israel loved Joseph more than all his children, because he was the son of his old age: and he made him a coat of many colours.",
+        "ron": "Şi iubea Israel pe Iosif mai mult decât pe toţi ceilalţi fii ai săi, pentru că el era copilul bătrâneţilor lui, şi-i făcuse haină lungă şi aleasă."
       }
     },
     {
@@ -408,7 +411,8 @@
       ],
       "translations": {
         "lxx": "And his brethren having seen that his father loved him more than all his sons, hated him, and could not speak anything peaceable to him.",
-        "kjv": "And when his brethren saw that their father loved him more than all his brethren, they hated him, and could not speak peaceably unto him."
+        "kjv": "And when his brethren saw that their father loved him more than all his brethren, they hated him, and could not speak peaceably unto him.",
+        "ron": "Fraţii lui, văzând că tatăl lor îl iubea mai mult decât pe toţi fiii săi, îl urau şi nu puteau vorbi cu el prietenos."
       }
     },
     {
@@ -444,7 +448,8 @@
       ],
       "translations": {
         "lxx": "And Joseph dreamed a dream, and reported it to his brethren.",
-        "kjv": "And Joseph dreamed a dream, and he told it his brethren: and they hated him yet the more."
+        "kjv": "And Joseph dreamed a dream, and he told it his brethren: and they hated him yet the more.",
+        "ron": "Visând însă Iosif un vis, l-a spus fraţilor săi,"
       }
     },
     {
@@ -480,7 +485,8 @@
       ],
       "translations": {
         "lxx": "And he said to them, Hear this dream which I have dreamed.",
-        "kjv": "And he said unto them, Hear, I pray you, this dream which I have dreamed:"
+        "kjv": "And he said unto them, Hear, I pray you, this dream which I have dreamed:",
+        "ron": "Zicându-le: \"Ascultaţi visul ce am visat:"
       }
     },
     {
@@ -561,7 +567,8 @@
       ],
       "translations": {
         "lxx": "I thought ye were binding sheaves in the middle of the field, and my sheaf stood up and was erected, and your sheaves turned round, and did obeisance to my sheaf.",
-        "kjv": "For, behold, we were binding sheaves in the field, and, lo, my sheaf arose, and also stood upright; and, behold, your sheaves stood round about, and made obeisance to my sheaf."
+        "kjv": "For, behold, we were binding sheaves in the field, and, lo, my sheaf arose, and also stood upright; and, behold, your sheaves stood round about, and made obeisance to my sheaf.",
+        "ron": "Parcă legam snopi în ţarină şi snopul meu parcă s-a sculat şi stătea drept, iar snopii voştri s-au strâns roată şi s-au închinat snopului meu\"."
       }
     },
     {
@@ -642,7 +649,8 @@
       ],
       "translations": {
         "lxx": "And his brethren said to him, Shalt thou indeed reign over us, or shalt thou indeed be lord over us? And they hated him still more for his dreams and for his words.",
-        "kjv": "And his brethren said to him, Shalt thou indeed reign over us? or shalt thou indeed have dominion over us? And they hated him yet the more for his dreams, and for his words."
+        "kjv": "And his brethren said to him, Shalt thou indeed reign over us? or shalt thou indeed have dominion over us? And they hated him yet the more for his dreams, and for his words.",
+        "ron": "Iar fraţii lui au zis către el: \"Nu cumva ai să domneşti peste noi? Sau poate ai să ne stăpâneşti?\" Şi l-au urât încă şi mai mult pentru visul lui şi pentru spusele lui."
       }
     },
     {
@@ -753,7 +761,8 @@
       ],
       "translations": {
         "lxx": "And he dreamed another dream, and related it to his father, and to his brethren, and said, Behold, I have dreamed another dream: as it were the sun, and the moon, and the eleven stars did me reverence.",
-        "kjv": "And he dreamed yet another dream, and told it his brethren, and said, Behold, I have dreamed a dream more; and, behold, the sun and the moon and the eleven stars made obeisance to me."
+        "kjv": "And he dreamed yet another dream, and told it his brethren, and said, Behold, I have dreamed a dream more; and, behold, the sun and the moon and the eleven stars made obeisance to me.",
+        "ron": "Şi a mai visat el alt vis şi l-a spus tatălui său şi fraţilor săi, zicând: \"Iată am mai visat alt vis: soarele şi luna şi unsprezece stele mi se închinau mie\"."
       }
     },
     {
@@ -849,7 +858,8 @@
       ],
       "translations": {
         "lxx": "And his father rebuked him, and said to him, What is this dream which thou hast dreamed? shall indeed both I and thy mother and thy brethren come and bow before thee to the earth?",
-        "kjv": "And he told it to his father, and to his brethren: and his father rebuked him, and said unto him, What is this dream that thou hast dreamed? Shall I and thy mother and thy brethren indeed come to bow down ourselves to thee to the earth?"
+        "kjv": "And he told it to his father, and to his brethren: and his father rebuked him, and said unto him, What is this dream that thou hast dreamed? Shall I and thy mother and thy brethren indeed come to bow down ourselves to thee to the earth?",
+        "ron": "Şi-l povesti tatălui său şi fraţilor săi, iar tatăl său l-a certat şi i-a zis: \"Ce înseamnă visul acesta pe care l-ai visat? Au doară eu şi mama ta şi fraţii tăi vom veni şi ne vom închina ţie până la pământ?\""
       }
     },
     {
@@ -900,7 +910,8 @@
       ],
       "translations": {
         "lxx": "And his brethren envied him; but his father observed the saying.",
-        "kjv": "And his brethren envied him; but his father observed the saying."
+        "kjv": "And his brethren envied him; but his father observed the saying.",
+        "ron": "De aceea îl pizmuiau fraţii lui, iar tatăl său păstra cuvintele acestea în inima lui."
       }
     },
     {
@@ -941,7 +952,8 @@
       ],
       "translations": {
         "lxx": "And his brethren went to feed the sheep of their father to Sychem.",
-        "kjv": "And his brethren went to feed their father’s flock in Shechem."
+        "kjv": "And his brethren went to feed their father’s flock in Shechem.",
+        "ron": "S-au dus după aceea fraţii lui să pască oile tatălui lor la Sichem."
       }
     },
     {
@@ -1017,7 +1029,8 @@
       ],
       "translations": {
         "lxx": "And Israel said to Joseph, Do not thy brethren feed their flock in Sychem? Come, I will send thee to them; and he said to him, Behold, I am here.",
-        "kjv": "And Israel said unto Joseph, Do not thy brethren feed the flock in Shechem? come, and I will send thee unto them. And he said to him, Here am I."
+        "kjv": "And Israel said unto Joseph, Do not thy brethren feed the flock in Shechem? come, and I will send thee unto them. And he said to him, Here am I.",
+        "ron": "Şi Israel a zis către Iosif: \"Fraţii tăi pasc oile la Sichem. Vino, dar, să te trimit la ei\". Iar el a zis: \"Mă duc, tată!\""
       }
     },
     {
@@ -1103,7 +1116,8 @@
       ],
       "translations": {
         "lxx": "And Israel said to him, Go and see if thy brethren and the sheep are well, and bring me word; and he sent him out of the valley of Chebron, and he came to Sychem.",
-        "kjv": "And he said to him, Go, I pray thee, see whether it be well with thy brethren, and well with the flocks; and bring me word again. So he sent him out of the vale of Hebron, and he came to Shechem."
+        "kjv": "And he said to him, Go, I pray thee, see whether it be well with thy brethren, and well with the flocks; and bring me word again. So he sent him out of the vale of Hebron, and he came to Shechem.",
+        "ron": "Apoi Israel a zis către Iosif: \"Du-te şi vezi de sunt sănătoşi fraţii tăi şi oile şi să-mi aduci răspuns!\" L-a trimis astfel din valea Hebronului şi Iosif s-a dus la Sichem."
       }
     },
     {
@@ -1169,7 +1183,8 @@
       ],
       "translations": {
         "lxx": "And a man found him wandering in the field; and the man asked him, saying, What seekest thou?",
-        "kjv": "And a certain man found him, and, behold, he was wandering in the field: and the man asked him, saying, What seekest thou?"
+        "kjv": "And a certain man found him, and, behold, he was wandering in the field: and the man asked him, saying, What seekest thou?",
+        "ron": "După aceea l-a găsit un om rătăcind pe câmp şi l-a întrebat omul acela şi i-a zis: \"Ce cauţi?\""
       }
     },
     {
@@ -1210,7 +1225,8 @@
       ],
       "translations": {
         "lxx": "And he said, I am seeking my brethren; tell me where they feed their flocks.",
-        "kjv": "And he said, I seek my brethren: tell me, I pray thee, where they feed their flocks."
+        "kjv": "And he said, I seek my brethren: tell me, I pray thee, where they feed their flocks.",
+        "ron": "Iar el a zis: \"Caut pe fraţii mei. Spune-mi, unde pasc ei oile?\""
       }
     },
     {
@@ -1301,7 +1317,8 @@
       ],
       "translations": {
         "lxx": "And the man said to him, They have departed hence, for I heard them saying, Let us go to Dothaim; and Joseph went after his brethren, and found them in Dothaim.",
-        "kjv": "And the man said, They are departed hence; for I heard them say, Let us go to Dothan. And Joseph went after his brethren, and found them in Dothan."
+        "kjv": "And the man said, They are departed hence; for I heard them say, Let us go to Dothan. And Joseph went after his brethren, and found them in Dothan.",
+        "ron": "Zisu-i-a omul acela: \"S-au dus de aici, căci i-am auzit zicând: Haidem la Dotain!\" Şi s-a dus Iosif după fraţii săi şi i-a găsit la Dotain."
       }
     },
     {
@@ -1352,7 +1369,8 @@
       ],
       "translations": {
         "lxx": "And they spied him from a distance before he drew nigh to them, and they wickedly took counsel to slay him.",
-        "kjv": "And when they saw him afar off, even before he came near unto them, they conspired against him to slay him."
+        "kjv": "And when they saw him afar off, even before he came near unto them, they conspired against him to slay him.",
+        "ron": "Iar ei, văzându-l de departe, până a nu se apropia de ei, au început a unelti asupra lui să-l omoare;"
       }
     },
     {
@@ -1398,7 +1416,8 @@
       ],
       "translations": {
         "lxx": "And each said to his brother, Behold, that dreamer comes.",
-        "kjv": "And they said one to another, Behold, this dreamer cometh."
+        "kjv": "And they said one to another, Behold, this dreamer cometh.",
+        "ron": "Şi au zis unii către alţii: \"Iată visătorul acela de vise vine!"
       }
     },
     {
@@ -1484,7 +1503,8 @@
       ],
       "translations": {
         "lxx": "Now then come, let us kill him, and cast him into one of the pits; and we will say, An evil wild beast has devoured him; and we shall see what his dreams will be.",
-        "kjv": "Come now therefore, and let us slay him, and cast him into some pit, and we will say, Some evil beast hath devoured him: and we shall see what will become of his dreams."
+        "kjv": "Come now therefore, and let us slay him, and cast him into some pit, and we will say, Some evil beast hath devoured him: and we shall see what will become of his dreams.",
+        "ron": "Haidem să-l omorâm, să-l aruncăm într-un puţ şi să zicem că l-a mâncat o fiară sălbatică şi vom vedea ce se va alege de visele lui!\""
       }
     },
     {
@@ -1535,7 +1555,8 @@
       ],
       "translations": {
         "lxx": "And Ruben having heard it, rescued him out of their hands, and said, Let us not kill him.",
-        "kjv": "And Reuben heard it, and he delivered him out of their hands; and said, Let us not kill him."
+        "kjv": "And Reuben heard it, and he delivered him out of their hands; and said, Let us not kill him.",
+        "ron": "Auzind însă aceasta, Ruben a voit să-l scape din mâinile lor, zicând: \"Să nu-i ridicăm viaţa!\""
       }
     },
     {
@@ -1646,7 +1667,8 @@
       ],
       "translations": {
         "lxx": "And Ruben said to them, Shed not blood; cast him into one of these pits in the wilderness, but do not lay your hand upon him; that he might rescue him out of their hands, and restore him to his father.",
-        "kjv": "And Reuben said unto them, Shed no blood, but cast him into this pit that is in the wilderness, and lay no hand upon him; that he might rid him out of their hands, to deliver him to his father again."
+        "kjv": "And Reuben said unto them, Shed no blood, but cast him into this pit that is in the wilderness, and lay no hand upon him; that he might rid him out of their hands, to deliver him to his father again.",
+        "ron": "Apoi Ruben a adăugat: \"Să nu vărsaţi sânge! Aruncaţi-l în puţul acela din pustie, dar mâinile să nu vi le puneţi pe el!\" Iar aceasta o zicea el cu gândul de a-l scăpa din mâinile lor şi a-l trimite acasă la tatăl său."
       }
     },
     {
@@ -1702,7 +1724,8 @@
       ],
       "translations": {
         "lxx": "And it came to pass, when Joseph came to his brethren, that they stripped Joseph of his many-coloured coat that was upon him.",
-        "kjv": "And it came to pass, when Joseph was come unto his brethren, that they stript Joseph out of his coat, his coat of many colours that was on him;"
+        "kjv": "And it came to pass, when Joseph was come unto his brethren, that they stript Joseph out of his coat, his coat of many colours that was on him;",
+        "ron": "Când însă a sosit Iosif la fraţii săi, ei au dezbrăcat pe Iosif de haina cea lungă şi aleasă, cu care era îmbrăcat,"
       }
     },
     {
@@ -1753,7 +1776,8 @@
       ],
       "translations": {
         "lxx": "And they took him and cast him into the pit; and the pit was empty, it had not water.",
-        "kjv": "And they took him, and cast him into a pit: and the pit was empty, there was no water in it."
+        "kjv": "And they took him, and cast him into a pit: and the pit was empty, there was no water in it.",
+        "ron": "Şi l-au luat şi l-au aruncat în puţ; dar puţul era gol şi nu avea apă."
       }
     },
     {
@@ -1889,7 +1913,8 @@
       ],
       "translations": {
         "lxx": "And they sat down to eat bread; and having lifted up their eyes they beheld, and lo, Ismaelitish travellers came from Galaad, and their camels were heavily loaded with spices, and resin, and myrrh; and they went to bring them to Egypt.",
-        "kjv": "And they sat down to eat bread: and they lifted up their eyes and looked, and, behold, a company of Ishmeelites came from Gilead with their camels bearing spicery and balm and myrrh, going to carry it down to Egypt."
+        "kjv": "And they sat down to eat bread: and they lifted up their eyes and looked, and, behold, a company of Ishmeelites came from Gilead with their camels bearing spicery and balm and myrrh, going to carry it down to Egypt.",
+        "ron": "După aceea şezând să mănânce pâine şi căutând cu ochii lor, ei au văzut venind dinspre Galaad o caravană de Ismaeliţi, ale căror cămile erau încărcate cu tămâie, eu balsam şi cu smirnă, pe care le duceau în Egipt."
       }
     },
     {
@@ -1950,7 +1975,8 @@
       ],
       "translations": {
         "lxx": "And Judas said to his brethren, What profit is it if we slay our brother, and conceal his blood?",
-        "kjv": "And Judah said unto his brethren, What profit is it if we slay our brother, and conceal his blood?"
+        "kjv": "And Judah said unto his brethren, What profit is it if we slay our brother, and conceal his blood?",
+        "ron": "Atunci a zis Iuda către fraţii săi: \"Ce vom folosi de vom ucide pe fratele nostru şi vom ascunde sângele lui?"
       }
     },
     {
@@ -2036,7 +2062,8 @@
       ],
       "translations": {
         "lxx": "Come, let us sell him to these Ismaelites, but let not our hands be upon him, because he is our brother and our flesh; and his brethren hearkened.",
-        "kjv": "Come, and let us sell him to the Ishmeelites, and let not our hand be upon him; for he is our brother and our flesh. And his brethren were content."
+        "kjv": "Come, and let us sell him to the Ishmeelites, and let not our hand be upon him; for he is our brother and our flesh. And his brethren were content.",
+        "ron": "Haidem să-l vindem Ismaeliţilor acestora, neridicându-ne mâinile asupra lui, pentru că e fratele nostru şi trupul nostru\". Şi au ascultat fraţii lui."
       }
     },
     {
@@ -2152,7 +2179,8 @@
       ],
       "translations": {
         "lxx": "And the men, the merchants of Madian, went by, and they drew and lifted Joseph out of the pit, and sold Joseph to the Ismaelites for twenty pieces of gold; and they brought Joseph down into Egypt.",
-        "kjv": "Then there passed by Midianites merchantmen; and they drew and lifted up Joseph out of the pit, and sold Joseph to the Ishmeelites for twenty pieces of silver: and they brought Joseph into Egypt."
+        "kjv": "Then there passed by Midianites merchantmen; and they drew and lifted up Joseph out of the pit, and sold Joseph to the Ishmeelites for twenty pieces of silver: and they brought Joseph into Egypt.",
+        "ron": "Iar când au trecut negustorii Madianiţi pe acolo, fraţii au tras şi au scos pe Iosif din puţ şi l-au vândut pe el Ismaeliţilor cu douăzeci de arginţi. Şi aceştia au dus pe Iosif în Egipt."
       }
     },
     {
@@ -2203,7 +2231,8 @@
       ],
       "translations": {
         "lxx": "And Ruben returned to the pit, and sees not Joseph in the pit; and he rent his garments.",
-        "kjv": "And Reuben returned unto the pit; and, behold, Joseph was not in the pit; and he rent his clothes."
+        "kjv": "And Reuben returned unto the pit; and, behold, Joseph was not in the pit; and he rent his clothes.",
+        "ron": "Când însă s-a întors Ruben la puţ şi n-a văzut pe Iosif în puţ, el şi-a rupt hainele,"
       }
     },
     {
@@ -2274,7 +2303,8 @@
       ],
       "translations": {
         "lxx": "And he returned to his brethren and said, The boy is not; and I, whither am I yet to go?",
-        "kjv": "And he returned unto his brethren, and said, The child is not; and I, whither shall I go?"
+        "kjv": "And he returned unto his brethren, and said, The child is not; and I, whither shall I go?",
+        "ron": "Şi întorcându-se la fraţii săi, a zis: \"Băiatul nu este! Încotro să apuc eu acum?\""
       }
     },
     {
@@ -2335,7 +2365,8 @@
       ],
       "translations": {
         "lxx": "And having taken the coat of Joseph, they slew a kid of the goats, and stained the coat with the blood.",
-        "kjv": "And they took Joseph’s coat, and killed a kid of the goats, and dipped the coat in the blood;"
+        "kjv": "And they took Joseph’s coat, and killed a kid of the goats, and dipped the coat in the blood;",
+        "ron": "Atunci ei au luat haina lui Iosif şi, junghiind un ied, au muiat haina în sânge;"
       }
     },
     {
@@ -2416,7 +2447,8 @@
       ],
       "translations": {
         "lxx": "And they sent the coat of many colours; and they brought it to their father, and said, This have we found; know if it be thy son's coat or no.",
-        "kjv": "And they sent the coat of many colours, and they brought it to their father; and said, This have we found: know now whether it be thy son’s coat or no."
+        "kjv": "And they sent the coat of many colours, and they brought it to their father; and said, This have we found: know now whether it be thy son’s coat or no.",
+        "ron": "Apoi au trimis după haina cea lungă şi aleasă şi au adus-o la tatăl lor, spunând. \"Am găsit aceasta; vezi de este haina fiului tău sau nu!\""
       }
     },
     {
@@ -2482,7 +2514,8 @@
       ],
       "translations": {
         "lxx": "And he recognised it, and said, It is my son's coat, an evil wild beast has devoured him; a wild beast has carried off Joseph.",
-        "kjv": "And he knew it, and said, It is my son’s coat; an evil beast hath devoured him; Joseph is without doubt rent in pieces."
+        "kjv": "And he knew it, and said, It is my son’s coat; an evil beast hath devoured him; Joseph is without doubt rent in pieces.",
+        "ron": "Şi a cunoscut-o Iacov şi a zis: \"Este haina fiului meu! L-a mâncat o fiară sălbatică; o fiară l-a sfâşiat pe Iosif!\""
       }
     },
     {
@@ -2558,7 +2591,8 @@
       ],
       "translations": {
         "lxx": "And Jacob rent his clothes, and put sackcloth on his loins, and mourned for his son many days.",
-        "kjv": "And Jacob rent his clothes, and put sackcloth upon his loins, and mourned for his son many days."
+        "kjv": "And Jacob rent his clothes, and put sackcloth upon his loins, and mourned for his son many days.",
+        "ron": "Atunci şi-a rupt Iacov hainele sale şi-a acoperit cu sac coapsele şi a plâns pe fiul său zile multe."
       }
     },
     {
@@ -2684,7 +2718,8 @@
       ],
       "translations": {
         "lxx": "And all his sons and his daughters gathered themselves together, and came to comfort him; but he would not be comforted, saying, I will go down to my son mourning to Hades; and his father wept for him.",
-        "kjv": "And all his sons and all his daughters rose up to comfort him; but he refused to be comforted; and he said, For I will go down into the grave unto my son mourning. Thus his father wept for him."
+        "kjv": "And all his sons and all his daughters rose up to comfort him; but he refused to be comforted; and he said, For I will go down into the grave unto my son mourning. Thus his father wept for him.",
+        "ron": "După aceea s-au adunat toţi feciorii lui şi toate fetele lui şi au venit să-l mângâie; dar el nu voia să se mângâie, ci zicea: \"Plângând, mă voi pogorî în locuinţa morţilor la fiul meu!\" Şi-l plângea astfel tatăl său."
       }
     },
     {
@@ -2750,7 +2785,8 @@
       ],
       "translations": {
         "lxx": "And the Madianites sold Joseph into Egypt; to Petephres, the eunuch of Pharao, captain of the guard.",
-        "kjv": "And the Midianites sold him into Egypt unto Potiphar, an officer of Pharaoh’s, and captain of the guard."
+        "kjv": "And the Midianites sold him into Egypt unto Potiphar, an officer of Pharaoh’s, and captain of the guard.",
+        "ron": "Iar Madianiţii au vândut pe Iosif în Egipt lui Putifar, dregător şi comandant al gărzii la curtea lui Faraon."
       }
     }
   ],

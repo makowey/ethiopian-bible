@@ -45,7 +45,8 @@
       ],
       "translations": {
         "lxx": "The Proverbs of Solomon son of David, who reigned in Israel;",
-        "kjv": "The proverbs of Solomon the son of David, king of Israel;"
+        "kjv": "The proverbs of Solomon the son of David, king of Israel;",
+        "ron": "Pildele lui Solomon, fiul lui David,"
       }
     },
     {
@@ -86,7 +87,8 @@
       ],
       "translations": {
         "lxx": "to know wisdom and instruction, and to perceive words of understanding;",
-        "kjv": "To know wisdom and instruction; to perceive the words of understanding;"
+        "kjv": "To know wisdom and instruction; to perceive the words of understanding;",
+        "ron": "Folositoare pentru cunoaşterea înţelepciunii şi a stăpânirii de sine,"
       }
     },
     {
@@ -127,7 +129,8 @@
       ],
       "translations": {
         "lxx": "to receive also hard sayings, and to understand true justice, and how to direct judgment;",
-        "kjv": "To receive the instruction of wisdom, justice, and judgment, and equity;"
+        "kjv": "To receive the instruction of wisdom, justice, and judgment, and equity;",
+        "ron": "Pentru înţelegerea cuvintelor adânci, pentru dobândirea unei îndrumări bune, pentru dreptate, pentru dreapta judecată şi nepărtinire,"
       }
     },
     {
@@ -188,7 +191,8 @@
       ],
       "translations": {
         "lxx": "that he might give subtlety to the simple, and to the young man discernment and understanding.",
-        "kjv": "To give subtilty to the simple, to the young man knowledge and discretion."
+        "kjv": "To give subtilty to the simple, to the young man knowledge and discretion.",
+        "ron": "Pentru a prilejui celor fără gând rău o judecată isteaţă, omului tânăr cunoştinţă şi bună cugetare."
       }
     },
     {
@@ -229,7 +233,8 @@
       ],
       "translations": {
         "lxx": "For by the hearing of these a wise man will be wiser, and the man of understanding will gain direction;",
-        "kjv": "A wise man will hear, and will increase learning; and a man of understanding shall attain unto wise counsels:"
+        "kjv": "A wise man will hear, and will increase learning; and a man of understanding shall attain unto wise counsels:",
+        "ron": "Să ia aminte cel înţelept şi îşi va spori ştiinţa, iar cel priceput va dobândi iscusinţa de a se purta,"
       }
     },
     {
@@ -290,7 +295,8 @@
       ],
       "translations": {
         "lxx": "and will understand a parable, and a dark speech; the sayings of the wise also, and riddles.",
-        "kjv": "To understand a proverb, and the interpretation; the words of the wise, and their dark sayings."
+        "kjv": "To understand a proverb, and the interpretation; the words of the wise, and their dark sayings.",
+        "ron": "Pătrunzând cu mintea pildele şi înţelesurile adânci, graiurile celor înţelepţi şi tâlcuirea lor nepătrunsă."
       }
     },
     {
@@ -381,7 +387,8 @@
       ],
       "translations": {
         "lxx": "The fear of the Lord is the beginning of wisdom; and there is good understanding to all that practise it: and piety toward God is the beginning of discernment; but the ungodly will set at nought wisdom and instruction.",
-        "kjv": "The fear of the LORD is the beginning of knowledge: but fools despise wisdom and instruction."
+        "kjv": "The fear of the LORD is the beginning of knowledge: but fools despise wisdom and instruction.",
+        "ron": "Frica de Dumnezeu este începutul înţelepciunii; cei fără minte dispreţuiesc înţelepciunea şi stăpânirea de sine."
       }
     },
     {
@@ -427,7 +434,8 @@
       ],
       "translations": {
         "lxx": "Hear, my son, the instruction of thy father, and reject not the rules of thy mother.",
-        "kjv": "My son, hear the instruction of thy father, and forsake not the law of thy mother:"
+        "kjv": "My son, hear the instruction of thy father, and forsake not the law of thy mother:",
+        "ron": "Ascultă, fiul meu, învăţătura tatălui tău şi nu lepăda îndrumările maicii tale."
       }
     },
     {
@@ -473,7 +481,8 @@
       ],
       "translations": {
         "lxx": "For thou shalt receive for thine head a crown of graces, and a chain of gold round thy neck.",
-        "kjv": "For they shall be an ornament of grace unto thy head, and chains about thy neck."
+        "kjv": "For they shall be an ornament of grace unto thy head, and chains about thy neck.",
+        "ron": "Căci ele sunt ca o cunună pe capul tău Şi ca o salbă împrejurul gâtului tău."
       }
     },
     {
@@ -554,7 +563,8 @@
       ],
       "translations": {
         "lxx": "My son, let not ungodly men lead thee astray, neither consent thou to them.",
-        "kjv": "My son, if sinners entice thee, consent thou not."
+        "kjv": "My son, if sinners entice thee, consent thou not.",
+        "ron": "Fiul meu, de voiesc păcătoşii să te ademenească, nu te învoi,"
       }
     },
     {
@@ -595,7 +605,8 @@
       ],
       "translations": {
         "lxx": "If they should exhort thee, saying, Come with us, partake in blood, and let us unjustly hide the just man in the earth:",
-        "kjv": "If they say, Come with us, let us lay wait for blood, let us lurk privily for the innocent without cause:"
+        "kjv": "If they say, Come with us, let us lay wait for blood, let us lurk privily for the innocent without cause:",
+        "ron": "Dacă-ţi spun: \"Vino cu noi, să ne punem la pândă, ca să vărsăm sânge, să întindem curse fără cuvânt celui neprihănit,"
       }
     },
     {
@@ -641,7 +652,8 @@
       ],
       "translations": {
         "lxx": "and let us swallow him alive, as Hades would, and remove the memorial of him from the earth:",
-        "kjv": "Let us swallow them up alive as the grave; and whole, as those that go down into the pit:"
+        "kjv": "Let us swallow them up alive as the grave; and whole, as those that go down into the pit:",
+        "ron": "Să-i înghiţim de vii ca locuinţa morţilor, şi întregi, ca pe cei ce se coboară în mormânt."
       }
     },
     {
@@ -682,7 +694,8 @@
       ],
       "translations": {
         "lxx": "let us seize on his valuable property, and let us fill our houses with spoils:",
-        "kjv": "We shall find all precious substance, we shall fill our houses with spoil:"
+        "kjv": "We shall find all precious substance, we shall fill our houses with spoil:",
+        "ron": "Să punem stăpânire pe tot felul de lucruri scumpe, să ne umplem de pradă casele noastre,"
       }
     },
     {
@@ -743,7 +756,8 @@
       ],
       "translations": {
         "lxx": "but do thou cast in thy lot with us, and let us all provide a common purse, and let us have one pouch:",
-        "kjv": "Cast in thy lot among us; let us all have one purse:"
+        "kjv": "Cast in thy lot among us; let us all have one purse:",
+        "ron": "Fii părtaş la obştea noastră, o singură pungă fi-va pentru toţi!\""
       }
     },
     {
@@ -774,7 +788,8 @@
       ],
       "translations": {
         "lxx": "go not in the way with them, but turn aside thy foot from their paths:",
-        "kjv": "My son, walk not thou in the way with them; refrain thy foot from their path:"
+        "kjv": "My son, walk not thou in the way with them; refrain thy foot from their path:",
+        "ron": "Fiul meu, nu te întovărăşi cu ei pe cale; abate piciorul tău din cărarea lor,"
       }
     },
     {
@@ -834,7 +849,8 @@
         }
       ],
       "translations": {
-        "kjv": "For their feet run to evil, and make haste to shed blood."
+        "kjv": "For their feet run to evil, and make haste to shed blood.",
+        "ron": "Căci picioarele lor aleargă numai la rău, iar ei zoresc să verse sânge."
       }
     },
     {
@@ -875,7 +891,8 @@
       ],
       "translations": {
         "lxx": "for nets are not without cause spread for birds.",
-        "kjv": "Surely in vain the net is spread in the sight of any bird."
+        "kjv": "Surely in vain the net is spread in the sight of any bird.",
+        "ron": "Zadarnic se întind curse în văzul păsărilor!"
       }
     },
     {
@@ -941,7 +958,8 @@
       ],
       "translations": {
         "lxx": "For they that are concerned in murder store up evils for themselves; and the overthrow of transgressors is evil.",
-        "kjv": "And they lay wait for their own blood; they lurk privily for their own lives."
+        "kjv": "And they lay wait for their own blood; they lurk privily for their own lives.",
+        "ron": "Căci ei întind curse tocmai împotriva sângelui lor, şi sufletului lor îşi întind ei laţuri."
       }
     },
     {
@@ -1007,7 +1025,8 @@
       ],
       "translations": {
         "lxx": "These are the ways of all that perform lawless deeds; for by ungodliness they destroy their own life.",
-        "kjv": "So are the ways of every one that is greedy of gain; which taketh away the life of the owners thereof."
+        "kjv": "So are the ways of every one that is greedy of gain; which taketh away the life of the owners thereof.",
+        "ron": "Aceasta este soarta celor lacomi de câştig; lăcomia le aduce pierderea vieţii."
       }
     },
     {
@@ -1048,7 +1067,8 @@
       ],
       "translations": {
         "lxx": "Wisdom sings aloud in passages, and in the broad places speaks boldly.",
-        "kjv": "Wisdom crieth without; she uttereth her voice in the streets:"
+        "kjv": "Wisdom crieth without; she uttereth her voice in the streets:",
+        "ron": "Înţelepciunea strigă pe uliţă şi în piele îşi ridică glasul său."
       }
     },
     {
@@ -1124,7 +1144,8 @@
       ],
       "translations": {
         "lxx": "And she makes proclamation on the top of the walls, and sits by the gates of princes; and at the gates of the city boldly says,",
-        "kjv": "She crieth in the chief place of concourse, in the openings of the gates: in the city she uttereth her words, saying,"
+        "kjv": "She crieth in the chief place of concourse, in the openings of the gates: in the city she uttereth her words, saying,",
+        "ron": "Ea propovăduieşte la răspântiile zgomotoase; înaintea porţilor cetăţii îşi spune cuvântul:"
       }
     },
     {
@@ -1165,7 +1186,8 @@
       ],
       "translations": {
         "lxx": "So long as the simple cleave to justice, they shall not be ashamed: but the foolish being lovers of haughtiness, having become ungodly have hated knowledge, and are become subject to reproofs.",
-        "kjv": "How long, ye simple ones, will ye love simplicity? and the scorners delight in their scorning, and fools hate knowledge?"
+        "kjv": "How long, ye simple ones, will ye love simplicity? and the scorners delight in their scorning, and fools hate knowledge?",
+        "ron": "\"Până când, proştilor, veţi iubi prostia? Până când, nebunilor, veţi iubi nebunia? Şi voi, neştiutorilor, până când veţi urî ştiinţa?"
       }
     },
     {
@@ -1276,7 +1298,8 @@
       ],
       "translations": {
         "lxx": "Behold, I will bring forth to you the utterance of my breath, and I will instruct you in my speech.",
-        "kjv": "Turn you at my reproof: behold, I will pour out my spirit unto you, I will make known my words unto you."
+        "kjv": "Turn you at my reproof: behold, I will pour out my spirit unto you, I will make known my words unto you.",
+        "ron": "Întoarceţi-vă iarăşi la mustrarea mea şi iată eu voi turna peste voi duhul meu şi vă voi vesti cuvintele mele."
       }
     },
     {
@@ -1327,7 +1350,8 @@
       ],
       "translations": {
         "lxx": "Since I called, and ye did not hearken; and I spoke at length, and ye gave no heed;",
-        "kjv": "Because I have called, and ye refused; I have stretched out my hand, and no man regarded;"
+        "kjv": "Because I have called, and ye refused; I have stretched out my hand, and no man regarded;",
+        "ron": "Chematu-v-am, dar voi n-aţi luat aminte! Întinsu-mi-am mâna şi n-a fost cine să ia seama!"
       }
     },
     {
@@ -1368,7 +1392,8 @@
       ],
       "translations": {
         "lxx": "but ye set at nought my counsels, and disregarded my reproofs;",
-        "kjv": "But ye have set at nought all my counsel, and would none of my reproof:"
+        "kjv": "But ye have set at nought all my counsel, and would none of my reproof:",
+        "ron": "Ci aţi lepădat toate sfaturile mele şi mustrările mele nu le-aţi primit."
       }
     },
     {
@@ -1419,7 +1444,8 @@
       ],
       "translations": {
         "lxx": "therefore I also will laugh at your destruction; and I will rejoice against you when ruin comes upon you:",
-        "kjv": "I also will laugh at your calamity; I will mock when your fear cometh;"
+        "kjv": "I also will laugh at your calamity; I will mock when your fear cometh;",
+        "ron": "De aceea şi eu voi râde de pieirea voastră şi mă voi bucura când va veni groaza peste voi,"
       }
     },
     {
@@ -1470,7 +1496,8 @@
       ],
       "translations": {
         "lxx": "yea when dismay suddenly comes upon you, and your overthrow shall arrive like a tempest; and when tribulation and distress shall come upon you, or when ruin shall come upon you.",
-        "kjv": "When your fear cometh as desolation, and your destruction cometh as a whirlwind; when distress and anguish cometh upon you."
+        "kjv": "When your fear cometh as desolation, and your destruction cometh as a whirlwind; when distress and anguish cometh upon you.",
+        "ron": "Când va veni peste voi necazul ca furtuna şi când nenorocirea ca vijelia vă va cuprinde."
       }
     },
     {
@@ -1556,7 +1583,8 @@
       ],
       "translations": {
         "lxx": "For it shall be that when ye call upon me, I will not hearken to you: wicked men shall seek me, but shall not find me.",
-        "kjv": "Then shall they call upon me, but I will not answer; they shall seek me early, but they shall not find me:"
+        "kjv": "Then shall they call upon me, but I will not answer; they shall seek me early, but they shall not find me:",
+        "ron": "Atunci mă vor chema, dar eu nu voi răspunde; din zori mă vor căuta şi nu mă vor afla,"
       }
     },
     {
@@ -1602,7 +1630,8 @@
       ],
       "translations": {
         "lxx": "For they hated wisdom, and did not choose the word of the Lord:",
-        "kjv": "For that they hated knowledge, and did not choose the fear of the LORD:"
+        "kjv": "For that they hated knowledge, and did not choose the fear of the LORD:",
+        "ron": "Pentru că ei au urât ştiinţa şi frica de Dumnezeu n-au ales-o,"
       }
     },
     {
@@ -1648,7 +1677,8 @@
       ],
       "translations": {
         "lxx": "neither would they attend to my counsels, but derided my reproofs.",
-        "kjv": "They would none of my counsel: they despised all my reproof."
+        "kjv": "They would none of my counsel: they despised all my reproof.",
+        "ron": "Fiindcă n-au luat aminte la sfaturile mele şi cercetarea mea au dispreţuit-o."
       }
     },
     {
@@ -1699,7 +1729,8 @@
       ],
       "translations": {
         "lxx": "Therefore shall they eat the fruits of their own way, and shall be filled with their own ungodliness.",
-        "kjv": "Therefore shall they eat of the fruit of their own way, and be filled with their own devices."
+        "kjv": "Therefore shall they eat of the fruit of their own way, and be filled with their own devices.",
+        "ron": "Mânca-vor din rodul căii lor şi de sfaturile lor sătura-se-vor,"
       }
     },
     {
@@ -1745,7 +1776,8 @@
       ],
       "translations": {
         "lxx": "For because they wronged the simple, they shall be slain; and an inquisition shall ruin the ungodly.",
-        "kjv": "For the turning away of the simple shall slay them, and the prosperity of fools shall destroy them."
+        "kjv": "For the turning away of the simple shall slay them, and the prosperity of fools shall destroy them.",
+        "ron": "Căci îndărătnicia omoară pe cei proşti şi nepăsarea pierde pe cei fără minte;"
       }
     },
     {
@@ -1811,7 +1843,8 @@
       ],
       "translations": {
         "lxx": "But he that hearkens to me shall dwell in confidence, and shall rest securely from all evil.",
-        "kjv": "But whoso hearkeneth unto me shall dwell safely, and shall be quiet from fear of evil."
+        "kjv": "But whoso hearkeneth unto me shall dwell safely, and shall be quiet from fear of evil.",
+        "ron": "Iar cel ce mă ascultă va trăi în pace şi linişte şi de rele nu se va teme\"."
       }
     },
     {

@@ -6,55 +6,82 @@
       "num": 1,
       "geez": "",
       "translation": "A Song of Degrees. I was glad when they said to me, Let us go into the house of the Lord.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Veselitu-m-am de cei ce mi-au zis mie: \"În casa Domnului vom merge!\""
+      }
     },
     {
       "num": 2,
       "geez": "",
       "translation": "Our feet stood in thy courts, O Jerusalem.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Stăteau picioarele noastre în curţile tale, Ierusalime!"
+      }
     },
     {
       "num": 3,
       "geez": "",
       "translation": "Jerusalem is built as a city whose fellowship is complete.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Ierusalimul, cel ce este zidit ca o cetate, ale cărei porţi sunt strâns-unite."
+      }
     },
     {
       "num": 4,
       "geez": "",
       "translation": "For thither the tribes went up, the tribes of the Lord, as a testimony for Israel, to give thanks unto the name of the Lord.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Că acolo s-au suit seminţiile, seminţiile Domnului, după legea lui Israel, ca să laude numele Domnului."
+      }
     },
     {
       "num": 5,
       "geez": "",
       "translation": "For there are set thrones for judgment, even thrones for the house of David.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Că acolo s-au aşezat scaunele la judecată, scaunele pentru casa lui David."
+      }
     },
     {
       "num": 6,
       "geez": "",
       "translation": "Pray now for the peace of Jerusalem: and let there be prosperity to them that love thee.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Rugaţi-vă pentru pacea Ierusalimului şi pentru îndestularea celor ce te iubesc pe tine."
+      }
     },
     {
       "num": 7,
       "geez": "",
       "translation": "Let peace, I pray, be within thine host, and prosperity in thy palaces.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Să fie pace în întăriturile tale şi îndestulare în turnurile tale."
+      }
     },
     {
       "num": 8,
       "geez": "",
       "translation": "For the sake of my brethren and my neighbours, I have indeed spoken peace concerning thee.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Pentru fraţii mei şi pentru vecinii mei grăiam despre tine pace."
+      }
     },
     {
       "num": 9,
       "geez": "",
       "translation": "Because of the house of the Lord our God, I have diligently sought thy good.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Pentru casa Domnului Dumnezeului nostru am dorit cele bune ţie."
+      }
     }
   ]
 }

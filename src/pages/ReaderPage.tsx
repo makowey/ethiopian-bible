@@ -64,6 +64,7 @@ export function ReaderPage() {
   const [loading, setLoading] = useState(true)
   const [error, setError] = useState<string | null>(null)
   const [showBackToTop, setShowBackToTop] = useState(false)
+  const [focusedVerse, setFocusedVerse] = useState<number | null>(null)
 
   const bookAbbrev = bookParam ?? ''
   const chapterNum = Number(chapterParam) || 1
@@ -100,6 +101,7 @@ export function ReaderPage() {
     closeModals,
     openSearch,
     toggleBookmark: handleToggleBookmark,
+    onVerseChange: setFocusedVerse,
   })
 
   // Load chapter data
@@ -225,6 +227,7 @@ export function ReaderPage() {
             chapter={chapterNum}
             isBookmarked={isVerseBookmarked(verse.num)}
             onToggleBookmark={handleToggleBookmark}
+            isFocused={focusedVerse === verse.num}
           />
         ))}
       </div>

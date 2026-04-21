@@ -135,7 +135,8 @@
       ],
       "translations": {
         "lxx": "And these are the kings of the land, whom the children of Israel slew, and inherited their land beyond Jordan from the east, from the valley of Arnon to the mount of Aermon, and all the land of Araba on the east.",
-        "kjv": "Now these are the kings of the land, which the children of Israel smote, and possessed their land on the other side Jordan toward the rising of the sun, from the river Arnon unto mount Hermon, and all the plain on the east:"
+        "kjv": "Now these are the kings of the land, which the children of Israel smote, and possessed their land on the other side Jordan toward the rising of the sun, from the river Arnon unto mount Hermon, and all the plain on the east:",
+        "ron": "Iată regii pe care i-au bătut fiii lui Israel şi al căror pământ l-au luat tot de moştenire dincolo de Iordan, spre răsăritul soarelui, de la râul Arnon până la muntele Hermon şi tot şesul dinspre răsărit:"
       }
     },
     {
@@ -256,7 +257,8 @@
       ],
       "translations": {
         "lxx": "Seon king of the Amorites, who dwelt in Esebon, ruling from Arnon, which is in the valley, on the side of the valley, and half of Galaad as far as Jaboc, the borders of the children of Ammon.",
-        "kjv": "Sihon king of the Amorites, who dwelt in Heshbon, and ruled from Aroer, which is upon the bank of the river Arnon, and from the middle of the river, and from half Gilead, even unto the river Jabbok, which is the border of the children of Ammon;"
+        "kjv": "Sihon king of the Amorites, who dwelt in Heshbon, and ruled from Aroer, which is upon the bank of the river Arnon, and from the middle of the river, and from half Gilead, even unto the river Jabbok, which is the border of the children of Ammon;",
+        "ron": "Sihon, regele Amoreilor, care locuia în Heşbon şi domnea de la Aroerul cel de pe malul râului Arnon, de la mijlocul râului şi peste jumătate din Galaad, până la râul Iaboc, care este hotarul Amoniţilor,"
       }
     },
     {
@@ -382,7 +384,8 @@
       ],
       "translations": {
         "lxx": "And Araba as far as the sea of Chenereth eastward, and as far as the sea of Araba; the salt sea eastward by the way to Asimoth, from Thæman under Asedoth Phasga.",
-        "kjv": "And from the plain to the sea of Chinneroth on the east, and unto the sea of the plain, even the salt sea on the east, the way to Bethjeshimoth; and from the south, under Ashdothpisgah:"
+        "kjv": "And from the plain to the sea of Chinneroth on the east, and unto the sea of the plain, even the salt sea on the east, the way to Bethjeshimoth; and from the south, under Ashdothpisgah:",
+        "ron": "Peste şes până lângă marea Chineretului, spre răsărit şi până la marea şesului, până la Marea Sărată, spre răsărit, pe calea către Bet-Ieşimot, iar spre miazăzi peste locurile ce se întindeau pe la poalele muntelui Fazga;"
       }
     },
     {
@@ -458,7 +461,8 @@
       ],
       "translations": {
         "lxx": "And Og king of Basan, who dwelt in Astaroth and in Edrain, was left of the giants",
-        "kjv": "And the coast of Og king of Bashan, which was of the remnant of the giants, that dwelt at Ashtaroth and at Edrei,"
+        "kjv": "And the coast of Og king of Bashan, which was of the remnant of the giants, that dwelt at Ashtaroth and at Edrei,",
+        "ron": "Vecinul său Og, regele Vasanului, cel din urmă din Refaim, care locuia în Aştarot şi Edrea"
       }
     },
     {
@@ -564,7 +568,8 @@
       ],
       "translations": {
         "lxx": "ruling from mount Aermon and from Secchai, and over all the land of Basan to the borders of Gergesi, and Machi, and the half of Galaad of the borders of Seon king of Esebon.",
-        "kjv": "And reigned in mount Hermon, and in Salcah, and in all Bashan, unto the border of the Geshurites and the Maachathites, and half Gilead, the border of Sihon king of Heshbon."
+        "kjv": "And reigned in mount Hermon, and in Salcah, and in all Bashan, unto the border of the Geshurites and the Maachathites, and half Gilead, the border of Sihon king of Heshbon.",
+        "ron": "Şi care stăpânea muntele Hermon şi Salca şi tot Vasanul, până la hotarul Gheşurului şi al Maacului şi jumătate din Galaad, până la hotarul lui Sihon, regele Heşbonului."
       }
     },
     {
@@ -655,7 +660,8 @@
       ],
       "translations": {
         "lxx": "Moses the servant of the Lord and the children of Israel smote them; and Moses gave them by way of inheritance to Ruben, and Gad, and to the half tribe of Manasse.",
-        "kjv": "Them did Moses the servant of the LORD and the children of Israel smite: and Moses the servant of the LORD gave it for a possession unto the Reubenites, and the Gadites, and the half tribe of Manasseh."
+        "kjv": "Them did Moses the servant of the LORD and the children of Israel smite: and Moses the servant of the LORD gave it for a possession unto the Reubenites, and the Gadites, and the half tribe of Manasseh.",
+        "ron": "Pe aceştia Moise, sluga Domnului, şi fiii lui Israel i-au ucis şi a dat Moise, sluga Domnului, pământul lor de moştenire seminţiilor lui Ruben şi Gad şi la jumătate din seminţia lui Manase."
       }
     },
     {
@@ -821,7 +827,8 @@
       ],
       "translations": {
         "lxx": "And these are the kings of the Amorites, whom Joshua and the children of Israel slew beyond Jordan by the sea of Balagad in the plain of Libanus, and as far as the mountain of Chelcha, as men go up to Seir: and Joshua gave it to the tribes of Israel to inherit according to their portion;",
-        "kjv": "And these are the kings of the country which Joshua and the children of Israel smote on this side Jordan on the west, from Baalgad in the valley of Lebanon even unto the mount Halak, that goeth up to Seir; which Joshua gave unto the tribes of Israel for a possession according to their divisions;"
+        "kjv": "And these are the kings of the country which Joshua and the children of Israel smote on this side Jordan on the west, from Baalgad in the valley of Lebanon even unto the mount Halak, that goeth up to Seir; which Joshua gave unto the tribes of Israel for a possession according to their divisions;",
+        "ron": "Iată acum şi regii din tara Amoreilor, pe care i-a bătut Iosua şi fiii lui Israel dincoace de Iordan, spre apus de la Baal-Gad, din valea Libanului, până la Pele, muntele care se întinde spre Seir; şi pământul l-a dat Iosua seminţiilor lui Israel de moştenire, după cum le-au căzut sorţii,"
       }
     },
     {
@@ -902,7 +909,8 @@
       ],
       "translations": {
         "lxx": "in the mountain, and in the plain, and in Araba, and in Asedoth, and in the wilderness, and Nageb; the Chettite, and the Amorite, and the Chananite, and the Pherezite, and the Evite, and the Jebusite.",
-        "kjv": "In the mountains, and in the valleys, and in the plains, and in the springs, and in the wilderness, and in the south country; the Hittites, the Amorites, and the Canaanites, the Perizzites, the Hivites, and the Jebusites:"
+        "kjv": "In the mountains, and in the valleys, and in the plains, and in the springs, and in the wilderness, and in the south country; the Hittites, the Amorites, and the Canaanites, the Perizzites, the Hivites, and the Jebusites:",
+        "ron": "La munte sau la loc şes, la câmpie sau la locurile de sub munţi, în pustiu şi la miazăzi şi care fusese al Heteilor, Amoreilor, Canaaneilor, Ferezeilor, Heveilor şi Iebuseilor:"
       }
     },
     {
@@ -948,7 +956,8 @@
       ],
       "translations": {
         "lxx": "The king of Jericho, and the king of Gai, which is near Bæthel;",
-        "kjv": "The king of Jericho, one; the king of Ai, which is beside Bethel, one;"
+        "kjv": "The king of Jericho, one; the king of Ai, which is beside Bethel, one;",
+        "ron": "Un rege al Ierihonului, un rege al cetăţii Ai, care e aproape de Betel;"
       }
     },
     {
@@ -979,7 +988,8 @@
       ],
       "translations": {
         "lxx": "the king of Jerusalem, the king of Chebron,",
-        "kjv": "The king of Jerusalem, one; the king of Hebron, one;"
+        "kjv": "The king of Jerusalem, one; the king of Hebron, one;",
+        "ron": "Un rege al Ierusalimului, un rege al Hebronului;"
       }
     },
     {
@@ -1010,7 +1020,8 @@
       ],
       "translations": {
         "lxx": "the king of Jerimuth, the king of Lachis;",
-        "kjv": "The king of Jarmuth, one; the king of Lachish, one;"
+        "kjv": "The king of Jarmuth, one; the king of Lachish, one;",
+        "ron": "Un rege al Iarmutului, un rege al Lachişului;"
       }
     },
     {
@@ -1041,7 +1052,8 @@
       ],
       "translations": {
         "lxx": "the king of Ælam, the king of Gazer;",
-        "kjv": "The king of Eglon, one; the king of Gezer, one;"
+        "kjv": "The king of Eglon, one; the king of Gezer, one;",
+        "ron": "Un rege al Eglonului, un rege al Ghezerului;"
       }
     },
     {
@@ -1072,7 +1084,8 @@
       ],
       "translations": {
         "lxx": "the king of Dabir, the king of Gader:",
-        "kjv": "The king of Debir, one; the king of Geder, one;"
+        "kjv": "The king of Debir, one; the king of Geder, one;",
+        "ron": "Un rege al Debirului, un rege al Ghederului;"
       }
     },
     {
@@ -1103,7 +1116,8 @@
       ],
       "translations": {
         "lxx": "the king of Hermath, the king of Ader;",
-        "kjv": "The king of Hormah, one; the king of Arad, one;"
+        "kjv": "The king of Hormah, one; the king of Arad, one;",
+        "ron": "Un rege al Hormei, un rege al Aradului;"
       }
     },
     {
@@ -1134,7 +1148,8 @@
       ],
       "translations": {
         "lxx": "the king of Lebna, the king of Odollam,",
-        "kjv": "The king of Libnah, one; the king of Adullam, one;"
+        "kjv": "The king of Libnah, one; the king of Adullam, one;",
+        "ron": "Un rege al Libnei, un rege al Adulamului;"
       }
     },
     {
@@ -1155,7 +1170,8 @@
       ],
       "translations": {
         "lxx": "the king of Elath,",
-        "kjv": "The king of Makkedah, one; the king of Bethel, one;"
+        "kjv": "The king of Makkedah, one; the king of Bethel, one;",
+        "ron": "Un rege al Machedei; un rege al Betelului;"
       }
     },
     {
@@ -1186,7 +1202,8 @@
       ],
       "translations": {
         "lxx": "the king of Taphut, the king of Opher,",
-        "kjv": "The king of Tappuah, one; the king of Hepher, one;"
+        "kjv": "The king of Tappuah, one; the king of Hepher, one;",
+        "ron": "Un rege al Tapuahului, un rege al Heferului;"
       }
     },
     {
@@ -1217,7 +1234,8 @@
       ],
       "translations": {
         "lxx": "the king of Ophec of Aroc,",
-        "kjv": "The king of Aphek, one; the king of Lasharon, one;"
+        "kjv": "The king of Aphek, one; the king of Lasharon, one;",
+        "ron": "Un rege al Afecului, un rege al Şaronului;"
       }
     },
     {
@@ -1248,7 +1266,8 @@
       ],
       "translations": {
         "lxx": "the king of Asom,",
-        "kjv": "The king of Madon, one; the king of Hazor, one;"
+        "kjv": "The king of Madon, one; the king of Hazor, one;",
+        "ron": "Un rege al Madonului, un rege al Haţorului;"
       }
     },
     {
@@ -1279,7 +1298,8 @@
       ],
       "translations": {
         "lxx": "the king of Symoön, the king of Mambroth, the king of Aziph,",
-        "kjv": "The king of Shimronmeron, one; the king of Achshaph, one;"
+        "kjv": "The king of Shimronmeron, one; the king of Achshaph, one;",
+        "ron": "Un rege al Şimron-Meronului, un rege al Acşafului;"
       }
     },
     {
@@ -1310,7 +1330,8 @@
       ],
       "translations": {
         "lxx": "the king of Cades, the king of Zachac,",
-        "kjv": "The king of Taanach, one; the king of Megiddo, one;"
+        "kjv": "The king of Taanach, one; the king of Megiddo, one;",
+        "ron": "Un rege al Taanacului, un rege al Meghidonului;"
       }
     },
     {
@@ -1351,7 +1372,8 @@
       ],
       "translations": {
         "lxx": "the king of Maredoth, the king of Jecom of Chermel,",
-        "kjv": "The king of Kedesh, one; the king of Jokneam of Carmel, one;"
+        "kjv": "The king of Kedesh, one; the king of Jokneam of Carmel, one;",
+        "ron": "Un rege al Chedeşului, un rege al Iocneamului de lângă Carmel;"
       }
     },
     {
@@ -1387,7 +1409,8 @@
       ],
       "translations": {
         "lxx": "the king of Odollam belonging to Phennealdor, the king of Gei of Galilee:",
-        "kjv": "The king of Dor in the coast of Dor, one; the king of the nations of Gilgal, one;"
+        "kjv": "The king of Dor in the coast of Dor, one; the king of the nations of Gilgal, one;",
+        "ron": "Un rege al Dorului de lângă Nafat-Dor, un rege al Goimului din Ghilgal;"
       }
     },
     {
@@ -1423,7 +1446,8 @@
       ],
       "translations": {
         "lxx": "the king of Thersa: all these were twenty-nine kings.",
-        "kjv": "The king of Tirzah, one: all the kings thirty and one."
+        "kjv": "The king of Tirzah, one: all the kings thirty and one.",
+        "ron": "Un rege al Tirţei. De toţi treizeci şi unu de regi."
       }
     }
   ],

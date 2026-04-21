@@ -6,37 +6,55 @@
       "num": 1,
       "geez": "",
       "translation": "Blessed is the man who has not walked in the counsel of the ungodly, and has not stood in the way of sinners, and has not sat in the seat of evil men.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Fericit bărbatul, care n-a umblat în sfatul necredincioşilor şi în calea păcătoşilor nu a stat şi pe scaunul hulitorilor n-a şezut;"
+      }
     },
     {
       "num": 2,
       "geez": "",
       "translation": "But his pleasure is in the law of the Lord; and in his law will he meditate day and night.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Ci în legea Domnului e voia lui şi la legea Lui va cugeta ziua şi noaptea."
+      }
     },
     {
       "num": 3,
       "geez": "",
       "translation": "And he shall be as a tree planted by the brooks of waters, which shall yield its fruit in its season, and its leaf shall not fall off; and whatsoever he shall do shall be prospered.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Şi va fi ca un pom răsădit lângă izvoarele apelor, care rodul său va da la vremea sa şi frunza lui nu va cădea şi toate câte va face vor spori."
+      }
     },
     {
       "num": 4,
       "geez": "",
       "translation": "Not so the ungodly;—not so: but rather as the chaff which the wind scatters away from the face of the earth.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Nu sunt aşa necredincioşii, nu sunt aşa! Ci ca praful ce-l spulberă vântul de pe faţa pământului."
+      }
     },
     {
       "num": 5,
       "geez": "",
       "translation": "Therefore the ungodly shall not rise in judgment, nor sinners in the counsel of the just.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "De aceea nu se vor ridica necredincioşii la judecată, nici păcătoşii în sfatul drepţilor."
+      }
     },
     {
       "num": 6,
       "geez": "",
       "translation": "For the Lord knows the way of the righteous; but the way of the ungodly shall perish.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Că ştie Domnul calea drepţilor, iar calea necredincioşilor va pieri."
+      }
     }
   ]
 }

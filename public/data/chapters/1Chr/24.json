@@ -6,187 +6,280 @@
       "num": 1,
       "geez": "",
       "translation": "And they number the sons of Aaron in their division, Nadab, and Abiud, and Eleazar, and Ithamar.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Iată acum cetele în care au fost împărţiţi fiii lui Aaron: Fiii lui Aaron au fost: Nadab, Abiud, Eleazar şi Itamar."
+      }
     },
     {
       "num": 2,
       "geez": "",
       "translation": "And Nadab and Abiud died before their father, and they had no sons: so Eleazar and Ithamar the sons of Aaron ministered as priests.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Nadab şi Abiud au murit înainte de tatăl lor, iar copii n-au avut şi de aceea au preoţit numai pe Eleazar şi Itamar."
+      }
     },
     {
       "num": 3,
       "geez": "",
       "translation": "And David distributed them, even Sadoc of the sons of Eleazar, and Achimelech of the sons of Ithamar, according to their numbering, according to their service, according to the houses of their fathers.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "David i-a împărţit astfel: Pe Ţadoc, unul din fiii lui Eleazar şi pe Ahimelec, unul din fiii lui Itamar, i-a pus să facă slujbele cu rândul."
+      }
     },
     {
       "num": 4,
       "geez": "",
       "translation": "And there were found among the sons of Eleazar more chiefs of the mighty ones, than of the sons of Ithamar: and he divided them, sixteen heads of families to the sons of Eleazar, eight according to their families to the sons of Ithamar.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "S-au găsit însă între fiii lui Eleazar mai multe căpetenii decât între fiii lui Itamar şi i-a împărţit astfel: Din fiii lui Eleazar şaisprezece capi de familii, iar din fiii lui Itamar opt."
+      }
     },
     {
       "num": 5,
       "geez": "",
       "translation": "And he divided them according to their lots, one with the other; for there were those who had charge of the holy things, and those who had charge of the house of the Lord among the sons of Eleazar, and among the sons of Ithamar.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Şi i-a împărţit prin sorţi, pentru că cei mai însemnaţi în locaşul sfânt şi înaintea lui erau dintre fiii lui Eleazar şi dintre fiii lui Itamar."
+      }
     },
     {
       "num": 6,
       "geez": "",
       "translation": "And Samaias the son of Nathanael, the scribe, of the family of Levi, wrote them down before the king, and the princes, and Sadoc the priest, and Achimelech the son of Abiathar were present; and the heads of the families of the priests and the Levites, each of a household were assigned one to Eleazar, and one to Ithamar.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Şi i-a înscris Şemaia, fiul lui Natanael, scriitor din leviţi, înaintea feţei regelui şi a căpeteniilor, înaintea preoţilor Ţadoc şi Ahimelec, fiul lui Abiatar şi înaintea capilor de familie ai preoţilor şi leviţilor, luând prin tragere la sorţi o familie din neamul lui Eleazar şi apoi una din neamul lui Itamar."
+      }
     },
     {
       "num": 7,
       "geez": "",
       "translation": "And the first lot came out to Joarim, the second to Jedia,",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Întâiul sorţ a căzut lui Iehoiarib, al doilea lui Iedaia,"
+      }
     },
     {
       "num": 8,
       "geez": "",
       "translation": "the third to Charib, the fourth to Seorim,",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Al treilea lui Harim, al patrulea lui Seorim,"
+      }
     },
     {
       "num": 9,
       "geez": "",
       "translation": "the fifth to Melchias, the sixth to Meiamin,",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Al cincilea lui Malchia, al şaselea lui Miiamin,"
+      }
     },
     {
       "num": 10,
       "geez": "",
       "translation": "the seventh to Cos, the eighth to Abia,",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Al şaptelea lui Hacoţ, al optulea lui Abia,"
+      }
     },
     {
       "num": 11,
       "geez": "",
       "translation": "the ninth to Jesus, the tenth to Sechenias,",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Al nouălea lui Ieşua, al zecelea lui Şecania,"
+      }
     },
     {
       "num": 12,
       "geez": "",
       "translation": "the eleventh to Eliabi, the twelfth to Jacim,",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Al unsprezecelea lui Eliaşib, al doisprezecelea lui Iachim,"
+      }
     },
     {
       "num": 13,
       "geez": "",
       "translation": "the thirteenth to Oppha, the fourteenth to Jesbaal,",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Al treisprezecelea lui Hupa, al paisprezecelea lui Işbaal,"
+      }
     },
     {
       "num": 14,
       "geez": "",
       "translation": "the fifteenth to Belga, the sixteenth to Emmer,",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Al cincisprezecelea lui Bilga, al şaisprezecelea lui Imer,"
+      }
     },
     {
       "num": 15,
       "geez": "",
       "translation": "the seventeenth to Chezin, the eighteenth to Aphese,",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Al şaptesprezecelea lui Hezir, al optsprezecelea lui Hapiţeţ,"
+      }
     },
     {
       "num": 16,
       "geez": "",
       "translation": "the nineteenth to Phetæa, the twentieth to Ezekel,",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Al nouăsprezecelea lui Petahia, al douăzecilea lui Iezechiel,"
+      }
     },
     {
       "num": 17,
       "geez": "",
       "translation": "the twenty-first to Achim, the twenty-second to Gamul,",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Al douăzeci şi unulea lui Iachin, al douăzeci şi doilea lui Gamul,"
+      }
     },
     {
       "num": 18,
       "geez": "",
       "translation": "the twenty-third to Adallai, the twenty-fourth to Maasai.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Al douăzeci şi treilea lui Delaia şi al douăzeci şi patrulea lui Maazia."
+      }
     },
     {
       "num": 19,
       "geez": "",
       "translation": "This is their numbering according to their service to go into the house of the Lord, according to their appointment by the hand of Aaron their father, as the Lord God of Israel commanded.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Aceasta era înşirarea lor la slujbă, cum trebuia să vină în templul Domnului, după rânduiala lor dată prin Aaron, tatăl lor, cum poruncise acestuia Domnul Dumnezeul lui Israel."
+      }
     },
     {
       "num": 20,
       "geez": "",
       "translation": "And for the sons of Levi that were left, even for the sons of Ambram, Sobael: for the sons of Sobael, Jedia.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Ceilalţi fiii ai lui Levi au fost împărţiţi astfel: Din fiii lui Amram: Şubael; din fiii lui Şubael: Iehdia;"
+      }
     },
     {
       "num": 21,
       "geez": "",
       "translation": "For Raabia, the chief was Isaari,",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Din fiii lui Rehabia, întâiul era Işia;"
+      }
     },
     {
       "num": 22,
       "geez": "",
       "translation": "and for Isaari, Salomoth: for the sons of Salomoth, Jath.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Din ai lui Iţhar, Şelomot; din ai lui Şelomot era Iahat;"
+      }
     },
     {
       "num": 23,
       "geez": "",
       "translation": "The sons of Ecdiu; Amadia the second, Jaziel the third, Jecmoam the fourth.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Din ai lui Hebron întâiul era Ieria, al doilea, Amaria, al treilea, Iahaziel, al patrulea, Iecameam."
+      }
     },
     {
       "num": 24,
       "geez": "",
       "translation": "For the sons of Oziel, Micha: the sons of Micha; Samer.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Din ai lui Uziel era Mica; din ai lui Mica era Şamir."
+      }
     },
     {
       "num": 25,
       "geez": "",
       "translation": "The brother of Micha; Isia, the son of Isia; Zacharia.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Fratele lui Mica a fost Işia; din fiii lui Işia era Zaharia."
+      }
     },
     {
       "num": 26,
       "geez": "",
       "translation": "The sons of Merari, Mooli, and Musi: the sons of Ozia,",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Fiii lui Merari au fost: Mahli şi Muşi; din fiii lui Iaazia a fost Beno;"
+      }
     },
     {
       "num": 27,
       "geez": "",
       "translation": "That is, the sons of Merari by Ozia,—his sons were Isoam, and Sacchur, and Abai.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Din fiii lui Merari, după Iaazia, au fost: Beno, Şoham, Zacur şi Ibri."
+      }
     },
     {
       "num": 28,
       "geez": "",
       "translation": "To Mooli were born Eleazar, and Ithamar; and Eleazar died, and had no sons.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Mahli a avut pe Eleazar, iar acesta n-a avut fii."
+      }
     },
     {
       "num": 29,
       "geez": "",
       "translation": "For Kis; the sons of Kis; Jerameel.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Chiş a avut pe Ierahmeel."
+      }
     },
     {
       "num": 30,
       "geez": "",
       "translation": "And the sons of Musi; Mooli, and Eder, and Jerimoth. These were the sons of the Levites according to the houses of their families.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Fiii lui Muşi au fost: Mahli, Eder şi Ierimot. Aceştia sunt fiii leviţilor, după familii."
+      }
     },
     {
       "num": 31,
       "geez": "",
       "translation": "And they also received lots as their brethren the sons of Aaron before the king; Sadoc also, and Achimelech, and the chiefs of the families of the priests and of the Levites, principal heads of families, even as their younger brethren.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Au aruncat şi ei sorţi la fel ca şi fraţii lor, fiii lui Aaron, înaintea feţei regelui David, a lui Ţadoc şi Ahimelec, şi a capilor familiilor preoţeşti şi levite, fără să se facă deosebire între cei bătrâni şi cei tineri."
+      }
     }
   ]
 }

@@ -6,19 +6,28 @@
       "num": 1,
       "geez": "",
       "translation": "A Song of Degrees. See now! what is so good, or what so pleasant, as for brethren to dwell together?",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Iată acum ce este bun şi ce este frumos, decât numai a locui fraţii împreună!"
+      }
     },
     {
       "num": 2,
       "geez": "",
       "translation": "It is as ointment on the head, that ran down to the beard, even the beard of Aaron; that ran down to the fringe of his clothing.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Aceasta este ca mirul pe cap, care se coboară pe barbă, pe barba lui Aaron, care se coboară pe marginea veşmintelor lui."
+      }
     },
     {
       "num": 3,
       "geez": "",
       "translation": "As the dew of Aermon, that comes down on the mountains of Sion: for there the Lord commanded the blessing, even life for ever.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Aceasta este ca roua Ermonului, ce se coboară pe munţii Sionului, că unde este unire acolo a poruncit Domnul binecuvântarea şi viaţa până în veac."
+      }
     }
   ]
 }

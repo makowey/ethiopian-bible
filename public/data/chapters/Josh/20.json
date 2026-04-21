@@ -30,7 +30,8 @@
       ],
       "translations": {
         "lxx": "And the Lord spoke to Joshua, saying,",
-        "kjv": "The LORD also spake unto Joshua, saying,"
+        "kjv": "The LORD also spake unto Joshua, saying,",
+        "ron": "Şi a zis Domnul către Iosua:"
       }
     },
     {
@@ -91,7 +92,8 @@
       ],
       "translations": {
         "lxx": "Speak to the children of Israel, saying, Assign the cities of refuge, of which I spoke to you by Moses.",
-        "kjv": "Speak to the children of Israel, saying, Appoint out for you cities of refuge, whereof I spake unto you by the hand of Moses:"
+        "kjv": "Speak to the children of Israel, saying, Appoint out for you cities of refuge, whereof I spake unto you by the hand of Moses:",
+        "ron": "\"Spune fiilor lui Israel: Faceţi-vă oraşe de scăpare cum v-am zis Eu prin Moise,"
       }
     },
     {
@@ -162,7 +164,8 @@
       ],
       "translations": {
         "lxx": "Even a refuge to the slayer who has smitten a man unintentionally; and the cities shall be to you a refuge, and the slayer shall not be put to death by the avenger of blood, until he have stood before the congregation for judgment.",
-        "kjv": "That the slayer that killeth any person unawares and unwittingly may flee thither: and they shall be your refuge from the avenger of blood."
+        "kjv": "That the slayer that killeth any person unawares and unwittingly may flee thither: and they shall be your refuge from the avenger of blood.",
+        "ron": "Ca să poată scăpa acolo ucigaşul care a ucis om din greşeală, fără precugetare; şi să fie oraşele acestea loc de scăpare pentru cel ce a ucis, ca să nu moară de mâna celui ce răzbună sângele vărsat, înainte de a se înfăţişa înaintea obştii la judecată."
       }
     },
     {
@@ -287,7 +290,8 @@
         }
       ],
       "translations": {
-        "kjv": "And when he that doth flee unto one of those cities shall stand at the entering of the gate of the city, and shall declare his cause in the ears of the elders of that city, they shall take him into the city unto them, and give him a place, that he may dwell among them."
+        "kjv": "And when he that doth flee unto one of those cities shall stand at the entering of the gate of the city, and shall declare his cause in the ears of the elders of that city, they shall take him into the city unto them, and give him a place, that he may dwell among them.",
+        "ron": "Şi cine va fugi în una din cetăţile acestea să stea la poarta cetăţii şi să spună pricina sa în auzul bătrânilor cetăţii şi ei îl vor primi în cetate şi-i vor da loc, ca să trăiască la ei."
       }
     },
     {
@@ -372,7 +376,8 @@
         }
       ],
       "translations": {
-        "kjv": "And if the avenger of blood pursue after him, then they shall not deliver the slayer up into his hand; because he smote his neighbour unwittingly, and hated him not beforetime."
+        "kjv": "And if the avenger of blood pursue after him, then they shall not deliver the slayer up into his hand; because he smote his neighbour unwittingly, and hated him not beforetime.",
+        "ron": "Şi când va alerga după el cel ce răzbună sângele, atunci ei nu trebuie să-l dea pe ucigaş în mâinile lui, pentru că el a ucis fără să vrea pe aproapele său, neavând pe dânsul ură cu o zi sau cu două mai înainte."
       }
     },
     {
@@ -577,7 +582,8 @@
         }
       ],
       "translations": {
-        "kjv": "And he shall dwell in that city, until he stand before the congregation for judgment, and until the death of the high priest that shall be in those days: then shall the slayer return, and come unto his own city, and unto his own house, unto the city from whence he fled."
+        "kjv": "And he shall dwell in that city, until he stand before the congregation for judgment, and until the death of the high priest that shall be in those days: then shall the slayer return, and come unto his own city, and unto his own house, unto the city from whence he fled.",
+        "ron": "Să trăiască el în cetatea aceasta până ce se va înfăţişa înaintea obştii la judecată, până va muri arhiereul care va fi în acele zile. Apoi să se întoarcă ucigaşul şi să sa ducă în cetatea sa şi la casa sa, în cetatea de unde a fugit\"."
       }
     },
     {
@@ -673,7 +679,8 @@
       ],
       "translations": {
         "lxx": "And Joshua separated Cades in Galilee in the mount Nephthali, and Sychem in the mount Ephraim, and the city of Arboc; this is Chebron, in the mountain of Juda.",
-        "kjv": "And they appointed Kedesh in Galilee in mount Naphtali, and Shechem in mount Ephraim, and Kirjatharba, which is Hebron, in the mountain of Judah."
+        "kjv": "And they appointed Kedesh in Galilee in mount Naphtali, and Shechem in mount Ephraim, and Kirjatharba, which is Hebron, in the mountain of Judah.",
+        "ron": "Şi au rânduit Chedeşul în Galileea, în muntele Neftalimului; Sichemul în muntele Efraim şi Chiriat-Arba sau Hebronul, în muntele lui Iuda."
       }
     },
     {
@@ -794,7 +801,8 @@
       ],
       "translations": {
         "lxx": "And beyond Jordan he appointed Bosor in the wilderness in the plain out of the tribe of Ruben, and Aremoth in Galaad out of the tribe of Gad, and Gaulon in the country of Basan out of the tribe of Manasse.",
-        "kjv": "And on the other side Jordan by Jericho eastward, they assigned Bezer in the wilderness upon the plain out of the tribe of Reuben, and Ramoth in Gilead out of the tribe of Gad, and Golan in Bashan out of the tribe of Manasseh."
+        "kjv": "And on the other side Jordan by Jericho eastward, they assigned Bezer in the wilderness upon the plain out of the tribe of Reuben, and Ramoth in Gilead out of the tribe of Gad, and Golan in Bashan out of the tribe of Manasseh.",
+        "ron": "Peste Iordan, în faţa lerihonului, spre răsărit, au rânduit: Beţerul în pustiu, la şes, în seminţia lui Ruben; Ramot în Galaad, în seminţia lui Gad; şi Golan în Vasan, în seminţia lui Manase."
       }
     },
     {
@@ -930,7 +938,8 @@
       ],
       "translations": {
         "lxx": "These were the cities selected for the sons of Israel, and for the stranger abiding among them, that every one who smites a soul unintentionally should flee thither, that he should not die by the hand of the avenger of blood, until he should stand before the congregation for judgment.",
-        "kjv": "These were the cities appointed for all the children of Israel, and for the stranger that sojourneth among them, that whosoever killeth any person at unawares might flee thither, and not die by the hand of the avenger of blood, until he stood before the congregation."
+        "kjv": "These were the cities appointed for all the children of Israel, and for the stranger that sojourneth among them, that whosoever killeth any person at unawares might flee thither, and not die by the hand of the avenger of blood, until he stood before the congregation.",
+        "ron": "Aceste cetăţi le-au rânduit pentru toţi fiii lui Israel şi pentru străinii care trăiesc printre ei, ca să fugă acolo cel ce va ucide om din greşeală, ca să nu moară de mâna celui ce răzbună sângele vărsat, până nu se va înfăţişa înaintea obştii la judecată."
       }
     }
   ],

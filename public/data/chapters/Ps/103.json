@@ -6,211 +6,316 @@
       "num": 1,
       "geez": "",
       "translation": "A Psalm of David. Bless the Lord, O my soul. O Lord my God, thou art very great; thou hast clothed thyself with praise and honour:",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Binecuvintează, suflete al meu, pe Domnul! Doamne, Dumnezeul meu, măritu-Te-ai foarte."
+      }
     },
     {
       "num": 2,
       "geez": "",
       "translation": "who dost robe thyself with light as with a garment; spreading out the heaven as a curtain.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Întru strălucire şi în mare podoabă Te-ai îmbrăcat; Cel ce Te îmbraci cu lumina ca ş i cu o haină;"
+      }
     },
     {
       "num": 3,
       "geez": "",
       "translation": "Who covers his chambers with waters; who makes the clouds his chariot; who walks on the wings of the wind.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Cel ce întinzi cerul ca un cort; Cel ce acoperi cu ape cele mai de deasupra ale lui;"
+      }
     },
     {
       "num": 4,
       "geez": "",
       "translation": "Who makes his angels spirits, and his ministers a flaming fire.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Cel ce pui norii suirea Ta; Cel ce umbli peste aripile vânturilor;"
+      }
     },
     {
       "num": 5,
       "geez": "",
       "translation": "Who establishes the earth on her sure foundation: it shall not be moved for ever.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Cel ce faci pe îngerii Tăi duhuri şi pe slugile Tale pară de foc;"
+      }
     },
     {
       "num": 6,
       "geez": "",
       "translation": "The deep, as it were a garment, is his covering: the waters shall stand on the hills.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Cel ce ai întemeiat pământul pe întărirea lui şi nu se va clătina în veacul veacului."
+      }
     },
     {
       "num": 7,
       "geez": "",
       "translation": "At thy rebuke they shall flee; at the voice of thy thunder they shall be alarmed.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Adâncul ca o haină este îmbrăcămintea lui; peste munţi vor sta ape."
+      }
     },
     {
       "num": 8,
       "geez": "",
       "translation": "They go up to the mountains, and down to the plains, to the place which thou hast founded for them.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "De certarea Ta vor fugi, de glasul tunetului Tău se vor înfricoşa."
+      }
     },
     {
       "num": 9,
       "geez": "",
       "translation": "Thou hast set a bound which they shall not pass, neither shall they turn again to cover the earth.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Se suie munţi şi se coboară văi, în locul în care le-ai întemeiat pe ele."
+      }
     },
     {
       "num": 10,
       "geez": "",
       "translation": "He sends forth his fountains among the valleys: the waters shall run between the mountains.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Hotar ai pus, pe care nu-l vor trece şi nici nu se vor întoarce să acopere pământul."
+      }
     },
     {
       "num": 11,
       "geez": "",
       "translation": "They shall give drink to all the wild beasts of the field: the wild asses shall take of them to quench their thirst.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Cel ce trimiţi izvoare în văi, prin mijlocul munţilor vor trece ape;"
+      }
     },
     {
       "num": 12,
       "geez": "",
       "translation": "By them shall the birds of the sky lodge: they shall utter a voice out of the midst of the rocks.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Adăpa-se-vor toate fiarele câmpului, asinii sălbatici setea îşi vor potoli."
+      }
     },
     {
       "num": 13,
       "geez": "",
       "translation": "He waters the mountains from his chambers: the earth shall be satisfied with the fruit of thy works.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Peste acelea păsările cerului vor locui; din mijlocul stâncilor vor da glas."
+      }
     },
     {
       "num": 14,
       "geez": "",
       "translation": "He makes grass to grow for the cattle, and green herb for the service of men, to bring bread out of the earth;",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Cel ce adăpi munţii din cele mai de deasupra ale Tale, din rodul lucrurilor Tale se va sătura pământul."
+      }
     },
     {
       "num": 15,
       "geez": "",
       "translation": "and wine makes glad the heart of man, to make his face cheerful with oil: and bread strengthens man's heart.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Cel ce răsari iarbă dobitoacelor şi verdeaţă spre slujba oamenilor;"
+      }
     },
     {
       "num": 16,
       "geez": "",
       "translation": "The trees of the plain shall be full of sap; even the cedars of Libanus which he has planted.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Ca să scoată pâine din pământ şi vinul veseleşte inima omului;"
+      }
     },
     {
       "num": 17,
       "geez": "",
       "translation": "There the sparrows will build their nests; and the house of the heron takes the lead among them.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Ca să veselească faţa cu untdelemn şi pâinea inima omului o întăreşte."
+      }
     },
     {
       "num": 18,
       "geez": "",
       "translation": "The high mountains are a refuge for the stags, and the rock for the rabbits.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Sătura-se-vor copacii câmpului, cedrii Libanului pe care i-ai sădit; acolo păsările îşi vor face cuib."
+      }
     },
     {
       "num": 19,
       "geez": "",
       "translation": "He appointed the moon for seasons: the sun knows his going down.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Locaşul cocostârcului în chiparoşi. Munţii cei înalţi adăpost cerbilor stâncile scăpare iepurilor."
+      }
     },
     {
       "num": 20,
       "geez": "",
       "translation": "Thou didst make darkness, and it was night; in it all the wild beasts of the forest will be abroad:",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Făcut-ai luna spre vremi, soarele şi-a cunoscut apusul său."
+      }
     },
     {
       "num": 21,
       "geez": "",
       "translation": "even young lions roaring for prey, and to seek meat for themselves from God.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Pus-ai întuneric şi s-a făcut noapte, când vor ieşi toate fiarele pădurii;"
+      }
     },
     {
       "num": 22,
       "geez": "",
       "translation": "The sun arises, and they shall be gathered together, and shall lie down in their dens.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Puii leilor mugesc ca să apuce şi să ceară de la Dumnezeu mâncarea lor."
+      }
     },
     {
       "num": 23,
       "geez": "",
       "translation": "Man shall go forth to his work, and to his labour till evening.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Răsărit-a soarele şi s-au adunat şi în culcuşurile lor se vor culca."
+      }
     },
     {
       "num": 24,
       "geez": "",
       "translation": "How great are thy works, O Lord! in wisdom hast thou wrought them all: the earth is filled with thy creation.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Ieşi-va omul la lucrul său şi la lucrarea sa până seara."
+      }
     },
     {
       "num": 25,
       "geez": "",
       "translation": "So is this great and wide sea: there are things creeping innumerable, small animals and great.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Cât s-au mărit lucrurile Tale, Doamne, toate cu înţelepciune le-ai făcut! Umplutu-s-a pământul de zidirea Ta."
+      }
     },
     {
       "num": 26,
       "geez": "",
       "translation": "There go the ships; and this dragon whom thou hast made to play in it.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Marea aceasta este mare şi largă; acolo se găsesc târâtoare, cărora nu este număr, vietăţi mici şi mari."
+      }
     },
     {
       "num": 27,
       "geez": "",
       "translation": "All wait upon thee, to give them their food in due season.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Acolo corăbiile umblă; balaurul acesta pe care l-ai zidit, ca să se joace în ea."
+      }
     },
     {
       "num": 28,
       "geez": "",
       "translation": "When thou hast given it them, they will gather it; and when thou hast opened thine hand, they shall all be filled with good.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Toate către Tine aşteaptă ca să le dai lor hrană la bună vreme."
+      }
     },
     {
       "num": 29,
       "geez": "",
       "translation": "But when thou hast turned away thy face, they shall be troubled: thou wilt take away their breath, and they shall fail, and return to their dust.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Dându-le Tu lor, vor aduna, deschizând Tu mâna Ta, toate se vor umple de bunătăţi;"
+      }
     },
     {
       "num": 30,
       "geez": "",
       "translation": "Thou shalt send forth thy Spirit, and they shall be created; and thou shalt renew the face of the earth.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Dar întorcându-ţi Tu faţa Ta, se vor tulbura; lua-vei duhul lor şi se vor sfârşi şi în ţărână se vor întoarce."
+      }
     },
     {
       "num": 31,
       "geez": "",
       "translation": "Let the glory of the Lord be for ever: the Lord shall rejoice in his works;",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Trimite-vei duhul Tău şi se vor zidi şi vei înnoi faţa pământului."
+      }
     },
     {
       "num": 32,
       "geez": "",
       "translation": "who looks upon the earth, and makes it tremble; who touches the mountains, and they smoke.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Fie slava Domnului în veac! Veseli-se-va Domnul de lucrurile Sale."
+      }
     },
     {
       "num": 33,
       "geez": "",
       "translation": "I will sing to the Lord while I live; I will sing praise to my God while I exist.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Cel ce caută spre pământ şi-l face pe el de se cutremură; Cel ce se atinge de munţi şi fumegă."
+      }
     },
     {
       "num": 34,
       "geez": "",
       "translation": "Let my meditation be sweet to him: and I will rejoice in the Lord.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Cânta-voi Domnului în viaţa mea, cânta-voi Dumnezeului meu cât voi fi."
+      }
     },
     {
       "num": 35,
       "geez": "",
       "translation": "Let the sinners fail from off the earth, and transgressors, so that they shall be no more. Bless the Lord, O my soul.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Plăcute să-I fie Lui cuvintele mele, iar eu mă voi veseli de Domnul."
+      }
     }
   ]
 }

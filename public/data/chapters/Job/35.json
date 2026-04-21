@@ -25,7 +25,8 @@
       ],
       "translations": {
         "lxx": "And Elius resumed and said,",
-        "kjv": "Elihu spake moreover, and said,"
+        "kjv": "Elihu spake moreover, and said,",
+        "ron": "Elihu a vorbit mai departe şi a zis:"
       }
     },
     {
@@ -96,7 +97,8 @@
       ],
       "translations": {
         "lxx": "What is this that thou thinkest to be according to right? who art thou that thou hast said, I am righteous before the Lord?",
-        "kjv": "Thinkest thou this to be right, that thou saidst, My righteousness is more than God’s?"
+        "kjv": "Thinkest thou this to be right, that thou saidst, My righteousness is more than God’s?",
+        "ron": "\"Crezi tu că ai dreptate şi socoteşti că te-ai limpezit înaintea lui Dumnezeu,"
       }
     },
     {
@@ -136,7 +138,8 @@
         }
       ],
       "translations": {
-        "kjv": "For thou saidst, What advantage will it be unto thee? and, What profit shall I have, if I be cleansed from my sin?"
+        "kjv": "For thou saidst, What advantage will it be unto thee? and, What profit shall I have, if I be cleansed from my sin?",
+        "ron": "Când zici: \"Ce folosesc, ce câştig am eu, că nu păcătuiesc?\""
       }
     },
     {
@@ -167,7 +170,8 @@
       ],
       "translations": {
         "lxx": "I will answer thee, and thy three friends.",
-        "kjv": "I will answer thee, and thy companions with thee."
+        "kjv": "I will answer thee, and thy companions with thee.",
+        "ron": "Iată ce-ţi voi răspunde şi ţie şi prietenilor tăi:"
       }
     },
     {
@@ -218,7 +222,8 @@
       ],
       "translations": {
         "lxx": "Look up to the sky and see; and consider the clouds, how high they are above thee.",
-        "kjv": "Look unto the heavens, and see; and behold the clouds which are higher than thou."
+        "kjv": "Look unto the heavens, and see; and behold the clouds which are higher than thou.",
+        "ron": "Priveşte cerurile şi îndreaptă intr-acolo ochii; uită-te la nori, cât sunt ei de sus, faţă de tine!"
       }
     },
     {
@@ -284,7 +289,8 @@
       ],
       "translations": {
         "lxx": "If thou hast sinned, what wilt thou do? and if too thou hast transgressed much, what canst thou perform?",
-        "kjv": "If thou sinnest, what doest thou against him? or if thy transgressions be multiplied, what doest thou unto him?"
+        "kjv": "If thou sinnest, what doest thou against him? or if thy transgressions be multiplied, what doest thou unto him?",
+        "ron": "Dacă păcătuieşti, ce rău îi faci lui Dumnezeu şi dacă păcatele tale sunt numeroase, ce-I strică Lui?"
       }
     },
     {
@@ -335,7 +341,8 @@
       ],
       "translations": {
         "lxx": "And suppose thou art righteous, what wilt thou give him? or what shall he receive of thy hand?",
-        "kjv": "If thou be righteous, what givest thou him? or what receiveth he of thine hand?"
+        "kjv": "If thou be righteous, what givest thou him? or what receiveth he of thine hand?",
+        "ron": "Dacă eşti drept, ce dar Îi faci sau ce primeşte El din mâna ta?"
       }
     },
     {
@@ -376,7 +383,8 @@
       ],
       "translations": {
         "lxx": "Thy ungodliness may affect a man who is like to thee; or thy righteousness a son of man.",
-        "kjv": "Thy wickedness may hurt a man as thou art; and thy righteousness may profit the son of man."
+        "kjv": "Thy wickedness may hurt a man as thou art; and thy righteousness may profit the son of man.",
+        "ron": "Răutatea ta poate să strice unui om ca şi tine, dreptatea ta să folosească celui ce este ca şi tine născut din om."
       }
     },
     {
@@ -417,7 +425,8 @@
       ],
       "translations": {
         "lxx": "They that are oppressed of a multitude will be ready to cry out; they will call for help because of the arm of many.",
-        "kjv": "By reason of the multitude of oppressions they make the oppressed to cry: they cry out by reason of the arm of the mighty."
+        "kjv": "By reason of the multitude of oppressions they make the oppressed to cry: they cry out by reason of the arm of the mighty.",
+        "ron": "Ei strigă atunci când împilarea a trecut orice margini, ei răcnesc în mâinile celor puternici."
       }
     },
     {
@@ -493,7 +502,8 @@
       ],
       "translations": {
         "lxx": "But none said, Where is God that made me, who appoints the night-watches;",
-        "kjv": "But none saith, Where is God my maker, who giveth songs in the night;"
+        "kjv": "But none saith, Where is God my maker, who giveth songs in the night;",
+        "ron": "Dar ei nu întreabă: Unde este Dumnezeu Cel ce ne-a făcut, El Care dăruieşte nopţii cântări de veselie?"
       }
     },
     {
@@ -529,7 +539,8 @@
       ],
       "translations": {
         "lxx": "who makes me to differ from the four-footed beasts of the earth, and from the birds of the sky?",
-        "kjv": "Who teacheth us more than the beasts of the earth, and maketh us wiser than the fowls of heaven?"
+        "kjv": "Who teacheth us more than the beasts of the earth, and maketh us wiser than the fowls of heaven?",
+        "ron": "El Care ne dă mai multă înţelepciune decât dobitoacelor pământului şi mai multă pricepere decât păsărilor cerului?"
       }
     },
     {
@@ -595,7 +606,8 @@
       ],
       "translations": {
         "lxx": "There they shall cry, and none shall hearken, even because of the insolence of wicked men.",
-        "kjv": "There they cry, but none giveth answer, because of the pride of evil men."
+        "kjv": "There they cry, but none giveth answer, because of the pride of evil men.",
+        "ron": "Să tot strige ei atunci, căci Dumnezeu nu răspunde, din pricina trufaşei împilări a celor răi."
       }
     },
     {
@@ -666,7 +678,8 @@
       ],
       "translations": {
         "lxx": "For the Lord desires not to look on error, for he is the Almighty One.",
-        "kjv": "Surely God will not hear vanity, neither will the Almighty regard it."
+        "kjv": "Surely God will not hear vanity, neither will the Almighty regard it.",
+        "ron": "Zadarnică le este truda; Dumnezeu nu aude şi Cel Atotputernic nu ia aminte."
       }
     },
     {
@@ -767,7 +780,8 @@
       ],
       "translations": {
         "lxx": "He beholds them that perform lawless deeds, and he will save me: and do thou plead before him, if thou canst praise him, as it is possible even now.",
-        "kjv": "Although thou sayest thou shalt not see him, yet judgment is before him; therefore trust thou in him."
+        "kjv": "Although thou sayest thou shalt not see him, yet judgment is before him; therefore trust thou in him.",
+        "ron": "Cu atât mai puţin, când tu zici că nu ştii de unde să-L iei, că tu eşti cu El în judecată şi că-L tot aştepţi să vină."
       }
     }
   ],

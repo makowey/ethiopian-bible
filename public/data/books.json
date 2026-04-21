@@ -638,5 +638,248 @@
     "source_id": "4macc",
     "short": "4 Maccabees",
     "hasTranslation": true
+  },
+  {
+    "abbrev": "Matt",
+    "name": "Matthew",
+    "section": "New Testament",
+    "chapters": 28,
+    "source_id": "matt",
+    "short": "Matthew",
+    "hasTranslation": true
+  },
+  {
+    "abbrev": "Mark",
+    "name": "Mark",
+    "section": "New Testament",
+    "chapters": 16,
+    "source_id": "mark",
+    "short": "Mark",
+    "hasTranslation": true
+  },
+  {
+    "abbrev": "Luke",
+    "name": "Luke",
+    "section": "New Testament",
+    "chapters": 24,
+    "source_id": "luke",
+    "short": "Luke",
+    "hasTranslation": true
+  },
+  {
+    "abbrev": "John",
+    "name": "John",
+    "section": "New Testament",
+    "chapters": 21,
+    "source_id": "john",
+    "short": "John",
+    "hasTranslation": true
+  },
+  {
+    "abbrev": "Acts",
+    "name": "Acts",
+    "section": "New Testament",
+    "chapters": 28,
+    "source_id": "acts",
+    "short": "Acts",
+    "hasTranslation": true
+  },
+  {
+    "abbrev": "Rom",
+    "name": "Romans",
+    "section": "New Testament",
+    "chapters": 16,
+    "source_id": "rom",
+    "short": "Romans",
+    "hasTranslation": true
+  },
+  {
+    "abbrev": "1Cor",
+    "name": "1 Corinthians",
+    "section": "New Testament",
+    "chapters": 16,
+    "source_id": "1cor",
+    "short": "1 Cor",
+    "hasTranslation": true
+  },
+  {
+    "abbrev": "2Cor",
+    "name": "2 Corinthians",
+    "section": "New Testament",
+    "chapters": 13,
+    "source_id": "2cor",
+    "short": "2 Cor",
+    "hasTranslation": true
+  },
+  {
+    "abbrev": "Gal",
+    "name": "Galatians",
+    "section": "New Testament",
+    "chapters": 6,
+    "source_id": "gal",
+    "short": "Galatians",
+    "hasTranslation": true
+  },
+  {
+    "abbrev": "Eph",
+    "name": "Ephesians",
+    "section": "New Testament",
+    "chapters": 6,
+    "source_id": "eph",
+    "short": "Ephesians",
+    "hasTranslation": true
+  },
+  {
+    "abbrev": "Phil",
+    "name": "Philippians",
+    "section": "New Testament",
+    "chapters": 4,
+    "source_id": "phil",
+    "short": "Philippians",
+    "hasTranslation": true
+  },
+  {
+    "abbrev": "Col",
+    "name": "Colossians",
+    "section": "New Testament",
+    "chapters": 4,
+    "source_id": "col",
+    "short": "Colossians",
+    "hasTranslation": true
+  },
+  {
+    "abbrev": "1Thess",
+    "name": "1 Thessalonians",
+    "section": "New Testament",
+    "chapters": 5,
+    "source_id": "1thess",
+    "short": "1 Thess",
+    "hasTranslation": true
+  },
+  {
+    "abbrev": "2Thess",
+    "name": "2 Thessalonians",
+    "section": "New Testament",
+    "chapters": 3,
+    "source_id": "2thess",
+    "short": "2 Thess",
+    "hasTranslation": true
+  },
+  {
+    "abbrev": "1Tim",
+    "name": "1 Timothy",
+    "section": "New Testament",
+    "chapters": 6,
+    "source_id": "1tim",
+    "short": "1 Timothy",
+    "hasTranslation": true
+  },
+  {
+    "abbrev": "2Tim",
+    "name": "2 Timothy",
+    "section": "New Testament",
+    "chapters": 4,
+    "source_id": "2tim",
+    "short": "2 Timothy",
+    "hasTranslation": true
+  },
+  {
+    "abbrev": "Titus",
+    "name": "Titus",
+    "section": "New Testament",
+    "chapters": 3,
+    "source_id": "titus",
+    "short": "Titus",
+    "hasTranslation": true
+  },
+  {
+    "abbrev": "Phlm",
+    "name": "Philemon",
+    "section": "New Testament",
+    "chapters": 1,
+    "source_id": "phlm",
+    "short": "Philemon",
+    "hasTranslation": true
+  },
+  {
+    "abbrev": "Heb",
+    "name": "Hebrews",
+    "section": "New Testament",
+    "chapters": 13,
+    "source_id": "heb",
+    "short": "Hebrews",
+    "hasTranslation": true
+  },
+  {
+    "abbrev": "Jas",
+    "name": "James",
+    "section": "New Testament",
+    "chapters": 5,
+    "source_id": "jas",
+    "short": "James",
+    "hasTranslation": true
+  },
+  {
+    "abbrev": "1Pet",
+    "name": "1 Peter",
+    "section": "New Testament",
+    "chapters": 5,
+    "source_id": "1pet",
+    "short": "1 Peter",
+    "hasTranslation": true
+  },
+  {
+    "abbrev": "2Pet",
+    "name": "2 Peter",
+    "section": "New Testament",
+    "chapters": 3,
+    "source_id": "2pet",
+    "short": "2 Peter",
+    "hasTranslation": true
+  },
+  {
+    "abbrev": "1John",
+    "name": "1 John",
+    "section": "New Testament",
+    "chapters": 5,
+    "source_id": "1john",
+    "short": "1 John",
+    "hasTranslation": true
+  },
+  {
+    "abbrev": "2John",
+    "name": "2 John",
+    "section": "New Testament",
+    "chapters": 1,
+    "source_id": "2john",
+    "short": "2 John",
+    "hasTranslation": true
+  },
+  {
+    "abbrev": "3John",
+    "name": "3 John",
+    "section": "New Testament",
+    "chapters": 1,
+    "source_id": "3john",
+    "short": "3 John",
+    "hasTranslation": true
+  },
+  {
+    "abbrev": "Jude",
+    "name": "Jude",
+    "section": "New Testament",
+    "chapters": 1,
+    "source_id": "jude",
+    "short": "Jude",
+    "hasTranslation": true
+  },
+  {
+    "abbrev": "Rev",
+    "name": "Revelation",
+    "section": "New Testament",
+    "chapters": 22,
+    "source_id": "rev",
+    "short": "Revelation",
+    "hasTranslation": true
   }
 ]

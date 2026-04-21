@@ -90,7 +90,8 @@
       ],
       "translations": {
         "lxx": "And the Lord said to Moses, Go in to Pharao, and thou shalt say to him, These things saith the Lord God of the Hebrews; Send my people away that they may serve me.",
-        "kjv": "Then the LORD said unto Moses, Go in unto Pharaoh, and tell him, Thus saith the LORD God of the Hebrews, Let my people go, that they may serve me."
+        "kjv": "Then the LORD said unto Moses, Go in unto Pharaoh, and tell him, Thus saith the LORD God of the Hebrews, Let my people go, that they may serve me.",
+        "ron": "Atunci a zis Domnul către Moise: \"Intră la Faraon şi-i spune: Acestea zice Domnul Dumnezeul Evreilor: Lasă pe poporul Meu să-Mi slujească!"
       }
     },
     {
@@ -131,7 +132,8 @@
       ],
       "translations": {
         "lxx": "If however thou wilt not send my people away, but yet detainest them:",
-        "kjv": "For if thou refuse to let them go, and wilt hold them still,"
+        "kjv": "For if thou refuse to let them go, and wilt hold them still,",
+        "ron": "Iar de nu vei vrea să laşi pe poporul Meu, ci-l vei mai ţine,"
       }
     },
     {
@@ -247,7 +249,8 @@
       ],
       "translations": {
         "lxx": "behold, the hand of the Lord shall be upon thy cattle in the fields, both on the horses, and on the asses, and on the camels and oxen and sheep, a very great mortality.",
-        "kjv": "Behold, the hand of the LORD is upon thy cattle which is in the field, upon the horses, upon the asses, upon the camels, upon the oxen, and upon the sheep: there shall be a very grievous murrain."
+        "kjv": "Behold, the hand of the LORD is upon thy cattle which is in the field, upon the horses, upon the asses, upon the camels, upon the oxen, and upon the sheep: there shall be a very grievous murrain.",
+        "ron": "Iată, mâna Domnului va fi peste vitele tale cele de la câmp: peste cai, peste asini, peste cămile, peste boi şi oi şi va fi moarte foarte mare."
       }
     },
     {
@@ -323,7 +326,8 @@
       ],
       "translations": {
         "lxx": "And I will make a marvellous distinction in that time between the cattle of the Egyptians, and the cattle of the children of Israel: nothing shall die of all that is of the children's of Israel.",
-        "kjv": "And the LORD shall sever between the cattle of Israel and the cattle of Egypt: and there shall nothing die of all that is the children’s of Israel."
+        "kjv": "And the LORD shall sever between the cattle of Israel and the cattle of Egypt: and there shall nothing die of all that is the children’s of Israel.",
+        "ron": "Dar va face Domnul osebire în ziua aceea între vitele Israeliţilor şi vitele Egiptenilor: din toate vitele fiilor lui Israel nu va muri nici una\"."
       }
     },
     {
@@ -384,7 +388,8 @@
       ],
       "translations": {
         "lxx": "And God fixed a limit, saying, To-morrow the Lord will do this thing on the land.",
-        "kjv": "And the LORD appointed a set time, saying, To morrow the LORD shall do this thing in the land."
+        "kjv": "And the LORD appointed a set time, saying, To morrow the LORD shall do this thing in the land.",
+        "ron": "Şi a pus Domnul soroc şi a zis: \"Mâine va face Domnul aceasta în ţara aceasta!\""
       }
     },
     {
@@ -460,7 +465,8 @@
       ],
       "translations": {
         "lxx": "And the Lord did this thing on the next day, and all the cattle of the Egyptians died, but of the cattle of the children of Israel there died not one.",
-        "kjv": "And the LORD did that thing on the morrow, and all the cattle of Egypt died: but of the cattle of the children of Israel died not one."
+        "kjv": "And the LORD did that thing on the morrow, and all the cattle of Egypt died: but of the cattle of the children of Israel died not one.",
+        "ron": "Şi a doua zi a făcut Domnul aceasta şi au murit toate vitele Egiptenilor, iar din vitele fiilor lui Israel n-a murit nici una."
       }
     },
     {
@@ -541,7 +547,8 @@
       ],
       "translations": {
         "lxx": "And when Pharao saw, that of all the cattle of the children of Israel there died not one, the heart of Pharao was hardened, and he did not let the people go.",
-        "kjv": "And Pharaoh sent, and, behold, there was not one of the cattle of the Israelites dead. And the heart of Pharaoh was hardened, and he did not let the people go."
+        "kjv": "And Pharaoh sent, and, behold, there was not one of the cattle of the Israelites dead. And the heart of Pharaoh was hardened, and he did not let the people go.",
+        "ron": "Atunci a trimis Faraon să afle şi iată din toate vitele fiilor lui Israel nu murise nici una. Dar inima lui Faraon s-a învârtoşat şi nu a lăsat poporul să se ducă."
       }
     },
     {
@@ -642,7 +649,8 @@
       ],
       "translations": {
         "lxx": "And the Lord spoke to Moses and Aaron, saying, Take you handfuls of ashes of the furnace, and let Moses scatter it toward heaven before Pharao, and before his servants.",
-        "kjv": "And the LORD said unto Moses and unto Aaron, Take to you handfuls of ashes of the furnace, and let Moses sprinkle it toward the heaven in the sight of Pharaoh."
+        "kjv": "And the LORD said unto Moses and unto Aaron, Take to you handfuls of ashes of the furnace, and let Moses sprinkle it toward the heaven in the sight of Pharaoh.",
+        "ron": "Iarăşi a grăit Domnul cu Moise şi cu Aaron şi a zis: \"Luaţi-vă câte o mână plină de cenuşă din cuptor şi s-o arunce Moise spre cer înaintea lui Faraon şi a slujitorilor lui."
       }
     },
     {
@@ -763,7 +771,8 @@
       ],
       "translations": {
         "lxx": "And let it become dust over all the land of Egypt, and there shall be upon men and upon beasts sore blains breaking forth both on men and on beasts, in all the land of Egypt.",
-        "kjv": "And it shall become small dust in all the land of Egypt, and shall be a boil breaking forth with blains upon man, and upon beast, throughout all the land of Egypt."
+        "kjv": "And it shall become small dust in all the land of Egypt, and shall be a boil breaking forth with blains upon man, and upon beast, throughout all the land of Egypt.",
+        "ron": "Şi se va stârni pulbere în tot pământul Egiptului şi vor fi pe oameni şi pe vite răni şi băşici usturătoare în toată ţara Egiptului\"."
       }
     },
     {
@@ -854,7 +863,8 @@
       ],
       "translations": {
         "lxx": "So he took of the ashes of the furnace before Pharao, and Moses scattered it toward heaven, and it became sore blains breaking forth both on men and on beasts.",
-        "kjv": "And they took ashes of the furnace, and stood before Pharaoh; and Moses sprinkled it up toward heaven; and it became a boil breaking forth with blains upon man, and upon beast."
+        "kjv": "And they took ashes of the furnace, and stood before Pharaoh; and Moses sprinkled it up toward heaven; and it became a boil breaking forth with blains upon man, and upon beast.",
+        "ron": "Deci, au luat ei cenuşă din cuptor, au mers înaintea lui Faraon, a aruncat-o Moise spre cer şi s-au făcut bube cu puroi pe oameni şi pe vite;"
       }
     },
     {
@@ -940,7 +950,8 @@
       ],
       "translations": {
         "lxx": "And the sorcerers could not stand before Moses because of the sores, for the sores were on the sorcerers, and in all the land of Egypt.",
-        "kjv": "And the magicians could not stand before Moses because of the boils; for the boil was upon the magicians, and upon all the Egyptians."
+        "kjv": "And the magicians could not stand before Moses because of the boils; for the boil was upon the magicians, and upon all the Egyptians.",
+        "ron": "Şi magii n-au putut sta împotriva lui Moise din pricina rănilor, pentru că erau bube pe ei şi în tot Egiptul."
       }
     },
     {
@@ -996,7 +1007,8 @@
       ],
       "translations": {
         "lxx": "And the Lord hardened Pharao's heart, and he hearkened not to them, as the Lord appointed.",
-        "kjv": "And the LORD hardened the heart of Pharaoh, and he hearkened not unto them; as the LORD had spoken unto Moses."
+        "kjv": "And the LORD hardened the heart of Pharaoh, and he hearkened not unto them; as the LORD had spoken unto Moses.",
+        "ron": "Dar Domnul a învârtoşat inima lui Faraon şi nu i-a ascultat, cum zisese Domnul lui Moise."
       }
     },
     {
@@ -1097,7 +1109,8 @@
       ],
       "translations": {
         "lxx": "And the Lord said to Moses, Rise up early in the morning, and stand before Pharao; and thou shalt say to him, These things saith the Lord God of the Hebrews, Send away my people that they may serve me.",
-        "kjv": "And the LORD said unto Moses, Rise up early in the morning, and stand before Pharaoh, and say unto him, Thus saith the LORD God of the Hebrews, Let my people go, that they may serve me."
+        "kjv": "And the LORD said unto Moses, Rise up early in the morning, and stand before Pharaoh, and say unto him, Thus saith the LORD God of the Hebrews, Let my people go, that they may serve me.",
+        "ron": "Zis-a Domnul către Moise: \"Să te scoli mâine de dimineaţă, să te înfăţişezi lui Faraon şi să-i zici: Aşa grăieşte Domnul Dumnezeul Evreilor: Lasă pe poporul Meu ca să-Mi slujească,"
       }
     },
     {
@@ -1208,7 +1221,8 @@
       ],
       "translations": {
         "lxx": "For at this present time do I send forth all my plagues into thine heart, and the heart of thy servants and of thy people; that thou mayest know that there is not another such as I in all the earth.",
-        "kjv": "For I will at this time send all my plagues upon thine heart, and upon thy servants, and upon thy people; that thou mayest know that there is none like me in all the earth."
+        "kjv": "For I will at this time send all my plagues upon thine heart, and upon thy servants, and upon thy people; that thou mayest know that there is none like me in all the earth.",
+        "ron": "Fiindcă de data aceasta voi trimite toate pedepsele Mele împotriva ta, a slugilor tale şi a poporului tău, ca să vezi că nu este altul asemenea Mie în tot pământul."
       }
     },
     {
@@ -1259,7 +1273,8 @@
       ],
       "translations": {
         "lxx": "For now I will stretch forth my hand and smite thee and kill thy people, and thou shalt be consumed from off the earth.",
-        "kjv": "For now I will stretch out my hand, that I may smite thee and thy people with pestilence; and thou shalt be cut off from the earth."
+        "kjv": "For now I will stretch out my hand, that I may smite thee and thy people with pestilence; and thou shalt be cut off from the earth.",
+        "ron": "De Mi-aş fi întins mâna şi te-aş fi lovit pe tine şi pe poporul tău cu ciumă, tu ai fi fost şters de pe faţa pământului;"
       }
     },
     {
@@ -1330,7 +1345,8 @@
       ],
       "translations": {
         "lxx": "And for this purpose hast thou been preserved, that I might display in thee my strength, and that my name might be published in all the earth.",
-        "kjv": "And in very deed for this cause have I raised thee up, for to shew in thee my power; and that my name may be declared throughout all the earth."
+        "kjv": "And in very deed for this cause have I raised thee up, for to shew in thee my power; and that my name may be declared throughout all the earth.",
+        "ron": "Dar te-am cruţat, ca să-Mi arăt puterea Mea şi ca să se vestească numele Meu în tot pământul,"
       }
     },
     {
@@ -1366,7 +1382,8 @@
       ],
       "translations": {
         "lxx": "Dost thou then yet exert thyself to hinder my people, so as not to let them go?",
-        "kjv": "As yet exaltest thou thyself against my people, that thou wilt not let them go?"
+        "kjv": "As yet exaltest thou thyself against my people, that thou wilt not let them go?",
+        "ron": "Şi tu tot te mai împotriveşti poporului Meu şi nu-l laşi."
       }
     },
     {
@@ -1462,7 +1479,8 @@
       ],
       "translations": {
         "lxx": "Behold, to-morrow at this hour I will rain a very great hail, such as has not been in Egypt, from the time it was created until this day.",
-        "kjv": "Behold, to morrow about this time I will cause it to rain a very grievous hail, such as hath not been in Egypt since the foundation thereof even until now."
+        "kjv": "Behold, to morrow about this time I will cause it to rain a very grievous hail, such as hath not been in Egypt since the foundation thereof even until now.",
+        "ron": "Iată, Eu voi ploua mâine, pe vremea asta, grindină foarte multă, cum n-a mai fost în Egipt de la întemeierea lui şi până în ziua aceasta."
       }
     },
     {
@@ -1578,7 +1596,8 @@
       ],
       "translations": {
         "lxx": "Now then hasten to gather thy cattle, and all that thou hast in the fields; for all the men and cattle as many as shall be found in the fields, and shall not enter into a house, (but the hail shall fall upon them,) shall die.",
-        "kjv": "Send therefore now, and gather thy cattle, and all that thou hast in the field; for upon every man and beast which shall be found in the field, and shall not be brought home, the hail shall come down upon them, and they shall die."
+        "kjv": "Send therefore now, and gather thy cattle, and all that thou hast in the field; for upon every man and beast which shall be found in the field, and shall not be brought home, the hail shall come down upon them, and they shall die.",
+        "ron": "Trimite dar acum să adune turmele tale şi toate câte ai la câmp, că asupra tuturor oamenilor şi vitelor, care vor fi în ţarină şi nu vor intra în casă, va cădea grindină şi vor muri\"."
       }
     },
     {
@@ -1634,7 +1653,8 @@
       ],
       "translations": {
         "lxx": "He of the servants of Pharao that feared the word of the Lord, gathered his cattle into the houses.",
-        "kjv": "He that feared the word of the LORD among the servants of Pharaoh made his servants and his cattle flee into the houses:"
+        "kjv": "He that feared the word of the LORD among the servants of Pharaoh made his servants and his cattle flee into the houses:",
+        "ron": "Acei dintre robii lui Faraon, care s-au temut de Domnul, au adunat în grabă pe oamenii şi turmele lor acasă,"
       }
     },
     {
@@ -1685,7 +1705,8 @@
       ],
       "translations": {
         "lxx": "And he that did not attend in his mind to the word of the Lord, left the cattle in the fields.",
-        "kjv": "And he that regarded not the word of the LORD left his servants and his cattle in the field."
+        "kjv": "And he that regarded not the word of the LORD left his servants and his cattle in the field.",
+        "ron": "Iar cei ce n-au luat aminte la cuvântul Domnului, aceia şi-au lăsat slugile şi vitele lor în câmp."
       }
     },
     {
@@ -1806,7 +1827,8 @@
       ],
       "translations": {
         "lxx": "And the Lord said to Moses, Stretch out thine hand to heaven, and there shall be hail on all the land of Egypt, both on the men and on the cattle, and on all the herbage on the land.",
-        "kjv": "And the LORD said unto Moses, Stretch forth thine hand toward heaven, that there may be hail in all the land of Egypt, upon man, and upon beast, and upon every herb of the field, throughout the land of Egypt."
+        "kjv": "And the LORD said unto Moses, Stretch forth thine hand toward heaven, that there may be hail in all the land of Egypt, upon man, and upon beast, and upon every herb of the field, throughout the land of Egypt.",
+        "ron": "Şi a zis Domnul către Moise: \"Întinde mâna ta spre cer şi va cădea grindină peste tot pământul Egiptului: peste oameni, peste turme şi peste toată iarba câmpului din pământul Egiptului!\""
       }
     },
     {
@@ -1917,7 +1939,8 @@
       ],
       "translations": {
         "lxx": "And Moses stretched forth his hand to heaven, and the Lord sent thunderings and hail; and the fire ran along upon the ground, and the Lord rained hail on all the land of Egypt.",
-        "kjv": "And Moses stretched forth his rod toward heaven: and the LORD sent thunder and hail, and the fire ran along upon the ground; and the LORD rained hail upon the land of Egypt."
+        "kjv": "And Moses stretched forth his rod toward heaven: and the LORD sent thunder and hail, and the fire ran along upon the ground; and the LORD rained hail upon the land of Egypt.",
+        "ron": "Atunci şi-a întins Moise mâna spre cer şi a slobozit Domnul tunete, grindină şi foc pe pământ; şi a plouat Domnul grindină în pământul Egiptului."
       }
     },
     {
@@ -2008,7 +2031,8 @@
       ],
       "translations": {
         "lxx": "So there was hail and flaming fire mingled with hail; and the hail was very great, such as was not in Egypt, from the time there was a nation upon it.",
-        "kjv": "So there was hail, and fire mingled with the hail, very grievous, such as there was none like it in all the land of Egypt since it became a nation."
+        "kjv": "So there was hail, and fire mingled with the hail, very grievous, such as there was none like it in all the land of Egypt since it became a nation.",
+        "ron": "Aceasta a fost o grindină foarte mare şi printre grindină ardea foc, cum nu mai fusese în tot pământul Egiptului, de când se aşezaseră oamenii pe el."
       }
     },
     {
@@ -2114,7 +2138,8 @@
       ],
       "translations": {
         "lxx": "And the hail smote in all the land of Egypt both man and beast, and the hail smote all the grass in the field, and the hail broke in pieces all the trees in the field.",
-        "kjv": "And the hail smote throughout all the land of Egypt all that was in the field, both man and beast; and the hail smote every herb of the field, and brake every tree of the field."
+        "kjv": "And the hail smote throughout all the land of Egypt all that was in the field, both man and beast; and the hail smote every herb of the field, and brake every tree of the field.",
+        "ron": "Grindina aceasta a bătut în tot pământul Egiptului, tot ce era pe câmp, oameni şi dobitoace; toată iarba câmpului a bătut-o grindina şi toţi pomii de pe câmp i-a rupt grindina."
       }
     },
     {
@@ -2170,7 +2195,8 @@
       ],
       "translations": {
         "lxx": "Only in the land of Gesem where the children of Israel were, the hail was not.",
-        "kjv": "Only in the land of Goshen, where the children of Israel were, was there no hail."
+        "kjv": "Only in the land of Goshen, where the children of Israel were, was there no hail.",
+        "ron": "Numai în ţinutul Goşen, unde trăiau fiii lui Israel, n-a fost grindină."
       }
     },
     {
@@ -2246,7 +2272,8 @@
       ],
       "translations": {
         "lxx": "And Pharao sent and called Moses and Aaron, and said to them, I have sinned this time: the Lord is righteous, and I and my people are wicked.",
-        "kjv": "And Pharaoh sent, and called for Moses and Aaron, and said unto them, I have sinned this time: the LORD is righteous, and I and my people are wicked."
+        "kjv": "And Pharaoh sent, and called for Moses and Aaron, and said unto them, I have sinned this time: the LORD is righteous, and I and my people are wicked.",
+        "ron": "Atunci trimiţând, Faraon a chemat pe Moise şi pe Aaron şi a zis către ei: \"Acum văd că am păcătuit! Domnul este drept, iar eu şi poporul meu suntem vinovaţi."
       }
     },
     {
@@ -2322,7 +2349,8 @@
       ],
       "translations": {
         "lxx": "Pray then for me to the Lord, and let him cause the thunderings of God to cease, and the hail and the fire, and I will send you forth and ye shall remain no longer.",
-        "kjv": "Intreat the LORD (for it is enough) that there be no more mighty thunderings and hail; and I will let you go, and ye shall stay no longer."
+        "kjv": "Intreat the LORD (for it is enough) that there be no more mighty thunderings and hail; and I will let you go, and ye shall stay no longer.",
+        "ron": "Rugaţi-vă Domnului pentru mine, să înceteze tunetele, grindina şi focul pe pământ şi vă voi lăsa şi, mai mult, nu vă voi împiedica!\""
       }
     },
     {
@@ -2443,7 +2471,8 @@
       ],
       "translations": {
         "lxx": "And Moses said to him, When I shall have departed from the city, I will stretch out my hands to the Lord, and the thunderings shall cease, and the hail and the rain shall be no longer, that thou mayest know that the earth is the Lord's.",
-        "kjv": "And Moses said unto him, As soon as I am gone out of the city, I will spread abroad my hands unto the LORD; and the thunder shall cease, neither shall there be any more hail; that thou mayest know how that the earth is the LORD’s."
+        "kjv": "And Moses said unto him, As soon as I am gone out of the city, I will spread abroad my hands unto the LORD; and the thunder shall cease, neither shall there be any more hail; that thou mayest know how that the earth is the LORD’s.",
+        "ron": "Iar Moise i-a zis: \"Îndată ce voi ieşi din oraş, voi întinde mâna mea spre cer, către Domnul, şi vor înceta tunetele; nu va mai fi nici grindină, nici ploaie, ca să cunoşti că al Domnului este pământul."
       }
     },
     {
@@ -2489,7 +2518,8 @@
       ],
       "translations": {
         "lxx": "But as for thee and thy servants, I know that ye have not yet feared the Lord.",
-        "kjv": "But as for thee and thy servants, I know that ye will not yet fear the LORD God."
+        "kjv": "But as for thee and thy servants, I know that ye will not yet fear the LORD God.",
+        "ron": "Dar ştiu că tu şi slujitorii tăi nu vă temeţi încă de Domnul Dumnezeu\"."
       }
     },
     {
@@ -2555,7 +2585,8 @@
       ],
       "translations": {
         "lxx": "And the flax and the barley were smitten, for the barley was advanced, and the flax was seeding.",
-        "kjv": "And the flax and the barley was smitten: for the barley was in the ear, and the flax was bolled."
+        "kjv": "And the flax and the barley was smitten: for the barley was in the ear, and the flax was bolled.",
+        "ron": "Atunci inul şi orzul s-au stricat, pentru că orzul era înspicat şi inul în floare."
       }
     },
     {
@@ -2596,7 +2627,8 @@
       ],
       "translations": {
         "lxx": "But the wheat and the rye were not smitten, for they were late.",
-        "kjv": "But the wheat and the rie were not smitten: for they were not grown up."
+        "kjv": "But the wheat and the rie were not smitten: for they were not grown up.",
+        "ron": "Iar grâul şi ovăzul nu s-au stricat, pentru că acestea erau mai târzii."
       }
     },
     {
@@ -2697,7 +2729,8 @@
       ],
       "translations": {
         "lxx": "And Moses went forth from Pharao out of the city, and stretched out his hands to the Lord, and the thunders ceased and the hail, and the rain did not drop on the earth.",
-        "kjv": "And Moses went out of the city from Pharaoh, and spread abroad his hands unto the LORD: and the thunders and hail ceased, and the rain was not poured upon the earth."
+        "kjv": "And Moses went out of the city from Pharaoh, and spread abroad his hands unto the LORD: and the thunders and hail ceased, and the rain was not poured upon the earth.",
+        "ron": "Ieşind deci Moise de la Faraon şi din cetate şi întinzându-şi mâinile către Domnul, au încetat tunetele şi grindina şi s-a oprit ploaia."
       }
     },
     {
@@ -2773,7 +2806,8 @@
       ],
       "translations": {
         "lxx": "And when Pharao saw that the rain and the hail and the thunders ceased, he continued to sin; and he hardened his heart, and the heart of his servants.",
-        "kjv": "And when Pharaoh saw that the rain and the hail and the thunders were ceased, he sinned yet more, and hardened his heart, he and his servants."
+        "kjv": "And when Pharaoh saw that the rain and the hail and the thunders were ceased, he sinned yet more, and hardened his heart, he and his servants.",
+        "ron": "Văzând însă că au încetat ploaia, grindina şi tunetele, păcătuit-a Faraon înainte şi şi-a învârtoşat inima şi el şi slugile sale."
       }
     },
     {
@@ -2834,7 +2868,8 @@
       ],
       "translations": {
         "lxx": "And the heart of Pharao was hardened, and he did not send forth the children of Israel, as the Lord said to Moses.",
-        "kjv": "And the heart of Pharaoh was hardened, neither would he let the children of Israel go; as the LORD had spoken by Moses."
+        "kjv": "And the heart of Pharaoh was hardened, neither would he let the children of Israel go; as the LORD had spoken by Moses.",
+        "ron": "Şi învârtoşată fiind inima lui Faraon şi a slugilor lui, el n-a lăsat pe fiii lui Israel să plece cum poruncise Dumnezeu prin mâna lui Moise."
       }
     }
   ],

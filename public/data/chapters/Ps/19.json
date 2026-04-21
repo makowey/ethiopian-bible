@@ -6,61 +6,91 @@
       "num": 1,
       "geez": "",
       "translation": "For the end, a Psalm of David.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Să te audă Domnul în ziua necazului şi să te apere numele Dumnezeului lui Iacob."
+      }
     },
     {
       "num": 2,
       "geez": "",
       "translation": "The Lord hear thee in the day of trouble; the name of the God of Jacob defend thee.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Trimită ţie ajutor din locaşul Său cel sfânt şi din Sion să te sprijinească pe tine."
+      }
     },
     {
       "num": 3,
       "geez": "",
       "translation": "Send thee help from the sanctuary, and aid thee out of Sion.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Pomenească toată jertfa ta şi arderea de tot a ta bineplăcută să-I fie."
+      }
     },
     {
       "num": 4,
       "geez": "",
       "translation": "Remember all thy sacrifice, and enrich thy whole-burnt-offering. Pause.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Dea ţie Domnul după inima ta şi tot sfatul tău să-l plinească."
+      }
     },
     {
       "num": 5,
       "geez": "",
       "translation": "Grant thee according to thy heart, and fulfil all thy desire.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Bucura-ne-vom de mântuirea ta şi întru numele Dumnezeului nostru ne vom mări. Plinească Domnul toate cererile tale."
+      }
     },
     {
       "num": 6,
       "geez": "",
       "translation": "We will exult in thy salvation, and in the name of our God shall we be magnified: the Lord fulfil all thy petitions.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Acum am cunoscut că a mântuit Domnul pe unsul Său, cu puterea dreptei Sale."
+      }
     },
     {
       "num": 7,
       "geez": "",
       "translation": "Now I know that the Lord has saved his Christ: he shall hear him from his holy heaven: the salvation of his right hand is mighty.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Îl va auzi pe dânsul din cerul cel sfânt al Lui."
+      }
     },
     {
       "num": 8,
       "geez": "",
       "translation": "Some glory in chariots, and some in horses: but we will glory in the name of the Lord our God.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Unii se laudă cu căruţele lor, alţii cu caii lor, iar noi ne lăudăm cu numele Domnului Dumnezeului nostru."
+      }
     },
     {
       "num": 9,
       "geez": "",
       "translation": "They are overthrown and fallen: but we are risen, and have been set upright.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Aceştia s-au împiedicat şi au căzut, iar noi ne-am sculat şi ne-am îndreptat."
+      }
     },
     {
       "num": 10,
       "geez": "",
       "translation": "O Lord, save the king: and hear us in whatever day we call upon thee.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Doamne, mântuieşte pe împăratul şi ne auzi pe noi, în orice zi Te vom chema."
+      }
     }
   ]
 }

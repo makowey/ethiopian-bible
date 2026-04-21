@@ -6,43 +6,64 @@
       "num": 1,
       "geez": "",
       "translation": "For the end, a Psalm of David. In the Lord I have put my trust: how will ye say to my soul, Flee to the mountains as a sparrow?",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "În Domnul am nădăjduit. Cum veţi zice sufletului meu: \"Mută-te în munţi, ca o pasăre?\""
+      }
     },
     {
       "num": 2,
       "geez": "",
       "translation": "For behold the sinners have bent their bow, they have prepared their arrows for the quiver, to shoot privily at the upright in heart.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Că iată păcătoşii au încordat arcul, au gătit săgeţi în tolbă, ca să săgeteze în întuneric pe cei drepţi la inimă."
+      }
     },
     {
       "num": 3,
       "geez": "",
       "translation": "For they have pulled down what thou didst frame, but what has the righteous done?",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Că au surpat ceea ce ai aşezat; dar dreptul ce a făcut?"
+      }
     },
     {
       "num": 4,
       "geez": "",
       "translation": "The Lord is in his holy temple, as for the Lord, his throne is in heaven: his eyes look upon the poor, his eyelids try the sons of men.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Domnul este în locaşul cel sfânt al Său, Domnul în cer are scaunul Său. Ochii Lui spre sărac privesc, genele Lui cercetează pe fiii oamenilor."
+      }
     },
     {
       "num": 5,
       "geez": "",
       "translation": "The Lord tries the righteous and the ungodly: and he that loves unrighteousness hates his own soul.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Domnul cercetează pe cel drept şi pe cel necredincios; iar pe cel ce iubeşte nedreptatea îl urăşte sufletul Său."
+      }
     },
     {
       "num": 6,
       "geez": "",
       "translation": "He shall rain upon sinners snares, fire, and brimstone, and a stormy blast shall be the portion of their cup.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Va ploua peste păcătoşi laţuri, foc şi pucioasă; iar suflare de vifor este partea paharului lor."
+      }
     },
     {
       "num": 7,
       "geez": "",
       "translation": "For the Lord is righteous, and loves righteousness; his face beholds uprightness.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Că drept este Domnul şi dreptatea a iubit şi faţa Lui spre cel drept priveşte."
+      }
     }
   ]
 }

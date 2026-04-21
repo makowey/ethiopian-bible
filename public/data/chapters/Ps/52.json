@@ -6,43 +6,64 @@
       "num": 1,
       "geez": "",
       "translation": "For the end, a Psalm of David upon Maeleth, of instruction.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Zis-a cel nebun întru inima sa: \"Nu este Dumnezeu!\""
+      }
     },
     {
       "num": 2,
       "geez": "",
       "translation": "The fool has said in his heart, There is no God. They have corrupted themselves, and become abominable in iniquities: there is none that does good.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Stricatu-s-au şi urâţi s-au făcut întru fărădelegi. Nu este cel ce face bine."
+      }
     },
     {
       "num": 3,
       "geez": "",
       "translation": "God looked down from heaven upon the sons of men, to see if there were any that understood, or sought after God.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Domnul din cer a privit peste fiii oamenilor, să vadă de este cel ce înţelege, sau cel ce caută pe Dumnezeu."
+      }
     },
     {
       "num": 4,
       "geez": "",
       "translation": "They have all gone out of the way, they are together become unprofitable; there is none that does good, there is not even one.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Toţi s-au abătut, împreună netrebnici s-au făcut; nu este cel ce face bine, nu este până la unul."
+      }
     },
     {
       "num": 5,
       "geez": "",
       "translation": "Will none of the workers of iniquity know, who devour my people as they would eat bread? they have not called upon God. There were they greatly afraid, where there was no fear:",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Oare, nu vor cunoaşte, toţi cei ce lucrează fărădelegea? Cei ce mănâncă pe poporul Meu cum mănâncă pâinea,"
+      }
     },
     {
       "num": 6,
       "geez": "",
       "translation": "for God has scattered the bones of the men-pleasers; they were ashamed, for God despised them.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Pe Domnul nu L-au chemat. Acolo s-au temut de frică unde nu era frică,"
+      }
     },
     {
       "num": 7,
       "geez": "",
       "translation": "Who will bring the salvation of Israel out of Sion? When the Lord turns the captivity of his people, Jacob shall exult, and Israel shall be glad.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Că Dumnezeu a risipit oasele celor ce plac oamenilor; ruşinatu-s-au, că Dumnezeu i-a urgisit pe ei."
+      }
     }
   ]
 }

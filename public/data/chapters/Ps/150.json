@@ -6,37 +6,55 @@
       "num": 1,
       "geez": "",
       "translation": "Alleluia. Praise God in his holy places: praise him in the firmament of his power.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Lăudaţi pe Domnul întru sfinţii Lui; lăudaţi-L pe El întru tăria puterii Lui."
+      }
     },
     {
       "num": 2,
       "geez": "",
       "translation": "Praise him on account of his mighty acts: praise him according to his abundant greatness.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Lăudaţi-L pe El întru puterile Lui; lăudaţi-L pe El după mulţimea slavei Lui."
+      }
     },
     {
       "num": 3,
       "geez": "",
       "translation": "Praise him with the sound of a trumpet: praise him with psaltery and harp.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Lăudaţi-L pe El în glas de trâmbiţă; lăudaţi-L pe El în psaltire şi în alăută."
+      }
     },
     {
       "num": 4,
       "geez": "",
       "translation": "Praise him with timbrel and dance: praise him with stringed instruments and the organ.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Lăudaţi-L pe El în timpane şi în horă; lăudaţi-L pe El în strune şi organe."
+      }
     },
     {
       "num": 5,
       "geez": "",
       "translation": "Praise him with melodious cymbals: praise him with loud cymbals.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Lăudaţi-L pe El în chimvale bine răsunătoare; lăudaţi-L pe El în chimvale de strigare."
+      }
     },
     {
       "num": 6,
       "geez": "",
       "translation": "Let every thing that has breath praise the Lord.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Toată suflarea să laude pe Domnul!"
+      }
     }
   ]
 }

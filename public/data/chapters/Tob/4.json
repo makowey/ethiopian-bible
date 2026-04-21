@@ -64,7 +64,8 @@
         }
       ],
       "translations": {
-        "lxx": "In that day Tobit remembered the money which he had committed to Gabael in Rages of Media,"
+        "lxx": "In that day Tobit remembered the money which he had committed to Gabael in Rages of Media,",
+        "ron": "În ziua aceea şi-a adus aminte Tobit de argintul pe care-l încredinţase spre păstrare lui Gabael în Ragheşul Mediei."
       }
     },
     {
@@ -144,7 +145,8 @@
         }
       ],
       "translations": {
-        "lxx": "and said with himself, I have wished for death; wherefore do I not call for my son Tobias, that I may signify to him of the money before I die?"
+        "lxx": "and said with himself, I have wished for death; wherefore do I not call for my son Tobias, that I may signify to him of the money before I die?",
+        "ron": "Şi el şi-a zis în sine: \"Eu mi-am cerut moarte. Aş face bine să chem pe fiul meu Tobie, ca să-i spun de aceşti talanţi până nu mor!\""
       }
     },
     {
@@ -244,7 +246,8 @@
         }
       ],
       "translations": {
-        "lxx": "And when he had called him, he said, My son, when I am dead, bury me; and despise not thy mother, but honour her all the days of thy life, and do that which shall please her, and grieve her not."
+        "lxx": "And when he had called him, he said, My son, when I am dead, bury me; and despise not thy mother, but honour her all the days of thy life, and do that which shall please her, and grieve her not.",
+        "ron": "Şi chemându-l, i-a zis: \"Fiule, când voi muri, să mă îngropi şi să nu părăseşti pe mama ta; cinsteşte-o în toate zilele vieţii tale, fă ce-i place ei şi să nu-i pricinuieşti amărăciuni!"
       }
     },
     {
@@ -344,7 +347,8 @@
         }
       ],
       "translations": {
-        "lxx": "Remember, my son, that she saw many dangers for thee, when thou wast in her womb; and when she is dead, bury her by me in one grave."
+        "lxx": "Remember, my son, that she saw many dangers for thee, when thou wast in her womb; and when she is dead, bury her by me in one grave.",
+        "ron": "Adu-ţi aminte, fiule, că ea a înfruntat multe primejdii pentru tine, când te-a purtat în pântece. Şi când ea va muri, s-o îngropi lângă mine în acelaşi mormânt."
       }
     },
     {
@@ -449,7 +453,8 @@
         }
       ],
       "translations": {
-        "lxx": "My son, be mindful of the Lord our God all thy days, and let not thy will be set to sin, or to transgress his commandments: do uprightly all thy life long, and follow not the ways of unrighteousness."
+        "lxx": "My son, be mindful of the Lord our God all thy days, and let not thy will be set to sin, or to transgress his commandments: do uprightly all thy life long, and follow not the ways of unrighteousness.",
+        "ron": "Adu-ţi aminte în toate zilele, fiule, de Domnul Dumnezeul nostru şi să nu doreşti a greşi şi a călca poruncile Lui. Să faci fapte bune, în toate zilele vieţii tale, şi să nu umbli pe căile nedreptăţii."
       }
     },
     {
@@ -529,7 +534,8 @@
         }
       ],
       "translations": {
-        "lxx": "For if thou deal truly, thy doings shall prosperously succeed to thee, and to all them that live justly."
+        "lxx": "For if thou deal truly, thy doings shall prosperously succeed to thee, and to all them that live justly.",
+        "ron": "Căci dacă tu lucrezi întru adevăr, vei izbuti în toate lucrările tale, ca toţi cei ce umblă după adevăr!"
       }
     },
     {
@@ -619,7 +625,8 @@
         }
       ],
       "translations": {
-        "lxx": "Ask counsel of all that are wise, and despise not any counsel that is profitable."
+        "lxx": "Ask counsel of all that are wise, and despise not any counsel that is profitable.",
+        "ron": "Dă milostenie din averea ta şi să nu aibă ochiul tău părere de rău când vei face milostenie. De la nici un sărac să nu-ţi întorci faţa ta, şi atunci nici de la tine nu se va întoarce faţa lui Dumnezeu."
       }
     },
     {
@@ -682,7 +689,10 @@
           "t": "məṣəwatə",
           "gl": ""
         }
-      ]
+      ],
+      "translations": {
+        "ron": "Când ai mult, dă mai mult; dacă ai puţin dă mai puţin, dar nu pregeta să faci milostenie."
+      }
     },
     {
       "num": 9,
@@ -714,7 +724,10 @@
           "t": "läkä",
           "gl": ""
         }
-      ]
+      ],
+      "translations": {
+        "ron": "Şi-ţi vei aduna prin aceasta vistierie bogată pentru zile grele,"
+      }
     },
     {
       "num": 10,
@@ -766,7 +779,10 @@
           "t": "ṣələmätə",
           "gl": ""
         }
-      ]
+      ],
+      "translations": {
+        "ron": "Că milostenia izbăveşte de la moarte şi nu te lasă să te cobori în întuneric."
+      }
     },
     {
       "num": 11,
@@ -818,7 +834,10 @@
           "t": "ləʿulə",
           "gl": ""
         }
-      ]
+      ],
+      "translations": {
+        "ron": "În faţa Celui Preaînalt, milostenia este dar bogat pentru toţi cei ce o fac."
+      }
     },
     {
       "num": 12,
@@ -1030,7 +1049,10 @@
           "t": "lämədərə",
           "gl": ""
         }
-      ]
+      ],
+      "translations": {
+        "ron": "Păzeşte-te, fiule, de orice desfrânare! Să-ţi iei femeie din seminţia tatălui tău, şi să nu-ţi iei femeie străină, căci noi suntem fii de prooroci. Părinţii noştri din vechime sunt Noe, Avraam, Isaac şi Iacov. Adu-ţi aminte, fiule, că ei cu toţii şi-au luat femei din mijlocul fraţilor lor şi au fost binecuvântaţi în fiii lor, şi urmaşii lor vor moşteni pământul."
+      }
     },
     {
       "num": 13,
@@ -1212,7 +1234,10 @@
           "t": "yəʾəti",
           "gl": ""
         }
-      ]
+      ],
+      "translations": {
+        "ron": "Aşadar, fiule, să iubeşti pe fraţii tăi, şi să nu te mândreşti în inima ta faţă de fraţii tăi şi faţă de fiii şi fiicele poporului tău, încât să nu-ţi iei femeie de la ei, pentru că din mândrie izvorăşte pieire şi mare neorânduire, iar din lene, sărăcie şi lipsă mare, căci lenea este mama foamei."
+      }
     },
     {
       "num": 14,
@@ -1339,7 +1364,10 @@
           "t": "gəʿəzəkä",
           "gl": ""
         }
-      ]
+      ],
+      "translations": {
+        "ron": "Plata celor care lucrează pentru tine nu o amâna pe mâine, ci dă-le-o îndată, căci şi ţie ţi se va răsplăti, de vei sluji lui Dumnezeu. Ia seama, fiul meu, în toate lucrările tale şi fii bine crescut în toată purtarea ta!"
+      }
     },
     {
       "num": 15,
@@ -1406,7 +1434,10 @@
           "t": "fənotəkä",
           "gl": ""
         }
-      ]
+      ],
+      "translations": {
+        "ron": "Ceea ce urăşti tu însuţi, aceea nimănui să nu faci. Vin până la îmbătare să nu bei şi beţia să nu călătorească cu tine pe cale!"
+      }
     },
     {
       "num": 16,
@@ -1473,7 +1504,10 @@
           "t": "məṣəwatä",
           "gl": ""
         }
-      ]
+      ],
+      "translations": {
+        "ron": "Dă celui flămând din pâinea ta şi celui gol din hainele tale. Din toate câte ai din belşug, fă milostenie, şi să nu-i pară rău ochiului tău când vei face milostenie!"
+      }
     },
     {
       "num": 17,
@@ -1515,7 +1549,10 @@
           "t": "läḫaṭəʾänə",
           "gl": ""
         }
-      ]
+      ],
+      "translations": {
+        "ron": "Fii darnic cu pâinea şi cu vinul tău la mormântul celor drepţi, dar păcătoşilor să nu dai!"
+      }
     },
     {
       "num": 18,
@@ -1567,7 +1604,10 @@
           "t": "təbäqwiʿakä",
           "gl": ""
         }
-      ]
+      ],
+      "translations": {
+        "ron": "De la tot înţeleptul să ceri sfat şi sfatul folositor să nu-l dispreţuieşti."
+      }
     },
     {
       "num": 19,
@@ -1771,7 +1811,8 @@
         }
       ],
       "translations": {
-        "lxx": "Bless the Lord thy God alway, and desire of him that thy ways may be directed, and that all thy paths and counsels may prosper: for every nation hath not counsel; but the Lord himself giveth all good things, and he humbleth whom he will, as he will; now therefore, my son, remember my commandments, neither let them be put out of thy mind."
+        "lxx": "Bless the Lord thy God alway, and desire of him that thy ways may be directed, and that all thy paths and counsels may prosper: for every nation hath not counsel; but the Lord himself giveth all good things, and he humbleth whom he will, as he will; now therefore, my son, remember my commandments, neither let them be put out of thy mind.",
+        "ron": "Binecuvintează pe Domnul Dumnezeu în tot timpul şi cere de la El să călăuzească căile tale şi ca toate gândurile tale să izbândească, căci înţelepciunea nu este dată la tot neamul, şi Domnul dă tot binele şi, pe cine voieşte, îl ridică sau îl coboară până în adâncul locaşului morţilor. Ţine minte deci, fiule, poruncile mele şi să nu se şteargă ele din inima ta."
       }
     },
     {
@@ -1846,7 +1887,8 @@
         }
       ],
       "translations": {
-        "lxx": "And now I signify this to thee, that I committed ten talents to Gabael the son of Gabrias at Rages in Media."
+        "lxx": "And now I signify this to thee, that I committed ten talents to Gabael the son of Gabrias at Rages in Media.",
+        "ron": "Şi acum îţi descopăr că am dat zece talanţi de argint în păstrarea lui Gabael, fiul lui Gabri, din Ragheşul Mediei. Nu te teme, fiule, că am sărăcit! Tu ai o mare bogăţie, dacă te vei teme de Domnul şi, îndepărtându-te de orice păcat, vei face cele plăcute înaintea Lui\"."
       }
     },
     {

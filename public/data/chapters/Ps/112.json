@@ -6,55 +6,82 @@
       "num": 1,
       "geez": "",
       "translation": "Alleluia. Praise the Lord, ye servants of his, praise the name of the Lord.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Lăudaţi, tineri, pe Domnul, lăudaţi numele Domnului."
+      }
     },
     {
       "num": 2,
       "geez": "",
       "translation": "Let the name of the Lord be blessed, from this present time and for ever.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Fie numele Domnului binecuvântat de acum şi până în veac."
+      }
     },
     {
       "num": 3,
       "geez": "",
       "translation": "From the rising of the sun to his setting, the name of the Lord is to be praised.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "De la răsăritul soarelui până la apus, lăudat este numele Domnului."
+      }
     },
     {
       "num": 4,
       "geez": "",
       "translation": "The Lord is high above all the nations; his glory is above the heavens.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Înalt este peste toate neamurile Domnul, peste ceruri este slava Lui."
+      }
     },
     {
       "num": 5,
       "geez": "",
       "translation": "Who is as the Lord our God? who dwells in the high places,",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Cine este ca Domnul Dumnezeul nostru, Cel ce locuieşte întru cele înalte"
+      }
     },
     {
       "num": 6,
       "geez": "",
       "translation": "and yet looks upon the low things in heaven, and on the earth:",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Şi spre cele smerite priveşte, În cer şi pe pământ?"
+      }
     },
     {
       "num": 7,
       "geez": "",
       "translation": "who lifts up the poor from the earth, and raises up the needy from the dunghill;",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Cel ce scoate din pulbere pe cel sărac şi ridică din gunoi pe cel sărman,"
+      }
     },
     {
       "num": 8,
       "geez": "",
       "translation": "to set him with princes, even with the princes of his people:",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Ca să-l aşeze cu cei mari, cu cei mari ai poporului Său."
+      }
     },
     {
       "num": 9,
       "geez": "",
       "translation": "who settles the barren woman in a house, as a mother rejoicing over children.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Cel ce face să locuiască cea stearpă în casă, ca o mamă ce se bucură de fii."
+      }
     }
   ]
 }

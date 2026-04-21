@@ -6,55 +6,82 @@
       "num": 1,
       "geez": "",
       "translation": "Alleluia. Sing to the Lord a new song: his praise is in the assembly of the saints.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Cântaţi Domnului cântare nouă, lauda Lui în adunarea celor cuvioşi."
+      }
     },
     {
       "num": 2,
       "geez": "",
       "translation": "Let Israel rejoice in him that made him; and let the children of Sion exult in their king.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Să se veselească Israel de Cel ce l-a făcut pe el şi fiii Sionului să se bucure de Împăratul lor."
+      }
     },
     {
       "num": 3,
       "geez": "",
       "translation": "Let them praise his name in the dance: let them sing praises to him with timbrel and psaltery.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Să laude numele Lui în horă; în timpane şi în psaltire să-I cânte Lui."
+      }
     },
     {
       "num": 4,
       "geez": "",
       "translation": "For the Lord takes pleasure in his people; and will exalt the meek with salvation.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Că iubeşte Domnul poporul Său şi va învăţa pe cei blânzi şi-i va izbăvi."
+      }
     },
     {
       "num": 5,
       "geez": "",
       "translation": "The saints shall rejoice in glory; and shall exult on their beds.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Se vor lăuda cuvioşii întru slavă şi se vor bucura în aşternuturile lor."
+      }
     },
     {
       "num": 6,
       "geez": "",
       "translation": "The high praises of God shall be in their throat, and two-edged swords in their hands;",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Laudele Domnului în gura lor şi săbii cu două tăişuri în mâinile lor,"
+      }
     },
     {
       "num": 7,
       "geez": "",
       "translation": "to execute vengeance on the nations, and punishments among the peoples;",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Ca să se răzbune pe neamuri şi să pedepsească pe popoare,"
+      }
     },
     {
       "num": 8,
       "geez": "",
       "translation": "to bind their kings with fetters, and their nobles with manacles of iron;",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Ca să lege pe împăraţii lor în obezi şi pe cei slăviţi ai lor în cătuşe de fier,"
+      }
     },
     {
       "num": 9,
       "geez": "",
       "translation": "to execute on them the judgment written: this honour have all his saints.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Ca să facă între dânşii judecată scrisă. Slava aceasta este a tuturor cuvioşilor Săi."
+      }
     }
   ]
 }

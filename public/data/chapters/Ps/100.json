@@ -6,49 +6,73 @@
       "num": 1,
       "geez": "",
       "translation": "A Psalm of David. I will sing to thee, O Lord, of mercy and judgment; I will sing a psalm,",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Mila şi judecata Ta voi cânta ţie, Doamne."
+      }
     },
     {
       "num": 2,
       "geez": "",
       "translation": "and I will be wise in a blameless way. When wilt thou come to me? I walked in the innocence of my heart, in the midst of my house.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Cânta-voi şi voi merge, cu pricepere, în cale fără prihană. Când vei veni la mine?"
+      }
     },
     {
       "num": 3,
       "geez": "",
       "translation": "I have not set before mine eyes any unlawful thing; I have hated transgressors.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Umblat-am întru nerăutatea inimii mele, în casa mea."
+      }
     },
     {
       "num": 4,
       "geez": "",
       "translation": "A perverse heart has not cleaved to me; I have not known an evil man, forasmuch as he turns away from me.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "N-am pus înaintea ochilor mei lucru nelegiuit; pe călcătorii de lege i-am urât."
+      }
     },
     {
       "num": 5,
       "geez": "",
       "translation": "Him that privily speaks against his neighbour, him have I driven from me: he that is proud in look and insatiable in heart,—with him I have not eaten.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Nu s-a lipit de mine inima îndărătnică; pe cel rău, care se depărta de mine, nu l-am cunoscut."
+      }
     },
     {
       "num": 6,
       "geez": "",
       "translation": "Mine eyes shall be upon the faithful of the land, that they may dwell with me: he that walked in a perfect way, the same ministered to me.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Pe cel ce clevetea în ascuns pe vecinul său, pe acela l-am izgonit."
+      }
     },
     {
       "num": 7,
       "geez": "",
       "translation": "The proud doer dwelt not in the midst of my house; the unjust speaker prospered not in my sight.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Cu cel mândru cu ochiul şi nesăţios cu inima, cu acela n-am mâncat."
+      }
     },
     {
       "num": 8,
       "geez": "",
       "translation": "Early did I slay all the sinners of the land, that I might destroy out of the city of the Lord all that work iniquity.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Ochii mei sunt peste credincioşii pământului, ca să şadă ei împreună cu mine. Cel ce umbla pe cale fără prihană, acela îmi slujea."
+      }
     }
   ]
 }

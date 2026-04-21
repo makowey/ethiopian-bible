@@ -6,49 +6,73 @@
       "num": 1,
       "geez": "",
       "translation": "A Song of Degrees. Many a time have they warred against me from my youth, let Israel now say:",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "De multe ori s-au luptat cu mine din tinereţile mele, să spună Israel!"
+      }
     },
     {
       "num": 2,
       "geez": "",
       "translation": "Many a time have they warred against me from my youth: and yet they prevailed not against me.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "De multe ori s-au luptat cu mine, din tinereţile mele şi nu m-au biruit."
+      }
     },
     {
       "num": 3,
       "geez": "",
       "translation": "The sinners wrought upon my back: they prolonged their iniquity.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Spatele mi-au lovit păcătoşii, întins-au nelegiuirea lor;"
+      }
     },
     {
       "num": 4,
       "geez": "",
       "translation": "The righteous Lord has cut asunder the necks of sinners.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Dar Domnul Cel drept a tăiat grumajii păcătoşilor."
+      }
     },
     {
       "num": 5,
       "geez": "",
       "translation": "Let all that hate Sion be put to shame and turned back.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Să se ruşineze şi să se întoarcă înapoi toţi cei ce urăsc Sionul."
+      }
     },
     {
       "num": 6,
       "geez": "",
       "translation": "Let them be as the grass of the house-tops, which withers before it is plucked up.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Facă-se ca iarba de pe acoperişuri, care, mai înainte de a fi smulsă, s-a uscat,"
+      }
     },
     {
       "num": 7,
       "geez": "",
       "translation": "Wherewith the reaper fills not his hand, nor he that makes up the sheaves, his bosom.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Din care nu şi-a umplut mâna lui secerătorul şi sânul său, cel ce adună snopii,"
+      }
     },
     {
       "num": 8,
       "geez": "",
       "translation": "Neither do they that go by say, The blessing of the Lord be upon you: we have blessed you in the name of the Lord.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Şi trecătorii nu vor zice: \"Binecuvântarea Domnului fie peste voi!\" sau: \"Vă binecuvântăm în numele Domnului!\""
+      }
     }
   ]
 }

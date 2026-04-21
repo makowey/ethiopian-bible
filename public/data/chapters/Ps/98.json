@@ -6,55 +6,82 @@
       "num": 1,
       "geez": "",
       "translation": "A Psalm of David. The Lord reigns;—let the people rage; it is he that sits upon the cherubs, let the earth be moved.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Domnul împărăţeşte: să tremure popoarele; şade pe heruvimi: să se cutremure pământul."
+      }
     },
     {
       "num": 2,
       "geez": "",
       "translation": "The Lord is great in Sion, and is high over all the people.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Domnul în Sion este mare şi înalt peste toate popoarele."
+      }
     },
     {
       "num": 3,
       "geez": "",
       "translation": "Let them give thanks to thy great name; for it is terrible and holy.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Să se laude numele Tău cel mare, că înfricoşător şi sfânt este. Şi cinstea împăratului iubeşte dreptatea."
+      }
     },
     {
       "num": 4,
       "geez": "",
       "translation": "And the king's honour loves judgment; thou hast prepared equity, thou hast wrought judgment and justice in Jacob.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Tu ai întemeiat dreptatea; judecată şi dreptate în Iacob, Tu ai făcut."
+      }
     },
     {
       "num": 5,
       "geez": "",
       "translation": "Exalt ye the Lord our God, and worship at his footstool; for he is holy.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Înălţaţi pe Domnul Dumnezeul nostru şi vă închinaţi aşternutului picioarelor Lui, că sfânt este!"
+      }
     },
     {
       "num": 6,
       "geez": "",
       "translation": "Moses and Aaron among his priests, and Samuel among them that call upon his name; they called upon the Lord, and he heard them.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Moise şi Aaron, între preoţii Lui şi Samuel între cei ce cheamă numele Lui."
+      }
     },
     {
       "num": 7,
       "geez": "",
       "translation": "He spoke to them in a pillar of cloud; they kept his testimonies, and the ordinances which he gave them.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Chemat-au pe Domnul şi El i-a auzit pe ei, în stâlp de nor grăia către ei;"
+      }
     },
     {
       "num": 8,
       "geez": "",
       "translation": "O Lord our God, thou heardest them; O God, thou becamest propitious to them, though thou didst take vengeance on all their devices.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Căci păzeau mărturiile Lui şi poruncile pe care le-a dat lor."
+      }
     },
     {
       "num": 9,
       "geez": "",
       "translation": "Exalt ye the Lord our God, and worship at his holy mountain; for the Lord our God is holy.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Doamne, Dumnezeul nostru, Tu i-ai auzit pe ei; Dumnezeule, Tu Te-ai milostivit de ei şi ai răsplătit toate faptele lor."
+      }
     }
   ]
 }

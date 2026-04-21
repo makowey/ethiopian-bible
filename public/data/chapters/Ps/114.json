@@ -6,55 +6,82 @@
       "num": 1,
       "geez": "",
       "translation": "Alleluia. I am well pleased, because the Lord will hearken to the voice of my supplication.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Iubit-am pe Domnul, că a auzit glasul rugăciunii mele,"
+      }
     },
     {
       "num": 2,
       "geez": "",
       "translation": "Because he has inclined his ear to me, therefore will I call upon him while I live.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Că a plecat urechea Lui spre mine şi în zilele mele Îl voi chema."
+      }
     },
     {
       "num": 3,
       "geez": "",
       "translation": "The pangs of death compassed me; the dangers of hell found me: I found affliction and sorrow.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Cuprinsu-m-au durerile morţii, primejdiile iadului m-au găsit; necaz şi durere am aflat"
+      }
     },
     {
       "num": 4,
       "geez": "",
       "translation": "Then I called on the name of the Lord: O Lord, deliver my soul.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Şi numele Domnului am chemat: \"O, Doamne, izbăveşte sufletul meu!\""
+      }
     },
     {
       "num": 5,
       "geez": "",
       "translation": "The Lord is merciful and righteous; yea, our God has pity.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Milostiv este Domnul şi drept şi Dumnezeul nostru miluieşte."
+      }
     },
     {
       "num": 6,
       "geez": "",
       "translation": "The Lord preserves the simple: I was brought low, and he delivered me.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Cel ce păzeşte pe prunci este Domnul; umilit am fost şi m-am izbăvit."
+      }
     },
     {
       "num": 7,
       "geez": "",
       "translation": "Return to thy rest, O my soul; for the Lord has dealt bountifully with thee.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Întoarce-te, suflete al meu, la odihna ta, că Domnul ţi-a făcut ţie bine;"
+      }
     },
     {
       "num": 8,
       "geez": "",
       "translation": "For he has delivered my soul from death, mine eyes from tears, and my feet from falling.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Că a scos sufletul meu din moarte, ochii mei din lacrimi şi picioarele mele de la cădere."
+      }
     },
     {
       "num": 9,
       "geez": "",
       "translation": "I shall be well-pleasing before the Lord in the land of the living.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Bine voi plăcea înaintea Domnului, în pământul celor vii."
+      }
     }
   ]
 }

@@ -6,253 +6,379 @@
       "num": 1,
       "geez": "",
       "translation": "Adam, Seth, Enos,",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Adam, Set, Enos;"
+      }
     },
     {
       "num": 2,
       "geez": "",
       "translation": "and Cainan, Maleleel, Jared,",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Chenan, Mahalaleel, Iared;"
+      }
     },
     {
       "num": 3,
       "geez": "",
       "translation": "Enoch, Mathusala, Lamech,",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Enoh, Matusalem, Lameh;"
+      }
     },
     {
       "num": 4,
       "geez": "",
       "translation": "Noe: the sons of Noe, Sem, Cham, Japheth.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Noe, Sem, Ham şi Iafet."
+      }
     },
     {
       "num": 5,
       "geez": "",
       "translation": "The sons of Japheth, Gamer, Magog, Madaim, Jovan, Helisa, Thobel, Mosoch, and Thiras.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Fiii lui Iafet: Gomer, Magog, Madai, Iavan, Elişa, Tubal, Meşec şi Tiras."
+      }
     },
     {
       "num": 6,
       "geez": "",
       "translation": "And the sons of Gamer, Aschanaz, and Riphath, and Thorgama.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Fiii lui Gomer: Aşchenaz, Rifat şi Togarma."
+      }
     },
     {
       "num": 7,
       "geez": "",
       "translation": "And the sons of Jovan, Helisa, and Tharsis, the Citians, and Rhodians.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Fiii lui Iavan: Elişa, Tarşiş, Chitim şi Dodanim."
+      }
     },
     {
       "num": 8,
       "geez": "",
       "translation": "And the sons of Cham, Chus, and Mesraim, Phud and Chanaan.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Fiii lui Ham: Cuş, Miţraim, Put şi Canaan."
+      }
     },
     {
       "num": 9,
       "geez": "",
       "translation": "And the sons of Chus, Saba, and Evila, and Sabatha, and Regma, and Sebethaca: and the sons of Regma, Saba, and Dadan.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Fiii lui Cuş: Seba, Havila, Savta Rama şi Sabteca. Fiii lui Rama: Şeba şi Dedan."
+      }
     },
     {
       "num": 10,
       "geez": "",
       "translation": "And Chus begot Nebrod: he began to be a mighty hunter on the earth.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Lui Cuş i s-a mai născut de asemenea şi Nimrod. Acesta a început să fie puternic pe pământ."
+      }
     },
     {
       "num": 17,
       "geez": "",
       "translation": "The sons of Sem, Ælam, and Assur,",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Fiii lui Sem: Elam, Asur, Arpaxad, Lud şi Aram. Fiii lui Aram: Ut, Hul, Gheter şi Meşec."
+      }
     },
     {
       "num": 24,
       "geez": "",
       "translation": "and Arphaxad, Sala,",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Iar fiii lui Sim sunt: Arpaxad, Cainan, Selah,"
+      }
     },
     {
       "num": 25,
       "geez": "",
       "translation": "Eber, Pheleg, Ragan,",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Eber, Peleg, Reu,"
+      }
     },
     {
       "num": 26,
       "geez": "",
       "translation": "Seruch, Nachor, Tharrha,",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Serug, Nahor, Terah"
+      }
     },
     {
       "num": 27,
       "geez": "",
       "translation": "Abraam.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Şi Avram, adică Avraam."
+      }
     },
     {
       "num": 28,
       "geez": "",
       "translation": "And the sons of Abraam, Isaac, and Ismael.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Fiii lui Avraam sunt Isaac şi Ismael."
+      }
     },
     {
       "num": 29,
       "geez": "",
       "translation": "And these are their generations: the first-born of Ismael, Nabæoth, and Kedar, Nabdeel, Massam,",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Iată spiţa neamului lor: Nebaiot, întâiul născut al lui Ismael, apoi: Chedar, Adbeel, Mibsam,"
+      }
     },
     {
       "num": 30,
       "geez": "",
       "translation": "Masma, Iduma, Masse, Chondan, Thæman,",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Mişma, Duma, Maşa, Hadad, Tema,"
+      }
     },
     {
       "num": 31,
       "geez": "",
       "translation": "Jettur, Naphes, Kedma: these are the sons of Ismael.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Ietur, Nafiş şi Chedma. Aceştia sunt fiii lui Ismael."
+      }
     },
     {
       "num": 32,
       "geez": "",
       "translation": "And the sons of Chettura Abraam's concubine:—and she bore him Zembram, Jexan, Madiam, Madam, Sobac, Soe: and the sons of Jexan; Dædan, and Sabai;",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Fiii Cheturei, ţiitoarea lui Avraam. Ea a născut pe Zimran, Iocşan, Medan, Madian, Işbac şi Şuah. Fiii lui Iocşan sunt: Şeba şi Dedan. Fiii lui Dedan sunt: Raguel, Navdeel, Aşurim, Letuşim şi Leumim."
+      }
     },
     {
       "num": 33,
       "geez": "",
       "translation": "and the sons of Madiam; Gephar, and Opher, and Enoch, and Abida, and Eldada; all these were the sons of Chettura.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Fiii lui Madian sunt: Efa, Efer, Enoh, Abida şi Eldaa. Toţi aceştia sunt fiii Cheturei."
+      }
     },
     {
       "num": 34,
       "geez": "",
       "translation": "And Abraam begot Isaac: and the sons of Isaac were Jacob, and Esau.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Lui Avraam i s-a născut Isaac. Fiii lui Isaac sunt: Isav şi Israel."
+      }
     },
     {
       "num": 35,
       "geez": "",
       "translation": "The sons of Esau, Eliphaz, and Raguel, and Jeul, and Jeglom, and Core.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Fiii lui Isav sunt: Elifaz, Raguel, Ieuş, Ialam şi Core."
+      }
     },
     {
       "num": 36,
       "geez": "",
       "translation": "The sons of Eliphaz: Thæman, and Omar, Sophar, and Goötham, and Kenez, and Thamna, and Amalec.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Fiii lui Elifaz sunt: Teman, Omar, Ţefi, Gatam, Chenaz; iar Temna, concubina lui Elifaz, i-a născut pe Amalec."
+      }
     },
     {
       "num": 37,
       "geez": "",
       "translation": "And the sons of Raguel, Naches, Zare, Some, and Moze.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Fiii lui Raguel sunt: Nahat, Zerah, Şama şi Miza."
+      }
     },
     {
       "num": 38,
       "geez": "",
       "translation": "The sons of Seir, Lotan, Sobal, Sebegon, Ana, Deson, Osar, and Disan.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Fiii lui Seir sunt: Lotan, Şobal, Ţibeon, Ana, Dişon, Eţer şi Dişan."
+      }
     },
     {
       "num": 39,
       "geez": "",
       "translation": "And the sons of Lotan, Chorri, and Æman; and the sister of Lotan was Thamna.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Fiii lui Lotan sunt: Hori şi Heman; iar sora lui Lotan se numea Timna."
+      }
     },
     {
       "num": 40,
       "geez": "",
       "translation": "The sons of Sobal; Alon, Machanath, Tæbel, Sophi, and Onan: and the sons of Sebegon; Æth, and Sonan.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Fiii lui Şobal sunt: Alvan, Manahat, Ebal, Şefo şi Onam. Fiii lui Ţibeon sunt: Aia şi Ana."
+      }
     },
     {
       "num": 41,
       "geez": "",
       "translation": "The sons of Sonan, Dæson: and the sons of Dæson; Emeron, and Asebon, and Jethram, and Charran.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Fiii lui Ana sunt: Dişon şi Olibama; fiii lui Dişon sunt: Hemdan, Eşban, Itran şi Cheran."
+      }
     },
     {
       "num": 42,
       "geez": "",
       "translation": "And the sons of Hosar, Balaam, and Zucam, and Acan: the sons of Disan, Os, and Aran.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Fiii lui Eţer sunt: Bilhan, Zaavan şi Acan; fiii lui Dişan sunt: Uţ şi Aran."
+      }
     },
     {
       "num": 43,
       "geez": "",
       "translation": "And these are their kings, Balac the son of Beor; and the name of his city was Dennaba.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Aceştia sunt regii care au domnit în pământul Edom, înainte de a se ridica rege, peste fiii lui Israel, Bela, fiul lui Beor, cetatea căruia se numea Dinhaba."
+      }
     },
     {
       "num": 44,
       "geez": "",
       "translation": "And Balac died, and Jobab the son of Zara of Bosorrha reigned in his stead.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Murind Bela, după el a fost făcut rege Iobab, fiul lui Zerah din Boţra."
+      }
     },
     {
       "num": 45,
       "geez": "",
       "translation": "And Jobab died, and Asom of the land of the Thæmanites reigned in his stead.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "După moartea lui Iobab s-a făcut rege Huşam, în ţara Temaniţilor."
+      }
     },
     {
       "num": 46,
       "geez": "",
       "translation": "And Asom died, and Adad the son of Barad reigned in his stead, who smote Madiam in the plain of Moab: and the name of his city was Gethaim.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Murind Huşam, s-a făcut rege după el Hadad, fiul lui Bedad, care a lovit pe Madianiţi în câmpia Moabului. Oraşul lui se numea Avit."
+      }
     },
     {
       "num": 47,
       "geez": "",
       "translation": "And Adad died, and Sebla of Masecca reigned in his stead.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Murind Hadad, s-a făcut rege după el Şamla, din Masreca;"
+      }
     },
     {
       "num": 48,
       "geez": "",
       "translation": "And Sebla died, and Saul of Rhoboth by the river reigned in his stead.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Murind Şamla, s-a făcut rege după el Şaul, din Rehobotul cel de lângă râu."
+      }
     },
     {
       "num": 49,
       "geez": "",
       "translation": "And Saul died, and Balaennor son of Achobor reigned in his stead.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Murind Şaul, s-a făcut rege după el Baal-Hanan, fiul lui Acbor."
+      }
     },
     {
       "num": 50,
       "geez": "",
       "translation": "And Balaennor died, and Adad son of Barad reigned in his stead; and the name of his city was Phogor.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Murind Baal-Hanan, s-a făcut rege după el Hadad. Numele cetăţii lui era Pau, iar numele femeii lui era Mehetabeel, fiica lui Matred, fiica lui Mezahab."
+      }
     },
     {
       "num": 51,
       "geez": "",
       "translation": "The princes of Edom: prince Thamna, prince Golada, prince Jether,",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Murind Hadad, au urmat căpetenii peste Edom: căpetenia Timna, căpetenia Alia, căpetenia Ietet,"
+      }
     },
     {
       "num": 52,
       "geez": "",
       "translation": "prince Elibamas, prince Elas, prince Phinon,",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Căpetenia Oholibama, căpetenia Ela, căpetenia Pinon,"
+      }
     },
     {
       "num": 53,
       "geez": "",
       "translation": "prince Kenez, prince Thæman, prince Babsar, prince Magediel,",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Căpetenia Chenaz, căpetenia Teman, căpetenia Mibţar,"
+      }
     },
     {
       "num": 54,
       "geez": "",
       "translation": "prince Zaphoin. These are the princes of Edom.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Căpetenia Magdiel, căpetenia Iram. Acestea sunt căpeteniile Edomului."
+      }
     }
   ]
 }

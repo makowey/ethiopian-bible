@@ -50,7 +50,8 @@
       ],
       "translations": {
         "lxx": "Ye are the children of the Lord your God: ye shall not make any baldness between your eyes for the dead.",
-        "kjv": "Ye are the children of the LORD your God: ye shall not cut yourselves, nor make any baldness between your eyes for the dead."
+        "kjv": "Ye are the children of the LORD your God: ye shall not cut yourselves, nor make any baldness between your eyes for the dead.",
+        "ron": "\"Voi sunteţi fiii Domnului Dumnezeului vostru; să nu faceţi crestături pe trupul vostru şi să nu vă tundeţi părul de deasupra ochilor voştri, pentru morţi;"
       }
     },
     {
@@ -161,7 +162,8 @@
       ],
       "translations": {
         "lxx": "For thou art a holy people to the Lord thy God, and the Lord thy God has chosen thee to be a peculiar people to himself of all the nations on the face of the earth.",
-        "kjv": "For thou art an holy people unto the LORD thy God, and the LORD hath chosen thee to be a peculiar people unto himself, above all the nations that are upon the earth."
+        "kjv": "For thou art an holy people unto the LORD thy God, and the LORD hath chosen thee to be a peculiar people unto himself, above all the nations that are upon the earth.",
+        "ron": "Căci voi sunteţi poporul sfânt al Domnului Dumnezeului vostru şi pe voi v-a ales Domnul ca să-I fiţi poporul Lui de moştenire dintre toate popoarele câte sunt pe pământ."
       }
     },
     {
@@ -192,7 +194,8 @@
       ],
       "translations": {
         "lxx": "Ye shall not eat any abominable thing.",
-        "kjv": "Thou shalt not eat any abominable thing."
+        "kjv": "Thou shalt not eat any abominable thing.",
+        "ron": "Să nu mâncaţi nici un lucru necurat."
       }
     },
     {
@@ -263,7 +266,8 @@
       ],
       "translations": {
         "lxx": "These are the beasts which ye shall eat; the calf of the herd, and lamb of the sheep, and kid of the goats;",
-        "kjv": "These are the beasts which ye shall eat: the ox, the sheep, and the goat,"
+        "kjv": "These are the beasts which ye shall eat: the ox, the sheep, and the goat,",
+        "ron": "Iată dobitoacele pe care le puteţi mânca:"
       }
     },
     {
@@ -309,7 +313,8 @@
       ],
       "translations": {
         "lxx": "the stag, and doe, and pygarg, and wild goat, and camelopard.",
-        "kjv": "The hart, and the roebuck, and the fallow deer, and the wild goat, and the pygarg, and the wild ox, and the chamois."
+        "kjv": "The hart, and the roebuck, and the fallow deer, and the wild goat, and the pygarg, and the wild ox, and the chamois.",
+        "ron": "Boul, oaia, capra, cerbul, gazela, antilopa, ţapul, cerboaica, boul sălbatic şi capra sălbatică."
       }
     },
     {
@@ -385,7 +390,8 @@
       ],
       "translations": {
         "lxx": "Every beast that divides the hoofs, and makes claws of two divisions, and that chews the cud among beasts, these ye shall eat.",
-        "kjv": "And every beast that parteth the hoof, and cleaveth the cleft into two claws, and cheweth the cud among the beasts, that ye shall eat."
+        "kjv": "And every beast that parteth the hoof, and cleaveth the cleft into two claws, and cheweth the cud among the beasts, that ye shall eat.",
+        "ron": "Orice dobitoc care are copita despicată, cu spintecătură adâncă între amândouă părţile copitei şi care dobitoc rumegă mâncarea, se mănâncă."
       }
     },
     {
@@ -496,7 +502,8 @@
       ],
       "translations": {
         "lxx": "And these ye shall not eat of them that chew the cud, and of those that divide the hoofs, and make distinct claws; the camel, and the hare, and the rabbit; because they chew the cud, and do not divide the hoof, these are unclean to you.",
-        "kjv": "Nevertheless these ye shall not eat of them that chew the cud, or of them that divide the cloven hoof; as the camel, and the hare, and the coney: for they chew the cud, but divide not the hoof; therefore they are unclean unto you."
+        "kjv": "Nevertheless these ye shall not eat of them that chew the cud, or of them that divide the cloven hoof; as the camel, and the hare, and the coney: for they chew the cud, but divide not the hoof; therefore they are unclean unto you.",
+        "ron": "Dintre cele ce îşi rumegă mâncarea sau îşi au copita despicată printr-o spintecătură adâncă, numai acestea nu se mănâncă: cămila, iepurele şi iepurele de casă, pentru că, deşi acestea îşi rumegă mâncarea, dar nu-şi au copita despicată, acestea sunt necurate pentru voi."
       }
     },
     {
@@ -592,7 +599,8 @@
       ],
       "translations": {
         "lxx": "And as for the swine, because he divides the hoof, and makes claws of the hoof, yet he chews not the cud, he is unclean to you; ye shall not eat of their flesh, ye shall not touch their dead bodies.",
-        "kjv": "And the swine, because it divideth the hoof, yet cheweth not the cud, it is unclean unto you: ye shall not eat of their flesh, nor touch their dead carcase."
+        "kjv": "And the swine, because it divideth the hoof, yet cheweth not the cud, it is unclean unto you: ye shall not eat of their flesh, nor touch their dead carcase.",
+        "ron": "Nu se mănâncă porcul, pentru că, deşi are copita despicată, nu îşi rumegă mâncarea; acesta este necurat pentru voi. Carnea acestora să n-o mâncaţi şi de stârvurile lor să nu vă atingeţi."
       }
     },
     {
@@ -648,7 +656,8 @@
       ],
       "translations": {
         "lxx": "And these ye shall eat of all that are in the water, ye shall eat all that have fins and scales.",
-        "kjv": "These ye shall eat of all that are in the waters: all that have fins and scales shall ye eat:"
+        "kjv": "These ye shall eat of all that are in the waters: all that have fins and scales shall ye eat:",
+        "ron": "Din toate vietăţile care sunt în apă, să mâncaţi pe acelea care au aripi şi solzi;"
       }
     },
     {
@@ -704,7 +713,8 @@
       ],
       "translations": {
         "lxx": "And all that have not fins and scales ye shall not eat; they are unclean to you.",
-        "kjv": "And whatsoever hath not fins and scales ye may not eat; it is unclean unto you."
+        "kjv": "And whatsoever hath not fins and scales ye may not eat; it is unclean unto you.",
+        "ron": "Iar pe toate celelalte, care n-au aripi şi solzi, să nu le mâncaţi; necurate sunt pentru voi."
       }
     },
     {
@@ -735,7 +745,8 @@
       ],
       "translations": {
         "lxx": "Ye shall eat every clean bird.",
-        "kjv": "Of all clean birds ye shall eat."
+        "kjv": "Of all clean birds ye shall eat.",
+        "ron": "Orice pasăre curată s-o mâncaţi."
       }
     },
     {
@@ -776,7 +787,8 @@
       ],
       "translations": {
         "lxx": "And these of them ye shall not eat; the eagle, and the ossifrage, and the sea-eagle,",
-        "kjv": "But these are they of which ye shall not eat: the eagle, and the ossifrage, and the ospray,"
+        "kjv": "But these are they of which ye shall not eat: the eagle, and the ossifrage, and the ospray,",
+        "ron": "Dar din ele să nu mâncaţi pe acestea: vulturul, vulturul răpitor şi vulturul de mare,"
       }
     },
     {
@@ -802,7 +814,8 @@
       ],
       "translations": {
         "lxx": "and the vulture, and the kite and the like to it,",
-        "kjv": "And the glede, and the kite, and the vulture after his kind,"
+        "kjv": "And the glede, and the kite, and the vulture after his kind,",
+        "ron": "Corbul, şoimul, gaia cu soiurile ei,"
       }
     },
     {
@@ -822,7 +835,8 @@
         }
       ],
       "translations": {
-        "kjv": "And every raven after his kind,"
+        "kjv": "And every raven after his kind,",
+        "ron": "Tot soiul de ciori,"
       }
     },
     {
@@ -848,7 +862,8 @@
       ],
       "translations": {
         "lxx": "and the sparrow, and the owl, and the sea-mew,",
-        "kjv": "And the owl, and the night hawk, and the cuckow, and the hawk after his kind,"
+        "kjv": "And the owl, and the night hawk, and the cuckow, and the hawk after his kind,",
+        "ron": "Struţul, cucuveaua, pescăruşul şi uliul cu soiurile lui,"
       }
     },
     {
@@ -874,7 +889,8 @@
       ],
       "translations": {
         "lxx": "and the heron, and the swan, and the stork,",
-        "kjv": "The little owl, and the great owl, and the swan,"
+        "kjv": "The little owl, and the great owl, and the swan,",
+        "ron": "Huhurezul, ibisul şi lebăda,"
       }
     },
     {
@@ -910,7 +926,8 @@
       ],
       "translations": {
         "lxx": "and the cormorant, and the hawk, and its like, and the hoopoe, and the raven,",
-        "kjv": "And the pelican, and the gier eagle, and the cormorant,"
+        "kjv": "And the pelican, and the gier eagle, and the cormorant,",
+        "ron": "Pelicanul, porfirionul şi corbul de mare,"
       }
     },
     {
@@ -946,7 +963,8 @@
       ],
       "translations": {
         "lxx": "and the pelican, and the diver and the like to it, and the red-bill and the bat.",
-        "kjv": "And the stork, and the heron after her kind, and the lapwing, and the bat."
+        "kjv": "And the stork, and the heron after her kind, and the lapwing, and the bat.",
+        "ron": "Cocostârcul, pupăza cu soiurile ei şi liliacul."
       }
     },
     {
@@ -997,7 +1015,8 @@
       ],
       "translations": {
         "lxx": "All winged animals that creep are unclean to you; ye shall not eat of them.",
-        "kjv": "And every creeping thing that flieth is unclean unto you: they shall not be eaten."
+        "kjv": "And every creeping thing that flieth is unclean unto you: they shall not be eaten.",
+        "ron": "Toate înaripatele târâtoare sunt necurate pentru voi; să nu le mâncaţi."
       }
     },
     {
@@ -1028,7 +1047,8 @@
       ],
       "translations": {
         "lxx": "Ye shall eat every clean bird.",
-        "kjv": "But of all clean fowls ye may eat."
+        "kjv": "But of all clean fowls ye may eat.",
+        "ron": "Orice pasăre curată s-o mâncaţi."
       }
     },
     {
@@ -1144,7 +1164,8 @@
       ],
       "translations": {
         "lxx": "Ye shall eat nothing that dies of itself; it shall be given to the sojourner in thy cities and he shall eat it, or thou shalt sell it to a stranger, because thou art a holy people to the Lord thy God. Thou shalt not boil a lamb in his mother's milk.",
-        "kjv": "Ye shall not eat of anything that dieth of itself: thou shalt give it unto the stranger that is in thy gates, that he may eat it; or thou mayest sell it unto an alien: for thou art an holy people unto the LORD thy God. Thou shalt not seethe a kid in his mother’s milk."
+        "kjv": "Ye shall not eat of anything that dieth of itself: thou shalt give it unto the stranger that is in thy gates, that he may eat it; or thou mayest sell it unto an alien: for thou art an holy people unto the LORD thy God. Thou shalt not seethe a kid in his mother’s milk.",
+        "ron": "Să nu mâncaţi nici o mortăciune, ci s-o dai străinului de alt neam ce se va întâmpla să locuiască în casa ta; acela s-o mănânce sau să i-o vinzi, căci tu eşti poporul sfânt al Domnului Dumnezeului tău. Să nu fierbi iedul în laptele mamei sale."
       }
     },
     {
@@ -1205,7 +1226,8 @@
       ],
       "translations": {
         "lxx": "Thou shalt tithe a tenth of all the produce of thy seed, the fruit of thy field year by year.",
-        "kjv": "Thou shalt truly tithe all the increase of thy seed, that the field bringeth forth year by year."
+        "kjv": "Thou shalt truly tithe all the increase of thy seed, that the field bringeth forth year by year.",
+        "ron": "Să osebeşti zeciuială din toate veniturile semănăturilor tale, care-ţi vin din ţarina ta în. fiecare an,"
       }
     },
     {
@@ -1361,7 +1383,8 @@
       ],
       "translations": {
         "lxx": "And thou shalt eat it in the place which the Lord thy God shall choose to have his name called there; ye shall bring the tithe of thy corn and of thy wine, and of thine oil, the first-born of thy herd and of thy flock, that thou mayest learn to fear the Lord thy God always.",
-        "kjv": "And thou shalt eat before the LORD thy God, in the place which he shall choose to place his name there, the tithe of thy corn, of thy wine, and of thine oil, and the firstlings of thy herds and of thy flocks; that thou mayest learn to fear the LORD thy God always."
+        "kjv": "And thou shalt eat before the LORD thy God, in the place which he shall choose to place his name there, the tithe of thy corn, of thy wine, and of thine oil, and the firstlings of thy herds and of thy flocks; that thou mayest learn to fear the LORD thy God always.",
+        "ron": "Şi să mănânci înaintea Domnului Dumnezeului tău, la locul ce-l va alege El, ca să-I fie numele acolo; adu zeciuială din pâinea ta, din vinul tău, din untdelemnul tău şi pe întâii născuţi ai vitelor tale mari şi ai vitelor tale mărunte, ca să te înveţi a te teme de Domnul Dumnezeul tău în toate zilele."
       }
     },
     {
@@ -1482,7 +1505,8 @@
       ],
       "translations": {
         "lxx": "And if the journey be too far for thee, and thou art not able to bring them, because the place is far from thee which the Lord thy God shall choose to have his name called there, because the Lord thy God will bless thee;",
-        "kjv": "And if the way be too long for thee, so that thou art not able to carry it; or if the place be too far from thee, which the LORD thy God shall choose to set his name there, when the LORD thy God hath blessed thee:"
+        "kjv": "And if the way be too long for thee, so that thou art not able to carry it; or if the place be too far from thee, which the LORD thy God shall choose to set his name there, when the LORD thy God hath blessed thee:",
+        "ron": "Iar de va fi pentru tine drumul lung, încât să nu poţi aduce acestea, pentru că este departe de tine locul pe care l-a ales Domnul Dumnezeul tău, ca să-şi pună acolo numele Său, şi Domnul Dumnezeul tău te-a binecuvântat,"
       }
     },
     {
@@ -1548,7 +1572,8 @@
       ],
       "translations": {
         "lxx": "then thou shalt sell them for money, and thou shalt take the money in thy hands, and thou shalt go to the place which the Lord thy God shall choose.",
-        "kjv": "Then shalt thou turn it into money, and bind up the money in thine hand, and shalt go unto the place which the LORD thy God shall choose:"
+        "kjv": "Then shalt thou turn it into money, and bind up the money in thine hand, and shalt go unto the place which the LORD thy God shall choose:",
+        "ron": "Atunci schimbă acestea pe argint şi ia argintul în mâna ta şi vino la locul pe care 1-a ales Domnul Dumnezeul tău;"
       }
     },
     {
@@ -1684,7 +1709,8 @@
       ],
       "translations": {
         "lxx": "And thou shalt give the money for whatsoever thy soul shall desire, for oxen or for sheep, or for wine, or thou shalt lay it out on strong drink, or on whatsoever thy soul may desire, and thou shalt eat there before the Lord thy God, and thou shalt rejoice and thy house,",
-        "kjv": "And thou shalt bestow that money for whatsoever thy soul lusteth after, for oxen, or for sheep, or for wine, or for strong drink, or for whatsoever thy soul desireth: and thou shalt eat there before the LORD thy God, and thou shalt rejoice, thou, and thine household,"
+        "kjv": "And thou shalt bestow that money for whatsoever thy soul lusteth after, for oxen, or for sheep, or for wine, or for strong drink, or for whatsoever thy soul desireth: and thou shalt eat there before the LORD thy God, and thou shalt rejoice, thou, and thine household,",
+        "ron": "Apoi cumpără pe argintul acesta tot ce doreşte sufletul tău: boi, oi, vin, sicheră şi orice îţi pofteşte sufletul tău, şi mănâncă acolo înaintea Domnului Dumnezeului tău şi te veseleşte, tu şi familia ta."
       }
     },
     {
@@ -1735,7 +1761,8 @@
       ],
       "translations": {
         "lxx": "and the Levite that is in thy cities, because he has not a portion or inheritance with thee.",
-        "kjv": "And the Levite that is within thy gates; thou shalt not forsake him; for he hath no part nor inheritance with thee."
+        "kjv": "And the Levite that is within thy gates; thou shalt not forsake him; for he hath no part nor inheritance with thee.",
+        "ron": "Dar pe levitul care este în locaşurile tale să nu-l părăseşti, căci el nu are parte şi moştenire cu tine."
       }
     },
     {
@@ -1796,7 +1823,8 @@
       ],
       "translations": {
         "lxx": "After three years thou shalt bring out all the tithes of thy fruits, in that year thou shalt lay it up in thy cities.",
-        "kjv": "At the end of three years thou shalt bring forth all the tithe of thine increase the same year, and shalt lay it up within thy gates:"
+        "kjv": "At the end of three years thou shalt bring forth all the tithe of thine increase the same year, and shalt lay it up within thy gates:",
+        "ron": "Iar după trecerea a trei ani, ia toate zeciuielile veniturilor tale din anul acela şi le pune în locaşurile tale;"
       }
     },
     {
@@ -1932,7 +1960,8 @@
       ],
       "translations": {
         "lxx": "And the Levite shall come, because he has no part or lot with thee, and the stranger, and the orphan, and the widow which is in thy cities; and they shall eat and be filled, that the Lord thy God may bless thee in all the works which thou shalt do.",
-        "kjv": "And the Levite, (because he hath no part nor inheritance with thee,) and the stranger, and the fatherless, and the widow, which are within thy gates, shall come, and shall eat and be satisfied; that the LORD thy God may bless thee in all the work of thine hand which thou doest."
+        "kjv": "And the Levite, (because he hath no part nor inheritance with thee,) and the stranger, and the fatherless, and the widow, which are within thy gates, shall come, and shall eat and be satisfied; that the LORD thy God may bless thee in all the work of thine hand which thou doest.",
+        "ron": "Şi să vină levitul, căci el nu are parte şi moştenire cu tine, şi străinul şi orfanul şi văduva care se află în sălaşurile tale şi să mănânce şi să se sature, ca să te binecuvânteze Domnul Dumnezeul tău în toate lucrurile mâinilor tale, pe care le vei face tu\"."
       }
     }
   ],

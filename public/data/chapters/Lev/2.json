@@ -100,7 +100,8 @@
       ],
       "translations": {
         "lxx": "And if a soul bring a gift, a sacrifice to the Lord, his gift shall be fine flour; and he shall pour oil upon it, and shall put frankincense on it: it is a sacrifice.",
-        "kjv": "And when any will offer a meat offering unto the LORD, his offering shall be of fine flour; and he shall pour oil upon it, and put frankincense thereon:"
+        "kjv": "And when any will offer a meat offering unto the LORD, his offering shall be of fine flour; and he shall pour oil upon it, and put frankincense thereon:",
+        "ron": "\"Dacă cineva voieşte să jertfească Domnului prinos de pâine, să aducă făină bună de grâu, să toarne peste ea untdelemn şi să pună pe ea tămâie;"
       }
     },
     {
@@ -231,7 +232,8 @@
       ],
       "translations": {
         "lxx": "And he shall bring it to the priests the sons of Aaron: and having taken from it a handful of the fine flour with the oil, and all its frankincense, then the priest shall put the memorial of it on the altar: it is a sacrifice, an odour of sweet savour to the Lord.",
-        "kjv": "And he shall bring it to Aaron’s sons the priests: and he shall take thereout his handful of the flour thereof, and of the oil thereof, with all the frankincense thereof; and the priest shall burn the memorial of it upon the altar, to be an offering made by fire, of a sweet savour unto the LORD:"
+        "kjv": "And he shall bring it to Aaron’s sons the priests: and he shall take thereout his handful of the flour thereof, and of the oil thereof, with all the frankincense thereof; and the priest shall burn the memorial of it upon the altar, to be an offering made by fire, of a sweet savour unto the LORD:",
+        "ron": "Apoi s-o aducă preoţilor, fiilor lui Aaron, iar unul din ei să ia o mână plină de făină, cu untdelemnul şi cu toată tămâia şi s-o ardă pe jertfelnic spre pomenire, ca jertfă, mireasmă plăcută Domnului."
       }
     },
     {
@@ -287,7 +289,8 @@
       ],
       "translations": {
         "lxx": "And the remainder of the sacrifice shall be for Aaron and his sons, a most holy portion from the sacrifices of the Lord.",
-        "kjv": "And the remnant of the meat offering shall be Aaron’s and his sons’: it is a thing most holy of the offerings of the LORD made by fire."
+        "kjv": "And the remnant of the meat offering shall be Aaron’s and his sons’: it is a thing most holy of the offerings of the LORD made by fire.",
+        "ron": "Iar rămăşiţa din prinosul de pâine va fi a lui Aaron şi a fiilor lui; aceasta e sfinţenie mare din jertfele Domnului."
       }
     },
     {
@@ -373,7 +376,8 @@
       ],
       "translations": {
         "lxx": "And if he bring as a gift a sacrifice baked from the oven, a gift to the Lord of fine flour, he shall bring unleavened bread kneaded with oil, and unleavened cakes anointed with oil.",
-        "kjv": "And if thou bring an oblation of a meat offering baken in the oven, it shall be unleavened cakes of fine flour mingled with oil, or unleavened wafers anointed with oil."
+        "kjv": "And if thou bring an oblation of a meat offering baken in the oven, it shall be unleavened cakes of fine flour mingled with oil, or unleavened wafers anointed with oil.",
+        "ron": "Dacă însă vrei să aduci jertfa prinosului de pâine din aluaturi coapte în cuptor, să aduci pâini de făină bună de grâu, nedospite, frământate cu untdelemn, şi turte nedospite, unse cu untdelemn."
       }
     },
     {
@@ -429,7 +433,8 @@
       ],
       "translations": {
         "lxx": "And if thy gift be a sacrifice from a pan, it is fine flour mingled with oil, unleavened offerings.",
-        "kjv": "And if thy oblation be a meat offering baken in a pan, it shall be of fine flour unleavened, mingled with oil."
+        "kjv": "And if thy oblation be a meat offering baken in a pan, it shall be of fine flour unleavened, mingled with oil.",
+        "ron": "Dacă jertfa ta este prinos de pâine copt în tigaie, să fie de făină bună de grâu, frământată cu untdelemn şi nedospită."
       }
     },
     {
@@ -480,7 +485,8 @@
       ],
       "translations": {
         "lxx": "And thou shalt break them into fragments and pour oil upon them: it is a sacrifice to the Lord.",
-        "kjv": "Thou shalt part it in pieces, and pour oil thereon: it is a meat offering."
+        "kjv": "Thou shalt part it in pieces, and pour oil thereon: it is a meat offering.",
+        "ron": "Să-l rupi bucăţi şi să torni peste el untdelemn; acesta este prinos de pâine, adus Domnului."
       }
     },
     {
@@ -526,7 +532,8 @@
       ],
       "translations": {
         "lxx": "And if thy gift be a sacrifice from the hearth, it shall be made of fine flour with oil.",
-        "kjv": "And if thy oblation be a meat offering baken in the fryingpan, it shall be made of fine flour with oil."
+        "kjv": "And if thy oblation be a meat offering baken in the fryingpan, it shall be made of fine flour with oil.",
+        "ron": "Dacă jertfa ta este prinos de pâine gătit în oală, să se facă de făină bună de grâu cu untdelemn."
       }
     },
     {
@@ -582,7 +589,8 @@
       ],
       "translations": {
         "lxx": "And he shall offer the sacrifice which he shall make of these to the Lord, and shall bring it to the priest.",
-        "kjv": "And thou shalt bring the meat offering that is made of these things unto the LORD: and when it is presented unto the priest, he shall bring it unto the altar."
+        "kjv": "And thou shalt bring the meat offering that is made of these things unto the LORD: and when it is presented unto the priest, he shall bring it unto the altar.",
+        "ron": "Prinosul Domnului, gătit aşa, să se aducă şi să se încredinţeze preotului, iar acesta să-l ducă la jertfelnic."
       }
     },
     {
@@ -673,7 +681,8 @@
       ],
       "translations": {
         "lxx": "And the priest shall approach the altar, and shall take away from the sacrifice a memorial of it, and the priest shall place it on the altar: a burnt offering, a smell of sweet savour to the Lord.",
-        "kjv": "And the priest shall take from the meat offering a memorial thereof, and shall burn it upon the altar: it is an offering made by fire, of a sweet savour unto the LORD."
+        "kjv": "And the priest shall take from the meat offering a memorial thereof, and shall burn it upon the altar: it is an offering made by fire, of a sweet savour unto the LORD.",
+        "ron": "Apoi să ia preotul din jertfă o parte spre pomenire şi s-o ardă pe jertfelnic, ca ardere, ca mireasmă plăcută Domnului;"
       }
     },
     {
@@ -724,7 +733,8 @@
       ],
       "translations": {
         "lxx": "And that which is left of the sacrifice shall be for Aaron and his sons, most holy from the burnt-offerings of the Lord.",
-        "kjv": "And that which is left of the meat offering shall be Aaron’s and his sons’: it is a thing most holy of the offerings of the LORD made by fire."
+        "kjv": "And that which is left of the meat offering shall be Aaron’s and his sons’: it is a thing most holy of the offerings of the LORD made by fire.",
+        "ron": "Iar rămăşitele prinosului de pâine vor fi pentru Aaron şi fiii lui; acestea-s sfinţenie mare din jertfele Domnului."
       }
     },
     {
@@ -810,7 +820,8 @@
       ],
       "translations": {
         "lxx": "Ye shall not leaven any sacrifice which ye shall bring to the Lord; for as to any leaven, or any honey, ye shall not bring of it to offer a gift to the Lord.",
-        "kjv": "No meat offering, which ye shall bring unto the LORD, shall be made with leaven: for ye shall burn no leaven, nor any honey, in any offering of the LORD made by fire."
+        "kjv": "No meat offering, which ye shall bring unto the LORD, shall be made with leaven: for ye shall burn no leaven, nor any honey, in any offering of the LORD made by fire.",
+        "ron": "Orice prinos de pâine, ce aduceţi Domnului, să nu-l faceţi dospit, căci nici dospitură, nici miere nu veţi arde, ca jertfă înaintea Domnului."
       }
     },
     {
@@ -886,7 +897,8 @@
       ],
       "translations": {
         "lxx": "Ye shall bring them in the way of fruits to the Lord, but they shall not be offered on the altar for a sweet-smelling savour to the Lord.",
-        "kjv": "As for the oblation of the firstfruits, ye shall offer them unto the LORD: but they shall not be burnt on the altar for a sweet savour."
+        "kjv": "As for the oblation of the firstfruits, ye shall offer them unto the LORD: but they shall not be burnt on the altar for a sweet savour.",
+        "ron": "Ca prinos de pârgă, să aduceţi şi de acestea Domnului, dar pe jertfelnic să nu le înălţaţi întru mireasmă bine-plăcută Domnului."
       }
     },
     {
@@ -967,7 +979,8 @@
       ],
       "translations": {
         "lxx": "And every gift of your sacrifice shall be seasoned with salt; omit not the salt of the covenant of the Lord from your sacrifices: on every gift of yours ye shall offer salt to the Lord your God.",
-        "kjv": "And every oblation of thy meat offering shalt thou season with salt; neither shalt thou suffer the salt of the covenant of thy God to be lacking from thy meat offering: with all thine offerings thou shalt offer salt."
+        "kjv": "And every oblation of thy meat offering shalt thou season with salt; neither shalt thou suffer the salt of the covenant of thy God to be lacking from thy meat offering: with all thine offerings thou shalt offer salt.",
+        "ron": "Toate prinoasele tale de pâine sară-le cu sare; să nu laşi jertfele tale fără sare, semnul legământului Dumnezeului tău; cu toate prinoasele tale adu Domnului Dumnezeului tău şi sare."
       }
     },
     {
@@ -1048,7 +1061,8 @@
       ],
       "translations": {
         "lxx": "And if thou wouldest offer a sacrifice of first-fruits to the Lord, it shall be new grains ground and roasted for the Lord; so shalt thou bring the sacrifice of the first-fruits.",
-        "kjv": "And if thou offer a meat offering of thy firstfruits unto the LORD, thou shalt offer for the meat offering of thy firstfruits green ears of corn dried by the fire, even corn beaten out of full ears."
+        "kjv": "And if thou offer a meat offering of thy firstfruits unto the LORD, thou shalt offer for the meat offering of thy firstfruits green ears of corn dried by the fire, even corn beaten out of full ears.",
+        "ron": "De aduci Domnului prinos de pâine din cele dintâi roade, adu ca dar din cele dintâi roade ale tale grăunţe din spice, prăjite pe foc şi pisate;"
       }
     },
     {
@@ -1099,7 +1113,8 @@
       ],
       "translations": {
         "lxx": "And thou shalt pour oil upon it, and shalt put frankincense on it: it is a sacrifice.",
-        "kjv": "And thou shalt put oil upon it, and lay frankincense thereon: it is a meat offering."
+        "kjv": "And thou shalt put oil upon it, and lay frankincense thereon: it is a meat offering.",
+        "ron": "Toarnă peste ele untdelemn şi pune pe ele tămâie; acesta este prinos de pâine."
       }
     },
     {
@@ -1170,7 +1185,8 @@
       ],
       "translations": {
         "lxx": "And the priest shall offer the memorial of it taken from the grains with the oil, and all its frankincense: it is a burnt-offering to the Lord.",
-        "kjv": "And the priest shall burn the memorial of it, part of the beaten corn thereof, and part of the oil thereof, with all the frankincense thereof: it is an offering made by fire unto the LORD."
+        "kjv": "And the priest shall burn the memorial of it, part of the beaten corn thereof, and part of the oil thereof, with all the frankincense thereof: it is an offering made by fire unto the LORD.",
+        "ron": "Preotul să ardă, spre pomenire, o parte din grăunţe şi din untdelemn cu toată tămâia; aceasta este jertfă Domnului\"."
       }
     }
   ],

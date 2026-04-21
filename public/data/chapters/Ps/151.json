@@ -6,43 +6,64 @@
       "num": 1,
       "geez": "",
       "translation": "This Psalm is a genuine one of David, though supernumerary, composed when he fought in single combat with Goliad. I was small among my brethren, and youngest in my father's house: I tended my father's sheep.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Mic eram între fraţii mei şi tânăr în casa tatălui meu; păşteam oile tatălui meu."
+      }
     },
     {
       "num": 2,
       "geez": "",
       "translation": "My hands formed a musical instrument, and my fingers tuned a psaltery.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Mâinile mele au făcut harpa şi degetele mele au întocmit psaltirea."
+      }
     },
     {
       "num": 3,
       "geez": "",
       "translation": "And who shall tell my Lord? the Lord himself, he himself hears.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Şi cine va vesti Domnului meu? Însuşi Domnul, Însuşi va auzi."
+      }
     },
     {
       "num": 4,
       "geez": "",
       "translation": "He sent forth his angel, and took me from my father's sheep, and he anointed me with the oil of his anointing.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "El a trimis pe îngerul Lui şi m-a luat de la oile tatălui meu şi m-a uns cu untdelemnul ungerii Lui."
+      }
     },
     {
       "num": 5,
       "geez": "",
       "translation": "My brothers were handsome and tall; but the Lord did not take pleasure in them.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Fraţii mei erau buni şi mari şi nu a binevoit întru dânşii Domnul."
+      }
     },
     {
       "num": 6,
       "geez": "",
       "translation": "I went forth to meet the Philistine; and he cursed me by his idols.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Ieşit-am în întâmpinarea celui de alt neam şi m-a blestemat cu idolii lui."
+      }
     },
     {
       "num": 7,
       "geez": "",
       "translation": "But I drew his own sword, and beheaded him, and removed reproach from the children of Israel.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Iar eu, smulgându-i sabia, i-am taiat capul şi am ridicat ocara de pe fii lui Israel."
+      }
     }
   ]
 }

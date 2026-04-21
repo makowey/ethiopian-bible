@@ -6,31 +6,46 @@
       "num": 1,
       "geez": "",
       "translation": "A Song of Degrees. They that trust in the Lord shall be as mount Sion: he that dwells in Jerusalem shall never be moved.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Cei ce se încred în Domnul sunt ca muntele Sionului; nu se va clătina în veac cel ce locuieşte în Ierusalim."
+      }
     },
     {
       "num": 2,
       "geez": "",
       "translation": "The mountains are round about her, and so the Lord is round about his people, from henceforth and even for ever.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Munţi sunt împrejurul lui şi Domnul împrejurul poporului Său, de acum şi până în veac."
+      }
     },
     {
       "num": 3,
       "geez": "",
       "translation": "For the Lord will not allow the rod of sinners to be upon the lot of the righteous; lest the righteous should stretch forth their hands to iniquity.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Că nu va lăsa Domnul toiagul păcătoşilor peste soarta drepţilor, ca să nu-şi întindă drepţii întru fărădelegi mâinile lor."
+      }
     },
     {
       "num": 4,
       "geez": "",
       "translation": "Do good, O Lord, to them that are good, and to them that are upright in heart.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Fă bine, Doamne, celor buni şi celor drepţi cu inima;"
+      }
     },
     {
       "num": 5,
       "geez": "",
       "translation": "But them that turn aside to crooked ways the Lord will lead away with the workers of iniquity: but peace shall be upon Israel.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Iar pe cei ce se abat pe căi nedrepte, Domnul îi va duce cu cei ce lucrează fărădelegea. Pace peste Israel!"
+      }
     }
   ]
 }

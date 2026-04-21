@@ -6,433 +6,649 @@
       "num": 1,
       "geez": "",
       "translation": "A Psalm of instruction for Asaph. Give heed, O my people, to my law: incline your ear to the words of my mouth.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Luaţi aminte, poporul meu, la legea mea, plecaţi urechile voastre spre graiurile gurii mele."
+      }
     },
     {
       "num": 2,
       "geez": "",
       "translation": "I will open my mouth in parables: I will utter dark sayings which have been from the beginning.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Deschide-voi în pilde gura mea, spune-voi cele ce au fost dintru început,"
+      }
     },
     {
       "num": 3,
       "geez": "",
       "translation": "All which we have heard and known, and our fathers have declared to us.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Câte am auzit şi am cunoscut şi câte părinţii noştri ne-au învăţat."
+      }
     },
     {
       "num": 4,
       "geez": "",
       "translation": "They were not hid from their children to a second generation; the fathers declaring the praises of the Lord, and his mighty acts, and his wonders which he wrought.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Nu s-au ascuns de la fiii lor, din neam în neam,"
+      }
     },
     {
       "num": 5,
       "geez": "",
       "translation": "And he raised up a testimony in Jacob, and appointed a law in Israel, which he commanded our fathers, to make it known to their children:",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Vestind laudele Domnului şi puterile Lui şi minunile pe care le-a făcut."
+      }
     },
     {
       "num": 6,
       "geez": "",
       "translation": "that another generation might know, even the sons which should be born; and they should arise and declare them to their children.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Şi a ridicat mărturie în Iacob şi lege a pus în Israel."
+      }
     },
     {
       "num": 7,
       "geez": "",
       "translation": "That they might set their hope on God, and not forget the works of God, but diligently seek his commandments.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Câte a poruncit părinţilor noştri ca să le arate pe ele fiilor lor, ca să le cunoască neamul ce va să vină,"
+      }
     },
     {
       "num": 8,
       "geez": "",
       "translation": "That they should not be as their fathers, a perverse and provoking generation; a generation which set not its heart aright, and its spirit was not steadfast with God.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Fiii ce se vor naşte şi se vor ridica, şi le vor vesti fiilor lor,"
+      }
     },
     {
       "num": 9,
       "geez": "",
       "translation": "The children of Ephraim, bending and shooting with the bow, turned back in the day of battle.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Ca să-şi pună în Dumnezeu nădejdea lor şi să nu uite binefacerile lui Dumnezeu şi poruncile Lui să le ţină,"
+      }
     },
     {
       "num": 10,
       "geez": "",
       "translation": "They kept not the covenant of God, and would not walk in his law.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Ca să nu fie ca părinţii lor neam îndărătnic şi răzvrătit,"
+      }
     },
     {
       "num": 11,
       "geez": "",
       "translation": "And they forgot his benefits, and his miracles which he had shewed them;",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Neam care nu şi-a îndreptat inima sa şi nu şi-a încredinţat lui Dumnezeu duhul său."
+      }
     },
     {
       "num": 12,
       "geez": "",
       "translation": "the miracles which he wrought before their fathers, in the land of Egypt, in the plain of Tanes.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Fiii lui Efraim, arcaşi înarmaţi, întors-au spatele, în zi de război."
+      }
     },
     {
       "num": 13,
       "geez": "",
       "translation": "He clave the sea, and led them through: he made the waters to stand as in a bottle.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "N-au păzit legământul lui Dumnezeu şi în legea Lui n-au v rut să umble."
+      }
     },
     {
       "num": 14,
       "geez": "",
       "translation": "And he guided them with a cloud by day, and all the night with a light of fire.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Şi au uitat facerile Lui de bine şi minunile Lui, pe care le-a arătat lor,"
+      }
     },
     {
       "num": 15,
       "geez": "",
       "translation": "He clave a rock in the wilderness, and made them drink as in a great deep.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Minunile pe care le-a făcut înaintea părinţilor lor, în pământul Egiptului, în câmpia Taneos."
+      }
     },
     {
       "num": 16,
       "geez": "",
       "translation": "And he brought water out of the rock, and caused waters to flow down as rivers.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Despicat-a marea şi i-a trecut pe ei; stătut-au apele ca un zid;"
+      }
     },
     {
       "num": 17,
       "geez": "",
       "translation": "And they sinned yet more against him; they provoked the Most High in the wilderness.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Povăţuitu-i-a pe ei cu nor ziua şi toată noaptea cu lumină de foc;"
+      }
     },
     {
       "num": 18,
       "geez": "",
       "translation": "And they tempted God in their hearts, in asking meat for the desire of their souls.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Despicat-a piatră în pustie şi i-a adăpat pe ei cu bogăţie de apă."
+      }
     },
     {
       "num": 19,
       "geez": "",
       "translation": "They spoke also against God, and said, Will God be able to prepare a table in the wilderness?",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Scos-a apă din piatră şi au curs apele ca nişte râuri."
+      }
     },
     {
       "num": 20,
       "geez": "",
       "translation": "Forasmuch as he smote the rock, and the waters flowed, and the torrents ran abundantly; will he be able also to give bread, or prepare a table for his people?",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Dar ei încă au greşit înaintea Lui, amărât-au pe Cel Preaînalt, în loc fără de apă."
+      }
     },
     {
       "num": 21,
       "geez": "",
       "translation": "Therefore the Lord heard, and was provoked: and fire was kindled in Jacob, and wrath went up against Israel.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Şi au ispitit pe Dumnezeu în inimile lor, cerând mâncare sufletelor lor."
+      }
     },
     {
       "num": 22,
       "geez": "",
       "translation": "Because they believed not in God, and trusted not in his salvation.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Şi au grăit împotriva lui Dumnezeu şi au zis: \"Va putea, oare, Dumnezeu să gătească masă în pustiu?\""
+      }
     },
     {
       "num": 23,
       "geez": "",
       "translation": "Yet he commanded the clouds from above, and opened the doors of heaven,",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "- Pentru că a lovit piatra şi au curs ape şi pâraiele s-au umplut de apă."
+      }
     },
     {
       "num": 24,
       "geez": "",
       "translation": "and rained upon them manna to eat, and gave them the bread of heaven.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Oare, va putea da şi pâine, sau va putea întinde masă poporului Său?"
+      }
     },
     {
       "num": 25,
       "geez": "",
       "translation": "Man ate angels' bread; he sent them provision to the full.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Pentru aceasta a auzit Domnul şi S-a mâniat şi foc s-a aprins peste Iacob şi mânie s-a suit peste Israel."
+      }
     },
     {
       "num": 26,
       "geez": "",
       "translation": "He removed the south wind from heaven; and by his might he brought in the south-west wind.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Căci n-au crezut în Dumnezeu, nici n-au nădăjduit în izbăvirea Lui."
+      }
     },
     {
       "num": 27,
       "geez": "",
       "translation": "And he rained upon them flesh like dust, and feathered birds like the sand of the seas.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Şi a poruncit norilor de deasupra şi uşile cerului le-a deschis"
+      }
     },
     {
       "num": 28,
       "geez": "",
       "translation": "And they fell into the midst of their camp, round about their tents.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Şi a plouat peste ei mană de mâncare şi pâine cerească le-a dat lor."
+      }
     },
     {
       "num": 29,
       "geez": "",
       "translation": "So they ate, and were completely filled; and he gave them their desire.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Pâine îngerească a mâncat omul; bucate le-a trimis lor din destul."
+      }
     },
     {
       "num": 30,
       "geez": "",
       "translation": "They were not disappointed of their desire: but when their food was yet in their mouth,",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Poruncit-a El, din cer, vânt dinspre răsărit şi a adus cu puterea Lui vânt dinspre miazăzi."
+      }
     },
     {
       "num": 31,
       "geez": "",
       "translation": "then the indignation of God rose up against them, and slew the fattest of them, and overthrew the choice men of Israel.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Şi a plouat peste ei ca pulberea cărnuri şi ca nisipul mării păsări zburătoare."
+      }
     },
     {
       "num": 32,
       "geez": "",
       "translation": "In the midst of all this they sinned yet more, and believed not his miracles.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Şi au căzut în mijlocul taberei lor, împrejurul corturilor lor."
+      }
     },
     {
       "num": 33,
       "geez": "",
       "translation": "And their days were consumed in vanity, and their years with anxiety.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Şi au mâncat şi s-au săturat foarte şi pofta lor şi-au împlinit-o."
+      }
     },
     {
       "num": 34,
       "geez": "",
       "translation": "When he slew them, they sought him: and they returned and called betimes upon God.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Nimic nu le lipsea din cele ce pofteau şi mâncarea le era încă în gura lor,"
+      }
     },
     {
       "num": 35,
       "geez": "",
       "translation": "And they remembered that God was their helper, and the most high God was their redeemer.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Când mânia lui Dumnezeu s-a ridicat peste ei şi a ucis pe cei sătui ai lor şi pe cei aleşi ai lui Israel i-a doborât."
+      }
     },
     {
       "num": 36,
       "geez": "",
       "translation": "Yet they loved him only with their mouth, and lied to him with their tongue.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Cu toate acestea încă au mai păcătuit şi n-au crezut în minunile Lui."
+      }
     },
     {
       "num": 37,
       "geez": "",
       "translation": "For their heart was not right with him, neither were they steadfast in his covenant.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Şi s-au stins în deşertăciune zilele lor şi anii lor degrabă."
+      }
     },
     {
       "num": 38,
       "geez": "",
       "translation": "But he is compassionate, and will forgive their sins, and will not destroy them: yea, he will frequently turn away his wrath, and will not kindle all his anger.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Când îi ucidea pe ei, Îl căutau şi se întorceau şi reveneau la Dumnezeu."
+      }
     },
     {
       "num": 39,
       "geez": "",
       "translation": "And he remembered that they are flesh; a wind that passes away, and returns not.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Şi şi-au adus aminte că Dumnezeu este ajutorul lor şi Dumnezeul Cel Preaînalt este izbăvitorul lor."
+      }
     },
     {
       "num": 40,
       "geez": "",
       "translation": "How often did they provoke him in the wilderness, and anger him in a dry land!",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Dar L-au înşelat pe El, cu gura lor şi cu limba lor L-au minţit."
+      }
     },
     {
       "num": 41,
       "geez": "",
       "translation": "Yea, they turned back, and tempted God, and provoked the Holy One of Israel.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "În inima lor n-au fost drepţi cu El, nici n-au crezut în legământul Lui."
+      }
     },
     {
       "num": 42,
       "geez": "",
       "translation": "They remembered not his hand, the day in which he delivered them from the hand of the oppressor.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Iar El este îndurător, va curăţi păcatele şi nu-i va nimici."
+      }
     },
     {
       "num": 43,
       "geez": "",
       "translation": "How he had wrought his signs in Egypt, and his wonders in the field of Tanes:",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Îşi va întoarce de multe ori mânia Lui şi nu va aprinde toată urgia Lui."
+      }
     },
     {
       "num": 44,
       "geez": "",
       "translation": "and had changed their rivers into blood; and their streams, that they should not drink.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Şi-a adus aminte că trup sunt ei, suflare ce trece şi nu se mai întoarce."
+      }
     },
     {
       "num": 45,
       "geez": "",
       "translation": "He sent against them the dog-fly, and it devoured them; and the frog, and it spoiled them.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "De câte ori L-au amărât în pustiu, L-au mâniat în pământ fără de apă?"
+      }
     },
     {
       "num": 46,
       "geez": "",
       "translation": "And he gave their fruit to the canker worm, and their labours to the locust.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Şi s-au întors şi au ispitit pe Dumnezeu şi pe Sfântul lui Israel L-au întărâtat."
+      }
     },
     {
       "num": 47,
       "geez": "",
       "translation": "He killed their vines with hail, and their sycamores with frost.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Nu şi-au adus aminte de braţul Lui, de ziua în care i-a izbăvit pe ei din mâna asupritorului."
+      }
     },
     {
       "num": 48,
       "geez": "",
       "translation": "And he gave up their cattle to hail, and their substance to the fire.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Că a făcut în Egipt semnele Lui şi minunile Lui în câmpia Taneos:"
+      }
     },
     {
       "num": 49,
       "geez": "",
       "translation": "He sent out against them the fury of his anger, wrath, and indignation, and affliction, a message by evil angels.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "El a prefăcut în sânge râurile lor şi apele lor, ca să nu bea."
+      }
     },
     {
       "num": 50,
       "geez": "",
       "translation": "He made a way for his wrath; he spared not their souls from death, but consigned their cattle to death;",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "El a trimis asupra lor tăuni şi i-a mâncat pe ei; şi broaşte şi i-a prăpădit pe ei."
+      }
     },
     {
       "num": 51,
       "geez": "",
       "translation": "and smote every first-born in the land of Egypt; the first-fruits of their labours in the tents of Cham.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Dat-a stricăciunii rodul lor şi ostenelile lor, lăcustelor."
+      }
     },
     {
       "num": 52,
       "geez": "",
       "translation": "And he removed his people like sheep; he led them as a flock in the wilderness.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Bătut-a cu grindină via lor şi duzii lor cu piatră."
+      }
     },
     {
       "num": 53,
       "geez": "",
       "translation": "And he guided them with hope, and they feared not: but the sea covered their enemies.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Dat-a grindinii dobitoacele lor şi averea lor focului."
+      }
     },
     {
       "num": 54,
       "geez": "",
       "translation": "And he brought them in to the mountain of his sanctuary, this mountain which his right hand had purchased.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Trimis-a asupra lor urgia mâniei Lui; mânie, urgie şi necaz trimis-a prin îngeri nimicitori."
+      }
     },
     {
       "num": 55,
       "geez": "",
       "translation": "And he cast out the nations from before them, and made them to inherit by a line of inheritance, and made the tribes of Israel to dwell in their tents.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Făcut-a cale mâniei Lui; n-a cruţat de moarte sufletele lor şi dobitoacele lor morţii le-a dat."
+      }
     },
     {
       "num": 56,
       "geez": "",
       "translation": "Yet they tempted and provoked the most high God, and kept not his testimonies.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Lovit-a pe toţi cei întâi-născuţi din Egipt, pârga ostenelilor lor, în locaşurile lui Ham."
+      }
     },
     {
       "num": 57,
       "geez": "",
       "translation": "And they turned back, and broke covenant, even as also their fathers: they became like a crooked bow.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Ridicat-a ca pe nişte oi pe poporul Său şi i-ţa dus pe ei, ca pe o turmă, în pustiu."
+      }
     },
     {
       "num": 58,
       "geez": "",
       "translation": "And they provoked him with their high places, and moved him to jealousy with their graven images.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Povăţuitu-i-a pe ei cu nădejde şi nu s-au înfricoşat şi pe vrăjmaşii lor i-a acoperit marea."
+      }
     },
     {
       "num": 59,
       "geez": "",
       "translation": "God heard and lightly regarded them, and greatly despised Israel.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Dusu-i-a pe ei la hotarul sfinţeniei Lui, muntele pe care l-a dobândit dreapta Lui."
+      }
     },
     {
       "num": 60,
       "geez": "",
       "translation": "And he rejected the tabernacle of Selom, his tent where he dwelt among men.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Izgonit-a dinaintea lor neamuri şi le-a dat lor prin sorţi pământul de moştenire;"
+      }
     },
     {
       "num": 61,
       "geez": "",
       "translation": "And he gave their strength into captivity, and their beauty into the enemy's hand.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Şi a aşezat în corturile lor seminţiile lui Israel."
+      }
     },
     {
       "num": 62,
       "geez": "",
       "translation": "And he gave his people to the sword; and disdained his inheritance.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Dar ei au ispitit şi au amărât pe Dumnezeul Cel Preaînalt şi poruncile Lui nu le-au păzit."
+      }
     },
     {
       "num": 63,
       "geez": "",
       "translation": "Fire devoured their young men; and their virgins mourned not.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Şi s-au întors şi au călcat legământul ca şi părinţii lor, întorsu-s-au ca un arc strâmb."
+      }
     },
     {
       "num": 64,
       "geez": "",
       "translation": "Their priests fell by the sword; and their widows shall not be wept for.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Şi L-au mâniat pe El cu înălţimile lor şi cu idolii lor L-au întărâtat pe El."
+      }
     },
     {
       "num": 65,
       "geez": "",
       "translation": "So the Lord awaked as one out of sleep, and as a mighty man who has been heated with wine.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Auzit-a Dumnezeu şi S-a mâniat şi a urgisit foarte pe Israel."
+      }
     },
     {
       "num": 66,
       "geez": "",
       "translation": "And he smote his enemies in the hinder parts: he brought on them a perpetual reproach.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "A lepădat cortul Său din Şilo, locaşul Lui, în care a locuit printre oameni."
+      }
     },
     {
       "num": 67,
       "geez": "",
       "translation": "And he rejected the tabernacle of Joseph, and chose not the tribe of Ephraim;",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Şi a robit tăria lor şi frumuseţea lor a dat-o în mâinile vrăjmaşului."
+      }
     },
     {
       "num": 68,
       "geez": "",
       "translation": "but chose the tribe of Juda, the mount Sion which he loved.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Şi a dat sabiei pe poporul Său şi de moştenirea Lui n-a ţinut seama."
+      }
     },
     {
       "num": 69,
       "geez": "",
       "translation": "And he built his sanctuary as the place of unicorns; he founded it for ever on the earth.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Pe tinerii lor i-a mistuit focul şi fecioarele lor n-au fost înconjurate cu cinste."
+      }
     },
     {
       "num": 70,
       "geez": "",
       "translation": "He chose David also his servant, and took him up from the flocks of sheep.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Preoţii lor de sabie au căzut şi văduvele lor nu vor plânge."
+      }
     },
     {
       "num": 71,
       "geez": "",
       "translation": "He took him from following the ewes great with young, to be the shepherd of Jacob his servant, and Israel his inheritance.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Şi S-a deşteptat Domnul ca cel ce doarme, ca un viteaz ameţit de vin,"
+      }
     },
     {
       "num": 72,
       "geez": "",
       "translation": "So he tended them in the innocency of his heart; and guided them by the skilfulness of his hands.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Şi a lovit din spate pe vrăjmaşii Săi; ocară veşnică le-a dat lor."
+      }
     }
   ]
 }

@@ -115,7 +115,8 @@
       ],
       "translations": {
         "lxx": "And if thou shouldest go forth to war against thine enemies, and shouldest see horse, and rider, and a people more numerous than thyself; thou shalt not be afraid of them, for the Lord thy God is with thee, who brought thee up out of the land of Egypt.",
-        "kjv": "When thou goest out to battle against thine enemies, and seest horses, and chariots, and a people more than thou, be not afraid of them: for the LORD thy God is with thee, which brought thee up out of the land of Egypt."
+        "kjv": "When thou goest out to battle against thine enemies, and seest horses, and chariots, and a people more than thou, be not afraid of them: for the LORD thy God is with thee, which brought thee up out of the land of Egypt.",
+        "ron": "\"Când vei ieşi la război împotriva duşmanului tău şi vei vedea cai, căruţe şi oameni mai mulţi decât ai tu, să nu te temi de ei, căci cu tine este Domnul Dumnezeul tău, Care te-a scos din pământul Egiptului."
       }
     },
     {
@@ -166,7 +167,8 @@
       ],
       "translations": {
         "lxx": "And it shall come to pass whenever thou shalt draw nigh to battle, that the priest shall draw nigh and speak to the people, and shall say to them,",
-        "kjv": "And it shall be, when ye are come nigh unto the battle, that the priest shall approach and speak unto the people,"
+        "kjv": "And it shall be, when ye are come nigh unto the battle, that the priest shall approach and speak unto the people,",
+        "ron": "Iar când veţi fi aproape de luptă, să vină preotul şi să vorbească poporului şi să-i spună:"
       }
     },
     {
@@ -257,7 +259,8 @@
       ],
       "translations": {
         "lxx": "Hear, O Israel; ye are going this day to battle against your enemies: let not your heart faint, fear not, neither be confounded, neither turn aside from their face.",
-        "kjv": "And shall say unto them, Hear, O Israel, ye approach this day unto battle against your enemies: let not your hearts faint, fear not, and do not tremble, neither be ye terrified because of them;"
+        "kjv": "And shall say unto them, Hear, O Israel, ye approach this day unto battle against your enemies: let not your hearts faint, fear not, and do not tremble, neither be ye terrified because of them;",
+        "ron": "Ascultă, Israele, voi astăzi intraţi în luptă cu duşmanii voştri; să nu slăbească inima voastră, nu vă temeţi, nu vă tulburaţi, nici nu vă înspăimântaţi de ei."
       }
     },
     {
@@ -328,7 +331,8 @@
       ],
       "translations": {
         "lxx": "For it is the Lord your God who advances with you, to fight with you against your enemies, and to save you.",
-        "kjv": "For the LORD your God is he that goeth with you, to fight for you against your enemies, to save you."
+        "kjv": "For the LORD your God is he that goeth with you, to fight for you against your enemies, to save you.",
+        "ron": "Că Domnul Dumnezeul vostru merge cu voi, ca să se lupte pentru voi cu duşmanii voştri şi să vă izbăvească."
       }
     },
     {
@@ -459,7 +463,8 @@
       ],
       "translations": {
         "lxx": "And the scribes shall speak to the people, saying, What man is he that has built a new house, and has not dedicated it? let him go and return to his house, lest he die in the war, and another man dedicate it.",
-        "kjv": "And the officers shall speak unto the people, saying, What man is there that hath built a new house, and hath not dedicated it? let him go and return to his house, lest he die in the battle, and another man dedicate it."
+        "kjv": "And the officers shall speak unto the people, saying, What man is there that hath built a new house, and hath not dedicated it? let him go and return to his house, lest he die in the battle, and another man dedicate it.",
+        "ron": "Căpeteniile oştirii încă să grăiască poporului şi să zică: Cel ce şi-a zidit casă nouă şi n-a sfinţit-o, acela să iasă şi să se întoarcă la casa sa, ca să nu moară în bătălie şi să nu i-o sfinţească altul."
       }
     },
     {
@@ -565,7 +570,8 @@
       ],
       "translations": {
         "lxx": "And what man is he that has planted a vineyard, and not been made merry with it? let him go and return to his house, lest he die in the battle, and another man be made merry with it.",
-        "kjv": "And what man is he that hath planted a vineyard, and hath not yet eaten of it? let him also go and return unto his house, lest he die in the battle, and another man eat of it."
+        "kjv": "And what man is he that hath planted a vineyard, and hath not yet eaten of it? let him also go and return unto his house, lest he die in the battle, and another man eat of it.",
+        "ron": "Cel ce şi-a sădit vie şi n-a mâncat din ea, acela să iasă şi să se întoarcă la casa sa, ca să nu moară în bătălie şi ca să nu se folosească altul de ea."
       }
     },
     {
@@ -656,7 +662,8 @@
       ],
       "translations": {
         "lxx": "And what man is he that has betrothed a wife, and has not taken her? let him go and return to his house, lest he die in the battle, and another man take her.",
-        "kjv": "And what man is there that hath betrothed a wife, and hath not taken her? let him go and return unto his house, lest he die in the battle, and another man take her."
+        "kjv": "And what man is there that hath betrothed a wife, and hath not taken her? let him go and return unto his house, lest he die in the battle, and another man take her.",
+        "ron": "Cel ce s-a logodit cu femeie şi n-a luat-o, acela să iasă şi să se întoarcă la casa sa, ca să nu moară în bătălie şi ca să nu o ia altul."
       }
     },
     {
@@ -762,7 +769,8 @@
       ],
       "translations": {
         "lxx": "And the scribes shall speak further to the people, and say, What man is he that fears and is cowardly in his heart? Let him go and return to his house, lest he make the heart of his brother fail, as his own.",
-        "kjv": "And the officers shall speak further unto the people, and they shall say, What man is there that is fearful and fainthearted? let him go and return unto his house, lest his brethren’s heart faint as well as his heart."
+        "kjv": "And the officers shall speak further unto the people, and they shall say, What man is there that is fearful and fainthearted? let him go and return unto his house, lest his brethren’s heart faint as well as his heart.",
+        "ron": "Ba căpeteniile oştirii să mai spună poporului şi să zică: Cine este fricos şi puţin la suflet, acela să iasă şi să se întoarcă acasă, ca să nu facă fricoase şi inimile fraţilor lui, cum este inima lui."
       }
     },
     {
@@ -828,7 +836,8 @@
       ],
       "translations": {
         "lxx": "And it shall come to pass when the scribes shall have ceased speaking to the people, that they shall appoint generals of the army to be leaders of the people.",
-        "kjv": "And it shall be, when the officers have made an end of speaking unto the people, that they shall make captains of the armies to lead the people."
+        "kjv": "And it shall be, when the officers have made an end of speaking unto the people, that they shall make captains of the armies to lead the people.",
+        "ron": "Şi după ce căpeteniile oştirii vor isprăvi de spus poporului toate acestea, atunci să se pună căpeteniile de război ca povăţuitori ai poporului."
       }
     },
     {
@@ -879,7 +888,8 @@
       ],
       "translations": {
         "lxx": "And if thou shalt draw nigh to a city to overcome them by war, then call them out peaceably.",
-        "kjv": "When thou comest nigh unto a city to fight against it, then proclaim peace unto it."
+        "kjv": "When thou comest nigh unto a city to fight against it, then proclaim peace unto it.",
+        "ron": "Când te vei apropia de cetate ca s-o cuprinzi, fă-i îndemnare de pace."
       }
     },
     {
@@ -970,7 +980,8 @@
       ],
       "translations": {
         "lxx": "If then they should answer peaceably to thee, and open to thee, it shall be that all the people found in it shall be tributary and subject to thee.",
-        "kjv": "And it shall be, if it make thee answer of peace, and open unto thee, then it shall be, that all the people that is found therein shall be tributaries unto thee, and they shall serve thee."
+        "kjv": "And it shall be, if it make thee answer of peace, and open unto thee, then it shall be, that all the people that is found therein shall be tributaries unto thee, and they shall serve thee.",
+        "ron": "De se va învoi să primească pacea cu tine şi-ţi va deschide porţile, atunci tot poporul ce se va găsi în ea îţi va plăti bir şi-ţi va sluji."
       }
     },
     {
@@ -1016,7 +1027,8 @@
       ],
       "translations": {
         "lxx": "But if they will not hearken to thee, but wage war against thee, thou shalt invest it;",
-        "kjv": "And if it will make no peace with thee, but will make war against thee, then thou shalt besiege it:"
+        "kjv": "And if it will make no peace with thee, but will make war against thee, then thou shalt besiege it:",
+        "ron": "Iar de nu se va învoi cu tine la pace şi va duce război cu tine, atunci s-o înconjuri."
       }
     },
     {
@@ -1077,7 +1089,8 @@
       ],
       "translations": {
         "lxx": "until the Lord thy God shall deliver it into thy hands, and thou shalt smite every male of it with the edge of the sword:",
-        "kjv": "And when the LORD thy God hath delivered it into thine hands, thou shalt smite every male thereof with the edge of the sword:"
+        "kjv": "And when the LORD thy God hath delivered it into thine hands, thou shalt smite every male thereof with the edge of the sword:",
+        "ron": "Şi când Domnul Dumnezeul tău o va da în mâinile tale, să loveşti cu ascuţişul sabiei pe toţi cei de parte bărbătească din ea."
       }
     },
     {
@@ -1188,7 +1201,8 @@
       ],
       "translations": {
         "lxx": "except the women and the stuff: and all the cattle, and whatsoever shall be in the city, and all the plunder thou shalt take as spoil for thyself, and shalt eat all the plunder of thine enemies whom the Lord thy God gives thee.",
-        "kjv": "But the women, and the little ones, and the cattle, and all that is in the city, even all the spoil thereof, shalt thou take unto thyself; and thou shalt eat the spoil of thine enemies, which the LORD thy God hath given thee."
+        "kjv": "But the women, and the little ones, and the cattle, and all that is in the city, even all the spoil thereof, shalt thou take unto thyself; and thou shalt eat the spoil of thine enemies, which the LORD thy God hath given thee.",
+        "ron": "Numai femeile şi copiii, vitele şi tot ce este în cetate, toată prada ei să o iei pentru tine şi să te foloseşti de prada vrăjmaşilor tăi, pe care ţi i-a dat Domnul Dumnezeul tău în mână."
       }
     },
     {
@@ -1304,7 +1318,8 @@
       ],
       "translations": {
         "lxx": "Thus shalt thou do to all the cities that are very far off from thee, not being of the cities of these nations which the Lord thy God gives thee to inherit their land.",
-        "kjv": "Thus shalt thou do unto all the cities which are very far off from thee, which are not of the cities of these nations."
+        "kjv": "Thus shalt thou do unto all the cities which are very far off from thee, which are not of the cities of these nations.",
+        "ron": "Aşa să faci cu toate cetăţile care sunt foarte departe de tine şi care nu sunt din cetăţile popoarelor acestora."
       }
     },
     {
@@ -1330,7 +1345,8 @@
       ],
       "translations": {
         "lxx": "Of these ye shall not take any thing alive;",
-        "kjv": "But of the cities of these people, which the LORD thy God doth give thee for an inheritance, thou shalt save alive nothing that breatheth:"
+        "kjv": "But of the cities of these people, which the LORD thy God doth give thee for an inheritance, thou shalt save alive nothing that breatheth:",
+        "ron": "Iar în cetăţile popoarelor acestora pe care Domnul Dumnezeul tău ţi le dă în stăpânire, să nu laşi în viaţă nici un suflet;"
       }
     },
     {
@@ -1411,7 +1427,8 @@
       ],
       "translations": {
         "lxx": "but ye shall surely curse them, the Chettite, and the Amorite, and the Chananite, and the Pherezite, and the Evite, and the Jebusite, and the Gergesite; as the Lord thy God commanded thee:",
-        "kjv": "But thou shalt utterly destroy them; namely, the Hittites, and the Amorites, the Canaanites, and the Perizzites, the Hivites, and the Jebusites; as the LORD thy God hath commanded thee:"
+        "kjv": "But thou shalt utterly destroy them; namely, the Hittites, and the Amorites, the Canaanites, and the Perizzites, the Hivites, and the Jebusites; as the LORD thy God hath commanded thee:",
+        "ron": "Ci să-i dai blestemului: pe Hetei şi pe Amorei, pe Canaanei şi Ferezei, pe Hevei, pe Iebusei şi pe Gherghesei, precum ţi-a poruncit Domnul Dumnezeul tău,"
       }
     },
     {
@@ -1487,7 +1504,8 @@
       ],
       "translations": {
         "lxx": "that they may not teach you to do all their abominations, which they did to their gods, and so ye should sin before the Lord your God.",
-        "kjv": "That they teach you not to do after all their abominations, which they have done unto their gods; so should ye sin against the LORD your God."
+        "kjv": "That they teach you not to do after all their abominations, which they have done unto their gods; so should ye sin against the LORD your God.",
+        "ron": "Ca să nu vă înveţe aceia să faceţi aceleaşi urâciuni pe care le-au făcut ei pentru dumnezeii lor şi ca să nu greşiţi înaintea Domnului Dumnezeului vostru."
       }
     },
     {
@@ -1638,7 +1656,8 @@
       ],
       "translations": {
         "lxx": "And if thou shouldest besiege a city many days to prevail against it by war to take it, thou shalt not destroy its trees, by applying an iron tool to them, but thou shalt eat of it, and shalt not cut it down: Is the tree that is in the field a man, to enter before thee into the work of the siege?",
-        "kjv": "When thou shalt besiege a city a long time, in making war against it to take it, thou shalt not destroy the trees thereof by forcing an axe against them: for thou mayest eat of them, and thou shalt not cut them down (for the tree of the field is man’s life) to employ them in the siege:"
+        "kjv": "When thou shalt besiege a city a long time, in making war against it to take it, thou shalt not destroy the trees thereof by forcing an axe against them: for thou mayest eat of them, and thou shalt not cut them down (for the tree of the field is man’s life) to employ them in the siege:",
+        "ron": "De veţi ţine multă vreme înconjurată vreo cetate, ca s-o cuprinzi şi s-o iei, să nu strici pomii ei cu securea, ci să te hrăneşti din ei şi să nu-i dobori la pământ. Copacul de pe câmp este el oare om ca să se ascundă de tine după întăritură?"
       }
     },
     {
@@ -1744,7 +1763,8 @@
       ],
       "translations": {
         "lxx": "But the tree which thou knowest to be not fruit-bearing, this thou shalt destroy and cut down; and thou shalt construct a mound against the city, which makes war against thee, until it be delivered up.",
-        "kjv": "Only the trees which thou knowest that they be not trees for meat, thou shalt destroy and cut them down; and thou shalt build bulwarks against the city that maketh war with thee, until it be subdued."
+        "kjv": "Only the trees which thou knowest that they be not trees for meat, thou shalt destroy and cut them down; and thou shalt build bulwarks against the city that maketh war with thee, until it be subdued.",
+        "ron": "Iar copacii pe care-i ştii că nu-ţi aduc nimic de hrană poţi să-i strici şi să-i tai, ca să-ţi faci întărituri împotriva cetăţii care poartă cu tine război, până o vei supune\"."
       }
     }
   ],

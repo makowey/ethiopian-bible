@@ -6,55 +6,82 @@
       "num": 1,
       "geez": "",
       "translation": "Run ye about in the streets of Jerusalem, and see, and know, and seek in her broad places, if ye can find one, if there is any one that does judgment, and seeks faithfulness; and I will pardon them, saith the Lord.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "\"Cutreieraţi uliţele Ierusalimului, uitaţi-vă, cercetaţi şi căutaţi prin pieţele lui: nu cumva veţi găsi vreun om, măcar unul, care păzeşte dreptatea şi caută adevărul?"
+      }
     },
     {
       "num": 2,
       "geez": "",
       "translation": "The Lord lives, they say; do they not therefore swear falsely?",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Căci Eu aş cruţa Ierusalimul. Chiar când ei zic: \"Viu este Domnul\", ei jură mincinos."
+      }
     },
     {
       "num": 3,
       "geez": "",
       "translation": "O Lord, thine eyes are upon faithfulness: thou hast scourged them, but they have not grieved; thou hast consumed them; but they would not receive correction: they have made their faces harder than a rock; and they would not return.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "O, Doamne, ochii Tăi nu privesc ei oare la adevăr? Tu îi baţi şi ei nu simt durerea; Tu îi pierzi şi ei nu vor să ia învăţătură; şi-au făcut obrazul mai vârtos ca piatra şi nu vor să se întoarcă."
+      }
     },
     {
       "num": 4,
       "geez": "",
       "translation": "Then I said, It may be they are poor; for they are weak, for they know not the way of the Lord, or the judgment of God.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Şi mi-am zis: \"Poate că aceştia sunt nişte bieţi nenorociţi! Sunt nişte proşti, pentru că nu cunosc calea Domnului, legea Dumnezeului lor."
+      }
     },
     {
       "num": 5,
       "geez": "",
       "translation": "I will go to the rich men, and will speak to them; for they have known the way of the Lord, and the judgment of God: but, behold, with one consent they have broken the yoke, they have burst the bonds.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Voi merge deci la cei mari şi voi grăi cu aceştia, că ei ştiu calea Domnului; legea Dumnezeului lor\". Dar şi aceştia cu toţii au sfărâmat jugul şi au rupt cătuşele."
+      }
     },
     {
       "num": 6,
       "geez": "",
       "translation": "Therefore has a lion out of the forest smitten them, and a wolf has destroyed them even to their houses, and a leopard has watched against their cities: all that go forth from them shall be hunted: for they have multiplied their ungodliness, they have strengthened themselves in their revoltings.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "De aceea îi va lovi leul din pădure şi lupul din pustiu îi va răpi; leopardul le va fi păzitor cetăţilor lor; care din ei va ieşi va fi sfâşiat, că s-au înmulţit fărădelegile lor şi lepădările de credinţă au sporit."
+      }
     },
     {
       "num": 7,
       "geez": "",
       "translation": "In what way shall I forgive thee for these things? Thy sons have forsaken me, and sworn by them that are no gods: and I fed them to the full, and they committed adultery, and lodged in harlots' houses.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Cum, adică, să te iert, Ierusalime, pentru aceasta? Fiii tăi M-au părăsit şi se jură pe dumnezei care n-au fiinţă. Eu i-am săturat, iar ei au făcut desfrânare, umblând în grup prin casele desfrânatelor."
+      }
     },
     {
       "num": 8,
       "geez": "",
       "translation": "They became as wanton horses: they neighed each one after his neighbour's wife.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Ei sunt cai îngrăşaţi şi fiecare din ei nechează după femeia aproapelui său."
+      }
     },
     {
       "num": 9,
       "geez": "",
       "translation": "Shall I not visit for these things? saith the Lord: and shall not my soul be avenged on such a nation as this.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "E cu putinţă să nu pedepsesc aceasta, zice Domnul, şi Duhul Meu să nu se răzbune asupra unui popor ca acesta?"
+      }
     },
     {
       "num": 10,
@@ -66,127 +93,190 @@
       "num": 11,
       "geez": "",
       "translation": "For the house of Israel have indeed dealt treacherously against me, saith the Lord: the house of Juda also",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Căci casa lui Israel şi casa lui Iuda s-au purtat faţă de Mine cu multă necredinţă, zice Domnul."
+      }
     },
     {
       "num": 12,
       "geez": "",
       "translation": "have lied to their Lord, and they have said, These things are not so; no evils shall come upon us; and we shall not see sword or famine.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Au tăgăduit pe Domnul şi au zis: \"El nu este şi nenorocirea nu va veni asupra noastră; şi nu vom vedea nici sabie, nici foamete!"
+      }
     },
     {
       "num": 13,
       "geez": "",
       "translation": "Our prophets became wind, and the word of the Lord was not in them.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Proorocii sunt vânt şi nu este în aceştia cuvântul Domnului. De aceasta şi ei să aibă parte!\""
+      }
     },
     {
       "num": 14,
       "geez": "",
       "translation": "Therefore thus saith the Lord Almighty, Because ye have spoken this word, behold, I have made my words in thy mouth fire, and this people wood, and it shall devour them.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "De aceea, aşa zice Domnul Dumnezeul puterilor: \"Pentru că voi grăiţi asemenea vorbe, iată voi face cuvintele Mele foc în gura ta, iar pe poporul acesta îl voi face lemne ş-l va mistui focul acesta."
+      }
     },
     {
       "num": 15,
       "geez": "",
       "translation": "Behold, I will bring upon you a nation from far, O house of Israel, saith the Lord; a nation the sound of whose language one shall not understand.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Casa lui Israel, iată voi aduce asupra voastră un neam de departe, zice Domnul, un popor puternic, un popor vechi, un popor a cărui limbă tu nu o ştii şi nu vei înţelege ce grăieşte el."
+      }
     },
     {
       "num": 16,
       "geez": "",
       "translation": "They are all mighty men:",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Tolba lui e ca un mormânt deschis şi ai lui toţi sunt viteji;"
+      }
     },
     {
       "num": 17,
       "geez": "",
       "translation": "and they shall devour your harvest, and your bread; and shall devour your sons, and your daughters; and they shall devour your sheep, and your calves, and devour your vineyards, and your fig-plantations, and your olive yards: and they shall utterly destroy your strong cities, wherein ye trusted, with the sword.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "şi vor mânca aceia secerişul tău şi pâinea ta; vor mânca pe fiii tăi şi pe fiicele tale; vor mânca oile tale şi boii tăi; vor mânca strugurii tăi şi smochinele tale şi vor trece prin sabie cetăţile tale cele întărite în care tu te încrezi."
+      }
     },
     {
       "num": 18,
       "geez": "",
       "translation": "And it shall come to pass in those days, saith the Lord thy God, that I will not utterly destroy you.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Dar nici în zilele acelea nu vă voi pierde cu totul, zice Domnul."
+      }
     },
     {
       "num": 19,
       "geez": "",
       "translation": "And it shall come to pass, when ye shall say, Wherefore has the Lord our God done all these things to us? that thou shalt say to them, Because ye served strange gods in your land, so shall ye serve strangers in a land that is not yours.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Şi de veţi zice: Pentru ce ne face Domnul Dumnezeul nostru toate acestea? Atunci să ţi se răspundă: Pentru că M-aţi părăsit pe Mine şi aţi slujit la dumnezei străini, în ţara voastră, de aceea veţi sluji la dumnezei străini într-o ţară care nu este a voastră."
+      }
     },
     {
       "num": 20,
       "geez": "",
       "translation": "Proclaim these things to the house of Jacob, and let them be heard in the house of Juda.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Spuneţi aceasta în casa lui Iacov, vestiţi-o în Iuda şi ziceţi:"
+      }
     },
     {
       "num": 21,
       "geez": "",
       "translation": "Hear ye now these things, O foolish and senseless people; who have eyes, and see not; and have ears, and hear not:",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Ascultaţi acestea, popor nebun şi fără inimă! Ei au ochi şi nu văd, urechi au, dar nu aud."
+      }
     },
     {
       "num": 22,
       "geez": "",
       "translation": "will ye not be afraid of me? saith the Lord; and will ye not fear before me, who have set the sand for a bound to the sea, as a perpetual ordinance, and it shall not pass it: yea, it shall rage, but not prevail; and its waves shall roar, but not pass over it.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Au doar nu vă temeţi de Mine, zice Domnul, şi nu tremuraţi înaintea Mea? Eu am pus nisipul hotar împrejurul mării şi hotar veşnic, peste care nu se va trece. Deşi valurile ei se înfurie, nu pot să-l biruiască şi, deşi ele se aruncă, nu pot să-l treacă."
+      }
     },
     {
       "num": 23,
       "geez": "",
       "translation": "But this people has a disobedient and rebellious heart; and they have turned aside and gone back:",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Dar poporul acesta are inimă îndârjită şi răzvrătită:"
+      }
     },
     {
       "num": 24,
       "geez": "",
       "translation": "and they have not said in their heart, Let us fear now the Lord our God, who gives us the early and latter rain, according to the season of the fulfilment of the ordinance of harvest, and has preserved it for us.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Răzvrătitu-s-au şi s-au dus şi n-au zis în inima lor: \"Să ne temem de Domnul Dumnezeul nostru, Care ne dă la vreme ploaie timpurie şi târzie şi ne păstrează săptămânile hotărâte ale culesului\"."
+      }
     },
     {
       "num": 25,
       "geez": "",
       "translation": "Your transgressions have turned away these things, and your sins have removed good things from you.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Fărădelegile voastre au schimbat aceasta şi păcatele voastre au depărtat acest bine de la voi."
+      }
     },
     {
       "num": 26,
       "geez": "",
       "translation": "For among my people were found ungodly men; and they have set snares to destroy men, and have caught them.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Că se află necredincioşi prin poporul Meu, care pândesc ca prinzătorii de păsări, se ascund la pământ, pun curse şi prind pe oameni."
+      }
     },
     {
       "num": 27,
       "geez": "",
       "translation": "As a snare which has been set is full of birds, so are their houses full of deceit: therefore have they grown great, and become rich:",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Cum sunt coteţele pline de păsări, aşa sunt casele lor pline de înşelătorie;"
+      }
     },
     {
       "num": 28,
       "geez": "",
       "translation": "and they have transgressed the rule of judgment; they have not judged the cause of the orphan, nor have they judged the cause of the widow.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Prin aceasta s-au ridicat şi s-au îmbogăţit ei, s-au făcut graşi şi cu pielea lucioasă şi în rele au trecut orice măsură;"
+      }
     },
     {
       "num": 29,
       "geez": "",
       "translation": "Shall I not visit for these things? saith the Lord: and shall not my soul be avenged on such a nation as this?",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Nu fac dreptate nimănui, nici chiar orfanului, nu dau dreptate săracului şi huzuresc. E cu putinţă oare să nu pedepsesc acestea şi să nu Mă răzbun asupra unui popor ca acesta? - zice Domnul."
+      }
     },
     {
       "num": 30,
       "geez": "",
       "translation": "Shocking and horrible deeds have been done on the land;",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Lucruri înspăimântătoare se petrec în ţara aceasta:"
+      }
     },
     {
       "num": 31,
       "geez": "",
       "translation": "the prophets utter unrighteous prophecies, and the priests have clapped their hands: and my people has loved to have it thus: and what will ye do for the future?",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Proorocii profeţesc minciuni, preoţii învaţă ca şi ei, şi poporului Meu îi place aceasta. Dar la urmă ce veţi face?\""
+      }
     }
   ]
 }

@@ -6,91 +6,136 @@
       "num": 1,
       "geez": "",
       "translation": "I saw the Lord standing on the altar: and he said, Smite the mercy-seat, and the porch shall be shaken: and cut through into the heads of all; and I will slay the remnant of them with the sword: no one of them fleeing shall escape, and no one of them striving to save himself shall be delivered.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Văzut-am pe Domnul stând lângă altar şi a zis: \"Loveşte capetele stâlpilor ca să cadă tavanul, prăvăleşte-le peste capetele tuturor, iar pe cei ce vor scăpa, cu sabia îi voi omorî. Nimeni nu se va izbăvi cu fuga şi nici unul nu-şi va scăpa viaţa!"
+      }
     },
     {
       "num": 2,
       "geez": "",
       "translation": "Though they hide themselves in hell, thence shall my hand drag them forth; and though they go up to heaven, thence will I bring them down.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Dacă se vor strecura în locuinţa morţilor, de acolo mâna Mea îi va apuca, şi de se vor sui în cer, îi voi da jos de acolo;"
+      }
     },
     {
       "num": 3,
       "geez": "",
       "translation": "If they hide themselves in the top of Carmel, thence will I search them out and take them; and if they should go down from my presence into the depths of the sea, there will I command the serpent, and he shall bite them.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Dacă se vor ascunde pe vârful Carmelului şi acolo îi voi prinde şi îi voi apuca. De se vor ascunde dinaintea ochilor Mei în fundul mării, voi da poruncă şarpelui şi îi va muşca."
+      }
     },
     {
       "num": 4,
       "geez": "",
       "translation": "And if they should go into captivity before the face of their enemies, there will I command the sword, and it shall slay them: and I will set mine eyes against them for evil, and not for good.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "În robie de se vor duce înaintea vrăjmaşilor lor, şi acolo voi da poruncă şi sabia îi va ucide, căci ochii Mei Eu îi aţintesc spre rău iar nu spre bine!"
+      }
     },
     {
       "num": 5,
       "geez": "",
       "translation": "And the Lord, the Lord God Almighty, is he that takes hold of the land, and causes it to shake, and all that inhabit it shall mourn; and its destruction shall go up as a river, and shall descend as the river of Egypt.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Domnul Dumnezeu Savaot se atinge de pământ, şi el se topeşte şi toţi locuitorii sînt cuprinşi de jale. Pământul se înalţă ca Nilul şi descreşte ca fluviul Egiptului."
+      }
     },
     {
       "num": 6,
       "geez": "",
       "translation": "It is he that builds his ascent up to the sky, and establishes his promise on the earth; who calls the water of the sea, and pours it out on the face of the earth; the Lord Almighty is his name.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "El a zidit locuinţele Sale înalte în ceruri şi bolta cea de peste pământ a întemeiat-o. El cheamă apele mării şi le revarsă peste faţa a tot pământul. Domnul este numele Lui."
+      }
     },
     {
       "num": 7,
       "geez": "",
       "translation": "Are not ye to me as the sons of the Ethiopians, O children of Israel? saith the Lord. Did I not bring Israel up out of the land of Egypt, and the Philistines from Cappadocia, and the Syrians out of the deep?",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "\"Oare nu sunteţi voi, feciori ai lui Israel, pentru Mine, ca şi Cuşiţii?\", zice Domnul. \"Oare n-am scos Eu pe Israeliţi din pământul Egiptului, pe Filisteni din Caftor şi pe sirieni din Chir?\""
+      }
     },
     {
       "num": 8,
       "geez": "",
       "translation": "Behold, the eyes of the Lord God are upon the kingdom of sinners, and I will cut it off from the face of the earth; only I will not utterly cut off the house of Jacob, saith the Lord.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Iată ochii Domnului Dumnezeu privesc spre împărăţia cea păcătoasă şi Eu o voi nimici de pe faţa pământului! Dar nu voi distruge casa lui Iacov, zice Domnul!"
+      }
     },
     {
       "num": 9,
       "geez": "",
       "translation": "For I will give commandment, and sift the house of Israel among all the Gentiles, as corn is sifted in a sieve, and yet a fragment shall not in any wise fall upon the earth.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Căci iată, voi da porunci şi vă voi vântura printre toate neamurile, pe voi cei din neamul lui Israel, precum vânturi grâul la ciur, ca nici o pietricică să nu cadă pe pământ."
+      }
     },
     {
       "num": 10,
       "geez": "",
       "translation": "All the sinners of my people shall die by the sword, who say, Calamities shall certainly not draw near, nor come upon us.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "De sabie vor pieri toţi păcătoşii cei din poporul Meu, care zic: \"Prăpădul nu ne va atinge şi peste noi nu va da\"."
+      }
     },
     {
       "num": 11,
       "geez": "",
       "translation": "In that day I will raise up the tabernacle of David that is fallen, and will rebuild the ruins of it, and will set up the parts thereof that have been broken down, and will build it up as in the ancient days:",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "În ziua aceea voi ridica cortul cel căzut al lui David şi voi drege spărturile lui şi dărâmăturile le voi ridica la loc şi-l voi zidi ca în vremurile cele dintru început;"
+      }
     },
     {
       "num": 12,
       "geez": "",
       "translation": "that the remnant of men, and all the Gentiles upon whom my name is called, may earnestly seek me, saith the Lord who does all these things.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Ca astfel ei să ia în stăpânire rămăşiţa Edomului şi toate popoarele peste care s-a chemat numele Meu, zice Domnul, Care face acestea."
+      }
     },
     {
       "num": 13,
       "geez": "",
       "translation": "Behold, the days come, saith the Lord, when the harvest shall overtake the vintage, and the grapes shall ripen at seedtime; and the mountains shall drop sweet wine, and all the hills shall be planted.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Iată vin zile, zice Domnul, când cel ce ară va ajunge din urmă pe cel ce seceră, şi cel ce calcă strugurii pe cel ce seamănă. şi munţii vor picura must şi toate colinele se vor topi."
+      }
     },
     {
       "num": 14,
       "geez": "",
       "translation": "And I will turn the captivity of my people Israel, and they shall rebuild the ruined cities, and shall inhabit them; and they shall plant vineyards, and shall drink the wine from them; and they shall form gardens, and eat the fruit of them.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Şi Eu voi întoarce din robie pe poporul Meu Israel, şi ei vor zidi cetăţile cele pustiite şi le vor locui, vor sădi vii şi vor bea din vinul lor, vor face grădini şi din roadele lor vor mânca."
+      }
     },
     {
       "num": 15,
       "geez": "",
       "translation": "And I will plant them on their land, and they shall no more be plucked up from the land which I have given them, saith the Lord God Almighty.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Şi îi voi răsădi în pământul lor şi nu vor mai fi smulşi din ţara pe care le-am dat-o în stăpânire\", zice Domnul Dumnezeul tău."
+      }
     }
   ]
 }

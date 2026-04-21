@@ -6,97 +6,145 @@
       "num": 1,
       "geez": "",
       "translation": "Hear now a word: the Lord God has said; Arise, plead with the mountains, and let the hills hear thy voice.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Ascultaţi deci ce zice Domnul: \"Scoală-te! Fă judecată cu munţii, iar colinele să audă glasul tău\"."
+      }
     },
     {
       "num": 2,
       "geez": "",
       "translation": "Hear ye, O mountains, the controversy of the Lord, and ye valleys even the foundations of the earth: for the Lord has a controversy with his people, and will plead with Israel.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Ascultaţi, voi munţilor, certarea Domnului şi voi, neclintite temelii ale pământului! Că Domnul este în judecată cu poporul Său şi va grăi împotriva lui Israel."
+      }
     },
     {
       "num": 3,
       "geez": "",
       "translation": "O my people, what have I done to thee? or wherein have I grieved thee? or wherein have I troubled thee? answer me.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Poporul Meu! Ce ţi-am făcut şi cu ce te-am împovărat? Răspunde-Mi!"
+      }
     },
     {
       "num": 4,
       "geez": "",
       "translation": "For I brought thee up out of the land of Egypt, and redeemed thee out of the house of bondage, and sent before thee Moses, and Aaron, and Mariam.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Eu sunt Cel care te-am scos din ţara Egiptului şi din casa robiei te-am răscumpărat şi ţi-am trimis înainte pe Moise, pe Aaron şi pe Mariam!"
+      }
     },
     {
       "num": 5,
       "geez": "",
       "translation": "O my people, remember now, what counsel Balac king of Moab took against thee, and what Balaam the son of Beor answered him, from the reeds to Galgal; that the righteousness of the Lord might be known.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Poporul Meu! Adu-ţi aminte de sfatul lui Balac, regele Moabului, şi ce i-a răspuns lui Balaam, feciorul lui Peor - când tu ai mers de la Şitim până la Ghilgal - ca să cunoşti dreptatea lui Dumnezeu\"."
+      }
     },
     {
       "num": 6,
       "geez": "",
       "translation": "Wherewithal shall I reach the Lord, and lay hold of my God most high? shall I reach him by whole-burnt-offerings, by calves of a year old?",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "\"Cu ce mă voi înfăţişa înaintea Domnului şi mă voi pleca înaintea Dumnezeului celui Preaînalt? Înfăţişa-mă-voi cu arderi de tot, cu viţei de un an?"
+      }
     },
     {
       "num": 7,
       "geez": "",
       "translation": "Will the Lord accept thousands of rams, or ten thousands of fat goats? should I give my first-born for ungodliness, the fruit of my body for the sin of my soul?",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Dar, oare, Domnului Îi vor plăcea miile de berbeci, zecile de mii de râuri de untdelemn? Oare Îi voi da pe cel dintâi născut al meu ca preţ pentru fărădelegea mea şi rodul pântecelui meu pentru păcatul sufletului meu?\""
+      }
     },
     {
       "num": 8,
       "geez": "",
       "translation": "Has it not been told thee, O man, what is good? or what does the Lord require of thee, but to do justice, and love mercy, and be ready to walk with the Lord thy God?",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Ţi s-a arătat, omule, ceea ce este bun şi ceea ce Dumnezeu cere de la tine: dreptate, iubire şi milostivire şi cu smerenie să mergi înaintea Domnului Dumnezeului tău!"
+      }
     },
     {
       "num": 9,
       "geez": "",
       "translation": "The Lord's voice shall be proclaimed in the city, and he shall save those that fear his name: hear, O tribe; and who shall order the city?",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Glasul Domnului strigă către cetate - şi este înţelept cine se teme de numele Tău -: \"Ascultaţi, voi seminţii şi tu obşte a cetăţii!"
+      }
     },
     {
       "num": 10,
       "geez": "",
       "translation": "Is there not fire, and the house of the wicked heaping up wicked treasures, and that with the pride of unrighteousness?",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Oare voi scăpa din vedere casa celui fără de lege, comorile celui păcătos şi efa cea mică blestemată?"
+      }
     },
     {
       "num": 11,
       "geez": "",
       "translation": "Shall the wicked be justified by the balance, or deceitful weights in the bag,",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Oare voi ierta pe cel cu cântare nedrepte şi cu greutăţi înşelătoare în sac?"
+      }
     },
     {
       "num": 12,
       "geez": "",
       "translation": "whereby they have accumulated their ungodly wealth, and they that dwell in the city have uttered falsehoods, and their tongue has been exalted in their mouth?",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Că bogaţii din cetate sunt plini de silnicie şi locuitorii grăiesc cuvinte mincinoase şi limba lor este numai viclenie în gura lor."
+      }
     },
     {
       "num": 13,
       "geez": "",
       "translation": "Therefore will I begin to smite thee; I will destroy thee in thy sins.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Şi Eu am început să te bat şi să te pustiesc din pricina păcatelor tale."
+      }
     },
     {
       "num": 14,
       "geez": "",
       "translation": "Thou shalt eat, and shalt not be satisfied; and there shall be darkness upon thee; and he shall depart from thee, and thou shalt not escape; and all that shall escape shall be delivered over to the sword.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Vei mânca, dar nu te vei sătura şi foamea va roade lăuntrul tău; vei pune la o parte, dar nu vei putea scăpa nimic, şi ceea ce vei scăpa, voi trece prin ascuţişul sabiei."
+      }
     },
     {
       "num": 15,
       "geez": "",
       "translation": "Thou shalt sow, but thou shalt not reap; thou shalt press the olive, but thou shalt not anoint thyself with oil; and shalt make wine, but ye shall drink no wine: and the ordinances of my people shall be utterly abolished.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Tu vei semăna, dar nu vei secera; vei călca în teasc smochine, dar nu te vei unge cu untdelemn; vei face must, dar nu vei bea vin."
+      }
     },
     {
       "num": 16,
       "geez": "",
       "translation": "For thou hast kept the statutes of Zambri, and done all the works of the house of Achaab; and ye have walked in their ways, that I might deliver thee to utter destruction, and those that inhabit the city to hissing: and ye shall bear the reproach of nations.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Căci voi aţi luat aminte la rânduielile lui Omri şi la toate faptele casei lui Ahab şi v-aţi purtat după sfaturile lor, ca să vă dau pustiirii şi pe locuitorii tăi, batjocurii. Pentru aceasta veţi avea în sarcina voastră ocara poporului Meu!\""
+      }
     }
   ]
 }

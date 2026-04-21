@@ -6,49 +6,73 @@
       "num": 1,
       "geez": "",
       "translation": "A Song of Degrees. I lifted up mine eyes to the mountains, whence my help shall come.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Ridicat-am ochii mei la munţi, de unde va veni ajutorul meu."
+      }
     },
     {
       "num": 2,
       "geez": "",
       "translation": "My help shall come from the Lord, who made the heaven and the earth.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Ajutorul meu de la Domnul, Cel ce a făcut cerul şi pământul."
+      }
     },
     {
       "num": 3,
       "geez": "",
       "translation": "Let not thy foot be moved; and let not thy keeper slumber.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Nu va lăsa să se clatine piciorul tău, nici nu va dormita Cel ce păzeşte."
+      }
     },
     {
       "num": 4,
       "geez": "",
       "translation": "Behold, he that keeps Israel shall not slumber nor sleep.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Iată, nu va dormita, nici nu va adormi Cel ce păzeşte pe Israel."
+      }
     },
     {
       "num": 5,
       "geez": "",
       "translation": "The Lord shall keep thee: the Lord is thy shelter upon thy right hand.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Domnul te va păzi pe tine, Domnul este acoperământul tău, de-a dreapta ta."
+      }
     },
     {
       "num": 6,
       "geez": "",
       "translation": "The sun shall not burn thee by day, neither the moon by night.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Ziua soarele nu te va arde, nici luna noaptea."
+      }
     },
     {
       "num": 7,
       "geez": "",
       "translation": "May the Lord preserve thee from all evil: the Lord shall keep thy soul.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Domnul te va păzi pe tine de tot răul; păzi-va sufletul tău."
+      }
     },
     {
       "num": 8,
       "geez": "",
       "translation": "The Lord shall keep thy coming in, and thy going out, from henceforth and even for ever.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Domnul va păzi intrarea ta ieşirea ta de acum şi până în veac."
+      }
     }
   ]
 }

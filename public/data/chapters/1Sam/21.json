@@ -6,91 +6,136 @@
       "num": 1,
       "geez": "",
       "translation": "And David arose and departed, and Jonathan went into the city.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "După aceea a mers David în Nobe, la preotul Ahimelec şi s-a mixat Ahimelec la întâlnirea cu David şi i-a zis: \"De ce eşti singur şi nu este nimeni cu tine?\""
+      }
     },
     {
       "num": 2,
       "geez": "",
       "translation": "And David comes to Nomba to Abimelech the priest: and Abimelech was amazed at meeting him, and said to him, Why art thou alone, and nobody with thee?",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Iar David a răspuns preotului Ahimelec: \"Regele mi-a încredinţat o taină şi mi-a zis: Să nu ştie nimeni pentru ce te-am trimis şi ce însărcinare ţi-am dat. De aceea mi-am lăsat oamenii într-un loc anumit."
+      }
     },
     {
       "num": 3,
       "geez": "",
       "translation": "And David said to the priest, The king gave me a command to-day, and said to me, Let no one know the matter on which I send thee, and concerning which I have charged thee: and I have charged my servants to be in the place that is called, The faithfulness of God, phellani maemoni.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Dă-mi dar ce ai la îndemână, vreo cinci pâini, sau ce se va găsi!\""
+      }
     },
     {
       "num": 4,
       "geez": "",
       "translation": "And now if there are under thy hand five loaves, give into my hand what is ready.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Preotul însă a răspuns lui David şi i-a zis: \"Pâine obişnuită n-am la îndemână, dar este pâine sfinţită; dacă oamenii tăi s-au înfrânat de la femei, pot să mănânce\"."
+      }
     },
     {
       "num": 5,
       "geez": "",
       "translation": "And the priest answered David, and said, There are no common loaves under my hand, for I have none but holy loaves: if the young men have been kept at least from women, then they shall eat them.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Iar David a răspuns preotului şi i-a zis: \"Femei n-am avut cu noi nici ieri, nici alaltăieri, de când am plecat, şi vasele (trupurile) oamenilor sunt curate; deşi călătoria nu este după orânduială religioasă, pâinea va rămâne curată în vasele (trupurile) lor\"."
+      }
     },
     {
       "num": 6,
       "geez": "",
       "translation": "And David answered the priest, and said to him, Yea, we have been kept from women for three days: when I came forth for the journey all the young men were purified; but this expedition is unclean, wherefore it shall be sanctified this day because of my weapons.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Şi i-a dat preotul pâinea sfinţită, căci nu avea altă pâine, afară de pâinile punerii înainte, care fuseseră luate de la fala Domnului, ca să se pună în locul lor pâini proaspete."
+      }
     },
     {
       "num": 7,
       "geez": "",
       "translation": "So Abimelech the priest gave him the shewbread; for there were no loaves there, but only the presence loaves which had been removed from the presence of the Lord, in order that hot bread should be set on, on the day on which he took them.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "În ziua aceea se afla acolo înaintea Domnului unul din slujitorii lui Saul, cu numele Doeg, idumeu, căpetenia păstorilor lui Saul."
+      }
     },
     {
       "num": 8,
       "geez": "",
       "translation": "And there was there on that day one of Saul's servants detained before the Lord, and his name was Doec the Syrian, tending the mules of Saul.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Şi a zis David către Ahimelec: \"N-ai cumva la îndemână vreo suliţă sau vreo sabie? Căci eu nu mi-am luat nici sabia, nici altă armă, deoarece porunca regelui a fost grabnică\"."
+      }
     },
     {
       "num": 9,
       "geez": "",
       "translation": "And David said to Abimelech, See if there is here under thy hand spear or sword, for I have not brought in my hand my sword or my weapons, for the word of the king was urgent.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Preotul însă a răspuns: \"Iată sabia lui Goliat filisteanul pe care l-ai ucis în Valea Stejarului; ea este învelită într-o haină, după efod; de vrei, ia-o; alta afară de aceea n-am aici\". David a răspuns: \"Ca ea nu mai este alta, dă-mi-o!\" şi i-a dat-o."
+      }
     },
     {
       "num": 10,
       "geez": "",
       "translation": "And the priest said, Behold the sword of Goliath the Philistine, whom thou smotest in the valley of Ela; and it is wrapt in a cloth: if thou wilt take it, take it for thyself, for there is no other except it here. And David said, Behold, there is none like it; give it me.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Apoi David s-a sculat şi a fugit în aceeaşi zi de la faţa lui Saul şi a mers şi s-a dus la Achiş, regele din Gat."
+      }
     },
     {
       "num": 11,
       "geez": "",
       "translation": "And he gave it him; and David arose, and fled in that day from the presence of Saul: and David came to Anchus king of Geth.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Iar slugile lui Achiş au zis acestuia: \"Oare nu este acesta David, regele ţării aceleia, şi nu lui oare i se cânta în cor şi se zicea: \"Saul a biruit mii, iar David zeci de mii?\""
+      }
     },
     {
       "num": 12,
       "geez": "",
       "translation": "And the servants of Anchus said to him, Is not this David the king of the land? Did not the dancing women begin the song to him, saying, Saul has smitten his thousands, and David his ten thousands?",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "David a pus cuvintele acestea la inimă şi s-a temut tare de Achiş, regele din Gat,"
+      }
     },
     {
       "num": 13,
       "geez": "",
       "translation": "And David laid up the words in his heart, and was greatly afraid of Anchus king of Geth.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Şi s-a prefăcut nebun înaintea ochilor lui, făcând năzdrăvănii şi scriind pe uşi; mergea în mâini şi lăsa să-i curgă balele pe barbă."
+      }
     },
     {
       "num": 14,
       "geez": "",
       "translation": "And he changed his appearance before him, and feigned himself a false character in that day; and drummed upon the doors of the city, and used extravagant gestures with his hands, and fell against the doors of the gate, and his spittle ran down upon his beard.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Atunci a zis Achiş robilor săi: \"Nu vedeţi că este un om nebun? La ce l-aţi adus la mine?"
+      }
     },
     {
       "num": 15,
       "geez": "",
       "translation": "And Anchus said to his servants, Lo! ye see the man is mad: why have ye brought him in to me?",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "N-am eu destui nebuni? De ce l-aţi adus şi pe acesta să se schimonosească înaintea mea? Nu cumva vreţi să intre în casă la mine?\""
+      }
     },
     {
       "num": 16,

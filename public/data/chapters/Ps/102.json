@@ -6,133 +6,199 @@
       "num": 1,
       "geez": "",
       "translation": "A Psalm of David. Bless the Lord, O my soul; and all that is within me, bless his holy name.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Binecuvintează, suflete al meu, pe Domnul şi toate cele dinlăuntrul meu, numele cel sfânt al Lui."
+      }
     },
     {
       "num": 2,
       "geez": "",
       "translation": "Bless the Lord, O my soul, and forget not all his praises:",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Binecuvintează, suflete al meu, pe Domnul şi nu uita toate răsplătirile Lui."
+      }
     },
     {
       "num": 3,
       "geez": "",
       "translation": "who forgives all thy transgressions, who heals all thy diseases;",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Pe Cel ce curăţeşte toate fărădelegile tale, pe Cel ce vindecă toate bolile tale;"
+      }
     },
     {
       "num": 4,
       "geez": "",
       "translation": "who redeems thy life from corruption; who crowns thee with mercy and compassion;",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Pe Cel ce izbăveşte din stricăciune viaţa ta, pe Cel ce te încununează cu milă şi cu îndurări;"
+      }
     },
     {
       "num": 5,
       "geez": "",
       "translation": "who satisfies thy desire with good things: so that thy youth shall be renewed like that of the eagle.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Pe Cel ce umple de bunătăţi pofta ta; înnoi-se-vor ca ale vulturului tinereţile tale."
+      }
     },
     {
       "num": 6,
       "geez": "",
       "translation": "The Lord executes mercy and judgment for all that are injured.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Cel ce face milostenie, Domnul, şi judecată tuturor celor ce li se face strâmbătate."
+      }
     },
     {
       "num": 7,
       "geez": "",
       "translation": "He made known his ways to Moses, his will to the children of Israel.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Cunoscute a făcut căile Sale lui Moise, fiilor lui Israel voile Sale."
+      }
     },
     {
       "num": 8,
       "geez": "",
       "translation": "The Lord is compassionate and pitiful, long-suffering, and full of mercy.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Îndurat şi milostiv este Domnul, îndelung-răbdător şi mult-milostiv."
+      }
     },
     {
       "num": 9,
       "geez": "",
       "translation": "He will not be always angry; neither will he be wrathful for ever.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Nu până în sfârşit se va iuţi, nici în veac se va mânia."
+      }
     },
     {
       "num": 10,
       "geez": "",
       "translation": "He has not dealt with us according to our sins, nor recompensed us according to our iniquities.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Nu după păcatele noastre a făcut nouă, nici după fărădelegile noastre a răsplătit nouă,"
+      }
     },
     {
       "num": 11,
       "geez": "",
       "translation": "For as the heaven is high above the earth, the Lord has so increased his mercy toward them that fear him.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Ci cât este departe cerul de pământ, atât este de mare mila Lui, spre cei ce se tem de El."
+      }
     },
     {
       "num": 12,
       "geez": "",
       "translation": "As far as the east is from the west, so far has he removed our transgressions from us.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Pe cât sunt de departe răsăriturile de la apusuri, depărtat-a de la noi fărădelegile noastre."
+      }
     },
     {
       "num": 13,
       "geez": "",
       "translation": "As a father pities his children, the Lord pities them that fear him.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "În ce chip miluieşte tatăl pe fii, aşa a miluit Domnul pe cei ce se tem de El;"
+      }
     },
     {
       "num": 14,
       "geez": "",
       "translation": "For he knows our frame: remember that we are dust.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Că El a cunoscut zidirea noastră, adusu-şi-a aminte că ţărână suntem."
+      }
     },
     {
       "num": 15,
       "geez": "",
       "translation": "As for man, his days are as grass; as a flower of the field, so shall he flourish.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Omul ca iarba, zilele lui ca floarea câmpului; aşa va înflori."
+      }
     },
     {
       "num": 16,
       "geez": "",
       "translation": "For the wind passes over it, and it shall not be; and it shall know its place no more.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Că vânt a trecut peste el şi nu va mai fi şi nu se va mai cunoaşte încă locul său."
+      }
     },
     {
       "num": 17,
       "geez": "",
       "translation": "But the mercy of the Lord is from generation to generation upon them that fear him, and his righteousness to children's children;",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Iar mila Domnului din veac în veac spre cei ce se tem de Dânsul,"
+      }
     },
     {
       "num": 18,
       "geez": "",
       "translation": "to them that keep his covenant, and remember his commandments to do them.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Şi dreptatea Lui spre fiii fiilor, spre cei ce păzesc legământul Lui"
+      }
     },
     {
       "num": 19,
       "geez": "",
       "translation": "The Lord has prepared his throne in the heaven; and his kingdom rules over all.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Şi îşi aduc aminte de poruncile Lui, ca să le facă pe ele. Domnul în cer a gătit scaunul Său şi împărăţia Lui peste toţi stăpâneşte."
+      }
     },
     {
       "num": 20,
       "geez": "",
       "translation": "Bless the Lord, all ye his angels, mighty in strength, who perform his bidding, ready to hearken to the voice of his words.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Binecuvântaţi pe Domnul toţi îngerii Lui, cei tari la vârtute, care faceţi cuvântul Lui şi auziţi glasul cuvintelor Lui."
+      }
     },
     {
       "num": 21,
       "geez": "",
       "translation": "Bless the Lord, all ye his hosts; ye ministers of his that do his will.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Binecuvântaţi pe Domnul toate puterile Lui, slugile Lui, care faceţi voia Lui."
+      }
     },
     {
       "num": 22,
       "geez": "",
       "translation": "Bless the Lord, all his works, in every place of his dominion: bless the Lord, O my soul.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Binecuvântaţi pe Domnul toate lucrurile Lui; în tot locul stăpânirii Lui, binecuvintează suflete al meu pe Domnul."
+      }
     }
   ]
 }

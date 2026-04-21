@@ -31,7 +31,7 @@ export function getBookByAbbrev(books: Book[], abbrev: string): Book | undefined
 }
 
 export function getBookSections(books: Book[]): { label: string; books: Book[] }[] {
-  const sectionOrder = ['Unique to Ethiopia', 'Deuterocanonical', 'Other']
+  const sectionOrder = ['Unique to Ethiopia', 'Deuterocanonical', 'New Testament', 'Other']
   const grouped: Record<string, Book[]> = {}
 
   for (const book of books) {
@@ -54,5 +54,5 @@ export function getBookSections(books: Book[]): { label: string; books: Book[] }
 }
 
 export function hasDualTranslations(chapter: Chapter): boolean {
-  return chapter.verses.some(v => v.translations && (v.translations.lxx || v.translations.kjv))
+  return chapter.verses.some(v => v.translations && (v.translations.lxx || v.translations.kjv || v.translations.ron))
 }

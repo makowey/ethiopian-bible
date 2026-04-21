@@ -6,49 +6,73 @@
       "num": 1,
       "geez": "",
       "translation": "A Psalm for David, of Aggæus and Zacharias. I will give thee thanks, O Lord, with my whole heart; and I will sing psalms to thee before the angels; for thou hast heard all the words of my mouth.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Lăuda-Te-voi, Doamne, cu toată inima mea, că ai auzit cuvintele gurii mele şi înaintea îngerilor Îţi voi cânta."
+      }
     },
     {
       "num": 2,
       "geez": "",
       "translation": "I will worship toward thy holy temple, and give thanks to thy name, on account of thy mercy and thy truth; for thou hast magnified thy holy name above every thing.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Închina-mă-voi în locaşul Tău cel sfânt şi voi lăuda numele Tău, pentru mila Ta şi adevărul Tău; că ai mărit peste tot numele cel sfânt al Tău."
+      }
     },
     {
       "num": 3,
       "geez": "",
       "translation": "In whatsoever day I shall call upon thee, hear me speedily; thou shalt abundantly provide me with thy power in my soul.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "În orice zi Te voi chema, degrabă mă auzi! Sporeşte în sufletul meu puterea."
+      }
     },
     {
       "num": 4,
       "geez": "",
       "translation": "Let all the kings of the earth, O Lord, give thanks unto thee; for they have heard all the words of thy mouth.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Să Te laude pe Tine, Doamne, toţi împăraţii pământului, când vor auzi toate graiurile gurii Tale,"
+      }
     },
     {
       "num": 5,
       "geez": "",
       "translation": "And let them sing in the ways of the Lord; for great is the glory of the Lord.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Şi să cânte în căile Domnului, că mare este slava Domnului."
+      }
     },
     {
       "num": 6,
       "geez": "",
       "translation": "For the Lord is high, and yet regards the lowly; and he knows high things from afar off.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Că înalt este Domnul şi spre cele smerite priveşte şi pe cele înalte de departe le cunoaşte."
+      }
     },
     {
       "num": 7,
       "geez": "",
       "translation": "Though I should walk in the midst of affliction, thou wilt quicken me; thou hast stretched forth thine hands against the wrath of mine enemies, and thy right hand has saved me.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "De ajung la necaz, viază-mă! Împotriva vrăjmaşilor mei ai întins mâna Ta şi m-a izbăvit dreapta Ta."
+      }
     },
     {
       "num": 8,
       "geez": "",
       "translation": "O Lord, thou shalt recompense them on my behalf: thy mercy, O Lord, endures for ever: overlook not the works of thine hands.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Domnul le va plăti lor pentru mine. Doamne, mila Ta este în veac; lucrurile mâinilor Tale nu le trece cu vederea."
+      }
     }
   ]
 }

@@ -6,13 +6,19 @@
       "num": 1,
       "geez": "",
       "translation": "Alleluia. Praise the Lord, all ye nations: praise him, all ye peoples.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Lăudaţi pe Domnul toate neamurile; lăudaţi-L pe El toate popoarele;"
+      }
     },
     {
       "num": 2,
       "geez": "",
       "translation": "For his mercy has been abundant toward us: and the truth of the Lord endures for ever.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Că s-a întărit mila Lui peste noi şi adevărul Domnului rămâne în veac."
+      }
     }
   ]
 }

@@ -6,175 +6,262 @@
       "num": 1,
       "geez": "",
       "translation": "And Darius the Mede succeeded to the kingdom, being sixty-two years old.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Şi Darius Medul a ajuns rege când era în vârstă de aproape 62 de ani."
+      }
     },
     {
       "num": 2,
       "geez": "",
       "translation": "And it pleased Darius, and he set over the kingdom a hundred and twenty satraps, to be in all his kingdom;",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Şi i-a plăcut lui Darius să pună peste regatul lui 120 de satrapi, care să poarte de grijă în tot regatul,"
+      }
     },
     {
       "num": 3,
       "geez": "",
       "translation": "and over them three governors, of whom one was Daniel; for the satraps to give account to them, that the king should not be troubled.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Iar în fruntea lor, trei dregători dintre care unul era Daniel, şi aceşti satrapi trebuia să le dea lor socoteală, astfel ca regele să nu fie păgubit."
+      }
     },
     {
       "num": 4,
       "geez": "",
       "translation": "And Daniel was over them, for there was an excellent spirit in him; and the king set him over all his kingdom.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Însă Daniel era mai presus decât toţi dregătorii şi satrapii, fiindcă în el era un duh înalt şi regele îşi pusese în gând să-l pună mai mare peste tot regatul."
+      }
     },
     {
       "num": 5,
       "geez": "",
       "translation": "Then the governors and satraps sought to find occasion against Daniel; but they found against him no occasion, nor trespass, nor error, because he was faithful.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Atunci dregătorii şi satrapii s-au trudit să găsească lui Daniel vreo pricină din partea cârmuirii regatului, dar n-au putut să-i afle nici o pricină sau lucru rău, căci el era credincios şi nici o trecere cu vederea sau greşeală nu i s-a putut pune în seamă."
+      }
     },
     {
       "num": 6,
       "geez": "",
       "translation": "And the governors said, We shall not find occasion against Daniel, except in the ordinances of his God.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Atunci oamenii aceştia au zis: \"Dacă nu-i găsim lui Daniel nici o pricină, cu toate acestea îi vom afla lui una, în legea Dumnezeului lui\"."
+      }
     },
     {
       "num": 7,
       "geez": "",
       "translation": "Then the governors and satraps stood by the king, and said to him, King Darius, live for ever.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Dregătorii şi satrapii aceştia s-au dus atunci în grabă la rege şi aşa i-au grăit: \"O, rege Darius, să trăieşti în veac!"
+      }
     },
     {
       "num": 8,
       "geez": "",
       "translation": "All who preside over thy kingdom, captains and satraps, chiefs and local governors, have taken counsel together, to establish by a royal statute and to confirm a decree, that whosoever shall ask a petition of any god or man for thirty days, save of thee, O king, shall be cast into the den of lions.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Toţi marii dregători ai regatului, marii cârmuitori, satrapii, sfetnicii şi guvernatorii s-au sfătuit laolaltă ca regele să dea o poruncă şi să se rânduiască oprirea ca oricine s-ar ruga vreme de treizeci de zile altui dumnezeu şi om în afară de tine, rege, să fie aruncat în groapa cu lei."
+      }
     },
     {
       "num": 9,
       "geez": "",
       "translation": "Now then, O king, establish the decree, and publish a writ, that the decree of the Persians and Medes be not changed.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Acum, o, rege, fă cunoscută oprirea şi dă poruncă scrisă, care, potrivit legii Mezilor şi Perşilor, nu se mai poate schimba\"."
+      }
     },
     {
       "num": 10,
       "geez": "",
       "translation": "Then king Darius commanded the decree to be written.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Aşadar, regele Darius a dat oprire scrisă şi poruncă."
+      }
     },
     {
       "num": 11,
       "geez": "",
       "translation": "And when Daniel knew that the decree was ordered, he went into his house; and his windows were opened in his chambers toward Jerusalem, and three times in the day he knelt upon his knees, and prayed and gave thanks before his God, as he used to do before.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Îndată ce Daniel a aflat că o poruncă a fost dată, a intrat în casa sa, care avea în cămara de sus fereastră deschisă înspre Ierusalim şi în fiecare zi îngenunchea de trei ori, s-a rugat şi a lăudat pe Dumnezeu, cum făcea şi mai înainte."
+      }
     },
     {
       "num": 12,
       "geez": "",
       "translation": "Then these men watched, and found Daniel praying and supplicating to his God.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Atunci bărbaţii aceia au venit în număr mare şi au aflat pe Daniel rugându-se şi cerând mila lui Dumnezeu."
+      }
     },
     {
       "num": 13,
       "geez": "",
       "translation": "And they came and said to the king, O king, hast thou not made a decree, that whatsoever man shall ask a petition of any god or man for thirty days, but of thee, O king, shall be cast into the den of lions? And the king said, The word is true, and the decree of the Medes and Persians shall not pass.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Apoi s-au apropiat şi au grăit înaintea regelui privitor la porunca regală: \"Oare n-ai poruncit tu ca oricine s-ar ruga timp de treizeci de zile la oricare alt dumnezeu sau om, în afară de tine, rege, să fie aruncat într-o groapă cu lei?\" Răspuns-a regele şi a zis: \"Lucrul rămâne hotărât şi, după legile Mezilor şi Perşilor, nu se poate schimba\"."
+      }
     },
     {
       "num": 14,
       "geez": "",
       "translation": "Then they answered and said before the king, Daniel of the children of the captivity of Judea, has not submitted to thy decree; and three times in the day he makes his requests of his God.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Atunci au răspuns ei regelui şi au zis: \"Daniel, cel dintre robii iudei, nu a luat în seamă porunca ta, rege, nici nu s-a îngrijit de oprirea ta, ci de trei ori pe zi îşi face rugăciunea\"."
+      }
     },
     {
       "num": 15,
       "geez": "",
       "translation": "Then the king, when he heard the saying, was much grieved for Daniel, and he greatly exerted himself for Daniel to deliver him: and he exerted himself till evening to deliver him.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Când a auzit regele acestea, s-a tulburat foarte şi şi-a îndreptat gândul spre Daniel, cum ar putea să-l scape, şi până la apusul soarelui s-a străduit ca să-l scoată."
+      }
     },
     {
       "num": 16,
       "geez": "",
       "translation": "Then those men said to the king, Know, O king, that the law of the Medes and Persians is, that we must not change any decree or statute which the king shall make.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "În urmă, oamenii aceia au intrat în grabă la rege şi i-au zis: \"Ştiut să-ţi fie, o, rege, că, după legea Mezilor şi a Perşilor, orice poruncă sau oprire dată de rege nu se mai poate schimba\"."
+      }
     },
     {
       "num": 17,
       "geez": "",
       "translation": "Then the king commanded, and they brought Daniel, and cast him into the den of lions. But the king said to Daniel, Thy God whom thou servest continually, he will deliver thee.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Atunci regele a dat poruncă să aducă pe Daniel şi 1-a aruncat în groapa cu lei. După acestea regele a prins a grăi şi a zis lui Daniel: \"Dumnezeul tău pe Care tu Îl cinsteşti fără încetare, Acela te va scăpa!\""
+      }
     },
     {
       "num": 18,
       "geez": "",
       "translation": "And they brought a stone, and put it on the mouth of the den; and the king sealed it with his ring, and with the ring of his nobles; that the case might not be altered with regard to Daniel.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Apoi s-a adus o piatră care a fost pusă peste gura gropii, iar regele a pecetluit-o cu inelul său şi cu inelul dregătorilor săi, aşa ca nimic să nu se schimbe cu privire la Daniel."
+      }
     },
     {
       "num": 19,
       "geez": "",
       "translation": "And the king departed to his house, and lay down fasting, and they brought him no food; and his sleep departed from him. But God shut the mouths of the lions, and they did not molest Daniel.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Pe urmă, împăratul s-a dus în palatul său şi a petrecut noaptea în post şi nu au adus lângă el concubine, iar somnul nu l-a mai prins."
+      }
     },
     {
       "num": 20,
       "geez": "",
       "translation": "Then the king arose very early in the morning, and came in haste to the den of lions.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Apoi regele s-a sculat dis-de-dimineaţă, în revărsat de zori şi a venit în grabă la groapa cu lei."
+      }
     },
     {
       "num": 21,
       "geez": "",
       "translation": "And when he drew near to the den, he cried with a loud voice, Daniel, servant of the living God, has thy God, whom thou servest continually, been able to deliver thee from the lion's mouth?",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Şi când s-a apropiat de groapă, a strigat pe Daniel cu glas tare. Atunci regele a prins a grăi şi a zis lui Daniel: \"Daniel, slujitorul Dumnezeului celui viu, Dumnezeul tău, Căruia te închini neîncetat, oare a putut să te scape de lei?\""
+      }
     },
     {
       "num": 22,
       "geez": "",
       "translation": "And Daniel said to the king, O king, live for ever.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Apoi Daniel a vorbit cu regele: \"O, rege, în veci să trăieşti!"
+      }
     },
     {
       "num": 23,
       "geez": "",
       "translation": "My God has sent his angel, and stopped the lions' mouths, and they have not hurt me: for uprightness was found in me before him; and moreover before thee, O king, I have committed no trespass.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Dumnezeu a trimis pe îngerul Său şi a astupat gura leilor, şi ei nu mi-au făcut nici un rău, pentru că am fost găsit nevinovat înaintea Lui, precum şi în faţa ta, rege, n-am făcut nici un rău!\""
+      }
     },
     {
       "num": 24,
       "geez": "",
       "translation": "Then the king was very glad for him, and he commanded to bring Daniel out of the den. So Daniel was brought out of the den, and there was found no hurt upon him, because he believed in his God.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Regele s-a bucurat foarte şi a poruncit să scoată pe Daniel din groapă şi Daniel a fost scos din groapă şi nici o rană nu i-a fost găsită, căci nădăjduise în Dumnezeul lui."
+      }
     },
     {
       "num": 25,
       "geez": "",
       "translation": "And the king commanded, and they brought the men that had accused Daniel, and they were cast into the den of lions, they, and their children, and their wives: and they reached not the bottom of the den before the lions had the mastery of them, and utterly broke to pieces all their bones.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Atunci a poruncit regele să aducă pe bărbaţii aceia care defăimaseră pe Daniel şi au fost aruncaţi în groapa cu lei, ei, fiii lor şi femeile lor, şi nici nu au ajuns bine în fundul gropii, că leii s-au şi năpustit asupra lor şi le-au sfărâmat toate oasele."
+      }
     },
     {
       "num": 26,
       "geez": "",
       "translation": "Then king Darius wrote to all nations, tribes, and languages, who dwell in all the earth, saying, Peace be multiplied to you.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Regele Darius a scris la toate popoarele, neamurile şi limbile care locuiesc peste tot pământul: \"Pacea voastră să sporească!"
+      }
     },
     {
       "num": 27,
       "geez": "",
       "translation": "This decree has been set forth by me in every dominion of my kingdom, that men tremble and fear before the God of Daniel: for he is the living and eternal God, and his kingdom shall not be destroyed, and his dominion is for ever.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Poruncă iese de la mine ca în tot cuprinsul regatului meu să se teamă şi să tremure lumea înaintea Dumnezeului lui Daniel, că El este Dumnezeul cel viu, Care rămâne în veci şi împărăţia lui nu se va nimici, iar stăpânirea Lui nu va avea sfârşit."
+      }
     },
     {
       "num": 28,
       "geez": "",
       "translation": "He helps and delivers, and works signs and wonders in the heaven and on the earth, who has rescued Daniel from the power of the lions.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "El poate să scape şi să libereze, face semne şi minuni în cer şi pe pământ; El a scăpat pe Daniel din ghearele leilor\"."
+      }
     },
     {
       "num": 29,
       "geez": "",
       "translation": "And Daniel prospered in the reign of Darius, and in the reign of Cyrus the Persian.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Şi Daniel se afla într-o stare fericită în regatul lui Darius şi în regatul lui Cirus, regele Perşilor."
+      }
     }
   ]
 }

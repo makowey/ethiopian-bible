@@ -18,6 +18,7 @@ export interface TranslationEntry {
 export interface Translations {
   lxx?: string
   kjv?: string
+  ron?: string              // Romanian Orthodox Bible (Biblia Ortodoxă, based on LXX)
   'geez-source'?: string
   ai?: TranslationEntry     // AI-assisted translation with confidence metadata
 }
@@ -83,6 +84,7 @@ export interface ReaderSettings {
   showTransliteration: boolean
   showLxx: boolean
   showKjv: boolean
+  showRon: boolean
   showGeezSource: boolean
   showAiTranslation: boolean
   fontSize: number
@@ -93,6 +95,7 @@ export const DEFAULT_SETTINGS: ReaderSettings = {
   showTransliteration: true,
   showLxx: true,
   showKjv: true,
+  showRon: true,
   showGeezSource: true,
   showAiTranslation: true,
   fontSize: 20,

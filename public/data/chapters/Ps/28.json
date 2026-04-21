@@ -6,67 +6,100 @@
       "num": 1,
       "geez": "",
       "translation": "A Psalm of David on the occasion of the solemn assembly of the Tabernacle. Bring to the Lord, ye sons of God, bring to the Lord young rams; bring to the Lord glory and honour.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Aduceţi Domnului, fii ai lui Dumnezeu, aduceţi Domnului mieii oilor, aduceţi Domnului slavă şi cinste;"
+      }
     },
     {
       "num": 2,
       "geez": "",
       "translation": "Bring to the Lord glory, due to his name; worship the Lord in his holy court.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Aduceţi Domnului slavă numelui Său; închinaţi-vă Domnului în curtea cea sfântă a Lui."
+      }
     },
     {
       "num": 3,
       "geez": "",
       "translation": "The voice of the Lord is upon the waters: the God of glory has thundered: the Lord is upon many waters.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Glasul Domnului peste ape; Dumnezeul slavei a tunat; Domnul peste ape multe."
+      }
     },
     {
       "num": 4,
       "geez": "",
       "translation": "The voice of the Lord is mighty; the voice of the Lord is full of majesty.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Glasul Domnului întru tărie, glasul Domnului întru mare cuviinţă;"
+      }
     },
     {
       "num": 5,
       "geez": "",
       "translation": "There is the voice of the Lord who breaks the cedars; the Lord will break the cedars of Libanus.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Glasul Domnului cel ce sfărâmă cedrii şi va zdrobi Domnul cedrii Libanului;"
+      }
     },
     {
       "num": 6,
       "geez": "",
       "translation": "And he will beat them small, even Libanus itself, like a calf; and the beloved one is as a young unicorn.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "El face să sară Libanul ca un viţel; iar Ermonul ca un pui de gazelă."
+      }
     },
     {
       "num": 7,
       "geez": "",
       "translation": "There is a voice of the Lord who divides a flame of fire.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Glasul Domnului, cel ce varsă para focului."
+      }
     },
     {
       "num": 8,
       "geez": "",
       "translation": "A voice of the Lord who shakes the wilderness; the Lord will shake the wilderness of Cades.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Glasul Domnului, cel ce cutremură pustiul şi va cutremura Domnul pustiul Cadeşului."
+      }
     },
     {
       "num": 9,
       "geez": "",
       "translation": "The voice of the Lord strengthens the hinds, and will uncover the thickets: and in his temple every one speaks of his glory.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Glasul Domnului dezleagă pântecele cerboaicelor, glasul Domnului despoaie cedrii şi în locaşul Lui, fiecare va spune: Slavă!"
+      }
     },
     {
       "num": 10,
       "geez": "",
       "translation": "The Lord will dwell on the waterflood: and the Lord will sit a king for ever.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Domnul va împărăţi peste potop şi va şedea Domnul Împărat în veac."
+      }
     },
     {
       "num": 11,
       "geez": "",
       "translation": "The Lord will give strength to his people; the Lord will bless his people with peace.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Domnul tărie poporului Său va da, Domnul va binecuvânta pe poporul Său cu pace."
+      }
     }
   ]
 }

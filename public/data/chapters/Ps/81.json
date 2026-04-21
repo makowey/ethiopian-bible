@@ -6,49 +6,73 @@
       "num": 1,
       "geez": "",
       "translation": "A Psalm for Asaph. God stands in the assembly of gods; and in the midst of them will judge gods.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Dumnezeu a stat în dumnezeiască adunare şi în mijlocul dumnezeilor va judeca."
+      }
     },
     {
       "num": 2,
       "geez": "",
       "translation": "How long will ye judge unrighteously, and accept the persons of sinners? Pause.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Până când veţi judeca cu nedreptate şi la feţele păcătoşilor veţi căuta?"
+      }
     },
     {
       "num": 3,
       "geez": "",
       "translation": "Judge the orphan and poor: do justice to the low and needy.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Judecaţi drept pe orfan şi pe sărac şi faceţi dreptate celui smerit, celui sărman."
+      }
     },
     {
       "num": 4,
       "geez": "",
       "translation": "Rescue the needy, and deliver the poor out of the hand of the sinner.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Mântuiţi pe cel sărman şi pe cel sărac; din mina păcătosului, izbăviţi-i."
+      }
     },
     {
       "num": 5,
       "geez": "",
       "translation": "They know not, nor understand; they walk on in darkness: all the foundations of the earth shall be shaken.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Dar ei n-au cunoscut, nici n-au priceput, ci în întuneric umblă; stricase-vor toate rânduielile pământului."
+      }
     },
     {
       "num": 6,
       "geez": "",
       "translation": "I have said, Ye are gods; and all of you children of the Most High.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Eu am zis: \"Dumnezei sunteţi şi toţi fii ai Celui Preaînalt\"."
+      }
     },
     {
       "num": 7,
       "geez": "",
       "translation": "But ye die as men, and fall as one of the princes.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Dar voi ca nişte oameni muriţi şi ca unul din căpetenii cădeţi."
+      }
     },
     {
       "num": 8,
       "geez": "",
       "translation": "Arise, O God, judge the earth: for thou shalt inherit all nations.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Scoală-Te, Dumnezeule, judecă pământul, că toate neamurile sunt ale Tale."
+      }
     }
   ]
 }

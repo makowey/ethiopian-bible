@@ -6,31 +6,46 @@
       "num": 1,
       "geez": "",
       "translation": "A Psalm of David. O Lord, who shall sojourn in thy tabernacle? and who shall dwell in thy holy mountain?",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Doamne, cine va locui în locaşul Tău şi cine se va sălăşlui în muntele cel sfânt al Tău?"
+      }
     },
     {
       "num": 2,
       "geez": "",
       "translation": "He that walks blameless, and works righteousness, who speaks truth in his heart.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Cel ce umblă fără prihană şi face dreptate, cel ce are adevărul în inima sa,"
+      }
     },
     {
       "num": 3,
       "geez": "",
       "translation": "Who has not spoken craftily with his tongue, neither has done evil to his neighbour, nor taken up a reproach against them that dwelt nearest to him.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Cel ce n-a viclenit cu limba, nici n-a făcut rău împotriva vecinului său şi ocară n-a rostit împotriva aproapelui său."
+      }
     },
     {
       "num": 4,
       "geez": "",
       "translation": "In his sight an evil-worker is set at nought, but he honours them that fear the Lord. He swears to his neighbour, and disappoints him not.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Defăimat să fie înaintea Lui \"el ce vicleneşte, iar pe cei ce se tem de Domnul îi slăveşte; cel ce se jură aproapelui său şi nu se leapădă,"
+      }
     },
     {
       "num": 5,
       "geez": "",
       "translation": "He has not lent his money on usury, and has not received bribes against the innocent. He that does these things shall never be moved.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Argintul său nu l-a dat cu camătă şi daruri împotriva celor nevinovaţi n-a luat. Cel ce face acestea nu se va clătina în veac."
+      }
     }
   ]
 }

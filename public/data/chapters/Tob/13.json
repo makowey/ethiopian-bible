@@ -74,7 +74,8 @@
         }
       ],
       "translations": {
-        "lxx": "Then Tobit wrote a prayer of rejoicing, and said, Blessed be God that liveth for ever, and blessed be his kingdom."
+        "lxx": "Then Tobit wrote a prayer of rejoicing, and said, Blessed be God that liveth for ever, and blessed be his kingdom.",
+        "ron": "Atunci Tobit a scris cu bucurie rugăciunea aceasta şi a zis: \"Binecuvântat este Dumnezeu cel veşnic viu şi binecuvântată este Împărăţia Lui."
       }
     },
     {
@@ -139,7 +140,8 @@
         }
       ],
       "translations": {
-        "lxx": "For he doth scourge, and hath mercy: he leadeth down to hell, and bringeth up again: neither is there any that can avoid his hand."
+        "lxx": "For he doth scourge, and hath mercy: he leadeth down to hell, and bringeth up again: neither is there any that can avoid his hand.",
+        "ron": "Căci El pedepseşte şi miluieşte, coboară până la locuinţa morţilor şi iarăşi înalţă, şi nu este nimeni care ar scăpa din mâna Lui!"
       }
     },
     {
@@ -204,7 +206,8 @@
         }
       ],
       "translations": {
-        "lxx": "Confess him before the Gentiles, ye children of Israel: for he hath scattered us among them."
+        "lxx": "Confess him before the Gentiles, ye children of Israel: for he hath scattered us among them.",
+        "ron": "Fiii lui Israel, preaslăviţi-L în faţa neamurilor căci El ne-a risipit printre ele."
       }
     },
     {
@@ -304,7 +307,8 @@
         }
       ],
       "translations": {
-        "lxx": "There declare his greatness, and extol him before all the living: for he is our Lord, and he is the God our Father for ever."
+        "lxx": "There declare his greatness, and extol him before all the living: for he is our Lord, and he is the God our Father for ever.",
+        "ron": "Vestiţi acolo slava Lui, preaânălţaţi-L înaintea tuturor celor vii, căci El este Domnul şi Dumnezeul şi Tatăl nostru în toţi vecii."
       }
     },
     {
@@ -369,7 +373,8 @@
         }
       ],
       "translations": {
-        "lxx": "And he will scourge us for our iniquities, and will have mercy again, and will gather us out of all nations, among whom he hath scattered us."
+        "lxx": "And he will scourge us for our iniquities, and will have mercy again, and will gather us out of all nations, among whom he hath scattered us.",
+        "ron": "El vă va pedepsi pentru nedreptăţile voastre şi vă va milui şi vă va aduna din toate neamurile, printre care aţi fost risipiţi."
       }
     },
     {
@@ -669,7 +674,8 @@
         }
       ],
       "translations": {
-        "lxx": "If ye turn to him with your whole heart, and with your whole mind, and deal uprightly before him, then will he turn unto you, and will not hide his face from you. Therefore see what he will do with you, and confess him with your whole mouth, and praise the Lord of might, and extol the everlasting King. In the land of my captivity do I praise him, and declare his might and majesty to a sinful nation. O ye sinners, turn and do justice before him: who can tell if he will accept you, and have mercy on you?"
+        "lxx": "If ye turn to him with your whole heart, and with your whole mind, and deal uprightly before him, then will he turn unto you, and will not hide his face from you. Therefore see what he will do with you, and confess him with your whole mouth, and praise the Lord of might, and extol the everlasting King. In the land of my captivity do I praise him, and declare his might and majesty to a sinful nation. O ye sinners, turn and do justice before him: who can tell if he will accept you, and have mercy on you?",
+        "ron": "De vă veţi întoarce la El cu toată inima voastră şi cu tot sufletul vostru, ca să umblaţi înaintea Lui cu dreptate, atunci şi El se va întoarce spre voi şi nu-Şi va ascunde faţa Sa de la voi. Veţi vedea ce va face El cu voi. Preaslăviţi-L cu glas înalt şi binecuvântaţi pe Domnul dreptăţii şi preaînălţaţi pe Împăratul veacurilor. Îl voi preaslăvi în ţara robiei şi voi vesti puterea şi slava Lui poporului păcătoşilor! Întoarceţi-vă păcătoşi, şi faceţi dreptate înaintea Lui! Poate vă va fi binevoitor şi vă va arăta milă."
       }
     },
     {
@@ -724,7 +730,8 @@
         }
       ],
       "translations": {
-        "lxx": "Give praise to the Lord, for he is good: and praise the everlasting King, that his tabernacle may be builded in thee again with joy, and let him make joyful there in thee those that are captives, and love in thee for ever those that are miserable."
+        "lxx": "Give praise to the Lord, for he is good: and praise the everlasting King, that his tabernacle may be builded in thee again with joy, and let him make joyful there in thee those that are captives, and love in thee for ever those that are miserable.",
+        "ron": "Voi înălţa pe Dumnezeul meu, şi sufletul meu va înălţa pe Împăratul cerului şi se va bucura de slava Lui."
       }
     },
     {
@@ -797,7 +804,10 @@
           "t": "ṣadəqanə",
           "gl": ""
         }
-      ]
+      ],
+      "translations": {
+        "ron": "Să Îl vestească toţi şi să-L preaslăvească în Ierusalim!"
+      }
     },
     {
       "num": 9,
@@ -919,7 +929,10 @@
           "t": "zäläʿalämə",
           "gl": ""
         }
-      ]
+      ],
+      "translations": {
+        "ron": "Ierusalime, cetate sfântă, El te va pedepsi pentru păcatele fiilor tăi şi iarăşi va milui pe fiii celor drepţi."
+      }
     },
     {
       "num": 10,
@@ -1031,7 +1044,10 @@
           "t": "läsəməkä",
           "gl": ""
         }
-      ]
+      ],
+      "translations": {
+        "ron": "Slăveşte pe Domnul cu sârguinţă şi binecuvintează pe Împăratul veacurilor, ca să se zidească iarăşi locaşul Lui cu bucurie în mijlocul tău, şi ca El să veselească în mijlocul tău pe cei duşi în robie şi să-i iubească pe cei nenorociţi ai tăi în toate neamurile veacului."
+      }
     },
     {
       "num": 11,
@@ -1090,7 +1106,8 @@
         }
       ],
       "translations": {
-        "lxx": "Many nations shall come from far to the name of the Lord God with gifts in their hands, even gifts to the King of heaven; all generations shall praise thee with great joy."
+        "lxx": "Many nations shall come from far to the name of the Lord God with gifts in their hands, even gifts to the King of heaven; all generations shall praise thee with great joy.",
+        "ron": "Popoare multe vor veni de departe în numele Domnului Dumnezeu cu daruri în mâini, cu daruri ce aduc Împăratului cerului."
       }
     },
     {
@@ -1170,7 +1187,8 @@
         }
       ],
       "translations": {
-        "lxx": "Cursed are all they which hate thee, and blessed shall all be which love thee for ever."
+        "lxx": "Cursed are all they which hate thee, and blessed shall all be which love thee for ever.",
+        "ron": "Neamurile neamurilor Te vor lăuda în strigăte de bucurie. Blestemaţi fie toţi cei ce Te urăsc pe Tine, iar cei ce Te iubesc să fie binecuvântaţi în veac!"
       }
     },
     {
@@ -1245,7 +1263,8 @@
         }
       ],
       "translations": {
-        "lxx": "Rejoice and be glad for the children of the just: for they shall be gathered together, and shall bless the Lord of the just."
+        "lxx": "Rejoice and be glad for the children of the just: for they shall be gathered together, and shall bless the Lord of the just.",
+        "ron": "Bucură-Te şi Te veseleşte de fiii drepţilor, căci aceia se vor aduna şi vor binecuvânta pe Domnul drepţilor."
       }
     },
     {
@@ -1280,7 +1299,8 @@
         }
       ],
       "translations": {
-        "lxx": "O blessed are they which love thee, for they shall rejoice in thy peace: blessed are they which have been sorrowful for all thy scourges; for they shall rejoice for thee, when they have seen all thy glory, and shall be glad for ever."
+        "lxx": "O blessed are they which love thee, for they shall rejoice in thy peace: blessed are they which have been sorrowful for all thy scourges; for they shall rejoice for thee, when they have seen all thy glory, and shall be glad for ever.",
+        "ron": "O, fericiţi cei ce Te iubesc pe Tine, că aceia se vor bucura de pacea Ta! Fericiţi cei ce s-au întristat de toate pedepsele Tale, că aceia se vor bucura de Tine, când vor vedea toată slava Ta, şi veşnic se vor veseli."
       }
     },
     {
@@ -1355,7 +1375,8 @@
         }
       ],
       "translations": {
-        "lxx": "Let my soul bless God the great King."
+        "lxx": "Let my soul bless God the great King.",
+        "ron": "Să binecuvânteze sufletul meu pe Dumnezeu, Împăratul cel mare, căci Ierusalimul se va zidi din nou, cu safir, cu smarald şi cu pietre scumpe!"
       }
     },
     {
@@ -1405,7 +1426,8 @@
         }
       ],
       "translations": {
-        "lxx": "For Jerusalem shall be built up with sapphire, and emerald, and precious stone: thy walls and towers and battlements with pure gold."
+        "lxx": "For Jerusalem shall be built up with sapphire, and emerald, and precious stone: thy walls and towers and battlements with pure gold.",
+        "ron": "Iar zidurile tale, turnurile şi întăriturile se vor face de aur curat!"
       }
     },
     {
@@ -1470,7 +1492,8 @@
         }
       ],
       "translations": {
-        "lxx": "And the streets of Jerusalem shall be paved with beryl and carbuncle and stone of Ophir."
+        "lxx": "And the streets of Jerusalem shall be paved with beryl and carbuncle and stone of Ophir.",
+        "ron": "Pieţele Ierusalimului vor fi pardosite cu beril, rubin şi piatră de Ofir."
       }
     }
   ],

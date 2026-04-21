@@ -6,55 +6,82 @@
       "num": 1,
       "geez": "",
       "translation": "For David, a Psalm of Jeremias. By the rivers of Babylon, there we sat; and wept when we remembered Sion.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "La râul Babilonului, acolo am şezut şi am plâns, când ne-am adus aminte de Sion."
+      }
     },
     {
       "num": 2,
       "geez": "",
       "translation": "We hung our harps on the willows in the midst of it.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "În sălcii, în mijlocul lor, am atârnat harpele noastre."
+      }
     },
     {
       "num": 3,
       "geez": "",
       "translation": "For there they that had taken us captive asked of us the words of a song; and they that had carried us away asked a hymn, saying, Sing us one of the songs of Sion.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Că acolo cei ce ne-au robit pe noi ne-au cerut nouă cântare, zicând: \"Cântaţi-ne nouă din cântările Sionului!\""
+      }
     },
     {
       "num": 4,
       "geez": "",
       "translation": "How should we sing the Lord's song in a strange land?",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Cum să cântăm cântarea Domnului în pământ străin?"
+      }
     },
     {
       "num": 5,
       "geez": "",
       "translation": "If I forget thee, O Jerusalem, let my right hand forget its skill.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "De te voi uita, Ierusalime, uitată să fie dreapta mea!"
+      }
     },
     {
       "num": 6,
       "geez": "",
       "translation": "May my tongue cleave to my throat, if I do not remember thee; if I do not prefer Jerusalem as the chief of my joy.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Să se lipească limba mea de grumazul meu, de nu-mi voi aduce aminte de tine, de nu voi pune înainte Ierusalimul, ca început al bucuriei mele."
+      }
     },
     {
       "num": 7,
       "geez": "",
       "translation": "Remember, O Lord, the children of Edom in the day of Jerusalem; who said, Rase it, rase it, even to its foundations.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Adu-ţi aminte, Doamne, de fiii lui Edom, în ziua dărâmării Ierusalimului, când ziceau: \"Stricaţi-l, stricaţi-l până la temeliile lui!\""
+      }
     },
     {
       "num": 8,
       "geez": "",
       "translation": "Wretched daughter of Babylon! blessed shall he be who shall reward thee as thou hast rewarded us.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Fiica Babilonului, ticăloasa! Fericit este cel ce-ţi va răsplăti ţie fapta ta pe care ai făcut-o nouă."
+      }
     },
     {
       "num": 9,
       "geez": "",
       "translation": "Blessed shall he be who shall seize and dash thine infants against the rock.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Fericit este cel ce va apuca şi va lovi pruncii tăi de piatră."
+      }
     }
   ]
 }

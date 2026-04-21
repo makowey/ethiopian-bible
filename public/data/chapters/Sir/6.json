@@ -77,7 +77,10 @@
           "t": "ləsanu",
           "gl": ""
         }
-      ]
+      ],
+      "translations": {
+        "ron": "Să nu te faci vrăjmaş în loc de prieten, că numele rău ruşine şi ocară va moşteni; aşa este păcătosul cel cu două limbi."
+      }
     },
     {
       "num": 2,
@@ -131,7 +134,8 @@
         }
       ],
       "translations": {
-        "lxx": "Extol not thyself in the counsel of thine own heart: that thy soul be not torn in pieces as a bull [straying alone]."
+        "lxx": "Extol not thyself in the counsel of thine own heart: that thy soul be not torn in pieces as a bull [straying alone].",
+        "ron": "Nu te lăsa în voia patimilor tale, ca să nu fii târât de ele ca de un taur furios."
       }
     },
     {
@@ -181,7 +185,8 @@
         }
       ],
       "translations": {
-        "lxx": "Thou shalt eat up thy leaves, and lose thy fruit, and leave thyself as a dry tree."
+        "lxx": "Thou shalt eat up thy leaves, and lose thy fruit, and leave thyself as a dry tree.",
+        "ron": "Altfel frunzele tale vei mânca şi roadele tale vei pierde şi vei rămâne ca un lemn uscat."
       }
     },
     {
@@ -226,7 +231,8 @@
         }
       ],
       "translations": {
-        "lxx": "A wicked soul shall destroy him that hath it, and shall make him to be laughed to scorn of his enemies."
+        "lxx": "A wicked soul shall destroy him that hath it, and shall make him to be laughed to scorn of his enemies.",
+        "ron": "Sufletul rău va pierde pe cel ce-l are pe el şi va face bucurie vrăjmaşilor."
       }
     },
     {
@@ -276,7 +282,8 @@
         }
       ],
       "translations": {
-        "lxx": "Sweet language will multiply friends: and a fairspeaking tongue will increase kind greetings."
+        "lxx": "Sweet language will multiply friends: and a fairspeaking tongue will increase kind greetings.",
+        "ron": "Graiul dulce înmulţeşte pe prieteni şi limba cea binegrăitoare îndatorează, deseori, la răspunsuri binevoitoare."
       }
     },
     {
@@ -326,7 +333,8 @@
         }
       ],
       "translations": {
-        "lxx": "Be in peace with many: nevertheless have but one counsellor of a thousand."
+        "lxx": "Be in peace with many: nevertheless have but one counsellor of a thousand.",
+        "ron": "Mulţi să fie cei ce trăiesc în pace cu tine, iar sfetnicii tăi să fie dintr-o mie unul."
       }
     },
     {
@@ -376,7 +384,8 @@
         }
       ],
       "translations": {
-        "lxx": "If thou wouldest get a friend, prove him first, and be not hasty to credit him."
+        "lxx": "If thou wouldest get a friend, prove him first, and be not hasty to credit him.",
+        "ron": "Dacă vrei să-ţi faci un prieten, fă-l punându-l la încercare şi nu te grăbi să te încrezi în el."
       }
     },
     {
@@ -446,7 +455,8 @@
         }
       ],
       "translations": {
-        "lxx": "For some man is a friend for his own occasion, and will not abide in the day of thy trouble."
+        "lxx": "For some man is a friend for his own occasion, and will not abide in the day of thy trouble.",
+        "ron": "Pentru că este prieten până la o vreme şi nu va rămâne în ziua necazului tău."
       }
     },
     {
@@ -496,7 +506,8 @@
         }
       ],
       "translations": {
-        "lxx": "And there is a friend, who being turned to enmity and strife will discover thy reproach."
+        "lxx": "And there is a friend, who being turned to enmity and strife will discover thy reproach.",
+        "ron": "Şi este prieten care se întoarce în duşman şi cearta dintre voi va da-o pe faţă, spre ocara ta."
       }
     },
     {
@@ -566,7 +577,8 @@
         }
       ],
       "translations": {
-        "lxx": "Again, some friend is a companion at the table, and will not continue in the day of thy affliction."
+        "lxx": "Again, some friend is a companion at the table, and will not continue in the day of thy affliction.",
+        "ron": "Şi este prieten soţ de masă şi nu va rămâne lângă tine în ziua necazului tău."
       }
     },
     {
@@ -606,7 +618,8 @@
         }
       ],
       "translations": {
-        "lxx": "But in thy prosperity he will be as thyself, and will be bold over thy servants."
+        "lxx": "But in thy prosperity he will be as thyself, and will be bold over thy servants.",
+        "ron": "Şi în zilele cele bune ale tale va fi ca şi tine şi cu slugile tale va îndrăzni."
       }
     },
     {
@@ -656,7 +669,8 @@
         }
       ],
       "translations": {
-        "lxx": "If thou be brought low, he will be against thee, and will hide himself from thy face."
+        "lxx": "If thou be brought low, he will be against thee, and will hide himself from thy face.",
+        "ron": "Dar de te vei smeri, va fi împotriva ta şi de la faţa ta se va ascunde."
       }
     },
     {
@@ -686,7 +700,8 @@
         }
       ],
       "translations": {
-        "lxx": "Separate thyself from thine enemies, and take heed of thy friends."
+        "lxx": "Separate thyself from thine enemies, and take heed of thy friends.",
+        "ron": "Depărtează-te de duşmanii tăi şi fii cu pază faţă de prietenii tăi."
       }
     },
     {
@@ -736,7 +751,8 @@
         }
       ],
       "translations": {
-        "lxx": "A faithful friend is a strong defence: and he that hath found such an one hath found a treasure."
+        "lxx": "A faithful friend is a strong defence: and he that hath found such an one hath found a treasure.",
+        "ron": "Prietenul credincios este acoperământ tare; şi cel ce l-a aflat pe el aflat-a comoară."
       }
     },
     {
@@ -781,7 +797,8 @@
         }
       ],
       "translations": {
-        "lxx": "Nothing doth countervail a faithful friend, and his excellency is invaluable."
+        "lxx": "Nothing doth countervail a faithful friend, and his excellency is invaluable.",
+        "ron": "Cu prietenul credincios nimic nu se poate asemăna şi nu este măsură a bunătăţii lui."
       }
     },
     {
@@ -831,7 +848,8 @@
         }
       ],
       "translations": {
-        "lxx": "A faithful friend is the medicine of life; and they that fear the Lord shall find him."
+        "lxx": "A faithful friend is the medicine of life; and they that fear the Lord shall find him.",
+        "ron": "Prietenul credincios este leacul vieţii şi cei ce se tem de Domnul îl vor afla pe el."
       }
     },
     {
@@ -881,7 +899,8 @@
         }
       ],
       "translations": {
-        "lxx": "Whoso feareth the Lord shall direct his friendship aright: for as he is, so shall his neighbour be also."
+        "lxx": "Whoso feareth the Lord shall direct his friendship aright: for as he is, so shall his neighbour be also.",
+        "ron": "Cel ce se teme de Domnul bine va ţine prieteşugul său, căci ca la sine ţine la aproapele lui."
       }
     },
     {
@@ -926,7 +945,8 @@
         }
       ],
       "translations": {
-        "lxx": "My son, gather instruction from thy youth up: so shalt thou find wisdom till thine old age."
+        "lxx": "My son, gather instruction from thy youth up: so shalt thou find wisdom till thine old age.",
+        "ron": "Fiule! Din tinereţile tale alege învăţătura şi până la cărunteţile tale vei afla înţelepciune."
       }
     },
     {
@@ -1016,7 +1036,8 @@
         }
       ],
       "translations": {
-        "lxx": "Come unto her as one that ploweth and soweth, and wait for her good fruits: for thou shalt not toil much in labouring about her, but thou shalt eat of her fruits right soon."
+        "lxx": "Come unto her as one that ploweth and soweth, and wait for her good fruits: for thou shalt not toil much in labouring about her, but thou shalt eat of her fruits right soon.",
+        "ron": "Ca şi cel ce ară şi seamănă, apropie-te de ea şi aşteaptă roadele ei cele bune."
       }
     },
     {
@@ -1071,7 +1092,8 @@
         }
       ],
       "translations": {
-        "lxx": "She is very unpleasant to the unlearned: he that is without understanding will not remain with her."
+        "lxx": "She is very unpleasant to the unlearned: he that is without understanding will not remain with her.",
+        "ron": "Căci cu lucrarea ei puţin te vei osteni şi curând vei mânca roadele ei."
       }
     },
     {
@@ -1126,7 +1148,8 @@
         }
       ],
       "translations": {
-        "lxx": "She will lie upon him as a mighty stone of trial; and he will cast her from him ere it be long."
+        "lxx": "She will lie upon him as a mighty stone of trial; and he will cast her from him ere it be long.",
+        "ron": "Cât de grea este celor neînvăţaţi şi cel nepriceput nu va stărui în ea."
       }
     },
     {
@@ -1176,7 +1199,8 @@
         }
       ],
       "translations": {
-        "lxx": "For wisdom is according to her name, and she is not manifest unto many."
+        "lxx": "For wisdom is according to her name, and she is not manifest unto many.",
+        "ron": "Căci ea este pentru el ca o piatră grea de încercare, de aceea el nu va zăbovi s-o arunce."
       }
     },
     {
@@ -1216,7 +1240,8 @@
         }
       ],
       "translations": {
-        "lxx": "Give ear, my son, receive my advice, and refuse not my counsel,"
+        "lxx": "Give ear, my son, receive my advice, and refuse not my counsel,",
+        "ron": "Că înţelepciunea îndreptăţeşte numele ei şi nu la mulţi este arătată."
       }
     },
     {
@@ -1266,7 +1291,8 @@
         }
       ],
       "translations": {
-        "lxx": "and put thy feet into her fetters, and thy neck into her chain."
+        "lxx": "and put thy feet into her fetters, and thy neck into her chain.",
+        "ron": "Ascultă, fiule, şi primeşte învăţătura mea şi nu lepăda sfatul meu."
       }
     },
     {
@@ -1301,7 +1327,8 @@
         }
       ],
       "translations": {
-        "lxx": "Bow down thy shoulder, and bear her, and be not grieved with her bonds."
+        "lxx": "Bow down thy shoulder, and bear her, and be not grieved with her bonds.",
+        "ron": "Şi bagă picioarele tale în obezile ei şi în lanţul ei grumazul tău."
       }
     },
     {
@@ -1351,7 +1378,8 @@
         }
       ],
       "translations": {
-        "lxx": "Come unto her with thy whole heart, and keep her ways with all thy power."
+        "lxx": "Come unto her with thy whole heart, and keep her ways with all thy power.",
+        "ron": "Încovoaie umărul tău şi o poartă pe ea şi să nu-ţi fie greu de legăturile ei."
       }
     },
     {
@@ -1391,7 +1419,8 @@
         }
       ],
       "translations": {
-        "lxx": "Search, and seek, and she shall be made known unto thee: and when thou hast got hold of her, let her not go."
+        "lxx": "Search, and seek, and she shall be made known unto thee: and when thou hast got hold of her, let her not go.",
+        "ron": "Cu tot sufletul tău apropie-te de ea şi cu toată puterea ta păzeşte căile ei."
       }
     },
     {
@@ -1426,7 +1455,8 @@
         }
       ],
       "translations": {
-        "lxx": "For at the last thou shalt find her rest, and that shall be turned to thy joy."
+        "lxx": "For at the last thou shalt find her rest, and that shall be turned to thy joy.",
+        "ron": "Cearcă-o şi o caută şi ţi se va arăta şi, dacă o vei afla, să nu o laşi."
       }
     },
     {
@@ -1481,7 +1511,8 @@
         }
       ],
       "translations": {
-        "lxx": "Then shall her fetters be a strong defence for thee, and her chains a robe of glory."
+        "lxx": "Then shall her fetters be a strong defence for thee, and her chains a robe of glory.",
+        "ron": "Că mai pe urmă vei afla odihna ei şi ţi se va întoarce întru bucurie."
       }
     },
     {
@@ -1536,7 +1567,8 @@
         }
       ],
       "translations": {
-        "lxx": "For there is a golden ornament upon her, and her bands are purple lace."
+        "lxx": "For there is a golden ornament upon her, and her bands are purple lace.",
+        "ron": "Şi îţi vor fi obezile ei acoperământ de tărie şi lanţurile ei podoabă de mărire."
       }
     },
     {
@@ -1581,7 +1613,8 @@
         }
       ],
       "translations": {
-        "lxx": "Thou shalt put her on as a robe of honour, and shalt put her about thee as a crown of joy."
+        "lxx": "Thou shalt put her on as a robe of honour, and shalt put her about thee as a crown of joy.",
+        "ron": "Că podoabă de aur este în ea şi legăturile ei fire de iachint."
       }
     },
     {
@@ -1636,7 +1669,8 @@
         }
       ],
       "translations": {
-        "lxx": "My son, if thou wilt, thou shalt be taught: and if thou wilt apply thy mind, thou shalt be prudent."
+        "lxx": "My son, if thou wilt, thou shalt be taught: and if thou wilt apply thy mind, thou shalt be prudent.",
+        "ron": "Ca şi cu haină de mărire te vei îmbrăca cu ea şi cunună de bucurie îţi vei pune."
       }
     },
     {
@@ -1691,7 +1725,8 @@
         }
       ],
       "translations": {
-        "lxx": "If thou love to hear, thou shalt receive understanding: and if thou bow thine ear, thou shalt be wise."
+        "lxx": "If thou love to hear, thou shalt receive understanding: and if thou bow thine ear, thou shalt be wise.",
+        "ron": "De vei vrea, fiule, vei învăţa şi, de vei pune sufletul tău, iscusit vei fi."
       }
     },
     {
@@ -1741,7 +1776,8 @@
         }
       ],
       "translations": {
-        "lxx": "Stand in the multitude of the elders; and cleave unto him that is wise."
+        "lxx": "Stand in the multitude of the elders; and cleave unto him that is wise.",
+        "ron": "De-ţi va plăcea să asculţi, vei învăţa şi de vei pleca urechea ta, înţelept vei fi."
       }
     },
     {
@@ -1791,7 +1827,8 @@
         }
       ],
       "translations": {
-        "lxx": "Be willing to hear every godly discourse: and let not the parables of understanding escape thee."
+        "lxx": "Be willing to hear every godly discourse: and let not the parables of understanding escape thee.",
+        "ron": "Stai în tovărăşia celor bătrâni şi cu cel înţelept te uneşte."
       }
     },
     {
@@ -1846,7 +1883,8 @@
         }
       ],
       "translations": {
-        "lxx": "And if thou seest a man of understanding, get thee betimes unto him, and let thy foot wear the steps of his door."
+        "lxx": "And if thou seest a man of understanding, get thee betimes unto him, and let thy foot wear the steps of his door.",
+        "ron": "Tot graiul dumnezeiesc pofteşte a-l auzi şi pildele înţelegerii să nu treacă de la tine."
       }
     },
     {
@@ -1921,7 +1959,8 @@
         }
       ],
       "translations": {
-        "lxx": "Let thy mind be upon the ordinances of the Lord, and meditate continually in his commandments: he shall establish thine heart, and give thee wisdom at thine own desire."
+        "lxx": "Let thy mind be upon the ordinances of the Lord, and meditate continually in his commandments: he shall establish thine heart, and give thee wisdom at thine own desire.",
+        "ron": "De vei vedea înţelept, intră la el şi pragurile uşilor lui să le roadă piciorul tău."
       }
     }
   ],

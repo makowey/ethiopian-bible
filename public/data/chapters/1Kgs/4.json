@@ -6,115 +6,172 @@
       "num": 1,
       "geez": "",
       "translation": "And king Solomon reigned over Israel.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Şi a fost regele Solomon rege peste tot Israelul."
+      }
     },
     {
       "num": 2,
       "geez": "",
       "translation": "And these are the princes which he had; Azarias son of Sadoc.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Iată acum căpeteniile pe care le avea el la curtea sa: Azaria, fiul lui Ţadoc, preotul;"
+      }
     },
     {
       "num": 3,
       "geez": "",
       "translation": "Eliaph, and Achia son of Seba, scribes; and Josaphat son of Achilud, recorder.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Elihoref şi Ahia, fiii lui Şişa, scriitori; Ioasaf, fiul lui Ahilud, cronicar;"
+      }
     },
     {
       "num": 4,
       "geez": "",
       "translation": "And Banæas son of Jodae over the host; and Sadoc and Abiathar were priests.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Benaia, fiul lui Iehoiada, căpetenie peste oştire; Ţadoc şi Abiatar, preoţi;"
+      }
     },
     {
       "num": 5,
       "geez": "",
       "translation": "And Ornia the son of Nathan was over the officers; and Zabuth son of Nathan was the king's friend.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Azaria, fiul lui Natan, căpetenie peste ispravnici, iar Zabud, fiul lui Natan, preot şi prieten al regelui;"
+      }
     },
     {
       "num": 6,
       "geez": "",
       "translation": "And Achisar was steward, and Eliac the chief steward; and Eliab the son of Saph was over the family: and Adoniram the son of Audon over the tribute.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Ahişar era căpetenie peste casa regelui; Eliav, fiul lui Saf, era peste moşii şi Adoniram, fiul lui Abda, era peste dări."
+      }
     },
     {
       "num": 7,
       "geez": "",
       "translation": "And Solomon had twelve officers over all Israel, to provide for the king and his household; each one's turn came to supply for a month in the year.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Şi mai avea Solomon doisprezece ispravnici peste tot Israelul, care aduceau alimente pentru rege şi casa lui; fiecare trebuia să aducă alimente pe o lună în an."
+      }
     },
     {
       "num": 8,
       "geez": "",
       "translation": "And these were their names: Been the son of Or in the mount of Ephraim, one.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Iată numele lor: Ben-Hur, peste muntele lui Efraim, singur;"
+      }
     },
     {
       "num": 9,
       "geez": "",
       "translation": "The son of Dacar, in Makes, and in Salabin, and Bæthsamys, and Elon as far as Bethanan, one.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Ben-Decher, peste Macaţ, peste Şaalebim, peste Bet-Şemeş, peste Elon şi peste Bet-Hanan;"
+      }
     },
     {
       "num": 10,
       "geez": "",
       "translation": "The son of Esdi in Araboth; his was Socho, and all the land of Opher.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Ben-Hased, peste Arubot; şi tot sub el mai era şi Soco, cum şi tot pământul Hefer;"
+      }
     },
     {
       "num": 11,
       "geez": "",
       "translation": "All Nephthador belonged to the son of Aminadab, Tephath daughter of Solomon was his wife, one.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Ben-Abinadab, peste tot Nafat-Dor; Tafat, fiica lui Solomon, era femeia lui;"
+      }
     },
     {
       "num": 12,
       "geez": "",
       "translation": "Bana son of Achiluth had Ithaanach, and Mageddo, and his was the whole house of San which was by Sesathan below Esrae, and from Bethsan as far as Sabelmaula, as far as Maëber Lucam, one.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Baana, fiul lui Ahilud, peste Tanac, peste Meghidon şi peste tot pământul Bet-Şeanului, care este aproape de Ţartan, mai jos de Izreel, de la Bet-Şean până la Abel-Mehol şi chiar până dincolo de Iocmeam;"
+      }
     },
     {
       "num": 13,
       "geez": "",
       "translation": "The son of Naber in Raboth Galaad, to him fell the lot of Ergab in Basan, sixty great cities with walls, and brazen bars, one.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Ben-Gheber, peste Ramot-Galaad; sub el mai erau şi satele lui Iair, fiul lui Manase, care sunt în Galaad; tot sub el mai era şi ţinutul Argob, care este în Vasan, şaizeci de cetăţi mari cu ziduri şi zăvoare de aramă;"
+      }
     },
     {
       "num": 14,
       "geez": "",
       "translation": "Achinadab son of Saddo, had Maanaim.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Ahinadab, fiul lui Ido, peste Mahanaim;"
+      }
     },
     {
       "num": 15,
       "geez": "",
       "translation": "Achimaas was in Nephthalim, and he took Basemmath daughter of Solomon to wife, one.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Ahimaaţ, care a avut de femeie pe Basemat, fiica lui Solomon, era peste pământul Neftali;"
+      }
     },
     {
       "num": 16,
       "geez": "",
       "translation": "Baana son of Chusi, in Aser and in Baaloth, one,",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Baana, fiul lui Huşai, peste Aşer şi Bealot;"
+      }
     },
     {
       "num": 17,
       "geez": "",
       "translation": "Semei son of Ela, in Benjamin.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Iosafat, fiul lui Paruah, peste Isahar;"
+      }
     },
     {
       "num": 18,
       "geez": "",
       "translation": "Gaber son of Adai in the land of Gad, the land of Seon king of Esebon, and of Og king of Basan, and one officer in the land of Juda.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Şimei, fiul lui Ela, peste Veniamin;"
+      }
     },
     {
       "num": 19,
       "geez": "",
       "translation": "Josaphat son of Phuasud was in Issachar.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Gheber, fiul lui Urie, peste Galaad, peste ţara lui Sihon, regele Amoreilor, şi a lui Og, regele Vasanului. El era singur ispravnic peste aceste pământuri."
+      }
     }
   ]
 }

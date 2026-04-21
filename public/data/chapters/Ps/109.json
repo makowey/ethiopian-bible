@@ -6,43 +6,64 @@
       "num": 1,
       "geez": "",
       "translation": "A Psalm of David. The Lord said to my Lord, Sit thou on my right hand, until I make thine enemies thy footstool.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Zis-a Domnul Domnului Meu: \"Şezi de-a dreapta Mea, până ce voi pune pe vrăjmaşii Tăi aşternut picioarelor Tale\"."
+      }
     },
     {
       "num": 2,
       "geez": "",
       "translation": "The Lord shall send out a rod of power for thee out of Sion: rule thou in the midst of thine enemies.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Toiagul puterii Tale ţi-l va trimite Domnul din Sion, zicând: \"Stăpâneşte în mijlocul vrăjmaşilor Tăi."
+      }
     },
     {
       "num": 3,
       "geez": "",
       "translation": "With thee is dominion in the day of thy power, in the splendours of thy saints: I have begotten thee from the womb before the morning.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Cu Tine este poporul Tău în ziua puterii Tale, întru strălucirile sfinţilor Tăi. Din pântece mai înainte de luceafăr Te-am născut\"."
+      }
     },
     {
       "num": 4,
       "geez": "",
       "translation": "The Lord sware, and will not repent, Thou art a priest for ever, after the order of Melchisedec.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Juratu-S-a Domnul şi nu-I va părea rău: \"Tu eşti preot în veac, după rânduiala lui Melchisedec\"."
+      }
     },
     {
       "num": 5,
       "geez": "",
       "translation": "The Lord at thy right hand has dashed in pieces kings in the day of his wrath.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Domnul este de-a dreapta Ta; sfărâmat-a în ziua mâniei Sale împăraţi."
+      }
     },
     {
       "num": 6,
       "geez": "",
       "translation": "He shall judge among the nations, he shall fill up the number of corpses, he shall crush the heads of many on the earth.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Judeca-va între neamuri; va umple totul de ruini; va zdrobi capetele multora pe pământ."
+      }
     },
     {
       "num": 7,
       "geez": "",
       "translation": "He shall drink of the brook in the way; therefore shall he lift up the head.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Din pârâu pe cale va bea; pentru aceasta va înălţa capul."
+      }
     }
   ]
 }

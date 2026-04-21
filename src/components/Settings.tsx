@@ -115,6 +115,16 @@ export function Settings({ open, onClose, settings, onUpdate }: SettingsProps) {
               <label className="flex items-center gap-3 cursor-pointer">
                 <input
                   type="checkbox"
+                  checked={settings.showRon}
+                  onChange={e => onUpdate({ showRon: e.target.checked })}
+                  className="w-4 h-4 rounded border-border accent-accent"
+                />
+                <span className="w-1.5 h-1.5 rounded-full bg-ron flex-shrink-0" aria-hidden="true" />
+                <span className="text-sm font-body text-text">Română Ortodoxă</span>
+              </label>
+              <label className="flex items-center gap-3 cursor-pointer">
+                <input
+                  type="checkbox"
                   checked={settings.showGeezSource}
                   onChange={e => onUpdate({ showGeezSource: e.target.checked })}
                   className="w-4 h-4 rounded border-border accent-accent"

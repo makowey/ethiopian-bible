@@ -6,133 +6,199 @@
       "num": 1,
       "geez": "",
       "translation": "A Psalm of David. To thee, O Lord, have I lifted up my soul.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Către Tine, Doamne, am ridicat sufletul meu, Dumnezeul meu."
+      }
     },
     {
       "num": 2,
       "geez": "",
       "translation": "O my God, I have trusted in thee: let me not be confounded, neither let mine enemies laugh me to scorn.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Spre Tine am nădăjduit, să nu fiu ruşinat în veac, nici să râdă de mine vrăjmaşii mei."
+      }
     },
     {
       "num": 3,
       "geez": "",
       "translation": "For none of them that wait on thee shall in any wise be ashamed: let them be ashamed that transgress without cause.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Pentru că toţi cei ce Te aşteaptă pe Tine nu se vor ruşina; să se ruşineze toţi cei ce fac fărădelegi în deşert."
+      }
     },
     {
       "num": 4,
       "geez": "",
       "translation": "Shew me thy ways, O Lord; and teach me thy paths.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Căile Tale, Doamne, arată-mi, şi cărările Tale mă învaţă."
+      }
     },
     {
       "num": 5,
       "geez": "",
       "translation": "Lead me in thy truth, and teach me: for thou art God my Saviour: and I have waited on thee all the day.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Îndreptează-mă spre adevărul Tău şi mă învaţă, că Tu eşti Dumnezeu, Mântuitorul meu, şi pe Tine Te-am aşteptat toată ziua."
+      }
     },
     {
       "num": 6,
       "geez": "",
       "translation": "Remember thy compassions, O Lord, and thy mercies, for they are from everlasting.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Adu-ţi aminte de îndurările şi milele Tale, Doamne, că din veac sunt."
+      }
     },
     {
       "num": 7,
       "geez": "",
       "translation": "Remember not the sins of my youth, nor my sins of ignorance: remember me according to thy mercy, for thy goodness' sake, O Lord.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Păcatele tinereţilor mele şi ale neştiinţei mele nu le pomeni."
+      }
     },
     {
       "num": 8,
       "geez": "",
       "translation": "Good and upright is the Lord: therefore will he instruct sinners in the way.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "După mila Ta pomeneşte-mă Tu, pentru bunătatea Ta, Doamne."
+      }
     },
     {
       "num": 9,
       "geez": "",
       "translation": "The meek will he guide in judgment: the meek will he teach his ways.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Bun şi drept este Domnul, pentru aceasta lege va pune celor ce greşesc în cale."
+      }
     },
     {
       "num": 10,
       "geez": "",
       "translation": "All the ways of the Lord are mercy and truth to them that seek his covenant and his testimonies.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Îndrepta-va pe cei blânzi la judecată, învăţa-va pe cei blânzi căile Sale."
+      }
     },
     {
       "num": 11,
       "geez": "",
       "translation": "For thy name's sake, O Lord, do thou also be merciful to my sin; for it is great.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Toate căile Domnului sunt milă şi adevăr pentru cei ce caută aşezământul Lui şi mărturiile Lui."
+      }
     },
     {
       "num": 12,
       "geez": "",
       "translation": "Who is the man that fears the Lord? he shall instruct him in the way which he has chosen.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Pentru numele Tău, Doamne, curăţeşte păcatul meu că mult este."
+      }
     },
     {
       "num": 13,
       "geez": "",
       "translation": "His soul shall dwell in prosperity; and his seed shall inherit the earth.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Cine este omul cel ce se teme de Domnul? Lege va pune lui în calea pe care a ales-o."
+      }
     },
     {
       "num": 14,
       "geez": "",
       "translation": "The Lord is the strength of them that fear him; and his covenant is to manifest truth to them.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Sufletul lui întru bunătăţi se va sălăşlui şi seminţia lui va moşteni pământul."
+      }
     },
     {
       "num": 15,
       "geez": "",
       "translation": "Mine eyes are continually to the Lord; for he shall draw my feet out of the snare.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Domnul este întărirea celor ce se tem de El, aşezământul Lui îl va arăta lor."
+      }
     },
     {
       "num": 16,
       "geez": "",
       "translation": "Look upon me, and have mercy upon me; for I am an only child and poor.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Ochii mei sunt pururea spre Domnul că El va scoate din laţ picioarele mele."
+      }
     },
     {
       "num": 17,
       "geez": "",
       "translation": "The afflictions of my heart have been multiplied; deliver me from my distresses.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Caută spre mine şi mă miluieşte, că părăsit şi sărac sunt eu."
+      }
     },
     {
       "num": 18,
       "geez": "",
       "translation": "Look upon mine affliction and my trouble; and forgive all my sins.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Necazurile inimii mele s-au înmulţit; din nevoile mele scoate-mă."
+      }
     },
     {
       "num": 19,
       "geez": "",
       "translation": "Look upon mine enemies; for they have been multiplied; and they have hated me with unjust hatred.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Vezi smerenia mea şi osteneala mea şi-mi iartă toate păcatele mele."
+      }
     },
     {
       "num": 20,
       "geez": "",
       "translation": "Keep my soul, and deliver me: let me not be ashamed; for I have hoped in thee.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Vezi pe vrăjmaşii mei că s-au înmulţit şi cu ură nedreaptă m-au urât."
+      }
     },
     {
       "num": 21,
       "geez": "",
       "translation": "The harmless and upright joined themselves to me: for I waited for thee, O Lord.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Păzeşte sufletul meu şi mă izbăveşte, ca să nu mă ruşinez că am nădăjduit în Tine."
+      }
     },
     {
       "num": 22,
       "geez": "",
       "translation": "Deliver Israel, O God, out of all his afflictions.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Cei fără răutate şi cei drepţi s-au lipit de mine, că Te-am aşteptat, Doamne."
+      }
     }
   ]
 }

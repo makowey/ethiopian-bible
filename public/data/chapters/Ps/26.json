@@ -6,85 +6,127 @@
       "num": 1,
       "geez": "",
       "translation": "A Psalm of David, before he was anointed. The Lord is my light and my Saviour; whom shall I fear? the Lord is the defender of my life; of whom shall I be afraid?",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Domnul este luminarea mea şi mântuirea mea; de cine mă voi teme?"
+      }
     },
     {
       "num": 2,
       "geez": "",
       "translation": "When evil-doers drew nigh against me to eat up my flesh, my persecutors and mine enemies, they fainted and fell.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Domnul este apărătorul vieţii mele; de cine mă voi înfricoşa?"
+      }
     },
     {
       "num": 3,
       "geez": "",
       "translation": "Though an army should set itself in array against me, my heart shall not be afraid: though war should rise up against me, in this am I confident.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Când se vor apropia de mine cei ce îmi fac rău, ca să mănânce trupul meu;"
+      }
     },
     {
       "num": 4,
       "geez": "",
       "translation": "One thing have I asked of the Lord, this will I earnestly seek: that I should dwell in the house of the Lord all the days of my life, that I should behold the fair beauty of the Lord, and survey his temple.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Cei ce mă necăjesc şi vrăjmaşii mei, aceia au slăbit şi au căzut."
+      }
     },
     {
       "num": 5,
       "geez": "",
       "translation": "For in the day of mine afflictions he hid me in his tabernacle: he sheltered me in the secret of his tabernacle; he set me up on a rock.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "De s-ar rîndui împotriva mea oştire, nu se va înfricoşa inima mea."
+      }
     },
     {
       "num": 6,
       "geez": "",
       "translation": "And now, behold, he has lifted up mine head over mine enemies: I went round and offered in his tabernacle the sacrifice of joy; I will sing, even sing psalms to the Lord.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "De s-ar ridica împotriva mea război, eu în El nădăjduiesc."
+      }
     },
     {
       "num": 7,
       "geez": "",
       "translation": "Hear, O Lord, my voice which I have uttered aloud: pity me, and hearken to me.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Una am cerut de la Domnul, pe aceasta o voi căuta: să locuiesc în casa Domnului în toate zilele vieţii mele,"
+      }
     },
     {
       "num": 8,
       "geez": "",
       "translation": "My heart said to thee, I have diligently sought thy face: thy face, O Lord, I will seek.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Ca să văd frumuseţea Domnului şi să cercetez locaşul Lui."
+      }
     },
     {
       "num": 9,
       "geez": "",
       "translation": "Turn not thy face away from me, turn not thou away from thy servant in anger: be thou my helper, forsake me not; and, O God my Saviour, overlook me not.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Că Domnul m-a ascuns în cortul Lui în ziua necazurilor mele; m-a acoperit în locul cel ascuns al cortului Lui;"
+      }
     },
     {
       "num": 10,
       "geez": "",
       "translation": "For my father and my mother have forsaken me, but the Lord has taken me to himself.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Pe piatră m-a înălţat. Şi acum iată, a înălţat capul meu peste vrăjmaşii mei."
+      }
     },
     {
       "num": 11,
       "geez": "",
       "translation": "Teach me, O Lord, in thy way, and guide me in a right path, because of mine enemies.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Înconjurat-am şi am jertfit în cortul Lui jertfă de laudă. Îl voi lăuda şi voi cânta Domnului."
+      }
     },
     {
       "num": 12,
       "geez": "",
       "translation": "Deliver me not over to the desire of them that afflict me; for unjust witnesses have risen up against me, and injustice has lied within herself.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Auzi, Doamne, glasul meu cu care am strigat; miluieşte-mă şi mă ascultă."
+      }
     },
     {
       "num": 13,
       "geez": "",
       "translation": "I believe that I shall see the goodness of the Lord in the land of the living.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Ţie a zis inima mea: Pe Domnul voi căuta. Te-a căutat faţa mea; faţa Ta, Doamne, voi căuta."
+      }
     },
     {
       "num": 14,
       "geez": "",
       "translation": "Wait on the Lord: be of good courage, and let thy heart be strengthened: yea, wait on the Lord.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Să nu-ţi întorci faţa Ta de la mine şi să nu Te abaţi întru mânie de la robul Tău;"
+      }
     }
   ]
 }

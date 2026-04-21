@@ -6,43 +6,64 @@
       "num": 1,
       "geez": "",
       "translation": "For the end, a Psalm of David. The fool has said in his heart, There is no God. They have corrupted themselves, and become abominable in their devices; there is none that does goodness, there is not even so much as one.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Zis-a cel nebun în inima sa: \"Nu este Dumnezeu!\" Stricatu-s-au oamenii şi urâţi s-au făcut întru îndeletnicirile lor. Nu este cel ce face bunătate, nu este până la unul."
+      }
     },
     {
       "num": 2,
       "geez": "",
       "translation": "The Lord looked down from heaven upon the sons of men, to see if there were any that understood, or sought after God.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Domnul din cer a privit peste fiii oamenilor, să vadă de este cel ce înţelege, sau cel ce caută pe Dumnezeu."
+      }
     },
     {
       "num": 3,
       "geez": "",
       "translation": "They are all gone out of the way, they are together become good for nothing, there is none that does good, no not one. Their throat is an open sepulchre; with their tongues they have used deceit; the poison of asps is under their lips: whose mouth is full of cursing and bitterness; their feet are swift to shed blood: destruction and misery are in their ways; and the way of peace they have not known: there is no fear of God before their eyes.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Toţi s-au abătut, împreună netrebnici s-au făcut; nu este cel ce face bunătate, nu este până la unul."
+      }
     },
     {
       "num": 4,
       "geez": "",
       "translation": "Will not all the workers of iniquity know, who eat up my people as they would eat bread? they have not called upon the Lord.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Oare, nu se vor înţelepţi toţi cei ce lucrează fărădelegea? Cei ce mănâncă pe poporul Meu ca pâinea, pe Domnul nu L-au chemat."
+      }
     },
     {
       "num": 5,
       "geez": "",
       "translation": "There were they alarmed with fear, where there was no fear; for God is in the righteous generation.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Acolo s-au temut de frică, unde nu era frică, că Dumnezeu este cu neamul drepţilor."
+      }
     },
     {
       "num": 6,
       "geez": "",
       "translation": "Ye have shamed the counsel of the poor, because the Lord is his hope.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Săracul nădăjduieşte în Domnul şi voi aţi râs de nădejdea lui, zicând: Cine va da din Sion mântuire lui Israel?"
+      }
     },
     {
       "num": 7,
       "geez": "",
       "translation": "Who will bring the salvation of Israel out of Sion? when the Lord brings back the captivity of his people, let Jacob exult, and Israel be glad.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Dar când va întoarce Domnul pe cei robiţi ai poporului Său, bucura-se-va Iacob şi se va veseli Israel."
+      }
     }
   ]
 }

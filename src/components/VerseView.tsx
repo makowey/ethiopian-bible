@@ -14,6 +14,7 @@ interface VerseViewProps {
   chapter: number
   isBookmarked: boolean
   onToggleBookmark: (verseNum: number) => void
+  isFocused?: boolean
 }
 
 export const VerseView = memo(function VerseView({
@@ -24,18 +25,22 @@ export const VerseView = memo(function VerseView({
   chapter,
   isBookmarked,
   onToggleBookmark,
+  isFocused = false,
 }: VerseViewProps) {
-  const { readingMode, showTransliteration, showLxx, showKjv, showAiTranslation, fontSize } = settings
+  const { readingMode, showTransliteration, showLxx, showKjv, showRon, showAiTranslation, fontSize } = settings
   const hasLxx = verse.translations?.lxx
   const hasKjv = verse.translations?.kjv
-  const hasDual = hasLxx || hasKjv
+  const hasRon = verse.translations?.ron
+  const hasDual = hasLxx || hasKjv || hasRon
   const [, setAnnotationKey] = useState(0)
   const handleAnnotationChange = useCallback(() => setAnnotationKey(k => k + 1), [])
 
   return (
     <div
       id={`verse-${verse.num}`}
-      className="verse-row group py-4 px-2 scroll-mt-20"
+      className={`verse-row group py-4 px-2 scroll-mt-20 rounded transition-colors duration-300 ${
+        isFocused ? 'bg-accent-dim' : ''
+      }`}
       style={{ fontSize }}
     >
       {/* Verse number + bookmark + variant + actions */}
@@ -84,19 +89,21 @@ export const VerseView = memo(function VerseView({
               hasDual={!!hasDual}
               showLxx={showLxx}
               showKjv={showKjv}
+              showRon={showRon}
               showAiTranslation={showAiTranslation}
               fontSize={fontSize}
             />
           )}
 
           {readingMode === 'read' && (
-            <ReadModeBlock verse={verse} showAiTranslation={showAiTranslation} fontSize={fontSize} />
+            <ReadModeBlock verse={verse} showRon={showRon} showAiTranslation={showAiTranslation} fontSize={fontSize} />
           )}
 
           {readingMode === 'compare' && (
             <CompareModeBlock
               verse={verse}
               hasDual={!!hasDual}
+              showRon={showRon}
               showAiTranslation={showAiTranslation}
               fontSize={fontSize}
             />
@@ -130,6 +137,7 @@ function TranslationBlock({
   hasDual,
   showLxx,
   showKjv,
+  showRon,
   showAiTranslation,
   fontSize,
 }: {
@@ -137,6 +145,7 @@ function TranslationBlock({
   hasDual: boolean
   showLxx: boolean
   showKjv: boolean
+  showRon: boolean
   showAiTranslation: boolean
   fontSize: number
 }) {
@@ -184,11 +193,24 @@ function TranslationBlock({
           </p>
         </div>
       )}
+      {showRon && verse.translations?.ron && (
+        <div className="border-l border-ron-border/60 pl-3">
+          <span className="text-ron/60 text-[0.65rem] font-body italic tracking-wide">
+            Română Ortodoxă
+          </span>
+          <p
+            className="verse-text text-text mt-0.5"
+            style={{ fontSize: fontSize * 0.85 }}
+          >
+            {verse.translations.ron}
+          </p>
+        </div>
+      )}
       {showAiTranslation && aiEntry && (
         <AiTranslationBlock aiEntry={aiEntry} fontSize={fontSize} />
       )}
-      {/* Fallback if neither source toggled on but we have the generic translation */}
-      {!showLxx && !showKjv && !showAiTranslation && verse.translation && (
+      {/* Fallback if no source toggled on but we have the generic translation */}
+      {!showLxx && !showKjv && !showRon && !showAiTranslation && verse.translation && (
         <p className="verse-text text-text" style={{ fontSize: fontSize * 0.85 }}>
           {verse.translation}
         </p>
@@ -197,9 +219,10 @@ function TranslationBlock({
   )
 }
 
-function ReadModeBlock({ verse, showAiTranslation, fontSize }: { verse: Verse; showAiTranslation: boolean; fontSize: number }) {
-  // Clean reading: just the primary English text
-  const scholarlyText = verse.translations?.lxx || verse.translations?.kjv || verse.translation
+function ReadModeBlock({ verse, showRon, showAiTranslation, fontSize }: { verse: Verse; showRon: boolean; showAiTranslation: boolean; fontSize: number }) {
+  // Clean reading: Romanian is primary when available and toggled on; fall back to LXX/KJV
+  const ronText = showRon ? verse.translations?.ron : undefined
+  const scholarlyText = ronText || verse.translations?.lxx || verse.translations?.kjv || verse.translation
   const aiEntry = verse.translations?.ai
 
   // Use AI as fallback when no scholarly translation exists
@@ -224,11 +247,13 @@ function ReadModeBlock({ verse, showAiTranslation, fontSize }: { verse: Verse; s
 function CompareModeBlock({
   verse,
   hasDual,
+  showRon,
   showAiTranslation,
   fontSize,
 }: {
   verse: Verse
   hasDual: boolean
+  showRon: boolean
   showAiTranslation: boolean
   fontSize: number
 }) {
@@ -278,6 +303,19 @@ function CompareModeBlock({
             style={{ fontSize: fontSize * 0.85 }}
           >
             {verse.translations.kjv}
+          </p>
+        </div>
+      )}
+      {showRon && verse.translations?.ron && (
+        <div className="border-l border-ron-border/60 pl-3">
+          <span className="text-ron/60 text-[0.65rem] font-body italic tracking-wide">
+            Română Ortodoxă
+          </span>
+          <p
+            className="verse-text text-text mt-0.5"
+            style={{ fontSize: fontSize * 0.85 }}
+          >
+            {verse.translations.ron}
           </p>
         </div>
       )}

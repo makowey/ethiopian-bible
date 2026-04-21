@@ -6,73 +6,109 @@
       "num": 1,
       "geez": "",
       "translation": "A Psalm of David, when his son pursued him. O Lord, attend to my prayer: hearken to my supplication in thy truth; hear me in thy righteousness.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Doamne, auzi rugăciunea mea, ascultă cererea mea, întru credincioşia Ta, auzi-mă, întru dreptatea Ta."
+      }
     },
     {
       "num": 2,
       "geez": "",
       "translation": "And enter not into judgment with thy servant, for in thy sight shall no man living be justified.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Să nu intri la judecată cu robul Tău, că nimeni din cei vii nu-i drept înaintea Ta."
+      }
     },
     {
       "num": 3,
       "geez": "",
       "translation": "For the enemy has persecuted my soul; he has brought my life down to the ground; he has made me to dwell in a dark place, as those that have been long dead.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Vrăjmaşul prigoneşte sufletul meu şi viaţa mea o calcă în picioare; făcutu-m-a să locuiesc în întuneric ca morţii cei din veacuri."
+      }
     },
     {
       "num": 4,
       "geez": "",
       "translation": "Therefore my spirit was grieved in me; my heart was troubled within me.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Mâhnit e duhul în mine şi inima mea încremenită înlăuntrul meu."
+      }
     },
     {
       "num": 5,
       "geez": "",
       "translation": "I remembered the days of old; and I meditated on all thy doings: yea, I meditated on the works of thine hands.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Adusu-mi-am aminte de zilele cele de demult; cugetat-am la toate lucrurile Tale, la faptele mâinilor Tale m-am gândit."
+      }
     },
     {
       "num": 6,
       "geez": "",
       "translation": "I spread forth my hands to thee; my soul thirsts for thee, as a dry land. Pause.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Întins-am către Tine mâinile mele, sufletul meu ca un pământ însetoşat."
+      }
     },
     {
       "num": 7,
       "geez": "",
       "translation": "Hear me speedily, O Lord; my spirit has failed; turn not away thy face from me, else I shall be like to them that go down to the pit.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Degrab auzi-mă, Doamne, că a slăbit duhul meu. Nu-ţi întoarce faţa Ta de la mine, ca să nu mă asemăn celor ce se coboară în mormânt."
+      }
     },
     {
       "num": 8,
       "geez": "",
       "translation": "Cause me to hear thy mercy in the morning; for I have hoped in thee; make known to me, O Lord, the way wherein I should walk; for I have lifted up my soul to thee.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Fă să aud dimineaţa mila Ta, că la Tine îmi este nădejdea. Arată-mi calea pe care voi merge, că la Tine am ridicat sufletul meu."
+      }
     },
     {
       "num": 9,
       "geez": "",
       "translation": "Deliver me from mine enemies, O Lord; for I have fled to thee for refuge.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Scapă-mă de vrăjmaşii mei, că la Tine alerg, Doamne."
+      }
     },
     {
       "num": 10,
       "geez": "",
       "translation": "Teach me to do thy will; for thou art my God; thy good Spirit shall guide me in the straight way.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Învaţă-mă să fac voia Ta, că Tu eşti Dumnezeul meu. Duhul Tău cel bun să mă povăţuiască la pământul dreptăţii."
+      }
     },
     {
       "num": 11,
       "geez": "",
       "translation": "Thou shalt quicken me, O Lord, for thy name's sake; in thy righteousness thou shalt bring my soul out of affliction.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Pentru numele Tău, Doamne, dăruieşte-mi viaţă. Întru dreptatea Ta scoate din necaz sufletul meu."
+      }
     },
     {
       "num": 12,
       "geez": "",
       "translation": "And in thy mercy thou wilt destroy mine enemies, and wilt destroy all those that afflict my soul; for I am thy servant.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Fă bunătate de stârpeşte pe vrăjmaşii mei şi pierde pe toţi cei ce necăjesc sufletul meu, că eu sunt robul Tău."
+      }
     }
   ]
 }

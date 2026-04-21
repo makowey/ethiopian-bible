@@ -6,49 +6,73 @@
       "num": 1,
       "geez": "",
       "translation": "A Song of Degrees. Out of the depths have I cried to thee, O Lord.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Dintru adâncuri am strigat către Tine; Doamne! Doamne, auzi glasul meu!"
+      }
     },
     {
       "num": 2,
       "geez": "",
       "translation": "O Lord, hearken to my voice; let thine ears be attentive to the voice of my supplication.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Fie urechile Tale cu luare-aminte la glasul rugăciunii mele."
+      }
     },
     {
       "num": 3,
       "geez": "",
       "translation": "If thou, O Lord, shouldest mark iniquities, O Lord, who shall stand?",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "De Te vei uita la fărădelegi, Doamne, Doamne, cine va suferi?"
+      }
     },
     {
       "num": 4,
       "geez": "",
       "translation": "For with thee is forgiveness: for thy name's sake",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Că la Tine este milostivirea."
+      }
     },
     {
       "num": 5,
       "geez": "",
       "translation": "have I waited for thee, O Lord, my soul has waited for thy word.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Pentru numele Tău, Te-am aşteptat, Doamne; aşteptat-a sufletul meu spre cuvântul Tău,"
+      }
     },
     {
       "num": 6,
       "geez": "",
       "translation": "My soul has hoped in the Lord; from the morning watch till night.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Nădăjduit-a sufletul meu în Domnul, din straja dimineţii până în noapte. Din straja dimineţii să nădăjduiască Israel spre Domnul."
+      }
     },
     {
       "num": 7,
       "geez": "",
       "translation": "Let Israel hope in the Lord: for with the Lord is mercy, and with him is plenteous redemption.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Că la Domnul este mila şi multă mântuire la El"
+      }
     },
     {
       "num": 8,
       "geez": "",
       "translation": "And he shall redeem Israel from all his iniquities.",
-      "words": []
+      "words": [],
+      "translations": {
+        "ron": "Şi El va izbăvi pe Israel din toate fărădelegile lui."
+      }
     }
   ]
 }
