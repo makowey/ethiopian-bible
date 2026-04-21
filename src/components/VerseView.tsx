@@ -35,7 +35,7 @@ export const VerseView = memo(function VerseView({
   return (
     <div
       id={`verse-${verse.num}`}
-      className="group py-4 scroll-mt-20"
+      className="verse-row group py-4 px-2 scroll-mt-20"
       style={{ fontSize }}
     >
       {/* Verse number + bookmark + variant + actions */}
