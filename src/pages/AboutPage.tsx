@@ -178,6 +178,7 @@ export function AboutPage() {
             Compare translations
           </Link>
         </p>
+        <p className="mt-3 text-text-faint font-mono text-[0.72rem]">{__COMMIT_HASH__}</p>
       </footer>
     </div>
   )
