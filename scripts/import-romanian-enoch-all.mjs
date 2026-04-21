@@ -1,121 +1,84 @@
 #!/usr/bin/env node
 /**
- * Parses the two-column Romanian "Toate Cărțile lui Enoh" text file and
- * injects translations.ron into public/data/chapters/1En/N.json files.
+ * Parses the Romanian "Toate Cărțile lui Enoh" PDF and injects translations.ron
+ * into public/data/chapters/1En/N.json files.
  *
- * The PDF was extracted as two columns side by side on each line, e.g.:
- *   "1.1  Left col text ...           2.1 Right col text ..."
- *
- * Strategy: scan each line for verse references (N.N) that appear either
- * at the start or after ≥5 spaces, split the line at those positions, and
- * associate each text fragment with the preceding verse number.
+ * The PDF is extracted in reading order (pdftotext without -layout), which gives
+ * a clean continuous text stream where verse refs appear as "N.N text".
  *
  * Usage:
  *   node scripts/import-romanian-enoch-all.mjs \
- *     "/Users/makowey/Downloads/822510142-ToateCărțileLuiEnoh-pdf.txt"
+ *     "/Users/makowey/Downloads/822510142-ToateCărțileLuiEnoh-pdf.pdf"
  */
 
 import fs from 'fs'
 import path from 'path'
 import { fileURLToPath } from 'url'
+import { execSync } from 'child_process'
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url))
 const DATA_DIR = path.join(__dirname, '../public/data/chapters/1En')
 
-const srcFile = process.argv[2] ??
-  '/Users/makowey/Downloads/822510142-ToateCărțileLuiEnoh-pdf.txt'
-const rawText = fs.readFileSync(srcFile, 'utf8')
+const srcArg = process.argv[2] ??
+  '/Users/makowey/Downloads/822510142-ToateCărțileLuiEnoh-pdf.pdf'
 
-// ── Limit to 1 Enoch section ─────────────────────────────────────────────────
-// 2 Enoch starts after "A doua carte a lui Enoh" header
-const end2En = rawText.indexOf('A doua carte a lui Enoh')
-const enochText = end2En > 0 ? rawText.slice(0, end2En) : rawText
-
-const SPLIT_COL = 44   // column boundary between left and right PDF columns
-const lines = enochText.split('\n')
-
-// ── Split each line into left/right column halves ─────────────────────────────
-
-/**
- * Returns [leftHalf, rightHalf] by splitting at SPLIT_COL.
- * Right half is undefined if the line is shorter than SPLIT_COL.
- */
-function splitColumns(line) {
-  // Pad with spaces to ensure we can split
-  const padded = line.padEnd(SPLIT_COL + 1, ' ')
-  const left = padded.slice(0, SPLIT_COL).trimEnd()
-  const right = padded.slice(SPLIT_COL).trim()
-  return [left, right || undefined]
+// Accept either PDF or pre-extracted txt
+let rawText
+if (srcArg.endsWith('.pdf')) {
+  rawText = execSync(`pdftotext "${srcArg}" -`, { maxBuffer: 50 * 1024 * 1024 }).toString()
+} else {
+  rawText = fs.readFileSync(srcArg, 'utf8')
 }
 
-// ── Verse segment extractor (for one column half) ─────────────────────────────
-const VERSE_REF = /^(\d{1,3})\.(\d{1,3})\s+(.*)/
+// ── Limit to 1 Enoch section (before 2 Enoch intro) ─────────────────────────
+const end1En = rawText.indexOf('Cartea Secretelor lui Enoh')
+const enochText = end1En > 0 ? rawText.slice(0, end1En) : rawText
 
-/**
- * If `halfLine` starts with a verse reference "N.N text…", return
- * {ch, v, text}; otherwise undefined (it's a continuation).
- */
-function parseVerseStart(halfLine) {
-  if (!halfLine) return undefined
-  const m = halfLine.trim().match(VERSE_REF)
-  if (!m) return undefined
+// ── Tokenise: split the full text at every verse reference ───────────────────
+// A verse ref looks like "N.N" where both parts are integers in range.
+// We match it when preceded by whitespace/start and followed by whitespace or
+// end-of-string, to avoid matching e.g. "108.15" inside a word.
+//
+// We build a flat array of tokens: { ch, v, text } where text is everything
+// from this verse ref up to (but not including) the next one.
+
+/** @type {Map<string, string>} "ch:v" → text */
+const verses = new Map()
+
+// Replace page numbers (standalone digits on their own line) with spaces
+const cleaned = enochText
+  .replace(/\n\d{1,3}\n/g, '\n')   // page numbers between blank-ish lines
+  .replace(/^\d{1,3}$/gm, '')       // standalone numbers on a line
+  .replace(/\n{3,}/g, '\n\n')
+
+// Split at verse boundaries. The verse ref regex captures (ch)(v) followed by
+// the rest of text until the next verse ref.
+// We scan the whole text for verse ref positions.
+
+const VERSE_RE = /\b(\d{1,3})\.(\d{1,3})\s+/g
+const tokens = []
+let lastMatch = null
+
+for (const m of cleaned.matchAll(VERSE_RE)) {
   const ch = parseInt(m[1], 10)
   const v = parseInt(m[2], 10)
-  if (ch < 1 || ch > 108) return undefined
-  return { ch, v, text: m[3].trim() }
+  if (ch < 1 || ch > 108 || v < 1 || v > 200) continue
+
+  if (lastMatch) {
+    const text = cleaned.slice(lastMatch.end, m.index).replace(/\s+/g, ' ').trim()
+    if (text.length > 3) tokens.push({ ch: lastMatch.ch, v: lastMatch.v, text })
+  }
+  lastMatch = { ch, v, end: m.index + m[0].length }
+}
+// Last token
+if (lastMatch) {
+  const text = cleaned.slice(lastMatch.end).replace(/\s+/g, ' ').trim()
+  if (text.length > 3) tokens.push({ ch: lastMatch.ch, v: lastMatch.v, text })
 }
 
-// ── Build verse map ───────────────────────────────────────────────────────────
-
-/** @type {Map<string, string[]>} "ch:v" → text fragments */
-const verseFragments = new Map()
-
-// Two independent "current verse" trackers for left and right columns
-let leftKey = null
-let rightKey = null
-
-for (const line of lines) {
-  const trimmed = line.trim()
-  if (!trimmed) { leftKey = null; rightKey = null; continue }
-  if (/^\d+$/.test(trimmed)) continue          // standalone page numbers
-  if (/^[-–—]+$/.test(trimmed)) continue      // separators
-
-  const [left, right] = splitColumns(line)
-
-  // Process left column
-  if (left) {
-    const ref = parseVerseStart(left)
-    if (ref) {
-      const key = `${ref.ch}:${ref.v}`
-      if (!verseFragments.has(key)) verseFragments.set(key, [])
-      if (ref.text) verseFragments.get(key).push(ref.text)
-      leftKey = key
-    } else if (leftKey && left.trim()) {
-      verseFragments.get(leftKey)?.push(left.trim())
-    }
-  }
-
-  // Process right column
-  if (right) {
-    const ref = parseVerseStart(right)
-    if (ref) {
-      const key = `${ref.ch}:${ref.v}`
-      if (!verseFragments.has(key)) verseFragments.set(key, [])
-      if (ref.text) verseFragments.get(key).push(ref.text)
-      rightKey = key
-    } else if (rightKey && right.trim()) {
-      verseFragments.get(rightKey)?.push(right.trim())
-    }
-  }
-}
-
-// ── Assemble verse texts ──────────────────────────────────────────────────────
-
-/** @type {Map<string, string>} "ch:v" → cleaned text */
-const verses = new Map()
-for (const [key, frags] of verseFragments) {
-  const text = frags.join(' ').replace(/\s{2,}/g, ' ').trim()
-  if (text.length > 3) verses.set(key, text)
+for (const { ch, v, text } of tokens) {
+  const key = `${ch}:${v}`
+  if (!verses.has(key)) verses.set(key, text)
 }
 
 // ── Group by chapter ──────────────────────────────────────────────────────────

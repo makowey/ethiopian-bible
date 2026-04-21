@@ -174,7 +174,7 @@
         }
       ],
       "translations": {
-        "ron": "În acele zile, Enoh a primit cărț de indignare și mânie și cărți de tumult și confuzie. Și nu va fi milă pentru ei, zice Domnul Duhurilor."
+        "ron": "În acele zile, Enoh a primit cărți de indignare și mânie și cărți de tumult și confuzie. Și nu va fi milă pentru ei, zice Domnul Duhurilor."
       }
     },
     {
@@ -564,7 +564,7 @@
         }
       ],
       "translations": {
-        "ron": "Și în acele zile, ochii mei au văzut Locul Aleșilor dreptății și credinței; și va fi neprihănire în zilele lo și cei drepți și aleșii vor fi fără număr, î fața lui, în vecii vecilor."
+        "ron": "Și în acele zile, ochii mei au văzut Locul Aleșilor dreptății și credinței; și va fi neprihănire în zilele lor și cei drepți și aleșii vor fi fără număr, în fața lui, în vecii vecilor."
       }
     },
     {
@@ -714,7 +714,7 @@
         }
       ],
       "translations": {
-        "ron": "Și am văzut locuința lor, sub Aripile Domnului Duhurilor, și toți drepții și aleșii au strălucit în fața lui, lumina focului. Și gura lor era plină de"
+        "ron": "Și am văzut locuința lor, sub Aripile Domnului Duhurilor, și toți drepții și aleșii au strălucit în fața lui, ca lumina focului. Și gura lor era plină de binecuvântare și buzele lor lăudau numele Domnului Duhurilor. Și dreptatea nu va eșua în fața lui și adevărul nu va eșua în fața lui."
       }
     },
     {
@@ -819,7 +819,7 @@
         }
       ],
       "translations": {
-        "ron": "Acolo voiam să locuiesc și sufletul meu tânjea după acea locuință; r acolo îmi fusese repartizată înainte, pentru că așa s-a hotărât despre mine, în fața Domnului Spiritelor."
+        "ron": "Acolo voiam să locuiesc și sufletul meu tânjea după acea locuință; acolo îmi fusese repartizată înainte, pentru că așa s-a hotărât despre mine, în fața Domnului Spiritelor."
       }
     },
     {
@@ -924,7 +924,7 @@
         }
       ],
       "translations": {
-        "ron": "Și în acele zile am lăudat și am înălțat numele Domnului Duhurilor, cu binecuvântare și laudă, căci El m-a rânduit spre binecuvântare și laudă, după a Domnul Duhurilor."
+        "ron": "Și în acele zile am lăudat și am înălțat numele Domnului Duhurilor, cu binecuvântare și laudă, căci El m-a rânduit spre binecuvântare și laudă, după Domnul Duhurilor."
       }
     },
     {
@@ -1199,7 +1199,7 @@
         }
       ],
       "translations": {
-        "ron": "Cei care nu dorm te i binecuvântează și stau înaintea Slavei Tale, binecuvântează și laudă și înalță zicând: „Sfânt, Sfânt, Sfânt, Domn al Duhurilor, El umple pământul de duhuri”."
+        "ron": "Cei care nu dorm te binecuvântează și stau înaintea Slavei Tale, binecuvântează și laudă și înalță zicând: „Sfânt, Sfânt, Sfânt, Domn al Duhurilor, El umple pământul de duhuri”."
       }
     },
     {
@@ -1299,7 +1299,7 @@
         }
       ],
       "translations": {
-        "ron": "Și acolo, ochii mei i-au văzut pe toți cei care nu dorm; stând în fața Lui și binecuvântând și zicând: „Binecuvântat ești tu și binecuvântat este numele Domnului, în vecii vecilor!” 39.14 Si fata mea s-a schimbat pana nu am putut sa vad."
+        "ron": "Și acolo, ochii mei i-au văzut pe toți cei care nu dorm; stând în fața Lui și binecuvântând și zicând: „Binecuvântat ești tu și binecuvântat este numele Domnului, în vecii vecilor!”"
       }
     },
     {
@@ -1332,7 +1332,10 @@
           "t": "näṣəro",
           "gl": ""
         }
-      ]
+      ],
+      "translations": {
+        "ron": "Si fata mea s-a schimbat pana nu am putut sa vad."
+      }
     }
   ]
 }

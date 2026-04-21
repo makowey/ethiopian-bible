@@ -459,7 +459,7 @@
         }
       ],
       "translations": {
-        "ron": "Iar el i-a spus: „Am născut un"
+        "ron": "Iar el i-a spus: „Am născut un fiu străin; el nu este ca un om, ci este ca copiii Îngerilor Cerului, de alt fel și nu ca noi. Și ochii lui sunt ca razele Soarelui și chipul lui glorios."
       }
     },
     {
@@ -1209,7 +1209,7 @@
         }
       ],
       "translations": {
-        "ron": "Și tatăl său, Lameh, s-a speriat și a fugit la mine. Și nu crede că este născut din el, ci crede că este din Îngerii Cerului. Și iată, am venit la tine, ca să-mi faci cunoscut adevărul.” 106.13 Iar eu, Enoh, i-am răspuns și i-am spus: „Domnul va face lucruri noi pe pământ și asta am văzut deja în o viziune și ți-a făcut cunoscută. Căci în generația tatălui meu, Iared, unii din înălțimea cerului au călcat cuvântul Domnului."
+        "ron": "Și tatăl său, Lameh, s-a speriat și a fugit la mine. Și nu crede că este născut din el, ci crede că este din Îngerii Cerului. Și iată, am venit la tine, ca să-mi faci cunoscut adevărul.”"
       }
     },
     {
@@ -1347,7 +1347,10 @@
           "t": "sämayə",
           "gl": ""
         }
-      ]
+      ],
+      "translations": {
+        "ron": "Iar eu, Enoh, i-am răspuns și i-am spus: „Domnul va face lucruri noi pe pământ și asta am văzut deja în o viziune și ți-a făcut cunoscută. Căci în generația tatălui meu, Iared, unii din înălțimea cerului au călcat cuvântul Domnului."
+      }
     },
     {
       "num": 14,
@@ -1436,7 +1439,7 @@
         }
       ],
       "translations": {
-        "ron": "Și iată, ei comit păcat și călc legea și au fost promiscui cu femeile și au păcat cu ele și s-au căsătorit cu unii dintre ei și au născut copii din ele."
+        "ron": "Și iată, ei comit păcat și călcă legea și au fost promiscui cu femeile și au păcat cu ele și s-au căsătorit cu unii dintre ei și au născut copii din ele."
       }
     },
     {
@@ -1516,7 +1519,7 @@
         }
       ],
       "translations": {
-        "ron": "Și va fi o mare distrugere"
+        "ron": "Și va fi o mare distrugere peste tot Pământul și va fi un potop și va fi o mare distrugere pentru un an."
       }
     },
     {

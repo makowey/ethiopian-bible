@@ -99,7 +99,7 @@
         }
       ],
       "translations": {
-        "ron": "Și în acele zile, dacă va i aduce un foc puternic asupra ta, unde vei fugi și unde vei fi în siguranță? Și când își va rosti glasul împotriva ta, nu vei fi înspăimântat și înspăimântat?"
+        "ron": "Și în acele zile, dacă va aduce un foc puternic asupra ta, unde vei fugi și unde vei fi în siguranță? Și când își va rosti glasul împotriva ta, nu vei fi înspăimântat și înspăimântat?"
       }
     },
     {
@@ -174,7 +174,7 @@
         }
       ],
       "translations": {
-        "ron": "Și toate Luminile se vor zgudui de mare teamă și întregul Pământ"
+        "ron": "Și toate Luminile se vor zgudui de mare teamă și întregul Pământ se va îngrozi și va tremura și va prepeli."
       }
     },
     {
@@ -284,7 +284,7 @@
         }
       ],
       "translations": {
-        "ron": "Și toți Îngerii își vor împli poruncile și vor căuta să se ascundă de Cel Mare în Slavă și copiii Pământului se vor cutremura și se vor scutura; iar voi, păcătoșii, veți fi blestemat pentru totdeauna și nu veți avea pace."
+        "ron": "Și toți Îngerii își vor împlini poruncile și vor căuta să se ascundă de Cel Mare în Slavă și copiii Pământului se vor cutremura și se vor scutura; iar voi, păcătoșii, veți fi blestemat pentru totdeauna și nu veți avea pace."
       }
     },
     {
@@ -479,7 +479,7 @@
         }
       ],
       "translations": {
-        "ron": "Și nu vă întristați că suflet voastre au coborât în tristețe în Sheol și că trupurile voastre nu au obținut în timpul vieții o răsplată conform bunătății voastre."
+        "ron": "Și nu vă întristați că sufletele voastre au coborât în tristețe în Sheol și că trupurile voastre nu au obținut în timpul vieții o răsplată conform bunătății voastre."
       }
     },
     {
@@ -554,7 +554,7 @@
         }
       ],
       "translations": {
-        "ron": "Dar când vei muri, păcătoșii vor spune despre tine: „Pe măsură ce murim noi, au murit și drepții și la ce le- au fost faptele lor?”"
+        "ron": "Dar când vei muri, păcătoșii vor spune despre tine: „Pe măsură ce murim noi, au murit și drepții și la ce leau fost faptele lor?”"
       }
     },
     {
@@ -614,7 +614,7 @@
         }
       ],
       "translations": {
-        "ron": "„Iată, ca noi, au murit în tristețe și în întuneric, și ce avantaj au e asupra noastră? De acum încolo suntem egali.”"
+        "ron": "„Iată, ca noi, au murit în tristețe și în întuneric, și ce avantaj au ei asupra noastră? De acum încolo suntem egali.”"
       }
     },
     {
@@ -689,7 +689,7 @@
         }
       ],
       "translations": {
-        "ron": "„Și ce vor primi ei și ce vor vedea pentru totdeauna? Căci iată, și ei au murit și de acum înainte nu vor mai vedea lumina.” 102.9 Și vă spun vouă, păcătoșilor: „Vă sunteți mulțumiți să mâncați și să beți, să dezbracați oamenii, să furați și să păcătuiți, să obțineți avere și să vedeți zile bune."
+        "ron": "„Și ce vor primi ei și ce vor vedea pentru totdeauna? Căci iată, și ei au murit și de acum înainte nu vor mai vedea lumina.”"
       }
     },
     {
@@ -772,7 +772,10 @@
           "t": "śänayatə",
           "gl": ""
         }
-      ]
+      ],
+      "translations": {
+        "ron": "Și vă spun vouă, păcătoșilor: „Vă sunteți mulțumiți să mâncați și să beți, să dezbracați oamenii, să furați și să păcătuiți, să obțineți avere și să vedeți zile bune."
+      }
     },
     {
       "num": 10,
@@ -851,7 +854,7 @@
         }
       ],
       "translations": {
-        "ron": "Dar ai văzut pe cei drepți cum sfârșitul lor a fost pacea, căci nu s-a găsi rău în ei până în ziua morții lor.”"
+        "ron": "Dar ai văzut pe cei drepți cum sfârșitul lor a fost pacea, căci nu s-a găsit rău în ei până în ziua morții lor.”"
       }
     },
     {

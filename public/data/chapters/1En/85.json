@@ -134,7 +134,7 @@
         }
       ],
       "translations": {
-        "ron": "Și Enoh și-a ridicat glasul și i- spus fiului său Matusala: „Ție îți vorbesc, fiule. Ascultă cuvintele mele și înclină-ți urechea către viziunea tatălui tău."
+        "ron": "Și Enoh și-a ridicat glasul și i-a spus fiului său Matusala: „Ție îți vorbesc, fiule. Ascultă cuvintele mele și înclină-ți urechea către viziunea tatălui tău."
       }
     },
     {
@@ -294,7 +294,7 @@
         }
       ],
       "translations": {
-        "ron": "Înainte să o iau pe mama ta,"
+        "ron": "Înainte să o iau pe mama ta, Edna, am văzut o vedenie pe patul meu: și iată - un taur a ieșit din pământ și acel taur era alb. Și, după ea, a ieșit o junincă, și cu juninca au venit doi tauri, iar unul era negru și celălalt roșu."
       }
     },
     {
@@ -584,7 +584,7 @@
         }
       ],
       "translations": {
-        "ron": "Și acea vaca, acea prima, a venit din prezența primului taur, căutând acel taur roșu, dar nu l-a găsit. Și apoi a gemut amar și a continuat să-l caute. i 85.7 Și m-am uitat până când a venit primul taur la el și l-am liniștit, și de atunci nu a mai strigat."
+        "ron": "Și acea vaca, acea prima, a venit din prezența primului taur, căutând acel taur roșu, dar nu l-a găsit. Și apoi a gemut amar și a continuat să-l caute."
       }
     },
     {
@@ -649,7 +649,7 @@
         }
       ],
       "translations": {
-        "ron": "Și m-am uitat până când a venit vecilor. primul taur la el și l-am liniștit, și de"
+        "ron": "Și m-am uitat până când a venit primul taur la el și l-am liniștit, și de atunci nu a mai strigat."
       }
     },
     {
@@ -719,7 +719,7 @@
         }
       ],
       "translations": {
-        "ron": "Și după aceasta, a născut un alt taur alb, iar după aceasta a născut mulți tauri și vaci negre. tul 85.9 Și am văzut, în somn, acel taur alb, cum a crescut la fel și a devenit un taur alb mare. Și din ea au venit mulți tauri albi, și au fost așa."
+        "ron": "Și după aceasta, a născut un alt taur alb, iar după aceasta a născut mulți tauri și vaci negre."
       }
     },
     {
@@ -822,7 +822,10 @@
           "t": "wäyəmäsələwo",
           "gl": ""
         }
-      ]
+      ],
+      "translations": {
+        "ron": "Și am văzut, în somn, acel taur alb, cum a crescut la fel și a devenit un taur alb mare. Și din ea au venit mulți tauri albi, și au fost așa."
+      }
     },
     {
       "num": 10,

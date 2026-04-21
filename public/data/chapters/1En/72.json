@@ -2049,7 +2049,7 @@
         }
       ],
       "translations": {
-        "ron": "În acea zi, ziua devine mai scurtă cu două părți, iar ziua se ridică la"
+        "ron": "În acea zi, ziua devine mai scurtă cu două părți, iar ziua se ridică la zece părți, iar noaptea la opt părți."
       }
     },
     {
@@ -2464,7 +2464,7 @@
         }
       ],
       "translations": {
-        "ron": "Și Soarele răsare de la a treia Poartă și apune în a treia Poartă din apus și se întoarce la răsărit; iar Soarele răsar în cea de-a doua Poartă din est timp de treizeci de dimineți și, la fel, apune în ce de-a doua Poartă, la apusul Raiului."
+        "ron": "Și Soarele răsare de la a treia Poartă și apune în a treia Poartă din apus și se întoarce la răsărit; iar Soarele răsare în cea de-a doua Poartă din est timp de treizeci de dimineți și, la fel, apune în cea de-a doua Poartă, la apusul Raiului."
       }
     },
     {
@@ -3246,7 +3246,7 @@
         }
       ],
       "translations": {
-        "ron": "Și în acea zi noaptea devine mai scurtă în lungime și noaptea se ridică la"
+        "ron": "Și în acea zi noaptea devine mai scurtă în lungime și noaptea se ridică la zece părți, iar ziua la opt părți."
       }
     },
     {
@@ -3611,7 +3611,7 @@
         }
       ],
       "translations": {
-        "ron": "Din această cauză, călătoria sa devine zilnic mai lungă și noaptea mai scurtă. e 72.35 Și aceasta este legea și călătoria Soarelui și întoarcerea lui, de câte ori se a întoarce; de șaizeci de ori se întoarce și răsare, adică marea lumină veșnică, care în vecii vecilor este numită Soare."
+        "ron": "Din această cauză, călătoria sa devine zilnic mai lungă și noaptea mai scurtă."
       }
     },
     {
@@ -3724,7 +3724,10 @@
           "t": "ʿalämə",
           "gl": ""
         }
-      ]
+      ],
+      "translations": {
+        "ron": "Și aceasta este legea și călătoria Soarelui și întoarcerea lui, de câte ori se întoarce; de șaizeci de ori se întoarce și răsare, adică marea lumină veșnică, care în vecii vecilor este numită Soare."
+      }
     },
     {
       "num": 36,
