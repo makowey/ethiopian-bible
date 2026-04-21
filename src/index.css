@@ -2,35 +2,35 @@
 @import "tailwindcss";
 
 @theme {
-  /* Ethiopian manuscript palette — warm, aged, candlelit */
-  --color-bg:              #130f0a;
-  --color-surface:         #1c1710;
-  --color-surface-raised:  #252018;
-  --color-surface-hover:   #2e2820;
-  --color-text:            #ede4d3;
-  --color-text-muted:      #a09580;
-  --color-text-faint:      #6d6050;
-  --color-geez:            #f5ecd6;
-  --color-translit:        #b8a588;
-  --color-gloss:           #d4c4a0;
-  --color-accent:          #c8952a;
-  --color-accent-dim:      rgba(200, 149, 42, 0.12);
-  --color-accent-bright:   #e8b84a;
-  --color-accent-glow:     rgba(200, 149, 42, 0.20);
-  --color-lxx:             #7aad6e;
-  --color-lxx-bg:          rgba(122, 173, 110, 0.07);
-  --color-lxx-border:      rgba(122, 173, 110, 0.35);
-  --color-mt:              #b86060;
-  --color-mt-bg:           rgba(184, 96, 96, 0.07);
-  --color-mt-border:       rgba(184, 96, 96, 0.35);
-  --color-ron:             #8b6fbf;
-  --color-ron-bg:          rgba(139, 111, 191, 0.07);
-  --color-ron-border:      rgba(139, 111, 191, 0.35);
-  --color-ai:              #c8873a;
-  --color-ai-bg:           rgba(200, 135, 58, 0.07);
-  --color-ai-border:       rgba(200, 135, 58, 0.35);
-  --color-border:          rgba(200, 160, 80, 0.08);
-  --color-border-strong:   rgba(200, 160, 80, 0.18);
+  /* Ethiopian manuscript palette — warm parchment, ink on vellum */
+  --color-bg:              #f5efe2;
+  --color-surface:         #ede6d4;
+  --color-surface-raised:  #e4dcc8;
+  --color-surface-hover:   #d8cfb8;
+  --color-text:            #261a08;
+  --color-text-muted:      #6b5030;
+  --color-text-faint:      #a88858;
+  --color-geez:            #1a1005;
+  --color-translit:        #7a5830;
+  --color-gloss:           #5a4020;
+  --color-accent:          #8a6010;
+  --color-accent-dim:      rgba(138, 96, 16, 0.10);
+  --color-accent-bright:   #a07820;
+  --color-accent-glow:     rgba(138, 96, 16, 0.15);
+  --color-lxx:             #2a7020;
+  --color-lxx-bg:          rgba(42, 112, 32, 0.07);
+  --color-lxx-border:      rgba(42, 112, 32, 0.30);
+  --color-mt:              #8b1a1a;
+  --color-mt-bg:           rgba(139, 26, 26, 0.07);
+  --color-mt-border:       rgba(139, 26, 26, 0.28);
+  --color-ron:             #5a3a8a;
+  --color-ron-bg:          rgba(90, 58, 138, 0.07);
+  --color-ron-border:      rgba(90, 58, 138, 0.28);
+  --color-ai:              #8b5e18;
+  --color-ai-bg:           rgba(139, 94, 24, 0.07);
+  --color-ai-border:       rgba(139, 94, 24, 0.28);
+  --color-border:          rgba(100, 70, 20, 0.12);
+  --color-border-strong:   rgba(100, 70, 20, 0.22);
   --font-geez:   "Noto Sans Ethiopic", "Abyssinica SIL", serif;
   --font-body:   "Crimson Pro", "Georgia", serif;
   --font-ui:     "Inter", system-ui, sans-serif;
@@ -45,13 +45,13 @@ body {
   -webkit-font-smoothing: antialiased;
   margin: 0;
   background-image:
-    /* fine grain noise */
-    url("data:image/svg+xml,%3Csvg viewBox='0 0 200 200' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.9' numOctaves='4' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)' opacity='0.04'/%3E%3C/svg%3E"),
-    /* warm vignette */
-    radial-gradient(ellipse at 50% 0%,   rgba(200,149,42,0.05)  0%, transparent 60%),
-    radial-gradient(ellipse at 20% 80%,  rgba(180,120,40,0.04)  0%, transparent 50%),
-    radial-gradient(ellipse at 80% 30%,  rgba(200,149,42,0.03)  0%, transparent 50%),
-    radial-gradient(ellipse at 50% 100%, rgba(100, 60, 20,0.08) 0%, transparent 60%);
+    /* fine grain noise — subtle paper texture */
+    url("data:image/svg+xml,%3Csvg viewBox='0 0 200 200' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.65' numOctaves='4' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)' opacity='0.035'/%3E%3C/svg%3E"),
+    /* warm parchment toning */
+    radial-gradient(ellipse at 50% 0%,   rgba(180,130,40,0.06)  0%, transparent 60%),
+    radial-gradient(ellipse at 20% 80%,  rgba(160,110,30,0.04)  0%, transparent 50%),
+    radial-gradient(ellipse at 80% 30%,  rgba(180,130,40,0.03)  0%, transparent 50%),
+    radial-gradient(ellipse at 50% 100%, rgba(120, 80, 20,0.05) 0%, transparent 60%);
 }
 
 #root {
@@ -63,9 +63,9 @@ body {
 /* ─── Scrollbar ──────────────────────────────────────────── */
 ::-webkit-scrollbar              { width: 4px; }
 ::-webkit-scrollbar-track        { background: transparent; }
-::-webkit-scrollbar-thumb        { background: rgba(200,149,42,0.18); border-radius: 2px; }
-::-webkit-scrollbar-thumb:hover  { background: rgba(200,149,42,0.35); }
-*  { scrollbar-width: thin; scrollbar-color: rgba(200,149,42,0.18) transparent; }
+::-webkit-scrollbar-thumb        { background: rgba(138,96,16,0.25); border-radius: 2px; }
+::-webkit-scrollbar-thumb:hover  { background: rgba(138,96,16,0.45); }
+*  { scrollbar-width: thin; scrollbar-color: rgba(138,96,16,0.25) transparent; }
 
 /* ─── Typography ─────────────────────────────────────────── */
 nav, button, [role="dialog"], .font-ui,
@@ -85,8 +85,8 @@ summary, label, input, select, textarea {
 /* ─── Ge'ez glow ─────────────────────────────────────────── */
 .geez-glow {
   text-shadow:
-    0 0 30px rgba(200,149,42,0.15),
-    0 0 60px rgba(200,149,42,0.06);
+    0 0 20px rgba(138,96,16,0.12),
+    0 0 40px rgba(138,96,16,0.05);
 }
 
 /* ─── Skip-to-content ────────────────────────────────────── */
@@ -106,13 +106,13 @@ summary, label, input, select, textarea {
 /* ─── Manuscript panel ───────────────────────────────────── */
 .manuscript-panel {
   background: var(--color-surface);
-  border: 1px solid rgba(200,160,80,0.12);
+  border: 1px solid rgba(138,96,16,0.18);
   border-radius: 3px;
   box-shadow:
-    inset 0 0 60px rgba(200,149,42,0.025),
-    inset 0 1px 0 rgba(200,149,42,0.08),
-    0 8px 40px rgba(0,0,0,0.35),
-    0 2px 8px rgba(0,0,0,0.2);
+    inset 0 0 60px rgba(138,96,16,0.03),
+    inset 0 1px 0 rgba(138,96,16,0.06),
+    0 4px 20px rgba(100,60,10,0.10),
+    0 1px 4px rgba(100,60,10,0.08);
   position: relative;
 }
 /* Corner ornaments */
@@ -121,7 +121,7 @@ summary, label, input, select, textarea {
   content: '';
   position: absolute;
   width: 12px; height: 12px;
-  border-color: rgba(200,149,42,0.25);
+  border-color: rgba(138,96,16,0.30);
   border-style: solid;
 }
 .manuscript-panel::before {
@@ -137,7 +137,7 @@ summary, label, input, select, textarea {
 .hero-glow {
   position: absolute;
   inset: 0;
-  background: radial-gradient(ellipse at 50% 40%, rgba(200,149,42,0.10) 0%, transparent 65%);
+  background: radial-gradient(ellipse at 50% 40%, rgba(138,96,16,0.08) 0%, transparent 65%);
   pointer-events: none;
 }
 
@@ -166,10 +166,10 @@ summary, label, input, select, textarea {
   content: '';
   flex: 1;
   height: 1px;
-  background: linear-gradient(to right, rgba(200,149,42,0.3), transparent);
+  background: linear-gradient(to right, rgba(138,96,16,0.35), transparent);
 }
 .chapter-rule::after {
-  background: linear-gradient(to left, rgba(200,149,42,0.3), transparent);
+  background: linear-gradient(to left, rgba(138,96,16,0.35), transparent);
 }
 
 /* ─── Door cards ─────────────────────────────────────────── */
@@ -180,10 +180,10 @@ summary, label, input, select, textarea {
 }
 .door-card:hover {
   transform: translateY(-2px);
-  box-shadow: 0 8px 32px rgba(0,0,0,0.3), 0 0 0 1px rgba(200,149,42,0.15);
+  box-shadow: 0 8px 32px rgba(100,60,10,0.12), 0 0 0 1px rgba(138,96,16,0.20);
 }
 .door-card-accent:hover {
-  box-shadow: 0 8px 32px rgba(0,0,0,0.3), 0 0 20px rgba(200,149,42,0.12), 0 0 0 1px rgba(200,149,42,0.25);
+  box-shadow: 0 8px 32px rgba(100,60,10,0.15), 0 0 20px rgba(138,96,16,0.10), 0 0 0 1px rgba(138,96,16,0.30);
 }
 
 /* ─── Verse hover glow ───────────────────────────────────── */
@@ -202,8 +202,8 @@ summary, label, input, select, textarea {
   border-radius: 1px;
   transition: opacity 0.2s ease;
 }
-.verse-row:hover::before  { opacity: 0.5; }
-.verse-row:hover          { background-color: rgba(200,149,42,0.025); }
+.verse-row:hover::before  { opacity: 0.6; }
+.verse-row:hover          { background-color: rgba(138,96,16,0.04); }
 
 /* ─── Loading skeleton ───────────────────────────────────── */
 @keyframes shimmer {
@@ -227,8 +227,8 @@ summary, label, input, select, textarea {
   50%       { transform: translateY(-8px); }
 }
 @keyframes glow-pulse {
-  0%, 100% { filter: drop-shadow(0 0 10px rgba(200,149,42,0.25)); }
-  50%       { filter: drop-shadow(0 0 28px rgba(200,149,42,0.55)); }
+  0%, 100% { filter: drop-shadow(0 0 10px rgba(138,96,16,0.20)); }
+  50%       { filter: drop-shadow(0 0 28px rgba(138,96,16,0.40)); }
 }
 @keyframes scroll-indicator {
   0%, 100% { opacity: 0.3; transform: translateY(0);   }
