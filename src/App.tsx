@@ -8,6 +8,7 @@ import { AboutPage } from './pages/AboutPage'
 import { DiscoverPage } from './pages/DiscoverPage'
 import { BiblePage } from './pages/BiblePage'
 import { GeezPage } from './pages/GeezPage'
+import { AppendixPage } from './pages/AppendixPage'
 
 export default function App() {
   return (
@@ -23,6 +24,7 @@ export default function App() {
           <Route path="/bookmarks" element={<BookmarksPage />} />
           <Route path="/geez" element={<GeezPage />} />
           <Route path="/about" element={<AboutPage />} />
+          <Route path="/appendix" element={<AppendixPage />} />
           <Route path="*" element={<Navigate to="/" replace />} />
         </Route>
       </Routes>

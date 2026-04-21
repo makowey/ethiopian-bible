@@ -233,6 +233,12 @@ export function WelcomePage() {
             desc="12 documented variants with cited sources. Every claim verifiable."
             to="/compare"
           />
+          <DoorCard
+            icon={<AppendixIcon />}
+            title="NT Quotations: LXX &amp; Apocrypha"
+            desc="Where the New Testament quotes a Bible your Bible doesn't have — 8 LXX divergences and 8 Deuterocanonical allusions compared."
+            to="/appendix"
+          />
         </div>
       </section>
 
@@ -324,6 +330,14 @@ function ScholarIcon() {
     <svg className="w-6 h-6" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={1.5}>
       <path strokeLinecap="round" strokeLinejoin="round"
         d="M12 3v17.25m0 0c-1.472-1.808-3.785-3-6.375-3H3a.75.75 0 01-.75-.75V5.625c0-.621.504-1.125 1.125-1.125h2.25C7.5 4.5 9.813 5.692 12 7.5m0 12.75c1.472-1.808 3.785-3 6.375-3H21a.75.75 0 00.75-.75V5.625c0-.621-.504-1.125-1.125-1.125h-2.25C16.5 4.5 14.187 5.692 12 7.5" />
+    </svg>
+  )
+}
+function AppendixIcon() {
+  return (
+    <svg className="w-6 h-6" fill="none" viewBox="0 0 24 24" stroke="currentColor" strokeWidth={1.5}>
+      <path strokeLinecap="round" strokeLinejoin="round"
+        d="M7.5 8.25h9m-9 3H12m-9.75 1.51c0 1.6 1.123 2.994 2.707 3.227 1.129.166 2.27.293 3.423.379.35.026.67.21.865.501L12 21l2.755-4.133a1.14 1.14 0 01.865-.501 48.172 48.172 0 003.423-.379c1.584-.233 2.707-1.626 2.707-3.228V6.741c0-1.602-1.123-2.995-2.707-3.228A48.394 48.394 0 0012 3c-2.392 0-4.744.175-7.043.513C3.373 3.746 2.25 5.14 2.25 6.741v6.018z" />
     </svg>
   )
 }
