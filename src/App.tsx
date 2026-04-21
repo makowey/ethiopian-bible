@@ -7,6 +7,7 @@ import { WelcomePage } from './pages/WelcomePage'
 import { AboutPage } from './pages/AboutPage'
 import { DiscoverPage } from './pages/DiscoverPage'
 import { BiblePage } from './pages/BiblePage'
+import { GeezPage } from './pages/GeezPage'
 
 export default function App() {
   return (
@@ -20,6 +21,7 @@ export default function App() {
           <Route path="/read/:book/:chapter/:verse" element={<ReaderPage />} />
           <Route path="/compare" element={<ComparePage />} />
           <Route path="/bookmarks" element={<BookmarksPage />} />
+          <Route path="/geez" element={<GeezPage />} />
           <Route path="/about" element={<AboutPage />} />
           <Route path="*" element={<Navigate to="/" replace />} />
         </Route>

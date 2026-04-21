@@ -128,6 +128,14 @@ export function Layout() {
                   d="M5 5a2 2 0 012-2h10a2 2 0 012 2v16l-7-3.5L5 21V5z" />
               </svg>
             </Link>
+            <Link
+              to="/geez"
+              className="p-2 text-text-faint hover:text-text-muted transition-colors font-geez text-sm leading-none flex items-center"
+              aria-label="Ge'ez script guide"
+              title="Ge'ez Script"
+            >
+              ፊ
+            </Link>
             <button
               onClick={() => setSettingsOpen(true)}
               aria-expanded={settingsOpen}
