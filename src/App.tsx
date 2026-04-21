@@ -10,7 +10,7 @@ import { BiblePage } from './pages/BiblePage'
 
 export default function App() {
   return (
-    <BrowserRouter basename="/ethiopian-bible">
+    <BrowserRouter>
       <Routes>
         <Route element={<Layout />}>
           <Route path="/" element={<WelcomePage />} />
