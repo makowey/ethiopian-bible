@@ -42,6 +42,7 @@ export function BookPicker({ open, onClose, currentBook }: BookPickerProps) {
   const sections = getBookSections(books)
 
   function handleBookClick(book: Book) {
+    if (book.hasTranslation === false) return
     if (book.chapters === 1) {
       navigate(`/read/${book.abbrev}/1`)
       onClose()
@@ -106,27 +107,36 @@ export function BookPicker({ open, onClose, currentBook }: BookPickerProps) {
                   {section.label}
                 </h3>
                 <div className="grid grid-cols-1 sm:grid-cols-2 gap-2">
-                  {section.books.map(book => (
-                    <button
-                      key={book.abbrev}
-                      onClick={() => handleBookClick(book)}
-                      className="flex items-center justify-between gap-3 px-4 py-3 rounded-lg
-                                 bg-surface hover:bg-surface-hover border border-border
-                                 hover:border-border-strong transition-all text-left cursor-pointer"
-                    >
-                      <div className="min-w-0">
-                        <p className="text-text font-medium truncate">{book.name}</p>
-                        {book.geez_name && (
-                          <p className="font-geez text-accent/70 text-sm truncate" lang="gez">
-                            {book.geez_name}
-                          </p>
-                        )}
-                      </div>
-                      <span className="text-text-faint text-xs flex-shrink-0">
-                        {book.chapters} ch
-                      </span>
-                    </button>
-                  ))}
+                  {section.books.map(book => {
+                    const disabled = book.hasTranslation === false
+                    return (
+                      <button
+                        key={book.abbrev}
+                        onClick={() => handleBookClick(book)}
+                        disabled={disabled}
+                        title={disabled ? 'No English translation available yet' : undefined}
+                        className={[
+                          'flex items-center justify-between gap-3 px-4 py-3 rounded-lg',
+                          'border transition-all text-left',
+                          disabled
+                            ? 'bg-surface/50 border-border opacity-40 cursor-not-allowed'
+                            : 'bg-surface hover:bg-surface-hover border-border hover:border-border-strong cursor-pointer',
+                        ].join(' ')}
+                      >
+                        <div className="min-w-0">
+                          <p className="text-text font-medium truncate">{book.name}</p>
+                          {book.geez_name && (
+                            <p className="font-geez text-accent/70 text-sm truncate" lang="gez">
+                              {book.geez_name}
+                            </p>
+                          )}
+                        </div>
+                        <span className="text-text-faint text-xs flex-shrink-0">
+                          {disabled ? 'coming soon' : `${book.chapters} ch`}
+                        </span>
+                      </button>
+                    )
+                  })}
                 </div>
               </div>
             ))}

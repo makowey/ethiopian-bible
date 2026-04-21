@@ -5,7 +5,7 @@
     {
       "num": 1,
       "geez": "ወኢትሡዑ ፡ ለእግዚአብሔር ፡ አምላክክሙ ፡ ላህመ ፡ አው ፡ በግዐ ፡ ዘቦቱ ፡ ነውረ ፡ ላዕሌሁ ፡ ኵሉ ፡ ነገር ፡ እኩይ\n                  ፤ ርኩስ ፡ ውእቱ ፡ በኀበ ፡ እግዚአብሔር ፡ አምላክከ ።",
-      "translation": "",
+      "translation": "Thou shalt not sacrifice to the Lord thy God a calf or a sheep, in which there is a blemish, or any evil thing; for it is an abomination to the Lord thy God.",
       "words": [
         {
           "g": "ወኢትሡዑ",
@@ -96,7 +96,7 @@
     {
       "num": 2,
       "geez": "ወለእመኒ ፡ ተረክበ ፡ በውስተ ፡ [አሐቲ ፡] እምነ ፡ አህጉሪ[ከ] ፡ ዘወሀበከ ፡ እግዚአብሔር ፡ አምላክከ ፡ ብእሲ ፡\n                  አው ፡ ብእሲት ፡ ዘይገብር ፡ እኩየ ፡ ቅድመ ፡ እግዚአብሔር ፡ አምላክከ ፡ እለ ፡ ተዐወሩ ፡ ሕጎ ፤",
-      "translation": "",
+      "translation": "And if there should be found in any one of thy cities, which the Lord thy God gives thee, a man or a woman who shall do that which is evil before the Lord thy God, so as to transgress his covenant,",
       "words": [
         {
           "g": "ወለእመኒ",
@@ -207,7 +207,7 @@
     {
       "num": 3,
       "geez": "ወሖሩ ፡ ወአምለኩ ፡ ባዕደ ፡ አማልክተ ፡ ወሰገዱ ፡ ሎሙ ፡ ለፀሐይ ፡ አው ፡ ለወርኅ ፡ አው ፡ እምውስተ ፡ ሰርጕሃ ፡\n                  ለሰማይ ፡ ዘኢአዘዘከ ፤",
-      "translation": "",
+      "translation": "and they should go and serve other gods, and worship them, the sun, or the moon, or any of the host of heaven, which he commanded thee not to do,",
       "words": [
         {
           "g": "ወሖሩ",
@@ -288,7 +288,7 @@
     {
       "num": 4,
       "geez": "ወእምከመ ፡ ሰማዕከ ፡ ተሐትት ፡ ጥቀ ፡ ወለእመ ፡ እሙነ ፡ ኮነ ፡ ዝንቱ ፡ ነገር ፡ ወኮነ ፡ ዝንቱ ፡ ርኩስ ፡ በውስተ\n                  ፡ እስራኤል ፤",
-      "translation": "",
+      "translation": "and it be told thee, and thou shalt have enquired diligently, and, behold, the thing really took place, this abomination has been done in Israel;",
       "words": [
         {
           "g": "ወእምከመ",
@@ -369,7 +369,7 @@
     {
       "num": 5,
       "geez": "ወታወጽኦ ፡ ለውእቱ ፡ ብእሲ ፡ ወእመኒ ፡ ብእሲት ፡ ይእቲ ፡ ወይወግርዎሙ ፡ በእብን ፡ ወይቅትልዎሙ ።",
-      "translation": "",
+      "translation": "then shalt thou bring out that man, or that woman, and ye shall stone them with stones, and they shall die.",
       "words": [
         {
           "g": "ወታወጽኦ",
@@ -425,7 +425,7 @@
     {
       "num": 6,
       "geez": "በክልኤቱ ፡ ሰማዕት ፡ ወሠለስቱ ፡ ሰማዕት ፡ ይመውቱ ፡ እለ ፡ ይመውቱ ፡ ወኢይመውቱ ፡ በአሐዱ ፡ ስምዕ ።",
-      "translation": "",
+      "translation": "He shall die on the testimony of two or three witnesses; a man who is put to death shall not be put to death for one witness.",
       "words": [
         {
           "g": "በክልኤቱ",
@@ -486,7 +486,7 @@
     {
       "num": 7,
       "geez": "ወእደዊሆሙ ፡ ለውእቶሙ ፡ ሰማዕት ፡ ይቀድማ ፡ ቀቲሎቶሙ ፡ ወእምድኅሬሆሙ ፡ እደወ ፡ ኵሉ ፡ ሕዝብ ፡ ወታወፅእ ፡ እኩየ\n                  ፡ እምኔክሙ ።",
-      "translation": "",
+      "translation": "And the hand of the witnesses shall be upon him among the first to put him to death, and the hand of the people at the last; so shalt thou remove the evil one from among yourselves.",
       "words": [
         {
           "g": "ወእደዊሆሙ",
@@ -557,7 +557,7 @@
     {
       "num": 8,
       "geez": "ወለእመቦ ፡ ዘተስእነከ ፡ ቃል ፡ በውስተ ፡ ፍትሕ ፡ ዘማእከለ ፡ ደም ፡ ወደም ፡ ወማእከለ ፡ ንጹሕ ፡ ለአንጽሖ ፡\n                  ወማእከለ ፡ ላኳ ፡ ወላኳ ፡ ቃለ ፡ ፍትሕ ፡ በውስተ ፡ አህጉሪክሙ ፡ ትትነሣእ ፡ ወተዐርግ ፡ ውስተ ፡ መካን ፡ ዘኀርየ ፡\n                  እግዚአብሔር ፡ አምላክከ ፡ ከመ ፡ ይሰመይ ፡ ስሙ ፡ በህየ ።",
-      "translation": "",
+      "translation": "And if a matter shall be too hard for thee in judgment, between blood and blood, and between cause and cause, and between stroke and stroke, and between contradiction and contradiction, matters of judgment in your cities;",
       "words": [
         {
           "g": "ወለእመቦ",
@@ -713,7 +713,7 @@
     {
       "num": 9,
       "geez": "ወተሐውር ፡ ኀበ ፡ ካህናት ፡ ሌዋውያን ፡ ወኀበ ፡ መኳንንት ፡ እለ ፡ ሀለዉ ፡ በውእቶን ፡ መዋዕል ፡ ወት[ሴ]አል ፡\n                  ወያየድዑከ ፡ ፍትሐ ።",
-      "translation": "",
+      "translation": "then thou shalt arise and go up to the place which the Lord thy God shall choose, and thou shalt come to the priests the Levites, and to the judge who shall be in those days, and they shall search out the matter and report the judgment to thee.",
       "words": [
         {
           "g": "ወተሐውር",
@@ -789,7 +789,7 @@
     {
       "num": 10,
       "geez": "ወትገብር ፡ በከመ ፡ ቃል ፡ ዘነገሩከ ፡ በውእቱ ፡ መካን ፡ ዘኀርየ ፡ እግዚአብሔር ፡ ይሰመይ ፡ ስሙ ፡ በህየ ፡ ወዕቀብ\n                  ፡ ኵሎ ፡ ከመ ፡ ትግበር ፡ ዘመሀሩከ ፡ ሕጎ ።",
-      "translation": "",
+      "translation": "And thou shalt act according to the thing which they shall report to thee out of the place which the Lord thy God shall choose, and thou shalt observe to do all whatsoever shall have been by law appointed to thee.",
       "words": [
         {
           "g": "ወትገብር",
@@ -885,7 +885,7 @@
     {
       "num": 11,
       "geez": "ወበከመ ፡ ፍትሑ ፡ ዘነገሩከ ፡ ግበር ፡ ወኢትትገሐስ ፡ እምነ ፡ ቃል ፡ ዘነገሩከ ፡ ኢለየማን ፡ ወኢለፀጋም ።",
-      "translation": "",
+      "translation": "Thou shalt do according to the law and to the judgment which they shall declare to thee: thou shalt not swerve to the right hand or to the left from any sentence which they shall report to thee.",
       "words": [
         {
           "g": "ወበከመ",
@@ -946,7 +946,7 @@
     {
       "num": 12,
       "geez": "ወዝክቱሰ ፡ ብእሲ ፡ ዘገብረ ፡ በትዕቢት ፡ ከመ ፡ ኢይትአዘዝ ፡ ለካህን ፡ [ዘ]ይቀውም ፡ ወይገብር ፡ በስሙ ፡\n                  ለእግዚአብሔር ፡ አምላክከ ፡ አው ፡ ለመኰንን ፡ ዘሀለወ ፡ በውእቶን ፡ መዋዕል ፡ ለይሙት ፡ ውእቱ ፡ ብእሲ ፡ ወአሰስሉ ፡\n                  እኩየ ፡ እምነ ፡ እስራኤል ።",
-      "translation": "",
+      "translation": "And the man whosoever shall act in haughtiness, so as not to hearken to the priest who stands to minister in the name of the Lord thy God, or the judge who shall preside in those days, that man shall die, and thou shalt remove the evil one out of Israel.",
       "words": [
         {
           "g": "ወዝክቱሰ",
@@ -1077,7 +1077,7 @@
     {
       "num": 13,
       "geez": "ወኵሉ ፡ ሕዝብ ፡ ሰሚዖ ፡ ይፍራህ ፡ ወኢይድግም ፡ እንከ ፡ አብሶ ።",
-      "translation": "",
+      "translation": "And all the people shall hear and fear, and shall no more commit impiety.",
       "words": [
         {
           "g": "ወኵሉ",
@@ -1123,7 +1123,7 @@
     {
       "num": 14,
       "geez": "ወለእመኒ ፡ ቦእከ ፡ ውስተ ፡ ምድር ፡ እንተ ፡ ይሁበከ ፡ እግዚአብሔር ፡ አምላክከ ፡ መክፈልተከ ፡ ወተወረስካሃ ፡\n                  ወነበርከ ፡ ውስቴታ ፡ ወትቤ ፡ እሠይም ፡ ሊተ ፡ መልአከ ፡ ከመ ፡ ኵሉ ፡ አሕዛብ ፡ እለ ፡ አውድየ ፤",
-      "translation": "",
+      "translation": "And when thou shalt enter into the land which the Lord thy God gives thee, and shalt inherit it and dwell in it, and shalt say, I will set a ruler over me, as also the other nations round about me;",
       "words": [
         {
           "g": "ወለእመኒ",
@@ -1239,7 +1239,7 @@
     {
       "num": 15,
       "geez": "ወትሠይም ፡ ለከ ፡ መልአከ ፡ ዘኀርየ ፡ እግዚአብሔር ፡ አምላክከ ፡ እምውስተ ፡ አኀዊከ ፡ ወኢትክል ፡ ሠይመ ፡ ለከ ፡\n                  ብእሴ ፡ ነኪረ ፡ እስመ ፡ ኢኮነ ፡ እኁከ ፤",
-      "translation": "",
+      "translation": "thou shalt surely set over thee the ruler whom the Lord God shall choose: of thy brethren thou shalt set over thee a ruler; thou shalt not have power to set over thee a stranger, because he is not thy brother.",
       "words": [
         {
           "g": "ወትሠይም",
@@ -1330,7 +1330,7 @@
     {
       "num": 16,
       "geez": "ከመ ፡ ኢያብዝኅ ፡ ሎቱ ፡ አፍራሰ ፡ ወከመ ፡ ኢያግብኦ ፡ ለሕዝብ ፡ ውስተ ፡ ግብጽ ፡ እስመ ፡ እግዚአብሔር ፡ ይቤ ፡\n                  ኢትድግም ፡ እንከ ፡ ገቢኦታ ፡ ለይእቲ ፡ ፍኖት ።",
-      "translation": "",
+      "translation": "For he shall not multiply to himself horses, and he shall by no means turn the people back to Egypt, lest he should multiply to himself horses; for the Lord said, Ye shall not any more turn back by that way.",
       "words": [
         {
           "g": "ከመ",
@@ -1426,7 +1426,7 @@
     {
       "num": 17,
       "geez": "ወኢያብዝኅ ፡ ሎቱ ፡ አንስተ ፡ ወኢይሚጥ ፡ ልቦ ፡ ወኢያብዝኅ ፡ ሎቱ ፡ ወርቀ ፡ ወብሩረ ፡ ጥቀ ።",
-      "translation": "",
+      "translation": "And he shall not multiply to himself wives, lest his heart turn away; and he shall not greatly multiply to himself silver and gold.",
       "words": [
         {
           "g": "ወኢያብዝኅ",
@@ -1487,7 +1487,7 @@
     {
       "num": 18,
       "geez": "ወሶበ ፡ ነበረ ፡ ውስተ ፡ ምኵናኑ ፡ ለይጽሐፍ ፡ ሎቱ ፡ ዘንተ ፡ ዳግመ ፡ ኦሪተ ፡ ውስተ ፡ መጽሐፍ ፡ እምኀበ ፡\n                  ካህናት ፡ ወሌዋውያን ።",
-      "translation": "",
+      "translation": "And when he shall be established in his government, then shall he write for himself this repetition of the law into a book by the hands of the priests the Levites;",
       "words": [
         {
           "g": "ወሶበ",
@@ -1568,7 +1568,7 @@
     {
       "num": 19,
       "geez": "ወይንቦር ፡ ኀቤሁ ፡ ወ[ያ]ንብብ ፡ ቦቱ ፡ በኵሉ ፡ መዋዕለ ፡ ሕይወቱ ፡ ከመ ፡ ይትመሀር ፡ ፍኖቶ ፡ ለእግዚአብሔር ፡\n                  አምላኩ ፡ ወይዕቀብ ፡ ኵሎ ፡ ትእዛዞ ፡ ወይግበር ፡ ኵነኔሁ ፤",
-      "translation": "",
+      "translation": "and it shall be with him, and he shall read in it all the days of his life, that he may learn to fear the Lord thy God, and to keep all these commandments, and to observe these ordinances:",
       "words": [
         {
           "g": "ወይንቦር",
@@ -1664,7 +1664,7 @@
     {
       "num": 20,
       "geez": "ከመ ፡ ኢያዕቢ ፡ ልቦ ፡ እምነ ፡ አኀዊሁ ፡ ወከመ ፡ ኢይኅድግ ፡ እምነ ፡ ትእዛዙ ፡ ለእግዚአብሔር ፡ አምላኩ ፡\n                  ወኢይትገሐሥ ፡ ኢለየማን ፡ ወኢለፀጋም ፡ ከመ ፡ ያንኅ ፡ መዋዕለ ፡ በውስተ ፡ ምኵናኑ ፡ ወውእቱ ፡ ወውሉዱ ፡ በውስተ ፡\n                  ደቂቀ ፡ እስራኤል ።",
-      "translation": "",
+      "translation": "that his heart be not lifted up above his brethren, that he depart not from the commandments on the right hand or on the left; that he and his sons may reign long in his dominion among the children of Israel.",
       "words": [
         {
           "g": "ከመ",

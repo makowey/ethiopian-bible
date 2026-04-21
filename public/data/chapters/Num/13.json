@@ -5,7 +5,7 @@
     {
       "num": 1,
       "geez": "ወነበቦ ፡ እግዚአብሔር ፡ ለሙሴ ፡ ወይቤሎ ፤",
-      "translation": "",
+      "translation": "And the Lord spoke to Moses, saying,",
       "words": [
         {
           "g": "ወነበቦ",
@@ -36,7 +36,7 @@
     {
       "num": 2,
       "geez": "ፈኑ ፡ ዕደወ ፡ ሰብአ ፡ ዐይን ፡ እለ ፡ ይሬእይዋ ፡ ለምድረ ፡ ከናአን ፡ እንተ ፡ አነ ፡ እሁቦሙ ፡ ለደቂቀ ፡\n                  እስራኤል ፡ ከመ ፡ ይኰንንዋ ፤ አሐዱ ፡ አሐዱ ፡ ብእሲ ፡ እምውስተ ፡ ነገዶሙ ፡ ወእምውስተ ፡ ሕዘቢሆሙ ፡ ዘአብያተ ፡\n                  አበዊሆሙ ፤ ወትፌኑ ፡ ኵሎ ፡ ዐበይቶሙ ።",
-      "translation": "",
+      "translation": "Send for thee men, and let them spy the land of the Chananites, which I give to the sons of Israel for a possession; one man for a tribe, thou shalt send them away according to their families, every one of them a prince.",
       "words": [
         {
           "g": "ፈኑ",
@@ -172,7 +172,7 @@
     {
       "num": 3,
       "geez": "[*ወፈነዎሙ ፡ ሙሴ ፡ እምነ ፡ ገዳም ፡ ዘፋራን ፡ በቃለ ፡ እግዚአብሔር ፡ ወእሉ ፡ ኵሎሙ ፡ ዕደው ፡ ዐበይቶሙ ፡*]\n                  ለደቂቀ ፡ እስራኤል ፡ እሙንቱ ።",
-      "translation": "",
+      "translation": "And Moses sent them out of the wilderness of Pharan by the word of the Lord; all these were the princes of the sons of Israel.",
       "words": [
         {
           "g": "*ወፈነዎሙ",
@@ -253,7 +253,7 @@
     {
       "num": 4,
       "geez": "ወዝንቱ ፡ አስማቲሆሙ ፡ ዘእምነገደ ፡ ሮቤል ፡ [ሰ]ሙ ፡ ወልደ ፡ ዝ[ኩር] ።",
-      "translation": "",
+      "translation": "And these are their names: of the tribe of Ruben, Samuel the son of Zachur.",
       "words": [
         {
           "g": "ወዝንቱ",
@@ -299,7 +299,7 @@
     {
       "num": 5,
       "geez": "ወዘእምነገደ ፡ ስምዖን ፡ ሰፈጥ ፡ ወልደ ፡ ሱሪ ።",
-      "translation": "",
+      "translation": "Of the tribe of Symeon, Saphat the son of Suri.",
       "words": [
         {
           "g": "ወዘእምነገደ",
@@ -335,7 +335,7 @@
     {
       "num": 6,
       "geez": "ወዘእምነገደ ፡ ይሁዳ ፡ ካ[ሌብ] ፡ ወልደ ፡ ዬፎኔ ።",
-      "translation": "",
+      "translation": "Of the tribe of Judah, Chaleb the son of Jephonne.",
       "words": [
         {
           "g": "ወዘእምነገደ",
@@ -371,7 +371,7 @@
     {
       "num": 7,
       "geez": "ወዘእምነገደ ፡ ይስካር ፡ ኢጋል ፡ ወልደ ፡ ዮሴፍ ።",
-      "translation": "",
+      "translation": "Of the tribe of Issachar, Ilaal the son of Joseph.",
       "words": [
         {
           "g": "ወዘእምነገደ",
@@ -407,7 +407,7 @@
     {
       "num": 8,
       "geez": "ወዘእምነገደ ፡ ኤፍሬም ፡ አውሴ ፡ ወልደ ፡ ነዌ ።",
-      "translation": "",
+      "translation": "Of the tribe of Ephraim, Ause the son of Naue.",
       "words": [
         {
           "g": "ወዘእምነገደ",
@@ -443,7 +443,7 @@
     {
       "num": 9,
       "geez": "ወዘእምነገደ ፡ ብንያሚ ፡ ፈልጢ ፡ ወልደ ፡ ራፈው ።",
-      "translation": "",
+      "translation": "Of the tribe of Benjamin, Phalti the son of Raphu.",
       "words": [
         {
           "g": "ወዘእምነገደ",
@@ -479,7 +479,7 @@
     {
       "num": 10,
       "geez": "ወዘእምነገደ ፡ ዛቡሎን ፡ ጉዲዬል ፡ ወልደ ፡ [ሶ]ዲ ።",
-      "translation": "",
+      "translation": "Of the tribe of Zabulon, Gudiel the son of Sudi.",
       "words": [
         {
           "g": "ወዘእምነገደ",
@@ -515,7 +515,7 @@
     {
       "num": 11,
       "geez": "ወዘእምነገዶ ፡ ዮሴፍ ፡ ዘእምደቂቀ ፡ መናሴ ፡ ገዲ ፡ ወልደ ፡ ሱሲ ።",
-      "translation": "",
+      "translation": "Of the tribe of Joseph of the sons of Manasse, Gaddi the son of Susi.",
       "words": [
         {
           "g": "ወዘእምነገዶ",
@@ -561,7 +561,7 @@
     {
       "num": 12,
       "geez": "ወዘእምነገደ ፡ ዳን ፡ አሚሔል ፡ ወልደ ፡ ገማሊ ።",
-      "translation": "",
+      "translation": "Of the tribe of Dan, Amiel the son of Gamali.",
       "words": [
         {
           "g": "ወዘእምነገደ",
@@ -597,7 +597,7 @@
     {
       "num": 13,
       "geez": "ወዘእምነገደ ፡ አሴር ፡ ሳቱር ፡ ወልደ ፡ ሚካኤል ።",
-      "translation": "",
+      "translation": "Of the tribe of Aser, Sathur the son of Michael.",
       "words": [
         {
           "g": "ወዘእምነገደ",
@@ -633,7 +633,7 @@
     {
       "num": 14,
       "geez": "ወዘእምነገደ ፡ ንፍታሌም ፡ ናቢ ፡ ወልደ ፡ ያቢ ።",
-      "translation": "",
+      "translation": "Of the tribe of Nephthali, Nabi the son of Sabi.",
       "words": [
         {
           "g": "ወዘእምነገደ",
@@ -669,7 +669,7 @@
     {
       "num": 15,
       "geez": "ወዘእምነገደ ፡ ጋድ ፡ ጉዲያል ፡ ወልደ ፡ ማኪ ።",
-      "translation": "",
+      "translation": "Of the tribe of Gad, Gudiel the son of Macchi.",
       "words": [
         {
           "g": "ወዘእምነገደ",
@@ -705,7 +705,7 @@
     {
       "num": 16,
       "geez": "ዝንቱ ፡ ውእቱ ፡ አስማቲሆሙ ፡ ለዕደው ፡ እለ ፡ ፈነወ ፡ ሙሴ ፡ ከመ ፡ ይርአይዋ ፡ ለይእቲ ፡ ምድር ፡ ወሰመዮ ፡ ሙሴ\n                  ፡ ለአውሴ ፡ ወልደ ፡ ነዌ ፡ ኢየሱስ ።",
-      "translation": "",
+      "translation": "These are the names of the men whom Moses sent to spy out the land; and Moses called Ause the son of Naue, Joshua.",
       "words": [
         {
           "g": "ዝንቱ",
@@ -801,7 +801,7 @@
     {
       "num": 17,
       "geez": "ወፈነዎሙ ፡ ሙሴ ፡ ከመ ፡ ይርአይዋ ፡ ለይእቲ ፡ ምድረ ፡ ከናአን ፡ ወይቤሎሙ ፡ ዕረጉ ፡ ውስተ ፡ ውእቱ ፡ ገዳም ፡\n                  ወእምዝ ፡ ተዐርጉ ፡ ውስተ ፡ ደብር ።",
-      "translation": "",
+      "translation": "And Moses sent them to spy out the land of Chanaan, and said to them, Go up by this wilderness; and ye shall go up to the mountain,",
       "words": [
         {
           "g": "ወፈነዎሙ",
@@ -892,7 +892,7 @@
     {
       "num": 18,
       "geez": "ወርእይዋ ፡ ለይእቲ ፡ ምድር ፡ እንተ ፡ ከመ ፡ እፎ ፡ ይእቲ ፡ ወሕዝብኒ ፡ እለ ፡ ይነብሩ ፡ ውስቴታ ፡ እመ ፡ ጽኑዓን\n                  ፡ እሙንቱ ፡ ወእመ ፡ ድኩማን ፡ ወእመ ፡ ውሑዳን ፡ እሙንቱ ፡ ወእመ ፡ ብዘኃን ።",
-      "translation": "",
+      "translation": "and ye shall see the land, what it is, and the people that dwells on it, whether it is strong or weak, or whether they are few or many.",
       "words": [
         {
           "g": "ወርእይዋ",
@@ -1008,7 +1008,7 @@
     {
       "num": 19,
       "geez": "ወእንተ ፡ ከመ ፡ እፎ ፡ ይእቲ ፡ ምድራ ፡ እንተ ፡ ውስቴታ ፡ ይነብሩ ፡ እሙንቱ ፡ እመ ፡ ሠናይት ፡ ይእቲ ፡ ወእመ ፡\n                  እኪት ፡ ወዘከመ ፡ እፎ ፡ ውእቶን ፡ አህጉሪሆ[ሙ] ፡ እለ ፡ ውስቴቶን ፡ ይነብሩ ፡ እሙንቱ ፡ ወለእመ ፡ ቦንቱ ፡ ቅጽረ ፡\n                  ወለእመ ፡ አልቦንቱ ።",
-      "translation": "",
+      "translation": "And what the land is on which they dwell, whether it is good or bad; and what the cities are wherein these dwell, whether they dwell in walled cities or unwalled.",
       "words": [
         {
           "g": "ወእንተ",
@@ -1154,7 +1154,7 @@
     {
       "num": 20,
       "geez": "ወእንተ ፡ ከመ ፡ እፎ ፡ ይእቲ ፡ ምድራ ፡ ለእመ ፡ ጥልልት ፡ ወለእመ ፡ ይብስት ፡ ለእመ ፡ ቦቱ ፡ ውስቴታ ፡ አእዋመ\n                  ፡ ወለእመ ፡ አልቦቱ ፡ ወርእየክሙ ፡ ንሥኡ ፡ እምውስተ ፡ ፍሬሃ ፡ ወመዋዕሊሁ ፡ መዋዕለ ፡ ማእረር ፡ እንበለ ፡ ይትቀሠም ፡\n                  ወይን ።",
-      "translation": "",
+      "translation": "And what the land is, whether rich or poor; whether there are trees in it or no: and ye shall persevere and take of the fruits of the land: and the days were the days of spring, the forerunners of the grape.",
       "words": [
         {
           "g": "ወእንተ",
@@ -1290,7 +1290,7 @@
     {
       "num": 21,
       "geez": "ወዐርጉ ፡ ወርእይዋ ፡ ለይእቲ ፡ ምድር ፡ እምነ ፡ ገዳም ፡ ዘ[ፂን] ፡ እስከ ፡ ሮዖብ ፡ እንዘ ፡ የሐውሩ ፡ ለኤመት ።",
-      "translation": "",
+      "translation": "And they went up and surveyed the land from the wilderness of Sin to Rhoob, as men go in to Æmath.",
       "words": [
         {
           "g": "ወዐርጉ",
@@ -1361,7 +1361,7 @@
     {
       "num": 22,
       "geez": "ወዐርጉ ፡ እንተ ፡ ገዳም ፡ ወበጽሑ ፡ እስከ ፡ ኬብሮን ፡ ወህየ ፡ ውእቱ ፡ አኪ[መ]ን ፡ ወሴሲ ፡ ወተላሚ ፡ ፍጥረቱ ፡\n                  ለኤናቅ ፡ ወኬብሮንሂ ፡ እንተ ፡ በሰብፀቱ ፡ ዓመት ፡ ተነድቀት ፡ እምቅድመ ፡ ሀገረ ፡ ጠኒ ፡ ዘግብጽ ።",
-      "translation": "",
+      "translation": "And they went up by the wilderness, and departed as far as Chebron; and there was Achiman, and Sessi, and Thelami, the progeny of Enach. Now Chebron was built seven years before Tanin of Egypt.",
       "words": [
         {
           "g": "ወዐርጉ",
@@ -1482,7 +1482,7 @@
     {
       "num": 23,
       "geez": "ወበጽሑ ፡ እስከ ፡ ቈላተ ፡ ዐጽቅ ፡ ወርእይዋ ፡ ወገመዱ ፡ እምህየ ፡ ሐረገ ፡ ወይን ፡ ወውስቴታ ፡ አሐዱ ፡ አስካል ፡\n                  ወጾርዎ ፡ በመዝለል ፡ ወእምውስተ ፡ ሮማንሂ ፡ ወእምውስተ ፡ በለስሂ ።",
-      "translation": "",
+      "translation": "And they came to the valley of the cluster and surveyed it; and they cut down thence a bough and one cluster of grapes upon it, and bore it on staves, and they took of the pomegranates and the figs.",
       "words": [
         {
           "g": "ወበጽሑ",
@@ -1583,7 +1583,7 @@
     {
       "num": 24,
       "geez": "ወሰመይዎ ፡ ለውእቱ ፡ መካን ፡ ቈላ ፡ ሐረግ ፡ [በእንተ ፡ ሐረግ ፡] ዘገመዱ ፡ እምህየ ፡ ደቂቀ ፡ እስራኤል ።",
-      "translation": "",
+      "translation": "And they called that place, The valley of the cluster, because of the cluster which the children of Israel cut down from thence.",
       "words": [
         {
           "g": "ወሰመይዎ",
@@ -1649,7 +1649,7 @@
     {
       "num": 25,
       "geez": "ወገብኡ ፡ እምህየ ፡ ርእዮሙ ፡ ይእተ ፡ ምድረ ፡ በአርብዓ ፡ ጽባሕ ።",
-      "translation": "",
+      "translation": "And they returned from thence, having surveyed the land, after forty days.",
       "words": [
         {
           "g": "ወገብኡ",
@@ -1695,7 +1695,7 @@
     {
       "num": 26,
       "geez": "ወሐዊሮሙ ፡ በጽሑ ፡ ኀበ ፡ ሙሴ ፡ ወአሮን ፡ ወኀበ ፡ ኵሎሙ ፡ ተዓይኒሆሙ ፡ ለደቂቀ ፡ እስራኤል ፡ ውስተ ፡ ገዳም ፡\n                  ዘፋራን ፡ ቃዴስ ፡ ወነገርዎሙ ፡ ዜናሆሙ ፡ ወለኵሉ ፡ ተዓይኒሆሙ ፡ ወአርአይዎሙ ፡ ፍሬሃ ፡ ለይእቲ ፡ ምድር ።",
-      "translation": "",
+      "translation": "And they proceeded and came to Moses and Aaron and all the congregation of the children of Israel, to the wilderness of Pharan Cades; and they brought word to them and to all the congregation, and they shewed the fruit of the land:",
       "words": [
         {
           "g": "ወሐዊሮሙ",
@@ -1816,7 +1816,7 @@
     {
       "num": 27,
       "geez": "ወነገርዎሙ ፡ ወይቤሉ ፡ በጻሕነ ፡ ውስተ ፡ ይእቲ ፡ ምድር ፡ ኀበ ፡ ፈነውከነ ፡ ምድር ፡ እንተ ፡ ትውሕዝ ፡ ሐሊበ ፡\n                  ወመዓረ ፡ ወናሁ ፡ ፍሬሃ ።",
-      "translation": "",
+      "translation": "and they reported to him, and said, We came into the land into which thou sentest us, a land flowing with milk and honey; and this is the fruit of it.",
       "words": [
         {
           "g": "ወነገርዎሙ",
@@ -1902,7 +1902,7 @@
     {
       "num": 28,
       "geez": "ወሕዝብኒ ፡ ዘይነብር ፡ ውስቴታ ፡ ለይእቲ ፡ ምድር ፡ ጽኑዕ ፡ ወአህጉሪሃኒ ፡ ጽኑዕ ፡ ጥቀ ፡ ወዐበይት ፡ ወቦንቱ ፡\n                  ቅጽረ ፡ ወሙላዱ ፡ ለኤናቅ ፡ ርኢነ ፡ በህየ ።",
-      "translation": "",
+      "translation": "Only the nation that dwells upon it is bold, and they have very great and strong walled towns, and we saw there the children of Enach.",
       "words": [
         {
           "g": "ወሕዝብኒ",
@@ -1993,7 +1993,7 @@
     {
       "num": 29,
       "geez": "ወዐማሌቅ ፡ ኅዱራን ፡ ውስተ ፡ ምድር ፡ እንተ ፡ መንገለ ፡ አዜብ ፡ ወኬጤዎስ ፡ ወአሞሬዎስ ፡ ወኤዌዎስ ፡ ወኢየቡሴዎስ\n                  ፡ ኅዱራን ፡ ውስተ ፡ አድባሪሃ ፡ ወከናአንሰ ፡ ኅዱራን ፡ መንገለ ፡ ባሕር ፡ ወመንገለ ፡ ፈለገ ፡ ዮርዳንስ ።",
-      "translation": "",
+      "translation": "And Amalec dwells in the land toward the south: and the Chettite and the Evite, and the Jebusite, and the Amorite dwells in the hill country: and the Chananite dwells by the sea, and by the river Jordan.",
       "words": [
         {
           "g": "ወዐማሌቅ",
@@ -2109,7 +2109,7 @@
     {
       "num": 30,
       "geez": "ወአዘዘ ፡ ካሌብ ፡ ያርምም ፡ ሕዝብ ፡ በኀበ ፡ ሙሴ ፡ [ወይቤ ፡] አልቦ ፡ አላ ፡ ዐሪገ ፡ ነዐርግ ፡ ወንትዋረሳ ፡\n                  እስመ ፡ ክሂለኒ ፡ ንክሎሙ ።",
-      "translation": "",
+      "translation": "And Chaleb stayed the people from speaking before Moses, and said to him, Nay, but we will go up by all means, and will inherit it, for we shall surely prevail against them.",
       "words": [
         {
           "g": "ወአዘዘ",
@@ -2195,7 +2195,7 @@
     {
       "num": 31,
       "geez": "ወይቤሉ ፡ እልክቱ ፡ እለ ፡ ዐርጉ ፡ ምስሌሆሙ ፡ ዕደው ፡ ኢነዐርግ ፡ እስመ ፡ ኢንክል ፡ ዐሪገ ፡ ኀበ ፡ ውእቱ ፡\n                  ሕዝብ ፡ እስመ ፡ ይጸንዑ ፡ እምኔነ ፡ ፈድፋደ ።",
-      "translation": "",
+      "translation": "But the men that went up together with him said, We will not go up, for we shall not by any means be able to go up against the nation, for it is much stronger than we.",
       "words": [
         {
           "g": "ወይቤሉ",
@@ -2291,7 +2291,7 @@
     {
       "num": 32,
       "geez": "ወግርምተ ፡ ረሰይዋ ፡ ለይእቲ ፡ ምድር ፡ እንተ ፡ ርእዩ ፡ በኀበ ፡ ደቂቀ ፡ እስራኤል ፡ እንዘ ፡ ይብሉ ፡ ምድር ፡\n                  እንተ ፡ ሖርነ ፡ ከመ ፡ ንርአያ ፡ ምድር ፡ ይእቲ ፡ እንተ ፡ ተዐቅቦሙ ፡ ለእለ ፡ ይነብሩ ፡ ውስቴታ ፡ ወኵሉ ፡ ሕዝብ ፡\n                  ዘርኢነ ፡ ዕደው ፡ እሙንቱ ፡ እለ ፡ ፍድፉድ ፡ ኑኆሙ ።",
-      "translation": "",
+      "translation": "And they brought a horror of that land which they surveyed upon the children of Israel, saying, The land which we passed by to survey it, is a land that eats up its inhabitants; and all the people whom we saw in it are men of extraordinary stature.",
       "words": [
         {
           "g": "ወግርምተ",
@@ -2457,7 +2457,7 @@
     {
       "num": 33,
       "geez": "ወርኢነ ፡ በህየ ፡ እለ ፡ [ያርብ]ሕ ፡ ወኮነ ፡ ቅድሜሆሙ ፡ ከመ ፡ አናብጥ ፡ እለ ፡ ከማሁኒ ፡ ቅድሜሆሙ ።",
-      "translation": "",
+      "translation": "And there we saw the giants; and we were before them as locusts, yea even so were we before them.",
       "words": [
         {
           "g": "ወርኢነ",

@@ -5,7 +5,7 @@
     {
       "num": 1,
       "geez": "ወእመሰ ፡ ነፍስ ፡ አበሰት ፡ እንተ ፡ ስምዐ ፡ ኮነት ፡ ወሰምዐት ፡ ቃለ ፡ አምሐልዋ ፡ ወያአምር ፡ ወርእየ ፡ ለእመ ፡\n                  ኢአይድዐ ፡ ኀጢአተ ፡ ይከውኖ ።",
-      "translation": "",
+      "translation": "And if a soul sin, and hear the voice of swearing, and he is a witness or has seen or been conscious, if he do not report it, he shall bear his iniquity.",
       "words": [
         {
           "g": "ወእመሰ",
@@ -91,7 +91,7 @@
     {
       "num": 2,
       "geez": "ወእመቦ ፡ ነፍስ ፡ እንተ ፡ ገሰሰት ፡ እምኵሉ ፡ ርኩስ ፡ አው ፡ ምውተ ፡ አው ፡ ብላዐ ፡ አርዌ ፡ ወዘኢኮነ ፡ ንጹሐ\n                  ፡ አው ፡ በድነ ፡ ርኩሰ ፡ ወዘኢኮነ ፡ ንጹሐ ፡ አው ፡ በድነ ፡ እንስሳ ፡ ዘኢኮነ ፡ ንጹሐ ፤",
-      "translation": "",
+      "translation": "That soul which shall touch any unclean thing, or carcase, or that which is unclean being taken of beasts, or the dead bodies of abominable reptiles which are unclean, or carcases of unclean cattle,",
       "words": [
         {
           "g": "ወእመቦ",
@@ -217,7 +217,7 @@
     {
       "num": 3,
       "geez": "አው ፡ እመ ፡ ገሰሰ ፡ እምር[ኵሰ] ፡ ሰብእ ፡ እምነ ፡ ኵሉ ፡ ርኩስ ፡ እምከመ ፡ ገሰሰ ፡ ይረኵስ ፡ ወእመኒ ፡ እንዘ\n                  ፡ ኢያአምር ፡ ወእምዝ ፡ ተዐውቆ ፡ ወነስሐ ፤",
-      "translation": "",
+      "translation": "or should touch the uncleanness of a man, of whatever kind, which he may touch and be defiled by, and it should have escaped him, but afterwards he should know,—then he shall have transgressed.",
       "words": [
         {
           "g": "አው",
@@ -313,7 +313,7 @@
     {
       "num": 4,
       "geez": "ወነፍስ ፡ እመ ፡ መሐለ ፡ ወነበበ ፡ በከናፍሪሁ ፡ ለገቢረ ፡ እኪት ፡ አው ፡ ለገቢረ ፡ ሠናይት ፡ በእንተ ፡ ኵሉ ፡\n                  እምከመ ፡ ሰብእ ፡ መሐለ ፡ እንዘ ፡ ኢያአምር ፡ ወእምዝ ፡ ተዐውቆ ፡ ወአበሰ ፡ በአሐዱ ፡ እምዝንቱ ፤",
-      "translation": "",
+      "translation": "That unrighteous soul, which determines with his lips to do evil or to do good according to whatsoever a man may determine with an oath, and it shall have escaped his notice, and he shall afterwards know it, and so he should sin in some one of these things:—",
       "words": [
         {
           "g": "ወነፍስ",
@@ -434,7 +434,7 @@
     {
       "num": 5,
       "geez": "ወአይድዐ ፡ ኀጢአቶ ፡ እንተ ፡ አበሰ ፡ ባቲ ፤",
-      "translation": "",
+      "translation": "then shall he declare his sin in the things wherein he has sinned by that sin.",
       "words": [
         {
           "g": "ወአይድዐ",
@@ -470,7 +470,7 @@
     {
       "num": 6,
       "geez": "ያመጽእ ፡ ለእግዚአብሔር ፡ በእንተ ፡ ኀጢአቱ ፡ እንተ ፡ አበሰ ፡ በግዕተ ፡ አንስተ ፡ እምውስተ ፡ አባግዕ ፡ አው ፡\n                  ጠሊተ ፡ እምውስተ ፡ አጣሊ ፡ በእንተ ፡ ኀጢአቱ ፡ ወያስተሰሪ ፡ ሉቱ ፡ ካህን ፡ በእንተ ፡ ኀጢአቱ ፡ እንተ ፡ አበሰ ፡\n                  ወትትኀደግ ፡ ሎቱ ፡ ኀጢአቱ ።",
-      "translation": "",
+      "translation": "And he shall bring for his transgressions against the Lord, for his sin which he has sinned, a ewe lamb of the flock, or a kid of the goats, for a sin-offering; and the priest shall make an atonement for him for his sin which he has sinned, and his sin shall be forgiven him.",
       "words": [
         {
           "g": "ያመጽእ",
@@ -611,7 +611,7 @@
     {
       "num": 7,
       "geez": "ወእመሰ ፡ አልቦ ፡ ውስተ ፡ እዴሁ ፡ ወኢየአክል ፡ ለሤጠ ፡ በግዕ ፡ ያመጽእ ፡ በእንተ ፡ ኀጢአቱ ፡ እንተ ፡ አበሰ ፡\n                  ክልኤተ ፡ መዓንቀ ፡ አው ፡ ክልኤተ ፡ እጕለ ፡ ርግብ ፡ ለእግዚአብሔር ፡ አሐዱ ፡ በእንተ ፡ ኀጢአቱ ፡ ወአሐዱ ፡ ለመሥዋዕት\n                  ።",
-      "translation": "",
+      "translation": "And if he cannot afford a sheep, he shall bring for his sin which he has sinned, two turtle-doves or two young pigeons to the Lord; one for a sin-offering, and the other for a burnt-offering.",
       "words": [
         {
           "g": "ወእመሰ",
@@ -742,7 +742,7 @@
     {
       "num": 8,
       "geez": "ወያመጽእ ፡ ኀበ ፡ ካህን ፡ ወያበውእ ፡ ካህን ፡ ዘበእንተ ፡ ኀጢአት ፡ ይቀድም ፡ ወየሐርዶ ፡ ካህን ፡ ክሣዶ ፡\n                  ወኢያወቅዮ ፡ ርእሶ ።",
-      "translation": "",
+      "translation": "And he shall bring them to the priest, and the priest shall bring the sin-offering first; and the priest shall pinch off the head from the neck, and shall not divide the body.",
       "words": [
         {
           "g": "ወያመጽእ",
@@ -818,7 +818,7 @@
     {
       "num": 9,
       "geez": "ወይነዝኅ ፡ እምነ ፡ ደም ፡ ዘበእንተ ፡ ኀጢአት ፡ ውስተ ፡ አረፍተ ፡ ምሥዋዕ ፡ ወዘተርፈ ፡ ደሞ ፡ ያንጸፈጽፍ ፡ ውስተ\n                  ፡ ምንባረ ፡ ምሥዋዕ ፡ እስመ ፡ ዘበእንተ ፡ ኀጢአት ፡ ውእቱ ።",
-      "translation": "",
+      "translation": "And he shall sprinkle of the blood of the sin-offering on the side of the altar, but the rest of the blood he shall drop at the foot of the altar, for it is a sin-offering.",
       "words": [
         {
           "g": "ወይነዝኅ",
@@ -919,7 +919,7 @@
     {
       "num": 10,
       "geez": "ወለካልኡኒ ፡ ይገብሮ ፡ መሥዋዕተ ፡ በከመ ፡ ሕጉ ፡ ወያስተሰሪ ፡ ሎቱ ፡ ካህን ፡ በእንተ ፡ ኀጢአቱ ፡ እንተ ፡ አበሰ\n                  ፡ ወይትኀደግ ፡ ሎቱ ።",
-      "translation": "",
+      "translation": "And he shall make the second a whole-burnt-offering, as it is fit; and the priest shall make atonement for his sin which he has sinned, and it shall be forgiven him.",
       "words": [
         {
           "g": "ወለካልኡኒ",
@@ -1000,7 +1000,7 @@
     {
       "num": 11,
       "geez": "ወእመሰ ፡ አልቦ ፡ ውስተ ፡ እዴሁ ፡ ወኢየአክል ፡ ለዘውገ ፡ መዓንቅ ፡ ወለክልኤቱ ፡ እጕለ ፡ ርግብ ፡ ያመጽእ ፡\n                  ቍርባኖ ፡ በእንተ ፡ ኀጢአቱ ፡ ስንዳሌ ፡ ዓሥርተ ፡ እድ ፡ ዘመስፈርተ ፡ ኢፍ ፡ በእንተ ፡ ኀጢአቱ ፡ ወኢይወዲ ፡ ውስቴቱ ፡\n                  ቅብአ ፡ ወኢያነብር ፡ ላዕሌሁ ፡ ስኂነ ፡ እስመ ፡ በእንተ ፡ ኀጢአት ፡ ውእቱ ።",
-      "translation": "",
+      "translation": "And if he cannot afford a pair of turtle-doves, or two young pigeons, then shall he bring as his gift for his sin, the tenth part of an ephah of fine flour for a sin-offering; he shall not pour oil upon it, nor shall he put frankincense upon it, because it is a sin-offering.",
       "words": [
         {
           "g": "ወእመሰ",
@@ -1166,7 +1166,7 @@
     {
       "num": 12,
       "geez": "ወያመጽእ ፡ ኀበ ፡ ካህን ፡ ወይዘግን ፡ እምኔሁ ፡ ካህን ፡ ምልአ ፡ ሕፍኑ ፡ በእንተ ፡ ተዝካሩ ፡ ወይወድዮ ፡ ውስተ ፡\n                  ምሥዋዕ ፡ ላዕለ ፡ ቍርባኑ ፡ ለእግዚአብሔር ፡ እስመ ፡ ዘኀጢአት ፡ ውእቱ ።",
-      "translation": "",
+      "translation": "And he shall bring it to the priest; and the priest having taken a handful of it, shall lay the memorial of it on the altar of whole-burnt-offerings to the Lord; it is a sin-offering.",
       "words": [
         {
           "g": "ወያመጽእ",
@@ -1272,7 +1272,7 @@
     {
       "num": 13,
       "geez": "ወያስተሰሪ ፡ ሎቱ ፡ ካህን ፡ በእንተ ፡ ኀጢአቱ ፡ እንተ ፡ አበሰ ፡ በአሐዱ ፡ እምእሉ ፡ ወይትኀደግ ፡ ሎቱ ፡ ወዘተርፈ\n                  ፡ ይከውን ፡ ለካህን ፡ ከመ ፡ መሥዋዕተ ፡ ስንዳሌ ።",
-      "translation": "",
+      "translation": "And the priest shall make atonement for him for his sin, which he has sinned in one of these things, and it shall be forgiven him; and that which is left shall be the priest's, as an offering of fine flour.",
       "words": [
         {
           "g": "ወያስተሰሪ",
@@ -1368,7 +1368,7 @@
     {
       "num": 14,
       "geez": "ወነበቦ ፡ እግዚአብሔር ፡ ለሙሴ ፡ ወይቤሎ ፤",
-      "translation": "",
+      "translation": "And the Lord spoke to Moses, saying,",
       "words": [
         {
           "g": "ወነበቦ",
@@ -1399,7 +1399,7 @@
     {
       "num": 15,
       "geez": "ነፍስ ፡ ለእመ ፡ ረሲዐ ፡ ረስዐት ፡ ወአበሰት ፡ እንዘ ፡ ኢትፈቅድ ፡ ላዕለ ፡ ቅድሳተ ፡ እግዚአብሔር ፡ ያመጽእ ፡\n                  በእንተ ፡ ንስሓሁ ፡ ለእግዚአብሔር ፡ ሐርጌ ፡ ንጹሐ ፡ እምውስተ ፡ አባግዕ ፡ ዘሤጠ ፡ ሰቅሎን ፡ በሰቅል ፡ ዘቅዱስ ፡\n                  በእንተ ፡ ዘነስሐ ።",
-      "translation": "",
+      "translation": "The soul which shall be really unconscious, and shall sin unwillingly in any of the holy things of the Lord, shall even bring to the Lord for his transgression, a ram of the flock without blemish, valued according to shekels of silver according to the shekel of the sanctuary, for his transgression wherein he transgressed.",
       "words": [
         {
           "g": "ነፍስ",
@@ -1530,7 +1530,7 @@
     {
       "num": 16,
       "geez": "ወይፈዲ ፡ ዘአበሰ ፡ ላዕለ ፡ ቅድሳት ፡ ወይዌስክ ፡ ዓዲ ፡ ላዕሌሁ ፡ ኃምስተ ፡ እዴሁ ፡ ወይሁቦ ፡ ለካህን ፡\n                  ወያስተሰሪ ፡ ሎቱ ፡ ካህን ፡ በውእቱ ፡ ሐርጌ ፡ ዘንስሓሁ ፡ ወይትኀደግ ፡ ሎቱ ።",
-      "translation": "",
+      "translation": "And he shall make compensation for that wherein he has sinned in the holy things; and he shall add the fifth part to it, and give it to the priest; and the priest shall make atonement for him with the ram of transgression, and his sin shall be forgiven him.",
       "words": [
         {
           "g": "ወይፈዲ",
@@ -1636,7 +1636,7 @@
     {
       "num": 17,
       "geez": "ወነፍስ ፡ እመ ፡ አበሰት ፡ ወገብረ ፡ አሐተ ፡ እምትእዛዘ ፡ እግዚአብሔር ፡ ዘኢይከውን ፡ ለገቢር ፡ በኢያእምሮ ፡\n                  ወነስሐ ፡ በእንተ ፡ ዘኮነቶ ፡ ኀጢአት ፤",
-      "translation": "",
+      "translation": "And the soul which shall sin, and do one thing against any of the commandments of the Lord, which it is not right to do, and has not known it, and shall have transgressed, and shall have contracted guilt,",
       "words": [
         {
           "g": "ወነፍስ",
@@ -1717,7 +1717,7 @@
     {
       "num": 18,
       "geez": "ያመጽእ ፡ ሐርጌ ፡ እምውስተ ፡ አባግዕ ፡ ንጹ[ሐ] ፡ ዘሤጡ ፡ ብሩር ፡ በእንተ ፡ ንስሓሁ ፡ ኀበ ፡ ካህን ፡ ወያስተሰሪ\n                  ፡ ሎቱ ፡ ካህን ፡ በእንተ ፡ ረሲዖቱ ፡ ዘረስዐ ፡ ወበዘ ፡ ኢያእመረ ፡ ወይትኀደግ ፡ ሎቱ ።",
-      "translation": "",
+      "translation": "he shall even bring a ram without blemish from the flock, valued at a price of silver for his transgression to the priest; and the priest shall make atonement for his trespass of ignorance, wherein he ignorantly trespassed, and he knew it not; and it shall be forgiven him.",
       "words": [
         {
           "g": "ያመጽእ",
@@ -1833,7 +1833,7 @@
     {
       "num": 19,
       "geez": "እስመ ፡ ነሲሖ ፡ በንስሓ ፡ ነስሐ ፡ ቅድመ ፡ እግዚአብሔር ።",
-      "translation": "",
+      "translation": "For he has surely been guilty of transgression before the Lord.",
       "words": [
         {
           "g": "እስመ",
@@ -1874,7 +1874,7 @@
     {
       "num": 20,
       "geez": "ወነበቦ ፡ እግዚአብሔር ፡ ለሙሴ ፡ ወይቤሎ ፤",
-      "translation": "",
+      "translation": "And the Lord spoke to Moses, saying,",
       "words": [
         {
           "g": "ወነበቦ",
@@ -1904,7 +1904,7 @@
     {
       "num": 21,
       "geez": "ነፍስ ፡ እመ ፡ አበሰት ፡ ወአስተተት ፡ ወተሀየየት ፡ ትእዛዘ ፡ እግዚአብሔር ፡ ወሐሰዎ ፡ ለካልኡ ፡ በእንተ ፡\n                  ዘአማኅፀኖ ፡ አው ፡ በእንተ ፡ ዘተሳተፉ ፡ አው ፡ በእንተ ፡ ዘሄዶ ፡ አው ፡ እመቦ ፡ ዘዐመዖ ፡ ለካልኡ ፤",
-      "translation": "",
+      "translation": "The soul which shall have sinned, and wilfully overlooked the commandments of the Lord, and shall have dealt falsely in the affairs of his neighbour in the matter of a deposit, or concerning fellowship, or concerning plunder, or has in anything wronged his neighbour,",
       "words": [
         {
           "g": "ነፍስ",
@@ -2019,7 +2019,7 @@
     {
       "num": 22,
       "geez": "አው ፡ እመ ፡ ረከበ ፡ ዘገደፉ ፡ ወሐሰወ ፡ በእንቲአሁ ፡ ወመሐለ ፡ በዐመፃ ፡ በእንተ ፡ አሐዱ ፡ እምኵሉ ፡ ዝንቱ ፡\n                  ዘይገብር ፡ ሰብእ ፡ ዘኢይከውን ፡ ለአበሳ ፡ ቦሙ ፤",
-      "translation": "",
+      "translation": "or has found that which was lost, and shall have lied concerning it, and shall have sworn unjustly concerning any one of all the things, whatsoever a man may do, so as to sin hereby;",
       "words": [
         {
           "g": "አው",
@@ -2114,7 +2114,7 @@
     {
       "num": 23,
       "geez": "ወእምከመ ፡ አበሰ ፡ ወእምዝ ፡ ነስሐ ፡ ወአግብአ ፡ ዘነሥአ ፡ ወሄደ ፡ አው ፡ ዘዐመፀ ፡ ወገፍዐ ፡ አው ፡ ማሕፀኖ ፡\n                  እመቦ ፡ ዘአማሕፀኖ ፡ አው ፡ ዘገደፉ ፡ ዘረከ[በ] ፤",
-      "translation": "",
+      "translation": "it shall come to pass, whensoever he shall have sinned, and transgressed, that he shall restore the plunder which he has seized, or redress the injury which he has committed, or restore the deposit which was entrusted to him, or the lost article which he has found",
       "words": [
         {
           "g": "ወእምከመ",
@@ -2209,7 +2209,7 @@
     {
       "num": 24,
       "geez": "እምነ ፡ ኵሉ ፡ ዘመሐለ ፡ በእንቲአሁ ፡ በዐመፃ ፡ ወአግብአ ፡ ርእሰ ፡ ንዋዩ ፡ ወዓዲ ፡ ይዌስክ ፡ ኃምስተ ፡ እዴሁ ፡\n                  ላዕሌሁ ፡ ወያገብእ ፡ ለባዕሉ ፡ በዕለተ ፡ ዘለፍዎ ።",
-      "translation": "",
+      "translation": "of any kind, about which he swore unjustly, he shall even restore it in full; and he shall add to it a fifth part besides; he shall restore it to him whose it is in the day in which he happens to be convicted.",
       "words": [
         {
           "g": "እምነ",
@@ -2304,7 +2304,7 @@
     {
       "num": 25,
       "geez": "ወያመጽእ ፡ ዘበእንተ ፡ ንስሓሁ ፡ ለእግዚአብሔር ፡ በግዐ ፡ እምውስተ ፡ አባግዕ ፡ ንጹሐ ፡ ሤጠ ፡ ንስሓሁ ።",
-      "translation": "",
+      "translation": "And he shall bring to the Lord for his trespass, a ram of the flock, without blemish, of value to the amount of the thing in which he trespassed.",
       "words": [
         {
           "g": "ወያመጽእ",
@@ -2364,7 +2364,7 @@
     {
       "num": 26,
       "geez": "ወያስተሰሪ ፡ ሎቱ ፡ ካህን ፡ ቅድመ ፡ እግዚአብሔር ፡ ወይትኀደግ ፡ ሎቱ ፡ በበይነ ፡ አሐዱ ፡ እምኵሉ ፡ ዘገብረ ፡\n                  ወነስሐ ፡ በእንቲአሁ ።",
-      "translation": "",
+      "translation": "And the priest shall make atonement for him before the Lord, and he shall be forgiven for any one of all the things which he did and trespassed in it.",
       "words": [
         {
           "g": "ወያስተሰሪ",

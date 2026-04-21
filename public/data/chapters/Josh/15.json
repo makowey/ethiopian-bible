@@ -5,7 +5,7 @@
     {
       "num": 1,
       "geez": "ወኮነ ፡ ደወሎሙ ፡ ለነገደ ፡ ይሁዳ ፡ በበ ፡ ሕዘቢሆሙ ፡ እምነ ፡ አድዋሊሆሙ ፡ ለ[ኤዶማውያን ፡] እምነ ፡ ገዳም ፡\n                  ዘ[ፂን] ፡ እስከ ፡ ቃዴስ ፡ መንገለ ፡ አዜብ ።",
-      "translation": "",
+      "translation": "And the borders of the tribe of Juda according to their families were from the borders of Idumea from the wilderness of Sin, as far as Cades southward.",
       "words": [
         {
           "g": "ወኮነ",
@@ -96,7 +96,7 @@
     {
       "num": 2,
       "geez": "ወኮነ ፡ ደወሎሙ ፡ እምነ ፡ ሊቦስ ፡ እስከ ፡ አሐዱ ፡ ኅብር ፡ ዘባሕረ ፡ አሊቄ ፡ እምነ ፡ ፍኖት ፡ እንተ ፡ ትወስድ\n                  ፡ ላዕለ ፡ ሊባ ።",
-      "translation": "",
+      "translation": "And their borders were from the south as far as a part of the salt sea from the high country that extends southward.",
       "words": [
         {
           "g": "ወኮነ",
@@ -182,7 +182,7 @@
     {
       "num": 3,
       "geez": "ወተሐውር ፡ ቅድመ ፡ አቅራቢን ፡ ወትወፅእ ፡ ላዕለ ፡ ሴናቀ ፡ ወተዐርግ ፡ እምነ ፡ ሊ[ቦ]ስ ፡ ላዕለ ፡ ቃዴስ ፡ በርኔ\n                  ፡ ወትወፅእ ፡ ላዕለ ፡ አስሮን ፡ ወተዐርግ ፡ ላዕለ ፡ ሰራዳ ፡ ወትወፅእ ፡ ላዕለ ፡ ዐረበ ፡ ቃዴስ ።",
-      "translation": "",
+      "translation": "And they proceed before the ascent of Acrabin, and go out round Sena, and go up from the south to Cades Barne; and go out to Asoron, and proceed up to Sarada, and go out by the way that is west of Cades.",
       "words": [
         {
           "g": "ወተሐውር",
@@ -303,7 +303,7 @@
     {
       "num": 4,
       "geez": "ወተሐውር ፡ ላዕለ ፡ ሴልሞናን ፡ ወትወፅእ ፡ ላዕለ ፡ ቈላተ ፡ ግብጽ ፡ ወይከውን ፡ ሞጻእቱ ፡ ለደወሎሙ ፡ ላዕለ ፡\n                  ባሕር ፡ ወዝንቱ ፡ ውእቱ ፡ ደወሎሙ ፡ ዘመንገለ ፡ አዜብ ።",
-      "translation": "",
+      "translation": "And they go out to Selmona, and issue at the valley of Egypt; and the termination of its boundaries shall be at the sea: these are their boundaries southward.",
       "words": [
         {
           "g": "ወተሐውር",
@@ -399,7 +399,7 @@
     {
       "num": 5,
       "geez": "ወደወሎሙ ፡ ዘመንገለ ፡ ጽባሕ ፡ ኵሉ ፡ ባሕረ ፡ አሊቄ ፡ እስከ ፡ ዮርዳንስ ፤ ወደወሎሙ ፡ ዘመንገለ ፡ መስዕ ፡ እምነ\n                  ፡ ፍኖት ፡ እንተ ፡ ኀበ ፡ ባሕር ፡ ወእምነ ፡ አሐዱ ፡ ኅብር ፡ ዘዮርዳንስ ።",
-      "translation": "",
+      "translation": "And their boundaries eastward are all the salt sea as far as Jordan; and their borders from the north, and from the border of the sea, and from part of Jordan—",
       "words": [
         {
           "g": "ወደወሎሙ",
@@ -505,7 +505,7 @@
     {
       "num": 6,
       "geez": "ወየዐርግ ፡ ደወሎሙ ፡ ዲበ ፡ ቤተ ፡ ግላዓም ፡ ወየኀልፍ ፡ ዲበ ፡ ቦራ ፡ ወየዐርግ ፡ ደወሎሙ ፡ ላዕለ ፡ ሊቶንቤዎን ፡\n                  ዘወልደ ፡ ሮቤል ።",
-      "translation": "",
+      "translation": "the borders go up to Bæthaglaam, and they go along from the north to Bætharaba, and the borders go on up to the stone of Bæon the son of Ruben.",
       "words": [
         {
           "g": "ወየዐርግ",
@@ -586,7 +586,7 @@
     {
       "num": 7,
       "geez": "ወየዐርግ ፡ ደወሎሙ ፡ ላዕለ ፡ ራብዕቱ ፡ ለቈላተ ፡ አኮር ፡ ወይወርድ ፡ ላዕለ ፡ ገልገል ፡ እንተ ፡ ቅድመ ፡ ማዕዶተ\n                  ፡ አደሚን ፡ እንተ ፡ መንገለ ፡ አዜቡ ፡ ለቈላት ፡ ወታወፅእ ፡ ላዕለ ፡ ነቅዐ ፡ ማየ ፡ ሄልዩ ፡ ወይከውን ፡ ሞጻእቱ ፡\n                  ነቅዐ ፡ ሮጌል ።",
-      "translation": "",
+      "translation": "And the borders continue on to the fourth part of the valley of Achor, and go down to Galgal, which is before the approach of Adammin, which is southward in the valley, and terminate at the water of the fountain of the sun; and their going forth shall be the fountain of Rogel.",
       "words": [
         {
           "g": "ወየዐርግ",
@@ -727,7 +727,7 @@
     {
       "num": 8,
       "geez": "ወየዐርግ ፡ ደወሎሙ ፡ እንተ ፡ ቈላተ ፡ ወልደ ፡ ኤኖ[ም] ፡ እንተ ፡ መንገለ ፡ አዜባ ፡ ለኢያቡስ ፡ እንተ ፡ ይእቲ ፡\n                  አያሩሳሌም ፡ ወያወፅእ ፡ ደወሎሙ ፡ ውስተ ፡ ርእሰ ፡ ደብር ፡ ዘሀለወ ፡ ቅድመ ፡ ቈላተ ፡ ኤኖም ፡ ዘኀበ ፡ ባሕር ፡ እንተ\n                  ፡ ውስተ ፡ አሐዱ ፡ ኅብር ፡ ዘምድረ ፡ ረፋይን ፡ ዘመንገለ ፡ መስዕ ።",
-      "translation": "",
+      "translation": "And the borders go up to the valley of Ennom, behind Jebus southward; this is Jerusalem: and the borders terminate at the top of the mountain, which is before the valley of Ennom toward the sea, which is by the side of the land of Raphain northward.",
       "words": [
         {
           "g": "ወየዐርግ",
@@ -898,7 +898,7 @@
     {
       "num": 9,
       "geez": "ወይወስድ ፡ ደወሎሙ ፡ እምነ ፡ ውእቱ ፡ ርእሰ ፡ ደብር ፡ ላዕለ ፡ ነቅዐ ፡ ማይ ፡ ዘነፍቶ ፡ ወያበጽሕ ፡ ውስተ ፡\n                  ደብረ ፡ ኤፍ[ሮን] ፡ ወይወስድ ፡ ደወሎሙ ፡ ላዕለ ፡ [በዓል ፡] እንተ ፡ ይእቲ ፡ ሀገረ ፡ ኢያሪን ።",
-      "translation": "",
+      "translation": "And the border going forth from the top of the mountain terminates at the fountain of the water of Naphtho, and terminates at mount Ephron; and the border will lead to Baal; this is the city of Jarim.",
       "words": [
         {
           "g": "ወይወስድ",
@@ -1019,7 +1019,7 @@
     {
       "num": 10,
       "geez": "ወየኀልፍ ፡ ደወሎሙ ፡ እምነ ፡ በዓል ፡ ላዕለ ፡ ባሕር ፡ ወየኀልፍ ፡ እንተ ፡ ደወለ ፡ አሳሬቱስ ፡ እንተ ፡ መንገለ ፡\n                  አዜባ ፡ ለሀገረ ፡ ኢያሪም ፡ ወመስዓ ፡ ለከሰሎን ፡ ወይወርድ ፡ ላዕለ ፡ ሀገረ ፡ ኤልዩ ፡ ወየኀልፍ ፡ ላዕለ ፡ ሊባ ።",
-      "translation": "",
+      "translation": "And the border will go round from Baal to the sea, and will go on to the mount of Assar behind the city of Jarin northwards; this is Chaslon: and it will come down to the city of the Sun, and will go on to the south.",
       "words": [
         {
           "g": "ወየኀልፍ",
@@ -1150,7 +1150,7 @@
     {
       "num": 11,
       "geez": "ወያወፅእ ፡ ደወሎሙ ፡ ላዕለ ፡ አዜባ ፡ ለዐቃሮን ፡ ወይገብእ ፡ ላዕለ ፡ መስዕ ፡ ወያወፅእ ፡ ደወሎሙ ፡ ዲበ ፡ ሶቆት\n                  ፡ ወየኀልፍ ፡ ደወሎሙ ፡ ላዕለ ፡ አዜብ ፡ ወያወፅእ ፡ ላዕለ ፡ ሌብና ፡ ወይከውን ፡ ሞፃእቱ ፡ ለደወሎሙ ፡ ዲበ ፡ ባሕር ፤\n                  ወደወሎሙኒ ፡ ዘመንገለ ፡ ባሕር ፡ ባሕር ፡ ዐቢይ ፡ ወሰኖሙ ።",
-      "translation": "",
+      "translation": "And the border terminates behind Accaron northward, and the borders will terminate at Socchoth, and the borders will go on to the south, and will terminate at Lebna, and the issue of the borders will be at the sea; and their borders shall be toward the sea, the great sea shall be the boundary.",
       "words": [
         {
           "g": "ወያወፅእ",
@@ -1306,7 +1306,7 @@
     {
       "num": 12,
       "geez": "ወዝንቱ ፡ ውእቱ ፡ ደወሎሙ ፡ ለደቂቀ ፡ ይሁዳ ፡ ዘአውዶሙ ፡ በበ ፡ ሕዘቢሆሙ ።",
-      "translation": "",
+      "translation": "These are the borders of the children of Juda round about according to their families.",
       "words": [
         {
           "g": "ወዝንቱ",
@@ -1357,7 +1357,7 @@
     {
       "num": 13,
       "geez": "ወለካሌብ ፡ ወልደ ፡ ዬፎኔ ፡ ወሀቦ ፡ መክፈልቶ ፡ በማእከሎሙ ፡ ለደቂቀ ፡ ይሁዳ ፡ በትእዛዘ ፡ እግዚአብሔር ፡ ወወሀቦ\n                  ፡ ኢየሱስ ፡ ሀገረ ፡ አ[ር]ቦቅ ፡ ደብረ ፡ አህጉረ ፡ ኤናቅ ፡ እንተ ፡ ይእቲ ፡ ኬብሮን ።",
-      "translation": "",
+      "translation": "And to Chaleb the son of Jephone he gave a portion in the midst of the children of Juda by the command of God; and Joshua gave him the city of Arboc the metropolis of Enac; this is Chebron.",
       "words": [
         {
           "g": "ወለካሌብ",
@@ -1468,7 +1468,7 @@
     {
       "num": 14,
       "geez": "ወሠረዎሙ ፡ እምህየ ፡ ካሌብ ፡ ወልደ ፡ ዬፎኔ ፡ ለሠለስቲሆሙ ፡ ደቂቀ ፡ ኤናቅ ፡ ለ[ሡ]ሲ ፡ ወለጠ[ለ]ሚ ፡ ወለአኪማ\n                  ።",
-      "translation": "",
+      "translation": "And Chaleb the son of Jephone destroyed thence the three sons of Enac, Susi, and Tholami, and Achima.",
       "words": [
         {
           "g": "ወሠረዎሙ",
@@ -1534,7 +1534,7 @@
     {
       "num": 15,
       "geez": "ወዐርገ ፡ እምህየ ፡ ካሌብ ፡ ላዕለ ፡ እለ ፡ ይነብሩ ፡ ውስተ ፡ ዳቢር ፡ ወስማ ፡ ለዳቢር ፡ ቀዲሙ ፡ ሀገረ ፡ መጽሐፍ\n                  ።",
-      "translation": "",
+      "translation": "And Chaleb went up thence to the inhabitants of Dabir; and the name of Dabir before was the city of Letters.",
       "words": [
         {
           "g": "ወዐርገ",
@@ -1610,7 +1610,7 @@
     {
       "num": 16,
       "geez": "ወይቤ ፡ ካሌብ ፡ ዘነሥኣ ፡ ወቀተላ ፡ ለሀገረ ፡ መጽሐፍ ፡ ወአስተጋብኣ ፡ እሁቦ ፡ አ[ስ]ካ ፡ ወለትየ ፡ ትኵኖ ፡\n                  ብእሲተ ።",
-      "translation": "",
+      "translation": "And Chaleb said, Whosoever shall take and destroy the city of Letters, and master it, to him will I give my daughter Ascha to wife.",
       "words": [
         {
           "g": "ወይቤ",
@@ -1681,7 +1681,7 @@
     {
       "num": 17,
       "geez": "ወነሥኣ ፡ ጎቶንዬል ፡ ወልደ ፡ ቄኔዝ ፡ እኁሁ ፡ ለካሌብ ፡ ወወሀቦ ፡ አ[ስ]ካ ፡ ወለቶ ፡ ትኵኖ ፡ ብእሲተ ።",
-      "translation": "",
+      "translation": "And Gothoniel the son of Chenez the brother of Chaleb took it; and he gave him Ascha his daughter to wife.",
       "words": [
         {
           "g": "ወነሥኣ",
@@ -1747,7 +1747,7 @@
     {
       "num": 18,
       "geez": "ወእምዝ ፡ ሶበ ፡ ለሐዊር ፡ ተማከረቶ ፡ እንዘ ፡ ትብል ፡ እስአሎ ፡ ለአቡየ ፡ ገራህተ ፡ ወጸርኀት ፡ በዲበ ፡ አድግ ፡\n                  ወይቤላ ፡ ካሌብ ፡ ምንተ ፡ ኮንኪ ።",
-      "translation": "",
+      "translation": "And it came to pass as she went out that she counselled him, saying, I will ask of my father a field; and she cried from off her ass; and Chaleb said to her, What is it?",
       "words": [
         {
           "g": "ወእምዝ",
@@ -1838,7 +1838,7 @@
     {
       "num": 19,
       "geez": "ወትቤሎ ፡ ሀበኒ ፡ በረከተ ፡ እስመ ፡ ውስተ ፡ ምድረ ፡ ናጌ[ብ] ፡ መጠውከኒ ፡ ሀበኒ ፡ ቦታኒስ ፡ ወወሀባ ፡ ጎኔትላን\n                  ፡ እንተ ፡ ላዕሉ ፡ ወጎኔትላን ፡ እንተ ፡ ታሕቱ ፡ እምርስቶሙ ፡ ለነገደ ፡ ደቂቀ ፡ ይሁዳ ።",
-      "translation": "",
+      "translation": "And she said to him, Give me a blessing, for thou hast set me in the land of Nageb; give me Botthanis: and he gave her Gonæthla the upper, and Gonæthla the lower.",
       "words": [
         {
           "g": "ወትቤሎ",
@@ -1954,7 +1954,7 @@
     {
       "num": 21,
       "geez": "ወኮነ ፡ አህጉሪሆሙ ፡ አህጉር ፡ ዘነገደ ፡ ደቂቀ ፡ ይሁዳ ፡ በውስተ ፡ አድዋለ ፡ ኤዶም ፡ በገዳሙ ፡ ወቤሴሌኤል ፡\n                  ወኣራ ፡ ወአሶር ።",
-      "translation": "",
+      "translation": "And their cities were cities belonging to the tribe of the children of Juda on the borders of Edom by the wilderness, and Bæseleel, and Ara, and Asor,",
       "words": [
         {
           "g": "ወኮነ",
@@ -2030,7 +2030,7 @@
     {
       "num": 22,
       "geez": "ወኢቀም ፡ ወሬግማ ፡ ወአሩሔል ።",
-      "translation": "",
+      "translation": "and Icam, and Regma, and Aruel,",
       "words": [
         {
           "g": "ወኢቀም",
@@ -2056,7 +2056,7 @@
     {
       "num": 23,
       "geez": "ወቃዴስ ፡ ወአስሪዮኔም ፡ ወሚናን ።",
-      "translation": "",
+      "translation": "and Cades, and Asorionain, and Mænam,",
       "words": [
         {
           "g": "ወቃዴስ",
@@ -2082,7 +2082,7 @@
     {
       "num": 24,
       "geez": "ወ[በ]ልማናን ፡ ወአዕጻዳቲሆን ።",
-      "translation": "",
+      "translation": "and Balmænan, and their villages,",
       "words": [
         {
           "g": "ወበልማናን",
@@ -2103,7 +2103,7 @@
     {
       "num": 25,
       "geez": "ወአህጉረ ፡ አሴሮን ፡ እንተ ፡ ይእቲ ፡ አሶር ።",
-      "translation": "",
+      "translation": "and the cities of Aseron, this is Asor,",
       "words": [
         {
           "g": "ወአህጉረ",
@@ -2139,7 +2139,7 @@
     {
       "num": 26,
       "geez": "ወሴን ፡ ወሰማዓ ፡ ወሞላዳ ።",
-      "translation": "",
+      "translation": "and Sen, and Salmaa, and Molada,",
       "words": [
         {
           "g": "ወሴን",
@@ -2165,7 +2165,7 @@
     {
       "num": 27,
       "geez": "ወሴሪ ፡ ወቤፋላድ ።",
-      "translation": "",
+      "translation": "and Seri, and Bæphalath,",
       "words": [
         {
           "g": "ወሴሪ",
@@ -2186,7 +2186,7 @@
     {
       "num": 28,
       "geez": "ወኮላሶኤዳ ፡ ወበርሳቤሕ ፡ ወአዕጻዳቲሆን ።",
-      "translation": "",
+      "translation": "and Cholaseola, and Beersabee; and their villages, and their hamlets,",
       "words": [
         {
           "g": "ወኮላሶኤዳ",
@@ -2212,7 +2212,7 @@
     {
       "num": 29,
       "geez": "ባላ ፡ ወባቆብ ፡ ወደብራቲሆን ፡ ወኣሶም ።",
-      "translation": "",
+      "translation": "Bala and Bacoc, and Asom,",
       "words": [
         {
           "g": "ባላ",
@@ -2243,7 +2243,7 @@
     {
       "num": 30,
       "geez": "ወኤለቦሂ[ዳ]ድ ፡ ወቤቴል ፡ ወኤርማ ።",
-      "translation": "",
+      "translation": "and Elboüdad, and Bæthel, and Herma,",
       "words": [
         {
           "g": "ወኤለቦሂዳድ",
@@ -2269,7 +2269,7 @@
     {
       "num": 31,
       "geez": "ወሴቄላቅ ፡ ወመከርም ፡ ወሴተነኅ ።",
-      "translation": "",
+      "translation": "and Sekelac, and Macharim, and Sethennac,",
       "words": [
         {
           "g": "ወሴቄላቅ",
@@ -2295,7 +2295,7 @@
     {
       "num": 32,
       "geez": "ወላቦስ ፡ ወሳሌ ፡ ወኤርሞት ፡ ዕሥራ ፡ ወትስዑ ፡ አህጉር ፡ ወአዕጻዳቲሆን ።",
-      "translation": "",
+      "translation": "and Labos, and Sale, and Eromoth; twenty-nine cities, and their villages.",
       "words": [
         {
           "g": "ወላቦስ",
@@ -2341,7 +2341,7 @@
     {
       "num": 33,
       "geez": "በውስተ ፡ ሐቅል ፡ አስጣሖል ፡ ወ[ሳ]ራ ፡ ወኣሳ ።",
-      "translation": "",
+      "translation": "In the plain country Astaol, and Raa, and Assa,",
       "words": [
         {
           "g": "በውስተ",
@@ -2377,7 +2377,7 @@
     {
       "num": 34,
       "geez": "ወራሜን ፡ እንተ ፡ ላዕሉ ፡ ወኢዱቶት ፡ ወመሐንስ ።",
-      "translation": "",
+      "translation": "and Ramen, and Tano, and Iluthoth, and Mæani,",
       "words": [
         {
           "g": "ወራሜን",
@@ -2413,7 +2413,7 @@
     {
       "num": 35,
       "geez": "ወኤርሙት ፡ ወኦዶለም ፡ ወሜምራ ፡ ወሰኦኮ ፡ ወሐዜቃ ።",
-      "translation": "",
+      "translation": "and Jermuth, and Odollam, and Membra, and Saocho, and Jazeca.",
       "words": [
         {
           "g": "ወኤርሙት",
@@ -2449,7 +2449,7 @@
     {
       "num": 36,
       "geez": "ወሰቃርም ፡ ወገዴራ ፡ ወ[ደብራቲ]ሃ ፡ ዐሥሩ ፡ ወአርባዕ ፡ አህጉር ፡ ወአዕጻዳቲሆን ።",
-      "translation": "",
+      "translation": "And Sacarim and Gadera, and its villages; fourteen cities, and their villages;",
       "words": [
         {
           "g": "ወሰቃርም",
@@ -2495,7 +2495,7 @@
     {
       "num": 37,
       "geez": "ሴና ፡ ወአዳሳን ፡ ወመገድገድ ።",
-      "translation": "",
+      "translation": "Senna, and Adasan, and Magadalgad,",
       "words": [
         {
           "g": "ሴና",
@@ -2521,7 +2521,7 @@
     {
       "num": 38,
       "geez": "ወአዳለል ፡ ወመ[ስ]ፋ ፡ ወይቃሬል ፡ ወማኬሳ ።",
-      "translation": "",
+      "translation": "and Dalad, and Maspha, and Jachareel,",
       "words": [
         {
           "g": "ወአዳለል",
@@ -2552,7 +2552,7 @@
     {
       "num": 39,
       "geez": "ወቦሴዶት ፡ ወይዴሓ ፡ ዶሌያ ።",
-      "translation": "",
+      "translation": "and Basedoth, and Ideadalea;",
       "words": [
         {
           "g": "ወቦሴዶት",
@@ -2578,7 +2578,7 @@
     {
       "num": 40,
       "geez": "ወኮብራ ፡ ወማክስ ፡ ወመሐኮስ ።",
-      "translation": "",
+      "translation": "and Chabra, and Maches, and Maachos,",
       "words": [
         {
           "g": "ወኮብራ",
@@ -2604,7 +2604,7 @@
     {
       "num": 41,
       "geez": "ወጌዶር ፡ ወቦጋዲየል ፡ ወኖማን ፡ ወመቄደም ፡ ዐሥሩ ፡ ወስሱ ፡ አህጉር ፡ ወአዕጻዳቲሆን ።",
-      "translation": "",
+      "translation": "and Geddor, and Bagadiel, and Noman, and Machedan: sixteen cities, and their villages;",
       "words": [
         {
           "g": "ወጌዶር",
@@ -2655,7 +2655,7 @@
     {
       "num": 42,
       "geez": "ሌምና ፡ ወኤተቅ ፡ ወአኖክ ።",
-      "translation": "",
+      "translation": "Lebna, and Ithac, and Anoch,",
       "words": [
         {
           "g": "ሌምና",
@@ -2681,7 +2681,7 @@
     {
       "num": 43,
       "geez": "ወአድና ፡ ወናሲብ ።",
-      "translation": "",
+      "translation": "and Jana, and Nasib,",
       "words": [
         {
           "g": "ወአድና",
@@ -2702,7 +2702,7 @@
     {
       "num": 44,
       "geez": "ወኢለም ፡ ወአቄዝም ፡ ወበቴሳር ፡ ወኤሎም ፡ ዐሥሩ ፡ አህጉር ፡ ወአዕጻዳቲሆን ።",
-      "translation": "",
+      "translation": "and Keilam, and Akiezi, and Kezib, and Bathesar, and Ælom: ten cities, and their villages;",
       "words": [
         {
           "g": "ወኢለም",
@@ -2748,7 +2748,7 @@
     {
       "num": 45,
       "geez": "አቃሮን ፡ ወአዕጻዳቲሃ ፡ ወደብራቲሆን ።",
-      "translation": "",
+      "translation": "Accaron and her villages, and their hamlets:",
       "words": [
         {
           "g": "አቃሮን",
@@ -2774,7 +2774,7 @@
     {
       "num": 46,
       "geez": "እምነ ፡ አቃሮን ፡ ጌማ ፡ ወኵሉ ፡ ዘሀለወ ፡ ቅሩበ ፡ አሴዶት ፡ ወአዕጻዳቲሆን ።",
-      "translation": "",
+      "translation": "from Accaron, Gemna, and all the cities that are near Asedoth; and their villages.",
       "words": [
         {
           "g": "እምነ",
@@ -2825,7 +2825,7 @@
     {
       "num": 47,
       "geez": "አሴዬዶት ፡ ወአዕጻዳቲሃ ፡ ወ[ደብራቲ]ሃ ፡ ወጋዛ ፡ ወአዕጻዳቲሃ ፡ ወደብራቲሃ ፡ እስከ ፡ ፈለገ ፡ ግብጽ ፡ ወባሕር ፡\n                  ዐባይ ፡ ትፈልጦ ።",
-      "translation": "",
+      "translation": "Asiedoth, and her villages, and her hamlets; Gaza, and its villages and its hamlets as far as the river of Egypt, and the great sea is the boundary.",
       "words": [
         {
           "g": "አሴዬዶት",
@@ -2896,7 +2896,7 @@
     {
       "num": 48,
       "geez": "ወአድባረ ፡ ሳሚርሂ ፡ ወኢዬቴር ፡ ወሦካ ።",
-      "translation": "",
+      "translation": "And in the hill country Samir, and Jether, and Socha,",
       "words": [
         {
           "g": "ወአድባረ",
@@ -2927,7 +2927,7 @@
     {
       "num": 49,
       "geez": "ወሬና ፡ ወሀገረ ፡ መጽሐፍ ፡ ይእቲ ፡ ዳቢር ።",
-      "translation": "",
+      "translation": "and Renna and the city of Letters, this is Dabir;",
       "words": [
         {
           "g": "ወሬና",
@@ -2963,7 +2963,7 @@
     {
       "num": 50,
       "geez": "ወአኖን ፡ ወሴቄማ ፡ ወኤሳማ ።",
-      "translation": "",
+      "translation": "and Anon, and Es, and Man, and Æsam,",
       "words": [
         {
           "g": "ወአኖን",
@@ -2989,7 +2989,7 @@
     {
       "num": 51,
       "geez": "ወጎሶም ፡ ወ[ከ]ሉ ፡ ወ[ከ]ና ፡ ዐሥሩ ፡ ወአሐቲ ፡ አህጉር ፡ ወአዕጻዳቲሆን ።",
-      "translation": "",
+      "translation": "and Gosom, and Chalu, and Channa, and Gelom: eleven cities, and their villages;",
       "words": [
         {
           "g": "ወጎሶም",
@@ -3035,7 +3035,7 @@
     {
       "num": 52,
       "geez": "ኤሬም ፡ ወሬምና ፡ ወ[ሶ]ማ ።",
-      "translation": "",
+      "translation": "Ærem, and Remna, and Soma,",
       "words": [
         {
           "g": "ኤሬም",
@@ -3061,7 +3061,7 @@
     {
       "num": 53,
       "geez": "ወኢየማይን ፡ ወቤታቁ ፡ ወፋቁሕ ።",
-      "translation": "",
+      "translation": "and Jemain, and Bæthachu, and Phacua,",
       "words": [
         {
           "g": "ወኢየማይን",
@@ -3087,7 +3087,7 @@
     {
       "num": 54,
       "geez": "ወኤውማ ፡ ወአህጉረ ፡ አርቦቅ ፡ ይእቲ ፡ ኬብሮን ፡ ወሶሬት ፡ ትስዑ ፡ አህጉር ፡ ወደብራቲሆን ።",
-      "translation": "",
+      "translation": "and Euma, and the city Arboc, this is Chebron, and Soraith: nine cities, and their villages:",
       "words": [
         {
           "g": "ወኤውማ",
@@ -3143,7 +3143,7 @@
     {
       "num": 55,
       "geez": "መሖር ፡ ወኬርሜል ፡ ወኦዚብ ፡ ወኢጣን ።",
-      "translation": "",
+      "translation": "Maor, and Chermel, and Ozib, and Itan,",
       "words": [
         {
           "g": "መሖር",
@@ -3174,7 +3174,7 @@
     {
       "num": 56,
       "geez": "ወኢያሪዬል ፡ ወኢያሪቅም ፡ ወዘቃይን ።",
-      "translation": "",
+      "translation": "and Jariel, and Aricam, and Zacanaim,",
       "words": [
         {
           "g": "ወኢያሪዬል",
@@ -3200,7 +3200,7 @@
     {
       "num": 57,
       "geez": "ወጋባ ፡ ወተምና ፡ ተስዑ ፡ አህጉር ፡ ወአዕጻዳቲሆን ።",
-      "translation": "",
+      "translation": "and Gabaa, and Thamnatha; nine cities, and their villages;",
       "words": [
         {
           "g": "ወጋባ",
@@ -3236,7 +3236,7 @@
     {
       "num": 58,
       "geez": "ወአ[ሉ]ዋ ፡ ወቤትሱር ፡ ወጌዶር ።",
-      "translation": "",
+      "translation": "Ælua, and Bethsur, and Geddon,",
       "words": [
         {
           "g": "ወአሉዋ",
@@ -3262,7 +3262,7 @@
     {
       "num": 59,
       "geez": "ወመገዶት ፡ ወቤተነም ፡ ወኤቴቁም ፡ ስሱ ፡ አህጉር ፡ ወአዕጻዳቲሆን ።",
-      "translation": "",
+      "translation": "and Magaroth, and Bæthanam, and Thecum; six cities, and their villages;",
       "words": [
         {
           "g": "ወመገዶት",
@@ -3303,7 +3303,7 @@
     {
       "num": 60,
       "geez": "ቴቆ ፡ ወኤፍራታ ፡ እንተ ፡ ይእቲ ፡ ቤተ ፡ ልሔም ፡ ወፋጎር ፡ ወኤጣን ፡ ወቁሎን ፡ ወጠጦን ፡ ወሶቤሔ ፡ ወቃሬ ፡\n                  ወጋሌም ፡ ወኤቴር ፡ ወመኖኮ ፡ ዐሥሩ ፡ [ወአሐቲ ፡] አህጉር ፡ ወአዕጻዳቲሆን ። ቃርያት ፡ በዐል ፡ እንተ ፡ ይእቲ ፡ ሀገረ\n                  ፡ ኢያርም ፡ ወሶቤታ ፡ ክልኤ ፡ አህጉር ፡ ወደብራቲሆን ።",
-      "translation": "",
+      "translation": "Cariathbaal, this is the city of Jarim, and Sotheba: two cities, and their villages:",
       "words": [
         {
           "g": "ቴቆ",
@@ -3459,7 +3459,7 @@
     {
       "num": 61,
       "geez": "ወባልዳጊስ ፡ ወተራበዐም ፡ ወኤሞን ።",
-      "translation": "",
+      "translation": "and Baddargeis, and Tharabaam, and Ænon;",
       "words": [
         {
           "g": "ወባልዳጊስ",
@@ -3485,7 +3485,7 @@
     {
       "num": 62,
       "geez": "ወሰኪዮዛን ፡ ወነፍላዛን ፡ ወአህጉሪሆን ፡ ሳለም ፡ ወአቃዴስ ፡ ሰብዑ ፡ አህጉር ፡ ወአዕጻዳቲሆን ።",
-      "translation": "",
+      "translation": "and Æochioza, and Naphlazon, and the cities of Sadon, and Ancades; seven cities, and their villages.",
       "words": [
         {
           "g": "ወሰኪዮዛን",
@@ -3536,7 +3536,7 @@
     {
       "num": 63,
       "geez": "ወኢየቡሴዎን ፡ እለ ፡ ይነብሩ ፡ ውስተ ፡ ኢየሩሳሌም ፡ ስእንዎሙ ፡ ደቂቀ ፡ ይሁዳ ፡ አጥፍኦቶሙ ፡ ወነበሩ ፡ ኢየቡሴዎን\n                  ፡ ውስተ ፡ ኢየሩሳሌም ፡ እስከ ፡ ይእቲ ፡ ዕለት ።",
-      "translation": "",
+      "translation": "And the Jebusite dwelt in Jerusalem, and the children of Juda could not destroy them; and the Jebusites dwelt in Jerusalem to this day.",
       "words": [
         {
           "g": "ወኢየቡሴዎን",

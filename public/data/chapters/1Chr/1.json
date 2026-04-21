@@ -1,0 +1,258 @@
+{
+  "book": "1Chr",
+  "chapter": 1,
+  "verses": [
+    {
+      "num": 1,
+      "geez": "",
+      "translation": "Adam, Seth, Enos,",
+      "words": []
+    },
+    {
+      "num": 2,
+      "geez": "",
+      "translation": "and Cainan, Maleleel, Jared,",
+      "words": []
+    },
+    {
+      "num": 3,
+      "geez": "",
+      "translation": "Enoch, Mathusala, Lamech,",
+      "words": []
+    },
+    {
+      "num": 4,
+      "geez": "",
+      "translation": "Noe: the sons of Noe, Sem, Cham, Japheth.",
+      "words": []
+    },
+    {
+      "num": 5,
+      "geez": "",
+      "translation": "The sons of Japheth, Gamer, Magog, Madaim, Jovan, Helisa, Thobel, Mosoch, and Thiras.",
+      "words": []
+    },
+    {
+      "num": 6,
+      "geez": "",
+      "translation": "And the sons of Gamer, Aschanaz, and Riphath, and Thorgama.",
+      "words": []
+    },
+    {
+      "num": 7,
+      "geez": "",
+      "translation": "And the sons of Jovan, Helisa, and Tharsis, the Citians, and Rhodians.",
+      "words": []
+    },
+    {
+      "num": 8,
+      "geez": "",
+      "translation": "And the sons of Cham, Chus, and Mesraim, Phud and Chanaan.",
+      "words": []
+    },
+    {
+      "num": 9,
+      "geez": "",
+      "translation": "And the sons of Chus, Saba, and Evila, and Sabatha, and Regma, and Sebethaca: and the sons of Regma, Saba, and Dadan.",
+      "words": []
+    },
+    {
+      "num": 10,
+      "geez": "",
+      "translation": "And Chus begot Nebrod: he began to be a mighty hunter on the earth.",
+      "words": []
+    },
+    {
+      "num": 17,
+      "geez": "",
+      "translation": "The sons of Sem, Ælam, and Assur,",
+      "words": []
+    },
+    {
+      "num": 24,
+      "geez": "",
+      "translation": "and Arphaxad, Sala,",
+      "words": []
+    },
+    {
+      "num": 25,
+      "geez": "",
+      "translation": "Eber, Pheleg, Ragan,",
+      "words": []
+    },
+    {
+      "num": 26,
+      "geez": "",
+      "translation": "Seruch, Nachor, Tharrha,",
+      "words": []
+    },
+    {
+      "num": 27,
+      "geez": "",
+      "translation": "Abraam.",
+      "words": []
+    },
+    {
+      "num": 28,
+      "geez": "",
+      "translation": "And the sons of Abraam, Isaac, and Ismael.",
+      "words": []
+    },
+    {
+      "num": 29,
+      "geez": "",
+      "translation": "And these are their generations: the first-born of Ismael, Nabæoth, and Kedar, Nabdeel, Massam,",
+      "words": []
+    },
+    {
+      "num": 30,
+      "geez": "",
+      "translation": "Masma, Iduma, Masse, Chondan, Thæman,",
+      "words": []
+    },
+    {
+      "num": 31,
+      "geez": "",
+      "translation": "Jettur, Naphes, Kedma: these are the sons of Ismael.",
+      "words": []
+    },
+    {
+      "num": 32,
+      "geez": "",
+      "translation": "And the sons of Chettura Abraam's concubine:—and she bore him Zembram, Jexan, Madiam, Madam, Sobac, Soe: and the sons of Jexan; Dædan, and Sabai;",
+      "words": []
+    },
+    {
+      "num": 33,
+      "geez": "",
+      "translation": "and the sons of Madiam; Gephar, and Opher, and Enoch, and Abida, and Eldada; all these were the sons of Chettura.",
+      "words": []
+    },
+    {
+      "num": 34,
+      "geez": "",
+      "translation": "And Abraam begot Isaac: and the sons of Isaac were Jacob, and Esau.",
+      "words": []
+    },
+    {
+      "num": 35,
+      "geez": "",
+      "translation": "The sons of Esau, Eliphaz, and Raguel, and Jeul, and Jeglom, and Core.",
+      "words": []
+    },
+    {
+      "num": 36,
+      "geez": "",
+      "translation": "The sons of Eliphaz: Thæman, and Omar, Sophar, and Goötham, and Kenez, and Thamna, and Amalec.",
+      "words": []
+    },
+    {
+      "num": 37,
+      "geez": "",
+      "translation": "And the sons of Raguel, Naches, Zare, Some, and Moze.",
+      "words": []
+    },
+    {
+      "num": 38,
+      "geez": "",
+      "translation": "The sons of Seir, Lotan, Sobal, Sebegon, Ana, Deson, Osar, and Disan.",
+      "words": []
+    },
+    {
+      "num": 39,
+      "geez": "",
+      "translation": "And the sons of Lotan, Chorri, and Æman; and the sister of Lotan was Thamna.",
+      "words": []
+    },
+    {
+      "num": 40,
+      "geez": "",
+      "translation": "The sons of Sobal; Alon, Machanath, Tæbel, Sophi, and Onan: and the sons of Sebegon; Æth, and Sonan.",
+      "words": []
+    },
+    {
+      "num": 41,
+      "geez": "",
+      "translation": "The sons of Sonan, Dæson: and the sons of Dæson; Emeron, and Asebon, and Jethram, and Charran.",
+      "words": []
+    },
+    {
+      "num": 42,
+      "geez": "",
+      "translation": "And the sons of Hosar, Balaam, and Zucam, and Acan: the sons of Disan, Os, and Aran.",
+      "words": []
+    },
+    {
+      "num": 43,
+      "geez": "",
+      "translation": "And these are their kings, Balac the son of Beor; and the name of his city was Dennaba.",
+      "words": []
+    },
+    {
+      "num": 44,
+      "geez": "",
+      "translation": "And Balac died, and Jobab the son of Zara of Bosorrha reigned in his stead.",
+      "words": []
+    },
+    {
+      "num": 45,
+      "geez": "",
+      "translation": "And Jobab died, and Asom of the land of the Thæmanites reigned in his stead.",
+      "words": []
+    },
+    {
+      "num": 46,
+      "geez": "",
+      "translation": "And Asom died, and Adad the son of Barad reigned in his stead, who smote Madiam in the plain of Moab: and the name of his city was Gethaim.",
+      "words": []
+    },
+    {
+      "num": 47,
+      "geez": "",
+      "translation": "And Adad died, and Sebla of Masecca reigned in his stead.",
+      "words": []
+    },
+    {
+      "num": 48,
+      "geez": "",
+      "translation": "And Sebla died, and Saul of Rhoboth by the river reigned in his stead.",
+      "words": []
+    },
+    {
+      "num": 49,
+      "geez": "",
+      "translation": "And Saul died, and Balaennor son of Achobor reigned in his stead.",
+      "words": []
+    },
+    {
+      "num": 50,
+      "geez": "",
+      "translation": "And Balaennor died, and Adad son of Barad reigned in his stead; and the name of his city was Phogor.",
+      "words": []
+    },
+    {
+      "num": 51,
+      "geez": "",
+      "translation": "The princes of Edom: prince Thamna, prince Golada, prince Jether,",
+      "words": []
+    },
+    {
+      "num": 52,
+      "geez": "",
+      "translation": "prince Elibamas, prince Elas, prince Phinon,",
+      "words": []
+    },
+    {
+      "num": 53,
+      "geez": "",
+      "translation": "prince Kenez, prince Thæman, prince Babsar, prince Magediel,",
+      "words": []
+    },
+    {
+      "num": 54,
+      "geez": "",
+      "translation": "prince Zaphoin. These are the princes of Edom.",
+      "words": []
+    }
+  ]
+}

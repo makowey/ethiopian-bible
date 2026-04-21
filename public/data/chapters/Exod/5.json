@@ -5,7 +5,7 @@
     {
       "num": 1,
       "geez": "ወእምድኅረዝ ፡ ቦኡ ፡ ሙሴ ፡ ወአሮን ፡ ኀበ ፡ ፈርዖን ፡ ወይቤልዎ ፡ ለፈርዖን ፡ ከመዝ ፡ ይቤ ፡ እግዚእ ፡ አምላከ ፡\n                  እስራኤል ፡ ፈኑ ፡ ሕዝብየ ፡ ከመ ፡ ይግበሩ ፡ በዓልየ ፡ በሐቅል ።",
-      "translation": "",
+      "translation": "And after this went in Moses and Aaron to Pharao, and they said to him, These things says the Lord God of Israel, Send my people away, that they may keep a feast to me in the wilderness.",
       "words": [
         {
           "g": "ወእምድኅረዝ",
@@ -111,7 +111,7 @@
     {
       "num": 2,
       "geez": "ወይቤ ፡ ፈርዖን ፡ መኑ ፡ ውእቱ ፡ ዘእሰምዖ ፡ ቃሎ ፡ ከመ ፡ እፈንዎሙ ፡ ለደቂቀ ፡ እስራኤል ፤ ኢያአምሮሂ ፡ ለእግዚእ\n                  ፡ ወለእስራኤልሂ ፡ ኢይፌንዎ ።",
-      "translation": "",
+      "translation": "And Pharao said, Who is he that I should hearken to his voice, so that I should send away the children of Israel? I do not know the Lord, and I will not let Israel go.",
       "words": [
         {
           "g": "ወይቤ",
@@ -187,7 +187,7 @@
     {
       "num": 3,
       "geez": "ወይቤልዎ ፡ አምላከ ፡ ዕብራዊያን ፡ ጸውዐነ ፡ ንሑር ፡ እንከ ፡ ምሕዋረ ፡ ሠሉስ ፡ ዕለት ፡ ውስተ ፡ ሐቅል ፡ ከመ ፡\n                  ንሡዕ ፡ ለእግዚእ ፡ ለአምላክነ ፡ ከመ ፡ ኢይርከበነ ፡ ሞት ፡ ወቀትል ።",
-      "translation": "",
+      "translation": "And they say to him, The God of the Hebrews has called us to him: we will go therefore a three days' journey into the wilderness, that we may sacrifice to the Lord our God, lest at any time death or slaughter happen to us.",
       "words": [
         {
           "g": "ወይቤልዎ",
@@ -293,7 +293,7 @@
     {
       "num": 4,
       "geez": "ወይቤሎሙ ፡ ንጉሠ ፡ ግብጽ ፡ ለምንት ፡ ለክሙ ፡ ሙሴ ፡ ወአሮን ፡ ትገፈትእዎ ፡ ለዝንቱ ፡ ሕዝብ ፡ እምግብሩ ፡ ሑሩ ፡\n                  ውስተ ፡ ግብርክሙ ።",
-      "translation": "",
+      "translation": "And the king of Egypt said to them, Why do ye, Moses and Aaron, turn the people from their works? depart each of you to your works.",
       "words": [
         {
           "g": "ወይቤሎሙ",
@@ -374,7 +374,7 @@
     {
       "num": 5,
       "geez": "ወይቤሎሙ ፡ ፈርዖን ፡ ናሁ ፡ ይእዜ ፡ ብዙኅ ፡ ወምሉእ ፡ አሕዛበ ፡ ምድር ፡ ቦሁ ፡ ዘናዐርፎሙ ፡ እምግብሮሙ ።",
-      "translation": "",
+      "translation": "And Pharao said, Behold now, the people is very numerous; let us not then give them rest from their work.",
       "words": [
         {
           "g": "ወይቤሎሙ",
@@ -440,7 +440,7 @@
     {
       "num": 6,
       "geez": "ወአዘዘ ፡ ፈርዖን ፡ ለነዳእተ ፡ ገባር ፡ ዘሕዝብ ፡ ወለጸሐፍት ፡ ወይቤሎሙ ።",
-      "translation": "",
+      "translation": "And Pharao gave orders to the task-masters of the people and the accountants, saying,",
       "words": [
         {
           "g": "ወአዘዘ",
@@ -486,7 +486,7 @@
     {
       "num": 7,
       "geez": "እምይእዜ ፡ እንከ ፡ ኢተሀብዎሙ ፡ ዳግመ ፡ ሐሠረ ፡ ለሕዝብ ፡ ለገቢረ ፡ ግንፋል ፡ በከመ ፡ መዋዕለ ፡ ትካት ፡ ለሊሆሙ\n                  ፡ ይሑሩ ፡ ወያስተጋብኡ ፡ ሐሠረ ።",
-      "translation": "",
+      "translation": "Ye shall no longer give straw to the people for brick-making as yesterday and the third day; but let them go themselves, and collect straw for themselves.",
       "words": [
         {
           "g": "እምይእዜ",
@@ -572,7 +572,7 @@
     {
       "num": 8,
       "geez": "ወአምጣነ ፡ ጥብዖቶሙ ፡ ዘይገብሩ ፡ ግንፋለ ፡ ከማሁ ፡ ይግበሩ ፡ ኵሎ ፡ ዕለተ ፡ ወአልቦ ፡ ዘታኅጽጽዎሙ ፡ ወኢምንተኒ\n                  ፡ ዓዲ ፡ እመ ፡ ኢወሰክምዎሙ ፡ እስመ ፡ ፅሩዓን ፡ ጸርኁ ፡ ወይቤሉ ፡ ንሑር ፡ ወንሠውዕ ፡ ለእግዚእ ፡ አምላክነ ።",
-      "translation": "",
+      "translation": "And thou shalt impose on them daily the rate of brick-making which they perform: thou shalt not abate anything, for they are idle; therefore have they cried, saying, Let us arise and do sacrifice to our God.",
       "words": [
         {
           "g": "ወአምጣነ",
@@ -693,7 +693,7 @@
     {
       "num": 9,
       "geez": "አክብዱ ፡ ግብሮሙ ፡ ለዝንቱ ፡ ሰብእ ፡ ወዘንተ ፡ ይሔልዩ ፡ ወኢይሔልዩ ፡ ነገረ ፡ ዘኢይበቍዕ ።",
-      "translation": "",
+      "translation": "Let the works of these men be made grievous, and let them care for these things, and not care for vain words.",
       "words": [
         {
           "g": "አክብዱ",
@@ -749,7 +749,7 @@
     {
       "num": 10,
       "geez": "ወአጐጕእዎሙ ፡ ነዳእተ ፡ ሕዝብ ፡ ወጸሐፍት ፡ ወይቤልዎሙ ፡ ለሕዝብ ፡ ከመዝ ፡ ይቤ ፡ ፈርዖን ፡ ኢንሁበክሙ ፡ እንከ ፡\n                  ኀሠረ ።",
-      "translation": "",
+      "translation": "And the taskmasters and the accountants hastened them, and they spoke to the people, saying, Thus says Pharao, I will give you straw no longer.",
       "words": [
         {
           "g": "ወአጐጕእዎሙ",
@@ -820,7 +820,7 @@
     {
       "num": 11,
       "geez": "ለሊክሙ ፡ ሑሩ ፡ ወአስተጋብኡ ፡ ለክሙ ፡ ኀሠረ ፡ በኀበ ፡ ረከብክሙ ፡ ወአልቦ ፡ ዘያሐጸክሙ ፡ እምጥብዖትክሙ ፡\n                  ወኢምንተ ።",
-      "translation": "",
+      "translation": "Go ye, yourselves, get for yourselves straw whencesoever ye can find it, for nothing is diminished from your rate.",
       "words": [
         {
           "g": "ለሊክሙ",
@@ -886,7 +886,7 @@
     {
       "num": 12,
       "geez": "ወተዘርወ ፡ ሕዝብ ፡ ውስተ ፡ ኵሉ ፡ ምድረ ፡ ግብጽ ፡ ከመ ፡ የአልዱ ፡ ሎሙ ፡ ብርዐ ፡ ለሐሠር ።",
-      "translation": "",
+      "translation": "So the people were dispersed in all the land of Egypt, to gather stubble for straw.",
       "words": [
         {
           "g": "ወተዘርወ",
@@ -952,7 +952,7 @@
     {
       "num": 13,
       "geez": "ወዝኩሰ ፡ ነዳእቶሙ ፡ ያጔጕእዎሙ ፡ ወይብልዎሙ ፡ ፈጽሙ ፡ ግብረክሙ ፡ ዘለለ ፡ ዕለትክሙ ፡ በከመ ፡ አመ ፡ ንሁበክሙ ፡\n                  ኀሠረ ።",
-      "translation": "",
+      "translation": "And the taskmasters hastened them, saying, Fulfil your regular daily tasks, even as when straw was given you.",
       "words": [
         {
           "g": "ወዝኩሰ",
@@ -1023,7 +1023,7 @@
     {
       "num": 14,
       "geez": "ወይ[ትቀሠ]ፉ ፡ ጸሐፍተ ፡ ነገዶሙ ፡ ለደቂቀ ፡ እስራኤል ፡ እለ ፡ ተሠይሙ ፡ ዲቤሆሙ ፡ በኀበ ፡ ዐበይተ ፡ ፈርዖን ፡\n                  ወይቤልዎሙ ፡ ለምንት ፡ ኢትፌጽሙ ፡ ጥብዖተክሙ ፡ ግንፋለ ፡ በከመ ፡ ትካት ፡ ዮምኒ ።",
-      "translation": "",
+      "translation": "And the accountants of the race of the children of Israel, who were set over them by the masters of Pharao, were scourged, [and questioned,] men saying, Why have ye not fulfilled your rates of brick-work as yesterday and the third day, to-day also?",
       "words": [
         {
           "g": "ወይትቀሠፉ",
@@ -1129,7 +1129,7 @@
     {
       "num": 15,
       "geez": "ወቦኡ ፡ ጸሐፍቶሙ ፡ ለደቂቀ ፡ እስራኤል ፡ ወአውየዉ ፡ ኀበ ፡ ፈርዖን ፡ ወይቤሉ ፡ ለምንት ፡ ከመዝ ፡ ትሬስዮሙ ፡\n                  ለአግብርቲከ ።",
-      "translation": "",
+      "translation": "And the accountants of the children of Israel went in and cried to Pharao, saying, Why dost thou act thus to thy servants?",
       "words": [
         {
           "g": "ወቦኡ",
@@ -1200,7 +1200,7 @@
     {
       "num": 16,
       "geez": "ኀሥረ ፡ ኢይሁብዎሙ ፡ ለአግብርቲከ ፡ ወይቤልዎሙ ፡ ግበሩ ፡ ግንፋለ ፡ ወናሁ ፡ አግብርቲከ ፡ ይትቀሠፉ ፡ ወይትገፋዕ ፡\n                  ሕዝብከ ።",
-      "translation": "",
+      "translation": "Straw is not given to thy servants, and they tell us to make brick; and behold thy servants have been scourged: thou wilt therefore injure thy people.",
       "words": [
         {
           "g": "ኀሥረ",
@@ -1266,7 +1266,7 @@
     {
       "num": 17,
       "geez": "ወይቤሎሙ ፡ ዕሩፋን ፡ አንትሙ ፡ ወፅሩዓን ፡ ወበእንተ ፡ ዝንቱ ፡ ትብሉ ፡ ንሑር ፡ ወንሡዕ ፡ ለአምላክነ ።",
-      "translation": "",
+      "translation": "And he said to them, Ye are idle, ye are idlers: therefore ye say, Let us go and do sacrifice to our God.",
       "words": [
         {
           "g": "ወይቤሎሙ",
@@ -1327,7 +1327,7 @@
     {
       "num": 18,
       "geez": "ይእዜሂ ፡ ሑሩ ፡ ወግበሩ ፡ ሐሠረሰ ፡ ኢይሁቡክሙ ፡ ወጥብዖተሰ ፡ ግንፋልክሙ ፡ ታግብኡ ።",
-      "translation": "",
+      "translation": "Now then go and work, for straw shall not be given to you, yet ye shall return the rate of bricks.",
       "words": [
         {
           "g": "ይእዜሂ",
@@ -1378,7 +1378,7 @@
     {
       "num": 19,
       "geez": "ወርእዩ ፡ ጸሐፍቶሙ ፡ ለደቂቀ ፡ እስራኤል ፡ ከመ ፡ በእከት ፡ ሀለዉ ፡ ወይቤሉ ፡ እምጥብዖትነሂ ፡ ዘለለ ፡ ዕለትነ ፡\n                  ኢየኀጸነ ፡ ግንፋል ።",
-      "translation": "",
+      "translation": "And the accountants of the children of Israel saw themselves in an evil plight, men saying, Ye shall not fail to deliver the daily rate of the brick-making.",
       "words": [
         {
           "g": "ወርእዩ",
@@ -1454,7 +1454,7 @@
     {
       "num": 20,
       "geez": "ወተራከብዎሙ ፡ ለሙሴ ፡ ወለአሮን ፡ እንዘ ፡ ይመጽኡ ፡ ፀአቶሙ ፡ እምኀበ ፡ ፈርዖን ።",
-      "translation": "",
+      "translation": "And they met Moses and Aaron coming forth to meet them, as they came forth from Pharao.",
       "words": [
         {
           "g": "ወተራከብዎሙ",
@@ -1505,7 +1505,7 @@
     {
       "num": 21,
       "geez": "ወይቤልዎሙ ፡ ይርአይ ፡ እግዚአብሔር ፡ ለነ ፡ ወይፍታሕ ፡ ከመ ፡ ገበርክምዎ ፡ ለፄናነ ፡ ሠቆራረ ፡ በቅድመ ፡ ፈርዖን\n                  ፡ ወበቅድመ ፡ ዐበይቱ ፡ ከመ ፡ ትመጥውዎ ፡ ሰይፈ ፡ ውስተ ፡ እዴሁ ፡ በዘ ፡ ይቀትለነ ።",
-      "translation": "",
+      "translation": "And they said to them, The Lord look upon you and judge you, for ye have made our savour abominable before Pharao, and before his servants, to put a sword into his hands to slay us.",
       "words": [
         {
           "g": "ወይቤልዎሙ",
@@ -1616,7 +1616,7 @@
     {
       "num": 22,
       "geez": "ወገብአ ፡ ሙሴ ፡ ኀበ ፡ እግዚእ ፡ ወይቤ ፡ እግዚኦ ፡ ለምንት ፡ አሕሠምከ ፡ በዝ ፡ ሕዝብ ፡ ወለምንት ፡ ፈኖከኒ ።",
-      "translation": "",
+      "translation": "And Moses turned to the Lord, and said, I pray, Lord, why hast thou afflicted this people? and wherefore hast thou sent me?",
       "words": [
         {
           "g": "ወገብአ",
@@ -1687,7 +1687,7 @@
     {
       "num": 23,
       "geez": "እምአመ ፡ ሖርኩ ፡ ኀበ ፡ ፈርዖን ፡ እንግሮ ፡ በቃልከ ፡ አሕሠመ ፡ በሕዝብከ ፡ ወኢያድኀንካሁ ፡ ለዝ ፡ ሕዝብ\n                  ።",
-      "translation": "",
+      "translation": "For from the time that I went to Pharao to speak in thy name, he has afflicted this people, and thou hast not delivered thy people.",
       "words": [
         {
           "g": "እምአመ",

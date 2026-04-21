@@ -5,7 +5,7 @@
     {
       "num": 1,
       "geez": "ዝውእቱ ፡ አስማቲሆሙ ፡ ለደቂቀ ፡ እስራኤል ፡ እለ ፡ ቦኡ ፡ ብሔረ ፡ ግብጽ ፡ ምስለ ፡ ያዕቆብ ፡ አቡሆሙ ፡\n                  [ለ]ለአሐዱ ፡ አሐዱ ፡ በበ ፡ አዕጻዲሆሙ ፡ ቦኡ ።",
-      "translation": "",
+      "translation": "These are the names of the sons of Israel that came into Egypt together with Jacob their father; they came in each with their whole family.",
       "words": [
         {
           "g": "ዝውእቱ",
@@ -96,7 +96,7 @@
     {
       "num": 2,
       "geez": "ሮቤል ፡ ወስምዖን ፡ ወሌዊ ፡ ወይሁዳ ።",
-      "translation": "",
+      "translation": "Ruben, Simeon, Levi, Judas,",
       "words": [
         {
           "g": "ሮቤል",
@@ -127,7 +127,7 @@
     {
       "num": 3,
       "geez": "ወይ[ሳኮ]ር ፡ ወዛቡሎን ፡ ወብንያም ።",
-      "translation": "",
+      "translation": "Issachar, Zabulon, Benjamin,",
       "words": [
         {
           "g": "ወይሳኮር",
@@ -153,7 +153,7 @@
     {
       "num": 4,
       "geez": "ወዳን ፡ ወንፍታሌም ፡ ወጋድ ፡ ወአሴር ።",
-      "translation": "",
+      "translation": "Dan and Nephthalim, Gad and Aser.",
       "words": [
         {
           "g": "ወዳን",
@@ -184,7 +184,7 @@
     {
       "num": 5,
       "geez": "ወዮሴፍሰ ፡ ሀሎ ፡ ብሔረ ፡ ግብጽ ፡ ወኮነት ፡ ኵሉ ፡ ነፍስ ፡ እንተ ፡ እምያዕቆብ ፡ ፸፭ ።",
-      "translation": "",
+      "translation": "But Joseph was in Egypt. And all the souls born of Jacob were seventy-five.",
       "words": [
         {
           "g": "ወዮሴፍሰ",
@@ -245,7 +245,7 @@
     {
       "num": 6,
       "geez": "ወሞተ ፡ ዮሴፍ ፡ ወኵሉ ፡ አኀዊሁ ፡ ወኵሉ ፡ ውእቱ ፡ ትውልድ ።",
-      "translation": "",
+      "translation": "And Joseph died, and all his brethren, and all that generation.",
       "words": [
         {
           "g": "ወሞተ",
@@ -291,7 +291,7 @@
     {
       "num": 7,
       "geez": "ወበዝኁ ፡ ደቂቀ ፡ እስራኤል ፡ ወመልኡ ፡ ወኮኑ ፡ ሕቁራነ ፡ ወጸንዑ ፡ ጥቀ ፡ ዕዙዘ ፡ ወመልአት ፡ ምድር ፡ እምኖሙ ።",
-      "translation": "",
+      "translation": "And the children of Israel increased and multiplied, and became numerous and grew exceedingly strong, and the land multiplied them.",
       "words": [
         {
           "g": "ወበዝኁ",
@@ -362,7 +362,7 @@
     {
       "num": 8,
       "geez": "ወተንሥአ ፡ ንጉሥ ፡ ካልእ ፡ ዲበ ፡ ግብጽ ፡ ዘአያአምሮ ፡ ለዮሴፍ ።",
-      "translation": "",
+      "translation": "And there arose up another king over Egypt, who knew not Joseph.",
       "words": [
         {
           "g": "ወተንሥአ",
@@ -408,7 +408,7 @@
     {
       "num": 9,
       "geez": "ወይቤሎሙ ፡ ለአሕዛብ ፡ ናሁ ፡ ሕዝበ ፡ ደቂቀ ፡ እስራኤል ፡ ዐቢይ ፡ ወብዙኅ ፡ ወይጸንዑነ ።",
-      "translation": "",
+      "translation": "And he said to his nation, Behold, the race of the children of Israel is a great multitude, and is stronger than we:",
       "words": [
         {
           "g": "ወይቤሎሙ",
@@ -464,7 +464,7 @@
     {
       "num": 10,
       "geez": "ንዑ ፡ ንጠበቦሙ ፡ እስመ ፡ እምከመ ፡ በዝኁ ፡ ወቦከመ ፡ በጽሐነ ፡ ፀብእ ፡ ይትዌሰኩ ፡ እሉኒ ፡ ዲበ ፡ ፀርነ ፡\n                  ወይፀብኡነ ፡ ወይወፅኡ ፡ እምድርነ ።",
-      "translation": "",
+      "translation": "come then, let us deal craftily with them, lest at any time they be increased, and whensoever war shall happen to us, these also shall be added to our enemies, and having prevailed against us in war, they will depart out of the land.",
       "words": [
         {
           "g": "ንዑ",
@@ -550,7 +550,7 @@
     {
       "num": 11,
       "geez": "ወሤመ ፡ ዲቤሆሙ ፡ ሊቃነ ፡ ገባር ፡ ከመ ፡ ይሣቅይዎሙ ፡ በግብር ፤ ወነደቁ ፡ አህጉረ ፡ ጽኑዓተ ፡ ለፈርዖን ፡ ፈቶ[ም\n                  ፡] ወራምሴ ፡ ወኦን ፡ እንተ ፡ ይእቲ ፡ ሀገረ ፡ ፀሐይ ።",
-      "translation": "",
+      "translation": "And he set over them task-masters, who should afflict them in their works; and they built strong cities for Pharao, both Pitho, and Ramesses, and On, which is Heliopolis.",
       "words": [
         {
           "g": "ወሤመ",
@@ -646,7 +646,7 @@
     {
       "num": 12,
       "geez": "ወበአምጣነ ፡ ይሣቅይዎሙ ፡ ከማሁ ፡ ይበዝኁ ፡ ወይጸንዑ ፡ ወያስቆርርዎሙ ፡ ግብጽ ፡ ለደቂቀ ፡ እስራኤል ።",
-      "translation": "",
+      "translation": "But as they humbled them, by so much they multiplied, and grew exceedingly strong; and the Egyptians greatly abhorred the children of Israel.",
       "words": [
         {
           "g": "ወበአምጣነ",
@@ -702,7 +702,7 @@
     {
       "num": 13,
       "geez": "ወይትኤገልዎሙ ፡ ግብጽ ፡ ለደቂቀ ፡ እስራኤል ፡ በሥቃይ ።",
-      "translation": "",
+      "translation": "And the Egyptians tyrannised over the children of Israel by force.",
       "words": [
         {
           "g": "ወይትኤገልዎሙ",
@@ -738,7 +738,7 @@
     {
       "num": 14,
       "geez": "ወያጼዕሩ ፡ ሕይወተ ፡ ነፍሶሙ ፡ በግብር ፡ ዕፁብ ፡ በፅቡር ፡ ወበግንፋል ፡ ወበኵሉ ፡ ግብረ ፡ ሐቅል ፡ ወበኵሉ ፡\n                  ግብር ፡ ዘይቀንይዎሙ ፡ በሥቃይ ።",
-      "translation": "",
+      "translation": "And they embittered their life by hard labours, in the clay and in brick-making, and all the works in the plains, according to all the works, wherein they caused them to serve with violence.",
       "words": [
         {
           "g": "ወያጼዕሩ",
@@ -819,7 +819,7 @@
     {
       "num": 15,
       "geez": "ወይቤሎን ፡ ንጉሠ ፡ ግብጽ ፡ ለመወልዳተ ፡ ዕብራይ ፡ ስማ ፡ ለአሐቲ ፡ ስፓ[ራ] ፡ ወስመ ፡ ካልእታ ፡ ፎሓ ።",
-      "translation": "",
+      "translation": "And the king of the Egyptians spoke to the midwives of the Hebrews; the name of the one was, Sepphora; and the name of the second, Phua.",
       "words": [
         {
           "g": "ወይቤሎን",
@@ -885,7 +885,7 @@
     {
       "num": 16,
       "geez": "ወይቤሎን ፡ ሶበ ፡ ታወልደሆን ፡ ለዕብራዊያት ፡ እምከመ ፡ በጽሐት ፡ ለወሊድ ፡ እመ ፡ ተባዕት ፡ ውእቱ ፡ ቅትላሁ ፡\n                  ወእመሰ ፡ አንስት ፡ አውልዳሃ ።",
-      "translation": "",
+      "translation": "And he said, When ye do the office of midwives to the Hebrew women, and they are about to be delivered, if it be a male, kill it; but if a female, save it.",
       "words": [
         {
           "g": "ወይቤሎን",
@@ -966,7 +966,7 @@
     {
       "num": 17,
       "geez": "ወፈርሃሁ ፡ ለእግዚአብሔር ፡ ዝኩ ፡ መወልዳት ፡ ወኢገብራ ፡ በከመ ፡ አዘዞን ፡ ንጉሠ ፡ ግብጽ ፡ ወአሕየዋ ፡ ተባዕተ ።",
-      "translation": "",
+      "translation": "But the midwives feared God, and did not as the king of Egypt appointed them; and they saved the male children alive.",
       "words": [
         {
           "g": "ወፈርሃሁ",
@@ -1032,7 +1032,7 @@
     {
       "num": 18,
       "geez": "ወጸውዖን ፡ ንጉሠ ፡ ግብጽ ፡ ለመወልዳት ፡ ወይቤሎን ፡ እፎኑ ፡ ከመ ፡ ትገብራ ፡ ከመዝ ፡ ወታ[ሐ]ይዋ ፡ ተባዕተ ።",
-      "translation": "",
+      "translation": "And the king of Egypt called the midwives, and said to them, Why is it that ye have done this thing, and saved the male children alive?",
       "words": [
         {
           "g": "ወጸውዖን",
@@ -1098,7 +1098,7 @@
     {
       "num": 19,
       "geez": "ወይቤላሁ ፡ መወልዳት ፡ ለፈርዖን ፡ አኮ ፡ ከመ ፡ አንስተ ፡ ግብጽ ፡ ዕብራዊያት ፤ እንበለ ፡ ትምጻእ ፡ መወልድ ፡\n                  ይወልዳ ።",
-      "translation": "",
+      "translation": "And the midwives said to Pharao, The Hebrew women are not as the women of Egypt, for they are delivered before the midwives go in to them. So they bore children.",
       "words": [
         {
           "g": "ወይቤላሁ",
@@ -1164,7 +1164,7 @@
     {
       "num": 20,
       "geez": "ወአሠነየ ፡ እግዚአብሔር ፡ ለመወልዳት ፡ ወመልአ ፡ ሕዝብ ፡ ወጸንዐ ፡ ጥቀ ።",
-      "translation": "",
+      "translation": "And God did well to the midwives, and the people multiplied, and grew very strong.",
       "words": [
         {
           "g": "ወአሠነየ",
@@ -1210,7 +1210,7 @@
     {
       "num": 21,
       "geez": "ወእስመ ፡ ፈርሃሁ ፡ ለእግዚአብሔር ፡ መወልዳት ፡ ገብራ ፡ አብያተ ።",
-      "translation": "",
+      "translation": "And as the midwives feared God, they established for themselves families.",
       "words": [
         {
           "g": "ወእስመ",
@@ -1251,7 +1251,7 @@
     {
       "num": 22,
       "geez": "ወአዘዘ ፡ ፈርዖን ፡ ለኵሉ ፡ ሕዝቡ ፡ ወይቤሎሙ ፡ ኵሎ ፡ ተባዕተ ፡ ዘይትወለድ ፡ ለዕብራይ ፡ ግርዎ ፡ ውስተ ፡ ተከዚ\n                  ፡ ወኵሎ ፡ አንስተ ፡ አሕይዉ ።",
-      "translation": "",
+      "translation": "And Pharao charged all his people, saying, Whatever male child shall be born to the Hebrews, cast into the river; and every female, save it alive.",
       "words": [
         {
           "g": "ወአዘዘ",

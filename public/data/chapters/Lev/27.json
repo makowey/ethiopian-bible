@@ -5,7 +5,7 @@
     {
       "num": 1,
       "geez": "ወነበቦ ፡ እግዚአብሔር ፡ ለሙሴ ፡ ወይቤሎ ፤",
-      "translation": "",
+      "translation": "And the Lord spoke to Moses, saying,",
       "words": [
         {
           "g": "ወነበቦ",
@@ -36,7 +36,7 @@
     {
       "num": 2,
       "geez": "ንግሮሙ ፡ ለደቂቀ ፡ እስራኤል ፡ ወበሎሙ ፡ ብእሲ ፡ እመቦ ፡ ዘበፅአ ፡ ብፅአተ ፡ ህየንተ ፡ ቤዛ ፡ ነፍሱ ፡\n                  ለእግዚአብሔር ፤",
-      "translation": "",
+      "translation": "Speak to the children of Israel, and thou shalt say to them, Whosoever shall vow a vow as the valuation of his soul for the Lord,",
       "words": [
         {
           "g": "ንግሮሙ",
@@ -107,7 +107,7 @@
     {
       "num": 3,
       "geez": "ወይኩን ፡ ሤጡ ፡ ለትባዕት ፡ ዘእም፳ዓም ፡ እስከ ፡ ፷ዓም ፡ ይከውን ፡ ሤጡ ፡ ኀምሳ ፡ ዲድረክመ ፡ ብሩር ፡ በመዳልው\n                  ፡ ዘቅዱስ ።",
-      "translation": "",
+      "translation": "the valuation of a male from twenty years old to sixty years old shall be—his valuation shall be fifty didrachms of silver by the standard of the sanctuary.",
       "words": [
         {
           "g": "ወይኩን",
@@ -183,7 +183,7 @@
     {
       "num": 4,
       "geez": "ወለአንስትሰ ፡ ይከውን ፡ ሤጣ ፡ ሠላሳ ፡ ዲድረክመ ።",
-      "translation": "",
+      "translation": "And the valuation of a female shall be thirty didrachms.",
       "words": [
         {
           "g": "ወለአንስትሰ",
@@ -219,7 +219,7 @@
     {
       "num": 5,
       "geez": "ወእመሰ ፡ ዘእምኃምስቱ ፡ ዓም ፡ እስከ ፡ ዕሥራ ፡ ዓም ፡ ይከውን ፡ ሤጡ ፡ ለተባዕት ፡ ፳ዲድረክመ ፡ ወለአንስትሰ ፡\n                  ፲ዲድረክመ ።",
-      "translation": "",
+      "translation": "And if it be from five years old to twenty, the valuation of a male shall be twenty didrachms, and of a female ten didrachms.",
       "words": [
         {
           "g": "ወእመሰ",
@@ -290,7 +290,7 @@
     {
       "num": 6,
       "geez": "ወእመሰ ፡ ዘእምአሐዱ ፡ ወርኅ ፡ እስከ ፡ ኀምስቱ ፡ ዓም ፡ ይከውን ፡ ሤጡ ፡ ለተባዕት ፡ ኀምስቱ ፡ ዲድረክመ ፡ ብሩር\n                  ፡ ወለአንስትሰ ፡ ሠላስ ፡ ዲድረክመ ፡ ብሩር ።",
-      "translation": "",
+      "translation": "And from a month old to five years old, the valuation of a male shall be five didrachms, and of a female, three didrachms of silver.",
       "words": [
         {
           "g": "ወእመሰ",
@@ -381,7 +381,7 @@
     {
       "num": 7,
       "geez": "ወእመሰ ፡ ዘእም፷ዓም ፡ ወላዕሉ ፡ ለእመ ፡ ተባዕት ፡ ይከውን ፡ ሤጡ ፡ ፲ወ፭ዲድረክመ ፡ ብሩር ፡ ወለአንስትሰ ፡\n                  ፲ዲድረክመ ።",
-      "translation": "",
+      "translation": "And if from sixty years old and upward, if it be a male, his valuation shall be fifteen didrachms of silver, and if a female, ten didrachms.",
       "words": [
         {
           "g": "ወእመሰ",
@@ -447,7 +447,7 @@
     {
       "num": 8,
       "geez": "ወእመሰ ፡ ኅጡእ ፡ ውእቱ ፡ ለአምጣነ ፡ ሤጡ ፡ ይቀውም ፡ ቅድመ ፡ ካህን ፡ ወይበፅዖ ፡ ሤጦ ፡ ካህን ፡ በአምጣነ ፡\n                  ቦቱ ፡ ውስተ ፡ እዴሁ ፡ በዘ ፡ ይክል ፡ ውእቱ ፡ ዘበፅዐ ፡ ከማሁ ፡ ይበፅዖ ፡ ካህን ፡ ሤጦ ።",
-      "translation": "",
+      "translation": "And if the man be too poor for the valuation, he shall stand before the priest; and the priest shall value him: according to what the man who has vowed can afford, the priest shall value him.",
       "words": [
         {
           "g": "ወእመሰ",
@@ -573,7 +573,7 @@
     {
       "num": 9,
       "geez": "ወእመሰ ፡ እምውስተ ፡ እንስሳ ፡ እምውስተ ፡ ዘይከውን ፡ ለአብኦ ፡ ቍርባን ፡ ለእግዚአብሔር ፡ እምኔሁ ፡ ለእግዚአብሔር\n                  ፡ ዘአምጽአ ፡ እምውስተ ፡ ቅዱስ ፤",
-      "translation": "",
+      "translation": "And if it be from the cattle that are offered as a gift to the Lord, whoever shall offer one of these to the Lord, it shall be holy.",
       "words": [
         {
           "g": "ወእመሰ",
@@ -649,7 +649,7 @@
     {
       "num": 10,
       "geez": "ወኢይዌልጦ ፡ ሠናየ ፡ በእኩይ ፡ ወኢእኩየ ፡ በሠናይ ፡ ወእመሰ ፡ ወልጦ ፡ ወለጦ ፡ እንስሳ ፡ በዘዘውጉ ፡ ይከውኖ ፡\n                  ወተውላጡኒ ፡ ቅዱስ ፡ ውእቱ ።",
-      "translation": "",
+      "translation": "He shall not change it, a good for a bad, or a bad for a good; and if he do at all change it, a beast for a beast, it and the substitute shall be holy.",
       "words": [
         {
           "g": "ወኢይዌልጦ",
@@ -730,7 +730,7 @@
     {
       "num": 11,
       "geez": "ወእመሰ ፡ እምኵሉ ፡ እንስሳ ፡ ርኩስ ፡ ዘኢያበውኡ ፡ እምኔሁ ፡ ቍርባነ ፡ ለእግዚአብሔር ፡ ታቀውሞ ፡ ለውእቱ ፡ እንስሳ\n                  ፡ ቅድመ ፡ ካህን ፤",
-      "translation": "",
+      "translation": "And if it be any unclean beast, of which none are offered as a gift to the Lord, he shall set the beast before the priest.",
       "words": [
         {
           "g": "ወእመሰ",
@@ -806,7 +806,7 @@
     {
       "num": 12,
       "geez": "ወይበፅዖ ፡ ሤጦ ፡ ካህን ፡ ማእከለ ፡ ሠናዩኒ ፡ ወማእከለ ፡ እኩዩኒ ፡ ወበከመ ፡ በፅዖ ፡ ካህን ፡ ከማሁ ፡ ይከውን ።",
-      "translation": "",
+      "translation": "And the priest shall make a valuation between the good and the bad, and accordingly as the priest shall value it, so shall it stand.",
       "words": [
         {
           "g": "ወይበፅዖ",
@@ -877,7 +877,7 @@
     {
       "num": 13,
       "geez": "ወእመሰ ፡ ቤዝዎ ፡ ቤዘዎ ፡ ይዌስክ ፡ ኃምስተ ፡ እዴሁ ፡ ላዕለ ፡ ሤጡ ።",
-      "translation": "",
+      "translation": "And if the worshipper will at all redeem it, he shall add the fifth part to its value.",
       "words": [
         {
           "g": "ወእመሰ",
@@ -928,7 +928,7 @@
     {
       "num": 14,
       "geez": "ወእመሰ ፡ በፅዐ ፡ ብእዚ ፡ ቤቶ ፡ ለእግዚአብሔር ፡ ወቀደ[ሳ] ፡ ወይበፅዓ ፡ ሤ[ጣ] ፡ ካህን ፡ ማእከለ ፡ ሠናይት ፡\n                  ወማእከለ ፡ እኪት ፡ ወበአምጣነ ፡ በፅዓ ፡ ሤጣ ፡ ካህን ፡ ከማሁ ፡ ትከውን ።",
-      "translation": "",
+      "translation": "And whatsoever man shall consecrate his house as holy to the Lord, the priest shall make a valuation of it between the good and the bad: as the priest shall value it, so shall it stand.",
       "words": [
         {
           "g": "ወእመሰ",
@@ -1034,7 +1034,7 @@
     {
       "num": 15,
       "geez": "ወእመሰ ፡ ውእቱ ፡ ዘበፅዓ ፡ ቤዘዋ ፡ ለቤቱ ፡ ይዌስክ ፡ ላዕለ ፡ ወርቀ ፡ ሤጣ ፡ ኃምስተ ፡ እዴሃ ፡ ወትገብእ ፡ ሎቱ\n                  ።",
-      "translation": "",
+      "translation": "And if he that has sanctified it should redeem his house, he shall add to it the fifth part of the money of the valuation, and it shall be his.",
       "words": [
         {
           "g": "ወእመሰ",
@@ -1110,7 +1110,7 @@
     {
       "num": 16,
       "geez": "ወእመሰ ፡ እምገራውሂሁ ፡ ዘዚአሁ ፡ በፅዐ ፡ ብእሲ ፡ ለእግዚአብሔር ፡ ወይሬስዩ ፡ ሤጦ ፡ በአምጣነ ፡ እትወተ ፡ እክሉ\n                  ፡ በመስፈርተ ፡ ቆሩ ፡ ዘሰገም ፡ ኀምሳ ፡ ብሩር ።",
-      "translation": "",
+      "translation": "And if a man should hallow to the Lord a part of the field of his possession, then the valuation shall be according to its seed, fifty didrachms of silver for a homer of barley.",
       "words": [
         {
           "g": "ወእመሰ",
@@ -1201,7 +1201,7 @@
     {
       "num": 17,
       "geez": "ወእመሰ ፡ እምነ ፡ ዓመተ ፡ ኅድገት ፡ በፅዐ ፡ ለገራህቱ ፡ ውእቱ ፡ ከመ ፡ ሐሳበ ፡ ሤጡሰ ።",
-      "translation": "",
+      "translation": "And if he should sanctify his field from the year of release, it shall stand according to his valuation.",
       "words": [
         {
           "g": "ወእመሰ",
@@ -1262,7 +1262,7 @@
     {
       "num": 18,
       "geez": "ወእመሰ ፡ በዓመት ፡ ዘእምድኅረ ፡ ኅድገት ፡ በፅዓ ፡ ለገራህቱ ፡ የሐስብ ፡ ሎቱ ፡ ካህን ፡ ወርቆ ፡ ለዓመት ፡ ዘተርፈ\n                  ፡ እስከ ፡ ዓመተ ፡ ኅድገት ፡ ወይገድፍ ፡ ሎቱ ፡ እምሤጡ ።",
-      "translation": "",
+      "translation": "And if he should sanctify his field in the latter time after the release, the priest shall reckon to him the money for the remaining years, until the next year of release, and it shall be deducted as an equivalent from his full valuation.",
       "words": [
         {
           "g": "ወእመሰ",
@@ -1363,7 +1363,7 @@
     {
       "num": 19,
       "geez": "ወእመሰ ፡ ለሊሁ ፡ ዘበፅዓ ፡ ለገራህቱ ፡ ቤዘዋ ፡ ይዌስክ ፡ ዲበ ፡ ወርቃ ፡ ሤጠ ፡ ኀምስተ ፡ እዴሃ ፡ ወትገብእ ፡\n                  ሎቱ ፡ ገራህቱ ።",
-      "translation": "",
+      "translation": "And if he that sanctified the field would redeem it, he shall add to its value the fifth part of the money, and it shall be his.",
       "words": [
         {
           "g": "ወእመሰ",
@@ -1444,7 +1444,7 @@
     {
       "num": 20,
       "geez": "ወእመሰ ፡ እምድኅረ ፡ ቤዘዋ ፡ ለገራህቱ ፡ ሤጣ ፡ ኀበ ፡ ካልእ ፡ ብእሲ ፡ ኢይቤዝዋ ፡ እንከ ፡ ዳግመ ።",
-      "translation": "",
+      "translation": "And if he do not redeem the field, but should sell the field to another man, he shall not after redeem it.",
       "words": [
         {
           "g": "ወእመሰ",
@@ -1510,7 +1510,7 @@
     {
       "num": 21,
       "geez": "አላ ፡ ትከውን ፡ ገራህቱ ፡ ቅድስተ ፡ ወስብሕተ ፡ ለእግዚአብሔር ፡ ወበዓመተ ፡ ኅድገትኒ ፡ ውፅእት ፡ ይእቲ ፡ እምኔሁ\n                  ፡ ወኢትገብእ ፡ ሎቱ ፡ ከመ ፡ ምድር ፡ እንተ ፡ ፍልጥ ፡ ለካህን ፡ በደወሉ ፡ ትከውን ።",
-      "translation": "",
+      "translation": "But the field shall be holy to the Lord after the release, as separated land; the priest shall have possession of it.",
       "words": [
         {
           "g": "አላ",
@@ -1621,7 +1621,7 @@
     {
       "num": 22,
       "geez": "ወእመሰ ፡ እምነ ፡ ገራውህ ፡ ዘተሣየጠ ፡ በፅዐ ፡ ለእግዚአብሔር ፡ እምነ ፡ ዘኢኮነ ፡ ዘደወሉ ፤",
-      "translation": "",
+      "translation": "And if he should consecrate to the Lord of a field which he has bought, which is not of the field of his possession,",
       "words": [
         {
           "g": "ወእመሰ",
@@ -1677,7 +1677,7 @@
     {
       "num": 23,
       "geez": "የሐስብ ፡ ሎቱ ፡ ካህን ፡ ክበበ ፡ ሤጡ ፡ እምነ ፡ ዓመተ ፡ ኅድገት ፡ ወይሁብ ፡ ሤጦ ፡ በይእቲ ፡ ዕለት ፡ ብፅዐቱ ፡\n                  ለእግዚአብሔር ።",
-      "translation": "",
+      "translation": "the priest shall reckon to him the full valuation from the year of release, and he shall pay the valuation in that day as holy to the Lord.",
       "words": [
         {
           "g": "የሐስብ",
@@ -1758,7 +1758,7 @@
     {
       "num": 24,
       "geez": "ወበዓመተ ፡ ኅድገት ፡ ይገብእ ፡ ውእቱ ፡ ገራህት ፡ ለዝክቱ ፡ ብእሲ ፡ ዘእምኀቤሁ ፡ ተሣየጠ ፡ እስመ ፡ ደወለ ፡ ዚአሁ\n                  ፡ ውእቱ ፡ ወምድሩ ።",
-      "translation": "",
+      "translation": "And in the year of release the land shall be restored to the man of whom the other bought it, whose the possession of the land was.",
       "words": [
         {
           "g": "ወበዓመተ",
@@ -1839,7 +1839,7 @@
     {
       "num": 25,
       "geez": "ወኵሉ ፡ ሤጥ ፡ በመዳልው ፡ ቅዱስ ፡ ይኩን ፡ ዕሥራ ፡ ኦቦሊ ፡ ለአሐቲ ፡ ዲድረክም ።",
-      "translation": "",
+      "translation": "And every valuation shall be by holy weights: the didrachm shall be twenty oboli.",
       "words": [
         {
           "g": "ወኵሉ",
@@ -1895,7 +1895,7 @@
     {
       "num": 26,
       "geez": "ወኵሉ ፡ በኵሩ ፡ ዘይትወለድ ፡ ውስተ ፡ እንስሳከ ፡ ለእግዚአብሔር ፡ ውእቱ ፡ ወአልቦ ፡ ዘይዌልጦ ፡ መኑሂ ፡ እመኒ ፡\n                  ላህም ፡ ወእመኒ ፡ በግዕ ፡ ለእግዚአብሔር ፡ ውእቱ ።",
-      "translation": "",
+      "translation": "And every first-born which shall be produced among thy cattle shall be the Lord's, and no man shall sanctify it: whether calf or sheep, it is the Lord's.",
       "words": [
         {
           "g": "ወኵሉ",
@@ -1986,7 +1986,7 @@
     {
       "num": 27,
       "geez": "ወእመሰ ፡ እምእንስሳ ፡ ዘርኩስ ፡ ይዌልጦ ፡ በሐሳበ ፡ ሤጡ ፡ ወይዌስክ ፡ ኀምስተ ፡ እዴሁ ፡ ላዕሌሁ ፡ ወይገብእ ፡\n                  ሎቱ ፡ ወእመሰ ፡ ኢቤዘዎ ፡ ይሠይጥዎ ፡ በሐሳበ ፡ ሤጡ ። ወኵሉ ፡ መባእ ፡ ዘአብአ ፡ ሰብእ ፡ ለእግዚአብሔር ፡ እምነ ፡\n                  ኵሉ ፡ ዘቦ ፡ እምሰብእ ፡ እስከ ፡ እንስሳ ፡ ወእመኒ ፡ ገራህት ፡ ዘደወሉ ፡ ኢይሠይጥዎ ፡ ወኢያቤዝውዎ ፤",
-      "translation": "",
+      "translation": "But if he should redeem an unclean beast, according to its valuation, then he shall add the fifth part to it, and it shall be his; and if he redeem it not, it shall be sold according to its valuation.",
       "words": [
         {
           "g": "ወእመሰ",
@@ -2162,7 +2162,7 @@
     {
       "num": 28,
       "geez": "ኵሉ ፡ መባእ ፡ ቅዱስ ፡ ዘቅዱሳን ፡ ውእቱ ፡ ለእግዚአብሔር ።",
-      "translation": "",
+      "translation": "And every dedicated thing which a man shall dedicate to the Lord of all that he has, whether man or beast, or of the field of his possession, he shall not sell it, nor redeem it: every devoted thing shall be most holy to the Lord.",
       "words": [
         {
           "g": "ኵሉ",
@@ -2203,7 +2203,7 @@
     {
       "num": 29,
       "geez": "ወኵሉ ፡ መባእ ፡ ዘአብኡ ፡ ሰብአ ፡ ዘይከውን ፡ ኢይትቤዘው ፡ እስከ ፡ አመ ፡ ይመውት ።",
-      "translation": "",
+      "translation": "And whatever shall be dedicated of men, shall not be ransomed, but shall be surely put to death.",
       "words": [
         {
           "g": "ወኵሉ",
@@ -2259,7 +2259,7 @@
     {
       "num": 30,
       "geez": "ወኵሉ ፡ ዓሥራታ ፡ ለምድር ፡ ዘእምዘርአ ፡ ምድር ፡ ወእመኒ ፡ ዘእምፍሬ ፡ ዕፅ ፡ ለእግዚአብሔር ፡ ቅዱስ ፡ ውእቱ ፡\n                  ለእግዚአብሔር ።",
-      "translation": "",
+      "translation": "Every tithe of the land, both of the seed of the land, and of the fruit of trees, is the Lord's, holy to the Lord.",
       "words": [
         {
           "g": "ወኵሉ",
@@ -2330,7 +2330,7 @@
     {
       "num": 31,
       "geez": "ወእመሰ ፡ ቤዝዎ ፡ ቤዘወ ፡ ሰብእ ፡ ዓሥራቲሁ ፡ ይዌስክ ፡ ላዕሌሁ ፡ ኀምስተ ፡ እዴሁ ።",
-      "translation": "",
+      "translation": "And if a man should at all redeem his tithe, he shall add the fifth part to it, and it shall be his.",
       "words": [
         {
           "g": "ወእመሰ",
@@ -2386,7 +2386,7 @@
     {
       "num": 32,
       "geez": "ወኵሉ ፡ ዓሥራት ፡ ዘላህም ፡ ወዘበግዕ ፡ ወኵሉ ፡ ዘይትነዳእ ፡ በበትር ፡ ለኈልቆ ፡ ቅዱስ ፡ ውእቱ ፡ ወዓሥራቲሁ ፡\n                  ለእግዚአብሔር ።",
-      "translation": "",
+      "translation": "And every tithe of oxen, and of sheep, and whatsoever may come in numbering under the rod, the tenth shall be holy to the Lord.",
       "words": [
         {
           "g": "ወኵሉ",
@@ -2457,7 +2457,7 @@
     {
       "num": 33,
       "geez": "ወኢይዌልጥዎ ፡ ሠናየ ፡ በእኩይ ፡ ወኢእኩየ ፡ በሠናይ ፡ ወእመሰ ፡ ወልጦ ፡ ወለጠ ፡ ቅዱስ ፡ ውእቱ ፡ ተውላጡ ፡\n                  ወኢይትቤዘው ።",
-      "translation": "",
+      "translation": "Thou shalt not change a good for a bad, or a bad for a good; and if thou shouldest at all change it, its equivalent also shall be holy, it shall not be redeemed.",
       "words": [
         {
           "g": "ወኢይዌልጥዎ",
@@ -2528,7 +2528,7 @@
     {
       "num": 34,
       "geez": "ዝንቱ ፡ ውእቱ ፡ ትእዛዝ ፡ ዘአዘዞ ፡ እግዚአብሔር ፡ ለሙሴ ፡ በደብረ ፡ ሲና ፡ ከመ ፡ ይንግሮሙ ፡ ለደቂቀ ፡ እስራኤል\n                  ።",
-      "translation": "",
+      "translation": "These are the commandments which the Lord commanded Moses for the sons of Israel in mount Sina.",
       "words": [
         {
           "g": "ዝንቱ",

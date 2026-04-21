@@ -5,7 +5,7 @@
     {
       "num": 1,
       "geez": "ወይቤሎ ፡ እግዚአብሔር ፡ ለአብራም ፡ ፃእ ፡ እምነ ፡ ምድርከ ፡ ወእምነ ፡ ዘመድከ ፡ ወእምቤተ ፡ አቡከ ፡ ውስተ ፡\n                  ምድር ፡ እንተ ፡ አነ ፡ ኣርእየከ ።",
-      "translation": "",
+      "translation": "And the Lord said to Abram, Go forth out of thy land and out of thy kindred, and out of the house of thy father, and come into the land which I shall shew thee.",
       "words": [
         {
           "g": "ወይቤሎ",
@@ -91,7 +91,7 @@
     {
       "num": 2,
       "geez": "ወእሬስየከ ፡ ሕዝበ ፡ ዐቢየ ፡ ወእባርከከ ፡ ወኣዐቢ ፡ ስመከ ፡ ወትከውን ፡ ቡሩከ ።",
-      "translation": "",
+      "translation": "And I will make thee a great nation, and I will bless thee and magnify thy name, and thou shalt be blessed.",
       "words": [
         {
           "g": "ወእሬስየከ",
@@ -142,7 +142,7 @@
     {
       "num": 3,
       "geez": "ወእባርኮሙ ፡ ለእለ ፡ ይባርኩከ ፡ ወእረግሞሙ ፡ ለእለ ፡ ይረግሙከ ፡ ወይትባረክ ፡ ኵሉ ፡ አሕዛበ ፡ ምድር ፡ በእንቲአከ\n                  ።",
-      "translation": "",
+      "translation": "And I will bless those that bless thee, and curse those that curse thee, and in thee shall all the tribes of the earth be blessed.",
       "words": [
         {
           "g": "ወእባርኮሙ",
@@ -208,7 +208,7 @@
     {
       "num": 4,
       "geez": "ወሖረ ፡ አብራም ፡ በከመ ፡ ይቤሎ ፡ እግዚአብሔር ፡ ወሖረ ፡ ሎጥሂ ፡ ምስሌሁ ፡ ወአመ ፡ ወፅአ ፡ አብራም ፡ እምነ ፡\n                  ካራን ፡ ፸ወ፭ክረምቱ ።",
-      "translation": "",
+      "translation": "And Abram went as the Lord spoke to him, and Lot departed with him, and Abram was seventy-five years old, when he went out of Charrhan.",
       "words": [
         {
           "g": "ወሖረ",
@@ -289,7 +289,7 @@
     {
       "num": 5,
       "geez": "ወነሥኣ ፡ አብራም ፡ ለሶራ ፡ ብእሲቱ ፡ ወሎጥሃ ፡ ወልደ ፡ እኁሁ ፡ ወኵሎ ፡ ንዋዮሙ ፡ ዘአጥረዩ ፡ በካራን ፡ ወወፅኡ\n                  ፡ ወሖሩ ፡ ምድረ ፡ ከናአን ።",
-      "translation": "",
+      "translation": "And Abram took Sara his wife, and Lot the son of his brother, and all their possessions, as many as they had got, and every soul which they had got in Charrhan, and they went forth to go into the land of Chanaan.",
       "words": [
         {
           "g": "ወነሥኣ",
@@ -375,7 +375,7 @@
     {
       "num": 6,
       "geez": "ወዖዳ ፡ አብራም ፡ ለይእቲ ፡ ምድር ፡ እስከ ፡ ሲኬም ፡ ኀበ ፡ ዕፅ ፡ ነዋኅ ፡ ወሰብአ ፡ ከናአንሰ ፡ ሀለዉ ፡ ይእተ\n                  ፡ አሚረ ፡ ውስተ ፡ ይእቲ ፡ ምድር ።",
-      "translation": "",
+      "translation": "And Abram traversed the land lengthwise as far as the place Sychem, to the high oak, and the Chananites then inhabited the land.",
       "words": [
         {
           "g": "ወዖዳ",
@@ -471,7 +471,7 @@
     {
       "num": 7,
       "geez": "ወአስተርአዮ ፡ እግዚአብሔር ፡ ለአብራም ፡ ወይቤሎ ፡ ለዘርእከ ፡ እሁባ ፡ ለዛቲ ፡ ምድር ፡ ወነደቀ ፡ አብራም ፡ በህየ\n                  ፡ መሥዋዕተ ፡ ለእግዚአብሔር ፡ ዘአስተርአዮ ።",
-      "translation": "",
+      "translation": "And the Lord appeared to Abram, and said to him, I will give this land to thy seed. And Abram built an altar there to the Lord, who appeared to him.",
       "words": [
         {
           "g": "ወአስተርአዮ",
@@ -552,7 +552,7 @@
     {
       "num": 8,
       "geez": "ወግዕዘ ፡ እምህየ ፡ ውስተ ፡ ምድረ ፡ ቤቴል ፡ ዘመንገለ ፡ ሠረቅ ፡ ወ[ተከለ] ፡ ህየ ፡ ዐጸደ ፡ ውስተ ፡ ቤቴል ፡\n                  አንጻረ ፡ ባሕር ፡ ዘመንገለ ፡ ሠረቅ ፡ ወኀደረ ፡ ህየ ፡ ወነደቀ ፡ በህየ ፡ ምሥዋዐ ፡ ለእግዚአብሔር ፡ ወጸውዐ ፡ ስሞ ።",
-      "translation": "",
+      "translation": "And he departed thence to the mountain eastward of Bæthel, and there he pitched his tent in Bæthel near the sea, and Aggai toward the east, and there he built an altar to the Lord, and called on the name of the Lord.",
       "words": [
         {
           "g": "ወግዕዘ",
@@ -683,7 +683,7 @@
     {
       "num": 9,
       "geez": "ወተንሥአ ፡ ወሖረ ፡ ወግዕዘ ፡ አብራም ፡ ውስተ ፡ ገዳም ፡ ከመ ፡ ይኅድር ፡ ህየ ።",
-      "translation": "",
+      "translation": "And Abram departed and went and encamped in the wilderness.",
       "words": [
         {
           "g": "ወተንሥአ",
@@ -739,7 +739,7 @@
     {
       "num": 10,
       "geez": "እስመ ፡ ጸንዐ ፡ ረኀብ ፡ ውስተ ፡ ብሔር ፡ ወወረደ ፡ አብራም ፡ ውስተ ፡ ግብጽ ፡ ከመ ፡ ይኅድር ፡ ህየ ፡ እስመ ፡\n                  ጸንዐ ፡ ረኃብ ፡ ውስተ ፡ ብሔር ።",
-      "translation": "",
+      "translation": "And there was a famine in the land, and Abram went down to Egypt to sojourn there, because the famine prevailed in the land.",
       "words": [
         {
           "g": "እስመ",
@@ -835,7 +835,7 @@
     {
       "num": 11,
       "geez": "ወኮነ ፡ ሶበ ፡ ቀርበ ፡ አብራም ፡ ከመ ፡ ይባእ ፡ ውስተ ፡ ግብጽ ፡ ይቤላ ፡ አብራም ፡ ለሶራ ፡ ብእሲቱ ፡ ኣአምር ፡\n                  ከመ ፡ ብእሲት ፡ ለሓየ ፡ ገጽ ፡ አንቲ ።",
-      "translation": "",
+      "translation": "And it came to pass when Abram drew nigh to enter into Egypt, Abram said to Sara his wife, I know that thou art a fair woman.",
       "words": [
         {
           "g": "ወኮነ",
@@ -936,7 +936,7 @@
     {
       "num": 12,
       "geez": "ወእምከመ ፡ ርእዩኪ ፡ ሰብአ ፡ ግብጽ ፡ ይብሉ ፡ ብእሲቱ ፡ ይእቲ ፡ ወይቀትሉኒ ፡ ወኪያኪስ ፡ ያሐይውኪ ።",
-      "translation": "",
+      "translation": "It shall come to pass then that when the Egyptians shall see thee, they shall say, This is his wife, and they shall slay me, but they shall save thee alive.",
       "words": [
         {
           "g": "ወእምከመ",
@@ -997,7 +997,7 @@
     {
       "num": 13,
       "geez": "ወበሊ ፡ እንከ ፡ እኅቱ ፡ አነ ፡ ከመ ፡ ያሠንዩ ፡ ሊተ ፡ በእንቲአኪ ፡ ወትሕዮ ፡ ነፍስየ ፡ በዕብሬትኪ ።",
-      "translation": "",
+      "translation": "Say, therefore, I am his sister, that it may be well with me on account of thee, and my soul shall live because of thee.",
       "words": [
         {
           "g": "ወበሊ",
@@ -1063,7 +1063,7 @@
     {
       "num": 14,
       "geez": "ወኮነ ፡ ሶበ ፡ በጽሐ ፡ አብራም ፡ ውስተ ፡ ግብጽ ፡ ወርእይዋ ፡ ለብእሲቱ ፡ ሰብአ ፡ ግብጽ ፡ ከመ ፡ ሠናይት ፡ ጥቀ\n                  ።",
-      "translation": "",
+      "translation": "And it came to pass when Abram entered into Egypt—the Egyptians having seen his wife that she was very beautiful—",
       "words": [
         {
           "g": "ወኮነ",
@@ -1139,7 +1139,7 @@
     {
       "num": 15,
       "geez": "ወርእይዋ ፡ መላእክተ ፡ ፈርዖን ፡ ወወሰድዋ ፡ ኀበ ፡ ፈርዖን ፡ ወአብጽሕዋ ፡ ቤቶ ።",
-      "translation": "",
+      "translation": "that the princes of Pharao saw her, and praised her to Pharao and brought her into the house of Pharao.",
       "words": [
         {
           "g": "ወርእይዋ",
@@ -1190,7 +1190,7 @@
     {
       "num": 16,
       "geez": "ወአሠነዩ ፡ ለአብራም ፡ በእንቲአሃ ፡ ወአጥረየ ፡ አባግዐ ፡ ወአልህምተ ፡ ወአእዱገ ፡ ወአግማለ ፡ ወአግብርተ ፡ ወአእማተ\n                  ፡ ወአብቅለ ።",
-      "translation": "",
+      "translation": "And they treated Abram well on her account, and he had sheep, and calves, and asses, and men-servants, and women-servants, and mules, and camels.",
       "words": [
         {
           "g": "ወአሠነዩ",
@@ -1256,7 +1256,7 @@
     {
       "num": 17,
       "geez": "ወሣቀዮ ፡ እግዚአብሔር ፡ ለፈርዖን ፡ ዐቢየ ፡ ሥቃየ ፡ ወእኩየ ፡ ወለቤቱሂ ፡ በእንተ ፡ ሶራ ፡ ብእሲቱ ፡ ለአብራም ።",
-      "translation": "",
+      "translation": "And God afflicted Pharao with great and severe afflictions, and his house, because of Sara, Abram's wife.",
       "words": [
         {
           "g": "ወሣቀዮ",
@@ -1322,7 +1322,7 @@
     {
       "num": 18,
       "geez": "ወጸውዖ ፡ ፈርዖን ፡ ለአብራም ፡ ወይቤሎ ፡ ምንትኑዝ ፡ ዘገበርከ ፡ ላዕሌየ ፡ ዘኢነገርከኒ ፡ ከመ ፡ ብእሲትከ ፡ ይእቲ\n                  ።",
-      "translation": "",
+      "translation": "And Pharao having called Abram, said, What is this thou hast done to me, that thou didst not tell me that she was thy wife?",
       "words": [
         {
           "g": "ወጸውዖ",
@@ -1388,7 +1388,7 @@
     {
       "num": 19,
       "geez": "ለምንት ፡ ትቤለኒ ፡ እኅትየ ፡ ይእቲ ፡ ወነሣእክዋ ፡ ትኩነኒ ፡ ብእሲተ ፡ ወይእዜኒ ፡ ነያ ፡ ቅድሜከ ፡ ንሥኣ ፡ ወሑር\n                  ።",
-      "translation": "",
+      "translation": "Wherefore didst thou say, She is my sister? and I took her for a wife to myself; and now, behold, thy wife is before thee, take her and go quickly away.",
       "words": [
         {
           "g": "ለምንት",
@@ -1459,7 +1459,7 @@
     {
       "num": 20,
       "geez": "ወአዘዘ ፡ ፈርዖን ፡ ይፈንውዎ ፡ ዕደው ፡ ለአብራም ፡ ወለብእሲቱ ፡ ወለኵሉ ፡ ንዋዮም ፡ (ወለሎጥ ፡ ምስሌሁ ፡ ውስተ ፡\n                  አሕቀል ።)",
-      "translation": "",
+      "translation": "And Pharao gave charge to men concerning Abram, to join in sending him forward, and his wife, and all that he had.",
       "words": [
         {
           "g": "ወአዘዘ",

@@ -1,0 +1,36 @@
+{
+  "book": "Ps",
+  "chapter": 99,
+  "verses": [
+    {
+      "num": 1,
+      "geez": "",
+      "translation": "A Psalm for Thanksgiving. Make a joyful noise to the Lord, all the earth.",
+      "words": []
+    },
+    {
+      "num": 2,
+      "geez": "",
+      "translation": "Serve the Lord with gladness; come before his presence with exultation.",
+      "words": []
+    },
+    {
+      "num": 3,
+      "geez": "",
+      "translation": "Know that the Lord he is God; he made us, and not we ourselves; we are his people, and the sheep of his pasture.",
+      "words": []
+    },
+    {
+      "num": 4,
+      "geez": "",
+      "translation": "Enter into his gates with thanksgiving, and his courts with hymns; give thanks to him, praise his name.",
+      "words": []
+    },
+    {
+      "num": 5,
+      "geez": "",
+      "translation": "For the Lord is good, his mercy is for ever; and his truth endures to generation and generation.",
+      "words": []
+    }
+  ]
+}

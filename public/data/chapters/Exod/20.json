@@ -5,7 +5,7 @@
     {
       "num": 1,
       "geez": "ወነበበ ፡ እግዚአብሔር ፡ ኵሎ ፡ ዘቃለ ፡ ወይቤ ።",
-      "translation": "",
+      "translation": "And the Lord spoke all these words, saying:",
       "words": [
         {
           "g": "ወነበበ",
@@ -41,7 +41,7 @@
     {
       "num": 2,
       "geez": "አነ ፡ ውእቱ ፡ እግዚእ ፡ እግዚአብሔር ፡ ዘአውፃእኩክሙ ፡ እምድረ ፡ ግብጽ ፡ እምቤተ ፡ ምቅናይክሙ ።",
-      "translation": "",
+      "translation": "I am the Lord thy God, who brought thee out of the land of Egypt, out of the house of bondage.",
       "words": [
         {
           "g": "አነ",
@@ -97,7 +97,7 @@
     {
       "num": 3,
       "geez": "ኢታምልክ ፡ አማልክተ ፡ ዘእንበሌየ ።",
-      "translation": "",
+      "translation": "Thou shalt have no other gods beside me.",
       "words": [
         {
           "g": "ኢታምልክ",
@@ -123,7 +123,7 @@
     {
       "num": 4,
       "geez": "ወኢትግበር ፡ ለከ ፡ አምላከ ፡ ከመዘ ፡ በውስተ ፡ ሰማይ ፡ በላዕሉ ፡ ወከመዘ ፡ በውስተ ፡ ምድር ፡ በታሕቱ ፡ ወበውስተ\n                  ፡ ማያት ፡ ዘበታሕቴሃ ፡ ለምድር ።",
-      "translation": "",
+      "translation": "Thou shalt not make to thyself an idol, nor likeness of anything, whatever things are in the heaven above, and whatever are in the earth beneath, and whatever are in the waters under the earth.",
       "words": [
         {
           "g": "ወኢትግበር",
@@ -209,7 +209,7 @@
     {
       "num": 5,
       "geez": "ኢትስግድ ፡ ሎሙ ፡ ወኢታምልኮሙ ፡ እስመ ፡ አነ ፡ እግዚእ ፡ እግዚአብሔር ፡ ዚአከ ፤ እግዚአብሔር ፡ ቀናኢ ፡ አነ ፡\n                  ዘእፈዲ ፡ ኀጢአተ ፡ አብ ፡ ለውሉድ ፡ እስከ ፡ ሣልስት ፡ ወራብዕት ፡ ትውልድ ፡ ለእለ ፡ ይጸልዑኒ ።",
-      "translation": "",
+      "translation": "Thou shalt not bow down to them, nor serve them; for I am the Lord thy God, a jealous God, recompensing the sins of the fathers upon the children, to the third and fourth generation to them that hate me,",
       "words": [
         {
           "g": "ኢትስግድ",
@@ -320,7 +320,7 @@
     {
       "num": 6,
       "geez": "ወእገብር ፡ ምሕረተ ፡ ለለ፲፻ለእለ ፡ ያፈቅሩኒ ፡ ወትእዛዝየ ፡ እለ ፡ የዐቅቡ ፡ ወለእለ ፡ የዐቅቡ ፡ ሕግየ ።",
-      "translation": "",
+      "translation": "and bestowing mercy on them that love me to thousands of them, and on them that keep my commandments.",
       "words": [
         {
           "g": "ወእገብር",
@@ -381,7 +381,7 @@
     {
       "num": 7,
       "geez": "ኢትምሐል ፡ ስመ ፡ እግዚአብሔር ፡ ፈጣሪከ ፡ በሐሰት ፡ እስመ ፡ ኢያነጽሕ ፡ እግዚአብሔር ፡ ዘይነሥእ ፡ ስሞ ፡ በሐሰት\n                  ።",
-      "translation": "",
+      "translation": "Thou shalt not take the name of the Lord thy God in vain; for the Lord thy God will not acquit him that takes his name in vain.",
       "words": [
         {
           "g": "ኢትምሐል",
@@ -447,7 +447,7 @@
     {
       "num": 8,
       "geez": "ተዘከር ፡ ዕለተ ፡ ሰንበት ፡ አጽድቆታ ።",
-      "translation": "",
+      "translation": "Remember the sabbath day to keep it holy.",
       "words": [
         {
           "g": "ተዘከር",
@@ -478,7 +478,7 @@
     {
       "num": 9,
       "geez": "ሰዱሰ ፡ ዕለተ ፡ ግበር ፡ ተግበረ ፡ ቦቱ ፡ ኵሎ ፡ ትካ[ዘ]ከ ።",
-      "translation": "",
+      "translation": "Six days thou shalt labour, and shalt perform all thy work.",
       "words": [
         {
           "g": "ሰዱሰ",
@@ -524,7 +524,7 @@
     {
       "num": 10,
       "geez": "ወበሳብዕት ፡ ዕለት ፡ ሰንበት ፡ ለእግዚአብሔር ፡ ለእግዚእከ ፡ ኢትግበሩ ፡ ባቲ ፡ ወኢምንተ ፡ ግብረ ፡ ኢአንተ ፡\n                  ወኢወልድከ ፡ ወኢወለትከ ፡ ወኢአድግከ ፡ ወኢኵሉ ፡ እንስሳከ ፡ ወኢፈላሲ ፡ ዘይነብር ፡ ኀቤከ ።",
-      "translation": "",
+      "translation": "But on the seventh day is the sabbath of the Lord thy God; on it thou shalt do no work, thou, nor thy son, nor thy daughter, thy servant nor thy maidservant, thine ox nor thine ass, nor any cattle of thine, nor the stranger that sojourns with thee.",
       "words": [
         {
           "g": "ወበሳብዕት",
@@ -625,7 +625,7 @@
     {
       "num": 11,
       "geez": "እስመ ፡ በሰዱስ ፡ ዕለት ፡ ገብረ ፡ እግዚአብሔር ፡ ሰማየ ፡ ወምድረ ፡ ወባሕረ ፡ ወኵሎ ፡ ዘውስቴቱ ፡ ወአዕረፈ ፡ አመ\n                  ፡ ሳብዕት ፡ ዕለት ፤ በበይነዝ ፡ ባረካ ፡ እግዚአብሔር ፡ ለሳብዕት ፡ ዕለት ፡ ወአጽደቃ ።",
-      "translation": "",
+      "translation": "For in six days the Lord made the heaven and the earth, and the sea and all things in them, and rested on the seventh day; therefore the Lord blessed the seventh day, and hallowed it.",
       "words": [
         {
           "g": "እስመ",
@@ -731,7 +731,7 @@
     {
       "num": 12,
       "geez": "አክብር ፡ አባከ ፡ ወእመከ ፡ ከመ ፡ ይኩንከ ፡ ጽድቀ ፤ ብዙኀ ፡ ዕለተ ፡ ትረክብ ፡ በውስተ ፡ ምድር ፡ ዘጻድቅት ፡\n                  ውእቱ ፡ እግዚእ ፡ እግዚአብሔር ፡ የሀብከ ።",
-      "translation": "",
+      "translation": "Honour thy father and thy mother, that it may be well with thee, and that thou mayest live long on the good land, which the Lord thy God gives to thee.",
       "words": [
         {
           "g": "አክብር",
@@ -817,7 +817,7 @@
     {
       "num": 13,
       "geez": "ኢትቅትል ።",
-      "translation": "",
+      "translation": "Thou shalt not commit adultery.",
       "words": [
         {
           "g": "ኢትቅትል",
@@ -833,7 +833,7 @@
     {
       "num": 14,
       "geez": "ኢትዘሙ ።",
-      "translation": "",
+      "translation": "Thou shalt not steal.",
       "words": [
         {
           "g": "ኢትዘሙ",
@@ -849,7 +849,7 @@
     {
       "num": 15,
       "geez": "ኢትስርቅ ።",
-      "translation": "",
+      "translation": "Thou shalt not kill.",
       "words": [
         {
           "g": "ኢትስርቅ",
@@ -865,7 +865,7 @@
     {
       "num": 16,
       "geez": "ስምዐ ፡ በሐሰት ፡ ኢትስማዕ ፡ ለቢጽከ ፡ ስምዐ ፡ በሐሰት ።",
-      "translation": "",
+      "translation": "Thou shalt not bear false witness against thy neighbour.",
       "words": [
         {
           "g": "ስምዐ",
@@ -906,7 +906,7 @@
     {
       "num": 17,
       "geez": "ኢትፍቶ ፡ ብእሲተ ፡ ካልእከ ፤ ኢትፍቶ ፡ ቤቶ ፡ ለካልእከ ፡ ወኢገራህቶ ፡ ወኢገብሮ ፡ ወኢአመቶ ፡ ወኢላህሞ ፡\n                  ወኢብዕራዊሁ ፡ ወኢኵሎ ፡ በውስተ ፡ እንስሳሁ ፡ ዘአጥረየ ፡ አጥርዮ ፡ ቢጽከ ።",
-      "translation": "",
+      "translation": "Thou shalt not covet thy neighbour's wife; thou shalt not covet thy neighbour's house; nor his field, nor his servant, nor his maid, nor his ox, nor his ass, nor any of his cattle, nor whatever belongs to thy neighbour.",
       "words": [
         {
           "g": "ኢትፍቶ",
@@ -997,7 +997,7 @@
     {
       "num": 18,
       "geez": "ወኵሉ ፡ ሕዝብ ፡ ይሬኢ ፡ ቃለ ፡ ወብርሃነ ፡ ዘለንጰስ ፡ ወቃለ ፡ ዘመጥቅዕ ፡ ወደብሩ ፡ ይጠይስ ፡ ወፈሪሆ ፡ ኵሉ ፡\n                  ሕዝብ ፡ ቆመ ፡ ርኁቀ ።",
-      "translation": "",
+      "translation": "And all the people perceived the thundering, and the flashes, and the voice of the trumpet, and the mountain smoking; and all the people feared and stood afar off,",
       "words": [
         {
           "g": "ወኵሉ",
@@ -1083,7 +1083,7 @@
     {
       "num": 19,
       "geez": "ወይቤልዎ ፡ ለሙሴ ፡ አንተ ፡ ተናገር ፡ ምስሌነ ፡ ወይትናገር ፡ እግዚአብሔር ፡ ምስሌከ ፡ ከመ ፡ ኢንሙት ።",
-      "translation": "",
+      "translation": "and said to Moses, Speak thou to us, and let not God speak to us, lest we die.",
       "words": [
         {
           "g": "ወይቤልዎ",
@@ -1144,7 +1144,7 @@
     {
       "num": 20,
       "geez": "ወይቤሎሙ ፡ ሙሴ ፡ በእንተዝ ፡ ከመ ፡ ያመክርክሙ ፡ መጽአ ፡ እግዚአብሔር ፡ ኀቤክሙ ፡ ከመ ፡ ይኅድር ፡ ፍርሀተ ፡\n                  ዚአሁ ፡ ላዕሌክሙ ፡ ከመ ፡ ኢተአብሱ ።",
-      "translation": "",
+      "translation": "And Moses says to them, Be of good courage, for God is come to you to try you, that his fear may be among you, that ye sin not.",
       "words": [
         {
           "g": "ወይቤሎሙ",
@@ -1230,7 +1230,7 @@
     {
       "num": 21,
       "geez": "ወይቀውም ፡ ሕዝብ ፡ ርሑቀ ፡ ወሙሴ ፡ ቦአ ፡ ውስተ ፡ ጣቃ ፡ ኀበ ፡ ሀለወ ፡ እግዚአብሔር ።",
-      "translation": "",
+      "translation": "And the people stood afar off, and Moses went into the darkness where God was.",
       "words": [
         {
           "g": "ወይቀውም",
@@ -1291,7 +1291,7 @@
     {
       "num": 22,
       "geez": "ወይቤሎ ፡ እግዚአብሔር ፡ ለሙሴ ፡ በሎሙ ፡ ለቤተ ፡ ያዕቆብ ፡ ወዜንዎሙ ፡ ለውሉደ ፡ እስራኤል ፡ ከመ ፡ እምሰማይ ፡\n                  ተናገርኩክሙ ።",
-      "translation": "",
+      "translation": "And the Lord said to Moses, Thus shalt thou say to the house of Jacob, and thou shalt report it to the children of Israel, Ye have seen that I have spoken to you from heaven.",
       "words": [
         {
           "g": "ወይቤሎ",
@@ -1362,7 +1362,7 @@
     {
       "num": 23,
       "geez": "ኢታምልኩ ፡ አምላከ ፡ ዘብሩር ፡ ወኢታምልኩ ፡ አምላከ ፡ ዘወርቅ ፡ ወኢትግበሩ ፡ ለክሙ ፡ ዘከመዝ ፡ አምላከ ።",
-      "translation": "",
+      "translation": "Ye shall not make to yourselves gods of silver, and gods of gold ye shall not make to yourselves.",
       "words": [
         {
           "g": "ኢታምልኩ",
@@ -1423,7 +1423,7 @@
     {
       "num": 24,
       "geez": "ምሥዋዐ ፡ በውስተ ፡ ምድር ፡ ግበር ፡ ሊተ ፡ [ወሡዕ ፡] በውስቴታ ፡ መባ[አ]ክሙ ፡ ወቤዛክሙ ፡ በግዐ ፡ ወአልህምተ ፡\n                  በኵሉ ፡ መካን ፡ በኀበ ፡ ሰመይኩ ፡ ስምየ ፡ በህየ ፡ ወእመጽእ ፡ ኀቤከ ፡ [ወእባርከከ ።]",
-      "translation": "",
+      "translation": "Ye shall make to me an altar of earth; and upon it ye shall sacrifice your whole burnt-offerings, and your peace-offerings, and your sheep and your calves in every place, where I shall record my name; and I will come to thee and bless thee.",
       "words": [
         {
           "g": "ምሥዋዐ",
@@ -1534,7 +1534,7 @@
     {
       "num": 25,
       "geez": "ወለእመ ፡ [ምሥዋዐ ፡] ዘእብን ፡ ገበርከ ፡ ሊተ ፡ ኢትንድቆሙ ፡ ፈጺሐከ ፡ [እስመ ፡ መጥባሕተከ ፡ አንበርከ ፡ ላዕሌሁ\n                  ፡ ወአርኰስከ ።]",
-      "translation": "",
+      "translation": "And if thou wilt make to me an altar of stones, thou shalt not build them hewn stones; for thou hast lifted up thy tool upon them, and they are defiled.",
       "words": [
         {
           "g": "ወለእመ",
@@ -1605,7 +1605,7 @@
     {
       "num": 26,
       "geez": "ኢታዕርግ ፡ መዓርገ ፡ በውስተ ፡ ምሥዋዕየ ፡ ኢይትከሠት ፡ ምኅፋሪከ ፡ በህየ ።",
-      "translation": "",
+      "translation": "Thou shalt not go up to my altar by steps, that thou mayest not uncover thy nakedness upon it.",
       "words": [
         {
           "g": "ኢታዕርግ",

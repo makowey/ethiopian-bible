@@ -5,7 +5,7 @@
     {
       "num": 1,
       "geez": "ወለእመ ፡ ሰሚዐ ፡ ሰማዕክሙ ፡ ቃለ ፡ እግዚአብሔር ፡ አምላክክሙ ፡ ወዐቀብክሙ ፡ ከመ ፡ ትግበሩ ፡ ኵሎ ፡ ትእዛዞ ፡\n                  ዘአነ ፡ እኤዝዘክሙ ፡ ዮም ፡ ወይሬስየከ ፡ እግዚአብሔር ፡ [አምላክከ ፡] መልዕልተ ፡ ኵሉ ፡ አሕዛበ ፡ ምድር ።",
-      "translation": "",
+      "translation": "And it shall come to pass, if thou wilt indeed hear the voice of the Lord thy God, to observe and do all these commands, which I charge thee this day, that the Lord thy God shall set thee on high above all the nations of the earth;",
       "words": [
         {
           "g": "ወለእመ",
@@ -121,7 +121,7 @@
     {
       "num": 2,
       "geez": "ወይበጽሐከ ፡ ዝንቱ ፡ ኵሉ ፡ በረከት ፡ ወይረክበከ ፡ ለእመ ፡ ሰማዕከ ፡ ቃለ ፡ እግዚአብሔር ፡ አምላክከ ።",
-      "translation": "",
+      "translation": "and all these blessings shall come upon thee, and shall find thee. If thou wilt indeed hear the voice of the Lord thy God,",
       "words": [
         {
           "g": "ወይበጽሐከ",
@@ -182,7 +182,7 @@
     {
       "num": 3,
       "geez": "ቡሩከ ፡ ትከውን ፡ በሐቅል ፡ ወቡሩከ ፡ ትከውን ፡ በሀገር ።",
-      "translation": "",
+      "translation": "blessed shalt thou be in the city, and blessed shalt thou be in the field.",
       "words": [
         {
           "g": "ቡሩከ",
@@ -223,7 +223,7 @@
     {
       "num": 4,
       "geez": "ቡሩከ ፡ ይከውን ፡ ፍሬ ፡ ከርሥከ ፡ ወቡሩከ ፡ ይከውን ፡ እክለ ፡ ምድርከ ፡ ወአዕጻደ ፡ ላህምከ ፡ ወመራዕየ ፡\n                  አባግዒከ ።",
-      "translation": "",
+      "translation": "Blessed shall be the offspring of thy body, and the fruits of thy land, and the herds of thy oxen, and the flocks of thy sheep.",
       "words": [
         {
           "g": "ቡሩከ",
@@ -294,7 +294,7 @@
     {
       "num": 5,
       "geez": "ቡሩከ ፡ ይከውን ፡ መዛግብቲከ ፡ ወትራፋቲከ ።",
-      "translation": "",
+      "translation": "Blessed shall be thy barns, and thy stores.",
       "words": [
         {
           "g": "ቡሩከ",
@@ -325,7 +325,7 @@
     {
       "num": 6,
       "geez": "ቡሩከ ፡ ትከውን ፡ በበአትከ ፡ ወቡሩከ ፡ ትከውን ፡ በፀአትከ ።",
-      "translation": "",
+      "translation": "Blessed shalt thou be in thy coming in, and blessed shalt thou be in thy going out.",
       "words": [
         {
           "g": "ቡሩከ",
@@ -366,7 +366,7 @@
     {
       "num": 7,
       "geez": "ወያገብኦሙ ፡ እግዚአብሔር ፡ አምላክከ ፡ ለፀርከ ፡ [እለ ፡ ይትቃወሙከ ፡] ከመ ፡ ይትቀጥቀጡ ፡ በታሕተ ፡ እገሪከ ፡\n                  በአሐቲ ፡ ፍኖት ፡ ይወፅኡ ፡ ይትቀበሉከ ፡ ወበሰብዑ ፡ ፍናዌ ፡ ይነትዑ ፡ እምቅድመ ፡ ገጽከ ።",
-      "translation": "",
+      "translation": "The Lord deliver thine enemies that withstand thee utterly broken before thy face: they shall come out against thee one way, and they shall flee seven ways from before thee.",
       "words": [
         {
           "g": "ወያገብኦሙ",
@@ -472,7 +472,7 @@
     {
       "num": 8,
       "geez": "ወይፌኑ ፡ እግዚአብሔር ፡ በረከቶ ፡ ውስተ ፡ አብያቲከ ፡ ወውስተ ፡ ኵሉ ፡ ዘወደይከ ፡ እዴከ ፡ በውስተ ፡ ምድር ፡\n                  እንተ ፡ ወሀበከ ፡ እግዚአብሔር ፡ አምላክከ ።",
-      "translation": "",
+      "translation": "The Lord send upon thee his blessing in thy barns, and on all on which thou shalt put thine hand, in the land which the Lord thy God gives thee.",
       "words": [
         {
           "g": "ወይፌኑ",
@@ -558,7 +558,7 @@
     {
       "num": 9,
       "geez": "ወያቀውመከ ፡ እግዚአብሔር ፡ ሎቱ ፡ ሕዝበ ፡ ቅዱሰ ፡ በከመ ፡ መሐለ ፡ እግዚአብሔር ፡ ለአበዊከ ፡ (ወ)ለእመ ፡ ሰማዕከ\n                  ፡ ቃለ ፡ እግዚአብሔር ፡ አምላክከ ፡ ወሖርከ ፡ በፍናዊሁ ፤",
-      "translation": "",
+      "translation": "The Lord raise thee up for himself a holy people, as he sware to thy fathers; if thou wilt hear the voice of the Lord thy God, and walk in all his ways.",
       "words": [
         {
           "g": "ወያቀውመከ",
@@ -649,7 +649,7 @@
     {
       "num": 10,
       "geez": "ወይሬእየከ ፡ ኵሉ ፡ አሕዛበ ፡ ምድር ፡ ከመ ፡ ተሰምየ ፡ ስሞ ፡ ለእግዚአብሔር ፡ ላዕሌከ ፡ ወይፈርሁከ ።",
-      "translation": "",
+      "translation": "And all the nations of the earth shall see thee, that the name of the Lord is called upon thee, and they shall stand in awe of thee.",
       "words": [
         {
           "g": "ወይሬእየከ",
@@ -710,7 +710,7 @@
     {
       "num": 11,
       "geez": "ወያተባዝኀከ ፡ እግዚአብሔር ፡ አምላክከ ፡ ውስተ ፡ ሠናይት ፡ በውሉደ ፡ ከርሥከ ፡ ወበእክለ ፡ ምድርከ ፡ ወያስተዋልዶ ፡\n                  ለእንስሳከ ፡ በውስተ ፡ ምድር ፡ እንተ ፡ መሐለ ፡ እግዚአብሔር ፡ ለአበዊከ ፡ ከመ ፡ የሀብከ ፡ ከመ ፡ መዋዕለ ፡ ሰማይ ፡\n                  ዲበ ፡ ምድር ።",
-      "translation": "",
+      "translation": "And the Lord thy God shall multiply thee for good in the offspring of thy body, and in the offspring of thy cattle, and in the fruits of thy land, on thy land which the Lord sware to thy fathers to give to thee.",
       "words": [
         {
           "g": "ወያተባዝኀከ",
@@ -841,7 +841,7 @@
     {
       "num": 12,
       "geez": "ወይፈትሕ ፡ ለከ ፡ እግዚአብሔር ፡ መዝገበ ፡ ቡሩከ ፡ ሰማይ ፡ ከመ ፡ የሀብከ ፡ ዝናመ ፡ በመዋዕሊሁ ፡ ለምድርከ ፡ ከመ\n                  ፡ ይባርክ ፡ ለከ ፡ ኵሎ ፡ ተግባረ ፡ እደዊከ ፡ ወትሌቅሕ ፡ አንተ ፡ ለብዙኅ ፡ አሕዛብ ፡ ወአንተሰ ፡ ኢትትሌቃሕ ፡\n                  ወትኴንን ፡ አንተ ፡ ለብዙኅ ፡ አሕዛብ ፡ ወለከሰ ፡ ኢይኴንኑከ ።",
-      "translation": "",
+      "translation": "May the Lord open to thee his good treasure, the heaven, to give rain to thy land in season: may he bless all the works of thy hands: so shalt thou lend to many nations, but thou shalt not borrow; and thou shalt rule over many nations, but they shall not rule over thee.",
       "words": [
         {
           "g": "ወይፈትሕ",
@@ -997,7 +997,7 @@
     {
       "num": 13,
       "geez": "ወይሠይመከ ፡ እግዚአብሔር ፡ ውስተ ፡ ርእስ ፡ ወአኮ ፡ ውስተ ፡ ዘነብ ፡ ወትከውን ፡ መልዕልተ ፡ ወኢትከውን ፡ መትሕተ\n                  ፡ ለእመ ፡ ሰማዕክሙ ፡ ቃለ ፡ እግዚአብሔር ፡ አምላክክሙ ፡ ወትእዛዞ ፡ ኵሎ ፡ ዘአነ ፡ እኤዝዘክሙ ፡ ዮም ፡ ከመ ፡ ትዕቀቡ\n                  ፡ ወትግበሩ ፤",
-      "translation": "",
+      "translation": "The Lord thy God make thee the head, and not the tail; and thou shalt then be above and thou shalt not be below, if thou wilt hearken to the voice of the Lord thy God, in all things that I charge thee this day to observe.",
       "words": [
         {
           "g": "ወይሠይመከ",
@@ -1128,7 +1128,7 @@
     {
       "num": 14,
       "geez": "ወኢትትገሐሡ ፡ እምነ ፡ ኵሉ ፡ ቃል ፡ ዘአነ ፡ እኤዝዘከ ፡ ዮም ፡ ኢለየማን ፡ ወኢለፀጋም ፡ ከመ ፡ ትሑሩ ፡ ድኅረ ፡\n                  አማልክተ ፡ ባዕድ ፡ ታምልክዎሙ ።",
-      "translation": "",
+      "translation": "Thou shalt not turn aside from any of the commandments, which I charge thee this day, to the right hand or to the left, to go after other gods to serve them.",
       "words": [
         {
           "g": "ወኢትትገሐሡ",
@@ -1214,7 +1214,7 @@
     {
       "num": 15,
       "geez": "ወለእመ ፡ ኢሰማዕክሙ ፡ ቃለ ፡ እግዚአብሔር ፡ አምላክክሙ ፡ ከመ ፡ ትዕቀቡ ፡ ኵሎ ፡ ትእዛዞ ፡ ዘአነ ፡ እኤዝዘክሙ ፡\n                  ዮም ፡ ወይመጽእ ፡ ላዕሌከ ፡ ኵሉ ፡ ዝንቱ ፡ መርገም ፡ ወይረክበከ ።",
-      "translation": "",
+      "translation": "But it shall come to pass, if thou wilt not hearken to the voice of the Lord thy God, to observe all his commandments, as many as I charge thee this day, then all these curses shall come on thee, and overtake thee.",
       "words": [
         {
           "g": "ወለእመ",
@@ -1315,7 +1315,7 @@
     {
       "num": 16,
       "geez": "ወትከውን ፡ ርጉመ ፡ አንተ ፡ በሐቅል ፡ ወበሀገር ።",
-      "translation": "",
+      "translation": "Cursed shalt thou be in the city, and cursed shalt thou be in the field.",
       "words": [
         {
           "g": "ወትከውን",
@@ -1351,7 +1351,7 @@
     {
       "num": 17,
       "geez": "ወይከውን ፡ ርጉመ ፡ መዛግብቲከ ፡ ወትራፋቲከ ፤",
-      "translation": "",
+      "translation": "Cursed shall be thy barns and thy stores.",
       "words": [
         {
           "g": "ወይከውን",
@@ -1382,7 +1382,7 @@
     {
       "num": 18,
       "geez": "ወርጉመ ፡ ውሉደ ፡ ከርሥከ ፡ ወእክለ ፡ ምድርከ ፡ ወአዕጻዳተ ፡ አልህምቲከ ፡ ወመራዕየ ፡ አባግዒከ ።",
-      "translation": "",
+      "translation": "Cursed shall be the offspring of thy body, and the fruits of thy land, the herds of thine oxen, and the flocks of thy sheep.",
       "words": [
         {
           "g": "ወርጉመ",
@@ -1438,7 +1438,7 @@
     {
       "num": 19,
       "geez": "ወርጉም ፡ አንተ ፡ በበአትከ ፡ ወበፀአትከ ፡ ርጉመ ፡ ትከውን ።",
-      "translation": "",
+      "translation": "Cursed shalt thou be in thy coming in, and cursed shalt thou be in thy going out.",
       "words": [
         {
           "g": "ወርጉም",
@@ -1479,7 +1479,7 @@
     {
       "num": 20,
       "geez": "ወይፌኑ ፡ ላዕሌከ ፡ እግዚአብሔር ፡ ንዴተ ፡ ወረኃበ ፡ ወብድብደ ፡ ወይጠፍእ ፡ ኵሉ ፡ ዘወደይከ ፡ እዴከ ፡ ውስቴቱ ፡\n                  ወይሤርወከ ፡ እስከ ፡ ይደመስሰከ ፡ ፍጡነ ፡ በበይነ ፡ እከየ ፡ ምግባሪከ ፡ እስመ ፡ ኀደገኒ ።",
-      "translation": "",
+      "translation": "The Lord send upon thee want, and famine, and consumption on all things on which thou shalt put thy hand, until he shall have utterly destroyed thee, and until he shall have consumed thee quickly because of thine evil devices, because thou hast forsaken me.",
       "words": [
         {
           "g": "ወይፌኑ",
@@ -1590,7 +1590,7 @@
     {
       "num": 21,
       "geez": "ወያተሉ ፡ እግዚአብሔር ፡ ሞተ ፡ ላዕሌከ ፡ እስከ ፡ ያጠፍአከ ፡ እምነ ፡ ምድር ፡ እንተ ፡ ውስቴታ ፡ ትበውእ ፡ ህየ ፡\n                  ከመ ፡ ትትወረሳ ።",
-      "translation": "",
+      "translation": "The Lord cause the pestilence to cleave to thee, until he shall have consumed thee off the land into which thou goest to inherit it.",
       "words": [
         {
           "g": "ወያተሉ",
@@ -1671,7 +1671,7 @@
     {
       "num": 22,
       "geez": "ወይቀሥፈከ ፡ እግዚአብሔር ፡ በደዌ ፡ ሲሕ ፡ ወበፈጸንት ፡ ወበአስፈር ፡ ወበፍርሃት ፡ ወበድንጋፄ ፡ ወበዐባር ፡ ወበኀጣእ\n                  ፡ ወይሰድዱከ ፡ እስከ ፡ ያጠፍኡከ ።",
-      "translation": "",
+      "translation": "The Lord smite thee with distress, and fever, and cold, and inflammation, and blighting, and paleness, and they shall pursue thee until they have destroyed thee.",
       "words": [
         {
           "g": "ወይቀሥፈከ",
@@ -1747,7 +1747,7 @@
     {
       "num": 23,
       "geez": "ወትከውነከ ፡ ሰማይ ፡ በመልዕልተ ፡ ርእስከ ፡ ብርተ ፡ ወምድርኒ ፡ በመትሕቴከ ፡ ሐፂነ ።",
-      "translation": "",
+      "translation": "And thou shalt have over thine head a sky of brass, and the earth under thee shall be iron.",
       "words": [
         {
           "g": "ወትከውነከ",
@@ -1798,7 +1798,7 @@
     {
       "num": 24,
       "geez": "ወይሬስዮ ፡ እግዚአብሔር ፡ ለዝናመ ፡ ምድርከ ፡ ቆባረ ፡ ወመሬት ፡ ይወርድ ፡ እምሰማይ ፡ ላዕሌከ ፡ እስከ ፡ ይቀጠቅጠከ\n                  ፡ ወእስከ ፡ ያጠፍአከ ።",
-      "translation": "",
+      "translation": "The Lord thy God make the rain of thy land dust; and dust shall come down from heaven, until it shall have destroyed thee, and until it shall have quickly consumed thee.",
       "words": [
         {
           "g": "ወይሬስዮ",
@@ -1874,7 +1874,7 @@
     {
       "num": 25,
       "geez": "ወይገብረከ ፡ እግዚአብሔር ፡ ከመ ፡ ትትቀተል ፡ በቅድመ ፡ ፀርከ ፡ በአሐቲ ፡ ፍኖት ፡ ትወፅእ ፡ ኀቤሆሙ ፡ ወበሰብዑ ፡\n                  ፍናዌ ፡ ትነትዕ ፡ እምቅድመ ፡ ገጾሙ ፡ ወትከውን ፡ ዝርወ ፡ ውስተ ፡ ኵሉ ፡ መንግሥታተ ፡ ምድር ።",
-      "translation": "",
+      "translation": "The Lord give thee up for slaughter before thine enemies: thou shalt go out against them one way, and flee from their face seven ways; and thou shalt be a dispersion in all the kingdoms of the earth.",
       "words": [
         {
           "g": "ወይገብረከ",
@@ -1990,7 +1990,7 @@
     {
       "num": 26,
       "geez": "ወይከውን ፡ አብድንቲክሙ ፡ መብልዐ ፡ ለአዕዋፈ ፡ ሰማይ ፡ ወኢትረክቡ ፡ ዘይቀብረክሙ ።",
-      "translation": "",
+      "translation": "And your dead men shall be food to the birds of the sky, and to the beasts of the earth; and there shall be none to scare them away.",
       "words": [
         {
           "g": "ወይከውን",
@@ -2036,7 +2036,7 @@
     {
       "num": 27,
       "geez": "ወይቀሥፈከ ፡ እግዚአብሔር ፡ በመቅሠፍተ ፡ ግብጽ ፡ በዐበቅ ፡ እኩይ ፡ ውስተ ፡ ነፍስትከ ፡ ወበሕከክ ፡ ዘአልቦ ፡ ፈውሰ\n                  ።",
-      "translation": "",
+      "translation": "The Lord smite thee with the botch of Egypt in the seat, and with a malignant scab, and itch, so that thou canst not be healed.",
       "words": [
         {
           "g": "ወይቀሥፈከ",
@@ -2102,7 +2102,7 @@
     {
       "num": 28,
       "geez": "ወይቀሥፈከ ፡ እግዚአብሔር ፡ በድቀት ፡ ወበዕወር ፡ ወበድንጋፄ ፡ ልብ ።",
-      "translation": "",
+      "translation": "The Lord smite thee with insanity, and blindness, and astonishment of mind.",
       "words": [
         {
           "g": "ወይቀሥፈከ",
@@ -2143,7 +2143,7 @@
     {
       "num": 29,
       "geez": "ወትገብእ ፡ ትመረስስ ፡ መዐልተ ፡ ከመ ፡ ይመረስስ ፡ ዕውር ፡ በውስተ ፡ ጽልመት ፡ ወኢትረክብ ፡ ፍኖተ ፡ ወትትገፋዕ ፡\n                  ወትትበረበር ፡ በኵሉ ፡ መዋዕሊከ ፡ ወኢትረክብ ፡ ዘይረድአከ ።",
-      "translation": "",
+      "translation": "And thou shalt grope at mid-day, as a blind man would grope in the darkness, and thou shalt not prosper in thy ways; and then thou shalt be unjustly treated, and plundered continually, and there shall be no helper.",
       "words": [
         {
           "g": "ወትገብእ",
@@ -2234,7 +2234,7 @@
     {
       "num": 30,
       "geez": "ወታወስብ ፡ ብእሲተ ፡ ወየሀይደካሃ ፡ ካልእ ፡ ብእሲ ፡ ወትነድቅ ፡ ቤተ ፡ ወኢትነብር ፡ ውስቴቱ ፡ ወትተክል ፡ ወይነ ፡\n                  ወኢትቀሥሞ ።",
-      "translation": "",
+      "translation": "Thou shalt take a wife, and another man shall have her; thou shalt build a house, and thou shalt not dwell in it; thou shalt plant a vineyard, and shalt not gather the grapes of it.",
       "words": [
         {
           "g": "ወታወስብ",
@@ -2305,7 +2305,7 @@
     {
       "num": 31,
       "geez": "ወይጠብኁ ፡ ላህመከ ፡ ወኢትበልዕ ፡ እምኔሁ ፡ ወየሀይዱከ ፡ አድገከ ፡ ወኢያገብኡ ፡ ለከ ፡ ወይገብእ ፡ አባግዒከ ፡\n                  (ለአግብርት ፡ ወ)ለፀርከ ፡ ወኢትረክብ ፡ ዘይረድእከ ።",
-      "translation": "",
+      "translation": "Thy calf shall be slain before thee, and thou shalt not eat of it; thine ass shall be violently taken away from thee, and shall not be restored to thee: thy sheep shall be given to thine enemies, and thou shalt have no helper.",
       "words": [
         {
           "g": "ወይጠብኁ",
@@ -2386,7 +2386,7 @@
     {
       "num": 32,
       "geez": "ወይገብኡ ፡ ደቂቅከ ፡ ወአዋልዲከ ፡ ለካልእ ፡ ሕዝብ ፡ ወትሬኢ ፡ በአዕይንቲከ ፡ እንዘ ፡ ይኰርዕዎሙ ፡ ወአልቦ ፡\n                  ዘትክል ፡ ገቢረ ።",
-      "translation": "",
+      "translation": "Thy sons and thy daughters shall be given to another nation, and thine eyes wasting away shall look for them: thine hand shall have no strength.",
       "words": [
         {
           "g": "ወይገብኡ",
@@ -2457,7 +2457,7 @@
     {
       "num": 33,
       "geez": "ወይበልዕ ፡ ሕዝብ ፡ ዘኢታአምር ፡ እክለ ፡ ምድርከ ፡ ወጻማከ ፡ ወትከውን ፡ ጽዑረ ፡ ወሥቁየ ፡ በኵሉ ፡ መዋዕል ።",
-      "translation": "",
+      "translation": "A nation which thou knowest not shall eat the produce of thy land, and all thy labours; and thou shalt be injured and crushed always.",
       "words": [
         {
           "g": "ወይበልዕ",
@@ -2523,7 +2523,7 @@
     {
       "num": 34,
       "geez": "ወትከውን ፡ ምሑፀ ፡ በምርኣየ ፡ አዕይንቲከ ፡ ወኢትሬኢ ።",
-      "translation": "",
+      "translation": "And thou shalt be distracted, because of the sights of thine eyes which thou shalt see.",
       "words": [
         {
           "g": "ወትከውን",
@@ -2559,7 +2559,7 @@
     {
       "num": 35,
       "geez": "ወይቀሥፈከ ፡ እግዚአብሔር ፡ በደዌ ፡ እኩይ ፡ ውስተ ፡ ብረኪከ ፡ ወውስተ ፡ አቍያጺከ ፡ ወውስተ ፡ አዕማደ ፡ እገሪከ ፡\n                  በዘ ፡ ኢትክል ፡ ሐይወ ፡ እምነ ፡ ሰኰና ፡ እገሪከ ፡ እስከ ፡ ርእስከ ።",
-      "translation": "",
+      "translation": "The Lord smite thee with an evil sore, on the knees and the legs, so that thou shalt not be able to be healed from the sole of thy foot to the crown of thy head.",
       "words": [
         {
           "g": "ወይቀሥፈከ",
@@ -2665,7 +2665,7 @@
     {
       "num": 36,
       "geez": "ወይወስደከ ፡ እግዚአብሔር ፡ ኪያከኒ ፡ ወመላእክቲከኒ ፡ እለ ፡ ሤምከ ፡ ለከ ፡ ውስተ ፡ ሕዝብ ፡ (ዐቢይ ፡) ዘኢታአምር\n                  ፡ ኢአንተ ፡ ወኢአበዊከ ፡ ወታመልክ ፡ በህየ ፡ ባዕደ ፡ አማልክተ ፡ ወዕፀወ ፡ ወእበነ ።",
-      "translation": "",
+      "translation": "The Lord carry away thee and thy princes, whom thou shalt set over thee, to a nation which neither thou nor thy fathers know; and thou shalt there serve other gods, wood and stone.",
       "words": [
         {
           "g": "ወይወስደከ",
@@ -2771,7 +2771,7 @@
     {
       "num": 37,
       "geez": "ወትከውን ፡ በህየ ፡ ድንጉፀ ፡ ወትከውን ፡ አምሳለ ፡ ወነገረ ፡ ለኵሉ ፡ አሕዛብ ፡ እለ ፡ ውስቴቶሙ ፡ (ወእለ ፡\n                  ኀቤሆሙ ፡) ይወስደከ ፡ እግዚአብሔር ፡ ህየ ።",
-      "translation": "",
+      "translation": "And thou shalt be there for a wonder, and a parable, and a tale, among all the nations, to which the Lord thy God shall carry thee away.",
       "words": [
         {
           "g": "ወትከውን",
@@ -2857,7 +2857,7 @@
     {
       "num": 38,
       "geez": "ወታወጽእ ፡ ብዙኀ ፡ ዘርዐ ፡ ውስተ ፡ ገራህትከ ፡ ወታበውእ ፡ ውሑደ ፡ እስመ ፡ አንበጣ ፡ በልዖ ።",
-      "translation": "",
+      "translation": "Thou shalt carry forth much seed into the field, and thou shalt bring in little, because the locust shall devour it.",
       "words": [
         {
           "g": "ወታወጽእ",
@@ -2918,7 +2918,7 @@
     {
       "num": 39,
       "geez": "ወትተክል ፡ ዐጸደ ፡ ወይን ፡ ወትትጌበሮ ፡ ወኢትሰቲ ፡ እምነ ፡ ወይኑ ፡ ወኢትትፌሣሕ ፡ እምኔሁ ፡ እስመ ፡ ዕፄ ፡\n                  በልዖ ።",
-      "translation": "",
+      "translation": "Thou shalt plant a vineyard, and dress it, and shalt not drink the wine, neither shalt thou delight thyself with it, because the worm shall devour it.",
       "words": [
         {
           "g": "ወትተክል",
@@ -2989,7 +2989,7 @@
     {
       "num": 40,
       "geez": "ወታጠሪ ፡ ዕፀዋተ ፡ ዘይት ፡ ውስተ ፡ ኵሉ ፡ ደወልከ ፡ ወኢትትቀባእ ፡ ቅብአ ፡ እምኔሁ ፡ እስመ ፡ ተነግፈ ፡ ፍሬሁ ።",
-      "translation": "",
+      "translation": "Thou shalt have olive trees in all thy borders, and thou shalt not anoint thee with oil, because thine olive shall utterly cast its fruit.",
       "words": [
         {
           "g": "ወታጠሪ",
@@ -3060,7 +3060,7 @@
     {
       "num": 41,
       "geez": "ወትወልድ ፡ ደቂቀ ፡ ወአዋልደ ፡ ወኢያተርፍዎሙ ፡ ለከ ፡ እስመ ፡ ይነሥእዎሙ ፡ ወይፄውዎሙ ።",
-      "translation": "",
+      "translation": "Thou shalt beget sons and daughters, and they shall not be thine, for they shall depart into captivity.",
       "words": [
         {
           "g": "ወትወልድ",
@@ -3111,7 +3111,7 @@
     {
       "num": 42,
       "geez": "ወኵሎ ፡ እክለ ፡ ምድርከ ፡ ወኵሎ ፡ ተክለ ፡ ዕፀዋቲከ ፡ አናኵዕ ፡ ያጠፍኦ ፡ ለከ ።",
-      "translation": "",
+      "translation": "All thy trees and the fruits of thy land shall the blight consume.",
       "words": [
         {
           "g": "ወኵሎ",
@@ -3167,7 +3167,7 @@
     {
       "num": 43,
       "geez": "ወፈላሲ ፡ ዘሀለወ ፡ ኀቤከ ፡ የዐርግ ፡ መልዕልቴከ ፡ ወላዕሌከ ፡ ወአንተሰ ፡ ትከውን ፡ መትሕቶ ።",
-      "translation": "",
+      "translation": "The stranger that is within thee shall get up very high, and thou shalt come down very low.",
       "words": [
         {
           "g": "ወፈላሲ",
@@ -3223,7 +3223,7 @@
     {
       "num": 44,
       "geez": "ወውእቱ ፡ ይሌቅሐከ ፡ ወአንተሰ ፡ ኢትሌቅሖ ፡ ውእቱ ፡ ይከውነከ ፡ ርእሰ ፡ ወአንተ ፡ ትከውኖ ፡ ዘነበ ።",
-      "translation": "",
+      "translation": "He shall lend to thee, and thou shalt not lend to him: he shall be the head, and thou shalt be the tail.",
       "words": [
         {
           "g": "ወውእቱ",
@@ -3284,7 +3284,7 @@
     {
       "num": 45,
       "geez": "ወይመጽእ ፡ ላዕሌከ ፡ ዝንቱ ፡ ኵሉ ፡ መርገም ፡ ወይዴግነከ ፡ ወይረክበከ ፡ እስከ ፡ ያጠፍአከ ፡ ወእስከ ፡ ይደመስሰከ\n                  ፡ እስመ ፡ ኢሰማዕከ ፡ ቃለ ፡ እግዚአብሔር ፡ አምላክከ ፡ ከመ ፡ ትዕቀብ ፡ ትእዛዞ ፡ ወኵነኔሁ ፡ ኵሎ ፡ ዘአዘዘከ ።",
-      "translation": "",
+      "translation": "And all these curses shall come upon thee, and shall pursue thee, and shall overtake thee, until he shall have consumed thee, and until he shall have destroyed thee; because thou didst not hearken to the voice of the Lord thy God, to keep his commands, and his ordinances which he has commanded thee.",
       "words": [
         {
           "g": "ወይመጽእ",
@@ -3405,7 +3405,7 @@
     {
       "num": 46,
       "geez": "ወይከውን ፡ ተአምር ፡ ላዕሌከ ፡ ወመድምም ፡ ወላዕለ ፡ ዘርእከ ፡ እስከ ፡ ለዓለም ።",
-      "translation": "",
+      "translation": "And these things shall be signs in thee, and wonders among thy seed for ever;",
       "words": [
         {
           "g": "ወይከውን",
@@ -3456,7 +3456,7 @@
     {
       "num": 47,
       "geez": "እስመ ፡ ኢያምለካሁ ፡ ለእግዚአብሔር ፡ አምላክከ ፡ በትፍሥሕት ፡ ወበሠናይ ፡ ልብ ፡ ወበብዝኀ ፡ ኵሉ ።",
-      "translation": "",
+      "translation": "because thou didst not serve the Lord thy God with gladness and a good heart, because of the abundance of all things.",
       "words": [
         {
           "g": "እስመ",
@@ -3512,7 +3512,7 @@
     {
       "num": 48,
       "geez": "ወትትቀነይ ፡ ለጸላእትከ ፡ እለ ፡ ይፌኑ ፡ እግዚአብሔር ፡ ላዕሌከ ፡ በረኃብ ፡ ወበጽምእ ፡ ወበዕርቅና ፡ ወበኀጣአ ፡\n                  ኵሉ ፡ ወይወዲ ፡ ለከ ፡ ጋጋ ፡ ዘኀፂን ፡ ውስተ ፡ ክሳድከ ፡ እስከ ፡ ያጠፍአከ ።",
-      "translation": "",
+      "translation": "And thou shalt serve thine enemies, which the Lord will send forth against thee, in hunger, and in thirst, and in nakedness, and in the want of all things; and thou shalt wear upon thy neck a yoke of iron until he shall have destroyed thee.",
       "words": [
         {
           "g": "ወትትቀነይ",
@@ -3618,7 +3618,7 @@
     {
       "num": 49,
       "geez": "ወያመጽእ ፡ እግዚአብሔር ፡ ሕዝበ ፡ እምርሑቅ ፡ ላዕሌከ ፡ እምአጽናፈ ፡ ምድር ፡ ከመ ፡ ርደተ ፡ ንስር ፡ ሕዝብ ፡ እለ\n                  ፡ ኢትሰምዕ ፡ ነገሮሙ ፤",
-      "translation": "",
+      "translation": "The Lord shall bring upon thee a nation from the extremity of the earth, like the swift flying of an eagle, a nation whose voice thou shalt not understand;",
       "words": [
         {
           "g": "ወያመጽእ",
@@ -3699,7 +3699,7 @@
     {
       "num": 50,
       "geez": "ሕዝብ ፡ ግሩመ ፡ ገጽ ፡ ዘኢያከብር ፡ ገጸ ፡ ልሂቅ ፡ ወኢይምሕር ፡ ንዑሰ ፤",
-      "translation": "",
+      "translation": "a nation bold in countenance, which shall not respect the person of the aged and shall not pity the young.",
       "words": [
         {
           "g": "ሕዝብ",
@@ -3750,7 +3750,7 @@
     {
       "num": 51,
       "geez": "ወያጠፍእ ፡ እጕለ ፡ መራዕይከ ፡ ወእክለ ፡ ምድርከ ፡ እስከ ፡ ኢያተርፍ ፡ ለከ ፡ ኢእክለ ፡ ወኢወይነ ፡ ወኢቅብአ ፡\n                  ወኢአዕጻዳተ ፡ ላህምከ ፡ ወኢመራዕየ ፡ አባግዒከ ፡ እስከ ፡ ያጠፍአከ ።",
-      "translation": "",
+      "translation": "And it shall eat up the young of thy cattle, and the fruits of thy land, so as not to leave to thee corn, wine, oil, the herds of thine oxen, and the flocks of thy sheep, until it shall have destroyed thee;",
       "words": [
         {
           "g": "ወያጠፍእ",
@@ -3846,7 +3846,7 @@
     {
       "num": 52,
       "geez": "ወይደመስሰከ ፡ እምውስተ ፡ ኵሉ ፡ አህጉሪከ ፡ እስከ ፡ ያወድቅ ፡ አረፋቲከ ፡ ዐበይተ ፡ ወአጽዋኒከ ፡ ዘቦቱ ፡ ትትአመን\n                  ፡ ዘውስተ ፡ ኵሉ ፡ በሓውርቲከ ፡ ወይሣቅየከ ፡ በውስተ ፡ ኵሉ ፡ አህጉሪከ ፡ ዘወሀበከ ፡ እግዚአብሔር ፡ አምላክከ ።",
-      "translation": "",
+      "translation": "and have utterly crushed thee in thy cities, until the high and strong walls be destroyed, in which thou trustest, in all thy land; and it shall afflict thee in thy cities, which he has given to thee.",
       "words": [
         {
           "g": "ወይደመስሰከ",
@@ -3962,7 +3962,7 @@
     {
       "num": 53,
       "geez": "ወ[ትበልዕ]፡ ውሉደ ፡ ከርሥከ ፡ ሥጋ ፡ ደቂቅከ ፡ ወአዋልዲከ ፡ ዘወሀበከ ፡ በምንዳቤከ ፡ ወበሥቃይከ ፡ ዘሣቀየከ ፡\n                  ጸላኢከ ፡ በውስተ ፡ አህጉሪከ ።",
-      "translation": "",
+      "translation": "And thou shalt eat the fruit of thy body, the flesh of thy sons and of thy daughters, all that he has given thee, in thy straitness and thy affliction, with which thine enemy shall afflict thee.",
       "words": [
         {
           "g": "ወትበልዕ",
@@ -4038,7 +4038,7 @@
     {
       "num": 54,
       "geez": "ረኀጽከሂ ፡ ወለምለምከሂ ፡ ወትደነፁ ፡ ዐይኑ ፡ ለእኁሁ ፡ ወለብእሲቱ ፡ እንተ ፡ ውስተ ፡ ሕፅኑ ፡ ወዘተርፈ ፡ ውሉድ ፡\n                  ዘአትረፉ ፡ ሎሙ ።",
-      "translation": "",
+      "translation": "He that is tender and very delicate within thee shall look with an evil eye upon his brother, and the wife in his bosom, and the children that are left, which may have been left to him;",
       "words": [
         {
           "g": "ረኀጽከሂ",
@@ -4114,7 +4114,7 @@
     {
       "num": 55,
       "geez": "ይሁብዎሙ ፡ ለለ ፡ አሐዱ ፡ እምኔሆሙ ፡ ሥጋ ፡ ውሉዶሙ ፡ ይሴሰዩ ፡ እስመ ፡ ኢያትረፉ ፡ ሎሙ ፡ ወኢምንተ ፡ በሥቃይ ፡\n                  ወበምንዳቤ ፡ ዘይሣቅዩከ ፡ ጸላእትከ ፡ በኵሉ ፡ አህጉሪከ ።",
-      "translation": "",
+      "translation": "so as not to give to one of them of the flesh of his children, whom he shall eat, because of his having nothing left him in thy straitness, and in thy affliction, with which thine enemies shall afflict thee in all thy cities.",
       "words": [
         {
           "g": "ይሁብዎሙ",
@@ -4210,7 +4210,7 @@
     {
       "num": 56,
       "geez": "ወእንተ ፡ ረኃጽኒ ፡ ይእቲ ፡ እምኔክሙ ፡ ወእንተሂ ፡ ድክምት ፡ ይእቲ ፡ ትሜህር ፡ እገሪሃ ፡ ሐዊረ ፡ ውስተ ፡ ምድር\n                  ፡ ወእስመ ፡ ረኃፅ ፡ ይእቲ ፡ ወድክምት ፡ ትደነጽዎ ፡ ዐይና ፡ ለምታ ፡ ዘዲበ ፡ ሕፅና ፡ ወለወልዳ ፡ ወለወለታ ።",
-      "translation": "",
+      "translation": "And she that is tender and delicate among you, whose foot has not assayed to go upon the earth for delicacy and tenderness, shall look with an evil eye on her husband in her bosom, and her son and her daughter,",
       "words": [
         {
           "g": "ወእንተ",
@@ -4336,7 +4336,7 @@
     {
       "num": 57,
       "geez": "ወለሥጋሃ ፡ ዘእምውስተ ፡ አባላ ፡ ውእቱ ፡ ወሕፃናሂ ፡ ዘወለደት ፡ ትበልዕ ፡ ጽምሚተ ፡ ሶበ ፡ ኀጥአት ፡ ኵሎ ፡\n                  በምንዳቤ ፡ ወበሥቃይ ፡ ዘይሣቅየከ ፡ ጸላኢከ ፡ በውስተ ፡ አህጉሪከ ፤",
-      "translation": "",
+      "translation": "and her offspring that comes out between her feet, and the child which she shall bear; for she shall eat them because of the want of all things, secretly in thy straitness, and in thy affliction, with which thine enemy shall afflict thee in thy cities.",
       "words": [
         {
           "g": "ወለሥጋሃ",
@@ -4432,7 +4432,7 @@
     {
       "num": 58,
       "geez": "ለእመ ፡ ኢሰማዕከ ፡ ከመ ፡ ትግበር ፡ ኵሎ ፡ ዘንተ ፡ ነገሮ ፡ ለዝንቱ ፡ ሕግ ፡ ዘጽሑፍ ፡ ውስተ ፡ ዝንቱ ፡ መጽሐፍ\n                  ፡ ከመ ፡ ትፍራህ ፡ ስመ ፡ ክቡር ፡ ወስቡሕ ፡ ዝንቱ ፡ ዘእግዚአብሔር ፡ አምላክከ ።",
-      "translation": "",
+      "translation": "If thou wilt not hearken to do all the words of this law, which have been written in this book, to fear this glorious and wonderful name, the Lord thy God;",
       "words": [
         {
           "g": "ለእመ",
@@ -4548,7 +4548,7 @@
     {
       "num": 59,
       "geez": "ወይገብር ፡ እግዚአብሔር ፡ ነኪረ ፡ መቅሠፍተከ ፡ ወመቅሠፍተ ፡ ዘርእከ ፡ መቅሠፍተ ፡ ዐቢየ ፡ ወመድምመ ፡ ወደዌ ፡\n                  እኩየ ፡ ወሕማመ ።",
-      "translation": "",
+      "translation": "then the Lord shall magnify thy plagues, and the plagues of thy seed, great and wonderful plagues, and evil and abiding diseases.",
       "words": [
         {
           "g": "ወይገብር",
@@ -4619,7 +4619,7 @@
     {
       "num": 60,
       "geez": "ወይገብእ ፡ ላዕሌሆሙ ፡ ኵሉ ፡ ደዌሆሙ ፡ ለግብጽ ፡ እኩይ ፡ ዝክቱ ፡ ዘኢፈራህከ ፡ (እምኔሁ ፡ ወኢፈራህከ ፡) እምቅድመ\n                  ፡ ገጾሙ ፡ ወይተሉ ፡ ዲቤከ ።",
-      "translation": "",
+      "translation": "And he shall bring upon thee all the evil pain of Egypt, of which thou wast afraid, and they shall cleave to thee.",
       "words": [
         {
           "g": "ወይገብእ",
@@ -4700,7 +4700,7 @@
     {
       "num": 61,
       "geez": "ወኵሉ ፡ ደዌ ፡ ወኵሉ ፡ መቅሠፍት ፡ ዘኢኮነ ፡ ጽሑፈ ፡ ውስተ ፡ ዝንቱ ፡ መጽሐፈ ፡ ሕግ ፡ ያመጽእ ፡ እግዚአብሔር ፡\n                  ላዕሌከ ፡ እስከ ፡ ያጠፍአከ ፡ ወእስከ ፡ ትደመሰሱ ።",
-      "translation": "",
+      "translation": "And the Lord shall bring upon thee every sickness, and every plague that is not written, and every one that is written in the book of this law, until he shall have destroyed thee.",
       "words": [
         {
           "g": "ወኵሉ",
@@ -4796,7 +4796,7 @@
     {
       "num": 62,
       "geez": "ወትተርፉ ፡ ኅዳጠ ፡ በኍልቍ ፡ እምድኅረ ፡ ከመ ፡ ከዋክብተ ፡ ሰማይ ፡ አንትሙ ፡ ብዝኅክሙ ፡ እስመ ፡ ኢሰማዕክሙ ፡\n                  ቃለ ፡ እግዚአብሔር ፡ አምላክክሙ ።",
-      "translation": "",
+      "translation": "And ye shall be left few in number, whereas ye were as the stars of the sky in multitude; because thou didst not hearken to the voice of the Lord thy God.",
       "words": [
         {
           "g": "ወትተርፉ",
@@ -4877,7 +4877,7 @@
     {
       "num": 63,
       "geez": "ወበከመ ፡ ተፈሥሐ ፡ እግዚአብሔር ፡ ላዕሌክሙ ፡ ከመ ፡ ይግበር ፡ ሠናይተ ፡ ዲቤክሙ ፡ ወአብዝኀክሙ ፡ ከማሁ ፡ ይትፌሣሕ\n                  ፡ እግዚአብሔር ፡ ዲቤክሙ ፡ ከመ ፡ ይሤርወክሙ ፡ ወትጠፍኡ ፡ እምነ ፡ ምድር ፡ እንተ ፡ ውስቴታ ፡ ትበውኡ ፡ ህየ ፡ ከመ ፡\n                  ትትወረስዋ ።",
-      "translation": "",
+      "translation": "And it shall come to pass that as the Lord rejoiced over you to do you good, and to multiply you, so the Lord will rejoice over you to destroy you; and ye shall be quickly removed from the land, into which ye go to inherit it.",
       "words": [
         {
           "g": "ወበከመ",
@@ -5008,7 +5008,7 @@
     {
       "num": 64,
       "geez": "ወይዘርወከ ፡ እግዚአብሔር ፡ ውስተ ፡ ኵሉ ፡ አሕዛብ ፡ እምነ ፡ አጽናፈ ፡ ምድር ፡ እስከ ፡ አጽናፈ ፡ ምድር ፡\n                  ወትትቀነይ ፡ በህየ ፡ ለባዕድ ፡ አማልክት ፡ ለእበን ፡ ወለዕፀው ፡ ለዘ ፡ ኢታአምር ፡ አንተ ፡ ወአበዊከ ።",
-      "translation": "",
+      "translation": "And the Lord thy God shall scatter thee among all nations, from one end of the earth to the other; and thou shalt there serve other gods, wood and stone, which thou hast not known, nor thy fathers.",
       "words": [
         {
           "g": "ወይዘርወከ",
@@ -5124,7 +5124,7 @@
     {
       "num": 65,
       "geez": "ወበህየኒ ፡ በውስተ ፡ ውእቱ ፡ አሕዛብ ፡ ኢያዐርፈከ ፡ ወኢያበውሐከ ፡ ትቁም ፡ እግርከ ፡ ወይሁበከ ፡ በህየ ፡\n                  እግዚአብሔር ፡ ልበ ፡ ሕዙነ ፡ ወአዕይንተ ፡ ጥፉኣተ ፡ ወነፍሰ ፡ ምንሱተ ።",
-      "translation": "",
+      "translation": "Moreover among those nations he will not give thee quiet, neither by any means shall the sole of thy foot have rest; and the Lord shall give thee there another and a misgiving heart, and failing eyes, and a wasting soul.",
       "words": [
         {
           "g": "ወበህየኒ",
@@ -5220,7 +5220,7 @@
     {
       "num": 66,
       "geez": "ወትከውን ፡ ሕይወትከ ፡ ስቅልተ ፡ ቅድመ ፡ አዕይንቲከ ፡ ወትደነግፅ ፡ ለሊከ ፡ መዐልተ ፡ [ወሌሊተ ፡] ወኢትትአመን ፡\n                  በሕይወትከ ።",
-      "translation": "",
+      "translation": "And thy life shall be in suspense before thine eyes; and thou shalt be afraid by day and by night, and thou shalt have no assurance of thy life.",
       "words": [
         {
           "g": "ወትከውን",
@@ -5286,7 +5286,7 @@
     {
       "num": 67,
       "geez": "ለእመ ፡ ጸብሐ ፡ ትብል ፡ እፎ ፡ እንጋ ፡ ይመሲ ፡ ወለእመ ፡ መስየ ፡ ትብል ፡ እፎ ፡ ይጸብሕ ፡ እምነ ፡ ፍርሀተ ፡\n                  ልብ ፡ ዘትደነግፅ ፡ ወእምነ ፡ ዘያስተርእየከ ፡ ውስተ ፡ አዕይንቲከ ፡ ወዘትሬኢ ።",
-      "translation": "",
+      "translation": "In the morning thou shalt say, Would it were evening! and in the evening thou shalt say, Would it were morning! for the fear of thine heart with which thou shalt fear, and for the sights of thine eyes which thou shalt see.",
       "words": [
         {
           "g": "ለእመ",
@@ -5397,7 +5397,7 @@
     {
       "num": 68,
       "geez": "ወያገብአከ ፡ እግዚአብሔር ፡ ውስተ ፡ ግብጽ ፡ በአሕማር ፡ ወእንተ ፡ ምድርኒ ፡ በእግር ፡ ዝንቱ ፡ ዘአቤ ፡ ኢትደግሙ ፡\n                  እንከ ፡ ርእዮታ ፡ ዓዲ ፡ ወትከውኑ ፡ በህየ ፡ አግብርተ ፡ ወአእማተ ፡ ለፀርክሙ ፡ ወአልቦ ፡ ዘያስተምሕረክሙ ።",
-      "translation": "",
+      "translation": "And the Lord shall bring thee back to Egypt in ships, by the way of which I said, Thou shalt not see it again; and ye shall be sold there to your enemies for bondmen and bondwomen, and none shall buy you.",
       "words": [
         {
           "g": "ወያገብአከ",

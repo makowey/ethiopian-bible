@@ -53,6 +53,7 @@ export interface Book {
   chapters: number
   source_id: string
   short?: string
+  hasTranslation?: boolean
 }
 
 export interface Bookmark {

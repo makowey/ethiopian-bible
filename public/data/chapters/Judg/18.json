@@ -5,7 +5,7 @@
     {
       "num": 1,
       "geez": "ወበእማንቱ ፡ መዋዕል ፡ አልቦሙ ፡ ንጉሠ ፡ እስራኤል ፡ ወበእማንቱ ፡ መዋዕል ፡ የኀሥሡ ፡ ሎሙ ፡ ሕዝበ ፡ ዳን ፡ ርስተ\n                  ፡ ኀበ ፡ ይነብሩ ፡ እስመ ፡ ኢረከቡ ፡ እስከ ፡ ይእቲ ፡ አሚር ፡ ርስተ ፡ በማእከለ ፡ ሕዝበ ፡ እስራኤል ።",
-      "translation": "",
+      "translation": "In those days there was no king in Israel; and in those days the tribe of Dan sought for itself an inheritance to inhabit, because no inheritance had fallen to it until that day in the midst of the tribes of the children of Israel.",
       "words": [
         {
           "g": "ወበእማንቱ",
@@ -131,7 +131,7 @@
     {
       "num": 2,
       "geez": "ወፈነው ፡ ደቂቀ ፡ ዳን ፡ እምነ ፡ ሕዝቦሙ ፡ ኀምስተ ፡ ዕደወ ፡ እምነ ፡ መክፈልቶሙ ፡ ደቂቀ ፡ ኀይል ፡ እምነ ፡\n                  ሰአራ ፡ ወአስታሖል ፡ ከመ ፡ ይርአይዋ ፡ ለምድር ፡ ወያእምርዋ ፡ ወይቤልዎሙ ፡ ሑሩ ፡ ርእዩ ፡ ለነ ፡ ምድረ ፡ ወበጽሑ ፡\n                  ውስተ ፡ ደብረ ፡ ኤፍሬም ፡ ኀበ ፡ ቤተ ፡ ሚካ ፡ ወኀደሩ ፡ ህየ ፡ እሙንቱ ፡ ኀበ ፡ ቤተ ፡ ሚካ ።",
-      "translation": "",
+      "translation": "And the sons of Dan sent from their families five men of valour, from Saraa and from Esthaol, to spy out the land and to search it; and they said to them, Go and search out the land. And they came as far as the mount of Ephraim to the house of Michaias and they lodged there,",
       "words": [
         {
           "g": "ወፈነው",
@@ -322,7 +322,7 @@
     {
       "num": 3,
       "geez": "ወአእመርዎ ፡ ቃሎ ፡ ለውእቱ ፡ ወልድ ፡ ወሬዛ ፡ ሌዋዊ ፡ ወቦኡ ፡ ህየ ፡ ወይቤልዎ ፡ መኑ ፡ አምጽአከ ፡ ዝየ ፡\n                  ወምንተ ፡ ትገብር ፡ በዝየ ፡ ወምንተ ፡ ብከ ፡ በዝየ ።",
-      "translation": "",
+      "translation": "in the house of Michaias, and they recognised the voice of the young man the Levite, and turned in thither; and said to him, Who brought thee in hither? and what doest thou in this place? and what hast thou here?",
       "words": [
         {
           "g": "ወአእመርዎ",
@@ -423,7 +423,7 @@
     {
       "num": 4,
       "geez": "ወይቤሎሙ ፡ ከመዝ ፡ ወከመዝ ፡ ረሰየኒ ፡ ሚካ ፡ ወዐሰበኒ ፡ ወኮንክዎ ፡ ካህነ ።",
-      "translation": "",
+      "translation": "And he said to them, Thus and thus did Michaias to me, and he hired me, and I became his priest.",
       "words": [
         {
           "g": "ወይቤሎሙ",
@@ -474,7 +474,7 @@
     {
       "num": 5,
       "geez": "ወይቤልዎ ፡ ተሰአል ፡ ኀበ ፡ እግዚአብሔር ፡ እመ ፡ ይሴርሐነ ፡ ፍኖተነ ፡ እንተ ፡ ነሐውር ፡ ውስቴታ ፡ ንሕነ ።",
-      "translation": "",
+      "translation": "And they said to him, Enquire now of God, and we shall know whether our way will prosper, on which we are going.",
       "words": [
         {
           "g": "ወይቤልዎ",
@@ -540,7 +540,7 @@
     {
       "num": 6,
       "geez": "ወይቤሎሙ ፡ ውእቱ ፡ ካህን ፡ ሑሩ ፡ በሰላም ፤ ይእቲ ፡ ፍኖትክሙ ፡ ቅድመ ፡ እግዚአብሔር ፡ እንተ ፡ ባቲ ፡ ተሐውሩ ።",
-      "translation": "",
+      "translation": "And the priest said to them, Go in peace; your way in which ye go, is before the Lord.",
       "words": [
         {
           "g": "ወይቤሎሙ",
@@ -606,7 +606,7 @@
     {
       "num": 7,
       "geez": "ወሖሩ ፡ እሙንቱ ፡ ዕደው ፡ ወበጽሑ ፡ ውስተ ፡ ሌሳ ፡ ወርእዩ ፡ ሕዝበ ፡ እለ ፡ ይነብሩ ፡ ውስቴታ ፡ ተአሚኖሙ ፡\n                  ይነብሩ ፡ በሕገ ፡ ሲዶና ፡ ህዱኣን ፡ ወዕሩፋን ፡ እንዘ ፡ ይትአመኑ ፡ ወኢክህሉ ፡ ነቢበ ፡ ቃ[ል] ፡ ውስተ ፡ ምድ[ር] ፡\n                  ርስተ ፡ መዝገብ ፡ እስመ ፡ ርሑቃን ፡ እሙንቱ ፡ እምነ ፡ ሲዶና ፡ ወአልቦሙ ፡ ተልሓፈ ፡ ምስለ ፡ ሶርያ ።",
-      "translation": "",
+      "translation": "And the five men went on, and came to Laisa; and they saw the people in the midst of it dwelling securely, at ease as is the manner of the Sidonians, and there is no one perverting or shaming a matter in the land, no heir extorting treasures; and they are far from the Sidonians, and they have no intercourse with any one.",
       "words": [
         {
           "g": "ወሖሩ",
@@ -792,7 +792,7 @@
     {
       "num": 8,
       "geez": "ወገብኡ ፡ እልክቱ ፡ ኀምስቱ ፡ ዕደው ፡ ኀበ ፡ አኀዊሆሙ ፡ ውስተ ፡ ሶራሐ ፡ ወኤስታሖል ፡ ወይቤልዎሙ ፡ ምንት ፡\n                  ያነብረክሙ ።",
-      "translation": "",
+      "translation": "And the five men came to their brethren to Saraa and Esthaol, and said to their brethren, Why sit ye here idle?",
       "words": [
         {
           "g": "ወገብኡ",
@@ -863,7 +863,7 @@
     {
       "num": 9,
       "geez": "ተንሥኡ ፡ ወንሑር ፡ ላዕሌሃ ፡ እስመ ፡ ቦእናሃ ፡ ወአንሶሰውናሃ ፡ ለይእቲ ፡ ምድር ፡ እስከ ፡ አጽናፊሃ ፡ ወርኢነ ፡\n                  ሕዝበ ፡ እለ ፡ ይነብሩ ፡ ውስቴታ ፡ በሕገ ፡ ሲዶና ፡ [ወርኁቃን ፡ እሙንቱ ፡ እምነ ፡ ሲዶና ፡] ወአልቦሙ ፡ ተልሓፈ ፡\n                  ምስለ ፡ ሶርያ ፡ ወባሕቱ ፡ ተንሥኡ ፡ ወንዕረግ ፡ ላዕሌሆሙ ፡ እስመ ፡ ርኢናሃ ፡ ለይእቲ ፡ ምድር ፡ ሠናይት ፡ ጥቀ ፡\n                  ወአንትሙሰ ፡ አርምሙ ፡ ወኢትትሀከዩ ፡ ሐዊረ ፡ ወበዊአ ፡ ከመ ፡ ትትዋረስዋ ፡ ለይእቲ ፡ ምድር ።",
-      "translation": "",
+      "translation": "And they said, Arise, and let us go up against them, for we have seen the land, and, behold, it is very good, yet ye are still: delay not to go, and to enter in to possess the land.",
       "words": [
         {
           "g": "ተንሥኡ",
@@ -1094,7 +1094,7 @@
     {
       "num": 10,
       "geez": "ወእምከመ ፡ ቦእክሙ ፡ ትበጽሑ ፡ ኀበ ፡ ሕዝብ ፡ እለ ፡ ተአሚኖሙ ፡ ይነብሩ ፡ ወምድርኒ ፡ ረኃብ ፡ እስመ ፡ አግብአ ፡\n                  እግዚአብሔር ፡ ውስተ ፡ አዴክሙ ፡ ብሔረ ፡ ዘአልቦ ፡ ዘይትኀጣእ ፡ እምነ ፡ ኵሉ ፡ ቃል ፡ ዘተፈጥረ ፡ ውስተ ፡ ምድር ።",
-      "translation": "",
+      "translation": "And whensoever ye shall go, ye shall come in upon a people secure, and the land is extensive, for God has given it into your hand; a place where there is no want of anything that the earth affords.",
       "words": [
         {
           "g": "ወእምከመ",
@@ -1225,7 +1225,7 @@
     {
       "num": 11,
       "geez": "ወተንሥኡ ፡ እምነ ፡ ህየ ፡ አምነ ፡ ብሔረ ፡ ዳን ፡ እምነ ፡ ሰራሕ ፡ ወኤ[ስ]ታሖል ፡ ስድስቱ ፡ ምእት ፡ ብእሲ ፡\n                  እ[ለ] ፡ ቅኑታኒሆሙ ፡ ይጸውሩ ፡ ንዋየ ፡ ሐቅሎሙ ።",
-      "translation": "",
+      "translation": "And there departed thence of the families of Dan, from Saraa and from Esthaol, six hundred men, girded with weapons of war.",
       "words": [
         {
           "g": "ወተንሥኡ",
@@ -1321,7 +1321,7 @@
     {
       "num": 12,
       "geez": "ወዐርጉ ፡ ወኀደሩ ፡ ውስተ ፡ ቀርያት[ያ]ርም ፡ ውስተ ፡ ይሁዳ ፡ ወበእንተ ፡ ዝንቱ ፡ ተሰምየ ፡ ውእቱ ፡ መካን ፡\n                  ትዕይንተ ፡ ዳን ፡ እስከ ፡ ዮም ፡ መንገለ ፡ ድኅሬሃ ፡ ለቀርያትያርም ።",
-      "translation": "",
+      "translation": "And they went up, and encamped in Cariathiarim in Juda; therefore it was called in that place the camp of Dan, until this day: behold, it is behind Cariathiarim.",
       "words": [
         {
           "g": "ወዐርጉ",
@@ -1422,7 +1422,7 @@
     {
       "num": 13,
       "geez": "ወኀሊፎሙ ፡ እምህየ ፡ በጽሑ ፡ ውስተ ፡ ደብረ ፡ ኤፍሬም ፡ ወመጽኡ ፡ እስከ ፡ ኀበ ፡ ቤተ ፡ ሚካ ።",
-      "translation": "",
+      "translation": "And they went on thence to the mount of Ephraim, and came to the house of Michaias.",
       "words": [
         {
           "g": "ወኀሊፎሙ",
@@ -1488,7 +1488,7 @@
     {
       "num": 14,
       "geez": "ወይቤልዎሙ ፡ እልክቱ ፡ ኀምስቱ ፡ ዕደው ፡ እለ ፡ ሖሩ ፡ ከመ ፡ ይርአይዋ ፡ ለይእቲ ፡ ምድረ ፡ ሌሳ ፡ ወይቤልዎሙ ፡\n                  ለአኀዊሆሙ ፡ ሶበ ፡ ታአምሩ ፡ ከመ ፡ ቦቱ ፡ ውስተ ፡ ዝንቱ ፡ አብያት ፡ ምስለ ፡ ወቴራፍን ፡ ወግልፎ ፡ ወስብኮ ፡\n                  ወይእዜኒ ፡ አእምሩ ፡ ዘትገብሩ ።",
-      "translation": "",
+      "translation": "And the five men who went to spy out the land of Laisa answered, and said to their brethren, Ye know that there is in this place an ephod, and theraphin, and a graven and a molten image; and now consider what ye shall do.",
       "words": [
         {
           "g": "ወይቤልዎሙ",
@@ -1634,7 +1634,7 @@
     {
       "num": 15,
       "geez": "ወገሐሡ ፡ ህየ ፡ ወቦኡ ፡ ውስተ ፡ ቤቱ ፡ ለውእቱ ፡ ወልድ ፡ ሌዋዊ ፡ ውስተ ፡ ቤተ ፡ ሚካ ።",
-      "translation": "",
+      "translation": "And they turned aside there, and went into the house of the young man, the Levite, even into the house of Michaias, and asked him how he was.",
       "words": [
         {
           "g": "ወገሐሡ",
@@ -1700,7 +1700,7 @@
     {
       "num": 16,
       "geez": "ወተአምኅዎ ፡ እልክቱ ፡ ስድስቱ ፡ ምእት ፡ ብእሲ ፡ እንዘ ፡ ይጸውሩ ፡ ንዋየ ፡ ሐቅሎሙ ፡ ቅኑታኒሆሙ ፡ ወተጋብኡ ፡\n                  ኀበ ፡ ኆኅተ ፡ አንቀጽ ፡ እለ ፡ እምነ ፡ ደቂቀ ፡ ዳን ።",
-      "translation": "",
+      "translation": "And the six hundred men of the sons of Dan who were girded with their weapons of war stood by the door of the gate.",
       "words": [
         {
           "g": "ወተአምኅዎ",
@@ -1801,7 +1801,7 @@
     {
       "num": 17,
       "geez": "ወዐርጉ ፡ እልክቱ ፡ ኀምስቱ ፡ ዕደው ፡ እለ ፡ ሖሩ ፡ ቀዲሙ ፡ ከመ ፡ ይርአዩ ፡ ምድረ ፡ ወቦኡ ፡ ህየ ፡ ወነሥኡ ፡\n                  ዝክተ ፡ ምስለ ፡ ወግልፎ ፡ ወቴራፍን ፡ ወስብኮ ፡ ወዝክቱሰ ፡ ካህን ፡ ይቀውም ፡ ኀበ ፡ ኆኅተ ፡ አንቀጽ ፡ ወእልክቱኒ ፡\n                  ፯፻ብእሲ ፡ ይጸውሩ ፡ ንዋየ ፡ ሐቅሎሙ ፡ ቅኑታኒሆሙ ።",
-      "translation": "",
+      "translation": "And the five men who went to spy out the land went up, and entered into the house of Michaias, and the priest stood.",
       "words": [
         {
           "g": "ወዐርጉ",
@@ -1962,7 +1962,7 @@
     {
       "num": 18,
       "geez": "ወቦኡ ፡ እሙንቱ ፡ ዕደው ፡ ውስተ ፡ ቤተ ፡ ሚካ ፡ ወነሥኡ ፡ ዝክተ ፡ ግልፎ ፡ ወምስለ ፡ ወቴራፍን ፡ ወስብኮ ፡\n                  ወይቤሎሙ ፡ ዝክቱ ፡ ካህን ፡ ምንተ ፡ ትገብሩ ፡ አንትሙ ።",
-      "translation": "",
+      "translation": "And they took the graven image, and the ephod, and the theraphin, and the molten image; and the priest said to them, What are ye doing?",
       "words": [
         {
           "g": "ወቦኡ",
@@ -2063,7 +2063,7 @@
     {
       "num": 19,
       "geez": "ወይቤልዎ ፡ አርምም ፡ ወደይ ፡ እዴከ ፡ ውስተ ፡ አፉከ ፡ ወነዓ ፡ ምስሌነ ፡ ወትከውነነ ፡ አቡነ ፡ ወካህነ ፡ ቦኑ ፡\n                  ይኄይሰከ ፡ ትኩን ፡ ካህነ ፡ ለአሐዱ ፡ ብእሲ ፡ እምነ ፡ ትኩን ፡ ካህነ ፡ ለነገድ ፡ ወለሕዝበ ፡ እስራኤል ።",
-      "translation": "",
+      "translation": "And they said to him, Be silent, lay thine hand upon thy mouth, and come with us, and be to us a father and a priest: is it better for thee to be the priest of the house of one man, or to be the priest of a tribe and house for a family of Israel?",
       "words": [
         {
           "g": "ወይቤልዎ",
@@ -2189,7 +2189,7 @@
     {
       "num": 20,
       "geez": "ወተፈሥሐ ፡ ልቡ ፡ ለውእቱ ፡ ካህን ፡ ወነሥአ ፡ ውእተ ፡ ምስለ ፡ ወቴራፍን ፡ ወግልፎ ፡ ወስብኮ ፡ ወቦአ ፡ ማእከለ ፡\n                  ሕዝብ ።",
-      "translation": "",
+      "translation": "And the heart of the priest was glad, and he took the ephod, and the theraphin, and the graven image, and the molten image, and went in the midst of the people.",
       "words": [
         {
           "g": "ወተፈሥሐ",
@@ -2265,7 +2265,7 @@
     {
       "num": 21,
       "geez": "ወተመይጡ ፡ ወሖሩ ፡ ወነሥኡ ፡ ኵሎ ፡ ቤቶ ፡ ወጥሪቶ ፡ ዘክብሩ ፡ ወነድኡ ፡ ቅድሜሆሙ ።",
-      "translation": "",
+      "translation": "So they turned and departed, and put their children and their property and their baggage before them.",
       "words": [
         {
           "g": "ወተመይጡ",
@@ -2321,7 +2321,7 @@
     {
       "num": 22,
       "geez": "ወእንበለ ፡ ይርሐቁ ፡ እምነ ፡ ቤት ፡ መጽአ ፡ ሚካ ፡ ወዕደው ፡ ሕዝብ ፡ እለ ፡ ቅሩበ ፡ ቤቱ ፡ ለሚካ ፡ ወጸርኁ ፡\n                  እምድኅሬሆሙ ፡ ለደቂቀ ፡ ዳን ፡ ወአውየዉ ፡ ሎሙ ፡ ለደቂቀ ፡ ዳን ።",
-      "translation": "",
+      "translation": "They went some distance from the house of Michaias, and, behold, Michaias and the men in the houses near Michaias' house, cried out, and overtook the children of Dan.",
       "words": [
         {
           "g": "ወእንበለ",
@@ -2432,7 +2432,7 @@
     {
       "num": 23,
       "geez": "ወተመይጡ ፡ ገጾሙ ፡ ደቂቀ ፡ ዳን ፡ ወይቤልዎ ፡ ለሚካ ፡ ምንተ ፡ ኮንከ ፡ ዘትጸርኅ ።",
-      "translation": "",
+      "translation": "And the children of Dan turned their face, and said to Michaias, What is the matter with thee that thou hast cried out?",
       "words": [
         {
           "g": "ወተመይጡ",
@@ -2488,7 +2488,7 @@
     {
       "num": 24,
       "geez": "ወይቤሎሙ ፡ ሚካ ፡ ግልፎየ ፡ ዘገበርኩ ፡ ነሣእክሙኒ ፡ ወካህን[የ]ኒ ፡ ወሖርክሙ ፡ ወምንተ ፡ እንከ ፡ ኀደግሙ ፡ ሊተ\n                  ፡ ወትብሉኒ ፡ ምንተ ፡ ትጸርኅ ።",
-      "translation": "",
+      "translation": "And Michaias said, Because ye have taken my graven image which I made, and my priest, and are gone; and what have I remaining? and what is this that ye say to me, Why criest thou?",
       "words": [
         {
           "g": "ወይቤሎሙ",
@@ -2569,7 +2569,7 @@
     {
       "num": 25,
       "geez": "ወይቤልዎ ፡ ደቂቀ ፡ ዳን ፡ ኢይሰማዕ ፡ እንከ ፡ ቃልከ ፡ ምስሌነ ፡ ወእመአኮሰ ፡ ይትራከቡከ ፡ ዕደው ፡ መሪራነ ፡\n                  ነፍስ ፡ ወተሐጕል ፡ ዓዲ ፡ ነፍስከ ፡ ወነፍሰ ፡ ቤትከ ።",
-      "translation": "",
+      "translation": "And the children of Dan said to him, Let not thy voice be heard with us, lest angry men run upon thee, and take away thy life, and the lives of thy house.",
       "words": [
         {
           "g": "ወይቤልዎ",
@@ -2665,7 +2665,7 @@
     {
       "num": 26,
       "geez": "ወሖሩ ፡ ደቂቀ ፡ ዳን ፡ ፍኖቶሙ ፡ ወርእየ ፡ [ሚካ ፡] ከመ ፡ ይጸንዕዎ ፡ ወተመይጠ ፡ ወአተወ ፡ ቤቶ ።",
-      "translation": "",
+      "translation": "And the children of Dan went their way; and Michaias saw that they were stronger than himself, and he returned to his house.",
       "words": [
         {
           "g": "ወሖሩ",
@@ -2731,7 +2731,7 @@
     {
       "num": 27,
       "geez": "ወእሙንቱሰ ፡ ነሥኡ ፡ ኵሎ ፡ ዘገብረ ፡ ሚካ ፡ ወካህነኒ ፡ ወኵሎ ፡ ዘቦ ፡ ወሖሩ ፡ እስከ ፡ ሌሳ ፡ ላዕለ ፡ ሕዝብ ፡\n                  ዕሩፍ ፡ ዘተአሚኖ ፡ ይነብር ፡ ወቀተልዎሙ ፡ በአፈ ፡ ኀፂን ፡ ወሀገሮሙኒ ፡ አውዐዩ ።",
-      "translation": "",
+      "translation": "And the children of Dan took what Michaias had made, and the priest that he had, and they came to Laisa, to a people quiet and secure; and they smote them with the edge of the sword, and burnt the city with fire.",
       "words": [
         {
           "g": "ወእሙንቱሰ",
@@ -2847,7 +2847,7 @@
     {
       "num": 28,
       "geez": "ወአልቦ ፡ ዘድኅነ ፡ እስመ ፡ ርኁቃን ፡ እሙንቱ ፡ እምነ ፡ ሲዶና ፡ ወአልቦሙ ፡ ተልሓፈ ፡ ምስለ ፡ ባዕድ ፡ ሰብእ ፡\n                  ወይእቲሰ ፡ ውስተ ፡ ቈላት ፡ እንተ ፡ ቤተ ፡ ጦብ ፡ ወሐነጽዋ ፡ ለይእቲ ፡ ሀገር ፡ ወነበሩ ፡ ውስቴታ ።",
-      "translation": "",
+      "translation": "And there was no deliverer, because the city is far from the Sidonians, and they have no intercourse with men, and it is in the valley of the house of Raab; and they built the city, and dwelt in it.",
       "words": [
         {
           "g": "ወአልቦ",
@@ -2973,7 +2973,7 @@
     {
       "num": 29,
       "geez": "ወሰመዩ ፡ ስማ ፡ ለይእቲ ፡ ሀገር ፡ ዳን ፡ በስመ ፡ አቡሆሙ ፡ ዳን ፡ ዘተወልደ ፡ ለእስራኤል ፡ ወስማሰ ፡ ለይእቲ ፡\n                  ሀገር ፡ ቀዲሙ ፡ [ሌሳ] ።",
-      "translation": "",
+      "translation": "And they called the name of the city Dan, after the name of Dan their father, who was born to Israel; and the name of the city was Ulamais before.",
       "words": [
         {
           "g": "ወሰመዩ",
@@ -3059,7 +3059,7 @@
     {
       "num": 30,
       "geez": "ወአቀሙ ፡ ሎሙ ፡ ደቂቀ ፡ ዳን ፡ ግልፎ ፡ ዘሚካ ፡ ወዮናታን ፡ ወልደ ፡ ጌርሶም ፡ ወልደ ፡ ምናሴ ፡ ውእቱ ፡ ወደቂቁ\n                  ፡ ካህናት ፡ እሙንቱ ፡ ለሕዝበ ፡ ዳን ፡ እስከ ፡ አመ ፡ ፈለሰት ፡ ምድሮሙ ።",
-      "translation": "",
+      "translation": "And the children of Dan set up the graven image for themselves; and Jonathan son of Gerson son of Manasse, he and his sons were priests to the tribe of Dan till the time of the carrying away of the nation.",
       "words": [
         {
           "g": "ወአቀሙ",
@@ -3175,7 +3175,7 @@
     {
       "num": 31,
       "geez": "ወአቀሙ ፡ ሎሙ ፡ ግልፎ ፡ ዘሚካ ፡ ዘገብረ ፡ በኵሉ ፡ መዋዕል ፡ አምጣነ ፡ ነበረ ፡ ቤተ ፡ እግዚአብሔር ፡ ውስተ ፡\n                  ሴሎም ።",
-      "translation": "",
+      "translation": "And they set up for themselves the graven image which Michaias made, all the days that the house of God was in Selom; and it was so in those days that there was no king in Israel.",
       "words": [
         {
           "g": "ወአቀሙ",

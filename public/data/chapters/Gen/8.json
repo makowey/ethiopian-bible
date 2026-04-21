@@ -5,7 +5,7 @@
     {
       "num": 1,
       "geez": "ወተዘከሮ ፡ እግዚአብሔር ፡ ለኖኅ ፡ ወለኵሉ ፡ አራዊት ፡ ወለኵሉ ፡ እንስሳ ፡ ወለኵሉ ፡ ዘሀሎ ፡ ምስሌሁ ፡ ውስተ ፡\n                  ታቦት ፡ ወአምጽአ ፡ እግዚአብሔር ፡ መንፈሰ ፡ ላዕለ ፡ ምድር ፡ ወተነትገ ፡ ማይ ።",
-      "translation": "",
+      "translation": "And God remembered Noe, and all the wild beasts, and all the cattle, and all the birds, and all the reptiles that creep, as many as were with him in the ark, and God brought a wind upon the earth, and the water stayed.",
       "words": [
         {
           "g": "ወተዘከሮ",
@@ -111,7 +111,7 @@
     {
       "num": 2,
       "geez": "ወተዐጽወ ፡ አንቅዕተ ፡ ቀላይ ፡ ወአስራበ ፡ ሰማይኒ ፡ ተእኅዘ ፡ ወቆመ ፡ ዝናም ፡ እምነ ፡ ሰማይ ።",
-      "translation": "",
+      "translation": "And the fountains of the deep were closed up, and the flood-gates of heaven, and the rain from heaven was withheld.",
       "words": [
         {
           "g": "ወተዐጽወ",
@@ -172,7 +172,7 @@
     {
       "num": 3,
       "geez": "ወአኀዘ ፡ ይኅልቅ ፡ ማይ ፡ ወይሑር ፡ እምነ ፡ ምድር ፡ ወእምድኅረ ፡ ፻ወ፶ዕለት ፡ ሐጸ ፡ ማይ ።",
-      "translation": "",
+      "translation": "And the water subsided, and went off the earth, and after an hundred and fifty days the water was diminished, and the ark rested in the seventh month, on the twenty-seventh day of the month, on the mountains of Ararat.",
       "words": [
         {
           "g": "ወአኀዘ",
@@ -233,7 +233,7 @@
     {
       "num": 4,
       "geez": "ወነበረት ፡ ይእቲ ፡ ታቦት ፡ በሳብዕ ፡ ወርኅ ፡ አመ ፡ ዐሡሩ ፡ ወሰኑዩ ፡ ለጽልመት ፡ ውስተ ፡ አድባረ ፡ አራራት ።",
-      "translation": "",
+      "translation": "And the water continued to decrease until the tenth month.",
       "words": [
         {
           "g": "ወነበረት",
@@ -304,7 +304,7 @@
     {
       "num": 5,
       "geez": "ወማይሰ ፡ የሐጽጽ ፡ ወይትነተግ ፡ እስከ ፡ ፲ወርኅ ፡ ወአመ ፡ ኮነ ፡ ፲ወ፩አውራኅ ፡ አመ ፡ ርእሰ ፡ ሠርቀ ፡ ወርኅ ፡\n                  አስተርአየ ፡ አርእስቲሆሙ ፡ ለአድበር ።",
-      "translation": "",
+      "translation": "And in the tenth month, on the first day of the month, the heads of the mountains were seen.",
       "words": [
         {
           "g": "ወማይሰ",
@@ -390,7 +390,7 @@
     {
       "num": 6,
       "geez": "ወኮነ ፡ እምድኅረ ፡ አርብዓ ፡ ዕለት ፡ አርኀወ ፡ መስኮታ ፡ ለታቦት ፡ ኖኅ ፡ እንተ ፡ ገብረ ።",
-      "translation": "",
+      "translation": "And it came to pass after forty days Noe opened the window of the ark which he had made.",
       "words": [
         {
           "g": "ወኮነ",
@@ -451,7 +451,7 @@
     {
       "num": 7,
       "geez": "ወፈነዎ ፡ ለቋዕ ፡ ከመ ፡ ይርአይ ፡ እመ ፡ ተነትገ ፡ ማይ ፡ እምነ ፡ ገጸ ፡ ምድር ፡ ወሖረ ፡ ወኢገብአ ፡ እስከ ፡\n                  ኀልቀ ፡ ማይ ፡ እምነ ፡ ምድር ።",
-      "translation": "",
+      "translation": "And he sent forth a raven; and it went forth and returned not until the water was dried from off the earth.",
       "words": [
         {
           "g": "ወፈነዎ",
@@ -547,7 +547,7 @@
     {
       "num": 8,
       "geez": "ወፈነዋ ፡ ለርግብ ፡ እምድኅሬሁ ፡ ከመ ፡ ትርአይ ፡ እመ ፡ ነትገ ፡ ማይ ፡ እምገጸ ፡ ምድር ።",
-      "translation": "",
+      "translation": "And he sent a dove after it to see if the water had ceased from off the earth.",
       "words": [
         {
           "g": "ወፈነዋ",
@@ -608,7 +608,7 @@
     {
       "num": 9,
       "geez": "ወኢረከበት ፡ ኀበ ፡ ታዐርፍ ፡ እግራ ፡ ወገብአት ፡ ኀቤሁ ፡ ውስተ ፡ ታቦት ፡ እስመ ፡ ማይ ፡ ሀሎ ፡ ውስተ ፡ ኵሉ ፡\n                  ገጸ ፡ ምድር ፡ ወሰፍሐ ፡ እዴሁ ፡ ወነሥኣ ፡ ውስተ ፡ ታቦት ፡ ኀቤሁ ።",
-      "translation": "",
+      "translation": "And the dove not having found rest for her feet, returned to him into the ark, because the water was on all the face of the earth, and he stretched out his hand and took her, and brought her to himself into the ark.",
       "words": [
         {
           "g": "ወኢረከበት",
@@ -724,7 +724,7 @@
     {
       "num": 10,
       "geez": "ወተዐጊሶ ፡ ሰቡዐ ፡ መዋዕለ ፡ ካዕበ ፡ ፈነዋ ፡ ለርግብ ፡ ውስተ ፡ ምድር ፡ (ከመ ፡ ትርአይ) ።",
-      "translation": "",
+      "translation": "And having waited yet seven other days, he again sent forth the dove from the ark.",
       "words": [
         {
           "g": "ወተዐጊሶ",
@@ -785,7 +785,7 @@
     {
       "num": 11,
       "geez": "ወገብአት ፡ ኀቤሁ ፡ ርግብ ፡ ፍና ፡ ሰርክ ፡ ወባቲ ፡ ውስተ ፡ አፉሃ ፡ ቈጽለ ፡ ዘይት ፡ ወአእመረ ፡ ኖኅ ፡ ከመ ፡\n                  ተነትገ ፡ ማይ ፡ እምነ ፡ ምድር ።",
-      "translation": "",
+      "translation": "And the dove returned to him in the evening, and had a leaf of olive, a sprig in her mouth; and Noe knew that the water had ceased from off the earth.",
       "words": [
         {
           "g": "ወገብአት",
@@ -881,7 +881,7 @@
     {
       "num": 12,
       "geez": "ወተዐጊሦ ፡ ካዕበ ፡ ሰቡዐ ፡ መዋዕለ ፡ ፈነዋ ፡ ለርግብ ፡ ወኢደገመት ፡ ገቢአ ፡ ኀቤሁ ።",
-      "translation": "",
+      "translation": "And having waited yet seven other days, he again sent forth the dove, and she did not return to him again any more.",
       "words": [
         {
           "g": "ወተዐጊሦ",
@@ -937,7 +937,7 @@
     {
       "num": 13,
       "geez": "ወአመ ፡ ኮነ ፡ ፯፻ወ፩ዓመተ ፡ እምነ ፡ ሕይወቱ ፡ ለኖኅ ፡ አመ ፡ ርእሰ ፡ ሠርቀ ፡ ወርኅ ፡ [ቀዳማይ ፡] ኀልቀ ፡\n                  ማይ ፡ እምነ ፡ ምድር ፡ ወከሠታ ፡ ኖኅ ፡ ለጠፈራ ፡ ለታቦት ፡ እንተ ፡ ገብረ ፡ ወርእየ ፡ ከመ ፡ ኀልቀ ፡ ማይ ፡ እምገጸ\n                  ፡ ምድር ።",
-      "translation": "",
+      "translation": "And it came to pass in the six hundred and first year of the life of Noe, in the first month, on the first day of the month, the water subsided from off the earth, and Noe opened the covering of the ark which he had made, and he saw that the water had subsided from the face of the earth.",
       "words": [
         {
           "g": "ወአመ",
@@ -1083,7 +1083,7 @@
     {
       "num": 14,
       "geez": "ወበካልእ ፡ ወርኅ ፡ አመ ፡ ዐሡሩ ፡ ወሰኑዩ ፡ የብሰት ፡ ምድር ።",
-      "translation": "",
+      "translation": "And in the second month the earth was dried, on the twenty-seventh day of the month.",
       "words": [
         {
           "g": "ወበካልእ",
@@ -1129,7 +1129,7 @@
     {
       "num": 15,
       "geez": "ወይቤሎ ፡ እግዚአብሔር ፡ ለኖኅ ፡ እንዘ ፡ ይብል ።",
-      "translation": "",
+      "translation": "And the Lord God spoke to Noe, saying,",
       "words": [
         {
           "g": "ወይቤሎ",
@@ -1165,7 +1165,7 @@
     {
       "num": 16,
       "geez": "ፃእ ፡ እምነ ፡ ታቦት ፡ አንተ ፡ ወብእሲትከ ፡ ወደቂቅከ ፡ ወአንስትያ ፡ ደቂቅከ ፤",
-      "translation": "",
+      "translation": "Come out from the ark, thou and thy wife and thy sons, and thy sons' wives with thee.",
       "words": [
         {
           "g": "ፃእ",
@@ -1216,7 +1216,7 @@
     {
       "num": 17,
       "geez": "ወኵሉ ፡ ዘሀሎ ፡ ምስሌከ ፡ ወኵሉ ፡ ዘሥጋ ፡ እምነ ፡ ዖፍ ፡ እስከ ፡ እንስሳ ፡ ወኵሉ ፡ ዘይትሐወስ ፡ ዲበ ፡ ምድር\n                  ፡ አውፅእ ፡ ምስሌከ ፡ ወብዝኁ ፡ ወተባዝኁ ፡ ዲበ ፡ ምድር ።",
-      "translation": "",
+      "translation": "And all the wild beasts as many as are with thee, and all flesh both of birds and beasts, and every reptile moving upon the earth, bring forth with thee: and increase ye and multiply upon the earth.",
       "words": [
         {
           "g": "ወኵሉ",
@@ -1322,7 +1322,7 @@
     {
       "num": 18,
       "geez": "ወወፅአ ፡ ኖኅ ፡ ወብእሲቱ ፡ ወደቂቁ ፡ ወአንስትያ ፡ ደቂቁ ፡ ምስሌሁ ።",
-      "translation": "",
+      "translation": "And Noe came forth, and his wife and his sons, and his sons' wives with him.",
       "words": [
         {
           "g": "ወወፅአ",
@@ -1368,7 +1368,7 @@
     {
       "num": 19,
       "geez": "ወኵሉ ፡ አራዊት ፡ ወእንስሳ ፡ ወአዕዋፋት ፡ ወኵሉ ፡ ዘይትሐወስ ፡ ዲበ ፡ ምድር ፡ በበዘመዶሙ ፡ ወወጽኡ ፡ እምነ ፡\n                  ታቦት ።",
-      "translation": "",
+      "translation": "And all the wild beasts and all the cattle and every bird, and every reptile creeping upon the earth after their kind, came forth out of the ark.",
       "words": [
         {
           "g": "ወኵሉ",
@@ -1439,7 +1439,7 @@
     {
       "num": 20,
       "geez": "ወነደቀ ፡ ኖኅ ፡ ምሥዋዐ ፡ ለእግዚአብሔር ፡ ወነሥአ ፡ እምነ ፡ እንስሳ ፡ ወኵሎ ፡ ዘንጹሕ ፡ ወአዕረገ ፡ ቍርባነ ፡\n                  ዲበ ፡ ምሥዋዑ ።",
-      "translation": "",
+      "translation": "And Noe built an altar to the Lord, and took of all clean beasts, and of all clean birds, and offered a whole burnt-offering upon the altar.",
       "words": [
         {
           "g": "ወነደቀ",
@@ -1515,7 +1515,7 @@
     {
       "num": 21,
       "geez": "ወአጼነወ ፡ እግዚአብሔር ፡ መዐዛ ፡ ሠናየ ፡ ወይቤ ፡ እግዚአብሔር ፡ ሐለይኩ ፡ ከመ ፡ ኢይደግም ፡ ረጊሞታ ፡ ለምድር ፡\n                  በእንተ ፡ ምግባሩ ፡ ለእጓለ ፡ እመሕያው ፡ እስመ ፡ ሥዩም ፡ ውስተ ፡ ልቦሙ ፡ ለእጓለ ፡ እመሕያው ፡ እኪት ፡ በኵሉ ፡ ጊዜ\n                  ፡ እምነ ፡ ንእሶሙ ፡ ወኢይደግም ፡ እንከ ፡ አማስኖቶ ፡ ለኵሉ ፡ ዘሥጋ ፡ ዘሕያው ፡ በከመ ፡ ገበርኩ ።",
-      "translation": "",
+      "translation": "And the Lord God smelled a smell of sweetness, and the Lord God having considered, said, I will not any more curse the earth, because of the works of men, because the imagination of man is intently bent upon evil things from his youth, I will not therefore any more smite all living flesh as I have done.",
       "words": [
         {
           "g": "ወአጼነወ",
@@ -1696,7 +1696,7 @@
     {
       "num": 22,
       "geez": "ኵሎ ፡ መዋዕሊሃ ፡ ለምድር ፡ ዘርአ ፡ ወማእረረ ፡ ቍረ ፡ ወሃፈ ፡ ሐጋየ ፡ ወክረምተ ፡ መዓልተ ፡ ወሌሊተ ፡\n                  ዘኢይትኀደግ ።",
-      "translation": "",
+      "translation": "All the days of the earth, seed and harvest, cold and heat, summer and spring, shall not cease by day or night.",
       "words": [
         {
           "g": "ኵሎ",

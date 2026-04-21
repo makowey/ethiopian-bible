@@ -6,7 +6,8 @@
     "section": "Unique to Ethiopia",
     "chapters": 108,
     "source_id": "LIT1340EnochE",
-    "short": "1 Enoch"
+    "short": "1 Enoch",
+    "hasTranslation": true
   },
   {
     "abbrev": "Jub",
@@ -15,7 +16,8 @@
     "section": "Unique to Ethiopia",
     "chapters": 50,
     "source_id": "LIT1697Jubilees",
-    "short": "Jubilees"
+    "short": "Jubilees",
+    "hasTranslation": true
   },
   {
     "abbrev": "3Meq",
@@ -24,7 +26,8 @@
     "section": "Unique to Ethiopia",
     "chapters": 10,
     "source_id": "LIT5839ThirdEthioMaccabees",
-    "short": "3 Meqabyan"
+    "short": "3 Meqabyan",
+    "hasTranslation": false
   },
   {
     "abbrev": "4Bar",
@@ -33,7 +36,8 @@
     "section": "Unique to Ethiopia",
     "chapters": 9,
     "source_id": "LIT2167Parali",
-    "short": "4 Baruch"
+    "short": "4 Baruch",
+    "hasTranslation": true
   },
   {
     "abbrev": "KN",
@@ -42,7 +46,8 @@
     "section": "Unique to Ethiopia",
     "chapters": 119,
     "source_id": "LIT1709Kebran",
-    "short": "Kebra Nagast"
+    "short": "Kebra Nagast",
+    "hasTranslation": true
   },
   {
     "abbrev": "Lef",
@@ -51,7 +56,8 @@
     "section": "Unique to Ethiopia",
     "chapters": 7,
     "source_id": "LIT1758Lefafa",
-    "short": "Lefafa Sedq"
+    "short": "Lefafa Sedq",
+    "hasTranslation": false
   },
   {
     "abbrev": "MysHE",
@@ -60,7 +66,8 @@
     "section": "Unique to Ethiopia",
     "chapters": 4,
     "source_id": "LIT1954Mashaf",
-    "short": "Mysteries"
+    "short": "Mysteries",
+    "hasTranslation": false
   },
   {
     "abbrev": "TestLd",
@@ -69,7 +76,8 @@
     "section": "Unique to Ethiopia",
     "chapters": 60,
     "source_id": "LIT2461Testam",
-    "short": "Test. Lord"
+    "short": "Test. Lord",
+    "hasTranslation": false
   },
   {
     "abbrev": "Teach",
@@ -78,7 +86,8 @@
     "section": "Unique to Ethiopia",
     "chapters": 5,
     "source_id": "LIT2444Temher",
-    "short": "Teaching"
+    "short": "Teaching",
+    "hasTranslation": false
   },
   {
     "abbrev": "Sinod",
@@ -87,7 +96,8 @@
     "section": "Unique to Ethiopia",
     "chapters": 36,
     "source_id": "LIT1047Aksumi",
-    "short": "Sinodos"
+    "short": "Sinodos",
+    "hasTranslation": false
   },
   {
     "abbrev": "Synax",
@@ -96,7 +106,8 @@
     "section": "Unique to Ethiopia",
     "chapters": 1,
     "source_id": "LIT4032SenkessarS",
-    "short": "Synaxarion"
+    "short": "Synaxarion",
+    "hasTranslation": false
   },
   {
     "abbrev": "Tob",
@@ -105,7 +116,8 @@
     "section": "Deuterocanonical",
     "chapters": 14,
     "source_id": "LIT2473TobitB",
-    "short": "Tobit"
+    "short": "Tobit",
+    "hasTranslation": true
   },
   {
     "abbrev": "Jdt",
@@ -114,7 +126,8 @@
     "section": "Deuterocanonical",
     "chapters": 16,
     "source_id": "LIT1701Judith",
-    "short": "Judith"
+    "short": "Judith",
+    "hasTranslation": true
   },
   {
     "abbrev": "Sir",
@@ -123,7 +136,8 @@
     "section": "Deuterocanonical",
     "chapters": 51,
     "source_id": "LIT2358Sirach",
-    "short": "Sirach"
+    "short": "Sirach",
+    "hasTranslation": true
   },
   {
     "abbrev": "Wis",
@@ -132,7 +146,8 @@
     "section": "Deuterocanonical",
     "chapters": 19,
     "source_id": "LIT2516Wisdom",
-    "short": "Wisdom"
+    "short": "Wisdom",
+    "hasTranslation": true
   },
   {
     "abbrev": "1Meq",
@@ -141,7 +156,8 @@
     "section": "Deuterocanonical",
     "chapters": 36,
     "source_id": "LIT1819Maccab",
-    "short": "1 Meqabyan"
+    "short": "1 Meqabyan",
+    "hasTranslation": false
   },
   {
     "abbrev": "Lam",
@@ -150,7 +166,8 @@
     "section": "Deuterocanonical",
     "chapters": 5,
     "source_id": "LIT1753Lament",
-    "short": "Lament."
+    "short": "Lament.",
+    "hasTranslation": true
   },
   {
     "abbrev": "Gen",
@@ -159,7 +176,8 @@
     "section": "Other",
     "chapters": 50,
     "source_id": "LIT1546Genesi",
-    "short": "Genesis"
+    "short": "Genesis",
+    "hasTranslation": true
   },
   {
     "abbrev": "Exod",
@@ -168,7 +186,8 @@
     "section": "Other",
     "chapters": 40,
     "source_id": "LIT1367Exodus",
-    "short": "Exodus"
+    "short": "Exodus",
+    "hasTranslation": true
   },
   {
     "abbrev": "Lev",
@@ -177,7 +196,8 @@
     "section": "Other",
     "chapters": 27,
     "source_id": "LIT1793Leviti",
-    "short": "Leviticus"
+    "short": "Leviticus",
+    "hasTranslation": true
   },
   {
     "abbrev": "Num",
@@ -186,7 +206,8 @@
     "section": "Other",
     "chapters": 36,
     "source_id": "LIT2075Number",
-    "short": "Numbers"
+    "short": "Numbers",
+    "hasTranslation": true
   },
   {
     "abbrev": "Deut",
@@ -195,7 +216,8 @@
     "section": "Other",
     "chapters": 34,
     "source_id": "LIT2637Deuteronomy",
-    "short": "Deuter."
+    "short": "Deuter.",
+    "hasTranslation": true
   },
   {
     "abbrev": "Josh",
@@ -204,7 +226,8 @@
     "section": "Other",
     "chapters": 24,
     "source_id": "LIT1696Joshua",
-    "short": "Joshua"
+    "short": "Joshua",
+    "hasTranslation": true
   },
   {
     "abbrev": "Judg",
@@ -213,7 +236,8 @@
     "section": "Other",
     "chapters": 21,
     "source_id": "LIT1700Judges",
-    "short": "Judges"
+    "short": "Judges",
+    "hasTranslation": true
   },
   {
     "abbrev": "Ruth",
@@ -222,7 +246,8 @@
     "section": "Other",
     "chapters": 4,
     "source_id": "LIT2229RuthBo",
-    "short": "Ruth"
+    "short": "Ruth",
+    "hasTranslation": true
   },
   {
     "abbrev": "Kings",
@@ -231,7 +256,8 @@
     "section": "Other",
     "chapters": 25,
     "source_id": "LIT2700Kings",
-    "short": "Kings"
+    "short": "Kings",
+    "hasTranslation": true
   },
   {
     "abbrev": "Job",
@@ -240,7 +266,8 @@
     "section": "Other",
     "chapters": 42,
     "source_id": "LIT1688Job",
-    "short": "Job"
+    "short": "Job",
+    "hasTranslation": true
   },
   {
     "abbrev": "Prov",
@@ -249,7 +276,18 @@
     "section": "Other",
     "chapters": 26,
     "source_id": "LIT3927Messale",
-    "short": "Proverbs"
+    "short": "Proverbs",
+    "hasTranslation": true
+  },
+  {
+    "abbrev": "Ps",
+    "name": "Psalms",
+    "geez_name": "መዝሙር፡",
+    "section": "Wisdom",
+    "chapters": 151,
+    "source_id": "ps",
+    "short": "Psalms",
+    "hasTranslation": true
   },
   {
     "abbrev": "Eccl",
@@ -258,7 +296,8 @@
     "section": "Other",
     "chapters": 12,
     "source_id": "LIT1320Eccles",
-    "short": "Eccles."
+    "short": "Eccles.",
+    "hasTranslation": true
   },
   {
     "abbrev": "Song",
@@ -267,7 +306,8 @@
     "section": "Other",
     "chapters": 8,
     "source_id": "LIT2362Songof",
-    "short": "Song"
+    "short": "Song",
+    "hasTranslation": true
   },
   {
     "abbrev": "Isa",
@@ -276,7 +316,8 @@
     "section": "Other",
     "chapters": 66,
     "source_id": "LIT1672Isaiah",
-    "short": "Isaiah"
+    "short": "Isaiah",
+    "hasTranslation": true
   },
   {
     "abbrev": "Joel",
@@ -285,7 +326,8 @@
     "section": "Other",
     "chapters": 3,
     "source_id": "LIT1689Joel",
-    "short": "Joel"
+    "short": "Joel",
+    "hasTranslation": true
   },
   {
     "abbrev": "Jonah",
@@ -294,7 +336,8 @@
     "section": "Other",
     "chapters": 4,
     "source_id": "LIT1694Jonah",
-    "short": "Jonah"
+    "short": "Jonah",
+    "hasTranslation": true
   },
   {
     "abbrev": "Clem",
@@ -303,7 +346,8 @@
     "section": "Other",
     "chapters": 67,
     "source_id": "LIT2680ClemPeter",
-    "short": "Clement"
+    "short": "Clement",
+    "hasTranslation": false
   },
   {
     "abbrev": "Ezra",
@@ -312,7 +356,8 @@
     "section": "Other",
     "chapters": 13,
     "source_id": "LIT1374Bookof",
-    "short": "Ezra"
+    "short": "Ezra",
+    "hasTranslation": true
   },
   {
     "abbrev": "ApEz",
@@ -321,6 +366,277 @@
     "section": "Other",
     "chapters": 10,
     "source_id": "LIT1376Apocal",
-    "short": "Apoc. Ezra"
+    "short": "Apoc. Ezra",
+    "hasTranslation": false
+  },
+  {
+    "abbrev": "1Sam",
+    "name": "1 Samuel",
+    "section": "Other",
+    "chapters": 31,
+    "source_id": "1sam",
+    "short": "1 Samuel",
+    "hasTranslation": true
+  },
+  {
+    "abbrev": "2Sam",
+    "name": "2 Samuel",
+    "section": "Other",
+    "chapters": 24,
+    "source_id": "2sam",
+    "short": "2 Samuel",
+    "hasTranslation": true
+  },
+  {
+    "abbrev": "1Kgs",
+    "name": "1 Kings",
+    "section": "Other",
+    "chapters": 22,
+    "source_id": "1kgs",
+    "short": "1 Kings",
+    "hasTranslation": true
+  },
+  {
+    "abbrev": "1Chr",
+    "name": "1 Chronicles",
+    "section": "Other",
+    "chapters": 29,
+    "source_id": "1chr",
+    "short": "1 Chronicles",
+    "hasTranslation": true
+  },
+  {
+    "abbrev": "2Chr",
+    "name": "2 Chronicles",
+    "section": "Other",
+    "chapters": 36,
+    "source_id": "2chr",
+    "short": "2 Chronicles",
+    "hasTranslation": true
+  },
+  {
+    "abbrev": "Neh",
+    "name": "Nehemiah",
+    "section": "Other",
+    "chapters": 13,
+    "source_id": "neh",
+    "short": "Nehemiah",
+    "hasTranslation": true
+  },
+  {
+    "abbrev": "1Esd",
+    "name": "1 Esdras",
+    "section": "Deuterocanonical",
+    "chapters": 9,
+    "source_id": "1esd",
+    "short": "1 Esdras",
+    "hasTranslation": true
+  },
+  {
+    "abbrev": "Jer",
+    "name": "Jeremiah",
+    "section": "Other",
+    "chapters": 52,
+    "source_id": "jer",
+    "short": "Jeremiah",
+    "hasTranslation": true
+  },
+  {
+    "abbrev": "Ezek",
+    "name": "Ezekiel",
+    "section": "Other",
+    "chapters": 48,
+    "source_id": "ezek",
+    "short": "Ezekiel",
+    "hasTranslation": true
+  },
+  {
+    "abbrev": "Dan",
+    "name": "Daniel",
+    "section": "Deuterocanonical",
+    "chapters": 12,
+    "source_id": "dan",
+    "short": "Daniel",
+    "hasTranslation": true
+  },
+  {
+    "abbrev": "Hos",
+    "name": "Hosea",
+    "section": "Other",
+    "chapters": 14,
+    "source_id": "hos",
+    "short": "Hosea",
+    "hasTranslation": true
+  },
+  {
+    "abbrev": "Amos",
+    "name": "Amos",
+    "section": "Other",
+    "chapters": 9,
+    "source_id": "amos",
+    "short": "Amos",
+    "hasTranslation": true
+  },
+  {
+    "abbrev": "Obad",
+    "name": "Obadiah",
+    "section": "Other",
+    "chapters": 1,
+    "source_id": "obad",
+    "short": "Obadiah",
+    "hasTranslation": true
+  },
+  {
+    "abbrev": "Mic",
+    "name": "Micah",
+    "section": "Other",
+    "chapters": 7,
+    "source_id": "mic",
+    "short": "Micah",
+    "hasTranslation": true
+  },
+  {
+    "abbrev": "Nah",
+    "name": "Nahum",
+    "section": "Other",
+    "chapters": 3,
+    "source_id": "nah",
+    "short": "Nahum",
+    "hasTranslation": true
+  },
+  {
+    "abbrev": "Hab",
+    "name": "Habakkuk",
+    "section": "Other",
+    "chapters": 3,
+    "source_id": "hab",
+    "short": "Habakkuk",
+    "hasTranslation": true
+  },
+  {
+    "abbrev": "Zeph",
+    "name": "Zephaniah",
+    "section": "Other",
+    "chapters": 3,
+    "source_id": "zeph",
+    "short": "Zephaniah",
+    "hasTranslation": true
+  },
+  {
+    "abbrev": "Hag",
+    "name": "Haggai",
+    "section": "Other",
+    "chapters": 2,
+    "source_id": "hag",
+    "short": "Haggai",
+    "hasTranslation": true
+  },
+  {
+    "abbrev": "Zech",
+    "name": "Zechariah",
+    "section": "Other",
+    "chapters": 14,
+    "source_id": "zech",
+    "short": "Zechariah",
+    "hasTranslation": true
+  },
+  {
+    "abbrev": "Mal",
+    "name": "Malachi",
+    "section": "Other",
+    "chapters": 3,
+    "source_id": "mal",
+    "short": "Malachi",
+    "hasTranslation": true
+  },
+  {
+    "abbrev": "Bar",
+    "name": "Baruch",
+    "section": "Deuterocanonical",
+    "chapters": 5,
+    "source_id": "bar",
+    "short": "Baruch",
+    "hasTranslation": true
+  },
+  {
+    "abbrev": "EpJer",
+    "name": "Epistle of Jeremiah",
+    "section": "Deuterocanonical",
+    "chapters": 1,
+    "source_id": "epjer",
+    "short": "Epistle of Jeremiah",
+    "hasTranslation": true
+  },
+  {
+    "abbrev": "Sus",
+    "name": "Susanna",
+    "section": "Deuterocanonical",
+    "chapters": 1,
+    "source_id": "sus",
+    "short": "Susanna",
+    "hasTranslation": true
+  },
+  {
+    "abbrev": "Bel",
+    "name": "Bel & the Dragon",
+    "section": "Deuterocanonical",
+    "chapters": 1,
+    "source_id": "bel",
+    "short": "Bel & the Dragon",
+    "hasTranslation": true
+  },
+  {
+    "abbrev": "EsthGk",
+    "name": "Esther (Greek)",
+    "section": "Deuterocanonical",
+    "chapters": 10,
+    "source_id": "esthgk",
+    "short": "Esther (Greek)",
+    "hasTranslation": true
+  },
+  {
+    "abbrev": "PrMan",
+    "name": "Prayer of Manasseh",
+    "section": "Deuterocanonical",
+    "chapters": 1,
+    "source_id": "prman",
+    "short": "Prayer of Manasseh",
+    "hasTranslation": true
+  },
+  {
+    "abbrev": "1Macc",
+    "name": "1 Maccabees",
+    "section": "Deuterocanonical",
+    "chapters": 16,
+    "source_id": "1macc",
+    "short": "1 Maccabees",
+    "hasTranslation": true
+  },
+  {
+    "abbrev": "2Macc",
+    "name": "2 Maccabees",
+    "section": "Deuterocanonical",
+    "chapters": 15,
+    "source_id": "2macc",
+    "short": "2 Maccabees",
+    "hasTranslation": true
+  },
+  {
+    "abbrev": "3Macc",
+    "name": "3 Maccabees",
+    "section": "Deuterocanonical",
+    "chapters": 7,
+    "source_id": "3macc",
+    "short": "3 Maccabees",
+    "hasTranslation": true
+  },
+  {
+    "abbrev": "4Macc",
+    "name": "4 Maccabees",
+    "section": "Deuterocanonical",
+    "chapters": 18,
+    "source_id": "4macc",
+    "short": "4 Maccabees",
+    "hasTranslation": true
   }
 ]

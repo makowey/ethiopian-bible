@@ -5,7 +5,7 @@
     {
       "num": 1,
       "geez": "ወነበቦሙ ፡ እግዚአብሔር ፡ ለሙሴ ፡ ወለአሮን ፡ ወይቤሎሙ ፤",
-      "translation": "",
+      "translation": "And the Lord spoke to Moses and Aaron, saying,",
       "words": [
         {
           "g": "ወነበቦሙ",
@@ -41,7 +41,7 @@
     {
       "num": 2,
       "geez": "ንግርዎሙ ፡ ለደቂቀ ፡ እስራኤል ፡ ወበልዎሙ ፡ ዝንቱ ፡ ውእቱ ፡ እንስሳ ፡ ዘትበልዑ ፡ እምውስተ ፡ ኵሉ ፡ እንስሳ ፡\n                  ዘሀሎ ፡ ዲበ ፡ ምድር ።",
-      "translation": "",
+      "translation": "Speak ye to the sons of Israel, saying, These are the beasts which ye shall eat of all beasts that are upon the earth.",
       "words": [
         {
           "g": "ንግርዎሙ",
@@ -122,7 +122,7 @@
     {
       "num": 3,
       "geez": "ኵሉ ፡ እንስሳ ፡ ዘንፉቅ ፡ ሰኰናሁ ፡ ወሥጡቅ ፡ ጽፍሩ ፡ ማእከሉ ፡ ወእንተ ፡ ክልኤቲ ፡ ውእቱ ፡ ወዘይትመሠኳዕ ፡\n                  እምውስተ ፡ እንስሳ ፡ ኪያሁ ፡ ብልዑ ።",
-      "translation": "",
+      "translation": "Every beast parting the hoof and making divisions of two claws, and chewing the cud among beasts, these ye shall eat.",
       "words": [
         {
           "g": "ኵሉ",
@@ -208,7 +208,7 @@
     {
       "num": 4,
       "geez": "ወዝንቱ ፡ ባሕቱ ፡ ዘኢትበልዑ ፡ እምውስተ ፡ ዘይትመሠኳዕ ፡ ወእምነ ፡ ዘንፉቅ ፡ ሰኰናሁ ፡ ገመል ፡ እስመ ፡ ይትመሠኳዕ\n                  ፡ ወኢኮነ ፡ ንፉቀ ፡ ሰኰናሁ ፡ ዝንቱ ፡ ርኩስ ፡ ውእቱ ፡ ለክሙ ።",
-      "translation": "",
+      "translation": "But of these ye shall not eat, of those that chew the cud, and of those that part the hoofs, and divide claws; the camel, because it chews the cud, but does not divide the hoof, this is unclean to you.",
       "words": [
         {
           "g": "ወዝንቱ",
@@ -309,7 +309,7 @@
     {
       "num": 5,
       "geez": "ወደሲጶዳሂ ፡ እስመ ፡ ይትመሠኳዕ ፡ ወኢኮነ ፡ ንፉቀ ፡ ሰኰናሁ ፡ ወዝንቱኒ ፡ ርኩስ ፡ ውእቱ ፡ ለክሙ ።",
-      "translation": "",
+      "translation": "And the rabbit, because it chews the cud, but does not divide the hoof, this is unclean to you.",
       "words": [
         {
           "g": "ወደሲጶዳሂ",
@@ -370,7 +370,7 @@
     {
       "num": 6,
       "geez": "ወኪሮግርሊዮስ[ኒ] ፡ እስመ ፡ ይትመሠኳዕ ፡ ወኢኮነ ፡ ንፉቀ ፡ ሰኰናሁ ፡ ወውእቱኒ ፡ ርኩስ ፡ ውእቱ ፡ ለክሙ ።",
-      "translation": "",
+      "translation": "And the hare, because it does not chew the cud, and does not divide the hoof, this is unclean to you.",
       "words": [
         {
           "g": "ወኪሮግርሊዮስኒ",
@@ -431,7 +431,7 @@
     {
       "num": 7,
       "geez": "ወሐራውያኒ ፡ እስመ ፡ ንፉቅ ፡ ሰኰናሁ ፡ ወሥጡቅ ፡ እምነ ፡ ማእከለ ፡ ጽፈሪሁ ፡ ወኢይትመሠኳዕ ፡ ወውእቱኒ ፡ ርኩስ ፡\n                  ውእቱ ፡ ለክሙ ።",
-      "translation": "",
+      "translation": "And the swine, because this animal divides the hoof, and makes claws of the hoof, and it does not chew the cud, is unclean to you.",
       "words": [
         {
           "g": "ወሐራውያኒ",
@@ -507,7 +507,7 @@
     {
       "num": 8,
       "geez": "እምነ ፡ ሥጋሆሙ ፡ ኢትብልዑ ፡ ወበድኖሙኒ ፡ ኢትግስሱ ፡ እስመ ፡ ርኩሳን ፡ ውእቶሙ ፡ ለክሙ ።",
-      "translation": "",
+      "translation": "Ye shall not eat of their flesh, and ye shall not touch their carcases; these are unclean to you.",
       "words": [
         {
           "g": "እምነ",
@@ -563,7 +563,7 @@
     {
       "num": 9,
       "geez": "ወዝንቱ ፡ ዘትበልዑ ፡ እምነ ፡ ኵሉ ፡ ዘውስተ ፡ ማይ ፡ ኵሎ ፡ ዘቦ ፡ ክንፈ ፡ ወቅሣረ ፡ ዘሀሎ ፡ ውስተ ፡ ማይ ፡\n                  ወውስተ ፡ ባሕር ፡ ወውስተ ፡ አፍላግ ፡ ውእቱ ፡ ዘትበልዑ ።",
-      "translation": "",
+      "translation": "And these are what ye shall eat of all that are in the waters: all things that have fins and scales in the waters, and in the seas, and in the brooks, these ye shall eat.",
       "words": [
         {
           "g": "ወዝንቱ",
@@ -669,7 +669,7 @@
     {
       "num": 10,
       "geez": "ወኵሉ ፡ ዘአልቦ ፡ ክንፈ ፡ ወቅሣረ ፡ ዘውስተ ፡ ማይ ፡ ወዘውስተ ፡ ባሕር ፡ ወዘውስተ ፡ አፍላግ ፡ እምነ ፡ ኵሉ ፡\n                  ዘይጐሥዕ ፡ ማይ ፡ ወእምነ ፡ ኵሉ ፡ ነፍስ ፡ እንተ ፡ ሕያውት ፡ ውስተ ፡ ማይ ፡ ርኩስ ፡ ውእቱ ።",
-      "translation": "",
+      "translation": "And all things which have not fins or scales in the water, or in the seas, and in the brooks, of all which the waters produce, and of every soul living in the water, are an abomination; and they shall be abominations to you.",
       "words": [
         {
           "g": "ወኵሉ",
@@ -795,7 +795,7 @@
     {
       "num": 11,
       "geez": "ወርኩሰ ፡ ይኩንክሙ ፡ እምነ ፡ ሥጋሆሙ ፡ ኢትብልዑ ፡ ወበድኖሙኒ ፡ አስቆርሩ ።",
-      "translation": "",
+      "translation": "Ye shall not eat of their flesh, and ye shall abhor their carcases.",
       "words": [
         {
           "g": "ወርኩሰ",
@@ -841,7 +841,7 @@
     {
       "num": 12,
       "geez": "ወኵሉ ፡ ዘአልቦ ፡ ክንፈ ፡ ወቅሣረ ፡ እምነ ፡ ዘውስተ ፡ ማይ ፡ ርኩስ ፡ ውእቱ ፡ ለክሙ ።",
-      "translation": "",
+      "translation": "And all things that have not fins or scales of those that are in the waters, these are an abomination to you.",
       "words": [
         {
           "g": "ወኵሉ",
@@ -902,7 +902,7 @@
     {
       "num": 13,
       "geez": "ወዝንቱ ፡ ዘታስቆርሩ ፡ እምነ ፡ አዕዋፍ ፡ ወዘኢትበልዑ ፡ እስመ ፡ ርኩስ ፡ ውእቱ ፡ ንስር ፡ ወግሪጳ ፡ ወአልያጦን ፤",
-      "translation": "",
+      "translation": "And these are the things which ye shall abhor of birds, and they shall not be eaten, they are an abomination: the eagle and the ossifrage, and the sea-eagle.",
       "words": [
         {
           "g": "ወዝንቱ",
@@ -968,7 +968,7 @@
     {
       "num": 14,
       "geez": "ወ[ጊጳ] ፡ ወግለውቃ ፡ ወሆባይ ፡ ወኵሉ ፡ ዘአምሳሉ ።",
-      "translation": "",
+      "translation": "And the vulture, and the kite, and the like to it;",
       "words": [
         {
           "g": "ወጊጳ",
@@ -1004,7 +1004,7 @@
     {
       "num": 15,
       "geez": "ወቋዕ ፡ ወኵሉ ፡ ዘአምሳሉ ፤",
-      "translation": "",
+      "translation": "and the sparrow, and the owl, and the sea-mew, and the like to it:",
       "words": [
         {
           "g": "ወቋዕ",
@@ -1030,7 +1030,7 @@
     {
       "num": 16,
       "geez": "ወሰገኖ ፡ ወኵሉ ፡ ዘአምሳሉ ፡ ወለሮን ፡ ወዘአምሳሉ ፡ ወጕዛ ፡ ወዘአምሳሉ ፤",
-      "translation": "",
+      "translation": "and every raven, and the birds like it, and the hawk and his like,",
       "words": [
         {
           "g": "ወሰገኖ",
@@ -1076,7 +1076,7 @@
     {
       "num": 17,
       "geez": "ወጉጓ ፡ ወቀጠራቅጤን ፡ ወኢብን ፤",
-      "translation": "",
+      "translation": "and the night-raven and the cormorant and the stork,",
       "words": [
         {
           "g": "ወጉጓ",
@@ -1102,7 +1102,7 @@
     {
       "num": 18,
       "geez": "ወጶርፍሪየና ፡ ወአድገ ፡ መረብ ፡ ወቀቀኖን ፤",
-      "translation": "",
+      "translation": "and the red-bill, and pelican, and swan,",
       "words": [
         {
           "g": "ወጶርፍሪየና",
@@ -1133,7 +1133,7 @@
     {
       "num": 19,
       "geez": "ወአሮድዮን ፡ ወከራድርዮን ፡ ወዘይመስሎ ፡ ወኤጶጳ ፡ ወፅግነት ።",
-      "translation": "",
+      "translation": "and the heron, and the lapwing, and the like to it, and the hoopoe and the bat.",
       "words": [
         {
           "g": "ወአሮድዮን",
@@ -1169,7 +1169,7 @@
     {
       "num": 20,
       "geez": "ወኵሉ ፡ ዘይትሐወስ ፡ አዕዋፍ ፡ ዘየሐውር ፡ በአርባዕ ፡ ርኩስ ፡ ውእቱ ፡ ለክሙ ።",
-      "translation": "",
+      "translation": "And all winged creatures that creep, which go upon four feet, are abominations to you.",
       "words": [
         {
           "g": "ወኵሉ",
@@ -1220,7 +1220,7 @@
     {
       "num": 21,
       "geez": "አላ ፡ ዝንቱ ፡ ዘትበልፁ ፡ እምነ ፡ ዘይትሐወስ ፡ እምነ ፡ አዕዋፍ ፡ ዘየሐውር ፡ በአርባዕ ፡ ዘቦ ፡ አገዳ ፡ መልዕልተ\n                  ፡ እገሪሁ ፡ በዘ ፡ ይሠርር ፡ ቦቱ ፡ መልዕልተ ፡ ምድር ።",
-      "translation": "",
+      "translation": "But these ye shall eat of the creeping winged animals, which go upon four feet, which have legs above their feet, to leap with on the earth.",
       "words": [
         {
           "g": "አላ",
@@ -1321,7 +1321,7 @@
     {
       "num": 22,
       "geez": "ወዝንቱ ፡ ዘትበልዑ ፡ እምኔሁ ፡ ደገብያ ፡ ወዘአምሳሉ ፡ ወአ[ጣቃ]ን ፡ ወዘአምሳሉ ፡ ወኦፍዮማክን ፡ ወዘአምሳሉ ፡\n                  ወአንበጣ ፡ ወዘአምሳሉ ።",
-      "translation": "",
+      "translation": "And these of them ye shall eat: the caterpillar and his like, and the attacus and his like, and the cantharus and his like, and the locust and his like.",
       "words": [
         {
           "g": "ወዝንቱ",
@@ -1387,7 +1387,7 @@
     {
       "num": 23,
       "geez": "ወእምነ ፡ ዘይሠርር ፡ ዘአርባዕቱ ፡ እገሪሁ ፡ ርኵስ ፡ ውእቱ ፡ ለክሙ ።",
-      "translation": "",
+      "translation": "Every creeping thing from among the birds, which has four feet, is an abomination to you.",
       "words": [
         {
           "g": "ወእምነ",
@@ -1433,7 +1433,7 @@
     {
       "num": 24,
       "geez": "ወቦሙ ፡ ትረኵሱ ፤",
-      "translation": "",
+      "translation": "And by these ye shall be defiled; every one that touches their carcases shall be unclean till the evening.",
       "words": [
         {
           "g": "ወቦሙ",
@@ -1454,7 +1454,7 @@
     {
       "num": 25,
       "geez": "ኵሉ ፡ ዘገሰሰ ፡ በድኖሙ ፡ ርኩስ ፡ ውእቱ ፡ እስከ ፡ ሰርክ ።",
-      "translation": "",
+      "translation": "And every one that takes of their dead bodies shall wash his garments, and shall be unclean till the evening.",
       "words": [
         {
           "g": "ኵሉ",
@@ -1500,7 +1500,7 @@
     {
       "num": 26,
       "geez": "ወኵሉ ፡ ዘአልዐለ ፡ በድኖሙ ፡ የኀፅብ ፡ አልባሲሁ ፡ ወርኩስ ፡ ውእቱ ፡ እስከ ፡ ሰርክ ።",
-      "translation": "",
+      "translation": "And whichever among the beasts divides the hoof and makes claws, and does not chew the cud, shall be unclean to you; every one that touches their dead bodies shall be unclean till evening.",
       "words": [
         {
           "g": "ወኵሉ",
@@ -1556,7 +1556,7 @@
     {
       "num": 27,
       "geez": "ወእምነ ፡ ኵሉ ፡ እንስሳ ፡ ዘንፉቅ ፡ ሰኰናሁ ፡ ወሥጡቅ ፡ ጽፈሪሁ ፡ ወኢይትመሠኳዕ ፡ ርኩስ ፡ ውእቱ ፡ ለክሙ ፡ ኵሉ\n                  ፡ ዘገሰሰ ፡ በድኖሙ ፡ ርኩስ ፡ ውእቱ ።",
-      "translation": "",
+      "translation": "And every one among all the wild beasts that moves upon its fore feet, which goes on all four, is unclean to you; every one that touches their dead bodies shall be unclean till evening.",
       "words": [
         {
           "g": "ወእምነ",
@@ -1647,7 +1647,7 @@
     {
       "num": 28,
       "geez": "ወኵሉ ፡ ዘየሐውር ፡ በእደዊሁ ፡ እምነ ፡ ኵሉ ፡ አራዊት ፡ ዘየሐውር ፡ በአርባዕቱ ፡ ርኩስ ፡ ውእቱ ፡ ለክሙ ፡ ኵሉ ፡\n                  ዘገሰሰ ፡ በድኖሙ ፡ ርኩስ ፡ ውእቱ ፡ እስከ ፡ ሰርክ ።",
-      "translation": "",
+      "translation": "And he that takes of their dead bodies shall wash his garments, and shall be unclean till evening: these are unclean to you.",
       "words": [
         {
           "g": "ወኵሉ",
@@ -1748,7 +1748,7 @@
     {
       "num": 29,
       "geez": "ወዘጾረ ፡ በድኖሙ ፡ የኀፅብ ፡ አልባሲሲሁ ፡ ወርኩስ ፡ ውእቱ ፡ እስከ ፡ ሰርክ ፡ ወዝንቱ ፡ ዘርኩስ ፡ ውእቱ ፡ ለክሙ\n                  ።",
-      "translation": "",
+      "translation": "And these are unclean to you of reptiles upon the earth, the weasel, and the mouse, and the lizard,",
       "words": [
         {
           "g": "ወዘጾረ",
@@ -1819,7 +1819,7 @@
     {
       "num": 30,
       "geez": "ወእምነ ፡ ዘሕያውኒ ፡ ዘይትሐወስ ፡ ውስተ ፡ ምድር ፡ ዝንቱ ፡ ዘርኩስ ፡ ለክሙ ፡ አንጸዋ ፡ ወጽቍጽቌን ፡ ወኀገጽ ፡\n                  ወላጽቄት ፡ ወኀንጶን ፡ ወዐንጉግ ፡ ወጋሌ ፡ ወከሜሌዎን ፡ ወሰጳለክስ ።",
-      "translation": "",
+      "translation": "the ferret, and the chameleon, and the evet, and the newt, and the mole.",
       "words": [
         {
           "g": "ወእምነ",
@@ -1915,7 +1915,7 @@
     {
       "num": 31,
       "geez": "ዝንቱ ፡ ዘርኩስ ፡ ለክሙ ፡ እምኵሉ ፡ ዘሕያው ፡ ዘይትሐወስ ፡ ዲበ ፡ ምድር ፡ ኵሉ ፡ ዘገሰሰ ፡ በድኖሙ ፡ ርኩስ ፡\n                  ውእቱ ፡ እስከ ፡ ሰርክ ።",
-      "translation": "",
+      "translation": "These are unclean to you of all the reptiles which are on the earth; every one who touches their carcases shall be unclean till evening.",
       "words": [
         {
           "g": "ዝንቱ",
@@ -2001,7 +2001,7 @@
     {
       "num": 32,
       "geez": "ወኵሉ ፡ ውስተ ፡ ዘወድቀ ፡ በድኖሙ ፡ ርኩስ ፡ ውእቱ ፡ እምኵሉ ፡ ንዋየ ፡ ዕፅ ፡ አው ፡ ልብስ ፡ አው ፡ ማእስ ፡\n                  አው ፡ ኀስል ፡ እምኵሉ ፡ ንዋይ ፡ ዘይገብሩ ፡ ቦቱ ፡ ግብረ ፡ ውስተ ፡ ማይ ፡ ይጠምዕዎ ፡ ወርኩስ ፡ ውእቱ ፡ እስከ ፡\n                  ሰርክ ፡ ወእምዝ ፡ ንጹሕ ፡ ውእቱ ።",
-      "translation": "",
+      "translation": "And on whatsoever one of their dead bodies shall fall it shall be unclean; whatever wooden vessel, or garment, or skin, or sack it may be, every vessel in which work should be done, shall be dipped in water, and shall be unclean till evening; and then it shall be clean.",
       "words": [
         {
           "g": "ወኵሉ",
@@ -2162,7 +2162,7 @@
     {
       "num": 33,
       "geez": "ወኵሉ ፡ ንዋየ ፡ ልሕኵት ፡ ዘወድቀ ፡ ላዕሌሁ ፡ እምነ ፡ ዝንቱ ፡ ውስተ ፡ ከርሡ ፡ እምከመ ፡ ውስተ ፡ ውስጡ ፡ ወድቀ\n                  ፡ ርኩስ ፡ ውእቱ ፡ ይሰብርዎ ።",
-      "translation": "",
+      "translation": "And every earthen vessel into which one of these things shall fall, whatsoever is inside it, shall be unclean, and it shall be broken.",
       "words": [
         {
           "g": "ወኵሉ",
@@ -2253,7 +2253,7 @@
     {
       "num": 34,
       "geez": "ወኵሉ ፡ በዘ ፡ ትበልዑ ፡ እክለ ፡ ወእመኒ ፡ ተወድየ ፡ ውስቴቱ ፡ ማይ ፡ ርኩስ ፡ ውእቱ ፡ ለክሙ ፡ ወእመኒ ፡ ንዋየ\n                  ፡ ስቴ ፡ በዘ ፡ ቦቱ ፡ ትሰትዩ ፡ ርኩስ ፡ ውእቱኒ ።",
-      "translation": "",
+      "translation": "And all food that is eaten, on which water shall come from such a vessel, shall be unclean; and every beverage which is drunk in any such vessel, shall be unclean.",
       "words": [
         {
           "g": "ወኵሉ",
@@ -2359,7 +2359,7 @@
     {
       "num": 35,
       "geez": "ወኵሉ ፡ ውስተ ፡ ዘወድቀ ፡ በድኖሙ ፡ ርኩስ ፡ ውእቱ ፡ ወእመሰ ፡ እቶን ፡ አው ፡ ምንባረ ፡ መቅጹት ፡ ትነሥትዎ ፡\n                  እስመ ፡ ርኩስ ፡ ወርኩስ ፡ ውእቱ ፡ ለክሙ ።",
-      "translation": "",
+      "translation": "And every thing on which there shall fall of their dead bodies shall be unclean; ovens and stands for jars shall be broken down: these are unclean, and they shall be unclean to you.",
       "words": [
         {
           "g": "ወኵሉ",
@@ -2455,7 +2455,7 @@
     {
       "num": 36,
       "geez": "ዘእንበለ ፡ አንቅዕተ ፡ ማይ ፡ ወዐዘቃት ፡ ወአዕያጋተ ፡ ማይ ፡ ዝንቱ ፡ ዘንጹሕ ፡ ለክሙ ፡ ወዘገሰሰ ፡ በድኖሙ ፡\n                  ርኩስ ፡ ውእቱ ።",
-      "translation": "",
+      "translation": "Only if the water be of fountains of water, or a pool, or confluence of water, it shall be clean; but he that touches their carcases shall be unclean.",
       "words": [
         {
           "g": "ዘእንበለ",
@@ -2531,7 +2531,7 @@
     {
       "num": 37,
       "geez": "ወእመሰ ፡ ወድቀ ፡ በድኖሙ ፡ ውስተ ፡ ኵሉ ፡ ዘርእ ፡ ዘይዘራእ ፡ ንጹሕ ፡ ውእቱ ።",
-      "translation": "",
+      "translation": "And if one of their carcases should fall upon any sowing seed which shall be sown, it shall be clean.",
       "words": [
         {
           "g": "ወእመሰ",
@@ -2587,7 +2587,7 @@
     {
       "num": 38,
       "geez": "ወእመ ፡ ባሕቱ ፡ ተክዕወ ፡ ማይ ፡ ላዕለ ፡ ኵሉ ፡ ዘርእ ፡ [ወ]ወድቀ ፡ በድኖሙ ፡ ላዕሌሁ ፡ ርኩስ ፡ ውእቱ ፡ ለክሙ\n                  ።",
-      "translation": "",
+      "translation": "But if water be poured on any seed, and one of their dead bodies fall upon it, it is unclean to you.",
       "words": [
         {
           "g": "ወእመ",
@@ -2663,7 +2663,7 @@
     {
       "num": 39,
       "geez": "ወእመቦ ፡ ዘሞተ ፡ እምእንስሳ ፡ ዘይከውነክሙ ፡ ለበሊዕ ፡ ዘገሰሰ ፡ በድኖሙ ፡ ርኩስ ፡ ውእቱ ፡ እስከ ፡ ሰርክ ።",
-      "translation": "",
+      "translation": "And if one of the cattle die, which it is lawful for you to eat, he that touches their carcases shall be unclean till evening.",
       "words": [
         {
           "g": "ወእመቦ",
@@ -2729,7 +2729,7 @@
     {
       "num": 40,
       "geez": "ወዘበልዐ ፡ ማውታሁ ፡ የኀፅብ ፡ አልባሲተ ፡ ወርኩስ ፡ ውእቱ ፡ እስከ ፡ ሰርክ ፡ ወዘአልዐለ ፡ በድኖሙ ፡ የኀፅብ ፡\n                  አልባሲሁ ፡ ወርኩስ ፡ ውእቱ ፡ እስከ ፡ ሰርክ ።",
-      "translation": "",
+      "translation": "And he that eats of their carcases shall wash his garments, and be unclean till evening; and he that carries any of their carcases shall wash his garments, and bathe himself in water, and be unclean till evening.",
       "words": [
         {
           "g": "ወዘበልዐ",
@@ -2820,7 +2820,7 @@
     {
       "num": 41,
       "geez": "ወኵሉ ፡ ዘይትሐወስ ፡ ውስተ ፡ ምድር ፡ አርዌ ፡ ርኩስ ፡ ውእቱ ፡ ለክሙ ፡ ወኢትብልዕዎ ።",
-      "translation": "",
+      "translation": "And every reptile that creeps on the earth, this shall be an abomination to you; it shall not be eaten.",
       "words": [
         {
           "g": "ወኵሉ",
@@ -2876,7 +2876,7 @@
     {
       "num": 42,
       "geez": "ወኵሎ ፡ ዘየሐውር ፡ በከብዱ ፡ ወኵሎ ፡ ዘየሐውር ፡ በአርባዕ ፡ ለዝሉፉ ፡ ወዘብዘኅ ፡ እገሪሁ ፡ እምኵሉ ፡ አርዌ ፡\n                  ዘይትሐወስ ፡ ውስተ ፡ ምድር ፡ ኢትብልዕዎ ፡ እስመ ፡ ርኩስ ፡ ውእቱ ፡ ለክሙ ።",
-      "translation": "",
+      "translation": "And every animal that creeps on its belly, and every one that goes on four feet continually, which abounds with feet among all the reptiles creeping upon the earth—ye shall not eat it, for it is an abomination to you.",
       "words": [
         {
           "g": "ወኵሎ",
@@ -2982,7 +2982,7 @@
     {
       "num": 43,
       "geez": "ወኢታርኵሱ ፡ ነፍሰክሙ ፡ በኵሉ ፡ አራዊት ፡ ዘይትሐወስ ፡ ውስተ ፡ ምድር ፡ ወኢትርኰሱ ፡ በእሉ ፡ ወኢትኩኑ ፡ ርኩሳነ\n                  ፡ ቦሙ ።",
-      "translation": "",
+      "translation": "And ye shall not defile your souls with any of the reptiles that creep upon the earth, and ye shall not be polluted with them, and ye shall not be unclean by them.",
       "words": [
         {
           "g": "ወኢታርኵሱ",
@@ -3053,7 +3053,7 @@
     {
       "num": 44,
       "geez": "እስመ ፡ አነ ፡ እግዚአብሔ ፡ አምላክክሙ ፡ ወተቀደሱ ፡ ወቅዱሳነ ፡ ኩኑ ፡ እስመ ፡ አነ ፡ እግዚአብሔር ፡ አምላክክሙ ፡\n                  ቅዱስ ፡ አነ ፡ ወኢትገምኑ ፡ ነፍሰክሙ ፡ በኵሉ ፡ አራዊት ፡ ዘይትሐወስ ፡ ውስተ ፡ ምድር ።",
-      "translation": "",
+      "translation": "For I am the Lord your God; and ye shall be sanctified, and ye shall be holy, because I the Lord your God am holy; and ye shall not defile your souls with any of the reptiles creeping upon the earth.",
       "words": [
         {
           "g": "እስመ",
@@ -3164,7 +3164,7 @@
     {
       "num": 45,
       "geez": "እስመ ፡ አነ ፡ እግዚአብሔር ፡ አምላክክሙ ፡ ዘአውፃእኩክሙ ፡ እምነ ፡ ምድረ ፡ ግብጽ ፡ ከመ ፡ እኩንክሙ ፡ አምላክክሙ\n                  ፡ ወትኩኑ ፡ ቅዱሳነ ፡ እስመ ፡ አነ ፡ ቅዱስ ፡ አነ ።",
-      "translation": "",
+      "translation": "For I am the Lord who brought you up out of the land of Egypt to be your God; and ye shall be holy, for I the Lord am holy.",
       "words": [
         {
           "g": "እስመ",
@@ -3260,7 +3260,7 @@
     {
       "num": 46,
       "geez": "ዝንቱ ፡ ውእቱ ፡ ሕግ ፡ ዘበእንተ ፡ እንስሳ ፡ ወዘበእንተ ፡ አዕዋፍ ፡ ወዘበእንተ ፡ ኵሉ ፡ ነፍስ ፡ እንተ ፡ ትትሐወስ\n                  ፡ ውስተ ፡ ማይ ፡ ወኵሉ ፡ ነፍስ ፡ እንተ ፡ ትትሐወስ ፡ ውስተ ፡ ምድር ፤",
-      "translation": "",
+      "translation": "This is the law concerning beasts and birds and every living creature moving in the water, and every living creature creeping on the earth;",
       "words": [
         {
           "g": "ዝንቱ",
@@ -3371,7 +3371,7 @@
     {
       "num": 47,
       "geez": "ዘይፈልጥ ፡ ማእከለ ፡ ርኩስ ፡ ወማእከለ ፡ ንጹሕ ፡ ወታሌብዎሙ ፡ ለደቂቀ ፡ እስራኤል ፡ እምነ ፡ ሕያው ፡ ዘይበልዑ ፡\n                  ወእምነ ፡ ሕያው ፡ ዘኢይበልዑ ።",
-      "translation": "",
+      "translation": "to distinguish between the unclean and the clean; and between those that bring forth alive, such as should be eaten, and those that bring forth alive, such as should not be eaten.",
       "words": [
         {
           "g": "ዘይፈልጥ",

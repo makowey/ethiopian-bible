@@ -5,7 +5,7 @@
     {
       "num": 1,
       "geez": "ወዛቲ ፡ ይእቲ ፡ መጽሐፈ ፡ ዝክረ ፡ ሙላዱ ፡ ለአዳም ፡ በዕለት ፡ እንተ ፡ ባቲ ፡ ፈጠሮ ፡ እግዚአብሔር ፡ ወገብሮ ፡\n                  ለአዳም ፡ (በአርአያሁ ፡ ወ)በአምሳሊሁ ፡ ለእግዚአብሔር ።",
-      "translation": "",
+      "translation": "This is the genealogy of men in the day in which God made Adam; in the image of God he made him:",
       "words": [
         {
           "g": "ወዛቲ",
@@ -96,7 +96,7 @@
     {
       "num": 2,
       "geez": "ወፈጠሮሙ ፡ ተባዕተ ፡ ወአንስተ ፡ ወእምዝ ፡ ባረከ ፡ እግዚአብሔር ፡ ላዕሌሆሙ ፡ ወሰመዮሙ ፡ አዳም ፡ (ወሔዋን ፡)\n                  በዕለት ፡ እንተ ፡ ባቲ ፡ ፈጠሮሙ ።",
-      "translation": "",
+      "translation": "male and female he made them, and blessed them; and he called his name Adam, in the day in which he made them.",
       "words": [
         {
           "g": "ወፈጠሮሙ",
@@ -177,7 +177,7 @@
     {
       "num": 3,
       "geez": "ወሐይወ ፡ አዳም ፡ ፪፻ወ፴ዓመተ ፡ ወወለደ ፡ ሎቱ ፡ ዘከመ ፡ ራእዩ ፡ ወአምሳሉ ፡ ወልደ ፡ ወሰመዮ ፡ ስሞ ፡ ሴት ።",
-      "translation": "",
+      "translation": "And Adam lived two hundred and thirty years, and begot a son after his own form, and after his own image, and he called his name Seth.",
       "words": [
         {
           "g": "ወሐይወ",
@@ -248,7 +248,7 @@
     {
       "num": 4,
       "geez": "ወሐይወ ፡ አዳም ፡ እምድኅረ ፡ ወለዶ ፡ ለሴት ፡ ፯፻ዓመተ ፡ ወወለደ ፡ ደቀ ፡ ወአዋልደ ።",
-      "translation": "",
+      "translation": "And the days of Adam, which he lived after his begetting Seth, were seven hundred years; and he begot sons and daughters.",
       "words": [
         {
           "g": "ወሐይወ",
@@ -304,7 +304,7 @@
     {
       "num": 5,
       "geez": "ወኮነ ፡ ኵሉ ፡ መዋዕሊሁ ፡ ለአዳም ፡ ፱፻ወ፴ዓመተ ፡ ወሞተ ።",
-      "translation": "",
+      "translation": "And all the days of Adam which he lived were nine hundred and thirty years, and he died.",
       "words": [
         {
           "g": "ወኮነ",
@@ -345,7 +345,7 @@
     {
       "num": 6,
       "geez": "ወሐይወ ፡ ሴት ፡ ፪፻ወ፭ዓመተ ፡ ወወለዶ ፡ ለሄኖስ ።",
-      "translation": "",
+      "translation": "Now Seth lived two hundred and five years, and begot Enos.",
       "words": [
         {
           "g": "ወሐይወ",
@@ -381,7 +381,7 @@
     {
       "num": 7,
       "geez": "ወሐይወ ፡ ሴት ፡ እምድኅረ ፡ ወለዶ ፡ ለሄኖስ ፡ ፯፻ወ፯ዓመተ ፡ ወወለደ ፡ ደቀ ፡ ወአዋልደ ።",
-      "translation": "",
+      "translation": "And Seth lived after his begetting Enos, seven hundred and seven years, and he begot sons and daughters.",
       "words": [
         {
           "g": "ወሐይወ",
@@ -437,7 +437,7 @@
     {
       "num": 8,
       "geez": "ወኮነ ፡ ኵሉ ፡ መዋዕሊሁ ፡ ለሴት ፡ ፱፻፲ወ፪ዓመተ ፡ ወሞተ ።",
-      "translation": "",
+      "translation": "And all the days of Seth were nine hundred and twelve years, and he died.",
       "words": [
         {
           "g": "ወኮነ",
@@ -478,7 +478,7 @@
     {
       "num": 9,
       "geez": "ወሐይወ ፡ ሄኖስ ፡ ፻ወ፺ዓመተ ፡ ወወለዶ ፡ ለቃይናን ።",
-      "translation": "",
+      "translation": "And Enos lived an hundred and ninety years, and begot Cainan.",
       "words": [
         {
           "g": "ወሐይወ",
@@ -514,7 +514,7 @@
     {
       "num": 10,
       "geez": "ወሐይወ ፡ ሄኖስ ፡ እምድኅረ ፡ ወለዶ ፡ ለቃይናን ፡ ፯፻፲ወ፭ዓመተ ፡ ወወለደ ፡ ደቀ ፡ ወአዋልደ ።",
-      "translation": "",
+      "translation": "And Enos lived after his begetting Cainan, seven hundred and fifteen years, and he begot sons and daughters.",
       "words": [
         {
           "g": "ወሐይወ",
@@ -570,7 +570,7 @@
     {
       "num": 11,
       "geez": "ወኮነ ፡ ኵሉ ፡ መዋዕሊሁ ፡ ለሄኖስ ፡ ፱፻ወ፭ዓመተ ፡ ወሞተ ።",
-      "translation": "",
+      "translation": "And all the days of Enos were nine hundred and five years, and he died.",
       "words": [
         {
           "g": "ወኮነ",
@@ -611,7 +611,7 @@
     {
       "num": 12,
       "geez": "ወሐይወ ፡ ቃይናን ፡ ፻ወ፸ዓመተ ፡ ወወለዶ ፡ ለመላልኤል ።",
-      "translation": "",
+      "translation": "And Cainan lived an hundred and seventy years, and he begot Maleleel.",
       "words": [
         {
           "g": "ወሐይወ",
@@ -647,7 +647,7 @@
     {
       "num": 13,
       "geez": "ወሐይወ ፡ ቃይናን ፡ እምድኅረ ፡ ወለዶ ፡ ለመላልኤል ፡ ፯፻ወ፵ዓመተ ፡ ወወለደ ፡ ደቀ ፡ ወአዋልደ ።",
-      "translation": "",
+      "translation": "And Cainan lived after his begetting Maleleel, seven hundred and forty years, and he begot sons and daughters.",
       "words": [
         {
           "g": "ወሐይወ",
@@ -703,7 +703,7 @@
     {
       "num": 14,
       "geez": "ወኮነ ፡ ኵሉ ፡ መዋዕሊሁ ፡ ለቃይናን ፡ ፱፻ወ፲ዓመተ ፡ ወሞተ ።",
-      "translation": "",
+      "translation": "And all the days of Cainan were nine hundred and ten years, and he died.",
       "words": [
         {
           "g": "ወኮነ",
@@ -744,7 +744,7 @@
     {
       "num": 15,
       "geez": "ወሐይወ ፡ መላልኤል ፡ ፻፷ወ፭ዓመተ ፡ ወወለዶ ፡ ለያሬድ ።",
-      "translation": "",
+      "translation": "And Maleleel lived an hundred and sixty and five years, and he begot Jared.",
       "words": [
         {
           "g": "ወሐይወ",
@@ -780,7 +780,7 @@
     {
       "num": 16,
       "geez": "ወሐይወ ፡ መላልኤል ፡ እምድኅረ ፡ ወለዶ ፡ ለያሬድ ፡ ፯፻ወ፴ዓመተ ፡ ወወለደ ፡ ደቀ ፡ ወአዋልደ ።",
-      "translation": "",
+      "translation": "And Maleleel lived after his begetting Jared, seven hundred and thirty years, and he begot sons and daughters.",
       "words": [
         {
           "g": "ወሐይወ",
@@ -836,7 +836,7 @@
     {
       "num": 17,
       "geez": "ወኮነ ፡ ኵሉ ፡ መዋዕሊሁ ፡ ለመላልኤል ፡ ፷፻፺ወ፭ዓመተ ፡ ወሞተ ።",
-      "translation": "",
+      "translation": "And all the days of Maleleel were eight hundred and ninety and five years, and he died.",
       "words": [
         {
           "g": "ወኮነ",
@@ -877,7 +877,7 @@
     {
       "num": 18,
       "geez": "ወሐይወ ፡ ያሬድ ፡ ፻፷ወ፪ዓመተ ፡ ወወለዶ ፡ ለሄኖክ ።",
-      "translation": "",
+      "translation": "And Jared lived an hundred and sixty and two years, and begot Enoch:",
       "words": [
         {
           "g": "ወሐይወ",
@@ -913,7 +913,7 @@
     {
       "num": 19,
       "geez": "ወሐይወ ፡ ያሬድ ፡ እምድኅረ ፡ ወለዶ ፡ ለሄኖክ ፡ ፰፻ዓመተ ፡ ወወለደ ፡ ደቀ ፡ ወአዋልደ ።",
-      "translation": "",
+      "translation": "and Jared lived after his begetting Enoch, eight hundred years, and he begot sons and daughters.",
       "words": [
         {
           "g": "ወሐይወ",
@@ -969,7 +969,7 @@
     {
       "num": 20,
       "geez": "ወኮነ ፡ ኵሉ ፡ መዋዕሊሁ ፡ ለያሬድ ፡ ፱፻፷ወ፪ዓመተ ፡ ወሞተ ።",
-      "translation": "",
+      "translation": "And all the days of Jared were nine hundred and sixty and two years, and he died.",
       "words": [
         {
           "g": "ወኮነ",
@@ -1010,7 +1010,7 @@
     {
       "num": 21,
       "geez": "ወሐይወ ፡ ሄኖክ ፡ ፻፷ወ፭ዓመተ ፡ ወወለዶ ፡ ለማቱሰላ ።",
-      "translation": "",
+      "translation": "And Enoch lived an hundred and sixty and five years, and begat Mathusala.",
       "words": [
         {
           "g": "ወሐይወ",
@@ -1046,7 +1046,7 @@
     {
       "num": 22,
       "geez": "[ወአሥመሮ ፡ ሄኖክ ፡ ለእግዚአብሔር ፡] ወሐይወ ፡ ኄኖክ ፡ እምድኅረ ፡ ወለዶ ፡ ለማቱሰላ ፡ ፪፻ዓመተ ፡ ወወለደ ፡ ደቀ\n                  ፡ ወአዋልደ ።",
-      "translation": "",
+      "translation": "And Enoch was well-pleasing to God after his begetting Mathusala, two hundred years, and he begot sons and daughters.",
       "words": [
         {
           "g": "ወአሥመሮ",
@@ -1117,7 +1117,7 @@
     {
       "num": 23,
       "geez": "ወኮነ ፡ ኵሉ ፡ መዋዕሊሁ ፡ ለሄኖክ ፡ ፫፻፷ወ፭ዓመተ ።",
-      "translation": "",
+      "translation": "And all the days of Enoch were three hundred and sixty and five years.",
       "words": [
         {
           "g": "ወኮነ",
@@ -1153,7 +1153,7 @@
     {
       "num": 24,
       "geez": "ወአሥመሮ ፡ ሄኖክ ፡ ለእግዚአብሔር ፡ ወፈለሰ ፡ እስመ ፡ እግዚአብሔር ፡ ከበቶ ፡ (ውስተ ፡ ገነት) ።",
-      "translation": "",
+      "translation": "And Enoch was well-pleasing to God, and was not found, because God translated him.",
       "words": [
         {
           "g": "ወአሥመሮ",
@@ -1209,7 +1209,7 @@
     {
       "num": 25,
       "geez": "ወሐይወ ፡ ማቱሰላ ፡ ፻፹ወ፯ዓመተ ፡ ወወለዶ ፡ ለለሜክ ።",
-      "translation": "",
+      "translation": "And Mathusala lived an hundred and sixty and seven years, and begot Lamech.",
       "words": [
         {
           "g": "ወሐይወ",
@@ -1245,7 +1245,7 @@
     {
       "num": 26,
       "geez": "ወሐይወ ፡ ማቱሰላ ፡ እምድኅረ ፡ ወለዶ ፡ ለለሜክ ፡ ፯፻፹ወ፪ዓመተ ፡ ወወለደ ፡ ደቀ ፡ ወአዋልደ ።",
-      "translation": "",
+      "translation": "And Mathusala lived after his begetting Lamech eight hundred and two years, and begot sons and daughters.",
       "words": [
         {
           "g": "ወሐይወ",
@@ -1301,7 +1301,7 @@
     {
       "num": 27,
       "geez": "ወኮነ ፡ ኵሉ ፡ መዋዕሊሁ ፡ ለማቱሰላ ፡ ፱፻፷ወ፱ዓመተ ፡ ወሞተ ።",
-      "translation": "",
+      "translation": "And all the days of Mathusala which he lived, were nine hundred and sixty and nine years, and he died.",
       "words": [
         {
           "g": "ወኮነ",
@@ -1342,7 +1342,7 @@
     {
       "num": 28,
       "geez": "ወሐይወ ፡ ለሜክ ፡ ፻፹ወ፪ዓመተ ፡ ወተወልደ ፡ ሎቱ ፡ ወልድ ።",
-      "translation": "",
+      "translation": "And Lamech lived an hundred and eighty and eight years, and begot a son.",
       "words": [
         {
           "g": "ወሐይወ",
@@ -1383,7 +1383,7 @@
     {
       "num": 29,
       "geez": "ወሰመዮ ፡ ስሞ ፡ ኖኅ ፡ እስመ ፡ ይቤ ፡ ዝንቱ ፡ ይናዝዘኒ ፡ እምነ ፡ ምግባርየ ፡ ወእምጻማ ፡ እደውየ ፡ ወእምድር ፡\n                  እንተ ፡ ረገማ ፡ እግዚአብሔር ።",
-      "translation": "",
+      "translation": "And he called his name Noe, saying, This one will cause us to cease from our works, and from the toils of our hands, and from the earth, which the Lord God has cursed.",
       "words": [
         {
           "g": "ወሰመዮ",
@@ -1469,7 +1469,7 @@
     {
       "num": 30,
       "geez": "ወሐይወ ፡ ለሜክ ፡ እምድኅረ ፡ ወለዶ ፡ ለኖኅ ፡ ፭፻፺ወ፭ዓመተ ፡ ወወለደ ፡ ደቀ ፡ ወአዋልደ ።",
-      "translation": "",
+      "translation": "And Lamech lived after his begetting Noe, five hundred and sixty and five years, and begot sons and daughters.",
       "words": [
         {
           "g": "ወሐይወ",
@@ -1525,7 +1525,7 @@
     {
       "num": 31,
       "geez": "ወኮነ ፡ ኵሉ ፡ መዋዕሊሁ ፡ ለለሜክ ፡ ፯፻ወ፯ዓመተ ፡ ወሞተ ።",
-      "translation": "",
+      "translation": "And all the days of Lamech were seven hundred and fifty-three years, and he died.",
       "words": [
         {
           "g": "ወኮነ",
@@ -1566,7 +1566,7 @@
     {
       "num": 32,
       "geez": "ወኮኖ ፡ ለኖኅ ፡ ፭፻ዓመተ ፡ ወወለደ ፡ ፫ደቂቀ ፡ ዘውእቶሙ ፡ ሴም ፡ ወካም ፡ ወያፌት ።",
-      "translation": "",
+      "translation": "And Noe was five hundred years old, and he begot three sons, Sem, Cham, and Japheth.",
       "words": [
         {
           "g": "ወኮኖ",

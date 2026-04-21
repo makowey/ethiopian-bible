@@ -5,7 +5,7 @@
     {
       "num": 1,
       "geez": "ወከሪዮ ፡ ሰራቂ ፡ ለእመ ፡ ቈስለ ፡ ሰራቂ ፡ ወሞተ ፡ ኢይኩኖ ፡ ቀቲለ ፡ ለዘቀተለ ።",
-      "translation": "",
+      "translation": "And if the thief be found in the breach made by himself and be smitten and die, there shall not be blood shed for him.",
       "words": [
         {
           "g": "ወከሪዮ",
@@ -61,7 +61,7 @@
     {
       "num": 2,
       "geez": "ወሠረቀ ፡ ፀሐይ ፡ ዲበ ፡ በድን ፡ ይመውት ፡ ዘቀተሎ ፤ ወለእመ ፡ አልቦ ፡ ይሠየጥ ፡ ህየንተ ፡ ዘሰረቀ ።",
-      "translation": "",
+      "translation": "But if the sun be risen upon him, he is guilty, he shall die instead; and if a thief have nothing, let him be sold in compensation for what he has stolen.",
       "words": [
         {
           "g": "ወሠረቀ",
@@ -122,7 +122,7 @@
     {
       "num": 3,
       "geez": "ወለእመ ፡ አኀዝዎ ፡ ወረከቡ ፡ ውስተ ፡ እዴሁ ፡ ለዘሰረቀ ፡ እመሂ ፡ አድግ ፡ ወለእመሂ ፡ በግዕ ፡ ካዕበተ ፡ ይፈዲ ።",
-      "translation": "",
+      "translation": "And if the thing stolen be left and be in his hand alive, whether ox or sheep, he shall restore them two-fold.",
       "words": [
         {
           "g": "ወለእመ",
@@ -193,7 +193,7 @@
     {
       "num": 4,
       "geez": "ወለእመ ፡ አብልዐ ፡ ገራህተ ፡ ሰብእ ፡ እንስሳሁ ፡ ወዐጸደ ፡ ወይን ፡ ወአብልዐ ፡ ገራውሀ ፡ ባዕድ ፡ ይትራዐይዎ ፡\n                  አስማሮ ፡ ይፈዲ ፡ ወለእመሰ ፡ አግመረ ፡ ገራህተ ፡ እንዘ ፡ ይበልዕ ፡ በሰመረ ፡ ገራህቱ ፡ ይፈዲ ፡ ለእመሂ ፡ ዐጸደ ፡\n                  ወይን ፡ በሰመረ ፡ ዐጸደ ፡ ወይን ፡ ይፈዲ ።",
-      "translation": "",
+      "translation": "And if any one should feed down a field or a vineyard, and should send in his beast to feed down another field, he shall make compensation of his own field according to his produce; and if he shall have fed down the whole field, he shall pay for compensation the best of his own field and the best of his vineyard.",
       "words": [
         {
           "g": "ወለእመ",
@@ -344,7 +344,7 @@
     {
       "num": 5,
       "geez": "ወለእመ ፡ ወፅአ ፡ እሳት ፡ ወአኀዘ ፡ ገዳመ ፡ ወአውዐየ ፡ ዐጸደ ፡ ወእመሂ ፡ ክምረ ፡ ዘአውዐየ ፡ ይፈዲ ።",
-      "translation": "",
+      "translation": "And if fire have gone forth and caught thorns, and should also set on fire threshing-floors or ears of corn or a field, he that kindled the fire shall make compensation.",
       "words": [
         {
           "g": "ወለእመ",
@@ -410,7 +410,7 @@
     {
       "num": 6,
       "geez": "ወለእመቦ ፡ ዘአዕቀበ ፡ ብሩረ ፡ ወእመሂ ፡ ንዋይ ፡ ወተሰርቆ ፡ ለዘአዕቀብወ ፡ ወረከቦ ፡ ለዘሰረቆ ፡ ይፈዲ ፡ ካዕበተ\n                  ።",
-      "translation": "",
+      "translation": "And if any one give to his neighbour money or goods to keep, and they be stolen out of the man's house, if the thief be found, he shall repay double.",
       "words": [
         {
           "g": "ወለእመቦ",
@@ -476,7 +476,7 @@
     {
       "num": 7,
       "geez": "ወለእመ ፡ ኢረከቡ ፡ ሰራቄ ፡ ለይሑር ፡ ባዕለ ፡ ቤት ፡ ቅድመ ፡ ፈጣሪ ፡ ወይምሐል ፡ ማሕፀነ ፡ ዘአማሕፀንዎ ፡ ከመ ፡\n                  ኢተኬነወ ፡ ወኢቈጸረ ፤",
-      "translation": "",
+      "translation": "But if the thief be not found, the master of the house shall come forward before God, and shall swear that surely he has not wrought wickedly in regard of any part of his neighbour's deposit,",
       "words": [
         {
           "g": "ወለእመ",
@@ -557,7 +557,7 @@
     {
       "num": 8,
       "geez": "እመሂ ፡ ላህመ ፡ ወእመሂ ፡ አድገ ፡ ወእመሂ ፡ በግዐ ፡ በዘ ፡ ኀሠሥዎ ፡ በማኅፀ[ን ፡]ኀሠሥዎ ፤ በዘ ፡ ኮነ ፡ ከዊኖ\n                  ፡ በህየ ፡ ይኅልቆሙ ፡ በበይናቲሆሙ ፤ ወዘገደፈ ፡ ካዕበተ ፡ ይፈዲ ፡ ለማዕቀቢሁ ።",
-      "translation": "",
+      "translation": "according to every injury alleged, both concerning a calf, and an ass, and a sheep, and a garment, and every alleged loss, whatsoever in fact it may be,—the judgment of both shall proceed before God, and he that is convicted by God shall repay to his neighbour double.",
       "words": [
         {
           "g": "እመሂ",
@@ -658,7 +658,7 @@
     {
       "num": 9,
       "geez": "ወለእመቦ ፡ ዘወሀበ ፡ ለካልኡ ፡ ብዕራዌ ፡ እመሂ ፡ በግዐ ፡ ዘኮነ ፡ በውስቴቱ ፡ እንስሳ ፡ ወሞተ ፡ ወቈስለ ፡ ወእመሂ\n                  ፡ ማህረኩ ፡ ሎቱ ፡ ወአልቦ ፡ ዘአእመረ ፡ ሎቱ ፤",
-      "translation": "",
+      "translation": "And if any one give to his neighbour to keep a calf or sheep or any beast, and it be wounded or die or be taken, and no one know,",
       "words": [
         {
           "g": "ወለእመቦ",
@@ -754,7 +754,7 @@
     {
       "num": 10,
       "geez": "መሐላ ፡ ዘእግዚአብሔር ፡ ተርፈ ፡ ማእከሎሙ ፡ ከመ ፡ ተፈቲዎ ፡ ኢተኬነወ ፡ ተማኅፃኒ ፡ ወበበይነዝ ፡ ኢይፈዲ ፡\n                  ዘተማኅፀነ ።",
-      "translation": "",
+      "translation": "an oath of God shall be between both, each swearing that he has surely not at all been guilty in the matter of his neighbour's deposit; and so his master shall hold him guiltless, and he shall not make compensation.",
       "words": [
         {
           "g": "መሐላ",
@@ -820,7 +820,7 @@
     {
       "num": 11,
       "geez": "ወለእመ ፡ ሰረቅዎ ፡ ዘአዕቀብዎ ፡ ይፈዲ ፡ ለዘአዕቀቦ ።",
-      "translation": "",
+      "translation": "And if it be stolen from him, he shall make compensation to the owner.",
       "words": [
         {
           "g": "ወለእመ",
@@ -856,7 +856,7 @@
     {
       "num": 12,
       "geez": "ወለእመ ፡ አርዌ ፡ አኀዞ ፡ በገዳም ፡ ይመርሕ ፡ ገደላሁ ፡ ወኢይፈዲ ።",
-      "translation": "",
+      "translation": "And if it be seized of beasts, he shall bring him to witness the prey, and he shall not make compensation.",
       "words": [
         {
           "g": "ወለእመ",
@@ -902,7 +902,7 @@
     {
       "num": 13,
       "geez": "ወለእመ ፡ ተውሕስከ ፡ እምኀበ ፡ ቢጽከ ፡ ወተሰብረ ፡ ወሞተ ፡ ወኢሀሎ ፡ ወሓሲ ፡ እግዚአ ፡ ንዋይ ፡ ትፈዲ ።",
-      "translation": "",
+      "translation": "And if any one borrow ought of his neighbour, and it be wounded or die or be carried away, and the owner of it be not with it, he shall make compensation.",
       "words": [
         {
           "g": "ወለእመ",
@@ -968,7 +968,7 @@
     {
       "num": 14,
       "geez": "[ወለእመ ፡ ሀሎ ፡ እግዚኡ ፡ ኢይፈዲ ፤] ወለእመ ፡ ገባኢሁ ፡ ውእቱ ፡ ዐስቦ ፡ ይፈዲ ።",
-      "translation": "",
+      "translation": "But if the owner be with it, he shall not make compensation: but if it be a hired thing, there shall be a compensation to him instead of his hire.",
       "words": [
         {
           "g": "ወለእመ",
@@ -1019,7 +1019,7 @@
     {
       "num": 15,
       "geez": "ወለእመቦ ፡ ዘአስሐታ ፡ ለድንግል ፡ ወሰክበ ፡ ምስሌሃ ፡ እንዘ ፡ ይነሥእ ፡ ይነሥኣ ፡ ወትከውኖ ፡ ብእሲተ ።",
-      "translation": "",
+      "translation": "And if any one deceive a virgin that is not betrothed, and lie with her, he shall surely endow her for a wife to himself.",
       "words": [
         {
           "g": "ወለእመቦ",
@@ -1080,7 +1080,7 @@
     {
       "num": 16,
       "geez": "ወለእመ ፡ ካልእ ፡ ምታ ፡ ከመ ፡ ኢየሀብዎ ፡ የሐፂ ፡ ሕፄሃ ፡ ይሁብ ፡ ለአቡሃ ፡ ሕፄ ፡ የሐፅይዎ ፡ ለድንግል ።",
-      "translation": "",
+      "translation": "And if her father positively refuse, and will not consent to give her to him for a wife, he shall pay compensation to her father according to the amount of the dowry of virgins.",
       "words": [
         {
           "g": "ወለእመ",
@@ -1151,7 +1151,7 @@
     {
       "num": 17,
       "geez": "[ወዘሥራይ ፡ ኢይሕየው ።]",
-      "translation": "",
+      "translation": "Ye shall not save the lives of sorcerers.",
       "words": [
         {
           "g": "ወዘሥራይ",
@@ -1172,7 +1172,7 @@
     {
       "num": 18,
       "geez": "ኵሉ ፡ ዘየሐውር ፡ እንስሳ ፡ ኵነኔሁ ፡ መዊት ።",
-      "translation": "",
+      "translation": "Every one that lies with a beast ye shall surely put to death.",
       "words": [
         {
           "g": "ኵሉ",
@@ -1208,7 +1208,7 @@
     {
       "num": 19,
       "geez": "ዘይሠውዕ ፡ ለአማልክት ፡ ለይሠረው ፡ ዘእንበለ ፡ ለእግዚአብሔር ፡ ባሕቲቱ ።",
-      "translation": "",
+      "translation": "He that sacrifices to any gods but to the Lord alone, shall be destroyed by death.",
       "words": [
         {
           "g": "ዘይሠውዕ",
@@ -1249,7 +1249,7 @@
     {
       "num": 20,
       "geez": "ወኢታሕስሙ ፡ ለግዩር ፡ ወኢታጥቅዎ ፡ እስመ ፡ አንትሙሂ ፡ ግዩራነ ፡ ኮንክሙ ፡ በምድረ ፡ ግብጽ ።",
-      "translation": "",
+      "translation": "And ye shall not hurt a stranger, nor afflict him; for ye were strangers in the land of Egypt.",
       "words": [
         {
           "g": "ወኢታሕስሙ",
@@ -1305,7 +1305,7 @@
     {
       "num": 21,
       "geez": "ወለኵሉ ፡ እቤራት ፡ ወለእጓለ ፡ ማውታ ፡ ኢታሕስሙ ።",
-      "translation": "",
+      "translation": "Ye shall hurt no widow or orphan.",
       "words": [
         {
           "g": "ወለኵሉ",
@@ -1341,7 +1341,7 @@
     {
       "num": 22,
       "geez": "ወለእመ ፡ አሕሰምክሙ ፡ ሎሙ ፡ ወጸርሑ ፡ ወአውየዉ ፡ ኀቤየ ፡ ሰሚዐ ፡ እሰምዕ ፡ ገዓሮሙ ።",
-      "translation": "",
+      "translation": "And if ye should afflict them by ill-treatment, and they should cry aloud to me, I will surely hear their voice.",
       "words": [
         {
           "g": "ወለእመ",
@@ -1397,7 +1397,7 @@
     {
       "num": 23,
       "geez": "ወእትመዓዕ ፡ በመዐትየ ፡ ወእቀትለክሙ ፡ በኀፂን ፡ ወይከውናክሙ ፡ አንስቲያክሙ ፡ መበለት ፡ ወውሉድክሙ ፡ እጓለ ፡ ማውታ\n                  ።",
-      "translation": "",
+      "translation": "And I will be very angry, and will slay you with the sword, and your wives shall be widows and your children orphans.",
       "words": [
         {
           "g": "ወእትመዓዕ",
@@ -1458,7 +1458,7 @@
     {
       "num": 24,
       "geez": "ወለእመ ፡ ለቃሕከ ፡ ብሩረ ፡ ለነዳየ ፡ ሕዝብከ ፡ ኢታጥቆ ፡ ወኢትትራደዮ ።",
-      "translation": "",
+      "translation": "And if thou shouldest lend money to thy poor brother who is by thee, thou shalt not be hard upon him, thou shalt not exact usury of him.",
       "words": [
         {
           "g": "ወለእመ",
@@ -1504,7 +1504,7 @@
     {
       "num": 25,
       "geez": "ወእመ ፡ አእኀዘከ ፡ ልብሶ ፡ ቢጽከ ፡ እንበለ ፡ ይዕርብ ፡ [ፀሐይ ፡ አግብእ ፡ ሎቱ ።]",
-      "translation": "",
+      "translation": "And if thou take thy neighbour's garment for a pledge, thou shalt restore it to him before sunset.",
       "words": [
         {
           "g": "ወእመ",
@@ -1560,7 +1560,7 @@
     {
       "num": 26,
       "geez": "እስመ ፡ ይእቲ ፡ ባሕቲታ ፡ ዐራዙ ፡ ወ[ልብሰ ፡] ኀፍረቱ ፡ ሎቱ ፡ እስመ ፡ አልቦ ፡ በዘይበይት ፡ ወለእመ ፡ ግዕረ ፡\n                  ኀቤየ ፡ እሰምዖ ፡ እስመ ፡ መሓሪ ፡ አነ ።",
-      "translation": "",
+      "translation": "For this is his clothing, this is the only covering of his nakedness; wherein shall he sleep? If then he shall cry to me, I will hearken to him, for I am merciful.",
       "words": [
         {
           "g": "እስመ",
@@ -1656,7 +1656,7 @@
     {
       "num": 27,
       "geez": "ለአማልክት ፡ ኢትሕሚ ፡ ወመኰንነ ፡ ሕዝብከ ፡ እኪተ ፡ ኢትበሎ ።",
-      "translation": "",
+      "translation": "Thou shalt not revile the gods, nor speak ill of the ruler of thy people.",
       "words": [
         {
           "g": "ለአማልክት",
@@ -1697,7 +1697,7 @@
     {
       "num": 28,
       "geez": "ከተማ ፡ ዐውድከ ፡ ወዘዐውድከ ፡ ኢታእኅር ፤ በኵረ ፡ ወልድከ ፡ ትሁበኒ ፡ ሊተ ።",
-      "translation": "",
+      "translation": "Thou shalt not keep back the first-fruits of thy threshing floor and press. The first-born of thy sons thou shalt give to me.",
       "words": [
         {
           "g": "ከተማ",
@@ -1743,7 +1743,7 @@
     {
       "num": 29,
       "geez": "ከማሁ ፡ ትገብር ፡ ሊተ ፡ ላህመከ ፡ ወበግዐከ ፡ ወአድገከ ፡ ሰቡዐ ፡ ይነብር ፡ ኀበ ፡ እሙ ፡ ወአመ ፡ ሳምንት ፡\n                  ዕለት ፡ ትሁበኒ ፡ ሊተ ።",
-      "translation": "",
+      "translation": "So shalt thou do with thy calf and thy sheep and thine ass; seven days shall it be under the mother, and the eighth day thou shalt give it to me.",
       "words": [
         {
           "g": "ከማሁ",
@@ -1829,7 +1829,7 @@
     {
       "num": 30,
       "geez": "ወትከውኑኒ ፡ ዕደወ ፡ ቅዱሳነ ፡ ወሥጋ ፡ ገደላ ፡ አርዌ ፡ ኢትብልዑ ፡ ለከልብ ፡ ግድፍዎ ።",
-      "translation": "",
+      "translation": "And ye shall be holy men to me; and ye shall not eat flesh taken of beasts, ye shall cast it to the dog.",
       "words": [
         {
           "g": "ወትከውኑኒ",

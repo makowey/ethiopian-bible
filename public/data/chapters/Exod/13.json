@@ -5,7 +5,7 @@
     {
       "num": 1,
       "geez": "ወይቤሎ ፡ እግዚአብሔር ፡ ለሙሴ ፤",
-      "translation": "",
+      "translation": "And the Lord spoke to Moses, saying,",
       "words": [
         {
           "g": "ወይቤሎ",
@@ -31,7 +31,7 @@
     {
       "num": 2,
       "geez": "ቀድስ ፡ ሊተ ፡ ኵሎ ፡ በኵረ ፡ ቀዳሚ ፡ ውሉድ ፡ ዘይፈትሕ ፡ ኵሎ ፡ ሕምሰ ፡ እምደቂቀ ፡ እስራኤል ፡ እምሰብእ ፡\n                  እስከነ ፡ እንስሳ ፡ ሊተ ፡ ውእቱ ።",
-      "translation": "",
+      "translation": "Sanctify to me every first-born, first produced, opening every womb among the children of Israel both of man and beast: it is mine.",
       "words": [
         {
           "g": "ቀድስ",
@@ -122,7 +122,7 @@
     {
       "num": 3,
       "geez": "ወይቤሎሙ ፡ ሙሴ ፡ ለሕዝብ ፡ ተዘከርዋ ፡ ለዛቲ ፡ ዕለት ፡ እንተ ፡ ባቲ ፡ ወፃእክሙ ፡ እምብሔረ ፡ ግብጽ ፡ እምቤት ፡\n                  ቅንየት ፡ እስመ ፡ በእድ ፡ ጽንዕት ፡ አውፅአክሙ ፡ እግዚአብሔር ፡ እምዝየ ፡ ወኢትብልዑ ፡ ብሑአ ።",
-      "translation": "",
+      "translation": "And Moses said to the people, Remember this day, in which ye came forth out of the land of Egypt, out of the house of bondage, for with a strong hand the Lord brought you forth thence; and leaven shall not be eaten.",
       "words": [
         {
           "g": "ወይቤሎሙ",
@@ -238,7 +238,7 @@
     {
       "num": 4,
       "geez": "እስመ ፡ በዛቲ ፡ ዕለት ፡ ትወጽኡ ፡ አንትሙ ፡ በወርኀ ፡ ሃሌሉያ ፡ (ኔሳን) ።",
-      "translation": "",
+      "translation": "For on this day ye go forth in the month of new corn.",
       "words": [
         {
           "g": "እስመ",
@@ -289,7 +289,7 @@
     {
       "num": 5,
       "geez": "ወእመ ፡ ወሰደክሙ ፡ እግዚአብሔር ፡ ውስተ ፡ ምድረ ፡ ከናኔዎን ፡ ወኬጤዎን ፡ ወአሞሬዎን ፡ ወኤዌዎን ፡ ወኢያ[ቡ]ሴዎን\n                  ፡ ወጌርጌሴዎን ፡ ወፌሬዜዎን ፡ ዘመሐለ ፡ ከመ ፡ የሀቦሙ ፡ ለአበዊክሙ ፡ ምድረ ፡ እንተ ፡ ትውሕዝ ፡ ሐሊበ ፡ ወመዓረ ፡\n                  ወተዘከርዋ ፡ ለዛቲ ፡ ሥርዐት ፡ በዝ ፡ ወርኅ ።",
-      "translation": "",
+      "translation": "And it shall come to pass when the Lord thy God shall have brought thee into the land of the Chananites, and the Chettites, and Amorites, and Evites, and Jebusites, and Gergesites, and Pherezites, which he sware to thy fathers to give thee, a land flowing with milk and honey, that thou shalt perform this service in this month.",
       "words": [
         {
           "g": "ወእመ",
@@ -430,7 +430,7 @@
     {
       "num": 6,
       "geez": "ሰዱሰ ፡ ዕለተ ፡ ትበልዑ ፡ ናእተ ፡ ወሳብዕት ፡ ዕለት ፡ በዓሉ ፡ ለእግዚአብሔር ።",
-      "translation": "",
+      "translation": "Six days ye shall eat unleavened bread, and on the seventh day is a feast to the Lord.",
       "words": [
         {
           "g": "ሰዱሰ",
@@ -481,7 +481,7 @@
     {
       "num": 7,
       "geez": "ናእተ ፡ ትበልዑ ፡ ሰቡዐ ፡ ዕለተ ፡ ወኢያስተርኢክሙ ፡ ብሑእ ፡ ወኢየሀሉ ፡ ብሕእት ፡ ውስተ ፡ ኵሉ ፡ አድባሪክሙ ።",
-      "translation": "",
+      "translation": "Seven days shall ye eat unleavened bread; nothing leavened shall be seen with thee, neither shalt thou have leaven in all thy borders.",
       "words": [
         {
           "g": "ናእተ",
@@ -547,7 +547,7 @@
     {
       "num": 8,
       "geez": "ወትዜንዎ ፡ ለወልድከ ፡ በይእቲ ፡ ዕለት ፡ ወትብሎ ፡ በእንተዝ ፡ ገብሮ ፡ እግዚእ ፡ እግዚአብሔር ፡ ገብሮ ፡ ሊተ ፡\n                  አመ ፡ ወፃእኩ ፡ እምብሔረ ፡ ግብጽ ፤",
-      "translation": "",
+      "translation": "And thou shalt tell thy son in that day, saying, Therefore the Lord dealt thus with me, as I was going out of Egypt.",
       "words": [
         {
           "g": "ወትዜንዎ",
@@ -633,7 +633,7 @@
     {
       "num": 9,
       "geez": "ከመ ፡ ይኩን ፡ ለከ ፡ ተአምረ ፡ ውስተ ፡ እደዊከ ፡ ወተዝካረ ፡ ቅድመ ፡ አዕይንቲከ ፡ ወከመ ፡ ይኩን ፡ ሕጉ ፡\n                  ለእግዚአብሔር ፡ ውስተ ፡ አፉከ ፡ እስመ ፡ በእድ ፡ ጽንዕት ፡ አውፅአከ ፡ እግዚአብሔር ፡ እምግብጽ ።",
-      "translation": "",
+      "translation": "And it shall be to thee a sign upon thy hand and a memorial before thine eyes, that the law of the Lord may be in thy mouth, for with a strong hand the Lord God brought thee out of Egypt.",
       "words": [
         {
           "g": "ከመ",
@@ -749,7 +749,7 @@
     {
       "num": 10,
       "geez": "ወዕቀብዎ ፡ ለዝንቱ ፡ ሕግ ፡ በበጊዜሁ ፡ እምዕለት ፡ ለዕለት ።",
-      "translation": "",
+      "translation": "And preserve ye this law according to the times of the seasons, from year to year.",
       "words": [
         {
           "g": "ወዕቀብዎ",
@@ -790,7 +790,7 @@
     {
       "num": 11,
       "geez": "ወሶበ ፡ ወሰደከ ፡ እግዚአብሔር ፡ ውስተ ፡ ምድረ ፡ ከናኔዎን ፡ እንተ ፡ መሐለ ፡ ለአበዊከ ፡ ወወሀበካሃ ፤",
-      "translation": "",
+      "translation": "And it shall come to pass when the Lord thy God shall bring thee into the land of the Chananites, as he sware to thy fathers, and shall give it thee,",
       "words": [
         {
           "g": "ወሶበ",
@@ -851,7 +851,7 @@
     {
       "num": 12,
       "geez": "ትፍልጥ ፡ ኵሎ ፡ ዘይፈትሕ ፡ ሕምሰ ፡ እመራዕይከ ፡ ወእምእንስሳከ ፡ ዘተወልደ ፡ ተባዕተ ፡ ለእግዚአብሔር ።",
-      "translation": "",
+      "translation": "that thou shalt set apart every offspring opening the womb, the males to the Lord, every one that opens the womb out of the herds or among thy cattle, as many as thou shalt have: thou shalt sanctify the males to the Lord.",
       "words": [
         {
           "g": "ትፍልጥ",
@@ -907,7 +907,7 @@
     {
       "num": 13,
       "geez": "ወኵሉ ፡ ዘይፈትሕ ፡ ሕምሰ ፡ [እድግት] ፡ ትዌልጦ ፡ በበግዕ ፡ ወእመ ፡ ኢወለጥካሁ ፡ ትቤዝዎ ፡ ወኵሎ ፡ በኵረ ፡\n                  ተባዕት ፡ እምውሉድከ ፡ ትቤዝዎ ።",
-      "translation": "",
+      "translation": "Every offspring opening the womb of the ass thou shalt change for a sheep; and if thou wilt not change it, thou shalt redeem it: every first-born of man of thy sons shalt thou redeem.",
       "words": [
         {
           "g": "ወኵሉ",
@@ -988,7 +988,7 @@
     {
       "num": 14,
       "geez": "ወእመ ፡ ተስእለከ ፡ ወልድከ ፡ እምድኅረዝ ፡ ወይቤለከ ፡ ምንተ ፡ ውእቱዝ ፡ ወትብሎ ፡ እስመ ፡ በእድ ፡ ጽንዕት ፡\n                  አውፅአነ ፡ እግዚአብሔር ፡ እምድረ ፡ ግብጽ ፡ እምቤተ ፡ ቅንየት ።",
-      "translation": "",
+      "translation": "And if thy son should ask thee hereafter, saying, What is this? then thou shalt say to him, With a strong hand the Lord brought us out of Egypt, out of the house of bondage.",
       "words": [
         {
           "g": "ወእመ",
@@ -1084,7 +1084,7 @@
     {
       "num": 15,
       "geez": "አመ ፡ አበየ ፡ ፈርዖን ፡ ፈንዎተነ ፡ ቀተለ ፡ ኵሎ ፡ በኵረ ፡ በምድረ ፡ ግብጽ ፡ እምበኵረ ፡ ሰብእ ፡ እስከ ፡\n                  እንስሳ ፡ ወበእንተዝ ፡ አነ ፡ እሠውዕ ፡ ለእግዚአብሔር ፡ ኵሎ ፡ ተባዕተ ፡ ዘይፈትሕ ፡ ሕምሰ ፡ ወኵሎ ፡ በኵረ ፡ ውሉድየ\n                  ፡ እቤዙ ።",
-      "translation": "",
+      "translation": "And when Pharao hardened his heart so as not to send us away, he slew every first-born in the land of Egypt, both the first-born of man and the first-born of beast; therefore do I sacrifice every offspring that opens the womb, the males to the Lord, and every first-born of my sons I will redeem.",
       "words": [
         {
           "g": "አመ",
@@ -1220,7 +1220,7 @@
     {
       "num": 16,
       "geez": "ወይኩን ፡ ተአም[ረ] ፡ ውስተ ፡ እዴከ ፡ ወዘኢይሴስል ፡ እምቅድመ ፡ ዐይንከ ፡ እስመ ፡ በእድ ፡ ጽንዕት ፡ አውጽአነ ፡\n                  እግዚአብሔር ።",
-      "translation": "",
+      "translation": "And it shall be for a sign upon thy hand, and immovable before thine eyes, for with a strong hand the Lord brought thee out of Egypt.",
       "words": [
         {
           "g": "ወይኩን",
@@ -1291,7 +1291,7 @@
     {
       "num": 17,
       "geez": "ወሶበ ፡ ፈነዎሙ ፡ ፈርዖን ፡ ለሕዝብ ፡ ኢመርሖሙ ፡ እግዚአብሔር ፡ ፍኖተ ፡ ፍልስ[ጥኤ]ም ፡ እስመ ፡ ቅርብት ፡ ይእቲ\n                  ፡ እስመ ፡ ይቤ ፡ እግዚአብሔር ፡ ዮጊ ፡ ይኔስሕ ፡ እምከመ ፡ ርእየ ፡ ቀትለ ፡ ወይገብእ ፡ ውስተ ፡ ግብጽ ።",
-      "translation": "",
+      "translation": "And when Pharao sent forth the people, God led them not by the way of the land of the Phylistines, because it was near; for God said, Lest at any time the people repent when they see war, and return to Egypt.",
       "words": [
         {
           "g": "ወሶበ",
@@ -1412,7 +1412,7 @@
     {
       "num": 18,
       "geez": "ወዐገቶሙ ፡ እግዚአብሔር ፡ ለሕዝብ ፡ ላዕለ ፡ ፍኖተ ፡ ሐቅለ ፡ ባሕረ ፡ [ኤ]ርትራ ፤ ወበኀምስ ፡ ትውልድ ፡ ዐርጉ ፡\n                  ደቂቀ ፡ እስራኤል ፡ እምድረ ፡ ግብጽ ።",
-      "translation": "",
+      "translation": "And God led the people round by the way to the wilderness, to the Red Sea: and in the fifth generation the children of Israel went up out of the land of Egypt.",
       "words": [
         {
           "g": "ወዐገቶሙ",
@@ -1493,7 +1493,7 @@
     {
       "num": 19,
       "geez": "ወነሥአ ፡ ሙሴ ፡ አዕጽምቲሁ ፡ ለዮሴፍ ፡ ምስሌሁ ፡ እስመ ፡ መሐላ ፡ አምሐሎሙ ፡ ለደቂቀ ፡ እስራኤል ፡ ወይቤሎሙ ፡\n                  አመ ፡ ኀውጾ ፡ ይኄውጸክሙ ፡ እግዚአብሔር ፡ ንሥኡ ፡ አዕጽምትየ ፡ ወአውጽኡ ፡ ምስሌክሙ ፡ እምዝየ ።",
-      "translation": "",
+      "translation": "And Moses took the bones of Joseph with him, for he had solemnly adjured the children of Israel, saying, God will surely visit you, and ye shall carry up my bones hence with you.",
       "words": [
         {
           "g": "ወነሥአ",
@@ -1604,7 +1604,7 @@
     {
       "num": 20,
       "geez": "ወግዕዙ ፡ ደቂቀ ፡ እስራኤል ፡ እምሶኮት ፡ ወሐደሩ ፡ ውስተ ፡ ኦቶ[ም] ፡ ዘመንገለ ፡ በድው ።",
-      "translation": "",
+      "translation": "And the children of Israel departed from Socchoth, and encamped in Othom by the wilderness.",
       "words": [
         {
           "g": "ወግዕዙ",
@@ -1660,7 +1660,7 @@
     {
       "num": 21,
       "geez": "ወእግዚአብሔር ፡ ይመርሖሙ ፡ መዓልተ ፡ በዐምደ ፡ ደመና ፡ ወሌሊተ ፡ በዐምደ ፡ እሳት ።",
-      "translation": "",
+      "translation": "And God led them, in the day by a pillar of cloud, to show them the way, and in the night by a pillar of fire.",
       "words": [
         {
           "g": "ወእግዚአብሔር",
@@ -1711,7 +1711,7 @@
     {
       "num": 22,
       "geez": "ወኢሰሰለ ፡ ዐምደ ፡ ደመና ፡ መዓልተ ፡ ወኢዐምደ ፡ እሳት ፡ ሌሊተ ፡ እምቅድመ ፡ ኵሉ ፡ ሕዝብ ።",
-      "translation": "",
+      "translation": "And the pillar of cloud failed not by day, nor the pillar of fire by night, before all the people.",
       "words": [
         {
           "g": "ወኢሰሰለ",

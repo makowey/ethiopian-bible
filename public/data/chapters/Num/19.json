@@ -5,7 +5,7 @@
     {
       "num": 1,
       "geez": "ወነበቦሙ ፡ እግዚአብሔር ፡ ለሙሴ ፡ ወለአሮን ፡ ወይቤሎሙ ፤",
-      "translation": "",
+      "translation": "And the Lord spoke to Moses and Aaron, saying,",
       "words": [
         {
           "g": "ወነበቦሙ",
@@ -41,7 +41,7 @@
     {
       "num": 2,
       "geez": "ዝንቱ ፡ ትእዛዙ ፡ ለ(ኵሉ ፡) ሕግ ፡ ዘአዘዘ ፡ እግዚአብሔር ፡ ወይቤ ፡ ንግሮሙ ፡ ለደቂቀ ፡ እስራኤል ፡ ወበሎሙ ፡\n                  ያ[ም] ጽኡ ፡ ለከ ፡ አሐተ ፡ እጐልተ ፡ ቀያሐ ፡ ንጽሕተ ፡ እንተ ፡ አልባቲ ፡ ላዕሌሃ ፡ ነውረ ፡ ወእንተ ፡ ኢተወድየ ፡\n                  ላዕሌሃ ፡ አርዑት ።",
-      "translation": "",
+      "translation": "This is the constitution of the law, as the Lord has commanded, saying, Speak to the sons of Israel, and let them take for thee a red heifer without spot, which has no spot on her, and on which no yoke has been put.",
       "words": [
         {
           "g": "ዝንቱ",
@@ -177,7 +177,7 @@
     {
       "num": 3,
       "geez": "ወትሁቦ ፡ ለእልዓዛር ፡ ካህን ፡ ወይወስድዋ ፡ አፍአ ፡ እምትዕይንት ፡ ውስተ ፡ መካን ፡ ንጹሕ ፡ ወይጠብሕዋ ፡ በቅድሜሁ\n                  ።",
-      "translation": "",
+      "translation": "And thou shalt give her to Eleazar the priest; and they shall bring her out of the camp into a clean place, and shall kill her before his face.",
       "words": [
         {
           "g": "ወትሁቦ",
@@ -243,7 +243,7 @@
     {
       "num": 4,
       "geez": "ወይነሥእ ፡ እልዓዛር ፡ እምውስተ ፡ ደማ ፡ ወይነዝኅ ፡ ቅድመ ፡ ገጻ ፡ ለደብተራ ፡ መርጡል ፡ እምነ ፡ ደማ ፡ ስብዕ ።",
-      "translation": "",
+      "translation": "And Eleazar shall take of her blood, and sprinkle of her blood seven times in front of the tabernacle of witness.",
       "words": [
         {
           "g": "ወይነሥእ",
@@ -314,7 +314,7 @@
     {
       "num": 5,
       "geez": "ወያውዕይዋ ፡ በቅድሜሁ ፡ ወማእሳኒ ፡ ወሥጋሃኒ ፡ ወደማሂ ፡ ምስለ ፡ ካዕሴሃ ፡ ወያውዕይዎ ።",
-      "translation": "",
+      "translation": "And they shall burn her to ashes before him; and her skin and her flesh and her blood, with her dung, shall be consumed.",
       "words": [
         {
           "g": "ወያውዕይዋ",
@@ -365,7 +365,7 @@
     {
       "num": 6,
       "geez": "ወይነሥእ ፡ ካህን ፡ ዕፀ ፡ አርዘ ፡ ወቈጽለ ፡ ህሦጱ ፡ ወለየ ፡ ወይወድይዎ ፡ ውስተ ፡ ማእከለ ፡ እሳታ ፡ ለይእቲ ፡\n                  እጐልት ።",
-      "translation": "",
+      "translation": "And the priest shall take cedar wood and hyssop and scarlet wool, and they shall cast them into the midst of the burning of the heifer.",
       "words": [
         {
           "g": "ወይነሥእ",
@@ -441,7 +441,7 @@
     {
       "num": 7,
       "geez": "ወየኀፅብ ፡ አልባሲሁ ፡ ካህን ፡ ወይትኀፀብ ፡ ሥጋሁ ፡ በማይ ፡ ወእምድኅረ ፡ ዝንቱ ፡ ይበውእ ፡ ውስተ ፡ ትዕይንት ፡\n                  ወርኩስ ፡ ውእቱ ፡ ካህን ፡ እስከ ፡ ሰርክ ።",
-      "translation": "",
+      "translation": "And the priest shall wash his garments, and bathe his body in water, and afterwards he shall go into the camp, and the priest shall be unclean till evening.",
       "words": [
         {
           "g": "ወየኀፅብ",
@@ -532,7 +532,7 @@
     {
       "num": 8,
       "geez": "ወዘአውዐያሂ ፡ የኀፅብ ፡ አልባሲሁ ፡ ወይትኀፀብ ፡ ሥጋሁ ፡ ወርኩስ ፡ ውእቱ ፡ እስከ ፡ ሰርክ ።",
-      "translation": "",
+      "translation": "And he that burns her shall wash his garments, and bathe his body, and shall be unclean till evening.",
       "words": [
         {
           "g": "ወዘአውዐያሂ",
@@ -588,7 +588,7 @@
     {
       "num": 9,
       "geez": "ወያስተጋብኦ ፡ ብእሲ ፡ ንጹሕ ፡ ለሐመዳ ፡ ወይክዕዎ ፡ አፍአ ፡ እምትዕይንት ፡ ውስተ ፡ መካን ፡ ንጹሕ ፡ ወይከውን ፡\n                  ለተዐቅቦ ፡ ለትዕይንቶሙ ፡ ለደቂቀ ፡ እስራኤል ፡ ለማየ ፡ መንዝኅ ፡ የዐቅብዎ ፡ እስመ ፡ ቦቱ ፡ ያነጽሑ ።",
-      "translation": "",
+      "translation": "And a clean man shall gather up the ashes of the heifer, and lay them up in a clean place outside the camp; and they shall be for the congregation of the children of Israel to keep: it is the water of sprinkling, a purification.",
       "words": [
         {
           "g": "ወያስተጋብኦ",
@@ -704,7 +704,7 @@
     {
       "num": 10,
       "geez": "ወዝክቱ ፡ ዘያስተጋብእ ፡ ሐመዳ ፡ ለይእቲ ፡ እጐልት ፡ የኀፅብ ፡ አልባሲሁ ፡ ወርኩስ ፡ ውእቱ ፡ እስከ ፡ ሰርክ ፡\n                  ወይኩኖሙ ፡ ለደቂቀ ፡ እስራኤል ፡ ወለግዩራን ፡ ለእለ ፡ ሀለዉ ፡ ውስቴትክሙ ፡ ማእከሌክሙ ፡ ሕግ ፡ ዘለዓለም ።",
-      "translation": "",
+      "translation": "And he that gathers up the ashes of the heifer shall wash his garments, and shall be unclean until evening; and it shall be a perpetual statute for the children of Israel and for the strangers joined to them.",
       "words": [
         {
           "g": "ወዝክቱ",
@@ -820,7 +820,7 @@
     {
       "num": 11,
       "geez": "ወዘገሰሰ ፡ በድነ ፡ ዘኵሉ ፡ ነፍሰ ፡ ሰብእ ፡ ርኩስ ፡ ውእቱ ፡ ሰቡዐ ፡ ዕለተ ።",
-      "translation": "",
+      "translation": "He that touches the dead body of any man, shall be unclean seven days.",
       "words": [
         {
           "g": "ወዘገሰሰ",
@@ -876,7 +876,7 @@
     {
       "num": 12,
       "geez": "ወከመዝ ፡ ያነጽሕ ፡ ርእሶ ፡ በሣልስት ፡ ዕለት ፡ ወበሳብዕት ፡ ዕለት ፡ ወይከውን ፡ ንጹሐ ፡ ወለእመሰ ፡ ኢያንጽሐ ፡\n                  ርእሶ ፡ በሣልስትኒ ፡ ዕለት ፡ ወበሳብዕትኒ ፡ ዕለት ፡ ኢ[ይነጽሕ] ።",
-      "translation": "",
+      "translation": "He shall be purified on the third day and the seventh day, and shall be clean; but if he be not purged on the third day and the seventh day, he shall not be clean.",
       "words": [
         {
           "g": "ወከመዝ",
@@ -972,7 +972,7 @@
     {
       "num": 13,
       "geez": "ኵሉ ፡ ዘገሰሰ ፡ በድነ ፡ ዘኵሉ ፡ ነፍሰ ፡ እጓለ ፡ እመ ፡ ሕያው ፡ ዘሞተ ፡ ወኢያንጽሐ ፡ ርእሶ ፡ አርኰሰ ፡\n                  ደብተራሁ ፡ ለእግዚአብሔር ፡ ለትትቀጥቀጥ ፡ ይእቲ ፡ ነፍስ ፡ እምነ ፡ እስራኤል ፡ እስመ ፡ ኢያንዝኀ ፡ ላዕሌሁ ፡ ማየ ፡\n                  መንዝኅ ፡ ርኩስ ፡ ውእቱ ፡ ወዓዲሁ ፡ ር[ኵሱ] ፡ ሀለወ ፡ ላዕሌሁ ።",
-      "translation": "",
+      "translation": "Every one that touches the carcase of the person of a man, if he should have died, and the other not have been purified, has defiled the tabernacle of the Lord: that soul shall be cut off from Israel, because the water of sprinkling has not been sprinkled upon him; he is unclean; his uncleanness is yet upon him.",
       "words": [
         {
           "g": "ኵሉ",
@@ -1133,7 +1133,7 @@
     {
       "num": 14,
       "geez": "ወከመዝ ፡ ሕጉ ፡ ለሰብእ ፡ ለእመቦ ፡ ዘሞተ ፡ በውስተ ፡ ቤት ፡ ኵሉ ፡ ዘቦአ ፡ ውስተ ፡ ውእቱ ፡ ቤት ፡ ወኵሉ ፡\n                  ዘሀለወ ፡ ውስተ ፡ ቤት ፡ ርኩስ ፡ ውእቱ ፡ ሰቡዐ ፡ መዋዕለ ።",
-      "translation": "",
+      "translation": "And this is the law; if a man die in a house, every one that goes into the house, and all things in the house, shall be unclean seven days.",
       "words": [
         {
           "g": "ወከመዝ",
@@ -1244,7 +1244,7 @@
     {
       "num": 15,
       "geez": "ወኵሉ ፡ ንዋይ ፡ ክሡት ፡ ወዘኢኮነ ፡ እሱረ ፡ ማእሰር ፡ ላዕሌሁ ፡ ርኩስ ፡ ውእቱ ።",
-      "translation": "",
+      "translation": "And every open vessel which has not a covering bound upon it, shall be unclean.",
       "words": [
         {
           "g": "ወኵሉ",
@@ -1300,7 +1300,7 @@
     {
       "num": 16,
       "geez": "ወኵሉ ፡ ዘገሰሰ ፡ በውስተ ፡ ምድር ፡ እመኒ ፡ ቅቱለ ፡ ወእመኒ ፡ በድን ፡ አው ፡ ዐጽመ ፡ ሰብእ ፡ አው ፡ መቃብር ፡\n                  ርኩስ ፡ ውእቱ ፡ ሰቡዐ ፡ መዋዕለ ።",
-      "translation": "",
+      "translation": "And every one who shall touch a man slain by violence, or a corpse, or human bone, or sepulchre, shall be unclean seven days.",
       "words": [
         {
           "g": "ወኵሉ",
@@ -1396,7 +1396,7 @@
     {
       "num": 17,
       "geez": "ወያመጽኡ ፡ ሎቱ ፡ ለዝክቱ ፡ ርኩስ ፡ እምውስተ ፡ ሐመዳ ፡ ለእንታክቲ ፡ እንተ ፡ አውዐዩ ፡ ለአንጽሖ ፡ ወይሰውጡ ፡\n                  ውስቴቱ ፡ ማየ ፡ ጥዑም ፡ በውስተ ፡ ግምዔ ።",
-      "translation": "",
+      "translation": "And they shall take for the unclean of the burnt ashes of purification, and they shall pour upon them running water into a vessel.",
       "words": [
         {
           "g": "ወያመጽኡ",
@@ -1487,7 +1487,7 @@
     {
       "num": 18,
       "geez": "ወያመጽኡ ፡ ቈጽለ ፡ ህሶጱ ፡ ወይጠምዖ ፡ ብእሲ ፡ ንጹሕ ፡ ውስተ ፡ ውእቱ ፡ ማይ ፡ ወይነዝኅ ፡ ላዕለ ፡ ውእቱ ፡ ቤት\n                  ፡ [ወ] ላዕለ ፡ ንዋዩ ፡ ወላዕለ ፡ ኵሉ ፡ ነፍስ ፡ ዘሀለወ ፡ ህየ ፡ ወዲበ ፡ ዘገሰሰ ፡ ዐጽመ ፡ ሰብእ ፡ ወእመኒ ፡\n                  ቅቱለ ፡ ወእመኒ ፡ በድን ፡ ወእመኒ ፡ መቃብር ።",
-      "translation": "",
+      "translation": "And a clean man shall take hyssop, and dip it into the water, and sprinkle it upon the house, and the furniture, and all the souls that are therein, and upon him that touched the human bone, or the slain man, or the corpse, or the tomb.",
       "words": [
         {
           "g": "ወያመጽኡ",
@@ -1648,7 +1648,7 @@
     {
       "num": 19,
       "geez": "ወይነዝኆ ፡ ዘንጹሕ ፡ ለርኩስ ፡ በሣልስት ፡ ዕለት ፡ ወበሳብዕት ፡ ዕለት ፡ ወይነጽሕ ፡ በሳብዕት ፡ ዕለት ፡ ወየኀፅብ\n                  ፡ አልባሲሁ ፡ ወይትኅፀብ ፡ ሥጋሁ ፡ በማይ ፡ ወርኩስ ፡ ውእቱ ፡ እስከ ፡ ሰርክ ።",
-      "translation": "",
+      "translation": "And the clean man shall sprinkle the water on the unclean on the third day and on the seventh day, and on the seventh day he shall purify himself; and the other shall wash his garments, and bathe himself in water, and shall be unclean until evening.",
       "words": [
         {
           "g": "ወይነዝኆ",
@@ -1754,7 +1754,7 @@
     {
       "num": 20,
       "geez": "ወብእሲ ፡ ዘረኵሰ ፡ ወኢያንጽሐ ፡ ርእሶ ፡ ለትሠሮ ፡ ይእቲ ፡ ነፍስ ፡ እምነ ፡ ማእከለ ፡ ትዕይንት ፡ እስመ ፡\n                  አርኰሰት ፡ ቅድሳቲሁ ፡ ለእግዚአብሔር ፡ እስመ ፡ ማየ ፡ መንዝኅ ፡ ኢተነዝኀ ፡ ላዕሌሁ ፡ ርኩስ ፡ ውእቱ ።",
-      "translation": "",
+      "translation": "And whatever man shall be defiled and shall not purify himself, that soul shall be cut off from the midst of the congregation, because he has defiled the holy things of the Lord, because the water of sprinkling has not been sprinkled upon him; he is unclean.",
       "words": [
         {
           "g": "ወብእሲ",
@@ -1870,7 +1870,7 @@
     {
       "num": 21,
       "geez": "ወይኩንክሙ ፡ ሕግ ፡ ዘለዓለም ፤ ወዘይነዝኅ ፡ ማየ ፡ መንዝኅ ፡ የኀፅብ ፡ አልባሲሁ ፡ ወዘገሰሶ ፡ ለ[ማየ ፡] መንዝኅ\n                  ፡ ርኩስ ፡ ውእቱ ፡ እስከ ፡ ሰርክ ።",
-      "translation": "",
+      "translation": "And it shall be to you a perpetual statute; and he that sprinkles the water of sprinkling shall wash his garments; and he that touches the water of sprinkling shall be unclean until evening.",
       "words": [
         {
           "g": "ወይኩንክሙ",
@@ -1951,7 +1951,7 @@
     {
       "num": 22,
       "geez": "ወኵሉ ፡ ዘገሰሶ ፡ ለርኩስ ፡ ይረኵስ ፡ ወነፍስ ፡ እንተ ፡ ገሰሰቶ ፡ ርኵስት ፡ ይእቲ ፡ እስከ ፡ ሰርክ ።",
-      "translation": "",
+      "translation": "And whatsoever the unclean man shall touch shall be unclean, and the soul that touches it shall be unclean till evening.",
       "words": [
         {
           "g": "ወኵሉ",
