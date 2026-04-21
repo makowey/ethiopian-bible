@@ -72,7 +72,10 @@
           "t": "wäkäləbäne",
           "gl": ""
         }
-      ]
+      ],
+      "translations": {
+        "ron": "Și am văzut un alt munte pe care erau copaci și curgea apă și din el curgea, parcă, un nectar al cărui nume este styrax și galbanum."
+      }
     },
     {
       "num": 2,
@@ -154,7 +157,10 @@
           "t": "zäṣənuʿə",
           "gl": ""
         }
-      ]
+      ],
+      "translations": {
+        "ron": "Și dincolo de acest munte, am văzut un alt munte, și pe el erau copaci de aloe, iar copacii aceia erau plini de un fruct, care este ca un migdal și este tare."
+      }
     },
     {
       "num": 3,
@@ -196,7 +202,10 @@
           "t": "ʾäfäwə",
           "gl": ""
         }
-      ]
+      ],
+      "translations": {
+        "ron": "Și când iau acest fruct, este mai bun decât orice parfum."
+      }
     }
   ]
 }

@@ -97,7 +97,10 @@
           "t": "wänäfasə",
           "gl": ""
         }
-      ]
+      ],
+      "translations": {
+        "ron": "Și de acolo am mers spre miazăzi, până la marginile Pământului, și acolo am văzut trei Porți ale Raiului deschise; și vântul de miazăzi, ceața și ploaia și vântul, ies de acolo."
+      }
     },
     {
       "num": 2,
@@ -189,7 +192,10 @@
           "t": "nəʾusanə",
           "gl": ""
         }
-      ]
+      ],
+      "translations": {
+        "ron": "Și de acolo m-am îndreptat spre răsărit de capetele Raiului și acolo am văzut cele trei Porți estice ale Raiului deschise, iar deasupra lor erau Porți mai mici."
+      }
     },
     {
       "num": 3,
@@ -266,7 +272,10 @@
           "t": "lomu",
           "gl": ""
         }
-      ]
+      ],
+      "translations": {
+        "ron": "Prin fiecare dintre aceste Porți mai mici trec stelele Raiului și merg spre apus, pe calea care le-a fost arătată."
+      }
     },
     {
       "num": 4,
@@ -448,7 +457,10 @@
           "t": "läʿalämə",
           "gl": ""
         }
-      ]
+      ],
+      "translations": {
+        "ron": "Și când am văzut, am binecuvântat și Îl voi binecuvânta mereu"
+      }
     }
   ]
 }

@@ -62,7 +62,10 @@
           "t": "qäräbəku",
           "gl": ""
         }
-      ]
+      ],
+      "translations": {
+        "ron": "Și m-am dus în alt loc, departe de pustie; Am ajuns aproape de estul acestui munte."
+      }
     },
     {
       "num": 2,
@@ -124,7 +127,10 @@
           "t": "ʾiyətəmasälo",
           "gl": ""
         }
-      ]
+      ],
+      "translations": {
+        "ron": "Și acolo am văzut Pomii Judecății, mai ales vase cu parfum de tămâie și smirnă, iar copacii nu erau la fel."
+      }
     }
   ]
 }

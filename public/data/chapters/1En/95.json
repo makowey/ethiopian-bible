@@ -92,7 +92,10 @@
           "t": "ləbəyä",
           "gl": ""
         }
-      ]
+      ],
+      "translations": {
+        "ron": "Fie ca ochii mei să fie un nor de ploaie, ca să plâng peste tine și să-mi vărs lacrimile ca ploaia, ca să mă odihnesc de durerea inimii mele!"
+      }
     },
     {
       "num": 2,
@@ -144,7 +147,10 @@
           "t": "kwənäne",
           "gl": ""
         }
-      ]
+      ],
+      "translations": {
+        "ron": "Cine ți-a permis să practici ura și răutatea? Fie ca judecata să vină asupra voastră, păcătoșilor!"
+      }
     },
     {
       "num": 3,
@@ -226,7 +232,10 @@
           "t": "fäqädəkəmu",
           "gl": ""
         }
-      ]
+      ],
+      "translations": {
+        "ron": "Nu vă temeți de păcătoși, drepți, căci Domnul îi va da iarăși în mâinile voastre, ca să-i judecați după cum doriți."
+      }
     },
     {
       "num": 4,
@@ -298,7 +307,10 @@
           "t": "ziʾakəmu",
           "gl": ""
         }
-      ]
+      ],
+      "translations": {
+        "ron": "Vai de voi care pronunțați anatema pe care nu o puteți elimina.. Vindecarea va fi departe de tine din cauza păcatului tău."
+      }
     },
     {
       "num": 5,
@@ -355,7 +367,10 @@
           "t": "məgəbarikəmu",
           "gl": ""
         }
-      ]
+      ],
+      "translations": {
+        "ron": "Vai de tine, care răsplătești aproapelui tău cu rău, căci vei fi răsplătit după faptele tale."
+      }
     },
     {
       "num": 6,
@@ -412,7 +427,10 @@
           "t": "tətəhägwälu",
           "gl": ""
         }
-      ]
+      ],
+      "translations": {
+        "ron": "Vai de voi, martorii mincinoși, și de cei care cântăresc fărădelegea, căci veți fi nimiciți repede."
+      }
     },
     {
       "num": 7,
@@ -494,7 +512,10 @@
           "t": "ziʾahomu",
           "gl": ""
         }
-      ]
+      ],
+      "translations": {
+        "ron": "Vai de voi, păcătoșilor, pentru că prigoniți pe cei drepți, căci voi înșivă veți fi predați și prigoniți, oameni ai fărădelegii, și jugul lor va fi greu pentru voi."
+      }
     }
   ]
 }

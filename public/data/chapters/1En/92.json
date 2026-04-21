@@ -132,7 +132,10 @@
           "t": "wäsälamä",
           "gl": ""
         }
-      ]
+      ],
+      "translations": {
+        "ron": "Scrisă de Enoh-Scribe, această înțelepciune și învățătură completă, lăudate de toți oamenii și un judecător al întregului Pământ. Pentru toți fiii mei care locuiesc pe Pământ. Și pentru ultimele generații care vor practica dreptatea și pacea."
+      }
     },
     {
       "num": 2,
@@ -184,7 +187,10 @@
           "t": "läkwəlu",
           "gl": ""
         }
-      ]
+      ],
+      "translations": {
+        "ron": "Duhul tău să nu fie întristat de vremuri, pentru că Sfântul și Marele a rânduit zile pentru toate lucrurile."
+      }
     },
     {
       "num": 3,
@@ -256,7 +262,10 @@
           "t": "zäläʿalämə",
           "gl": ""
         }
-      ]
+      ],
+      "translations": {
+        "ron": "Iar omul drept se va trezi din somn, se va trezi și va umbla pe calea dreptății și toate cărările și călătoriile l vor fi în bunătate și îndurare veșnică."
+      }
     },
     {
       "num": 4,
@@ -333,7 +342,10 @@
           "t": "zäläʿalämə",
           "gl": ""
         }
-      ]
+      ],
+      "translations": {
+        "ron": "El va arăta milă omului drept și lui îi va da dreptate veșnică și lui îi va d putere. Și va trăi în bunătate și dreptate ș va umbla în lumina veșnică."
+      }
     },
     {
       "num": 5,
@@ -395,7 +407,10 @@
           "t": "läʿalämə",
           "gl": ""
         }
-      ]
+      ],
+      "translations": {
+        "ron": "Și păcatul va fi nimicit în întuneric, pentru totdeauna, și din ziua aceea nu se va mai vedea niciodată."
+      }
     }
   ]
 }

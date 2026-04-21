@@ -57,7 +57,10 @@
           "t": "wärəḫə",
           "gl": ""
         }
-      ]
+      ],
+      "translations": {
+        "ron": "Și după această lege am văzut o altă lege, pentru lumina mai mică, numită Lună."
+      }
     },
     {
       "num": 2,
@@ -134,7 +137,10 @@
           "t": "bərəhanə",
           "gl": ""
         }
-      ]
+      ],
+      "translations": {
+        "ron": "Și discul său este ca discul Soarelui și vântul își bate carul pe care călărește și i se dă lumină într-o măsură fixă."
+      }
     },
     {
       "num": 3,
@@ -236,7 +242,10 @@
           "t": "ṣ́äḥayə",
           "gl": ""
         }
-      ]
+      ],
+      "translations": {
+        "ron": "Și în fiecare lună răsare și apune se schimbă, iar zilele lui sunt ca zilele Soarelui, iar când lumina sa este uniform plină, este o a șaptea parte din lumina Soarelui."
+      }
     },
     {
       "num": 4,
@@ -368,7 +377,10 @@
           "t": "ṣ́äḥayə",
           "gl": ""
         }
-      ]
+      ],
+      "translations": {
+        "ron": "Și astfel se ridică, iar prima sa fază este spre răsărit; se răsare în a treizecea dimineață. Și în acea zi apare, și devine pentru voi prima fază a Lunii, în a treizecea dimineață, împreună cu Soarele în Poarta prin care răsare Soarele."
+      }
     },
     {
       "num": 5,
@@ -470,7 +482,10 @@
           "t": "bərəhanu",
           "gl": ""
         }
-      ]
+      ],
+      "translations": {
+        "ron": "Și jumătate. （ … .. ） .cu o a"
+      }
     },
     {
       "num": 6,
@@ -537,7 +552,10 @@
           "t": "wämänəfäqa",
           "gl": ""
         }
-      ]
+      ],
+      "translations": {
+        "ron": "Și în ziua în care primește o a șaptea parte și jumătate din lumina sa, lumina ei se ridică la o șaptea parte și o șaptea parte și jumătate."
+      }
     },
     {
       "num": 7,
@@ -704,7 +722,10 @@
           "t": "wänəfəqa",
           "gl": ""
         }
-      ]
+      ],
+      "translations": {
+        "ron": "Apune odată cu Soarele, iar când Soarele răsare, Luna răsare odată cu el și primește jumătate dintr-o parte de lumină. Și în acea noapte, la începutul dimineții sale, la începutul zilei Lunii, Luna apune împreună cu Soarele și este întuneric în acea noapte în șase și șapte părți și jumătate."
+      }
     },
     {
       "num": 8,
@@ -791,7 +812,10 @@
           "t": "ʾədä",
           "gl": ""
         }
-      ]
+      ],
+      "translations": {
+        "ron": "Și răsare în acea zi, cu exact o a șaptea parte, se stinge, se retrage de la răsăritul Soarelui și devine strălucitor în restul zilelor sale, în celelalte șase și șapte părți."
+      }
     }
   ]
 }

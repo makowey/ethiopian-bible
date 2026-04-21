@@ -102,7 +102,10 @@
           "t": "zäläʿalämə",
           "gl": ""
         }
-      ]
+      ],
+      "translations": {
+        "ron": "Primul sfert l-au numit răsărit pentru că este primul, iar pe cel de-al doilea îl numesc miazăzi pentru că acolo se coboară Cel Preaînalt și acolo mai ales se coboară cel binecuvântat în veci."
+      }
     },
     {
       "num": 2,
@@ -164,7 +167,10 @@
           "t": "wäyəwärədu",
           "gl": ""
         }
-      ]
+      ],
+      "translations": {
+        "ron": "Iar cartierul vestic se numește scădere pentru că acolo toate luminile Raiului se sting și se sting."
+      }
     },
     {
       "num": 3,
@@ -286,7 +292,10 @@
           "t": "ṣədəqə",
           "gl": ""
         }
-      ]
+      ],
+      "translations": {
+        "ron": "Iar al patrulea sfert, numit nord, este împărțit în trei părți. Iar primul dintre ei este locul de locuit pentru oameni; iar al doilea conţine mări de apă, şi adâncuri, şi păduri, şi râuri, şi întuner şi ceaţă; iar a treia parte conține Grădina Dreptății."
+      }
     },
     {
       "num": 4,
@@ -388,7 +397,10 @@
           "t": "wäʿamätə",
           "gl": ""
         }
-      ]
+      ],
+      "translations": {
+        "ron": "Am văzut șapte munți înalți, care erau mai înalți decât toți ceilalți munți de pe pământ; si de la ei vine zapada. Și zile, vremuri și ani, trec și trec."
+      }
     },
     {
       "num": 5,
@@ -480,7 +492,10 @@
           "t": "mayo",
           "gl": ""
         }
-      ]
+      ],
+      "translations": {
+        "ron": "Am văzut șapte râuri pe pământ, mai mari decât toate celelalte râuri; unul dintre ei vine din est și își revarsă apele în Marea Mare."
+      }
     },
     {
       "num": 6,
@@ -542,7 +557,10 @@
           "t": "ʾəməśəraqə",
           "gl": ""
         }
-      ]
+      ],
+      "translations": {
+        "ron": "Și doi dintre ei vin de la miazănoapte la mare și își varsă apa în Marea Eritree, la răsărit."
+      }
     },
     {
       "num": 7,
@@ -639,7 +657,10 @@
           "t": "mädəbära",
           "gl": ""
         }
-      ]
+      ],
+      "translations": {
+        "ron": "Iar ceilalți patru se scurg pe partea de miazănoapte, în mările lor, doi în Marea Eritree și doi în Marea Mare și se vărsă acolo, și nu în pustie, cum spun unii."
+      }
     },
     {
       "num": 8,
@@ -701,7 +722,10 @@
           "t": "ʿäbiyə",
           "gl": ""
         }
-      ]
+      ],
+      "translations": {
+        "ron": "Am văzut șapte insule mari, în mare și pe pământ, două pe pământ și cinci în Marea Mare."
+      }
     }
   ]
 }

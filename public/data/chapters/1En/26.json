@@ -77,7 +77,10 @@
           "t": "zätämätərä",
           "gl": ""
         }
-      ]
+      ],
+      "translations": {
+        "ron": "Și de acolo, m-am dus la mijlocul pământului și am văzut un loc binecuvântat, bine udat, care avea ramuri care au rămas vii și au încolțit dintr-un copac care fusese tăiat."
+      }
     },
     {
       "num": 2,
@@ -144,7 +147,10 @@
           "t": "sämenə",
           "gl": ""
         }
-      ]
+      ],
+      "translations": {
+        "ron": "Și acolo am văzut un munte sfânt și sub munte, la răsărit de el, era apă și curgea spre miazăzi."
+      }
     },
     {
       "num": 3,
@@ -241,7 +247,10 @@
           "t": "däbərə",
           "gl": ""
         }
-      ]
+      ],
+      "translations": {
+        "ron": "Și am văzut spre răsărit, un alt munte, care era de aceeași înălțime, și între ei, era o vale adâncă și îngustă; iar în el, un pârâu curgea pe lângă munte."
+      }
     },
     {
       "num": 4,
@@ -343,7 +352,10 @@
           "t": "śäläsətihomu",
           "gl": ""
         }
-      ]
+      ],
+      "translations": {
+        "ron": "Și la apus de acesta, era un alt munte, care era mai jos decât era și nu înalt; iar sub ea, între ei era o vale. Și m erau și alte văi adânci și uscate la capătul celor trei munți."
+      }
     },
     {
       "num": 5,
@@ -400,7 +412,10 @@
           "t": "bälaʿəlehonə",
           "gl": ""
         }
-      ]
+      ],
+      "translations": {
+        "ron": "Și toate văile erau adânci și înguste, de stâncă tare, și pe ele erau plantați copaci."
+      }
     },
     {
       "num": 6,
@@ -447,7 +462,10 @@
           "t": "ʾänəkärəku",
           "gl": ""
         }
-      ]
+      ],
+      "translations": {
+        "ron": "Și am fost uimit de stâncă și am fost uimit de vale; Am fost foarte uimit."
+      }
     }
   ]
 }

@@ -52,7 +52,10 @@
           "t": "sämayatə",
           "gl": ""
         }
-      ]
+      ],
+      "translations": {
+        "ron": "Înțelepciunea nu a găsit loc unde să poată locui și locuința ei era în Rai."
+      }
     },
     {
       "num": 2,
@@ -139,7 +142,10 @@
           "t": "mälaʾəkətə",
           "gl": ""
         }
-      ]
+      ],
+      "translations": {
+        "ron": "Înțelepciunea a ieșit, ca să locuiască printre fiii oamenilor, dar nu a găsit locuință; înțelepciunea s-a întors la locul ei și s-a așezat în mijlocul Îngerilor."
+      }
     },
     {
       "num": 3,
@@ -216,7 +222,10 @@
           "t": "ṣəməʾətə",
           "gl": ""
         }
-      ]
+      ],
+      "translations": {
+        "ron": "Și nelegiuirea a ieșit din odăile ei; pe cei pe care nu i-a căutat, ia găsit și a locuit printre ei, ca ploaia în pustie și ca roua pe pământul uscat."
+      }
     }
   ]
 }

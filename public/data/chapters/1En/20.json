@@ -42,7 +42,10 @@
           "t": "mälaʾəkətə",
           "gl": ""
         }
-      ]
+      ],
+      "translations": {
+        "ron": "Și acestea sunt numele Sfinții Îngeri care veghează."
+      }
     },
     {
       "num": 2,
@@ -84,7 +87,10 @@
           "t": "wäzäräʿadə",
           "gl": ""
         }
-      ]
+      ],
+      "translations": {
+        "ron": "Uriel, unul dintre Sfinții Îngeri; anume Sfântul Înger al Duhurilor Oamenilor."
+      }
     },
     {
       "num": 3,
@@ -121,7 +127,10 @@
           "t": "säbəʾə",
           "gl": ""
         }
-      ]
+      ],
+      "translations": {
+        "ron": "Acolo am mai vazut sapte stele inlantuite unele cu altele precum niste munti mari, precum niste focuri mistuitoare. Si am strigat cand am vazut aceasta. Pentru ce crime sunt inlantuite aceste stele; pentru ce au fost ele surghiunite in acest loc ? Atunci Uriel, unul dintre ingerii care era cu mine si care mi-a fost insotitor, mi-a raspuns: Enoh de ce o astfel de intrebare ? de ce aceasta ingrijorare, aceasta neliniste ?"
+      }
     },
     {
       "num": 4,
@@ -163,7 +172,10 @@
           "t": "wäläbərəhanatə",
           "gl": ""
         }
-      ]
+      ],
+      "translations": {
+        "ron": "Raguel, unul dintre Sfinții Îngeri; care se răzbună pe lume și pe lumini."
+      }
     },
     {
       "num": 5,
@@ -225,7 +237,10 @@
           "t": "ḥəzəbə",
           "gl": ""
         }
-      ]
+      ],
+      "translations": {
+        "ron": "Mihail, unul dintre Sfinții Îngeri, și anume cel pus la conducerea celei mai bune părți a omenirii, la conducerea"
+      }
     },
     {
       "num": 6,
@@ -282,7 +297,10 @@
           "t": "yäḫäṭəʾu",
           "gl": ""
         }
-      ]
+      ],
+      "translations": {
+        "ron": "Saraqael, unul dintre Sfinții Îngeri; care se ocupă de spiritele oamenilor care fac duhurile să păcătuiască."
+      }
     },
     {
       "num": 7,
@@ -334,7 +352,10 @@
           "t": "wäzäkirubelə",
           "gl": ""
         }
-      ]
+      ],
+      "translations": {
+        "ron": "Gavriil, unul dintre Sfinții Îngeri, care se ocupă de Șerpi, de Grădină și de Heruvimi."
+      }
     }
   ]
 }

@@ -112,7 +112,10 @@
           "t": "dibeha",
           "gl": ""
         }
-      ]
+      ],
+      "translations": {
+        "ron": "Și am văzut scris pe ei: acea generație după generație va face rău, până când se va naște o generație de dreptate și nelegiuirea va fi distrusă și păcatul se va îndepărta de pe pământ și tot ce este bun va veni peste el."
+      }
     },
     {
       "num": 2,
@@ -199,7 +202,10 @@
           "t": "ḥäsätä",
           "gl": ""
         }
-      ]
+      ],
+      "translations": {
+        "ron": "Și acum, fiul meu, du-te, fă-i cunoscut fiului tău Lameh că acest copil care s-a născut, este cu adevărat fiul lui și aceasta nu este o minciună."
+      }
     },
     {
       "num": 3,
@@ -326,7 +332,10 @@
           "t": "hägwələ",
           "gl": ""
         }
-      ]
+      ],
+      "translations": {
+        "ron": "Și când Matusala a auzit cuvintele tatălui său Enoh - căci el i-a arătat tot ce este secret - s-a întors, după ce l-a văzut, și a pus numele aceluia copil Noe; căci el va mângâia Pământul după toată distrugerea."
+      }
     }
   ]
 }

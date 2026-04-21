@@ -62,7 +62,10 @@
           "t": "taʾəmərə",
           "gl": ""
         }
-      ]
+      ],
+      "translations": {
+        "ron": "mi-a raspuns si mi-a spus: „Enoh, de ce mă întrebi despre parfumul acestui copac și de ce întrebi să înveți?”"
+      }
     },
     {
       "num": 2,
@@ -144,7 +147,10 @@
           "t": "ʿəṣ́ə",
           "gl": ""
         }
-      ]
+      ],
+      "translations": {
+        "ron": "Atunci eu, Enoh, i-am răspuns zicând: „Aș dori să învăț despre totul, dar mai ales despre acest copac.”"
+      }
     },
     {
       "num": 3,
@@ -281,7 +287,10 @@
           "t": "bäśänayə",
           "gl": ""
         }
-      ]
+      ],
+      "translations": {
+        "ron": "Și mi-a răspuns, zicând: „Acest munte înalt, pe care l-ai văzut, al cărui vârf este ca Tronul Domnului, este tronul unde va ședea Sfântul și Marele, Domnul Slavei, Împăratul Veșnic, când coboară să viziteze Pământul definitiv."
+      }
     },
     {
       "num": 4,
@@ -413,7 +422,10 @@
           "t": "yətəwähäbə",
           "gl": ""
         }
-      ]
+      ],
+      "translations": {
+        "ron": "Și acest copac frumos și înmiresmat și nicio făptură din carne nu are autoritate să-l atingă până la marea judecată, când se va răzbuna asupra tuturor și va duce totul la desăvârșire pentru totdeauna, aceasta va fi dată celor drepți și smeriți."
+      }
     },
     {
       "num": 5,
@@ -500,7 +512,10 @@
           "t": "zäläʿalämə",
           "gl": ""
         }
-      ]
+      ],
+      "translations": {
+        "ron": "Din rodul ei, viața va fi dată celor aleși; spre miazănoapte va fi sădit, într-un loc Sfânt, de casa Domnului, Împăratul Veșnic."
+      }
     },
     {
       "num": 6,
@@ -637,7 +652,10 @@
           "t": "ʾiyəgäsəsomu",
           "gl": ""
         }
-      ]
+      ],
+      "translations": {
+        "ron": "Atunci ei se vor bucura cu bucurie și se vor veseli în Locul Sfânt. Fiecare îi va atrage în oase parfumul ei și vor trăi o viață lungă pe pământ, așa cum au trăit părinții voștri. Și în zilele lor, întristarea și durerea, truda și pedeapsa nu se vor atinge de ei.”"
+      }
     },
     {
       "num": 7,
@@ -734,7 +752,10 @@
           "t": "yähäbəwomu",
           "gl": ""
         }
-      ]
+      ],
+      "translations": {
+        "ron": "Atunci l-am binecuvântat pe Domnul slavei, Împăratul veșnic, pentru că a pregătit astfel de lucruri pentru oamenii drepți și a creat astfel de lucruri și a spus că li se vor da."
+      }
     }
   ]
 }

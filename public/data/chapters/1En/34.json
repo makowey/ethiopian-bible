@@ -77,7 +77,10 @@
           "t": "mədərə",
           "gl": ""
         }
-      ]
+      ],
+      "translations": {
+        "ron": "Și de acolo am mers spre miazănoapte, până la marginile Pământului, și acolo am văzut o minune mare și glorioasă la marginile întregului Pământ."
+      }
     },
     {
       "num": 2,
@@ -194,7 +197,10 @@
           "t": "wäzənamə",
           "gl": ""
         }
-      ]
+      ],
+      "translations": {
+        "ron": "Și acolo am văzut trei Porți ale Raiului; prin fiecare dintre ele se sting vânturile de nord; când sufla este frig, grindină, brumă, zăpadă, ceață și ploaie."
+      }
     },
     {
       "num": 3,
@@ -276,7 +282,10 @@
           "t": "yənäfəḫu",
           "gl": ""
         }
-      ]
+      ],
+      "translations": {
+        "ron": "Și dintr-o Poartă, suflă de bine; dar când suflă prin celelalte două Porți, este cu forță și aduce chin peste pământ și ei suflă cu putere."
+      }
     }
   ]
 }

@@ -47,7 +47,10 @@
           "t": "tomasəsə",
           "gl": ""
         }
-      ]
+      ],
+      "translations": {
+        "ron": "Numele Soarelui su următoarele: Primul Oryares și al doilea Tomases."
+      }
     },
     {
       "num": 2,
@@ -119,7 +122,10 @@
           "t": "ʾeraʿə",
           "gl": ""
         }
-      ]
+      ],
+      "translations": {
+        "ron": "Luna are patru nume: primul nume este Asonya, al doilea Ebla, al treilea Benase și al patrulea Era'e."
+      }
     },
     {
       "num": 3,
@@ -186,7 +192,10 @@
           "t": "ʿəruyanə",
           "gl": ""
         }
-      ]
+      ],
+      "translations": {
+        "ron": "Acestea sunt cele două mari lumini; discul lor este ca discul Raiului și ca mărime cei doi sunt egali."
+      }
     },
     {
       "num": 4,
@@ -268,7 +277,10 @@
           "t": "ṣ́äḥayə",
           "gl": ""
         }
-      ]
+      ],
+      "translations": {
+        "ron": "În discul Soarelui, sunt șapte părți de lumină, care i se adaugă mai mult decât Lunii, iar în măsură fixă lumina este transferată către Lună până când o a șaptea parte a Soarelui este epuizată."
+      }
     },
     {
       "num": 5,
@@ -350,7 +362,10 @@
           "t": "sämayə",
           "gl": ""
         }
-      ]
+      ],
+      "translations": {
+        "ron": "Și s-au așezat, au intrat în Porțile de la apus, au ocolit prin nord și s-au ridicat prin Porțile de la răsărit, pe fața Raiului."
+      }
     },
     {
       "num": 6,
@@ -437,7 +452,10 @@
           "t": "bərəhano",
           "gl": ""
         }
-      ]
+      ],
+      "translations": {
+        "ron": "Și când Luna răsare, ea apare pe cer și are jumătate din a șaptea parte de"
+      }
     },
     {
       "num": 7,
@@ -549,7 +567,10 @@
           "t": "ʾədə",
           "gl": ""
         }
-      ]
+      ],
+      "translations": {
+        "ron": "Și i se transferă cincisprezece părți de lumină, până când în a cincisprezecea zi lumina ei este plină, după semnul anului, și se ridică la cincisprezece părți. Și Luna ia ființă pe ic jumătate dintr-o a șaptea parte."
+      }
     },
     {
       "num": 8,
@@ -946,7 +967,10 @@
           "t": "ʾəməkwəlu",
           "gl": ""
         }
-      ]
+      ],
+      "translations": {
+        "ron": "Și în scăderea sa în prima zi, scade la paisprezece părți din lumina sa. Și pe a doua la treisprezece părți, și pe a treia la douăsprezece părți, pe a patra la unsprezece părți, și pe a cincea la zece părți și pe a șasea la nouă părți și pe a șaptea la opt părți și pe a opta până la șapte părți, și pe a noua până la șase părți și pe a zecea până la cinci părți și pe a unsprezecea până la patru părți și pe a doisprezecea până la trei și pe al treisprezecelea la doi și pe al paisprezecelea la jumătatea unei părți a șaptea. Și toată lumina care rămâne din total dispare în a cincisprezecea zi."
+      }
     },
     {
       "num": 9,
@@ -1018,7 +1042,10 @@
           "t": "wäsämunə",
           "gl": ""
         }
-      ]
+      ],
+      "translations": {
+        "ron": "Și în anumite luni Luna are douăzeci și nouă de zile și o dată douăzeci și opt."
+      }
     },
     {
       "num": 10,
@@ -1090,7 +1117,10 @@
           "t": "ʾəməṣ́äḥayə",
           "gl": ""
         }
-      ]
+      ],
+      "translations": {
+        "ron": "Și Uriel mi-a arătat o altă lege: - când lumina este transferată pe Lună și pe ce parte este transferată de la Soare."
+      }
     },
     {
       "num": 11,
@@ -1217,7 +1247,10 @@
           "t": "sämayə",
           "gl": ""
         }
-      ]
+      ],
+      "translations": {
+        "ron": "Tot timpul în care Luna crește nt în lumina ei, se transferă pe măsură ce devine opusă Soarelui, până când în paisprezece zile lumina e plină pe cer; iar când totul este în flăcări, lumina e plină pe cer."
+      }
     },
     {
       "num": 12,
@@ -1274,7 +1307,10 @@
           "t": "bərəhanə",
           "gl": ""
         }
-      ]
+      ],
+      "translations": {
+        "ron": "Și în prima zi se numește Lună Nouă, pentru că în aceea, lumina zilei răsare pe ea."
+      }
     },
     {
       "num": 13,
@@ -1396,7 +1432,10 @@
           "t": "ṣ́äḥayə",
           "gl": ""
         }
-      ]
+      ],
+      "translations": {
+        "ron": "Și lumina sa devine plină exact în ziua în care, pe măsură ce Soarele apune în vest, răsare din est pentru noapte. Și Luna strălucește toată noaptea până când Soarele răsare în fața ei, iar Luna este văzută vizavi de Soare."
+      }
     },
     {
       "num": 14,
@@ -1498,7 +1537,10 @@
           "t": "bərəhanə",
           "gl": ""
         }
-      ]
+      ],
+      "translations": {
+        "ron": "Iar pe partea pe care apare lumina Lunii, acolo din nou scade, până când toată lumina ei dispare, iar zilele Lunii se termină și discul ei rămâne gol fără lumină."
+      }
     },
     {
       "num": 15,
@@ -1640,7 +1682,10 @@
           "t": "wäsäbəʿätu",
           "gl": ""
         }
-      ]
+      ],
+      "translations": {
+        "ron": "Și timp de trei luni, la timpul său, împlinește treizeci de zile, iar timp"
+      }
     },
     {
       "num": 16,
@@ -1722,7 +1767,10 @@
           "t": "mäwaʿələ",
           "gl": ""
         }
-      ]
+      ],
+      "translations": {
+        "ron": "Și în timpul răsăririi, timp de trei luni, apare în fiecare lună cu treizeci de zile. Și timp de trei luni apare în fiecare lună cu douăzeci și nouă de zile"
+      }
     },
     {
       "num": 17,
@@ -1809,7 +1857,10 @@
           "t": "ziʾaha",
           "gl": ""
         }
-      ]
+      ],
+      "translations": {
+        "ron": "Noaptea, timp de douăzeci de zile de fiecare dată, arată ca un om, iar ziua ca Raiul, pentru că nu este nimic altceva în el decât lumina."
+      }
     }
   ]
 }
