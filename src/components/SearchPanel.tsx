@@ -67,9 +67,11 @@ const NAME_TO_ABBREV: Record<string, string> = {
   '3meqabyan': '3Meq', '3meq': '3Meq',
   '4baruch': '4Bar', '4bar': '4Bar',
   kebranagast: 'KN', kebra: 'KN', kn: 'KN',
+  esther: 'EsthGk', est: 'EsthGk', esth: 'EsthGk', esthgk: 'EsthGk', 'esther(greek)': 'EsthGk',
   susanna: 'Sus', sus: 'Sus',
   daniel2: 'Dan', bel: 'Bel',
   '1esdras': '1Esd', '1esd': '1Esd',
+  prayerofmanasseh: 'PrMan', prman: 'PrMan', 'prayerofmanasses': 'PrMan',
   nehemiah2: 'Neh',
 }
 
