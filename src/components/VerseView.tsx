@@ -28,10 +28,10 @@ export const VerseView = memo(function VerseView({
   isFocused = false,
 }: VerseViewProps) {
   const { readingMode, showTransliteration, showLxx, showKjv, showRon, showAiTranslation, fontSize } = settings
-  const hasLxx = verse.translations?.lxx
-  const hasKjv = verse.translations?.kjv
-  const hasRon = verse.translations?.ron
-  const hasDual = hasLxx || hasKjv || hasRon
+  const hasLxx = showLxx && verse.translations?.lxx
+  const hasKjv = showKjv && verse.translations?.kjv
+  const hasRon = showRon && verse.translations?.ron
+  const hasDual = !!(hasLxx || hasKjv || hasRon)
   const [, setAnnotationKey] = useState(0)
   const handleAnnotationChange = useCallback(() => setAnnotationKey(k => k + 1), [])
   const [copied, setCopied] = useState(false)
@@ -119,6 +119,8 @@ export const VerseView = memo(function VerseView({
             <CompareModeBlock
               verse={verse}
               hasDual={!!hasDual}
+              showLxx={showLxx}
+              showKjv={showKjv}
               showRon={showRon}
               showAiTranslation={showAiTranslation}
               fontSize={fontSize}
@@ -279,12 +281,16 @@ function ReadModeBlock({ verse, showRon, showAiTranslation, fontSize }: { verse:
 function CompareModeBlock({
   verse,
   hasDual,
+  showLxx,
+  showKjv,
   showRon,
   showAiTranslation,
   fontSize,
 }: {
   verse: Verse
   hasDual: boolean
+  showLxx: boolean
+  showKjv: boolean
   showRon: boolean
   showAiTranslation: boolean
   fontSize: number
@@ -312,7 +318,7 @@ function CompareModeBlock({
 
   return (
     <div className="grid grid-cols-1 sm:grid-cols-2 gap-3">
-      {verse.translations?.lxx && (
+      {showLxx && verse.translations?.lxx && (
         <div className="border-l border-lxx-border/60 pl-3">
           <span className="text-lxx/60 text-[0.65rem] font-body italic tracking-wide">
             Septuagint
@@ -325,7 +331,7 @@ function CompareModeBlock({
           </p>
         </div>
       )}
-      {verse.translations?.kjv && (
+      {showKjv && verse.translations?.kjv && (
         <div className="border-l border-mt-border/60 pl-3">
           <span className="text-mt/60 text-[0.65rem] font-body italic tracking-wide">
             King James
