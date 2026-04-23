@@ -27,11 +27,12 @@ export const VerseView = memo(function VerseView({
   onToggleBookmark,
   isFocused = false,
 }: VerseViewProps) {
-  const { readingMode, showTransliteration, showLxx, showKjv, showRon, showAiTranslation, fontSize } = settings
+  const { readingMode, showTransliteration, showLxx, showKjv, showRon, showAiTranslation, showGrk, fontSize } = settings
   const hasLxx = showLxx && verse.translations?.lxx
   const hasKjv = showKjv && verse.translations?.kjv
   const hasRon = showRon && verse.translations?.ron
-  const hasDual = !!(hasLxx || hasKjv || hasRon)
+  const hasGrk = showGrk && verse.translations?.grk
+  const hasDual = !!(hasLxx || hasKjv || hasRon || hasGrk)
   const [, setAnnotationKey] = useState(0)
   const handleAnnotationChange = useCallback(() => setAnnotationKey(k => k + 1), [])
   const [copied, setCopied] = useState(false)
@@ -106,6 +107,7 @@ export const VerseView = memo(function VerseView({
               showLxx={showLxx}
               showKjv={showKjv}
               showRon={showRon}
+              showGrk={showGrk}
               showAiTranslation={showAiTranslation}
               fontSize={fontSize}
             />
@@ -122,6 +124,7 @@ export const VerseView = memo(function VerseView({
               showLxx={showLxx}
               showKjv={showKjv}
               showRon={showRon}
+              showGrk={showGrk}
               showAiTranslation={showAiTranslation}
               fontSize={fontSize}
             />
@@ -172,6 +175,7 @@ function TranslationBlock({
   showLxx,
   showKjv,
   showRon,
+  showGrk,
   showAiTranslation,
   fontSize,
 }: {
@@ -180,6 +184,7 @@ function TranslationBlock({
   showLxx: boolean
   showKjv: boolean
   showRon: boolean
+  showGrk: boolean
   showAiTranslation: boolean
   fontSize: number
 }) {
@@ -240,11 +245,24 @@ function TranslationBlock({
           </p>
         </div>
       )}
+      {showGrk && verse.translations?.grk && (
+        <div className="border-l border-grk-border/60 pl-3">
+          <span className="text-grk/60 text-[0.65rem] font-body italic tracking-wide">
+            Greek LXX
+          </span>
+          <p
+            className="verse-text text-text mt-0.5"
+            style={{ fontSize: fontSize * 0.85, fontFamily: 'var(--font-grk)', lineHeight: 1.65 }}
+          >
+            {verse.translations.grk}
+          </p>
+        </div>
+      )}
       {showAiTranslation && aiEntry && (
         <AiTranslationBlock aiEntry={aiEntry} fontSize={fontSize} />
       )}
       {/* Fallback if no source toggled on but we have the generic translation */}
-      {!showLxx && !showKjv && !showRon && !showAiTranslation && verse.translation && (
+      {!showLxx && !showKjv && !showRon && !showGrk && !showAiTranslation && verse.translation && (
         <p className="verse-text text-text" style={{ fontSize: fontSize * 0.85 }}>
           {verse.translation}
         </p>
@@ -284,6 +302,7 @@ function CompareModeBlock({
   showLxx,
   showKjv,
   showRon,
+  showGrk,
   showAiTranslation,
   fontSize,
 }: {
@@ -292,6 +311,7 @@ function CompareModeBlock({
   showLxx: boolean
   showKjv: boolean
   showRon: boolean
+  showGrk: boolean
   showAiTranslation: boolean
   fontSize: number
 }) {
@@ -354,6 +374,19 @@ function CompareModeBlock({
             style={{ fontSize: fontSize * 0.85 }}
           >
             {verse.translations.ron}
+          </p>
+        </div>
+      )}
+      {showGrk && verse.translations?.grk && (
+        <div className="border-l border-grk-border/60 pl-3">
+          <span className="text-grk/60 text-[0.65rem] font-body italic tracking-wide">
+            Greek LXX
+          </span>
+          <p
+            className="verse-text text-text mt-0.5"
+            style={{ fontSize: fontSize * 0.85, fontFamily: 'var(--font-grk)', lineHeight: 1.65 }}
+          >
+            {verse.translations.grk}
           </p>
         </div>
       )}
