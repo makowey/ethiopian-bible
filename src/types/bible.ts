@@ -21,7 +21,7 @@ export interface Translations {
   ron?: string              // Romanian Orthodox Bible (Biblia Ortodoxă, based on LXX)
   'geez-source'?: string
   ai?: TranslationEntry     // AI-assisted translation with confidence metadata
-  grk?: string
+  grk?: string              // Greek LXX source text (Rahlfs, Unicode polytonic)
 }
 
 export interface Verse {
