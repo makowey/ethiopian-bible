@@ -135,6 +135,16 @@ export function Settings({ open, onClose, settings, onUpdate }: SettingsProps) {
               <label className="flex items-center gap-3 cursor-pointer">
                 <input
                   type="checkbox"
+                  checked={settings.showGrk}
+                  onChange={e => onUpdate({ showGrk: e.target.checked })}
+                  className="w-4 h-4 rounded border-border accent-accent"
+                />
+                <span className="w-1.5 h-1.5 rounded-full bg-grk flex-shrink-0" aria-hidden="true" />
+                <span className="text-sm font-body text-text">Greek LXX</span>
+              </label>
+              <label className="flex items-center gap-3 cursor-pointer">
+                <input
+                  type="checkbox"
                   checked={settings.showAiTranslation}
                   onChange={e => onUpdate({ showAiTranslation: e.target.checked })}
                   className="w-4 h-4 rounded border-border accent-accent"
