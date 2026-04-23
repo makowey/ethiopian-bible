@@ -8,7 +8,8 @@
       "translation": "David's Psalm of praise. I will exalt thee, my God, my king; and I will bless thy name for ever and ever.",
       "words": [],
       "translations": {
-        "ron": "Înălţa-Te-voi Dumnezeul meu, Împăratul meu şi voi binecuvânta numele Tău în veac şi în veacul veacului."
+        "ron": "Înălţa-Te-voi Dumnezeul meu, Împăratul meu şi voi binecuvânta numele Tău în veac şi în veacul veacului.",
+        "grk": "Αἴνεσις τοῦ Δαυίδ. Ὑψώσω σε, ὁ Θεός μου ὁ βασιλεύς μου, καὶ εὐλογήσω τὸ ὄνομά σου εἰς τὸν αἰῶνα καὶ εἰς τὸν αἰῶνα τοῦ αἰῶνος."
       }
     },
     {
@@ -17,7 +18,8 @@
       "translation": "Every day will I bless thee, and I will praise thy name for ever and ever.",
       "words": [],
       "translations": {
-        "ron": "În toate zilele Te voi binecuvânta şi voi lăuda numele Tău în veac şi în veacul veacului."
+        "ron": "În toate zilele Te voi binecuvânta şi voi lăuda numele Tău în veac şi în veacul veacului.",
+        "grk": "Καθʼ ἑκάστην ἡμέραν εὐλογήσω σε, καὶ αἰνέσω τὸ ὄνομά σου εἰς τὸν αἰῶνα καὶ εἰς τὸν αἰῶνα τοῦ αἰῶνος."
       }
     },
     {
@@ -26,7 +28,8 @@
       "translation": "The Lord is great, and greatly to be praised; and there is no end of his greatness.",
       "words": [],
       "translations": {
-        "ron": "Mare este Domnul şi lăudat foarte şi măreţia Lui nu are sfârşit."
+        "ron": "Mare este Domnul şi lăudat foarte şi măreţia Lui nu are sfârşit.",
+        "grk": "Μέγας ὁ Κύριος καὶ αἰνετὸς σφόδρα, καὶ τῆς μεγαλωσύνης αὐτοῦ οὐκ ἔστι πέρας."
       }
     },
     {
@@ -35,7 +38,8 @@
       "translation": "Generation after generation shall praise thy works, and tell of thy power.",
       "words": [],
       "translations": {
-        "ron": "Neam şi neam vor lăuda lucrurile Tale şi puterea Ta o vor vesti."
+        "ron": "Neam şi neam vor lăuda lucrurile Tale şi puterea Ta o vor vesti.",
+        "grk": "Γενεὰ καὶ γενεὰ ἐπαινέσει τὰ ἔργα σου, καὶ τὴν δύναμίν σου ἀπαγγελοῦσι."
       }
     },
     {
@@ -44,7 +48,8 @@
       "translation": "And they shall speak of the glorious majesty of thy holiness, and recount thy wonders.",
       "words": [],
       "translations": {
-        "ron": "Măreţia slavei sfinţeniei Tale vor grăi şi minunile Tale vor istorisi"
+        "ron": "Măreţia slavei sfinţeniei Tale vor grăi şi minunile Tale vor istorisi",
+        "grk": "Καὶ τὴν μεγαλοπρέπειαν τῆς δόξης τῆς ἁγιωσύνης σου λαλήσουσι, καὶ τὰ θαυμάσιά σου διηγήσονται."
       }
     },
     {
@@ -53,7 +58,8 @@
       "translation": "And they shall speak of the power of thy terrible acts; and recount thy greatness.",
       "words": [],
       "translations": {
-        "ron": "Şi puterea lucrurilor Tale înfricoşătoare vor spune şi slava Ta vor povesti."
+        "ron": "Şi puterea lucrurilor Tale înfricoşătoare vor spune şi slava Ta vor povesti.",
+        "grk": "Καὶ τὴν δύναμιν τῶν φοβερῶν σου ἐροῦσι, καὶ τὴν μεγαλωσύνην σου διηγήσονται."
       }
     },
     {
@@ -62,7 +68,8 @@
       "translation": "They shall utter the memory of the abundance of thy goodness, and shall exult in thy righteousness.",
       "words": [],
       "translations": {
-        "ron": "Pomenirea mulţimii bunătăţii Tale vor vesti şi de dreptatea Ta se vor bucura."
+        "ron": "Pomenirea mulţimii bunătăţii Tale vor vesti şi de dreptatea Ta se vor bucura.",
+        "grk": "Μνήμην τοῦ πλήθους τῆς χρηστότητός σου ἐξερεύξονται, καὶ τῇ δικαιοσύνῃ σου ἀγαλλιάσονται."
       }
     },
     {
@@ -71,7 +78,8 @@
       "translation": "The Lord is compassionate, and merciful; long-suffering, and abundant in mercy.",
       "words": [],
       "translations": {
-        "ron": "Îndurat şi milostiv este Domnul, îndelung-răbdător şi mult-milostiv."
+        "ron": "Îndurat şi milostiv este Domnul, îndelung-răbdător şi mult-milostiv.",
+        "grk": "Οἰκτίρμων καὶ ἐλεήμων ὁ Κύριος, μακρόθυμος καὶ πολυέλεος."
       }
     },
     {
@@ -80,7 +88,8 @@
       "translation": "The Lord is good to those that wait on him; and his compassions are over all his works.",
       "words": [],
       "translations": {
-        "ron": "Bun este Domnul cu toţi şi îndurările Lui peste toate lucrurile Lui."
+        "ron": "Bun este Domnul cu toţi şi îndurările Lui peste toate lucrurile Lui.",
+        "grk": "Χρηστὸς Κύριος τοῖς ὑπομένουσι, καὶ οἱ οἰκτιρμοὶ αὐτοῦ ἐπὶ πάντα τὰ ἔργα αὐτοῦ."
       }
     },
     {
@@ -89,7 +98,8 @@
       "translation": "Let all thy works, O Lord, give thanks to thee; and let thy saints bless thee.",
       "words": [],
       "translations": {
-        "ron": "Să Te laude pe Tine, Doamne, toate lucrurile Tale şi cuvioşii Tăi să Te binecuvânteze."
+        "ron": "Să Te laude pe Tine, Doamne, toate lucrurile Tale şi cuvioşii Tăi să Te binecuvânteze.",
+        "grk": "Ἐξομολογησάσθωσάν σοι, Κύριε, πάντα τὰ ἔργα σου, καὶ οἱ ὅσιοί σου εὐλογησάτωσάν σε."
       }
     },
     {
@@ -98,7 +108,8 @@
       "translation": "They shall speak of the glory of thy kingdom, and talk of thy dominion;",
       "words": [],
       "translations": {
-        "ron": "Slava împărăţiei Tale vor spune şi de puterea Ta vor grăi."
+        "ron": "Slava împărăţiei Tale vor spune şi de puterea Ta vor grăi.",
+        "grk": "Δόξαν τῆς βασιλείας σου ἐροῦσι, καὶ τὴν δυναστείαν σου λαλήσουσιν·"
       }
     },
     {
@@ -107,7 +118,8 @@
       "translation": "to make known to the sons of men thy power, and the glorious majesty of thy kingdom.",
       "words": [],
       "translations": {
-        "ron": "Ca să se facă fiilor oamenilor cunoscută puterea Ta şi slava măreţiei împărăţiei Tale."
+        "ron": "Ca să se facă fiilor oamenilor cunoscută puterea Ta şi slava măreţiei împărăţiei Tale.",
+        "grk": "Τοῦ γνωρίσαι τοῖς υἱοῖς τῶν ἀνθρώπων τὴν δυναστείαν σου, καὶ τὴν δόξαν τῆς μεγαλοπρεπείας τῆς βασιλείας σου."
       }
     },
     {
@@ -116,7 +128,8 @@
       "translation": "Thy kingdom is an everlasting kingdom, and thy dominion endures through all generations.",
       "words": [],
       "translations": {
-        "ron": "Împărăţia Ta este împărăţia tuturor veacurilor, iar stăpânirea Ta din neam în neam. Credincios este Domnul intru cuvintele Sale şi cuvios întru toate lucrurile Sale."
+        "ron": "Împărăţia Ta este împărăţia tuturor veacurilor, iar stăpânirea Ta din neam în neam. Credincios este Domnul intru cuvintele Sale şi cuvios întru toate lucrurile Sale.",
+        "grk": "Ἡ βασιλεία σου βασιλεία πάντων τῶν αἰώνων, καὶ ἡ δεσποτία σου ἐν πάσῃ γενεᾷ καὶ γενεᾷ· πιστὸς Κύριος ἐν τοῖς λόγοις αὐτοῦ, καὶ ὅσιος ἐν πᾶσι τοῖς ἔργοις αὐτοῦ."
       }
     },
     {
@@ -125,7 +138,8 @@
       "translation": "The Lord is faithful in his words, and holy in all his works.",
       "words": [],
       "translations": {
-        "ron": "Domnul sprijină pe toţi cei ce cad şi îndreaptă pe toţi cei gârboviţi."
+        "ron": "Domnul sprijină pe toţi cei ce cad şi îndreaptă pe toţi cei gârboviţi.",
+        "grk": "Ὑποστηρίζει Κύριος πάντας τοὺς καταπίπτοντας, καὶ ἀνορθοῖ πάντας τοὺς κατεῤῥαγμένους."
       }
     },
     {
@@ -134,7 +148,8 @@
       "translation": "The Lord supports all that are falling, and sets up all that are broken down.",
       "words": [],
       "translations": {
-        "ron": "Domnul sprijină pe toţi cei ce cad şi îndreaptă pe toţi cei gârboviţi."
+        "ron": "Domnul sprijină pe toţi cei ce cad şi îndreaptă pe toţi cei gârboviţi.",
+        "grk": "Ὑποστηρίζει Κύριος πάντας τοὺς καταπίπτοντας, καὶ ἀνορθοῖ πάντας τοὺς κατεῤῥαγμένους."
       }
     },
     {
@@ -143,7 +158,8 @@
       "translation": "The eyes of all wait upon thee; and thou givest them their food in due season.",
       "words": [],
       "translations": {
-        "ron": "Ochii tuturor spre Tine nădăjduiesc şi Tu le dai lor hrană la bună vreme."
+        "ron": "Ochii tuturor spre Tine nădăjduiesc şi Tu le dai lor hrană la bună vreme.",
+        "grk": "Οἱ ὀφθαλμοὶ πάντων εἰς σὲ ἐλπίζουσι, καὶ σὺ δίδως τὴν τροφὴν αὐτῶν ἐν εὐκαιρίᾳ."
       }
     },
     {

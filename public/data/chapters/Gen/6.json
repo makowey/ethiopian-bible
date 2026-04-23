@@ -66,7 +66,8 @@
       "translations": {
         "lxx": "And it came to pass when men began to be numerous upon the earth, and daughters were born to them,",
         "kjv": "And it came to pass, when men began to multiply on the face of the earth, and daughters were born unto them,",
-        "ron": "Iar după ce au început a se înmulţi oamenii pe pământ şi li s-au născut fiice,"
+        "ron": "Iar după ce au început a se înmulţi oamenii pe pământ şi li s-au născut fiice,",
+        "grk": "Καὶ ἐγένετο ἡνίκα ἤρξαντο οἱ ἄνθρωποι πολλοὶ γίνεσθαι ἐπὶ τῆς γῆς, καὶ θυγατέρες ἐγεννήθησαν αὐτοῖς."
       }
     },
     {
@@ -148,7 +149,8 @@
       "translations": {
         "lxx": "that the sons of God having seen the daughters of men that they were beautiful, took to themselves wives of all whom they chose.",
         "kjv": "That the sons of God saw the daughters of men that they were fair; and they took them wives of all which they chose.",
-        "ron": "Fiii lui Dumnezeu, văzând că fiicele oamenilor sunt frumoase, şi-au ales dintre ele soţii, care pe cine a voit."
+        "ron": "Fiii lui Dumnezeu, văzând că fiicele oamenilor sunt frumoase, şi-au ales dintre ele soţii, care pe cine a voit.",
+        "grk": "Ἰδόντες δὲ υἱοὶ τοῦ Θεοῦ τὰς θυγατέρας τῶν ἀνθρώπων, ὅτι καλαί εἰσιν, ἔλαβον ἑαυτοῖς γυναῖκας ἀπὸ πασῶν, ὧν ἐξελέξαντο."
       }
     },
     {
@@ -245,7 +247,8 @@
       "translations": {
         "lxx": "And the Lord God said, My Spirit shall certainly not remain among these men for ever, because they are flesh, but their days shall be an hundred and twenty years.",
         "kjv": "And the LORD said, My spirit shall not always strive with man, for that he also is flesh: yet his days shall be an hundred and twenty years.",
-        "ron": "Dar Domnul Dumnezeu a zis: \"Nu va rămâne Duhul Meu pururea în oamenii aceştia, pentru că sunt numai trup. Deci zilele lor să mai fie o sută douăzeci de ani!\""
+        "ron": "Dar Domnul Dumnezeu a zis: \"Nu va rămâne Duhul Meu pururea în oamenii aceştia, pentru că sunt numai trup. Deci zilele lor să mai fie o sută douăzeci de ani!\"",
+        "grk": "Καὶ εἶπε Κύριος ὁ Θεὸς, οὐ μὴ καταμείνῃ τὸ πνεῦμά μου ἐν τοῖς ἀνθρώποις τούτοις εἰς τὸν αἰῶνα, διὰ τὸ εἶναι αὐτοὺς σάρκας· ἔσονται δὲ αἱ ἡμέραι αὐτῶν, ἑκατὸν εἴκοσιν ἔτη."
       }
     },
     {
@@ -377,7 +380,8 @@
       "translations": {
         "lxx": "Now the giants were upon the earth in those days; and after that when the sons of God were wont to go in to the daughters of men, they bore children to them, those were the giants of old, the men of renown.",
         "kjv": "There were giants in the earth in those days; and also after that, when the sons of God came in unto the daughters of men, and they bare children to them, the same became mighty men which were of old, men of renown.",
-        "ron": "În vremea aceea s-au ivit pe pământ uriaşi, mai cu seamă de când fiii lui Dumnezeu începuseră a intra la fiicele oamenilor şi acestea începuseră a le naşte fii: aceştia sunt vestiţii viteji din vechime."
+        "ron": "În vremea aceea s-au ivit pe pământ uriaşi, mai cu seamă de când fiii lui Dumnezeu începuseră a intra la fiicele oamenilor şi acestea începuseră a le naşte fii: aceştia sunt vestiţii viteji din vechime.",
+        "grk": "Οἱ δὲ γίγαντες ἦσαν ἐπὶ τῆς γῆς ἐν ταῖς ἡμέραις ἐκείναις, καὶ μετʼ ἐκεῖνο, ὡς ἂν εἰσεπορεύοντο οἱ υἱοὶ τοῦ Θεοῦ πρὸς τὰς θυγατέρας τῶν ἀνθρώπων, καὶ ἐγεννῶσαν αὐτοῖς· ἐκεῖνοι ἦσαν οἱ γίγαντες οἱ ἀπʼ αἰῶνος, οἱ ἄνθρωποι οἱ ὀνομαστοί."
       }
     },
     {
@@ -464,7 +468,8 @@
       "translations": {
         "lxx": "And the Lord God having seen that the wicked actions of men were multiplied upon the earth, and that every one in his heart was intently brooding over evil continually,",
         "kjv": "And God saw that the wickedness of man was great in the earth, and that every imagination of the thoughts of his heart was only evil continually.",
-        "ron": "Văzând însă Domnul Dumnezeu că răutatea oamenilor s-a mărit pe pământ şi că toate cugetele şi dorinţele inimii lor sunt îndreptate la rău în toate zilele,"
+        "ron": "Văzând însă Domnul Dumnezeu că răutatea oamenilor s-a mărit pe pământ şi că toate cugetele şi dorinţele inimii lor sunt îndreptate la rău în toate zilele,",
+        "grk": "Ἰδὼν δὲ Κύριος ὁ Θεὸς, ὅτι ἐπληθύνθησαν αἱ κακίαι τῶν ἀνθρώπων ἐπὶ τῆς γῆς, καὶ πᾶς τις διανοεῖται ἐν τῇ καρδίᾳ αὐτοῦ ἐπιμελῶς ἐπὶ τὰ πονηρὰ πάσας τὰς ἡμέρας·"
       }
     },
     {
@@ -516,7 +521,8 @@
       "translations": {
         "lxx": "then God laid it to heart that he had made man upon the earth, and he pondered it deeply.",
         "kjv": "And it repented the LORD that he had made man on the earth, and it grieved him at his heart.",
-        "ron": "I-a părut rău şi s-a căit Dumnezeu că a făcut pe om pe pământ."
+        "ron": "I-a părut rău şi s-a căit Dumnezeu că a făcut pe om pe pământ.",
+        "grk": "Καὶ ἐνεθυμήθη ὁ Θεὸς, ὅτι ἐποίησε τὸν ἄνθρωπον ἐπὶ τῆς γῆς, καὶ διενοήθη."
       }
     },
     {
@@ -643,7 +649,8 @@
       "translations": {
         "lxx": "And God said, I will blot out man whom I have made from the face of the earth, even man with cattle, and reptiles with flying creatures of the sky, for I am grieved that I have made them.",
         "kjv": "And the LORD said, I will destroy man whom I have created from the face of the earth; both man, and beast, and the creeping thing, and the fowls of the air; for it repenteth me that I have made them.",
-        "ron": "Şi a zis Domnul: \"Pierde-voi de pe faţa pământului pe omul pe care l-am făcut! De la om până la dobitoc şi de la târâtoare până la păsările cerului, tot voi pierde, căci Îmi pare rău că le-am făcut\"."
+        "ron": "Şi a zis Domnul: \"Pierde-voi de pe faţa pământului pe omul pe care l-am făcut! De la om până la dobitoc şi de la târâtoare până la păsările cerului, tot voi pierde, căci Îmi pare rău că le-am făcut\".",
+        "grk": "Καὶ εἶπεν ὁ Θεὸς, ἀπαλείψω τὸν ἄνθρωπον, ὃν ἐποίησα, ἀπὸ προσώπου τῆς γῆς, ἀπὸ ἀνθρώπου ἕως κτήνους, καὶ ἀπὸ ἑρπετῶν ἕως πετεινῶν τοῦ οὐρανοῦ· ὅτι ἐνεθυμήθην, ὅτι ἐποίησα αὐτούς."
       }
     },
     {
@@ -685,7 +692,8 @@
       "translations": {
         "lxx": "But Noe found grace before the Lord God.",
         "kjv": "But Noah found grace in the eyes of the LORD.",
-        "ron": "Noe însă a aflat har înaintea Domnului Dumnezeu."
+        "ron": "Noe însă a aflat har înaintea Domnului Dumnezeu.",
+        "grk": "Νῶε δὲ εὗρε χάριν ἐναντίον Κυρίου τοῦ Θεοῦ."
       }
     },
     {
@@ -752,7 +760,8 @@
       "translations": {
         "lxx": "And these are the generations of Noe. Noe was a just man; being perfect in his generation, Noe was well-pleasing to God.",
         "kjv": "These are the generations of Noah: Noah was a just man and perfect in his generations, and Noah walked with God.",
-        "ron": "Iată viaţa lui Noe: Noe era om drept şi neprihănit între oamenii timpului său şi mergea pe calea Domnului."
+        "ron": "Iată viaţa lui Noe: Noe era om drept şi neprihănit între oamenii timpului său şi mergea pe calea Domnului.",
+        "grk": "Αὗται δὲ αἱ γενέσεις Νῶε. Νῶε ἄνθρωπος δίκαιος, τέλειος ὢν ἐν τῇ γενεᾷ αὐτοῦ, τῷ Θεῷ εὐηρέστησε Νῶε."
       }
     },
     {
@@ -804,7 +813,8 @@
       "translations": {
         "lxx": "And Noe begot three sons, Sem, Cham, Japheth.",
         "kjv": "And Noah begat three sons, Shem, Ham, and Japheth.",
-        "ron": "Şi i s-au născut lui Noe trei fii: Sem, Ham şi Iafet."
+        "ron": "Şi i s-au născut lui Noe trei fii: Sem, Ham şi Iafet.",
+        "grk": "Ἐγέννησε δὲ Νῶε τρεῖς υἱοὺς, τὸν Σὴμ, τὸν Χὰμ, τὸν Ἰάφεθ."
       }
     },
     {
@@ -846,7 +856,8 @@
       "translations": {
         "lxx": "But the earth was corrupted before God, and the earth was filled with iniquity.",
         "kjv": "The earth also was corrupt before God, and the earth was filled with violence.",
-        "ron": "Pământul însă se stricase înaintea feţei lui Dumnezeu şi se umpluse pământul de silnicii."
+        "ron": "Pământul însă se stricase înaintea feţei lui Dumnezeu şi se umpluse pământul de silnicii.",
+        "grk": "Ἐφθάρη δὲ ἡ γῆ ἐναντίον τοῦ Θεοῦ, καὶ ἐπλήσθη ἡ γῆ ἀδικίας."
       }
     },
     {
@@ -918,7 +929,8 @@
       "translations": {
         "lxx": "And the Lord God saw the earth, and it was corrupted; because all flesh had corrupted its way upon the earth.",
         "kjv": "And God looked upon the earth, and, behold, it was corrupt; for all flesh had corrupted his way upon the earth.",
-        "ron": "Şi a căutat Domnul Dumnezeu spre pământ şi iată era stricat, căci tot trupul se abătuse de la calea sa pe pământ."
+        "ron": "Şi a căutat Domnul Dumnezeu spre pământ şi iată era stricat, căci tot trupul se abătuse de la calea sa pe pământ.",
+        "grk": "Καὶ εἶδε Κύριος ὁ Θεὸς τὴν γῆν, καὶ ἦν κατεφθαρμένη· ὅτι κατέφθειρε πᾶσα σὰρξ τὴν ὁδὸν αὐτοῦ ἐπὶ τῆς γῆς."
       }
     },
     {
@@ -1025,7 +1037,8 @@
       "translations": {
         "lxx": "And the Lord God said to Noe, A period of all men is come before me; because the earth has been filled with iniquity by them, and, behold, I destroy them and the earth.",
         "kjv": "And God said unto Noah, The end of all flesh is come before me; for the earth is filled with violence through them; and, behold, I will destroy them with the earth.",
-        "ron": "Atunci a zis Domnul Dumnezeu către Noe: \"Sosit-a înaintea feţei Mele sfârşitul a tot omul, căci s-a umplut pământul de nedreptăţile lor, şi iată Eu îi voi pierde de pe pământ."
+        "ron": "Atunci a zis Domnul Dumnezeu către Noe: \"Sosit-a înaintea feţei Mele sfârşitul a tot omul, căci s-a umplut pământul de nedreptăţile lor, şi iată Eu îi voi pierde de pe pământ.",
+        "grk": "Καὶ εἶπε Κύριος ὁ Θεὸς τῷ Νῶε, καιρὸς παντὸς ἀνθρώπου ἥκει ἐναντίον μου, ὅτι ἐπλήσθη ἡ γῆ ἀδικίας ἀπʼ αὐτῶν· καὶ ἰδοὺ ἐγὼ καταφθείρω αὐτοὺς καὶ τὴν γῆν."
       }
     },
     {
@@ -1122,7 +1135,8 @@
       "translations": {
         "lxx": "Make therefore for thyself an ark of square timber; thou shalt make the ark in compartments, and thou shalt pitch it within and without with pitch.",
         "kjv": "Make thee an ark of gopher wood; rooms shalt thou make in the ark, and shalt pitch it within and without with pitch.",
-        "ron": "Tu însă fă-ti o corabie de lemn de salcâm. În corabie să faci despărţituri şi smoleşte-o cu smoală pe dinăuntru şi pe din afară."
+        "ron": "Tu însă fă-ti o corabie de lemn de salcâm. În corabie să faci despărţituri şi smoleşte-o cu smoală pe dinăuntru şi pe din afară.",
+        "grk": "Ποίησον οὖν σεαυτῷ κιβωτὸν ἐκ ξύλων τετραγώνων· νοσσιὰς ποιήσεις τὴν κιβωτόν· καὶ ἀσφαλτώσεις αὐτὴν ἔσωθεν καὶ ἔξωθεν τῇ ἀσφάλτῳ."
       }
     },
     {
@@ -1184,7 +1198,8 @@
       "translations": {
         "lxx": "And thus shalt thou make the ark; three hundred cubits the length of the ark, and fifty cubits the breadth, and thirty cubits the height of it.",
         "kjv": "And this is the fashion which thou shalt make it of: The length of the ark shall be three hundred cubits, the breadth of it fifty cubits, and the height of it thirty cubits.",
-        "ron": "Corabia însă să o faci aşa: lungimea corăbiei să fie de trei sute de coţi, lăţimea ei de cincizeci de coţi, iar înălţimea de treizeci de coţi."
+        "ron": "Corabia însă să o faci aşa: lungimea corăbiei să fie de trei sute de coţi, lăţimea ei de cincizeci de coţi, iar înălţimea de treizeci de coţi.",
+        "grk": "Καὶ οὕτω ποιήσεις τὴν κιβωτόν· τριακοσίων πήχεων τὸ μῆκος τῆς κιβωτοῦ, καὶ πεντήκοντα πήχεων τὸ πλάτος, καὶ τριάκοντα πήχεων τὸ ὕψος αὐτῆς."
       }
     },
     {
@@ -1306,7 +1321,8 @@
       "translations": {
         "lxx": "Thou shalt narrow the ark in making it, and in a cubit above thou shalt finish it, and the door of the ark thou shalt make on the side; with lower, second, and third stories thou shalt make it.",
         "kjv": "A window shalt thou make to the ark, and in a cubit shalt thou finish it above; and the door of the ark shalt thou set in the side thereof; with lower, second, and third stories shalt thou make it.",
-        "ron": "Să faci corăbiei o fereastră la un cot de la acoperiş, iar uşa corăbiei să o faci într-o parte a ei. De asemenea să faci într-însa trei rânduri de cămări: jos, la mijloc şi sus."
+        "ron": "Să faci corăbiei o fereastră la un cot de la acoperiş, iar uşa corăbiei să o faci într-o parte a ei. De asemenea să faci într-însa trei rânduri de cămări: jos, la mijloc şi sus.",
+        "grk": "Ἐπισυνάγων ποιήσεις τὴν κιβωτὸν, καὶ εἰς πῆχυν συντελέσεις αὐτὴν ἄνωθεν· τὴν δὲ θύραν τῆς κιβωτοῦ ποιήσεις ἐκ πλαγίων· κατάγαια διώροφα καὶ τριώροφα ποιήσεις αὐτήν."
       }
     },
     {
@@ -1418,7 +1434,8 @@
       "translations": {
         "lxx": "And behold I bring a flood of water upon the earth, to destroy all flesh in which is the breath of life under heaven, and whatsoever things are upon the earth shall die.",
         "kjv": "And, behold, I, even I, do bring a flood of waters upon the earth, to destroy all flesh, wherein is the breath of life, from under heaven; and every thing that is in the earth shall die.",
-        "ron": "Şi iată Eu voi aduce asupra pământului potop de apă, ca să pierd tot trupul de sub cer, în care este suflu de viaţă, şi tot ce este pe pământ va pieri."
+        "ron": "Şi iată Eu voi aduce asupra pământului potop de apă, ca să pierd tot trupul de sub cer, în care este suflu de viaţă, şi tot ce este pe pământ va pieri.",
+        "grk": "Ἐγὼ δὲ ἰδοὺ ἐπάγω τὸν κατακλυσμὸν, ὕδωρ ἐπὶ τὴν γῆν, καταφθεῖραι πᾶσαν σάρκα, ἐν ᾗ ἐστι πνεῦμα ζωῆς ὑποκάτω τοῦ οὐρανοῦ· καὶ ὅσα ἂν ᾖ ἐπὶ τῆς γῆς, τελευτήσει."
       }
     },
     {
@@ -1480,7 +1497,8 @@
       "translations": {
         "lxx": "And I will establish my covenant with thee, and thou shalt enter into the ark, and thy sons and thy wife, and thy sons' wives with thee.",
         "kjv": "But with thee will I establish my covenant; and thou shalt come into the ark, thou, and thy sons, and thy wife, and thy sons’ wives with thee.",
-        "ron": "Iar cu tine voi face legământul Meu; şi vei intra în corabie tu şi împreună cu tine vor intra fiii tăi, femeia ta şi femeile fiilor tăi."
+        "ron": "Iar cu tine voi face legământul Meu; şi vei intra în corabie tu şi împreună cu tine vor intra fiii tăi, femeia ta şi femeile fiilor tăi.",
+        "grk": "Καὶ στήσω τὴν διαθήκην μου μετά σου· εἰσελεύσῃ δὲ εἰς τὴν κιβωτὸν σὺ, καὶ οἱ υἱοί σου, καὶ ἡ γυνή σου, καὶ αἱ γυναῖκες τῶν υἱῶν σου μετά σου."
       }
     },
     {
@@ -1582,7 +1600,8 @@
       "translations": {
         "lxx": "And of all cattle and of all reptiles and of all wild beasts, even of all flesh, thou shalt bring by pairs of all, into the ark, that thou mayest feed them with thyself: male and female they shall be.",
         "kjv": "And of every living thing of all flesh, two of every sort shalt thou bring into the ark, to keep them alive with thee; they shall be male and female.",
-        "ron": "Să intre în corabie din toate animalele, din toate târâtoarele, din toate fiarele şi din tot trupul, câte două, parte bărbătească şi parte femeiască, ca să rămână cu tine în viaţă."
+        "ron": "Să intre în corabie din toate animalele, din toate târâtoarele, din toate fiarele şi din tot trupul, câte două, parte bărbătească şi parte femeiască, ca să rămână cu tine în viaţă.",
+        "grk": "Καὶ ἀπὸ πάντων τῶν κτηνῶν, καὶ ἀπὸ πάντων τῶν ἑρπετῶν, καὶ ἀπὸ πάντων τῶν θηρίων, καὶ ἀπὸ πάσης σαρκὸς δύο δύο ἀπὸ πάντων εἰσάξεις εἰς τὴν κιβωτὸν, ἵνα τρέφῃς μετὰ σεαυτοῦ· ἄρσεν καὶ θῆλυ ἔσονται."
       }
     },
     {
@@ -1664,7 +1683,8 @@
       "translations": {
         "lxx": "And thou shalt take to thyself of all kinds of food which ye eat, and thou shalt gather them to thyself, and it shall be for thee and them to eat.",
         "kjv": "And take thou unto thee of all food that is eaten, and thou shalt gather it to thee; and it shall be for food for thee, and for them.",
-        "ron": "Iar tu ia cu tine din tot felul de mâncare, cu care vă hrăniţi; îngrijeşte-te ca să fie aceasta de mâncare pentru tine şi pentru acelea\"."
+        "ron": "Iar tu ia cu tine din tot felul de mâncare, cu care vă hrăniţi; îngrijeşte-te ca să fie aceasta de mâncare pentru tine şi pentru acelea\".",
+        "grk": "Σὺ δὲ λήψῃ σεαυτῷ ἀπὸ πάντων τῶν βρωμάτων ἃ ἔδεσθε, καὶ συνάξεις πρὸς σεαυτὸν, καὶ ἔσται σοι καὶ ἐκείνοις φαγεῖν."
       }
     },
     {
@@ -1716,7 +1736,8 @@
       "translations": {
         "lxx": "And Noe did all things whatever the Lord God commanded him, so did he.",
         "kjv": "Thus did Noah; according to all that God commanded him, so did he.",
-        "ron": "Şi a început Noe lucrul şi precum îi poruncise Domnul Dumnezeu aşa a făcut."
+        "ron": "Şi a început Noe lucrul şi precum îi poruncise Domnul Dumnezeu aşa a făcut.",
+        "grk": "Καὶ ἐποίησε Νῶε πάντα ὅσα ἐνετείλατο αὐτῷ Κύριος ὁ Θεὸς, οὕτως ἐποίησε."
       }
     }
   ],

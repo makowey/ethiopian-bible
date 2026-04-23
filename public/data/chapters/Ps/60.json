@@ -8,7 +8,8 @@
       "translation": "For the end, among the Hymns of David.",
       "words": [],
       "translations": {
-        "ron": "Auzi, Dumnezeule, cererea mea, ia aminte la rugăciunea mea!"
+        "ron": "Auzi, Dumnezeule, cererea mea, ia aminte la rugăciunea mea!",
+        "grk": "Εἰς τὸ τέλος, ἐν ὕμνοις τῷ Δαυίδ."
       }
     },
     {
@@ -17,7 +18,8 @@
       "translation": "O God, hearken to my petition; attend to my prayer.",
       "words": [],
       "translations": {
-        "ron": "De la marginile pământului către Tine am strigat; când s-a mâhnit inima mea, pe piatră m-ai înălţat."
+        "ron": "De la marginile pământului către Tine am strigat; când s-a mâhnit inima mea, pe piatră m-ai înălţat.",
+        "grk": "Εἰσάκουσον ὁ Θεὸς τῆς δεήσεώς μου, πρόσχες τῇ προσευχῇ μου."
       }
     },
     {
@@ -26,7 +28,8 @@
       "translation": "From the ends of the earth have I cried to thee, when my heart was in trouble: thou liftedst me up on a rock, thou didst guide me:",
       "words": [],
       "translations": {
-        "ron": "Povăţuitu-m-ai, că ai fost nădejdea mea, turn de tărie în faţa vrăjmaşului."
+        "ron": "Povăţuitu-m-ai, că ai fost nădejdea mea, turn de tărie în faţa vrăjmaşului.",
+        "grk": "Ἀπὸ τῶν περάτων τῆς γῆς πρὸς σὲ ἐκέκραξα, ἐν τῷ ἀκηδιάσαι τὴν καρδίαν μου, ἐν πέτρᾳ ὕψωσάς με, ὁδήγησάς με,"
       }
     },
     {
@@ -35,7 +38,8 @@
       "translation": "because thou wert my hope, a tower of strength from the face of the enemy.",
       "words": [],
       "translations": {
-        "ron": "Locui-voi în locaşul Tău în veci; acoperi-mă-voi cu acoperământul aripilor Tale,"
+        "ron": "Locui-voi în locaşul Tău în veci; acoperi-mă-voi cu acoperământul aripilor Tale,",
+        "grk": "ὅτι ἐγενήθης ἐλπίς μου, πύργος ἰσχύος ἀπὸ προσώπου ἐχθροῦ."
       }
     },
     {
@@ -44,7 +48,8 @@
       "translation": "I will dwell in thy tabernacle for ever; I will shelter myself under the shadow of thy wings. Pause.",
       "words": [],
       "translations": {
-        "ron": "Că Tu, Dumnezeule, ai auzit rugăciunile mele; dat-ai moştenire celor ce se tem de numele Tău."
+        "ron": "Că Tu, Dumnezeule, ai auzit rugăciunile mele; dat-ai moştenire celor ce se tem de numele Tău.",
+        "grk": "Παροικήσω ἐν τῷ σκηνώματί σου εἰς τοὺς αἰῶνας, σκεπασθήσομαι ἐν σκέπῃ τῶν πτερύγων σου· διάψαλμα."
       }
     },
     {
@@ -53,7 +58,8 @@
       "translation": "For thou, O God, hast heard my prayers; thou hast given an inheritance to them that fear thy name.",
       "words": [],
       "translations": {
-        "ron": "Zile la zilele împăratului adaugă, anii lui din neam în neam."
+        "ron": "Zile la zilele împăratului adaugă, anii lui din neam în neam.",
+        "grk": "Ὅτι σὺ ὁ Θεὸς εἰσήκουσας τῶν προσευχῶν μου, ἔδωκας κληρονομίαν τοῖς φοβουμένοις τὸ ὄνομά σου."
       }
     },
     {
@@ -62,7 +68,8 @@
       "translation": "Thou shalt add days to the days of the king; thou shalt lengthen his years to all generations.",
       "words": [],
       "translations": {
-        "ron": "Rămâne-va în veac înaintea lui Dumnezeu; mila şi adevărul va păzi."
+        "ron": "Rămâne-va în veac înaintea lui Dumnezeu; mila şi adevărul va păzi.",
+        "grk": "Ἡμέρας ἐφʼ ἡμέρας βασιλέως προσθήσεις, τὰ ἔτη αὐτοῦ ἕως ἡμέρας γενεᾶς καὶ γενεᾶς."
       }
     },
     {
@@ -71,14 +78,18 @@
       "translation": "He shall endure for ever before God: which of them will seek out his mercy and truth?",
       "words": [],
       "translations": {
-        "ron": "Aşa voi cânta numelui Tău în veacul veacului, ca să împlinesc făgăduinţele mele zi de zi."
+        "ron": "Aşa voi cânta numelui Tău în veacul veacului, ca să împlinesc făgăduinţele mele zi de zi.",
+        "grk": "Διαμενεῖ εἰς τὸν αἰῶνα ἐνώπιον τοῦ Θεοῦ, ἔλεος καὶ ἀλήθειαν αὐτοῦ τίς ἐκζητήσει αὐτῶν;"
       }
     },
     {
       "num": 9,
       "geez": "",
       "translation": "So will I sing to thy name for ever and ever, that I may daily perform my vows.",
-      "words": []
+      "words": [],
+      "translations": {
+        "grk": "Οὕτως ψαγῶ τῷ ὀνόματί σου εἰς τὸν αἰῶνα τοῦ αἰῶνος, τοῦ ἀποδοῦναί με τὰς εὐχάς μου ἡμέραν ἐξ ἡμέρας."
+      }
     }
   ]
 }

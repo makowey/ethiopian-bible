@@ -81,7 +81,8 @@
       "translations": {
         "lxx": "And now thus saith the Lord God that made thee, O Jacob, and formed thee, O Israel, Fear not: for I have redeemed thee, I have called thee by thy name; thou art mine.",
         "kjv": "But now thus saith the LORD that created thee, O Jacob, and he that formed thee, O Israel, Fear not: for I have redeemed thee, I have called thee by thy name; thou art mine.",
-        "ron": "Şi acum aşa zice Domnul, Ziditorul tău, Iacove, şi Creatorul tău, Israele: \"Nu te teme, căci Eu te-am răscumpărat şi te-am chemat pe nume, al Meu eşti!"
+        "ron": "Şi acum aşa zice Domnul, Ziditorul tău, Iacove, şi Creatorul tău, Israele: \"Nu te teme, căci Eu te-am răscumpărat şi te-am chemat pe nume, al Meu eşti!",
+        "grk": "Καὶ νῦν οὕτως λέγει Κύριος ὁ Θεὸς ὁ ποιήσας σε Ἰακὼβ, καὶ ὁ πλάσας σε Ἰσραὴλ, μὴ φοβοῦ, ὅτι ἐλυτρωσάμην σε, ἐκάλεσά σε τὸ ὄνομά σου· ἐμὸς εἶ σύ."
       }
     },
     {
@@ -153,7 +154,8 @@
       "translations": {
         "lxx": "And if thou pass through water, I am with thee; and the rivers shall not overflow thee: and if thou go through fire, thou shalt not be burned; the flame shall not burn thee.",
         "kjv": "When thou passest through the waters, I will be with thee; and through the rivers, they shall not overflow thee: when thou walkest through the fire, thou shalt not be burned; neither shall the flame kindle upon thee.",
-        "ron": "Dacă tu vei trece prin ape, Eu sunt cu tine şi în valuri tu nu vei fi înecat. Dacă vei trece prin foc, nu vei fi ars şi flăcările nu te vor mistui."
+        "ron": "Dacă tu vei trece prin ape, Eu sunt cu tine şi în valuri tu nu vei fi înecat. Dacă vei trece prin foc, nu vei fi ars şi flăcările nu te vor mistui.",
+        "grk": "Καὶ ἐὰν διαβαίνῃς διʼ ὕδατος, μετὰ σοῦ εἰμι, καὶ ποταμοὶ οὐ συνκλύσουσί σε· καὶ ἐὰν διέλθῃς διὰ πυρὸς, οὐ μὴ κατακαυθῇς, φλὸξ οὐ κατακαύσει σε."
       }
     },
     {
@@ -230,7 +232,8 @@
       "translations": {
         "lxx": "For I am the Lord thy God, the Holy One of Israel, that saves thee: I have made Egypt and Ethiopia thy ransom, and given Soene for thee.",
         "kjv": "For I am the LORD thy God, the Holy One of Israel, thy Saviour: I gave Egypt for thy ransom, Ethiopia and Seba for thee.",
-        "ron": "Că Eu sunt Domnul Dumnezeul tău, Sfântul lui Israel, Mântuitorul. Eu dau Egiptul preţ de răscumpărare pentru tine, Etiopia şi Saba în locul tău;"
+        "ron": "Că Eu sunt Domnul Dumnezeul tău, Sfântul lui Israel, Mântuitorul. Eu dau Egiptul preţ de răscumpărare pentru tine, Etiopia şi Saba în locul tău;",
+        "grk": "Ὅτι ἐγὼ Κύριος ὁ Θεός σου ὁ ἅγιος Ἰσραὴλ, ὁ σώζων σε· ἐποίησα ἄλλαγμά σου Αἴγυπτον καὶ Αἰθιοπίαν, καὶ Σοήνην ὑπὲρ σοῦ."
       }
     },
     {
@@ -312,7 +315,8 @@
       "translations": {
         "lxx": "Since thou becamest precious in my sight, thou hast become glorious, and I have loved thee: and I will give men for thee, and princes for thy life.",
         "kjv": "Since thou wast precious in my sight, thou hast been honourable, and I have loved thee: therefore will I give men for thee, and people for thy life.",
-        "ron": "Fiindcă tu eşti de preţ în ochii Mei şi de cinste şi te iubesc; voi da neamurile în locul tău şi popoarele în locul sufletului tău."
+        "ron": "Fiindcă tu eşti de preţ în ochii Mei şi de cinste şi te iubesc; voi da neamurile în locul tău şi popoarele în locul sufletului tău.",
+        "grk": "Αφʼ οὗ ἔντιμος ἐγένου ἐναντίον ἐμοῦ, ἐδοξάσθης, καὶ ἐγώ σε ἠγάπησα, καὶ δώσω ἀνθρώπους ὑπὲρ σοῦ, καὶ ἄρχοντας ὑπὲρ τῆς κεφαλῆς σου."
       }
     },
     {
@@ -354,7 +358,8 @@
       "translations": {
         "lxx": "Fear not; for I am with thee: I will bring thy seed from the east, and will gather thee from the west.",
         "kjv": "Fear not: for I am with thee: I will bring thy seed from the east, and gather thee from the west;",
-        "ron": "Nu te teme, că Eu sunt cu tine! De la răsărit voi aduce seminţia ta şi de la apus te voi strânge pe tine."
+        "ron": "Nu te teme, că Eu sunt cu tine! De la răsărit voi aduce seminţia ta şi de la apus te voi strânge pe tine.",
+        "grk": "Μὴ φοβοῦ, ὅτι μετὰ σοῦ εἰμι· ἀπὸ ἀνατολῶν ἄξω τὸ σπέρμα σου, καὶ ἀπὸ δυσμῶν συνάξω σε."
       }
     },
     {
@@ -376,7 +381,8 @@
       "translations": {
         "lxx": "I will say to the north, Bring; and to the south, Keep not back; bring my sons from the land afar off, and my daughters from the ends of the earth;",
         "kjv": "I will say to the north, Give up; and to the south, Keep not back: bring my sons from far, and my daughters from the ends of the earth;",
-        "ron": "Voi zice către miazănoapte: \"Dă-Mi-i\" şi către miazăzi: \"Nu-i opri!\" Aduceţi pe fiii Mei din ţinuturi depărtate şi pe fiicele Mele de la marginile pământului;"
+        "ron": "Voi zice către miazănoapte: \"Dă-Mi-i\" şi către miazăzi: \"Nu-i opri!\" Aduceţi pe fiii Mei din ţinuturi depărtate şi pe fiicele Mele de la marginile pământului;",
+        "grk": "Ἐρῶ τῷ Βοῤῥᾷ, ἄγε, καὶ τῷ Λιβὶ, μὴ κώλυε· ἄγε τοὺς υἱούς μου ἀπὸ τῆς πόῤῥωθεν, καὶ τὰς θυγατέρας μου ἀπʼ ἄκρων τῆς γῆς,"
       }
     },
     {
@@ -423,7 +429,8 @@
       "translations": {
         "lxx": "even all who are called by my name: for I have prepared him for my glory, and I have formed him, and have made him:",
         "kjv": "Even every one that is called by my name: for I have created him for my glory, I have formed him; yea, I have made him.",
-        "ron": "Pe toţi acei care poartă numele Meu şi pentru slava Mea i-am creat, i-am zidit şi i-am pregătit!"
+        "ron": "Pe toţi acei care poartă numele Meu şi pentru slava Mea i-am creat, i-am zidit şi i-am pregătit!",
+        "grk": "πάντας ὅσοι ἐπικέκληνται τῷ ὀνόματί μου· ἐν γὰρ τῇ δόξῃ μου κατεσκεύασα αὐτὸν, καὶ ἔπλασα αὐτὸν, καὶ ἐποίησα αὐτὸν,"
       }
     },
     {
@@ -500,7 +507,8 @@
       "translations": {
         "lxx": "and I have brought forth the blind people; for their eyes are alike blind, and they that have ears are deaf.",
         "kjv": "Bring forth the blind people that have eyes, and the deaf that have ears.",
-        "ron": "Să vină poporul cel orb care are ochi şi cel surd care are urechi!"
+        "ron": "Să vină poporul cel orb care are ochi şi cel surd care are urechi!",
+        "grk": "καὶ ἐξήγαγον λαὸν τυφλὸν, καὶ ὀφθαλμοί εἰσιν ὡσαύτως τυφλοὶ, καὶ κωφοὶ τὰ ὦτα ἔχοντες."
       }
     },
     {
@@ -542,7 +550,8 @@
       "translations": {
         "lxx": "All the nations are gathered together, and princes shall be gathered out of them: who will declare these things? or who will declare to you things from the beginning? let them bring forth their witnesses, and be justified; and let them hear, and declare the truth.",
         "kjv": "Let all the nations be gathered together, and let the people be assembled: who among them can declare this, and shew us former things? let them bring forth their witnesses, that they may be justified: or let them hear, and say, It is truth.",
-        "ron": "Neamurile toate laolaltă să se adune şi să se strângă popoarele! Care dintre ele ne-au dat de ştire aceasta şi ne-au făcut proorocii? Să-şi aducă martorii şi să dovedească, să audă toţi şi să zică: \"Adevărat!\""
+        "ron": "Neamurile toate laolaltă să se adune şi să se strângă popoarele! Care dintre ele ne-au dat de ştire aceasta şi ne-au făcut proorocii? Să-şi aducă martorii şi să dovedească, să audă toţi şi să zică: \"Adevărat!\"",
+        "grk": "Πάντα τὰ ἔθνη συνήχθησαν ἅμα, καὶ συναχθήσονται ἄρχοντες ἐξ αὐτῶν· τίς ἀναγγελεῖ ταῦτα; ἢ τὰ ἐξ ἀρχῆς τίς ἀναγγελεῖ ὑμῖν; ἀγαγέτωσαν τοῦς μάρτυρας αὐτῶν καὶ δικαιωθήτωσαν, καὶ ἀκουσάτωσαν, καὶ εἰπάτωσαν ἀληθῆ."
       }
     },
     {
@@ -639,7 +648,8 @@
       "translations": {
         "lxx": "Be ye my witnesses, and I too am a witness, saith the Lord God, and my servant whom I have chosen: that ye may know, and believe, and understand that I am he: before me there was no other God, and after me there shall be none.",
         "kjv": "Ye are my witnesses, saith the LORD, and my servant whom I have chosen: that ye may know and believe me, and understand that I am he: before me there was no God formed, neither shall there be after me.",
-        "ron": "Voi sunteţi martorii Mei, zice Domnul, şi Sluga pe care am ales-o, ca să ştiţi, să credeţi şi să pricepeţi că Eu sunt: înainte de Mine n-a fost Dumnezeu şi nici după Mine nu va mai fi!"
+        "ron": "Voi sunteţi martorii Mei, zice Domnul, şi Sluga pe care am ales-o, ca să ştiţi, să credeţi şi să pricepeţi că Eu sunt: înainte de Mine n-a fost Dumnezeu şi nici după Mine nu va mai fi!",
+        "grk": "Γένεσθέ μοι μάρτυρες, καὶ ἐγὼ μάρτυς, λέγει Κύριος ὁ Θεὸς, καὶ ὁ παῖς μου ὃν ἐξελεξάμην, ἵνα γνῶτε καὶ πιστεύσητε, καὶ συνῆτε ὅτι ἐγώ εἰμι· ἔμπροσθέν μου οὐκ ἐγένετο ἄλλος Θεὸς, καὶ μετʼ ἐμὲ οὐκ ἔσται."
       }
     },
     {
@@ -686,7 +696,8 @@
       "translations": {
         "lxx": "I am God; and beside me there is no Saviour.",
         "kjv": "I, even I, am the LORD; and beside me there is no saviour.",
-        "ron": "Eu, Eu sunt Domnul şi nu este izbăvitor afară de Mine!"
+        "ron": "Eu, Eu sunt Domnul şi nu este izbăvitor afară de Mine!",
+        "grk": "Ἐγὼ ὁ Θεὸς, καὶ οὐκ ἔστι πάρεξ ἐμοῦ σώζων."
       }
     },
     {
@@ -728,7 +739,8 @@
       "translations": {
         "lxx": "I have declared, and have saved; I have reproached, and there was no strange god among you: ye are my witnesses, and I am the Lord God,",
         "kjv": "I have declared, and have saved, and I have shewed, when there was no strange god among you: therefore ye are my witnesses, saith the LORD, that I am God.",
-        "ron": "Eu sunt Cel ce am vestit, Cel ce am izbăvit şi Cel ce am prezis şi nu sunt străin la voi. Voi sunteţi martorii Mei, zice Domnul."
+        "ron": "Eu sunt Cel ce am vestit, Cel ce am izbăvit şi Cel ce am prezis şi nu sunt străin la voi. Voi sunteţi martorii Mei, zice Domnul.",
+        "grk": "Ἐγὼ ἀνήγγειλα καὶ ἔσωσα, ὠνείδισα καὶ οὐκ ἦν ἐν ὑμῖν ἀλλότριος· ὑμεῖς ἐμοὶ μάρτυρες, καὶ ἐγὼ Κύριος ὁ Θεὸς"
       }
     },
     {
@@ -770,7 +782,8 @@
       "translations": {
         "lxx": "even from the beginning; and there is none that can deliver out of my hands: I will work, and who shall turn it back?",
         "kjv": "Yea, before the day was I am he; and there is none that can deliver out of my hand: I will work, and who shall let it?",
-        "ron": "Eu sunt Dumnezeu din veşnicie şi de aici încolo Eu sunt! Nimeni nu poate să iasă de sub puterea Mea şi ceea ce fac Eu, cine poate strica?\""
+        "ron": "Eu sunt Dumnezeu din veşnicie şi de aici încolo Eu sunt! Nimeni nu poate să iasă de sub puterea Mea şi ceea ce fac Eu, cine poate strica?\"",
+        "grk": "ἔτι ἀπʼ ἀρχῆς, καὶ οὐκ ἔστιν ὁ ἐκ τῶν χειρῶν μου ὁ ἐξαιρούμενος· ποιήσω, καὶ τίς ἀποστρέψει αὐτό;"
       }
     },
     {
@@ -862,7 +875,8 @@
       "translations": {
         "lxx": "Thus saith the Lord God that redeems you, the Holy One of Israel; For your sakes I will send to Babylon, and I will stir up all that flee, and the Chaldeans shall be bound in ships.",
         "kjv": "Thus saith the LORD, your redeemer, the Holy One of Israel; For your sake I have sent to Babylon, and have brought down all their nobles, and the Chaldeans, whose cry is in the ships.",
-        "ron": "Aşa zice Domnul, Izbăvitorul vostru, Sfântul lui Israel: \"Pentru voi trimit prăpăd la Babilon, ca să-i pun pe toţi pe fugă, pe aceşti Caldei aşa de mândri pe corăbiile lor."
+        "ron": "Aşa zice Domnul, Izbăvitorul vostru, Sfântul lui Israel: \"Pentru voi trimit prăpăd la Babilon, ca să-i pun pe toţi pe fugă, pe aceşti Caldei aşa de mândri pe corăbiile lor.",
+        "grk": "Οὕτως λέγει Κύριος ὁ Θεὸς ὁ λυτρούμενος ὑμᾶς, ὁ ἅγιος τοῦ Ἰσραὴλ, ἕνεκεν ὑμῶν ἀποστελῶ εἰς Βαβυλῶνα, καὶ ἐπεγερῶ φεύγοντας πάντας, καὶ Χαλδαῖοι ἐν πλοίοις δεθήσονται."
       }
     },
     {
@@ -909,7 +923,8 @@
       "translations": {
         "lxx": "I am the Lord God, your Holy One, who have appointed for Israel your king.",
         "kjv": "I am the LORD, your Holy One, the creator of Israel, your King.",
-        "ron": "Eu sunt Domnul, Sfântul vostru, Ziditorul lui Israel, Împăratul vostru!\""
+        "ron": "Eu sunt Domnul, Sfântul vostru, Ziditorul lui Israel, Împăratul vostru!\"",
+        "grk": "Ἐγὼ Κύριος ὁ Θεὸς ὁ ἅγιος ὑμῶν, ὁ καταδείξας Ἰσραὴλ βασιλέα ὑμῶν."
       }
     },
     {
@@ -981,7 +996,8 @@
       "translations": {
         "lxx": "Thus saith the Lord, who makes a way in the sea, and a path in the mighty water;",
         "kjv": "Thus saith the LORD, which maketh a way in the sea, and a path in the mighty waters;",
-        "ron": "Aşa zice Domnul, Cel ce croieşte drum pe mare şi cărare pe întinsele ape;"
+        "ron": "Aşa zice Domnul, Cel ce croieşte drum pe mare şi cărare pe întinsele ape;",
+        "grk": "Οὕτως λέγει Κύριος, ὁ διδοὺς ἐν θαλάσσῃ ὁδὸν, καὶ ἐν ὕδατι ἰσχυρῷ τρίβον,"
       }
     },
     {
@@ -1018,7 +1034,8 @@
       "translations": {
         "lxx": "who brought forth chariots and horse, and a mighty multitude: but they have lain down, and shall not rise: they are extinct, as quenched flax.",
         "kjv": "Which bringeth forth the chariot and horse, the army and the power; they shall lie down together, they shall not rise: they are extinct, they are quenched as tow.",
-        "ron": "Cel care scoate carele de război şi caii, oştirea ţi căpeteniile, ca să se culce la pământ şi să nu se mai scoale şi să se stingă ca o feştilă de opaiţ;"
+        "ron": "Cel care scoate carele de război şi caii, oştirea ţi căpeteniile, ca să se culce la pământ şi să nu se mai scoale şi să se stingă ca o feştilă de opaiţ;",
+        "grk": "ὁ ἐξαγαγὼν ἅρματα καὶ ἵππον καὶ ὄχλον ἰσχυρον· ἀλλʼ ἐκοιμήθησαν, καὶ οὐκ ἀναστήσονται, ἐσβέσθησαν ὡς λῖνον ἐσβεσμένον."
       }
     },
     {
@@ -1050,7 +1067,8 @@
       "translations": {
         "lxx": "Remember ye not the former things, and consider not the ancient things.",
         "kjv": "Remember ye not the former things, neither consider the things of old.",
-        "ron": "Nu vă mai amintiţi de întâmplările trecute şi nu mai luaţi în seamă lucrurile de altădată\"."
+        "ron": "Nu vă mai amintiţi de întâmplările trecute şi nu mai luaţi în seamă lucrurile de altădată\".",
+        "grk": "Μὴ μνημονεύετε τὰ πρῶτα, καὶ τὰ ἀρχαῖα μὴ συλλογίζεσθε."
       }
     },
     {
@@ -1137,7 +1155,8 @@
       "translations": {
         "lxx": "Behold, I will do new things, which shall presently spring forth, and ye shall know them: and I will make a way in the wilderness, and rivers in the dry land.",
         "kjv": "Behold, I will do a new thing; now it shall spring forth; shall ye not know it? I will even make a way in the wilderness, and rivers in the desert.",
-        "ron": "Iată că Eu fac un lucru nou, el dă muguri; nu-l vedeţi voi oare? Croi-voi în deşert o cale, în loc uscat izvoare de apă."
+        "ron": "Iată că Eu fac un lucru nou, el dă muguri; nu-l vedeţi voi oare? Croi-voi în deşert o cale, în loc uscat izvoare de apă.",
+        "grk": "Ἰδοὺ ἐγὼ ποιῶ καινὰ, ἃ νῦν ἀνατελεῖ, καὶ γνώσεσθε αὐτά· καὶ ποιήσω ἐν τῇ ἐρήμῳ ὁδὸν, καὶ ἐν τῇ ἀνύδρῳ ποταμούς."
       }
     },
     {
@@ -1239,7 +1258,8 @@
       "translations": {
         "lxx": "The beasts of the field shall bless me, the owls and young ostriches; for I have given water in the wilderness, and rivers in the dry land, to give drink to my chosen race,",
         "kjv": "The beast of the field shall honour me, the dragons and the owls: because I give waters in the wilderness, and rivers in the desert, to give drink to my people, my chosen.",
-        "ron": "Pe Tine Te vor preaslăvi fiarele câmpului, şacalii şi struţii, că Tu ai izvorât apă în pustiu, şuvoaie de apă în pământ neumblat, ca să adăpi pe poporul Meu cel ales;"
+        "ron": "Pe Tine Te vor preaslăvi fiarele câmpului, şacalii şi struţii, că Tu ai izvorât apă în pustiu, şuvoaie de apă în pământ neumblat, ca să adăpi pe poporul Meu cel ales;",
+        "grk": "Εὐλογήσουσί με τὰ θηρία τοῦ ἀγροῦ, σειρῆνες, καὶ θυγατέρες στρουθῶν, ὅτι ἔδωκα ἐν τῇ ἐρήμῳ ὕδωρ, καὶ ποταμοὺς ἐν τῇ ἀνύδρῳ, ποτίσαι τὸ γένος μου τὸ ἐκλεκτὸν,"
       }
     },
     {
@@ -1276,7 +1296,8 @@
       "translations": {
         "lxx": "even my people whom I have preserved to tell forth my praises.",
         "kjv": "This people have I formed for myself; they shall shew forth my praise.",
-        "ron": "Poporul pe care l-am făcut pentru Mine, ca să Mă preaslăvească întru laude."
+        "ron": "Poporul pe care l-am făcut pentru Mine, ca să Mă preaslăvească întru laude.",
+        "grk": "λαόν μου ὃν περιεποιησάμην τὰς ἀρετάς μου διηγεῖσθαι."
       }
     },
     {
@@ -1318,7 +1339,8 @@
       "translations": {
         "lxx": "I have not now called thee, O Jacob; neither have I made thee weary, O Israel.",
         "kjv": "But thou hast not called upon me, O Jacob; but thou hast been weary of me, O Israel.",
-        "ron": "Dar tu nu M-ai chemat, Iacove, şi tu nu te-ai ostenit pentru Mine, Israele!"
+        "ron": "Dar tu nu M-ai chemat, Iacove, şi tu nu te-ai ostenit pentru Mine, Israele!",
+        "grk": "Οὐ νῦν ἐκάλεσά σε Ἰακὼβ, οὐδὲ κοπιάσαι σε ἐποίησα Ἰσραήλ."
       }
     },
     {
@@ -1395,7 +1417,8 @@
       "translations": {
         "lxx": "Thou hast not brought me the sheep of thy whole-burnt-offering; neither hast thou glorified me with thy sacrifices. I have not caused thee to serve with sacrifices, neither have I wearied thee with frankincense.",
         "kjv": "Thou hast not brought me the small cattle of thy burnt offerings; neither hast thou honoured me with thy sacrifices. I have not caused thee to serve with an offering, nor wearied thee with incense.",
-        "ron": "Tu nu Mi-ai junghiat nici măcar o oaie ca ardere de tot şi cu jertfă sângeroasă tu nu M-ai preaslăvit. Eu nu te-am supărat cerând prinoase şi nu te-am împovărat cu jertfe de tămâie."
+        "ron": "Tu nu Mi-ai junghiat nici măcar o oaie ca ardere de tot şi cu jertfă sângeroasă tu nu M-ai preaslăvit. Eu nu te-am supărat cerând prinoase şi nu te-am împovărat cu jertfe de tămâie.",
+        "grk": "Οὐκ ἤνεγκάς μοι πρόβατά σου τῆς ὁλοκαρπώσεώς σου, οὐδὲ ἐν ταῖς θυσίαις σου ἐδόξασάς με· οὐκ ἐδούλωσά σε ἐν θυσίαις, οὐδὲ ἔγκοπον ἐποίησά σε ἐν λιβάνῳ,"
       }
     },
     {
@@ -1462,7 +1485,8 @@
       "translations": {
         "lxx": "Neither hast thou purchased for me victims for silver, neither have I desired the fat of thy sacrifices: but thou didst stand before me in thy sins, and in thine iniquities.",
         "kjv": "Thou hast bought me no sweet cane with money, neither hast thou filled me with the fat of thy sacrifices: but thou hast made me to serve with thy sins, thou hast wearied me with thine iniquities.",
-        "ron": "Tu n-ai cumpărat pe bani miresme pentru Mine şi de grăsimea jertfelor tale tu nu M-ai săturat, ci M-ai copleşit cu păcatele tale şi cu fărădelegile tale tu M-ai chinuit."
+        "ron": "Tu n-ai cumpărat pe bani miresme pentru Mine şi de grăsimea jertfelor tale tu nu M-ai săturat, ci M-ai copleşit cu păcatele tale şi cu fărădelegile tale tu M-ai chinuit.",
+        "grk": "οὐδὲ ἐκτήσω μοι ἀργυρίου θυσίασμα, οὐδὲ τὸ στέαρ τῶν θυσιῶν σου ἐπεθύμησα· ἀλλὰ ἐν ταῖς ἁμαρτίαις σου προέστης μου, καὶ ἐν ταῖς ἀδικίαις σου."
       }
     },
     {
@@ -1499,7 +1523,8 @@
       "translations": {
         "lxx": "I, even I, am he that blots out thy transgressions for mine own sake, and thy sins; and I will not remember them.",
         "kjv": "I, even I, am he that blotteth out thy transgressions for mine own sake, and will not remember thy sins.",
-        "ron": "Eu, Eu sunt Acel Care şterge păcatele tale şi nu tşi mai aduce aminte de fărădelegile tale."
+        "ron": "Eu, Eu sunt Acel Care şterge păcatele tale şi nu tşi mai aduce aminte de fărădelegile tale.",
+        "grk": "Ἐγώ εἰμι ἐγώ εἰμι ὁ ἐξαλείφων τὰς ἀνομίας σου ἕνεκεν ἐμοῦ, καὶ τὰς ἁμαρτίας σου, καὶ οὐ μὴ μνησθήσομαι."
       }
     },
     {
@@ -1526,7 +1551,8 @@
       "translations": {
         "lxx": "But do thou remember, and let us plead together: do thou first confess thy transgressions, that thou mayest be justified.",
         "kjv": "Put me in remembrance: let us plead together: declare thou, that thou mayest be justified.",
-        "ron": "Adu-Mi aminte ca să judecăm împreună, fă tu însuţi socoteala ca să te dezvinovăţeşti:"
+        "ron": "Adu-Mi aminte ca să judecăm împreună, fă tu însuţi socoteala ca să te dezvinovăţeşti:",
+        "grk": "Σὺ δὲ μνήσθητι, καὶ κριθῶμεν· λέγε σὺ τὰς ἀνομίας σου πρῶτος, ἵνα δικαιωθῇς."
       }
     },
     {
@@ -1558,7 +1584,8 @@
       "translations": {
         "lxx": "Your fathers first, and your princes have transgressed against me.",
         "kjv": "Thy first father hath sinned, and thy teachers have transgressed against me.",
-        "ron": "Tatăl tău dintâi a păcătuit şi urmaşii tăi şi-au bătut joc de Mine;"
+        "ron": "Tatăl tău dintâi a păcătuit şi urmaşii tăi şi-au bătut joc de Mine;",
+        "grk": "Οἱ πατέρες ὑμῶν πρῶτοι, καὶ οἱ ἄρχοντες ὑμῶν ἠνόμησαν εἰς ἐμέ."
       }
     },
     {
@@ -1615,7 +1642,8 @@
       "translations": {
         "lxx": "And the princes have defiled my sanctuaries: so I gave Jacob to enemies to destroy, and Israel to reproach.",
         "kjv": "Therefore I have profaned the princes of the sanctuary, and have given Jacob to the curse, and Israel to reproaches.",
-        "ron": "Căpeteniile tale au pângărit altarul Meu. Pentru aceasta am dat pe Iacov pierzării şi pe Israel spre bătaie de joc!\""
+        "ron": "Căpeteniile tale au pângărit altarul Meu. Pentru aceasta am dat pe Iacov pierzării şi pe Israel spre bătaie de joc!\"",
+        "grk": "Καὶ ἐμίαναν οἱ ἄρχοντες τὰ ἅγιά μου· καὶ ἔδωκα ἀπωλέσαι Ἰακὼβ, καὶ Ἰσραὴλ εἰς ὀνειδισμόν."
       }
     }
   ],

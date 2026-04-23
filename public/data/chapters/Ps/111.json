@@ -8,7 +8,8 @@
       "translation": "Alleluia. Blessed is the man that fears the Lord: he will delight greatly in his commandments.",
       "words": [],
       "translations": {
-        "ron": "Fericit bărbatul care se teme de Domnul; întru poruncile Lui va voi foarte."
+        "ron": "Fericit bărbatul care se teme de Domnul; întru poruncile Lui va voi foarte.",
+        "grk": "Ἀλληλούϊα. Μακάριος ἀνὴρ ὁ φοβούμενος τὸν Κύριον, ἐν ταῖς ἐντολαῖς αὐτοῦ θελήσει σφόδρα."
       }
     },
     {
@@ -17,7 +18,8 @@
       "translation": "His seed shall be mighty in the earth: the generation of the upright shall be blessed.",
       "words": [],
       "translations": {
-        "ron": "Puternică va fi pe pământ seminţia Lui; neamul drepţilor se va binecuvânta."
+        "ron": "Puternică va fi pe pământ seminţia Lui; neamul drepţilor se va binecuvânta.",
+        "grk": "Δυνατὸν ἐν τῇ γῇ ἔσται τὸ σπέρμα αὐτοῦ, γενεὰ εὐθέων εὐλογηθήσεται·"
       }
     },
     {
@@ -26,7 +28,8 @@
       "translation": "Glory and riches shall be in his house; and his righteousness endures for evermore.",
       "words": [],
       "translations": {
-        "ron": "Slavă şi bogăţie în casa lui şi dreptatea lui rămâne în veacul veacului."
+        "ron": "Slavă şi bogăţie în casa lui şi dreptatea lui rămâne în veacul veacului.",
+        "grk": "Δόξα καὶ πλοῦτος ἐν τῷ οἴκῳ αὐτοῦ, καὶ ἡ δικαιοσύνη αὐτοῦ μένει εἰς τὸν αἰῶνα τοῦ αἰῶνος."
       }
     },
     {
@@ -35,7 +38,8 @@
       "translation": "To the upright light has sprung up in darkness: he is pitiful, and merciful, and righteous.",
       "words": [],
       "translations": {
-        "ron": "Răsărit-a în întuneric lumină drepţilor, Cel milostiv, îndurat şi drept."
+        "ron": "Răsărit-a în întuneric lumină drepţilor, Cel milostiv, îndurat şi drept.",
+        "grk": "Ἐξανέτειλεν ἐν σκότει φῶς τοῖς εὐθέσιν· ἐλεήμων καὶ οἰκτίρμων καὶ δίκαιος."
       }
     },
     {
@@ -44,7 +48,8 @@
       "translation": "The good man is he that pities and lends: he will direct his affairs with judgment.",
       "words": [],
       "translations": {
-        "ron": "Bun este bărbatul care se îndură şi împrumută; îşi rânduieşte vorbele sale cu judecată, că în veac nu se va clinti."
+        "ron": "Bun este bărbatul care se îndură şi împrumută; îşi rânduieşte vorbele sale cu judecată, că în veac nu se va clinti.",
+        "grk": "Χρηστὸς ἀνὴρ ὁ οἰκτείρων καὶ κιχρῶν, οἰκονομήσει τοὺς λόγους αὐτοῦ ἐν κρίσει,"
       }
     },
     {
@@ -53,7 +58,8 @@
       "translation": "For he shall not be moved for ever; the righteous shall be in everlasting remembrance.",
       "words": [],
       "translations": {
-        "ron": "intru pomenire veşnică va fi dreptul; de vorbire de rău nu se va teme."
+        "ron": "intru pomenire veşnică va fi dreptul; de vorbire de rău nu se va teme.",
+        "grk": "ὅτι εἰς τὸν αἰῶνα οὐ σαλευθήσεται· εἰς μνημόσυνον αἰώνιον ἔσται δίκαιος."
       }
     },
     {
@@ -62,7 +68,8 @@
       "translation": "He shall not be afraid of any evil report: his heart is ready to trust in the Lord.",
       "words": [],
       "translations": {
-        "ron": "Gata este inima lui a nădăjdui în Domnul; întărită este inima lui, nu se va teme, până ce va ajunge să dispreţuiască pe vrăjmaşii săi."
+        "ron": "Gata este inima lui a nădăjdui în Domnul; întărită este inima lui, nu se va teme, până ce va ajunge să dispreţuiască pe vrăjmaşii săi.",
+        "grk": "Ἀπὸ ἀκοῆς πονηρᾶς οὐ φοβηθήσεται· ἑτοίμη ἡ καρδία αὐτοῦ ἐλπίζειν ἐπὶ Κύριον·"
       }
     },
     {
@@ -71,7 +78,8 @@
       "translation": "His heart is established, he shall not fear, till he shall see his desire upon his enemies.",
       "words": [],
       "translations": {
-        "ron": "Risipit-a, dat-a săracilor; dreptatea lui rămâne în veacul veacului."
+        "ron": "Risipit-a, dat-a săracilor; dreptatea lui rămâne în veacul veacului.",
+        "grk": "Ἐστήρικται ἡ καρδία αὐτοῦ, οὐ φοβηθῇ, ἕως οὗ ἐπίδῃ ἐπὶ τοὺς ἐχθροὺς αὐτοῦ."
       }
     },
     {
@@ -80,14 +88,18 @@
       "translation": "He has dispersed abroad; he has given to the poor; his righteousness endures for evermore: his horn shall be exalted with honour.",
       "words": [],
       "translations": {
-        "ron": "Puterea lui se va înălţa întru slavă. 10. Păcătosul va vedea şi se va mânia, va scrâşni din dinţi şi se va topi. Pofta păcătoşilor va pieri."
+        "ron": "Puterea lui se va înălţa întru slavă. 10. Păcătosul va vedea şi se va mânia, va scrâşni din dinţi şi se va topi. Pofta păcătoşilor va pieri.",
+        "grk": "Ἐσκόρπισεν, ἔδωκε τοῖς πένησιν, ἡ δικαιοσύνη αὐτοῦ μένει εἰς τὸν αἰῶνα τοῦ αἰῶνος· τὸ κέρας αὐτοῦ ὑψωθήσεται ἐν δόξῃ."
       }
     },
     {
       "num": 10,
       "geez": "",
       "translation": "The sinner shall see and be angry, he shall gnash his teeth, and consume away: the desire of the sinner shall perish.",
-      "words": []
+      "words": [],
+      "translations": {
+        "grk": "Ἁμαρτωλὸς ὄψεται καὶ ὀργισθήσεται, τοὺς ὀδόντας αὐτοῦ βρύξει καὶ τακήσεται· ἐπιθυμία ἁμαρτωλοῦ ἀπολεῖται."
+      }
     }
   ]
 }

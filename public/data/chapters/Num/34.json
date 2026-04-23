@@ -31,7 +31,8 @@
       "translations": {
         "lxx": "And the Lord spoke to Moses, saying,",
         "kjv": "And the LORD spake unto Moses, saying,",
-        "ron": "A grăit Domnul cu Moise şi a zis:"
+        "ron": "A grăit Domnul cu Moise şi a zis:",
+        "grk": "Καὶ ἐλάλησε Κύριος πρὸς Μωυσῆν, λέγων,"
       }
     },
     {
@@ -118,7 +119,8 @@
       "translations": {
         "lxx": "Charge the children of Israel, and thou shalt say to them, Ye are entering into the land of Chanaan: it shall be to you for an inheritance, the land of Chanaan with its boundaries.",
         "kjv": "Command the children of Israel, and say unto them, When ye come into the land of Canaan; (this is the land that shall fall unto you for an inheritance, even the land of Canaan with the coasts thereof:)",
-        "ron": "\"Porunceşte fiilor lui Israel şi le zi: Iată, veţi intra în pământul Canaan. Acesta va fi moştenirea voastră; iar hotarele Canaanului sunt acestea:"
+        "ron": "\"Porunceşte fiilor lui Israel şi le zi: Iată, veţi intra în pământul Canaan. Acesta va fi moştenirea voastră; iar hotarele Canaanului sunt acestea:",
+        "grk": "ἔντειλαι τοῖς υἱοῖς Ἰσραὴλ, καὶ ἐρεῖς πρὸς αὐτοὺς, ὑμεῖς εἰσπορεύεσθε εἰς τὴν γῆν Χαναὰν· αὕτη ἔσται ὑμῖν εἰς κληρονομίαν, γῆ Χαναὰν σὺν τοῖς ὁρίοις αὐτῆς."
       }
     },
     {
@@ -225,7 +227,8 @@
       "translations": {
         "lxx": "And your southern side shall be from the wilderness of Sin to the border of Edom, and your border southward shall extend on the side of the salt sea eastward.",
         "kjv": "Then your south quarter shall be from the wilderness of Zin along by the coast of Edom, and your south border shall be the outmost coast of the salt sea eastward:",
-        "ron": "Partea de miazăzi va începe de la pustiul Sin de lângă Edom şi va avea la răsărit, ca hotar, Marea Sărată."
+        "ron": "Partea de miazăzi va începe de la pustiul Sin de lângă Edom şi va avea la răsărit, ca hotar, Marea Sărată.",
+        "grk": "Καὶ ἔσται ὑμῖν τὸ κλίτος τὸ πρὸς Λίβα ἀπὸ ἐρήμου Σὶν ἕως ἐχόμενον Ἐδὼμ, καὶ ἔσται ὑμῖν τὰ ὅρια πρὸς λίβα ἀπὸ μέρους τῆς θαλάσσης τῆς ἁλυκῆς ἀπὸ ἀνατολῶν."
       }
     },
     {
@@ -347,7 +350,8 @@
       "translations": {
         "lxx": "And your border shall go round you from the south to the ascent of Acrabin, and shall proceed by Ennac, and the going forth of it shall be southward to Cades Barne, and it shall go forth to the village of Arad, and shall proceed by Asemona.",
         "kjv": "And your border shall turn from the south to the ascent of Akrabbim, and pass on to Zin: and the going forth thereof shall be from the south to Kadeshbarnea, and shall go on to Hazaraddar, and pass on to Azmon:",
-        "ron": "Acest hotar se va îndrepta spre miazăzi, către înălţimea Acravimului; va trece prin Sin şi se va întinde până la miazăzi de Cadeş-Barne; apoi va merge către Haţar-Adar trecând la Aţmon."
+        "ron": "Acest hotar se va îndrepta spre miazăzi, către înălţimea Acravimului; va trece prin Sin şi se va întinde până la miazăzi de Cadeş-Barne; apoi va merge către Haţar-Adar trecând la Aţmon.",
+        "grk": "Καὶ κυκλώσει ὑμᾶς τὰ ὅρια ἀπὸ Λιβὸς πρὸς ἀνάβασιν Ἀκραβὶν, καὶ παρελεύσεται Ἐννὰκ, καὶ ἔσται ἡ διέξοδος αὐτοῦ πρὸς Λίβα Κάδης τοῦ Βαρνὴ, καὶ ἐξελεύσεται εἰς ἔπαυλιν Ἀρὰδ, καὶ παρελεύσεται Ἀσεμωνᾶ."
       }
     },
     {
@@ -404,7 +408,8 @@
       "translations": {
         "lxx": "And the border shall compass from Asemona to the river of Egypt, and the sea shall be the termination.",
         "kjv": "And the border shall fetch a compass from Azmon unto the river of Egypt, and the goings out of it shall be at the sea.",
-        "ron": "De la Aţmon, hotarul se va îndrepta spre Râul Egiptului şi se va pogorî până la mare."
+        "ron": "De la Aţmon, hotarul se va îndrepta spre Râul Egiptului şi se va pogorî până la mare.",
+        "grk": "Καὶ κυκλώσει τὰ ὅρια ἀπὸ Ἀσεμωνᾶ χειμάῤῥουν Αἰγύπτου, καὶ ἔσται ἡ διέξοδος ἡ θάλασσα."
       }
     },
     {
@@ -476,7 +481,8 @@
       "translations": {
         "lxx": "And ye shall have your border on the west, the great sea shall be the boundary: this shall be to you the border on the west.",
         "kjv": "And as for the western border, ye shall even have the great sea for a border: this shall be your west border.",
-        "ron": "Iar hotar dinspre apus vă va fi Marea cea Mare. Acesta va fi hotarul vostru dinspre asfinţit."
+        "ron": "Iar hotar dinspre apus vă va fi Marea cea Mare. Acesta va fi hotarul vostru dinspre asfinţit.",
+        "grk": "Καὶ τὰ ὅρια τῆς θαλάσσης ἔσται ὑμῖν, ἡ θάλασσα ἡ μεγάλη ὁριεῖ, τοῦτο ἔσται ὑμῖν τὰ ὅρια τῆς θαλάσσης."
       }
     },
     {
@@ -548,7 +554,8 @@
       "translations": {
         "lxx": "And this shall be your northern border; from the great sea ye shall measure to yourselves, by the side of the mountain.",
         "kjv": "And this shall be your north border: from the great sea ye shall point out for you mount Hor:",
-        "ron": "Iar spre miazănoapte, hotarul vostru să-l trageţi de la Marea cea Mare până la muntele Hor;"
+        "ron": "Iar spre miazănoapte, hotarul vostru să-l trageţi de la Marea cea Mare până la muntele Hor;",
+        "grk": "Καὶ τοῦτο ἔσται ὑμῖν τὰ ὅρια πρὸς βοῤῥᾶν· ἀπὸ τῆς θαλάσσης τῆς μεγάλης καταμετρήσετε ὑμῖν αὐτοῖς παρὰ τὸ ὄρος τὸ ὄρος."
       }
     },
     {
@@ -625,7 +632,8 @@
       "translations": {
         "lxx": "And ye shall measure to yourselves the mountain from mount Hor at the entering in to Emath, and the termination of it shall be the coasts of Saradac.",
         "kjv": "From mount Hor ye shall point out your border unto the entrance of Hamath; and the goings forth of the border shall be to Zedad:",
-        "ron": "De la muntele Hor, să-l trageţi spre Hamat, şi hotarul va atinge Ţedadul."
+        "ron": "De la muntele Hor, să-l trageţi spre Hamat, şi hotarul va atinge Ţedadul.",
+        "grk": "Καὶ ἀπὸ τοῦ ὄρους τὸ ὄρος καταμετρήσετε αὐτοῖς, εἰσπορευομένων εἰς Ἐμὰθ, καὶ ἔσται ἡ διέξοδος αὐτοῦ τὰ ὅρια Σαραδάκ."
       }
     },
     {
@@ -697,7 +705,8 @@
       "translations": {
         "lxx": "And the border shall go out to Dephrona, and its termination shall be at Arsenain; this shall be your border from the north.",
         "kjv": "And the border shall go on to Ziphron, and the goings out of it shall be at Hazarenan: this shall be your north border.",
-        "ron": "De acolo va merge hotarul către Ţifron şi va atinge Haţar-Enan. Acesta să vă fie hotarul de miazănoapte."
+        "ron": "De acolo va merge hotarul către Ţifron şi va atinge Haţar-Enan. Acesta să vă fie hotarul de miazănoapte.",
+        "grk": "Καὶ ἐξελεύσεται τὰ ὅρια Δεφρωνὰ, καὶ ἔσται ἡ διέξοδος αὐτοῦ Ἀρσεναΐν· τοῦτο ἔσται ὑμῖν ὅρια ἀπὸ Βοῤῥᾶ."
       }
     },
     {
@@ -744,7 +753,8 @@
       "translations": {
         "lxx": "And ye shall measure to yourselves the eastern border from Arsenain to Sepphamar.",
         "kjv": "And ye shall point out your east border from Hazarenan to Shepham:",
-        "ron": "Iar hotarul dinspre răsărit să vi-l trageţi de la Haţar-Enan către Şefam;"
+        "ron": "Iar hotarul dinspre răsărit să vi-l trageţi de la Haţar-Enan către Şefam;",
+        "grk": "Καὶ καταβήσεται τὰ ὅρια ἀπὸ Σεπεφαμὰρ Βηλὰ ἀπὸ ἀνατολῶν ἐπὶ πηγὰς, και καταβήσεται τὰ ὅρια Βηλὰ ἐπὶ νώτου θαλάσσης Χενερὲθ ἀπὸ ἀνατολῶν."
       }
     },
     {
@@ -811,7 +821,8 @@
       "translations": {
         "lxx": "And the border shall go down from Sepphamar to Bela eastward to the fountains, and the border shall go down from Bela behind the sea Chenereth eastward.",
         "kjv": "And the coast shall go down from Shepham to Riblah, on the east side of Ain; and the border shall descend, and shall reach unto the side of the sea of Chinnereth eastward:",
-        "ron": "De la Şefam hotarul se va pogorî spre Ribla, pe la răsărit de Ain, mergând de-a lungul malului Mării Chineret (Ghenizaret) pe partea de răsărit."
+        "ron": "De la Şefam hotarul se va pogorî spre Ribla, pe la răsărit de Ain, mergând de-a lungul malului Mării Chineret (Ghenizaret) pe partea de răsărit.",
+        "grk": "Καὶ καταβήσεται τὰ ὅρια ἀπὸ Σεπφαμὰρ Βηλὰ ἀπὸ ἀνατολῶν ἐπὶ πηγάς, καὶ καταβήσεται τὰ ὅρια Βηλὰ ἐπὶ νώτου θαλάσσης Χενερὲθ ἀπὸ ἀνατολῶν."
       }
     },
     {
@@ -893,7 +904,8 @@
       "translations": {
         "lxx": "And the border shall go down to Jordan, and the termination shall be the salt sea; this shall be your land and its borders round about.",
         "kjv": "And the border shall go down to Jordan, and the goings out of it shall be at the salt sea: this shall be your land with the coasts thereof round about.",
-        "ron": "De aici hotarul se va pogorî pe Iordan şi se va sfârşi la Marea Sărată. Acesta va fi pământul vostru, după hotarele lui din toate părţile\"."
+        "ron": "De aici hotarul se va pogorî pe Iordan şi se va sfârşi la Marea Sărată. Acesta va fi pământul vostru, după hotarele lui din toate părţile\".",
+        "grk": "Καὶ καταβήσεται τὰ ὅρια ἐπὶ τὸν Ἰορδάνην, καὶ ἔσται ἡ διέξοδος θάλασσα ἡ ἁλυκή· αὕτη ἔσται ὑμῖν ἡ γῆ καὶ τὰ ὅρια αὐτῆς κύκλῳ."
       }
     },
     {
@@ -1010,7 +1022,8 @@
       "translations": {
         "lxx": "And Moses charged the children of Israel, saying, This is the land which ye shall inherit by lot, even as the Lord commanded us to give it to the nine tribes and the half-tribe of Manasse.",
         "kjv": "And Moses commanded the children of Israel, saying, This is the land which ye shall inherit by lot, which the LORD commanded to give unto the nine tribes, and to the half tribe:",
-        "ron": "Atunci a dat Moise poruncă fiilor lui Israel şi a zis: \"Iată pământul pe care voi îl veţi împărţi în bucăţi, prin sorţi, şi care a poruncit Domnul să se dea la nouă seminţii şi la jumătate din seminţia lui Manase."
+        "ron": "Atunci a dat Moise poruncă fiilor lui Israel şi a zis: \"Iată pământul pe care voi îl veţi împărţi în bucăţi, prin sorţi, şi care a poruncit Domnul să se dea la nouă seminţii şi la jumătate din seminţia lui Manase.",
+        "grk": "Καὶ ἐνετείλατο Μωυσῆς τοῖς υἱοῖς Ἰσραὴλ, λέγων, αὕτη ἡ γῆ ἣν κατακληρονομήσετε αὐτὴν μετὰ κλήρου, ὃν τρόπον συνέταξε Κύριος δοῦναι αὐτὴν ταῖς ἐννέα φυλαῖς καὶ τῷ ἡμίσει φυλῆς Μανασσῆ."
       }
     },
     {
@@ -1102,7 +1115,8 @@
       "translations": {
         "lxx": "For the tribe of the children of Ruben, and the tribe of the children of Gad have received their inheritance according to their families; and the half-tribe of Manasse have received their inheritances.",
         "kjv": "For the tribe of the children of Reuben according to the house of their fathers, and the tribe of the children of Gad according to the house of their fathers, have received their inheritance; and half the tribe of Manasseh have received their inheritance:",
-        "ron": "Căci seminţiilor fiilor lui Ruben cu familiile lor, a fiilor lui Gad cu familiile lor, şi jumătate din seminţia lui Manase şi-au primit partea lor."
+        "ron": "Căci seminţiilor fiilor lui Ruben cu familiile lor, a fiilor lui Gad cu familiile lor, şi jumătate din seminţia lui Manase şi-au primit partea lor.",
+        "grk": "Ὅτι ἔλαβε φυλὴ υἱῶν Ῥουβὴν, καὶ φυλὴ υἱῶν Γὰδ κατʼ οἴκους πατριῶν αὐτῶν· καὶ τὸ ἥμισυ φυλῆς Μανασσῆ ἀπέλαβον τοὺς κλήρους αὐτῶν."
       }
     },
     {
@@ -1179,7 +1193,8 @@
       "translations": {
         "lxx": "Two tribes and half a tribe have received their inheritance beyond Jordan by Jericho from the south eastwards.",
         "kjv": "The two tribes and the half tribe have received their inheritance on this side Jordan near Jericho eastward, toward the sunrising.",
-        "ron": "Două seminţii întregi şi o jumătate de seminţie şi-au primit partea peste Iordan, pe partea răsăriteană, în faţa Ierihonului\"."
+        "ron": "Două seminţii întregi şi o jumătate de seminţie şi-au primit partea peste Iordan, pe partea răsăriteană, în faţa Ierihonului\".",
+        "grk": "Δύο φυλαὶ καὶ ἥμισυ φυλῆς ἔλαβον τοὺς κλήρους αὐτῶν πέραν τοῦ Ἰορδάνου κατὰ Ἱεριχὼ ἀπὸ Νότου κατʼ ἀνατολάς."
       }
     },
     {
@@ -1211,7 +1226,8 @@
       "translations": {
         "lxx": "And the Lord spoke to Moses, saying,",
         "kjv": "And the LORD spake unto Moses, saying,",
-        "ron": "A grăit Domnul cu Moise şi a zis:"
+        "ron": "A grăit Domnul cu Moise şi a zis:",
+        "grk": "Καὶ ἐλάλησε Κύριος πρὸς Μωυσῆν, λέγων,"
       }
     },
     {
@@ -1288,7 +1304,8 @@
       "translations": {
         "lxx": "These are the names of the men who shall divide the land to you for an inheritance; Eleazar the priest and Joshua the son of Naue.",
         "kjv": "These are the names of the men which shall divide the land unto you: Eleazar the priest, and Joshua the son of Nun.",
-        "ron": "\"Iată numele bărbaţilor care au să vă împartă pământul: Eleazar preotul şi Iosua, fiul lui Navi;"
+        "ron": "\"Iată numele bărbaţilor care au să vă împartă pământul: Eleazar preotul şi Iosua, fiul lui Navi;",
+        "grk": "ταῦτα τὰ ὀνόματα τῶν ἀνδρῶν, οἳ κληρονομήσουσιν ὑμῖν τὴν γῆν· Ἐλεάζαρ ὁ ἱερεὺς καὶ Ἰησοῦς ὁ τοῦ Ναυή."
       }
     },
     {
@@ -1365,7 +1382,8 @@
       "translations": {
         "lxx": "And ye shall take one ruler from each tribe to divide the land to you by lot.",
         "kjv": "And ye shall take one prince of every tribe, to divide the land by inheritance.",
-        "ron": "Veţi mai lua încă şi câte o căpetenie de fiecare seminţie pentru împărţirea pământului."
+        "ron": "Veţi mai lua încă şi câte o căpetenie de fiecare seminţie pentru împărţirea pământului.",
+        "grk": "Καὶ ἄρχοντα ἕνα ἐκ φυλῆς λήψεσθε κατακληρονομῆσαι ὑμῖν τὴν γῆν."
       }
     },
     {
@@ -1427,7 +1445,8 @@
       "translations": {
         "lxx": "And these are the names of the men; of the tribe of Juda, Chaleb the son of Jephonne.",
         "kjv": "And the names of the men are these: Of the tribe of Judah, Caleb the son of Jephunneh.",
-        "ron": "Numele acestor bărbaţi sunt: Caleb, fiul lui Iefoni, pentru seminţia Iudei;"
+        "ron": "Numele acestor bărbaţi sunt: Caleb, fiul lui Iefoni, pentru seminţia Iudei;",
+        "grk": "Καὶ ταῦτα τὰ ὀνόματα τῶν ἀνδρῶν· τῆς φυλῆς Ἰούδα, Χάλεβ υἱὸς Ἰεφοννή."
       }
     },
     {
@@ -1464,7 +1483,8 @@
       "translations": {
         "lxx": "Of the tribe of Symeon, Salamiel the son of Semiud.",
         "kjv": "And of the tribe of the children of Simeon, Shemuel the son of Ammihud.",
-        "ron": "Samuel, fiul lui Amihud, pentru seminţia fiilor lui Simeon;"
+        "ron": "Samuel, fiul lui Amihud, pentru seminţia fiilor lui Simeon;",
+        "grk": "Τῆς φυλῆς Συμεὼν, Σαλαμιὴλ υἱὸς Σεμιούδ."
       }
     },
     {
@@ -1501,7 +1521,8 @@
       "translations": {
         "lxx": "Of the tribe of Benjamin, Eldad the son of Chaslon.",
         "kjv": "Of the tribe of Benjamin, Elidad the son of Chislon.",
-        "ron": "Elidad, fiul lui Chislon, pentru seminţia lui Veniamin;"
+        "ron": "Elidad, fiul lui Chislon, pentru seminţia lui Veniamin;",
+        "grk": "Τῆς φυλῆς Βενιαμὶν, Ἐλδὰδ υἱὸς Χασλών·"
       }
     },
     {
@@ -1543,7 +1564,8 @@
       "translations": {
         "lxx": "Of the tribe of Dan the prince was Bacchir the son of Egli.",
         "kjv": "And the prince of the tribe of the children of Dan, Bukki the son of Jogli.",
-        "ron": "Căpetenia Buchi, fiul lui Iogli, pentru seminţia fiilor lui Dan;"
+        "ron": "Căpetenia Buchi, fiul lui Iogli, pentru seminţia fiilor lui Dan;",
+        "grk": "Τῆς φυλῆς Δὰν, ἄρχων Βακχὶρ υἱὸς Ἐγλί."
       }
     },
     {
@@ -1605,7 +1627,8 @@
       "translations": {
         "lxx": "Of the sons of Joseph of the tribe of the sons of Manasse, the prince was Aniel the son of Suphi.",
         "kjv": "The prince of the children of Joseph, for the tribe of the children of Manasseh, Hanniel the son of Ephod.",
-        "ron": "Căpetenia Haniel, fiul lui Efod, pentru seminţia fiilor lui Manase;"
+        "ron": "Căpetenia Haniel, fiul lui Efod, pentru seminţia fiilor lui Manase;",
+        "grk": "Τῶν υἱῶν Ἰωσὴφ φυλῆς υἱῶν Μανασσῆ, ἄρχων Ἀνιὴλ υἱὸς Σουφί."
       }
     },
     {
@@ -1652,7 +1675,8 @@
       "translations": {
         "lxx": "Of the tribe of the sons of Ephraim, the prince was Camuel the son of Sabathan.",
         "kjv": "And the prince of the tribe of the children of Ephraim, Kemuel the son of Shiphtan.",
-        "ron": "Căpetenia Chemuel, fiul lui Şiftan, pentru seminţia fiilor lui Efraim;"
+        "ron": "Căpetenia Chemuel, fiul lui Şiftan, pentru seminţia fiilor lui Efraim;",
+        "grk": "Τῆς φυλῆς υἱῶν Ἐφραὶμ, ἄρχων Καμουὴλ υἱὸς Σαβαθᾶν."
       }
     },
     {
@@ -1699,7 +1723,8 @@
       "translations": {
         "lxx": "Of the tribe of Zabulon, the prince was Elisaphan the son of Pharnac.",
         "kjv": "And the prince of the tribe of the children of Zebulun, Elizaphan the son of Parnach.",
-        "ron": "Căpetenia Eliţafan, fiul lui Parnac, pentru seminţia fiilor lui Zabulon,"
+        "ron": "Căpetenia Eliţafan, fiul lui Parnac, pentru seminţia fiilor lui Zabulon,",
+        "grk": "Τῆς φυλῆς Ζαβουλὼν, ἄρχων Ἐλισαφὰν υἱὸς Φαρνάχ."
       }
     },
     {
@@ -1746,7 +1771,8 @@
       "translations": {
         "lxx": "Of the tribe of the sons of Issachar, the prince was Phaltiel the son of Oza.",
         "kjv": "And the prince of the tribe of the children of Issachar, Paltiel the son of Azzan.",
-        "ron": "Căpetenia Paltiel, fiul lui Azan, pentru seminţia fiilor lui Isahar;"
+        "ron": "Căpetenia Paltiel, fiul lui Azan, pentru seminţia fiilor lui Isahar;",
+        "grk": "Τῆς φυλῆς υἱῶν Ἰσσάχαρ, ἄρχων Φαλτιὴλ υἱὸς Ὀζᾶ."
       }
     },
     {
@@ -1793,7 +1819,8 @@
       "translations": {
         "lxx": "Of the tribe of the children of Aser, the prince was Achior the son of Selemi.",
         "kjv": "And the prince of the tribe of the children of Asher, Ahihud the son of Shelomi.",
-        "ron": "Căpetenia Ahihud, fiul lui Şelomi, pentru seminţia fiilor lui Aşer;"
+        "ron": "Căpetenia Ahihud, fiul lui Şelomi, pentru seminţia fiilor lui Aşer;",
+        "grk": "Τῆς φυλῆς υἱῶν Ἀσὴρ, ἄρχων Ἀχιὼρ υἱὸς Σελεμί."
       }
     },
     {
@@ -1840,7 +1867,8 @@
       "translations": {
         "lxx": "Of the tribe of Nephthali, the prince was Phadael the son of Jamiud.",
         "kjv": "And the prince of the tribe of the children of Naphtali, Pedahel the son of Ammihud.",
-        "ron": "Căpetenia Pedael, fiul lui Amihud, pentru seminţia fiilor lui Neftali\"."
+        "ron": "Căpetenia Pedael, fiul lui Amihud, pentru seminţia fiilor lui Neftali\".",
+        "grk": "Τῆς φυλῆς Νεφθαλὶ, ἄρχων Φαδαὴλ υἱὸς Ἰαμιούδ."
       }
     },
     {
@@ -1907,7 +1935,8 @@
       "translations": {
         "lxx": "These did the Lord command to distribute the inheritances to the children of Israel in the land of Chanaan.",
         "kjv": "These are they whom the LORD commanded to divide the inheritance unto the children of Israel in the land of Canaan.",
-        "ron": "Aceştia sunt aceia cărora a poruncit Domnul să împartă pământul Canaan la fiii lui Israel."
+        "ron": "Aceştia sunt aceia cărora a poruncit Domnul să împartă pământul Canaan la fiii lui Israel.",
+        "grk": "Τούτοις ἐνετείλατο Κύριος καταμερίσαι τοῖς υἱοῖς Ἰσραὴλ ἐν γῇ Χαναάν."
       }
     }
   ],

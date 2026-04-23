@@ -56,7 +56,8 @@
       "translations": {
         "lxx": "A good name is better than good oil; and the day of death than the day of birth.",
         "kjv": "A good name is better than precious ointment; and the day of death than the day of one’s birth.",
-        "ron": "Mai de preţ este un nume bun decât untdelemnul cel binemirositor şi ziua morţii decât ziua naşterii."
+        "ron": "Mai de preţ este un nume bun decât untdelemnul cel binemirositor şi ziua morţii decât ziua naşterii.",
+        "grk": "Ἀγαθὸν ὄνομα ὑπὲρ ἔλαιον ἀγαθὸν, καὶ ἡμέρα τοῦ θανάτου ὑπὲρ ἡμέραν γεννήσεως."
       }
     },
     {
@@ -153,7 +154,8 @@
       "translations": {
         "lxx": "It is better to go to the house of mourning, than to go to the banquet house: since this is the end of every man; and the living man will apply good warning to his heart.",
         "kjv": "It is better to go to the house of mourning, than to go to the house of feasting: for that is the end of all men; and the living will lay it to his heart.",
-        "ron": "Mai bine este să mergi în casă de plâns, decât să te duci în casă de ospăţ, căci acolo se vede sfârşitul omului şi cine îl vede pune la inimă."
+        "ron": "Mai bine este să mergi în casă de plâns, decât să te duci în casă de ospăţ, căci acolo se vede sfârşitul omului şi cine îl vede pune la inimă.",
+        "grk": "Ἀγαθὸν πορευθῆναι εἰς οἶκον πένθους ἢ ὅτι πορευθῆναι εἰς οἶκον πότου· καθότι τοῦτο τέλος παντὸς ἀνθρώπου, καὶ ὁ ζῶν δώσει ἀγαθὸν εἰς καρδίαν αὐτοῦ."
       }
     },
     {
@@ -205,7 +207,8 @@
       "translations": {
         "lxx": "Sorrow is better than laughter: for by the sadness of the countenance the heart will be made better.",
         "kjv": "Sorrow is better than laughter: for by the sadness of the countenance the heart is made better.",
-        "ron": "Mai bun este necazul decât râsul, căci întristarea feţei este bună pentru inimă."
+        "ron": "Mai bun este necazul decât râsul, căci întristarea feţei este bună pentru inimă.",
+        "grk": "Ἀγαθὸν θυμὸς ὑπὲρ γέλωτα, ὅτι ἐν κακίᾳ προσώπου ἀγαθυνθήσεται καρδία."
       }
     },
     {
@@ -267,7 +270,8 @@
       "translations": {
         "lxx": "The heart of the wise is in the house of mourning; but the heart of fools is in the house of mirth.",
         "kjv": "The heart of the wise is in the house of mourning; but the heart of fools is in the house of mirth.",
-        "ron": "Inima celor înţelepţi este în casa cea cu tânguire, iar inima celor nebuni în casa veseliei."
+        "ron": "Inima celor înţelepţi este în casa cea cu tânguire, iar inima celor nebuni în casa veseliei.",
+        "grk": "Καρδία σοφῶν ἐν οἴκῳ πένθους, καὶ καρδία ἀφρόνων ἐν οἴκῳ εὐφροσύνης."
       }
     },
     {
@@ -319,7 +323,8 @@
       "translations": {
         "lxx": "It is better to hear a reproof of a wise man, than for a man to hear the song of fools.",
         "kjv": "It is better to hear the rebuke of the wise, than for a man to hear the song of fools.",
-        "ron": "Mai degrabă să auzi certarea unui înţelept, decât să asculţi cântecul celor nebuni;"
+        "ron": "Mai degrabă să auzi certarea unui înţelept, decât să asculţi cântecul celor nebuni;",
+        "grk": "Ἀγαθὸν τὸ ἀκοῦσαι ἐπιτίμησιν σοφοῦ ὑπὲρ ἄνδρα ἁκούοντα ᾆσμα ἀφρόνων."
       }
     },
     {
@@ -386,7 +391,8 @@
       "translations": {
         "lxx": "As the sound of thorns under a caldron, so is the laughter of fools: this is also vanity.",
         "kjv": "For as the crackling of thorns under a pot, so is the laughter of the fool: this also is vanity.",
-        "ron": "Că precum este pârâitul spinilor sub căldare, tot aşa este şi râsul celui nebun. Şi aceasta este deşertăciune!..."
+        "ron": "Că precum este pârâitul spinilor sub căldare, tot aşa este şi râsul celui nebun. Şi aceasta este deşertăciune!...",
+        "grk": "Ὡς φωνὴ ἀκανθῶν ὑπὸ τὸν λέβητα, οὕτως γέλως τῶν ἀφρόνων· καί γε τοῦτο ματαιότης."
       }
     },
     {
@@ -433,7 +439,8 @@
       "translations": {
         "lxx": "For oppression makes a wise man mad, and destroys his noble heart.",
         "kjv": "Surely oppression maketh a wise man mad; and a gift destroyeth the heart.",
-        "ron": "Căci asuprirea poate să facă nebun pe un înţelept, şi mita strică inima."
+        "ron": "Căci asuprirea poate să facă nebun pe un înţelept, şi mita strică inima.",
+        "grk": "Ὅτι ἡ συκοφαντία περιφέρει σοφὸν, καὶ ἀπόλλυσι τὴν καρδίαν εὐγενείας αὐτοῦ."
       }
     },
     {
@@ -485,7 +492,8 @@
       "translations": {
         "lxx": "The end of a matter is better than the beginning thereof: the patient is better than the high-minded.",
         "kjv": "Better is the end of a thing than the beginning thereof: and the patient in spirit is better than the proud in spirit.",
-        "ron": "Mai bun este sfârşitul unui lucru decât începutul lui; mai de preţ este un duh răbdător decât un duh semeţ."
+        "ron": "Mai bun este sfârşitul unui lucru decât începutul lui; mai de preţ este un duh răbdător decât un duh semeţ.",
+        "grk": "Ἀγαθὴ ἐσχάτη λόγων ὑπὲρ ἀρχὴν αὐτοῦ, ἀγαθὸν μακρόθυμος ὑπὲρ ὑψηλὸν πνεύματι."
       }
     },
     {
@@ -542,7 +550,8 @@
       "translations": {
         "lxx": "Be not hasty in thy spirit to be angry: for anger will rest in the bosom of fools.",
         "kjv": "Be not hasty in thy spirit to be angry: for anger resteth in the bosom of fools.",
-        "ron": "Nu te grăbi să te întărâţi întru duhul tău, pentru că mânia sălăşluieşte în sânul celor nebuni."
+        "ron": "Nu te grăbi să te întărâţi întru duhul tău, pentru că mânia sălăşluieşte în sânul celor nebuni.",
+        "grk": "Μὴ σπεύσῃς ἐν πνεύματί σου τοῦ θυμοῦσθαι, ὅτι θυμὸς ἐν κόλπῳ ἀφρόνων ἀναπαύσεται."
       }
     },
     {
@@ -614,7 +623,8 @@
       "translations": {
         "lxx": "Say not, What has happened, that the former days were better than these? for thou dost not enquire in wisdom concerning this.",
         "kjv": "Say not thou, What is the cause that the former days were better than these? for thou dost not enquire wisely concerning this.",
-        "ron": "Nu spune niciodată: \"Cum se face că zilele cele de altădată au fost mai bune decât acestea?\" Căci nu din înţelepciune întrebi una ca aceasta."
+        "ron": "Nu spune niciodată: \"Cum se face că zilele cele de altădată au fost mai bune decât acestea?\" Căci nu din înţelepciune întrebi una ca aceasta.",
+        "grk": "Μὴ εἴπῃς, τί ἐγένετο, ὅτι αἱ ἡμέραι αἱ πρότεραι ἦσαν ἀγαθαὶ ὑπὲρ ταύτας; ὅτι οὐκ ἐν σοφίᾳ ἐπηρώτησας περὶ τούτου."
       }
     },
     {
@@ -671,7 +681,8 @@
       "translations": {
         "lxx": "Wisdom is good with an inheritance: and there is an advantage by it to them that see the sun.",
         "kjv": "Wisdom is good with an inheritance: and by it there is profit to them that see the sun.",
-        "ron": "Înţelepciunea este tot atât ţie bună ca şi o moştenire de folos celor ce văd soarele,"
+        "ron": "Înţelepciunea este tot atât ţie bună ca şi o moştenire de folos celor ce văd soarele,",
+        "grk": "Ἀγαθὴ σοφία μετὰ κληρονομίας, καὶ περίσσεια τοῖς θεωροῦσι τὸν ἥλιον."
       }
     },
     {
@@ -738,7 +749,8 @@
       "translations": {
         "lxx": "For wisdom in its shadow is as the shadow of silver: and the excellence of the knowledge of wisdom will give life to him that has it.",
         "kjv": "For wisdom is a defence, and money is a defence: but the excellency of knowledge is, that wisdom giveth life to them that have it.",
-        "ron": "Că aşa este ocrotirea înţelepciunii şi a banului; dar folosul ştiinţei este că înţelepciunea ţine cu viaţă pe stăpânul ei."
+        "ron": "Că aşa este ocrotirea înţelepciunii şi a banului; dar folosul ştiinţei este că înţelepciunea ţine cu viaţă pe stăpânul ei.",
+        "grk": "Ὅτι ἐν σκιᾷ αὐτῆς ἡ σοφία ὡς σκιὰ ἀργυρίου, καὶ περίσσεια γνώσεως τῆς σοφίας ζωοποιήσει τὸν παρʼ αὐτῆς."
       }
     },
     {
@@ -795,7 +807,8 @@
       "translations": {
         "lxx": "Behold the works of God: for who shall be able to straighten him whom God has made crooked?",
         "kjv": "Consider the work of God: for who can make that straight, which he hath made crooked?",
-        "ron": "Socoteşte cu mintea faptele lui Dumnezeu; cine poate să îndrepte ceea ce El a strâmbat?"
+        "ron": "Socoteşte cu mintea faptele lui Dumnezeu; cine poate să îndrepte ceea ce El a strâmbat?",
+        "grk": "Ἴδε τὰ ποιήματα τοῦ Θεοῦ, ὅτι τίς δυνήσεται κοσμῆσαι ὃν ἂν ὁ Θεὸς διαστρέψῃ αὐτόν;"
       }
     },
     {
@@ -872,7 +885,8 @@
       "translations": {
         "lxx": "In the day of prosperity live joyfully, and consider in the day of adversity: consider, I say, God also has caused the one to agree with the other for this reason, that man should find nothing after him.",
         "kjv": "In the day of prosperity be joyful, but in the day of adversity consider: God also hath set the one over against the other, to the end that man should find nothing after him.",
-        "ron": "În zi de fericire fii bucuros, iar în zi de nenorocire gândeşte-te că Dumnezeu a făcut şi pe una şi pe cealaltă, aşa ca omul să nu descopere nimic din cele viitoare."
+        "ron": "În zi de fericire fii bucuros, iar în zi de nenorocire gândeşte-te că Dumnezeu a făcut şi pe una şi pe cealaltă, aşa ca omul să nu descopere nimic din cele viitoare.",
+        "grk": "Ἐν ἡμέρᾳ ἀγαθωσύνης ζῆθι ἐν ἀγαθῷ, καὶ ἴδε ἐν ἡμέρᾳ κακίας· ἴδε, καί γε σὺν τούτῳ συμφώνως τοῦτο ἐποίησεν ὁ Θεὸς περὶ λαλιᾶς, ἵνα μὴ εὕρῃ ἄνθρωπος ὀπίσω αὐτοῦ οὐδέν."
       }
     },
     {
@@ -994,7 +1008,8 @@
       "translations": {
         "lxx": "I have seen all things in the days of my vanity: there is a just man perishing in his justice, and there is an ungodly man remaining in his wickedness.",
         "kjv": "All things have I seen in the days of my vanity: there is a just man that perisheth in his righteousness, and there is a wicked man that prolongeth his life in his wickedness.",
-        "ron": "Aceste două lucruri le-am văzut eu în zilele nimicniciei mele: este câte un drept, care piere întru dreptatea lui, şi este câte un nelegiuit care trăieşte mereu în răutatea lui."
+        "ron": "Aceste două lucruri le-am văzut eu în zilele nimicniciei mele: este câte un drept, care piere întru dreptatea lui, şi este câte un nelegiuit care trăieşte mereu în răutatea lui.",
+        "grk": "Σύμπαντα εἶδον ἐν ἡμέραις ματαιότητός μου· ἐστὶ δίκαιος ἀπολλύμενος ἐν δικαίῳ αὐτοῦ, καί ἐστιν ἀσεβὴς μένων ἐν κακίᾳ αὐτοῦ."
       }
     },
     {
@@ -1051,7 +1066,8 @@
       "translations": {
         "lxx": "Be not very just; neither be very wise: lest thou be confounded.",
         "kjv": "Be not righteous over much; neither make thyself over wise: why shouldest thou destroy thyself ?",
-        "ron": "Nu fii drept peste măsură şi nu te arăta prea înţelept! Pentru ce vrei să te nimiceşti?"
+        "ron": "Nu fii drept peste măsură şi nu te arăta prea înţelept! Pentru ce vrei să te nimiceşti?",
+        "grk": "Μὴ γίνου δίκαιος πολὺ, μηδὲ σοφίζου περισσὰ, μή ποτε ἐκπλαγῇς."
       }
     },
     {
@@ -1093,7 +1109,8 @@
       "translations": {
         "lxx": "Be not very wicked; and be not stubborn: lest thou shouldest die before thy time.",
         "kjv": "Be not over much wicked, neither be thou foolish: why shouldest thou die before thy time?",
-        "ron": "Nu fii nelegiuit până la sfârşit şi nu fii nici nebun; de ce să mori înainte de timpul tău?"
+        "ron": "Nu fii nelegiuit până la sfârşit şi nu fii nici nebun; de ce să mori înainte de timpul tău?",
+        "grk": "Μὴ ἀσεβήσῃς πολὺ, καὶ μὴ γίνου σκληρὸς, ἵνα μὴ ἀποθάνῃς ἐν οὐ καιρῷ σου."
       }
     },
     {
@@ -1170,7 +1187,8 @@
       "translations": {
         "lxx": "It is well for thee to hold fast by this; also by this defile not thine hand: for to them that fear God all things shall come forth well.",
         "kjv": "It is good that thou shouldest take hold of this; yea, also from this withdraw not thine hand: for he that feareth God shall come forth of them all.",
-        "ron": "Este bine să te ţii de una şi de cealaltă să nu te desfaci, că cine se teme de Dumnezeu scapă din toate."
+        "ron": "Este bine să te ţii de una şi de cealaltă să nu te desfaci, că cine se teme de Dumnezeu scapă din toate.",
+        "grk": "Ἀγαθὸν τὸ ἀντέχεσθαί σε ἐν τούτῳ, καί γε ἀπὸ τούτου μὴ μιάνῃς τὴν χεῖρά σου, ὅτι φοβουμένοις τὸν Θεὸν ἐξελεύσεται τὰ πάντα."
       }
     },
     {
@@ -1232,7 +1250,8 @@
       "translations": {
         "lxx": "Wisdom will help the wise man more than ten mighty men which are in the city.",
         "kjv": "Wisdom strengtheneth the wise more than ten mighty men which are in the city.",
-        "ron": "Înţelepciunea dă înţeleptului mai multă putere decât au zece nerozi într-o cetate."
+        "ron": "Înţelepciunea dă înţeleptului mai multă putere decât au zece nerozi într-o cetate.",
+        "grk": "Ἡ σοφία βοηθήσει τῷ σοφῷ ὑπὲρ δέκα ἐξουσιάζοντας τοὺς ὄντας ἐν τῇ πόλει."
       }
     },
     {
@@ -1289,7 +1308,8 @@
       "translations": {
         "lxx": "For there is not a righteous man in the earth, who will do good, and not sin.",
         "kjv": "For there is not a just man upon earth, that doeth good, and sinneth not.",
-        "ron": "Căci nu este om drept pe pământ care să facă binele şi să nu păcătuiască."
+        "ron": "Căci nu este om drept pe pământ care să facă binele şi să nu păcătuiască.",
+        "grk": "Ὅτι ἄνθρωπος οὐκ ἔστι δίκαιος ἐν τῇ γῇ, ὃς ποιήσει ἀγαθὸν καὶ οὐχ ἁμαρτήσεται."
       }
     },
     {
@@ -1416,7 +1436,8 @@
       "translations": {
         "lxx": "Also take no heed to all the words which ungodly men shall speak; lest thou hear thy servant cursing thee.",
         "kjv": "Also take no heed unto all words that are spoken; lest thou hear thy servant curse thee:",
-        "ron": "Nu lua aminte la toate vorbele pe care cineva le spune, ca nu cumva să auzi că sluga ta te grăieşte de rău;"
+        "ron": "Nu lua aminte la toate vorbele pe care cineva le spune, ca nu cumva să auzi că sluga ta te grăieşte de rău;",
+        "grk": "Καί γε εἰς πάντας λόγους οὓς λαλήσουσιν ἀσεβεῖς, μὴ θῇς καρδίαν σου, ὅπως μὴ ἀκούσῃς τοῦ δούλου σου καταρωμένου σε."
       }
     },
     {
@@ -1458,7 +1479,8 @@
       "translations": {
         "lxx": "For many times he shall trespass against thee, and repeatedly shall he afflict thine heart; for thus also hast thou cursed others.",
         "kjv": "For oftentimes also thine own heart knoweth that thou thyself likewise hast cursed others.",
-        "ron": "Căci inima ta singură ştie de câte ori şi tu ai defăimat pe alţii."
+        "ron": "Căci inima ta singură ştie de câte ori şi tu ai defăimat pe alţii.",
+        "grk": "Ὅτι πλειστάκις πονηρεύσεταί σε, καὶ καθόδους πολλὰς κακώσει καρδίαν σου, ὅτι ὡς καί γε σὺ κατηράσω ἑτέρους."
       }
     },
     {
@@ -1520,7 +1542,8 @@
       "translations": {
         "lxx": "All these things have I proved in wisdom: I said, I will be wise; but it was far from me.",
         "kjv": "All this have I proved by wisdom: I said, I will be wise; but it was far from me.",
-        "ron": "Toate acestea le-am încercat prin înţelepciune şi am zis: \"Vreau să fiu înţelept!\" dar înţelepciunea a rămas departe de mine."
+        "ron": "Toate acestea le-am încercat prin înţelepciune şi am zis: \"Vreau să fiu înţelept!\" dar înţelepciunea a rămas departe de mine.",
+        "grk": "Πάντα ταῦτα ἐπείρασα ἐν σοφίᾳ· εἶπα, σοφισθήσομαι· καὶ αὕτη ἐμακρύνθη ἀπʼ ἐμοῦ."
       }
     },
     {
@@ -1607,7 +1630,8 @@
       "translations": {
         "lxx": "That which is far beyond what was, and a great depth, who shall find it out?",
         "kjv": "That which is far off, and exceeding deep, who can find it out?",
-        "ron": "Ceea ce a fost este departe, şi adânc, adânc! Cine poate acum să-i dea de înţeles?"
+        "ron": "Ceea ce a fost este departe, şi adânc, adânc! Cine poate acum să-i dea de înţeles?",
+        "grk": "Μακρὰν ὑπὲρ ὃ ἦν, καὶ βαθὺ βάθος, τίς εὑρήσει αὐτό;"
       }
     },
     {
@@ -1729,7 +1753,8 @@
       "translations": {
         "lxx": "I and my heart went round about to know, and to examine, and to seek wisdom, and the account of things, and to know the folly and trouble and madness of the ungodly man.",
         "kjv": "I applied mine heart to know, and to search, and to seek out wisdom, and the reason of things, and to know the wickedness of folly, even of foolishness and madness:",
-        "ron": "Şi eu m-am silit şi inima mea a cercetat şi a urmărit ştiinţa şi înţelepciunea şi buna chibzuială şi mi-am dat seama că răutatea este o nebunie, iar prostia este zănatică răutate."
+        "ron": "Şi eu m-am silit şi inima mea a cercetat şi a urmărit ştiinţa şi înţelepciunea şi buna chibzuială şi mi-am dat seama că răutatea este o nebunie, iar prostia este zănatică răutate.",
+        "grk": "Ἐκύκλωσα ἐγὼ καὶ ἡ καρδία μου τοῦ γνῶναι καὶ τοῦ κατασκέψασθαι καὶ τοῦ ζητῆσαι σοφίαν καὶ ψῆφον, καὶ τοῦ γνῶναι ἀσεβοῦς ἀφροσύνην καὶ ὀχληρίαν καὶ περιφοράν."
       }
     },
     {
@@ -1796,7 +1821,8 @@
       "translations": {
         "lxx": "And I find her to be, and I will pronounce to be more bitter than death the woman which is a snare, and her heart nets, who has a band in her hands: he that is good in the sight of God shall be delivered from her; but the sinner shall be caught by her.",
         "kjv": "And I find more bitter than death the woman, whose heart is snares and nets, and her hands as bands: whoso pleaseth God shall escape from her; but the sinner shall be taken by her.",
-        "ron": "Şi am găsit femeia mai amară decât moartea, pentru că ea este o cursă, inima ei este un laţ şi mâinile ei sunt cătuşe. Cel ce este bun înaintea lui Dumnezeu scapă, iar păcătosul este prins."
+        "ron": "Şi am găsit femeia mai amară decât moartea, pentru că ea este o cursă, inima ei este un laţ şi mâinile ei sunt cătuşe. Cel ce este bun înaintea lui Dumnezeu scapă, iar păcătosul este prins.",
+        "grk": "Καὶ εὑρίσκω ἐγὼ αὐτὴν, καὶ ἐρῶ πικρότερον ὑπὲρ θάνατον· σὺν τὴν γυναῖκα ἥτις ἐστι θήρευμα, καὶ σαγῆναι καρδία αὐτῆς, δεσμὸς εἰς χεῖρας αὐτῆς· ἀγαθὸς πρὸ προσώπου τοῦ Θεοῦ ἐξαιρεθήσεται ἀπʼ αὐτῆς, καὶ ἁμαρτάνων συλληφθήσεται ἐν αὐτῇ."
       }
     },
     {
@@ -1858,7 +1884,8 @@
       "translations": {
         "lxx": "Behold, this have I found, said the Preacher, seeking by one at a time to find out the account,",
         "kjv": "Behold, this have I found, saith the preacher, counting one by one, to find out the account:",
-        "ron": "Iată ce am aflat, zice Ecclesiastul, şi încă şi altele ca să pot descoperi înţelesul,"
+        "ron": "Iată ce am aflat, zice Ecclesiastul, şi încă şi altele ca să pot descoperi înţelesul,",
+        "grk": "Ἴδε τοῦτο εὗρον, εἶπεν ὁ Ἐκκλησιαστής· μία τῇ μιᾷ τοῦ εὑρεῖν λογισμὸν,"
       }
     },
     {
@@ -1935,7 +1962,8 @@
       "translations": {
         "lxx": "which my soul sought after, but I found not: for I have found one man of a thousand; but a woman in all these I have not found.",
         "kjv": "Which yet my soul seeketh, but I find not: one man among a thousand have I found; but a woman among all those have I not found.",
-        "ron": "Pe care sufletul meu l-a căutat şi nu l-a aflat. Am găsit însă un om la o mie, dar n-am găsit nici o femeie din toate câte sunt."
+        "ron": "Pe care sufletul meu l-a căutat şi nu l-a aflat. Am găsit însă un om la o mie, dar n-am găsit nici o femeie din toate câte sunt.",
+        "grk": "ὃν ἐπεζήτησεν ἡ ψυχή μου, καὶ οὐχ εὗρον· καὶ ἄνθρωπον ἕνα ἀπὸ χιλίων εὗρον, καὶ γυναῖκα ἐν πᾶσι τούτοις οὐχ εὗρον."
       }
     }
   ],

@@ -71,7 +71,8 @@
       "translations": {
         "lxx": "And Moses answered and said, If they believe me not, and do not hearken to my voice (for they will say, God has not appeared to thee), what shall I say to them?",
         "kjv": "And Moses answered and said, But, behold, they will not believe me, nor hearken unto my voice: for they will say, The LORD hath not appeared unto thee.",
-        "ron": "Şi răspunzând, Moise a zis: \"Dar de nu mă vor crede şi nu vor asculta de glasul meu, ci vor zice: \"Nu ţi S-a arătat Domnul!\", ce să le spun?\""
+        "ron": "Şi răspunzând, Moise a zis: \"Dar de nu mă vor crede şi nu vor asculta de glasul meu, ci vor zice: \"Nu ţi S-a arătat Domnul!\", ce să le spun?\"",
+        "grk": "Ἀπεκρίθη δὲ Μωυσῆς, καὶ εἶπεν, ἐὰν μὴ πιστεύσωσί μοι, μηδὲ εἰσακούσωσι τῆς φωνῆς μου, ἐροῦσι γὰρ, ὅτι οὐκ ὦπταί σοι ὁ Θεὸς, τί ἐρῶ πρὸς αὐτούς;"
       }
     },
     {
@@ -123,7 +124,8 @@
       "translations": {
         "lxx": "And the Lord said to him, What is this thing that is in thine hand? and he said, A rod.",
         "kjv": "And the LORD said unto him, What is that in thine hand? And he said, A rod.",
-        "ron": "Zis-a Domnul către el: \"Ce ai în mână?\" Şi el a răspuns: \"Un toiag!\""
+        "ron": "Zis-a Domnul către el: \"Ce ai în mână?\" Şi el a răspuns: \"Un toiag!\"",
+        "grk": "Εἶπε δὲ αὐτῳ Κύριος, τί τοῦτό ἐστι τὸ ἐν τῇ χειρί σου; ὁ δὲ εἶπε, ῥάβδος."
       }
     },
     {
@@ -200,7 +202,8 @@
       "translations": {
         "lxx": "And he said, Cast it on the ground: and he cast it on the ground, and it became a serpent, and Moses fled from it.",
         "kjv": "And he said, Cast it on the ground. And he cast it on the ground, and it became a serpent; and Moses fled from before it.",
-        "ron": "\"Aruncă-l jos!\" îi zise Domnul. Şi a aruncat Moise toiagul jos şi s-a făcut toiagul şarpe şi a fugit Moise de el."
+        "ron": "\"Aruncă-l jos!\" îi zise Domnul. Şi a aruncat Moise toiagul jos şi s-a făcut toiagul şarpe şi a fugit Moise de el.",
+        "grk": "Καὶ εἶπε, ῥίψον αὐτὴν ἐπὶ τὴν γῆν· καὶ ἔῤῥιψεν αὐτὴν ἐπὶ τὴν γῆν, καὶ ἐγένετο ὄφις· καὶ ἔφυγε Μωυσῆς ἀπʼ αὐτοῦ."
       }
     },
     {
@@ -292,7 +295,8 @@
       "translations": {
         "lxx": "And the Lord said to Moses, Stretch forth thine hand, and take hold of its tail: so he stretched forth his hand and took hold of the tail,",
         "kjv": "And the LORD said unto Moses, Put forth thine hand, and take it by the tail. And he put forth his hand, and caught it, and it became a rod in his hand:",
-        "ron": "Şi a zis Domnul către Moise: \"Întinde mâna şi-l apucă de coadă!\" Şi şi-a întins Moise mâna şi l-a apucat de coadă şi s-a făcut toiag în mâna lui."
+        "ron": "Şi a zis Domnul către Moise: \"Întinde mâna şi-l apucă de coadă!\" Şi şi-a întins Moise mâna şi l-a apucat de coadă şi s-a făcut toiag în mâna lui.",
+        "grk": "Καὶ εἶπε Κύριος πρὸς Μωυσῆν, ἔκτεινον τῆν χεῖρα, καὶ ἐπιλαβοῦ τῆς κέρκου· ἐκτείνας οὖν τὴν χεῖρα ἐπελάβετο τῆς κέρκου· καὶ ἐγένετο ῥάβδος ἐν τῇ χειρὶ αὐτοῦ."
       }
     },
     {
@@ -374,7 +378,8 @@
       "translations": {
         "lxx": "and it became a rod in his hand,—that they may believe thee, that the God of thy fathers has appeared to thee, the God of Abraam, and God of Isaac, and God of Jacob.",
         "kjv": "That they may believe that the LORD God of their fathers, the God of Abraham, the God of Isaac, and the God of Jacob, hath appeared unto thee.",
-        "ron": "Apoi a zis Domnul: \"Aşa să faci înaintea lor, ca să te creadă că ţi S-a arătat Dumnezeul părinţilor lor, Dumnezeul lui Avraam, Dumnezeul lui Isaac şi Dumnezeul lui Iacov!\""
+        "ron": "Apoi a zis Domnul: \"Aşa să faci înaintea lor, ca să te creadă că ţi S-a arătat Dumnezeul părinţilor lor, Dumnezeul lui Avraam, Dumnezeul lui Isaac şi Dumnezeul lui Iacov!\"",
+        "grk": "Ἵνα πιστεύσωσί σοι, ὅτι ὦπταί σοι ὁ Θεὸς τῶν πατέρων αὐτῶν, Θεὸς Ἀβραὰμ, καὶ Θεὸς Ἰσαὰκ, καὶ Θεὸς Ἰακώβ."
       }
     },
     {
@@ -501,7 +506,8 @@
       "translations": {
         "lxx": "And the Lord said again to him, Put thine hand into thy bosom; and he put his hand into his bosom, and brought his hand out of his bosom, and his hand became as snow.",
         "kjv": "And the LORD said furthermore unto him, Put now thine hand into thy bosom. And he put his hand into his bosom: and when he took it out, behold, his hand was leprous as snow.",
-        "ron": "Zis-a Domnul iarăşi: \"Bagă-ţi mâna în sân!\" Şi când a scos-o din sân, iată mâna lui era albă ca zăpada de lepră."
+        "ron": "Zis-a Domnul iarăşi: \"Bagă-ţi mâna în sân!\" Şi când a scos-o din sân, iată mâna lui era albă ca zăpada de lepră.",
+        "grk": "Εἶπε δὲ αὐτῷ Κύριος πάλιν, εἰσένεγκον τὴν χεῖρά σου εἰς τὸν κόλπον σου· καὶ εἰσήνεγκε τὴν χεῖρα αὐτοῦ εἰς τὸν κόλπον αὐτοῦ· καὶ ἐξήνεγκεν τὴν χεῖρα αὐτοῦ ἐκ τοῦ κόλπου αὐτοῦ, καὶ ἐγενήθη ἡ χεὶρ αὐτοῦ ὡσεὶ χιών."
       }
     },
     {
@@ -623,7 +629,8 @@
       "translations": {
         "lxx": "And he said again, Put thy hand into thy bosom; and he put his hand into his bosom, and brought his hand out of his bosom, and it was again restored to the complexion of his other flesh.",
         "kjv": "And he said, Put thine hand into thy bosom again. And he put his hand into his bosom again; and plucked it out of his bosom, and, behold, it was turned again as his other flesh.",
-        "ron": "Şi i-a zis din nou Domnul: \"Bagă-ţi iarăşi mina în sân!\" Şi şi-a băgat Moise mâna în sân; şi când a scos-o din sân, iată, era iar curată, ca tot trupul său."
+        "ron": "Şi i-a zis din nou Domnul: \"Bagă-ţi iarăşi mina în sân!\" Şi şi-a băgat Moise mâna în sân; şi când a scos-o din sân, iată, era iar curată, ca tot trupul său.",
+        "grk": "Καὶ εἶπεν πάλιν, εἰσένεγκον τὴν χεῖρά σου εἰς τὸν κόλπον σου· καὶ εἰσήνεγκε τὴν χεῖρα εἰς τὸν κόλπον αὐτοῦ· καὶ ἐξήνεγκεν αὐτὴν ἐκ τοῦ κόλπου αὐτοῦ, καὶ πάλιν ἀπεκατέστη εἰς τὴν χρόαν τῆς σαρκὸς αὐτῆς."
       }
     },
     {
@@ -690,7 +697,8 @@
       "translations": {
         "lxx": "And if they will not believe thee, nor hearken to the voice of the first sign, they will believe thee because of the voice of the second sign.",
         "kjv": "And it shall come to pass, if they will not believe thee, neither hearken to the voice of the first sign, that they will believe the voice of the latter sign.",
-        "ron": "\"Dacă nu te vor crede şi nu vor asculta glasul semnului întâi, te vor crede la săvârşirea semnului al doilea."
+        "ron": "\"Dacă nu te vor crede şi nu vor asculta glasul semnului întâi, te vor crede la săvârşirea semnului al doilea.",
+        "grk": "Ἐὰν δὲ μὴ πιστεύσωσί σοι, μηδὲ εἰσακούσωσι τῆς φωνῆς τοῦ σημείου τοῦ πρώτου, πιστεύσουσί σοι τῆς φωνῆς τοῦ σημείου τοῦ δετέρου."
       }
     },
     {
@@ -807,7 +815,8 @@
       "translations": {
         "lxx": "And it shall come to pass if they will not believe thee for these two signs, and will not hearken to thy voice, that thou shalt take of the water of the river and pour it upon the dry land, and the water which thou shalt take from the river shall be blood upon the dry land.",
         "kjv": "And it shall come to pass, if they will not believe also these two signs, neither hearken unto thy voice, that thou shalt take of the water of the river, and pour it upon the dry land: and the water which thou takest out of the river shall become blood upon the dry land.",
-        "ron": "Iar de nu te vor crede nici după amândouă semnele şi nu vor asculta glasul tău, atunci să iei apă din fluviu şi s-o verşi pe uscat; apa luată din râu se va face pe usca: sânge\"."
+        "ron": "Iar de nu te vor crede nici după amândouă semnele şi nu vor asculta glasul tău, atunci să iei apă din fluviu şi s-o verşi pe uscat; apa luată din râu se va face pe usca: sânge\".",
+        "grk": "Καὶ ἔσται ἐὰν μὴ πιστεύσωσί σοι τοῖς δυσὶ σημείοις τούτοις, μηδὲ εἰσακούσωσι τῆς φωνῆς σου, λήψῃ ἀπὸ τοῦ ὕδατος τοῦ ποταμοῦ, καὶ ἐκχεεῖς ἐπὶ τὸ ξηρόν· καὶ ἔσται τὸ ὕδωρ, ὃ ἐὰν λάβῃς ἀπὸ τοῦ ποταμοῦ, αἷμα ἐπὶ τοῦ ξηροῦ."
       }
     },
     {
@@ -899,7 +908,8 @@
       "translations": {
         "lxx": "And Moses said to the Lord, I pray, Lord, I have not been sufficient in former times, neither from the time that thou hast begun to speak to thy servant: I am weak in speech, and slow-tongued.",
         "kjv": "And Moses said unto the LORD, O my LORD, I am not eloquent, neither heretofore, nor since thou hast spoken unto thy servant: but I am slow of speech, and of a slow tongue.",
-        "ron": "Atunci Moise a zis către Domnul: \"O, Doamne, eu nu sunt om îndemânatic la vorbă, ci grăiesc cu anevoie şi sunt gângav; şi aceasta nu de ieri de alaltăieri, nici de când ai început Tu a grăi cu robul Tău; gura mea şi limba mea sunt anevoioase\"."
+        "ron": "Atunci Moise a zis către Domnul: \"O, Doamne, eu nu sunt om îndemânatic la vorbă, ci grăiesc cu anevoie şi sunt gângav; şi aceasta nu de ieri de alaltăieri, nici de când ai început Tu a grăi cu robul Tău; gura mea şi limba mea sunt anevoioase\".",
+        "grk": "Εἶπε δὲ Μωυσῆς πρὸς Κύριον, δέομαι, Κύριε· οὐχ ἱκανός εἰμι πρὸ τῆς χθὲς οὐδὲ πρὸ τῆς τρίτης ἡμέρας, οὐδὲ ἀφʼ οὗ ἤρξω λαλεῖν τῷ θεράποντί σου· ἰσχνόφωνος καὶ βραδύγλωσσος ἐγώ εἰμι."
       }
     },
     {
@@ -1001,7 +1011,8 @@
       "translations": {
         "lxx": "And the Lord said to Moses, Who has given a mouth to man, and who has made the very hard of hearing, and the deaf, the seeing and the blind? have not I, God?",
         "kjv": "And the LORD said unto him, Who hath made man’s mouth? or who maketh the dumb, or deaf, or the seeing, or the blind? have not I the LORD?",
-        "ron": "Dumnezeu însă a zis către Moise: \"Cine a dat omului gură şi cine face pe om mut, sau surd, sau cu vedere, sau orb? Oare nu Eu, Domnul Dumnezeu?"
+        "ron": "Dumnezeu însă a zis către Moise: \"Cine a dat omului gură şi cine face pe om mut, sau surd, sau cu vedere, sau orb? Oare nu Eu, Domnul Dumnezeu?",
+        "grk": "Εἶπε δὲ Κύριος πρὸς Μωυσῆν, τίς ἔδωκε στόμα ἀνθρώπῳ; καὶ τίς ἐποιήσε δύσκωφον καὶ κωφὸν, βλέποντα καὶ τυφλόν; οὐκ ἐγὼ ὁ Θεός;"
       }
     },
     {
@@ -1053,7 +1064,8 @@
       "translations": {
         "lxx": "And now go and I will open thy mouth, and will instruct thee in what thou shalt say.",
         "kjv": "Now therefore go, and I will be with thy mouth, and teach thee what thou shalt say.",
-        "ron": "Mergi dar: Eu voi deschide gura ta şi te voi învăţa ce să grăieşti\"."
+        "ron": "Mergi dar: Eu voi deschide gura ta şi te voi învăţa ce să grăieşti\".",
+        "grk": "Καὶ νῦν πορεύου, καὶ ἐγὼ ἀνοίξω τὸ στόμα σου, καὶ συμβιβάσω σε ὃ μέλλεις λαλῆσαι."
       }
     },
     {
@@ -1100,7 +1112,8 @@
       "translations": {
         "lxx": "And Moses said, I pray thee, Lord, appoint another able person whom thou shalt send.",
         "kjv": "And he said, O my LORD, send, I pray thee, by the hand of him whom thou wilt send.",
-        "ron": "Zis-a Moise: \"Rogu-mă, Doamne, trimite pe altul, pe care vei vrea să-l trimiţi!\""
+        "ron": "Zis-a Moise: \"Rogu-mă, Doamne, trimite pe altul, pe care vei vrea să-l trimiţi!\"",
+        "grk": "Καὶ εἶπε Μωυσῆς, δέομαι, Κύριε· προχείρισαι δυνάμενον ἄλλον, ὃν ἀποστελεῖς."
       }
     },
     {
@@ -1217,7 +1230,8 @@
       "translations": {
         "lxx": "And the Lord was greatly angered against Moses, and said, Lo! is not Aaron the Levite thy brother? I know that he will surely speak to thee; and, behold, he will come forth to meet thee, and beholding thee he will rejoice within himself.",
         "kjv": "And the anger of the LORD was kindled against Moses, and he said, Is not Aaron the Levite thy brother? I know that he can speak well. And also, behold, he cometh forth to meet thee: and when he seeth thee, he will be glad in his heart.",
-        "ron": "Atunci, aprinzându-se mânia Domnului asupra lui Moise, a zis: \"Nu ai tu, oare, pe fratele tău Aaron levitul? Ştiu că el poate să vorbească în locul tău. Iată el te va întâmpina şi, când te va vedea, se va bucura în inima sa."
+        "ron": "Atunci, aprinzându-se mânia Domnului asupra lui Moise, a zis: \"Nu ai tu, oare, pe fratele tău Aaron levitul? Ştiu că el poate să vorbească în locul tău. Iată el te va întâmpina şi, când te va vedea, se va bucura în inima sa.",
+        "grk": "Καὶ θυμωθεὶς ὀργῇ Κύριος ἐπὶ Μωυσῆν, εἶπεν, οὐκ ἰδοὺ Ἀαρὼν ὁ ἄδελφός σου ὁ Λευίτης; ἐπίσταμαι ὅτι λαλῶν λαλήσει αὐτός σοι· καὶ ἰδοὺ αὐτὸς ἐξελεύσεται εἰς συνάντησίν σοι, καὶ ἰδών σε χαρήσεται ἐν ἑαυτῷ."
       }
     },
     {
@@ -1284,7 +1298,8 @@
       "translations": {
         "lxx": "And thou shalt speak to him; and thou shalt put my words into his mouth, and I will open thy mouth and his mouth, and I will instruct you in what ye shall do.",
         "kjv": "And thou shalt speak unto him, and put words in his mouth: and I will be with thy mouth, and with his mouth, and will teach you what ye shall do.",
-        "ron": "Tu-i vei grăi lui şi îi vei pune în gură cuvintele Mele, iar Eu voi deschide gura ta şi gura lui şi vă voi învăţa ce să faceţi."
+        "ron": "Tu-i vei grăi lui şi îi vei pune în gură cuvintele Mele, iar Eu voi deschide gura ta şi gura lui şi vă voi învăţa ce să faceţi.",
+        "grk": "Καὶ ἐρεῖς πρὸς αὐτὸν, καὶ δώσεις τὰ ῥήματά μου εἰς τὸ στόμα αὐτοῦ, καὶ ἐγὼ ἀνοίξω τὸ στόμα σου καὶ τὸ στόμα αὐτοῦ, καί συμβιβάσω ὑμᾶς ἃ ποιήσετε."
       }
     },
     {
@@ -1361,7 +1376,8 @@
       "translations": {
         "lxx": "And he shall speak for thee to the people, and he shall be thy mouth, and thou shalt be for him in things pertaining to God.",
         "kjv": "And he shall be thy spokesman unto the people: and he shall be, even he shall be to thee instead of a mouth, and thou shalt be to him instead of God.",
-        "ron": "Va grăi el poporului, în locul tău, vorbind pentru tine, iar tu îi vei fi grăitor din partea lui Dumnezeu."
+        "ron": "Va grăi el poporului, în locul tău, vorbind pentru tine, iar tu îi vei fi grăitor din partea lui Dumnezeu.",
+        "grk": "Καὶ αὐτός σοι λαλήσει πρὸς τὸν λαὸν, καὶ αὐτὸς ἔσται σου στόμα· σὺ δὲ αὐτῷ ἔσῃ τὰ πρὸς τὸν Θεόν."
       }
     },
     {
@@ -1418,7 +1434,8 @@
       "translations": {
         "lxx": "And this rod that was turned into a serpent thou shalt take in thine hand, wherewith thou shalt work miracles.",
         "kjv": "And thou shalt take this rod in thine hand, wherewith thou shalt do signs.",
-        "ron": "Toiagul acesta, care a fost prefăcut în şarpe, ia-l în mâna ta, căci cu el ai să faci minuni\"."
+        "ron": "Toiagul acesta, care a fost prefăcut în şarpe, ia-l în mâna ta, căci cu el ai să faci minuni\".",
+        "grk": "Καὶ τὴν ῥάβδον ταύτην, τὴν στραφεῖσαν εἰς ὄφιν, λήψῃ ἐν τῇ χειρί σου, ἐν ᾗ ποιήσεις ἐν αὐτῇ τὰ σημεῖα."
       }
     },
     {
@@ -1575,7 +1592,8 @@
       "translations": {
         "lxx": "And Moses went and returned to Jothor his father-in-law, and says, I will go and return to my brethren in Egypt, and will see if they are yet living. And Jothor said to Moses, Go in health. And in those days after some time, the king of Egypt died.",
         "kjv": "And Moses went and returned to Jethro his father in law, and said unto him, Let me go, I pray thee, and return unto my brethren which are in Egypt, and see whether they be yet alive. And Jethro said to Moses, Go in peace.",
-        "ron": "Deci, a plecat Moise de acolo şi s-a întors la Ietro, socrul său, şi a zis către el: \"Mă duc înapoi la fraţii mei, care sunt în Egipt, ca să văd de mai trăiesc\". Iar Ietro i-a zis: \"Mergi în pace!\""
+        "ron": "Deci, a plecat Moise de acolo şi s-a întors la Ietro, socrul său, şi a zis către el: \"Mă duc înapoi la fraţii mei, care sunt în Egipt, ca să văd de mai trăiesc\". Iar Ietro i-a zis: \"Mergi în pace!\"",
+        "grk": "Ἐπορεύθη δὲ Μωυσῆς, καὶ ἀπέστρεψε πρὸς Ἰοθὸρ τὸν γαμβρὸν αὐτοῦ, καὶ λέγει, πορεύσομαι καὶ ἀποστρέψω πρὸς τοὺς ἀδελφούς μου τοὺς ἐν Αἰγύπτῳ, καὶ ὄψομαι εἰ ἔτι ζῶσι· καὶ εἶπεν Ἰοθὸρ Μωυσῇ, βάδιζε ὑγιαίνων· μετὰ δὲ τὰς ἡμέρας τὰς πολλὰς ἐκείνας ἐτελεύτησεν ὁ βασιλεὺς Αἰγύπτου."
       }
     },
     {
@@ -1662,7 +1680,8 @@
       "translations": {
         "lxx": "And the Lord said to Moses in Madiam, Go, depart into Egypt, for all that sought thy life are dead.",
         "kjv": "And the LORD said unto Moses in Midian, Go, return into Egypt: for all the men are dead which sought thy life.",
-        "ron": "După atât de multe zile a murit regele Egiptului care prigonise pe Moise, şi Domnul a grăit aceasta lui Moise în pământul Madian: \"Scoală şi întoarce-te în Egipt, că au murit toţi cei ce căutau sufletul tău!\""
+        "ron": "După atât de multe zile a murit regele Egiptului care prigonise pe Moise, şi Domnul a grăit aceasta lui Moise în pământul Madian: \"Scoală şi întoarce-te în Egipt, că au murit toţi cei ce căutau sufletul tău!\"",
+        "grk": "Εἶπε δὲ Κύριος πρὸς Μωυσῆν ἐν Μαδιὰμ, βάδιζε, ἄπελθε εἰς Αἴγυπτον, τεθνήκασι γὰρ πάντες οἱ ζητοῦντες σου τὴν ψυχήν."
       }
     },
     {
@@ -1769,7 +1788,8 @@
       "translations": {
         "lxx": "And Moses took his wife and his children, and mounted them on the beasts, and returned to Egypt; and Moses took the rod which he had from God in his hand.",
         "kjv": "And Moses took his wife and his sons, and set them upon an ass, and he returned to the land of Egypt: and Moses took the rod of God in his hand.",
-        "ron": "Luând atunci femeia şi copiii, Moise i-a pus pe asini şi s-a întors în Egipt. Şi a luat Moise în mâna sa şi toiagul cel de la Dumnezeu."
+        "ron": "Luând atunci femeia şi copiii, Moise i-a pus pe asini şi s-a întors în Egipt. Şi a luat Moise în mâna sa şi toiagul cel de la Dumnezeu.",
+        "grk": "Ἀναλαβὼν δὲ Μωυσῆς τὴν γυναῖκα καὶ τὰ παιδία, ἀνεβίβασεν αὐτὰ ἐπὶ τὰ ὑποζύγια, καὶ ἐπέστρεψεν εἰς Αἴγυπτον· ἔλαβε δὲ Μωυσῆς τὴν ῥάβδον τὴν παρὰ τοῦ Θεοῦ ἐν τῇ χειρὶ αὐτοῦ."
       }
     },
     {
@@ -1896,7 +1916,8 @@
       "translations": {
         "lxx": "And the Lord said to Moses, When thou goest and returnest to Egypt, see—all the miracles I have charged thee with, thou shalt work before Pharao: and I will harden his heart, and he shall certainly not send away the people.",
         "kjv": "And the LORD said unto Moses, When thou goest to return into Egypt, see that thou do all those wonders before Pharaoh, which I have put in thine hand: but I will harden his heart, that he shall not let the people go.",
-        "ron": "Şi a zis Domnul către Moise: \"Când vei merge şi vei ajunge în ţara Egiptului, caută să faci înaintea lui Faraon toate minunile ce ţi-am poruncit. Eu însă voi învârtoşa inima lui şi nu va da drumul poporului."
+        "ron": "Şi a zis Domnul către Moise: \"Când vei merge şi vei ajunge în ţara Egiptului, caută să faci înaintea lui Faraon toate minunile ce ţi-am poruncit. Eu însă voi învârtoşa inima lui şi nu va da drumul poporului.",
+        "grk": "Εἶπε δὲ Κύριος πρὸς Μωυσῆν, πορευομένου σου καὶ ἀποστρέφοντος εἰς Αἴγυπτον, ὅρα πάντα τὰ τέρατα ἃ δέδωκα ἐν ταῖς χερσί σου, ποιήσεις αὐτὰ ἐναντίον Φαραώ· ἐγὼ δὲ σκληρυνῶ τὴν καρδίαν αὐτοῦ, καὶ οὐ μὴ ἐξαποστείλῃ τὸν λαόν."
       }
     },
     {
@@ -1958,7 +1979,8 @@
       "translations": {
         "lxx": "And thou shalt say to Pharao, These things saith the Lord, Israel is my first-born.",
         "kjv": "And thou shalt say unto Pharaoh, Thus saith the LORD, Israel is my son, even my firstborn:",
-        "ron": "Dar tu să zici lui Faraon: Aşa zice Domnul Dumnezeul Evreilor: Israel este fiul Meu, întâi-născutul Meu."
+        "ron": "Dar tu să zici lui Faraon: Aşa zice Domnul Dumnezeul Evreilor: Israel este fiul Meu, întâi-născutul Meu.",
+        "grk": "Σὺ δὲ ἐρεῖς τῷ Φαραῴ, τάδε λέγει Κύριος, υἱὸς πρωτότοκός μου Ἰσραήλ."
       }
     },
     {
@@ -2045,7 +2067,8 @@
       "translations": {
         "lxx": "And I said to thee, Send away my people, that they may serve me: now if thou wilt not send them away, see, I will slay thy first-born son.",
         "kjv": "And I say unto thee, Let my son go, that he may serve me: and if thou refuse to let him go, behold, I will slay thy son, even thy firstborn.",
-        "ron": "Îţi zic dar: Lasă pe fiul Meu să Mi se închine; iar de nu-l vei lăsa, iată, îţi voi ucide pe fiul tău cel întâi-născut\"."
+        "ron": "Îţi zic dar: Lasă pe fiul Meu să Mi se închine; iar de nu-l vei lăsa, iată, îţi voi ucide pe fiul tău cel întâi-născut\".",
+        "grk": "Εἶπα δέ σοι, ἐξαπόστειλον τὸν λαόν μου, ἵνα μοι λατρεύσῃ· εἰ μὲν οὖν μὴ βούλει ἐξαποστεῖλαι αὐτούς, ὅρα οὖν, ἐγὼ ἀποκτένῶ τὸν υἱόν σου τὸν πρωτότοκον."
       }
     },
     {
@@ -2102,7 +2125,8 @@
       "translations": {
         "lxx": "And it came to pass that the angel of the Lord met him by the way in the inn, and sought to slay him.",
         "kjv": "And it came to pass by the way in the inn, that the LORD met him, and sought to kill him.",
-        "ron": "Însă, la un popas de noapte, pe cale, l-a întâmpinat îngerul Domnului şi a încercat să-l omoare."
+        "ron": "Însă, la un popas de noapte, pe cale, l-a întâmpinat îngerul Domnului şi a încercat să-l omoare.",
+        "grk": "Ἐγένετο δὲ ἐν τῇ ὁδῷ ἐν τῷ καταλύματι συνήντησεν αὐτῷ Ἄγγελος Κυρίου, καὶ ἐζήτει αὐτὸν ἀποκτεῖναι."
       }
     },
     {
@@ -2194,7 +2218,8 @@
       "translations": {
         "lxx": "And Sepphora having taken a stone cut off the foreskin of her son, and fell at his feet and said, The blood of the circumcision of my son is staunched:",
         "kjv": "Then Zipporah took a sharp stone, and cut off the foreskin of her son, and cast it at his feet, and said, Surely a bloody husband art thou to me.",
-        "ron": "Dar Sefora, luând un cuţit de piatră, a tăiat împrejur pe fiul său şi atingând picioarele lui Moise a zis; \"Tu-mi eşti un soţ crud!\""
+        "ron": "Dar Sefora, luând un cuţit de piatră, a tăiat împrejur pe fiul său şi atingând picioarele lui Moise a zis; \"Tu-mi eşti un soţ crud!\"",
+        "grk": "Καὶ λαβοῦσα Σεπφώρα ψῆφον, περιέτεμε τὴν ἀκροβυστίαν τοῦ υἱοῦ αὐτῆς· καὶ προσέπεσε πρὸς τοὺς πόδας αὐτοῦ, καὶ εἶπεν, ἔστη τὸ αἷμα τῆς περιτομῆς τοῦ παιδίου μου."
       }
     },
     {
@@ -2256,7 +2281,8 @@
       "translations": {
         "lxx": "and he departed from him, because she said, The blood of the circumcision of my son is staunched.",
         "kjv": "So he let him go: then she said, A bloody husband thou art, because of the circumcision.",
-        "ron": "Şi S-a dus Domnul de la el; iar ea, din pricina acestei tăieri împrejur, i-a zis lui Moise: \"Soţ crud!\""
+        "ron": "Şi S-a dus Domnul de la el; iar ea, din pricina acestei tăieri împrejur, i-a zis lui Moise: \"Soţ crud!\"",
+        "grk": "Καὶ ἀπῆλθεν ἀπʼ αὐτοῦ, διότι εἶπεν, ἔστη τὸ αἷμα τῆς περιτομῆς τοῦ παιδίου μου."
       }
     },
     {
@@ -2333,7 +2359,8 @@
       "translations": {
         "lxx": "And the Lord said to Aaron, Go into the wilderness to meet Moses; and he went and met him in the mount of God, and they kissed each other.",
         "kjv": "And the LORD said to Aaron, Go into the wilderness to meet Moses. And he went, and met him in the mount of God, and kissed him.",
-        "ron": "Atunci a zis Domnul către Aaron: \"Mergi în întâmpinarea lui Moise în pustie!\" Şi s-a dus acesta şi s-a întâlnit cu el în muntele lui Dumnezeu şi s-au sărutat amândoi."
+        "ron": "Atunci a zis Domnul către Aaron: \"Mergi în întâmpinarea lui Moise în pustie!\" Şi s-a dus acesta şi s-a întâlnit cu el în muntele lui Dumnezeu şi s-au sărutat amândoi.",
+        "grk": "Εἶπε δὲ Κύριος πρὸς Ἀαρὼν, πορεύθητι εἰς συνάντησιν Μωυσῇ εἰς τὴν ἔρημον· καὶ ἐπορεύθη, καὶ συνήντησεν αὐτῷ ἐν τῷ ὄρει τοῦ Θεοῦ, καὶ κατεφίλησαν ἀλλήλους."
       }
     },
     {
@@ -2395,7 +2422,8 @@
       "translations": {
         "lxx": "And Moses reported to Aaron all the words of the Lord, which he sent, and all the things which he charged him.",
         "kjv": "And Moses told Aaron all the words of the LORD who had sent him, and all the signs which he had commanded him.",
-        "ron": "Atunci a spus Moise lui Aaron toate cuvintele Domnului, pe care i le poruncise, şi toate semnele ce-i încredinţase să facă."
+        "ron": "Atunci a spus Moise lui Aaron toate cuvintele Domnului, pe care i le poruncise, şi toate semnele ce-i încredinţase să facă.",
+        "grk": "Καὶ ἀνήγγειλε Μωυσῆς τῷ Ἀαρὼν πάντας τοὺς λόγους Κυρίου, οὓς ἀπέστειλε, καὶ πάντα τὰ ῥήματα, ἃ ἐνετείλατο αὐτῷ."
       }
     },
     {
@@ -2447,7 +2475,8 @@
       "translations": {
         "lxx": "And Moses and Aaron went and gathered the elders of the children of Israel.",
         "kjv": "And Moses and Aaron went and gathered together all the elders of the children of Israel:",
-        "ron": "După aceea s-au dus Moise şi Aaron şi au adunat pe toţi bătrânii fiilor lui Israel"
+        "ron": "După aceea s-au dus Moise şi Aaron şi au adunat pe toţi bătrânii fiilor lui Israel",
+        "grk": "Ἐπορεύθη δὲ Μωυσῆς καὶ Ἀαρὼν, καὶ συνήγαγον τὴν γερουσίαν τῶν υἱῶν Ἰσραήλ."
       }
     },
     {
@@ -2519,7 +2548,8 @@
       "translations": {
         "lxx": "And Aaron spoke all these words, which God spoke to Moses, and wrought the miracles before the people.",
         "kjv": "And Aaron spake all the words which the LORD had spoken unto Moses, and did the signs in the sight of the people.",
-        "ron": "Şi le-a spus Aaron toate cuvintele pe care le grăise Domnul lui Moise, şi a făcut Moise semne înaintea poporului;"
+        "ron": "Şi le-a spus Aaron toate cuvintele pe care le grăise Domnul lui Moise, şi a făcut Moise semne înaintea poporului;",
+        "grk": "Καὶ ἐλάλησεν Ἀαρὼν πάντα τὰ ῥήματα ταῦτα, ἃ ἐλάλησεν ὁ Θεὸς πρὸς Μωυσῆν, καὶ ἐποίησε τὰ σημεῖα ἐναντίον τοῦ λαοῦ."
       }
     },
     {
@@ -2606,7 +2636,8 @@
       "translations": {
         "lxx": "And the people believed and rejoiced, because God visited the children of Israel, and because he saw their affliction: and the people bowed and worshipped.",
         "kjv": "And the people believed: and when they heard that the LORD had visited the children of Israel, and that he had looked upon their affliction, then they bowed their heads and worshipped.",
-        "ron": "Şi poporul a crezut şi s-a bucurat că a cercetat Domnul pe fiii lui Israel şi a văzut necazurile lor şi, plecându-se, s-au închinat."
+        "ron": "Şi poporul a crezut şi s-a bucurat că a cercetat Domnul pe fiii lui Israel şi a văzut necazurile lor şi, plecându-se, s-au închinat.",
+        "grk": "Καὶ ἐπίστευσεν ὁ λαὸς καὶ ἐχάρη, ὅτι ἐπεσκέψατο ὁ Θεὸς τοὺς υἱοὺς Ἰσραὴλ, καὶ ὅτι εἶδεν αὐτῶν τὴν θλίψιν· κύψας δὲ ὁ λαὸς προσεκύνησε."
       }
     }
   ],

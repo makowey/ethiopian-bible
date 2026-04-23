@@ -36,7 +36,8 @@
       "translations": {
         "lxx": "Then Eliphaz the Thæmanite answered and said,",
         "kjv": "Then answered Eliphaz the Temanite, and said,",
-        "ron": "Atunci Elifaz, din Teman, a răspuns şi a zis:"
+        "ron": "Atunci Elifaz, din Teman, a răspuns şi a zis:",
+        "grk": "Ὑπολαβὼν δὲ Ἐλιφὰζ ὁ Θαιμανίτης, λέγει,"
       }
     },
     {
@@ -93,7 +94,8 @@
       "translations": {
         "lxx": "Will a wise man give for answer a mere breath of wisdom? and does he fill up the pain of his belly,",
         "kjv": "Should a wise man utter vain knowledge, and fill his belly with the east wind?",
-        "ron": "\"Este oare cinstit pentru înţelept să răspundă cu cuvinte uşuratice şi să-şi umple pieptul cu suflarea vântului de răsărit?"
+        "ron": "\"Este oare cinstit pentru înţelept să răspundă cu cuvinte uşuratice şi să-şi umple pieptul cu suflarea vântului de răsărit?",
+        "grk": "Πότερον σοφὸς ἀπόκρισιν δώσει συνέσεως πνεῦμα, καὶ ἐνέπλησε πόνον γαστρὸς,"
       }
     },
     {
@@ -180,7 +182,8 @@
       "translations": {
         "lxx": "reasoning with improper sayings, and with words wherein is no profit?",
         "kjv": "Should he reason with unprofitable talk? or with speeches wherewith he can do no good?",
-        "ron": "I se cuvine lui să judece cu vorbe seci şi prin cuvântări care n-au nici o noimă?"
+        "ron": "I se cuvine lui să judece cu vorbe seci şi prin cuvântări care n-au nici o noimă?",
+        "grk": "ἐλέγχων ἐν ῥήμασιν οἷς οὐ δεῖ, καὶ ἐν λόγοις οἷς οὐδὲν ὄφελος;"
       }
     },
     {
@@ -227,7 +230,8 @@
       "translations": {
         "lxx": "Thou art guilty by the words of thy mouth, neither hast thou discerned the words of the mighty.",
         "kjv": "For thy mouth uttereth thine iniquity, and thou choosest the tongue of the crafty.",
-        "ron": "Nelegiuirea ta insuflă gura ta şi tu împrumuţi vorbirea ta de la cei vicleni."
+        "ron": "Nelegiuirea ta insuflă gura ta şi tu împrumuţi vorbirea ta de la cei vicleni.",
+        "grk": "Ἔνοχος εἶ ῥήμασι στόματός σου, οὐδὲ διέκρινας ῥήματα δυναστῶν."
       }
     },
     {
@@ -274,7 +278,8 @@
       "translations": {
         "lxx": "Let thine own mouth, and not me, reprove thee: and thy lips shall testify against thee.",
         "kjv": "Thine own mouth condemneth thee, and not I: yea, thine own lips testify against thee.",
-        "ron": "Chiar gura ta te osândeşte şi nu eu, chiar buzele tale sunt martore împotriva ta."
+        "ron": "Chiar gura ta te osândeşte şi nu eu, chiar buzele tale sunt martore împotriva ta.",
+        "grk": "Ἐλέγξαι σε τὸ σὸν στόμα καὶ μὴ ἐγὼ, τὰ δὲ χείλη σου καταμαρτυρήσουσι σου."
       }
     },
     {
@@ -326,7 +331,8 @@
       "translations": {
         "lxx": "What! art thou the first man that was born? or wert thou established before the hills?",
         "kjv": "Art thou the first man that was born? or wast thou made before the hills?",
-        "ron": "Nu cumva eşti tu cel dintâi om care s-a născut? Venit-ai tu pe lume mai înainte decât munţii?"
+        "ron": "Nu cumva eşti tu cel dintâi om care s-a născut? Venit-ai tu pe lume mai înainte decât munţii?",
+        "grk": "Τί γάρ; μὴ πρῶτος ἀνθρώπων ἐγεννήθης; ἢ πρὸ θινῶν ἐπάγης;"
       }
     },
     {
@@ -413,7 +419,8 @@
       "translations": {
         "lxx": "Or hast thou heard the ordinance of the Lord? or has God used thee as his counsellor? and has wisdom come only to thee?",
         "kjv": "Hast thou heard the secret of God? and dost thou restrain wisdom to thyself?",
-        "ron": "Ai stat tu de sfat cu Dumnezeu şi te-ai făcut tu stăpân pe toată înţelepciunea?"
+        "ron": "Ai stat tu de sfat cu Dumnezeu şi te-ai făcut tu stăpân pe toată înţelepciunea?",
+        "grk": "Ἢ σύνταγμα Κυρίου ἀκήκοας; ἢ συμβούλῳ σοι ἐχρήσατο ὁ Θεός; εἰς δέ σε ἀφίκετο σοφία;"
       }
     },
     {
@@ -460,7 +467,8 @@
       "translations": {
         "lxx": "Truly among us are both the old and very aged man, more advanced in days than thy father.",
         "kjv": "With us are both the grayheaded and very aged men, much elder than thy father.",
-        "ron": "Printre noi se află oameni vechi de zile, bătrâni mai în vârstă decât tatăl tău."
+        "ron": "Printre noi se află oameni vechi de zile, bătrâni mai în vârstă decât tatăl tău.",
+        "grk": "Καί γε πρεσβύτης καί γε παλαιὸς ἐν ἡμῖν, βαρύτερος τοῦ πατρός σου ἡμέραις."
       }
     },
     {
@@ -512,7 +520,8 @@
       "translations": {
         "lxx": "Thou hast been scourged for but few of thy sins: thou hast spoken haughtily and extravagantly.",
         "kjv": "Are the consolations of God small with thee? is there any secret thing with thee?",
-        "ron": "Ţi se pare puţin lucru mângâierile în numele lui Dumnezeu şi cuvintele spuse cu blândeţe?"
+        "ron": "Ţi se pare puţin lucru mângâierile în numele lui Dumnezeu şi cuvintele spuse cu blândeţe?",
+        "grk": "Ὀλίγα ὧν ἡμάρτηκας μεμαστίγωσαι, μεγάλως ὑπερβαλλόντως λελάληκας."
       }
     },
     {
@@ -599,7 +608,8 @@
       "translations": {
         "lxx": "What has thine heart dared? or what have thine eyes aimed at,",
         "kjv": "Why doth thine heart carry thee away? and what do thy eyes wink at,",
-        "ron": "De ce te laşi târât de inima ta şi de ce priveşti aşa trufaş cu ochii tăi?"
+        "ron": "De ce te laşi târât de inima ta şi de ce priveşti aşa trufaş cu ochii tăi?",
+        "grk": "Τί ἐτόλμησεν ἡ καρδία σου; ἢ τί ἐπήνεγκαν οἱ ὀφθαλμοί σου,"
       }
     },
     {
@@ -651,7 +661,8 @@
       "translations": {
         "lxx": "that thou hast vented thy rage before the Lord, and delivered such words from thy mouth?",
         "kjv": "That thou turnest thy spirit against God, and lettest such words go out of thy mouth?",
-        "ron": "De ce întorci spre Dumnezeu mânia ta şi dai drumul din gura ta la astfel de cuvântări?"
+        "ron": "De ce întorci spre Dumnezeu mânia ta şi dai drumul din gura ta la astfel de cuvântări?",
+        "grk": "ὅτι θυμὸν ἔῤῥηξας ἔναντι Κυρίου, ἐξήγαγες δὲ ἐκ στόματος ῥήματα τοιαῦτα;"
       }
     },
     {
@@ -818,7 +829,8 @@
       "translations": {
         "lxx": "For who, being a mortal, is such that he shall be blameless? or, who that is born of a woman, that he should be just?",
         "kjv": "What is man, that he should be clean? and he which is born of a woman, that he should be righteous?",
-        "ron": "Ce este omul ca să se creadă curat, şi cel născut din femeie, ca să se creadă neprihănit?"
+        "ron": "Ce este omul ca să se creadă curat, şi cel născut din femeie, ca să se creadă neprihănit?",
+        "grk": "Τίς γὰρ ὢν βροτὸς, ὅτι ἔσται ἅμεμπτος; ἢ ὡς ἐσόμενος δίκαιος γεννητὸς γυναικός;"
       }
     },
     {
@@ -870,7 +882,8 @@
       "translations": {
         "lxx": "Alas then, abominable and unclean is man, drinking unrighteousness as a draught.",
         "kjv": "How much more abominable and filthy is man, which drinketh iniquity like water?",
-        "ron": "Cu atât mai puţin o făptură urâcioasă şi stricată cum este omul cel ce bea nedreptatea ca apa."
+        "ron": "Cu atât mai puţin o făptură urâcioasă şi stricată cum este omul cel ce bea nedreptatea ca apa.",
+        "grk": "Ἔα δὲ ἐβδελυγμένος καὶ ἀκάθαρτος ἀνὴρ, πίνων ἀδικίας ἶσα ποτῷ."
       }
     },
     {
@@ -972,7 +985,8 @@
       "translations": {
         "lxx": "But I will tell thee, hearken to me; I will tell thee now what I have seen;",
         "kjv": "I will shew thee, hear me; and that which I have seen I will declare;",
-        "ron": "Vreau să-ţi dau o învăţătură, ascultă-mă; şi ceea ce am văzut vreau să-ţi aduc la cunoştinţă;"
+        "ron": "Vreau să-ţi dau o învăţătură, ascultă-mă; şi ceea ce am văzut vreau să-ţi aduc la cunoştinţă;",
+        "grk": "Ἀναγγελῶ δέ σοι, ἄκουέ μου, ἃ δὴ ἑώρακα, ἀναγγελῶ σοι,"
       }
     },
     {
@@ -1034,7 +1048,8 @@
       "translations": {
         "lxx": "To them alone the earth was given, and no stranger came upon them.",
         "kjv": "Unto whom alone the earth was given, and no stranger passed among them.",
-        "ron": "Atunci când tara le-a fost dată numai lor şi nici un străin nu se aşezase încă printre ei."
+        "ron": "Atunci când tara le-a fost dată numai lor şi nici un străin nu se aşezase încă printre ei.",
+        "grk": "Αὐτοῖς μόνοις ἐδόθη ἡ γῆ, καὶ οὐκ ἐπῆλθεν ἀλλογενὴς ἐπʼ αὐτούς."
       }
     },
     {
@@ -1186,7 +1201,8 @@
       "translations": {
         "lxx": "All the life of the ungodly is spent in care, and the years granted to the oppressor are numbered.",
         "kjv": "The wicked man travaileth with pain all his days, and the number of years is hidden to the oppressor.",
-        "ron": "Nelegiuitul se chinuieşte în toate zilele vieţii sale şi de-a lungul anilor hărăziţi celui tiran."
+        "ron": "Nelegiuitul se chinuieşte în toate zilele vieţii sale şi de-a lungul anilor hărăziţi celui tiran.",
+        "grk": "Πᾶς ὁ βίος ἀσεβοῦς ἐν φροντίδι, ἔτη δὲ ἀριθμητὰ δεδομένα δυνάστῃ."
       }
     },
     {
@@ -1328,7 +1344,8 @@
       "translations": {
         "lxx": "Let him not trust that he shall return from darkness, for he has been already made over to the power of the sword.",
         "kjv": "He believeth not that he shall return out of darkness, and he is waited for of the sword.",
-        "ron": "El nu mai nădăjduieşte să mai iasă din întuneric şi îşi simte capul mereu sub sabie."
+        "ron": "El nu mai nădăjduieşte să mai iasă din întuneric şi îşi simte capul mereu sub sabie.",
+        "grk": "Μὴ πιστευέτω ἀποστραφῆναι ἀπὸ σκότους, ἐντέταλται γὰρ ἤδη εἰς χεῖρας σιδήρου,"
       }
     },
     {
@@ -1375,7 +1392,8 @@
       "translations": {
         "lxx": "Distress also and anguish shall come upon him: he shall fall as a captain in the first rank.",
         "kjv": "Trouble and anguish shall make him afraid; they shall prevail against him, as a king ready to the battle.",
-        "ron": "Ziua întunericul îl înspăimântă. Zbuciumul şi tulburarea îl strâng la mijloc şi se aruncă asupra-i gata de împresurare,"
+        "ron": "Ziua întunericul îl înspăimântă. Zbuciumul şi tulburarea îl strâng la mijloc şi se aruncă asupra-i gata de împresurare,",
+        "grk": "ἀνάγκη δὲ καὶ θλίψις αὐτὸν καθέξει, ὥσπερ στρατηγὸς πρωτοστάτης πίπτων·"
       }
     },
     {
@@ -1452,7 +1470,8 @@
       "translations": {
         "lxx": "For he has lifted his hands against the Lord, and he has hardened his neck against the Almighty Lord.",
         "kjv": "For he stretcheth out his hand against God, and strengtheneth himself against the Almighty.",
-        "ron": "Fiindcă a îndrăznit să-şi îndrepte mâna împotriva lui Dumnezeu şi să facă pe viteazul faţă de Cel Atotputernic;"
+        "ron": "Fiindcă a îndrăznit să-şi îndrepte mâna împotriva lui Dumnezeu şi să facă pe viteazul faţă de Cel Atotputernic;",
+        "grk": "Ὅτι ᾖρκε χεῖρας ἐναντίον τοῦ Κυρίου, ἔναντι δὲ Κυρίου παντοκράτορος ἐτραχηλίασεν."
       }
     },
     {
@@ -1544,7 +1563,8 @@
       "translations": {
         "lxx": "For he has covered his face with his fat, and made layers of fat upon his thighs.",
         "kjv": "Because he covereth his face with his fatness, and maketh collops of fat on his flanks.",
-        "ron": "Chipul lui i se ascundea în grăsime şi osânza stătea grea pe coapsele lui,"
+        "ron": "Chipul lui i se ascundea în grăsime şi osânza stătea grea pe coapsele lui,",
+        "grk": "Ὅτι ἐκάλυψε τὸ πρόσωπον αὐτοῦ ἐν στέατι αὐτοῦ, καὶ ἐποίησε περιστόμιον ἐπὶ τῶν μηρίων."
       }
     }
   ],

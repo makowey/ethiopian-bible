@@ -8,7 +8,8 @@
       "translation": "A Psalm of instruction for David, when he was in the cave,—a Prayer.",
       "words": [],
       "translations": {
-        "ron": "Cu glasul meu către Domnul am strigat, cu glasul meu către Domnul m-am rugat."
+        "ron": "Cu glasul meu către Domnul am strigat, cu glasul meu către Domnul m-am rugat.",
+        "grk": "Συνέσεως τῷ Δαυὶδ, ἐν τῷ εἶναι αὐτὸν ἐν τῷ σπηλαίῳ, προσευχή."
       }
     },
     {
@@ -17,7 +18,8 @@
       "translation": "I cried to the Lord with my voice; with my voice I made supplication to the Lord.",
       "words": [],
       "translations": {
-        "ron": "Vărsa-voi înaintea Lui rugăciunea mea, necazul meu înaintea Lui voi spune."
+        "ron": "Vărsa-voi înaintea Lui rugăciunea mea, necazul meu înaintea Lui voi spune.",
+        "grk": "Φωνῇ μου πρὸς Κύριον ἐκέκραξα, φωνῇ μου πρὸς Κύριον ἐδεήθην."
       }
     },
     {
@@ -26,7 +28,8 @@
       "translation": "I will pour out before him my supplication: I will declare before him mine affliction.",
       "words": [],
       "translations": {
-        "ron": "Când lipsea dintru mine duhul meu, Tu ai cunoscut cărările mele. În calea aceasta în care am umblat, ascuns-au cursă mie."
+        "ron": "Când lipsea dintru mine duhul meu, Tu ai cunoscut cărările mele. În calea aceasta în care am umblat, ascuns-au cursă mie.",
+        "grk": "Ἐκχεῶ ἐναντίον αὐτοῦ τὴν δέησίν μου, τὴν θλίψιν μου ἐνώπιον αὐτοῦ ἀπαγγελῶ."
       }
     },
     {
@@ -35,7 +38,8 @@
       "translation": "When my spirit was fainting within me, then thou knewest my paths; in the very way wherein I was walking, they hid a snare for me.",
       "words": [],
       "translations": {
-        "ron": "Luat-am seama de-a dreapta şi am privit şi nu era cine să mă cunoască. Pierit-a fuga de la mine şi nu este cel ce caută sufletul meu."
+        "ron": "Luat-am seama de-a dreapta şi am privit şi nu era cine să mă cunoască. Pierit-a fuga de la mine şi nu este cel ce caută sufletul meu.",
+        "grk": "Ἐν τῷ ἐκλείπειν ἐξ ἐμοῦ τὸ πνεῦμά μου, καὶ σὺ ἔγνως τὰς τρίβους μου· ἐν ὁδῷ ταύτῃ ᾗ ἐπορευόμην, ἔκρυψαν παγίδα μοι."
       }
     },
     {
@@ -44,7 +48,8 @@
       "translation": "I looked on my right hand, and behold, for there was none that noticed me; refuge failed me; and there was none that cared for my soul.",
       "words": [],
       "translations": {
-        "ron": "Strigat-am către Tine, Doamne, zis-am: \"Tu eşti nădejdea mea, partea mea eşti în pământul celor vii\"."
+        "ron": "Strigat-am către Tine, Doamne, zis-am: \"Tu eşti nădejdea mea, partea mea eşti în pământul celor vii\".",
+        "grk": "Κατενόουν εἰς τὰ δεξιὰ καὶ ἐπέβλεπον, ὅτι οὐκ ἦν ὁ ἐπιγινώσκων με· ἀπώλετο φυγὴ ἀπʼ ἐμοῦ, καὶ οὐκ ἔστιν ὁ ἐκζητῶν τὴν ψυχήν μου."
       }
     },
     {
@@ -53,7 +58,8 @@
       "translation": "I cried unto thee, O Lord, and said, Thou art my hope, my portion in the land of the living.",
       "words": [],
       "translations": {
-        "ron": "Ia aminte la rugăciunea mea, că m-am smerit foarte. Izbăveşte-mă de cei ce mă prigonesc, că s-au întărit mai mult decât mine."
+        "ron": "Ia aminte la rugăciunea mea, că m-am smerit foarte. Izbăveşte-mă de cei ce mă prigonesc, că s-au întărit mai mult decât mine.",
+        "grk": "Πρὸς σὲ, Κύριε, ἐκέραξα, καὶ εἶπα, σὺ εἶ ἡ ἐλπίς μου, μερίς μου ἐν γῇ ζώντων."
       }
     },
     {
@@ -62,14 +68,18 @@
       "translation": "Attend to my supplication, for I am brought very low; deliver me from them that persecute me; for they are stronger than I.",
       "words": [],
       "translations": {
-        "ron": "Scoate din temniţă sufletul meu, ca să laude numele Tău, Doamne. Pe mine mă aşteaptă drepţii, până ce-mi vei răsplăti mie."
+        "ron": "Scoate din temniţă sufletul meu, ca să laude numele Tău, Doamne. Pe mine mă aşteaptă drepţii, până ce-mi vei răsplăti mie.",
+        "grk": "Πρόσχες πρὸς τὴν δέησίν μου, ὅτι ἐταπεινώθην σφόδρα· ῥῦσαί με ἐκ τῶν καταδιωκόντων με, ὅτι ἐκραταιώθησαν ὑπὲρ ἐμέ."
       }
     },
     {
       "num": 8,
       "geez": "",
       "translation": "Bring my soul out of prison, that I may give thanks to thy name, O Lord; the righteous shall wait for me, until thou recompense me.",
-      "words": []
+      "words": [],
+      "translations": {
+        "grk": "Ἐξάγαγε ἐκ φυλακῆς τὴν ψυχήν μου, τοῦ ἐξομολογήσασθαι τῷ ὀνόματί σου, Κύριε· ἐμὲ ὑπομενοῦσι δίκαιοι, ἕως οὗ ἀνταποδῷς μοι."
+      }
     }
   ]
 }

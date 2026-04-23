@@ -8,7 +8,8 @@
       "translation": "For the end, a Psalm for the sons of Core.",
       "words": [],
       "translations": {
-        "ron": "Toate popoarele bateţi din palme, strigaţi lui Dumnezeu cu glas de bucurie."
+        "ron": "Toate popoarele bateţi din palme, strigaţi lui Dumnezeu cu glas de bucurie.",
+        "grk": "Εἰς τὸ τέλος, ὑπὲρ τῶν υἱῶν Κορὲ ψαλμός."
       }
     },
     {
@@ -17,7 +18,8 @@
       "translation": "Clap your hands, all ye nations; shout to God with a voice of exultation.",
       "words": [],
       "translations": {
-        "ron": "Că Domnul este Preaînalt, înfricoşător, Împărat mare peste tot pământul."
+        "ron": "Că Domnul este Preaînalt, înfricoşător, Împărat mare peste tot pământul.",
+        "grk": "Παντὰ τὰ ἔθνη κροτήσατε χεῖρας, ἀλαλάξατε τῷ Θεῷ ἐν φωνῇ ἀγαλλιάσεως."
       }
     },
     {
@@ -26,7 +28,8 @@
       "translation": "For the Lord most high is terrible; he is a great king over all the earth.",
       "words": [],
       "translations": {
-        "ron": "Supusu-ne-a nouă popoare şi neamuri sub picioarele noastre;"
+        "ron": "Supusu-ne-a nouă popoare şi neamuri sub picioarele noastre;",
+        "grk": "Ὅτι Κύριος ὕψιστος, φοβερὸς, βασιλεὺς μέγας ἐπὶ πᾶσαν τὴν γῆν."
       }
     },
     {
@@ -35,7 +38,8 @@
       "translation": "He has subdued the peoples under us, and the nations under our feet.",
       "words": [],
       "translations": {
-        "ron": "Alesu-ne-a nouă moştenirea Sa, frumuseţea lui Iacob, pe care a iubit-o."
+        "ron": "Alesu-ne-a nouă moştenirea Sa, frumuseţea lui Iacob, pe care a iubit-o.",
+        "grk": "Ὑπέταξε λαοὺς ἡμῖν, καὶ ἔθνη ὑπὸ τοὺς πόδας ἡμῶν·"
       }
     },
     {
@@ -44,7 +48,8 @@
       "translation": "He has chosen out his inheritance for us, the beauty of Jacob which he loved. Pause.",
       "words": [],
       "translations": {
-        "ron": "Suitu-S-a Dumnezeu întru strigare, Domnul în glas de trâmbiţă."
+        "ron": "Suitu-S-a Dumnezeu întru strigare, Domnul în glas de trâmbiţă.",
+        "grk": "Ἐξελέξατο ἡμῖν τὴν κληρονομίαν αὐτοῦ, τὴν καλλονὴν Ἰακὼβ, ἣν ἠγάπησε· διάψαλμα."
       }
     },
     {
@@ -53,7 +58,8 @@
       "translation": "God is gone up with a shout, the Lord with a sound of a trumpet.",
       "words": [],
       "translations": {
-        "ron": "Cântaţi Dumnezeului nostru, cântaţi; cântaţi Împăratului nostru, cântaţi."
+        "ron": "Cântaţi Dumnezeului nostru, cântaţi; cântaţi Împăratului nostru, cântaţi.",
+        "grk": "Ἀνέβη ὁ Θεὸς ἐν ἀλαλαγμῷ, Κύριος ἐν φωνῇ σάλπιγγος."
       }
     },
     {
@@ -62,7 +68,8 @@
       "translation": "Sing praises to our God, sing praises: sing praises to our King, sing praises.",
       "words": [],
       "translations": {
-        "ron": "Că Împărat a tot pământul este Dumnezeu; cântaţi cu înţelegere."
+        "ron": "Că Împărat a tot pământul este Dumnezeu; cântaţi cu înţelegere.",
+        "grk": "Ψάλατε τῷ Θεῷ ἡμῶν, ψάλατε· ψάλατε τῷ βασιλεῖ ἡμῶν, ψάλατε."
       }
     },
     {
@@ -71,7 +78,8 @@
       "translation": "For God is king of all the earth: sing praises with understanding.",
       "words": [],
       "translations": {
-        "ron": "Împărăţit-a Dumnezeu peste neamuri, Dumnezeu şade pe tronul cel sfânt al Său."
+        "ron": "Împărăţit-a Dumnezeu peste neamuri, Dumnezeu şade pe tronul cel sfânt al Său.",
+        "grk": "Ὅτι βασιλεὺς πάσης τῆς γῆς ὁ Θεὸς, ψάλατε συνετῶς."
       }
     },
     {
@@ -80,14 +88,18 @@
       "translation": "God reigns over the nations: God sits upon the throne of his holiness.",
       "words": [],
       "translations": {
-        "ron": "Mai-marii popoarelor s-au adunat cu poporul Dumnezeului lui Avraam, că ai lui Dumnezeu sunt puternicii pământului; El S-a înălţat foarte."
+        "ron": "Mai-marii popoarelor s-au adunat cu poporul Dumnezeului lui Avraam, că ai lui Dumnezeu sunt puternicii pământului; El S-a înălţat foarte.",
+        "grk": "Ἐβασίλευσεν ὁ Θεὸς ἐπὶ τὰ ἔθνη, ὁ Θεὸς κάθηται ἐπὶ θρόνου ἁγίου αὐτοῦ."
       }
     },
     {
       "num": 10,
       "geez": "",
       "translation": "The rulers of the people are assembled with the God of Abraam: for God's mighty ones of the earth have been greatly exalted.",
-      "words": []
+      "words": [],
+      "translations": {
+        "grk": "Ἄρχοντες λαῶν συνήχθησαν μετὰ τοῦ Θεοῦ Ἀβραὰμ, ὅτι τοῦ Θεοῦ οἱ κραταιοὶ τῆς γῆς σφόδρα ἐπῄρθησαν."
+      }
     }
   ]
 }

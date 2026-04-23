@@ -76,7 +76,8 @@
       "translations": {
         "lxx": "And these are the stages of the children of Israel, as they went out from the land of Egypt with their host by the hand of Moses and Aaron.",
         "kjv": "These are the journeys of the children of Israel, which went forth out of the land of Egypt with their armies under the hand of Moses and Aaron.",
-        "ron": "Iată acum popasurile fiilor lui Israel, după ce au ieşit ei din pământul Egiptului cu oştirile lor, sub mâna lui Moise şi Aaron."
+        "ron": "Iată acum popasurile fiilor lui Israel, după ce au ieşit ei din pământul Egiptului cu oştirile lor, sub mâna lui Moise şi Aaron.",
+        "grk": "Καὶ οὗτοι οἱ σταθμοὶ τῶν υἱῶν Ἰσραὴλ, ὡς ἐξῆλθον ἐκ γῆς Αἰγύπτου σὺν δυνάμει αὐτῶν ἐν χειρὶ Μωυσῆ καὶ Ἀαρών."
       }
     },
     {
@@ -143,7 +144,8 @@
       "translations": {
         "lxx": "And Moses wrote their removals and their stages, by the word of the Lord: and these are the stages of their journeying.",
         "kjv": "And Moses wrote their goings out according to their journeys by the commandment of the LORD: and these are their journeys according to their goings out.",
-        "ron": "Moise, din porunca Domnului, a scris călătoria lor cu popasurile lor; iar popasurile lor sunt acestea:"
+        "ron": "Moise, din porunca Domnului, a scris călătoria lor cu popasurile lor; iar popasurile lor sunt acestea:",
+        "grk": "Καὶ ἔγραψε Μωυσῆς τὰς ἀπάρσεις αὐτῶν, καὶ τοὺς σταθμοὺς αὐτῶν, διὰ ῥήματος Κυρίου· καὶ οὗτοι σταθμοὶ τῆς πορείας αὐτῶν."
       }
     },
     {
@@ -250,7 +252,8 @@
       "translations": {
         "lxx": "They departed from Ramesses in the first month, on the fifteenth day of the first month; on the day after the passover the children of Israel went forth with a high hand before all the Egyptians.",
         "kjv": "And they departed from Rameses in the first month, on the fifteenth day of the first month; on the morrow after the passover the children of Israel went out with an high hand in the sight of all the Egyptians.",
-        "ron": "În luna întâi, în ziua a cincisprezecea a lunii întâi, a doua zi de Paşti, fiii lui Israel au purces din Ramses (Goşen) şi au ieşit, sub mână înaltă, înaintea ochilor a tot Egiptul."
+        "ron": "În luna întâi, în ziua a cincisprezecea a lunii întâi, a doua zi de Paşti, fiii lui Israel au purces din Ramses (Goşen) şi au ieşit, sub mână înaltă, înaintea ochilor a tot Egiptul.",
+        "grk": "Ἀπῆραν ἐκ Ῥαμεσσὴ τῷ μηνὶ τῷ πρώτῳ, τῇ πεντεκαιδεκάτῃ ἡμέρᾳ τοῦ μηνὸς τοῦ πρώτου· τῇ ἐπαύριον τοῦ πάσχα ἐξῆλθον οἱ υἱοὶ Ἰσραὴλ ἐν χειρὶ ὑψηλῇ ἐναντίον πάντων τῶν Αἰγυπτίων."
       }
     },
     {
@@ -357,7 +360,8 @@
       "translations": {
         "lxx": "And the Egyptians buried those that died of them, even all that the Lord smote, every first-born in the land of Egypt; also the Lord executed vengeance on their gods.",
         "kjv": "For the Egyptians buried all their firstborn, which the LORD had smitten among them: upon their gods also the LORD executed judgments.",
-        "ron": "În vremea aceea Egiptenii îngropau pe toţi cei ce muriseră dintre ei, pe toţi întâi-născuţii, pe care-i lovise Domnul, în ţara Egiptului, când a făcut Domnul judecată asupra dumnezeilor lor."
+        "ron": "În vremea aceea Egiptenii îngropau pe toţi cei ce muriseră dintre ei, pe toţi întâi-născuţii, pe care-i lovise Domnul, în ţara Egiptului, când a făcut Domnul judecată asupra dumnezeilor lor.",
+        "grk": "Καὶ οἱ Αἰγύπτιοι ἔθαπτον ἐξ αὐτῶν τοὺς τεθνηκότας πάντας οὓς ἐπάταξε Κύριος, πᾶν πρωτότοκον ἐν γῇ Αἰγύπτῳ· καὶ ἐν τοῖς θεοῖς αὐτῶν ἐποίησε τὴν ἐκδίκησιν Κύριος."
       }
     },
     {
@@ -409,7 +413,8 @@
       "translations": {
         "lxx": "And the children of Israel departed from Ramesses, and encamped in Socchoth:",
         "kjv": "And the children of Israel removed from Rameses, and pitched in Succoth.",
-        "ron": "După ce au pornit fiii lui Israel din Ramses (Goşen), au poposit în Sucot."
+        "ron": "După ce au pornit fiii lui Israel din Ramses (Goşen), au poposit în Sucot.",
+        "grk": "Καὶ ἀπάραντες οἱ υἱοὶ Ἰσραὴλ ἐκ Ῥαμεσσῆ, παρενέβαλον εἰς Σοκχώθ."
       }
     },
     {
@@ -471,7 +476,8 @@
       "translations": {
         "lxx": "and they departed from Socchoth and encamped in Buthan, which is a part of the wilderness.",
         "kjv": "And they departed from Succoth, and pitched in Etham, which is in the edge of the wilderness.",
-        "ron": "Pornind apoi din Sucot, au tăbărât la Etam, care este la marginea pustiului."
+        "ron": "Pornind apoi din Sucot, au tăbărât la Etam, care este la marginea pustiului.",
+        "grk": "Καὶ ἀπάραντες ἐκ Σοκχὼθ, παρενέβαλον εἰς Βουθὰν, ὅ ἐστι μέρος τι τῆς ἐρήμου·"
       }
     },
     {
@@ -553,7 +559,8 @@
       "translations": {
         "lxx": "And they departed from Buthan and encamped at the mouth of Iroth, which is opposite Beel-sepphon, and encamped opposite Magdol.",
         "kjv": "And they removed from Etham, and turned again unto Pihahiroth, which is before Baalzephon: and they pitched before Migdol.",
-        "ron": "Din Etam au pornit şi s-au îndreptat spre Pi-Hahirot, care este în ţara Baal-Ţefonului, şi şi-au aşezat tabăra înaintea Migdolului."
+        "ron": "Din Etam au pornit şi s-au îndreptat spre Pi-Hahirot, care este în ţara Baal-Ţefonului, şi şi-au aşezat tabăra înaintea Migdolului.",
+        "grk": "Καὶ ἀπῇραν ἐκ Βουθὰν, καὶ παρενέβαλον ἐπὶ τὸ στόμα Εἰρὼθ, ὅ ἐστιν ἀπέναντι Βεελσεπφὼν, καὶ παρενέβαλον ἀπέναντι Μαγδώλου."
       }
     },
     {
@@ -655,7 +662,8 @@
       "translations": {
         "lxx": "And they departed from before Iroth, and crossed the middle of the sea into the wilderness; and they went a journey of three days through the wilderness, and encamped in Picriæ.",
         "kjv": "And they departed from before Pihahiroth, and passed through the midst of the sea into the wilderness, and went three days’ journey in the wilderness of Etham, and pitched in Marah.",
-        "ron": "Pornind apoi din Pi-Hahirot, au trecut prin mare în pustie şi, mergând cale de trei zile prin pustiul Etam, şi-au aşezat tabăra la Mara."
+        "ron": "Pornind apoi din Pi-Hahirot, au trecut prin mare în pustie şi, mergând cale de trei zile prin pustiul Etam, şi-au aşezat tabăra la Mara.",
+        "grk": "Καὶ ἀπῇραν ἀπέναντι Εἰρὼθ, καὶ διέβησαν μέσον τῆς θαλάσσης εἰς τὴν ἔρημον· καὶ ἐπορεύθησαν ὁδὸν τριῶν ἡμερῶν διὰ τῆς ἐρήμου αὐτοὶ, καὶ παρενέβαλον ἐν Πικρίαις."
       }
     },
     {
@@ -767,7 +775,8 @@
       "translations": {
         "lxx": "And they departed from Picriæ, and came to Ælim; and in Ælim were twelve fountains of water, and seventy palm-trees, and they encamped there by the water.",
         "kjv": "And they removed from Marah, and came unto Elim: and in Elim were twelve fountains of water, and threescore and ten palm trees; and they pitched there.",
-        "ron": "Plecând de la Mara, au venit la Elim. În Elim insă erau douăsprezece izvoare de apă şi şaptezeci de finici şi au tăbărât acolo lângă apă."
+        "ron": "Plecând de la Mara, au venit la Elim. În Elim insă erau douăsprezece izvoare de apă şi şaptezeci de finici şi au tăbărât acolo lângă apă.",
+        "grk": "Καὶ ἀπῇραν ἐκ Πικριῶν, καὶ ἦλθον εἰς Αἰλίμ· καὶ ἐν Αἰλὶμ δώδεκα πηγαὶ ὑδάτων, καὶ ἑβδομήκοντα στελέχη φοινίκων, καὶ παρενέβαλον ἐκεῖ παρὰ τὸ ὕδωρ."
       }
     },
     {
@@ -814,7 +823,8 @@
       "translations": {
         "lxx": "And they departed from Ælim, and encamped by the Red Sea.",
         "kjv": "And they removed from Elim, and encamped by the Red sea.",
-        "ron": "Pornind apoi din Elim, au tăbărât la Marea Roşie."
+        "ron": "Pornind apoi din Elim, au tăbărât la Marea Roşie.",
+        "grk": "Καὶ ἀπῇραν ἐξ Αἰλὶμ, καὶ παρενέβαλον ἐπὶ θάλασσαν ἐρυθράν."
       }
     },
     {
@@ -866,7 +876,8 @@
       "translations": {
         "lxx": "And they departed from the Red Sea, and encamped in the wilderness of Sin.",
         "kjv": "And they removed from the Red sea, and encamped in the wilderness of Sin.",
-        "ron": "Au pornit apoi de la Marea Roşie şi au tăbărât în pustiul Sin."
+        "ron": "Au pornit apoi de la Marea Roşie şi au tăbărât în pustiul Sin.",
+        "grk": "Καὶ ἀπῇραν ἀπὸ θαλάσσης ἐρυθρᾶς, καὶ παρενέβαλον εἰς τὴν ἔρημον Σίν."
       }
     },
     {
@@ -913,7 +924,8 @@
       "translations": {
         "lxx": "And they departed from the wilderness of Sin, and encamped in Raphaca.",
         "kjv": "And they took their journey out of the wilderness of Sin, and encamped in Dophkah.",
-        "ron": "Pornind din pustiul Sin, au poposit la Dofca."
+        "ron": "Pornind din pustiul Sin, au poposit la Dofca.",
+        "grk": "Καὶ ἀπῇραν ἐκ τῆς ἐρήμου Σὶν, καὶ παρενέβαλον εἰς Ῥαφακά."
       }
     },
     {
@@ -955,7 +967,8 @@
       "translations": {
         "lxx": "And they departed from Raphaca, and encamped in Ælus.",
         "kjv": "And they departed from Dophkah, and encamped in Alush.",
-        "ron": "Pornind din Dofca, au tăbărât la Aluş."
+        "ron": "Pornind din Dofca, au tăbărât la Aluş.",
+        "grk": "Καὶ ἀπῇραν ἐκ Ῥαφακὰ, καὶ παρενέβαλον ἐν Αἰλούς."
       }
     },
     {
@@ -1022,7 +1035,8 @@
       "translations": {
         "lxx": "And they departed from Ælus, and encamped in Raphidin; and there was no water there for the people to drink.",
         "kjv": "And they removed from Alush, and encamped at Rephidim, where was no water for the people to drink.",
-        "ron": "Pornind din Aluş, şi-au aşezat tabăra la Rafidim. Acolo nu era apă ca să bea poporul."
+        "ron": "Pornind din Aluş, şi-au aşezat tabăra la Rafidim. Acolo nu era apă ca să bea poporul.",
+        "grk": "Καὶ ἀπῇραν ἐξ Αἰλούς, καὶ παρενέβαλον ἐν Ῥαφιδίν· καὶ οὐκ ἦν ἐκεῖ ὕδωρ τῷ λαῷ πιεῖν."
       }
     },
     {
@@ -1069,7 +1083,8 @@
       "translations": {
         "lxx": "And they departed from Raphidin, and encamped in the wilderness of Sina.",
         "kjv": "And they departed from Rephidim, and pitched in the wilderness of Sinai.",
-        "ron": "Pornind din Rafidim, au tăbărât în pustiul Sinai."
+        "ron": "Pornind din Rafidim, au tăbărât în pustiul Sinai.",
+        "grk": "Καὶ ἀπῇραν ἐκ Ῥαφιδὶν, καὶ παρενέβαλον ἐν τῇ ἐρήμῳ Σινᾶ."
       }
     },
     {
@@ -1121,7 +1136,8 @@
       "translations": {
         "lxx": "And they departed from the wilderness of Sina, and encamped at the Graves of Lust.",
         "kjv": "And they removed from the desert of Sinai, and pitched at Kibrothhattaavah.",
-        "ron": "Iar după ce au pornit din pustiul Sinai, au poposit la Chibrot-Hataava."
+        "ron": "Iar după ce au pornit din pustiul Sinai, au poposit la Chibrot-Hataava.",
+        "grk": "Καὶ ἀπῇραν ἐκ τῆς ἐρήμου Σινᾶ, καὶ παρενέβαλον ἐν μνήμασι τῆς ἐπιθυμίας."
       }
     },
     {
@@ -1168,7 +1184,8 @@
       "translations": {
         "lxx": "And they departed from the Graves of Lust, and encamped in Aseroth.",
         "kjv": "And they departed from Kibrothhattaavah, and encamped at Hazeroth.",
-        "ron": "Pornind din Chibrot-Hataava, au tăbărât în Haşerot."
+        "ron": "Pornind din Chibrot-Hataava, au tăbărât în Haşerot.",
+        "grk": "Καὶ ἀπῇραν ἐκ μνημάτων τῆς ἐπιθυμίας, καὶ παρενέβαλον ἐν Ἀσηρώθ."
       }
     },
     {
@@ -1210,7 +1227,8 @@
       "translations": {
         "lxx": "And they departed from Aseroth, and encamped in Rathama.",
         "kjv": "And they departed from Hazeroth, and pitched in Rithmah.",
-        "ron": "Pornind din Haşerot, au poposit la Ritma."
+        "ron": "Pornind din Haşerot, au poposit la Ritma.",
+        "grk": "Καὶ ἀπῇραν ἐξ Ἀσηρὼθ, καὶ παρενέβαλον ἐν Ῥαθαμᾷ."
       }
     },
     {
@@ -1257,7 +1275,8 @@
       "translations": {
         "lxx": "And they departed from Rathama, and encamped in Remmon Phares.",
         "kjv": "And they departed from Rithmah, and pitched at Rimmonparez.",
-        "ron": "Pornind din Ritma, şi-au aşezat tabăra la Rimon-Pereţ."
+        "ron": "Pornind din Ritma, şi-au aşezat tabăra la Rimon-Pereţ.",
+        "grk": "Καὶ ἀπῇραν ἐκ Ῥαθαμᾶ, καὶ παρενέβαλον ἐν Ῥεμμὼν Φαρές."
       }
     },
     {
@@ -1304,7 +1323,8 @@
       "translations": {
         "lxx": "And they departed from Remmon Phares, and encamped in Lebona.",
         "kjv": "And they departed from Rimmonparez, and pitched in Libnah.",
-        "ron": "Pornind din Rimon-Pereţ, au tăbărât în Libna."
+        "ron": "Pornind din Rimon-Pereţ, au tăbărât în Libna.",
+        "grk": "Καὶ ἀπῇραν ἐκ Ῥεμμὼν Φαρὲς, καὶ παρενέβαλον εἰς Λεβωνᾶ."
       }
     },
     {
@@ -1346,7 +1366,8 @@
       "translations": {
         "lxx": "And they departed from Lebona, and encamped in Ressan.",
         "kjv": "And they removed from Libnah, and pitched at Rissah.",
-        "ron": "Pornind din Libna, au tăbărât la Risa."
+        "ron": "Pornind din Libna, au tăbărât la Risa.",
+        "grk": "Καὶ ἀπῇραν ἐκ Λεβῶνα, καὶ παρενέβαλον εἰς Ῥεσσάν."
       }
     },
     {
@@ -1388,7 +1409,8 @@
       "translations": {
         "lxx": "And they departed from Ressan, and encamped in Makellath.",
         "kjv": "And they journeyed from Rissah, and pitched in Kehelathah.",
-        "ron": "Pornind din Risa, şi-au aşezat tabăra la Chehelata."
+        "ron": "Pornind din Risa, şi-au aşezat tabăra la Chehelata.",
+        "grk": "Καὶ ἀπῇραν ἐκ Ῥεσσὰν, καὶ παρενέβαλον εἰς Μακελλάθ."
       }
     },
     {
@@ -1430,7 +1452,8 @@
       "translations": {
         "lxx": "And they departed from Makellath, and encamped in Saphar.",
         "kjv": "And they went from Kehelathah, and pitched in mount Shapher.",
-        "ron": "Pornind din Chehelata, au tăbărât pe Muntele Şafer."
+        "ron": "Pornind din Chehelata, au tăbărât pe Muntele Şafer.",
+        "grk": "Καὶ ἀπῇραν ἐκ Μακελλὰθ, καὶ παρενέβαλον εἰς Σαφάρ."
       }
     },
     {
@@ -1472,7 +1495,8 @@
       "translations": {
         "lxx": "And they departed from Saphar, and encamped in Charadath.",
         "kjv": "And they removed from mount Shapher, and encamped in Haradah.",
-        "ron": "Pornind de pe Muntele Şafer, au poposit în Harada."
+        "ron": "Pornind de pe Muntele Şafer, au poposit în Harada.",
+        "grk": "Καὶ ἀπῇραν ἑκ Σαφὰρ, καὶ παρενέβαλον εἰς Χαραδάθ."
       }
     },
     {
@@ -1514,7 +1538,8 @@
       "translations": {
         "lxx": "And they departed from Charadath, and encamped in Makeloth.",
         "kjv": "And they removed from Haradah, and pitched in Makheloth.",
-        "ron": "Pornind din Harada, au tăbărât la Machelot."
+        "ron": "Pornind din Harada, au tăbărât la Machelot.",
+        "grk": "Καὶ ἀπῇραν ἐκ Χαραδὰθ, καὶ παρενέβαλον εἰς Μακηλώθ."
       }
     },
     {
@@ -1556,7 +1581,8 @@
       "translations": {
         "lxx": "And they departed from Makeloth, and encamped in Kataath.",
         "kjv": "And they removed from Makheloth, and encamped at Tahath.",
-        "ron": "Pornind din Machelot, au poposit în Tahat."
+        "ron": "Pornind din Machelot, au poposit în Tahat.",
+        "grk": "Καὶ ἀπῇραν ἐκ Μακηλὼθ, καὶ παρενέβαλον εἰς Καταάθ."
       }
     },
     {
@@ -1598,7 +1624,8 @@
       "translations": {
         "lxx": "And they departed from Kataath, and encamped in Tarath.",
         "kjv": "And they departed from Tahath, and pitched at Tarah.",
-        "ron": "Pornind din Tahat, s-au aşezat cu tabăra în Tarah."
+        "ron": "Pornind din Tahat, s-au aşezat cu tabăra în Tarah.",
+        "grk": "Καὶ ἀπῇραν ἐκ Καταὰθ, καὶ παρενέβαλον εἰς Ταράθ."
       }
     },
     {
@@ -1640,7 +1667,8 @@
       "translations": {
         "lxx": "And they departed from Tarath, and encamped in Mathecca.",
         "kjv": "And they removed from Tarah, and pitched in Mithcah.",
-        "ron": "Pornind din Tarah, au tăbărât în Mitca."
+        "ron": "Pornind din Tarah, au tăbărât în Mitca.",
+        "grk": "Καὶ ἀπῇραν ἐκ Ταρὰθ, καὶ παρενέβαλον εἰς Μαθεκκά."
       }
     },
     {
@@ -1682,7 +1710,8 @@
       "translations": {
         "lxx": "And they departed from Mathecca, and encamped in Selmona.",
         "kjv": "And they went from Mithcah, and pitched in Hashmonah.",
-        "ron": "Pornind din Mitca, au tăbărât în Haşmona."
+        "ron": "Pornind din Mitca, au tăbărât în Haşmona.",
+        "grk": "Καὶ ἀπῇραν ἐκ Μαθεκκὰ, καὶ παρενέβαλον εἰς Σελμωνᾶ."
       }
     },
     {
@@ -1724,7 +1753,8 @@
       "translations": {
         "lxx": "And they departed from Selmona, and encamped in Masuruth.",
         "kjv": "And they departed from Hashmonah, and encamped at Moseroth.",
-        "ron": "Pornind din Haşmona, au poposit la Moserot."
+        "ron": "Pornind din Haşmona, au poposit la Moserot.",
+        "grk": "Καὶ ἀπῇραν ἐκ Σελμωνᾶ, καὶ παρενέβαλον εἰς Μασουρούθ."
       }
     },
     {
@@ -1766,7 +1796,8 @@
       "translations": {
         "lxx": "And they departed from Masuruth, and encamped in Banæa.",
         "kjv": "And they departed from Moseroth, and pitched in Benejaakan.",
-        "ron": "Pornind din Moserot, şi-au aşezat tabăra la Bene-Iaakan."
+        "ron": "Pornind din Moserot, şi-au aşezat tabăra la Bene-Iaakan.",
+        "grk": "Καὶ ἀπῇραν ἐκ Μασουροὺθ, καὶ παρενέβαλον εἰς Βαναία."
       }
     },
     {
@@ -1813,7 +1844,8 @@
       "translations": {
         "lxx": "And they departed from Banæa, and encamped in the mountain Gadgad.",
         "kjv": "And they removed from Benejaakan, and encamped at Horhagidgad.",
-        "ron": "Pornind din Bene-Iaakan, au tăbărât la Hor-Haghidgad."
+        "ron": "Pornind din Bene-Iaakan, au tăbărât la Hor-Haghidgad.",
+        "grk": "Καὶ ἀπῇραν ἐκ Βαναία, καὶ παρενέβαλον εἰς τὸ ὄρος Γαδγάδ."
       }
     },
     {
@@ -1860,7 +1892,8 @@
       "translations": {
         "lxx": "And they departed from the mountain Gadgad, and encamped in Etebatha.",
         "kjv": "And they went from Horhagidgad, and pitched in Jotbathah.",
-        "ron": "Pornind din Hor-Haghidgad, au poposit în Iotbata."
+        "ron": "Pornind din Hor-Haghidgad, au poposit în Iotbata.",
+        "grk": "Καὶ ἀπῇραν ἐκ τοῦ ὄρους Γαδγὰδ, καὶ παρενέβαλον εἰς Ἐτεβαθά."
       }
     },
     {
@@ -1902,7 +1935,8 @@
       "translations": {
         "lxx": "And they departed from Etebatha, and encamped in Ebrona.",
         "kjv": "And they removed from Jotbathah, and encamped at Ebronah.",
-        "ron": "Pornind din Iotbata, au tăbărât la Abrona."
+        "ron": "Pornind din Iotbata, au tăbărât la Abrona.",
+        "grk": "Καὶ ἀπῇραν ἐξ Ἐτεβαθὰ, καὶ παρενέβαλον εἰς Ἐβρωνά."
       }
     },
     {
@@ -1949,7 +1983,8 @@
       "translations": {
         "lxx": "And they departed from Ebrona, and encamped in Gesion Gaber.",
         "kjv": "And they departed from Ebronah, and encamped at Eziongaber.",
-        "ron": "Pornind din Abrona, şi-au aşezat tabăra la Eţion-Gheber."
+        "ron": "Pornind din Abrona, şi-au aşezat tabăra la Eţion-Gheber.",
+        "grk": "Καὶ ἀπῇραν ἐξ Ἐβρωνὰ, καὶ παρενέβαλον εἰς Γεσιὼν Γάβερ."
       }
     },
     {
@@ -2051,7 +2086,8 @@
       "translations": {
         "lxx": "And they departed from Gesion Gaber, and encamped in the wilderness of Sin; and they departed from the wilderness of Sin, and encamped in the wilderness of Pharan; this is Cades.",
         "kjv": "And they removed from Eziongaber, and pitched in the wilderness of Zin, which is Kadesh.",
-        "ron": "Pornind din Eţion-Gheber, au poposit în pustiul Sin. Plecând din pustiul Sin, au tăbărât în Cadeş."
+        "ron": "Pornind din Eţion-Gheber, au poposit în pustiul Sin. Plecând din pustiul Sin, au tăbărât în Cadeş.",
+        "grk": "Καὶ ἀπῇραν ἐκ Γεσιὼν Γάβερ, καὶ παρενέβαλον ἐν τῇ ἐρήμῳ Σίν· καὶ ἀπῇραν ἐκ τῆς ἐρήμου Σὶν, καὶ παρενέβαλον εἰς τὴν ἔρημον Φαράν· αὕτη ἐστὶ Κάδης."
       }
     },
     {
@@ -2113,7 +2149,8 @@
       "translations": {
         "lxx": "And they departed from Cades, and encamped in mount Or near the land of Edom.",
         "kjv": "And they removed from Kadesh, and pitched in mount Hor, in the edge of the land of Edom.",
-        "ron": "Iar din Cadeş au purces şi au poposit la muntele Hor, lângă hotarul ţării Edomului."
+        "ron": "Iar din Cadeş au purces şi au poposit la muntele Hor, lângă hotarul ţării Edomului.",
+        "grk": "Καὶ ἀπῇραν ἐκ Κάδης, καὶ παρενέβαλον εἰς Ὢρ τὸ ὄρος πλησίον γῆς Ἐδώμ."
       }
     },
     {
@@ -2225,7 +2262,8 @@
       "translations": {
         "lxx": "And Aaron the priest went up by the command of the Lord, and died there in the fortieth year of the departure of the children of Israel from the land of Egypt, in the fifth month, on the first day of the month.",
         "kjv": "And Aaron the priest went up into mount Hor at the commandment of the LORD, and died there, in the fortieth year after the children of Israel were come out of the land of Egypt, in the first day of the fifth month.",
-        "ron": "Aici s-a suit Aaron preotul pe muntele Hor, după porunca Domnului, şi a murit acolo, în anul al patruzecilea de la ieşirea fiilor lui Israel din pământul Egiptului, în luna a cincea, în ziua întâi a lunii."
+        "ron": "Aici s-a suit Aaron preotul pe muntele Hor, după porunca Domnului, şi a murit acolo, în anul al patruzecilea de la ieşirea fiilor lui Israel din pământul Egiptului, în luna a cincea, în ziua întâi a lunii.",
+        "grk": "Καὶ ἀνέβη Ἀαρὼν ὁ ἱερεὺς διὰ προστάγματος Κυρίου, καὶ ἀπέθανεν ἐκεῖ ἐν τῷ τεσσαρακοστῷ ἔτει τῆς ἐξόδου τῶν υἱῶν Ἰσραὴλ ἐκ γῆς Αἰγύπτου, τῷ μηνὶ τῷ πέμπτῳ μιᾷ τοῦ μηνός."
       }
     },
     {
@@ -2287,7 +2325,8 @@
       "translations": {
         "lxx": "And Aaron was a hundred and twenty-three years old, when he died in mount Or.",
         "kjv": "And Aaron was an hundred and twenty and three years old when he died in mount Hor.",
-        "ron": "Aaron era de o sută douăzeci şi trei de ani, când a murit pe muntele Hor."
+        "ron": "Aaron era de o sută douăzeci şi trei de ani, când a murit pe muntele Hor.",
+        "grk": "Καὶ Ἀαρὼν ἦν τριῶν καὶ εἴκοσι καὶ ἑκατὸν ἐτῶν, ὅτε ἀπέθνησκεν ἐν Ὢρ τῷ ὄρει."
       }
     },
     {
@@ -2364,7 +2403,8 @@
       "translations": {
         "lxx": "And Arad the Chananitish king (he too dwelt in the land of Chanaan) having heard when the children of Israel were entering the land—",
         "kjv": "And king Arad the Canaanite, which dwelt in the south in the land of Canaan, heard of the coming of the children of Israel.",
-        "ron": "Atunci regele canaanean din Arad, care trăia în partea de miazăzi a pământului Canaan, a auzit că vin fiii lui Israel."
+        "ron": "Atunci regele canaanean din Arad, care trăia în partea de miazăzi a pământului Canaan, a auzit că vin fiii lui Israel.",
+        "grk": "Καὶ ἀκούσας ὁ Χανανὶς βασιλεὺς Ἀρὰδ, καὶ οὗτος κατῴκει ἐν γῇ Χαναὰν, ὅτε εἰσεπορεύοντο οἱ υἱοὶ Ἰσραήλ·"
       }
     },
     {
@@ -2411,7 +2451,8 @@
       "translations": {
         "lxx": "then they departed from mount Or, and encamped in Selmona.",
         "kjv": "And they departed from mount Hor, and pitched in Zalmonah.",
-        "ron": "Aceştia însă, plecând de la muntele Hor, au tăbărât la Ţalmona."
+        "ron": "Aceştia însă, plecând de la muntele Hor, au tăbărât la Ţalmona.",
+        "grk": "καὶ ἀπῇραν ἐξ Ὢρ τοῦ ὄρους, καὶ παρενέβαλον εἰς Σελμωνᾶ."
       }
     },
     {
@@ -2453,7 +2494,8 @@
       "translations": {
         "lxx": "And they departed from Selmona, and encamped in Phino.",
         "kjv": "And they departed from Zalmonah, and pitched in Punon.",
-        "ron": "Pornind din Ţalmona, au poposit la Punon."
+        "ron": "Pornind din Ţalmona, au poposit la Punon.",
+        "grk": "Καὶ ἀπῇραν ἐκ Σελμωνᾶ, καὶ παρενέβαλον εἰς Φινώ."
       }
     },
     {
@@ -2495,7 +2537,8 @@
       "translations": {
         "lxx": "And they departed from Phino, and encamped in Oboth.",
         "kjv": "And they departed from Punon, and pitched in Oboth.",
-        "ron": "Pornind din Punon, au tăbărât la Obot."
+        "ron": "Pornind din Punon, au tăbărât la Obot.",
+        "grk": "Καὶ ἀπῇραν ἐκ Φινὼ, καὶ παρενέβαλον ἐν Ὠβώθ."
       }
     },
     {
@@ -2557,7 +2600,8 @@
       "translations": {
         "lxx": "And they departed from Oboth, and encamped in Gai, on the other side Jordan on the borders of Moab.",
         "kjv": "And they departed from Oboth, and pitched in Ijeabarim, in the border of Moab.",
-        "ron": "Pornind din Obot, au poposit la Iie-Abarim, lângă hotarele lui Moab."
+        "ron": "Pornind din Obot, au poposit la Iie-Abarim, lângă hotarele lui Moab.",
+        "grk": "Καὶ ἀπῇραν ἐξ Ὠβὼθ, καὶ παρενέβαλον ἐν Γαῒ, ἐν τῷ πέραν ἐπὶ τῶν ὁρίων Μωάβ."
       }
     },
     {
@@ -2604,7 +2648,8 @@
       "translations": {
         "lxx": "And they departed from Gai, and encamped in Dæbon Gad.",
         "kjv": "And they departed from Iim, and pitched in Dibongad.",
-        "ron": "Pornind din Iie-Abarim, au tăbărât la Dibon-Gad."
+        "ron": "Pornind din Iie-Abarim, au tăbărât la Dibon-Gad.",
+        "grk": "Καὶ ἀπῇραν ἐκ Γαῒ, καὶ παρενέβαλον εἰς Δαιβὼν Γάδ."
       }
     },
     {
@@ -2656,7 +2701,8 @@
       "translations": {
         "lxx": "And they departed from Dæbon Gad, and encamped in Gelmon Deblathaim.",
         "kjv": "And they removed from Dibongad, and encamped in Almondiblathaim.",
-        "ron": "Pornind din Dibon-Gad, au poposit ia Almon-Diblataim."
+        "ron": "Pornind din Dibon-Gad, au poposit ia Almon-Diblataim.",
+        "grk": "Καὶ ἀπῇραν ἐκ Δαιβὼν Γὰδ, καὶ παρενέβαλον ἐν Γελμὼν Δεβλαθαίμ."
       }
     },
     {
@@ -2718,7 +2764,8 @@
       "translations": {
         "lxx": "And they departed from Gelmon Deblathaim, and encamped on the mountains of Abarim, over against Nabau.",
         "kjv": "And they removed from Almondiblathaim, and pitched in the mountains of Abarim, before Nebo.",
-        "ron": "Pornind din Almon-Diblataim, au tăbărât în munţii Abarim, în faţa lui Nebo."
+        "ron": "Pornind din Almon-Diblataim, au tăbărât în munţii Abarim, în faţa lui Nebo.",
+        "grk": "Καὶ ἀπῇραν ἐκ Γελμὼν Δεβλαθαὶμ, καὶ παρενέβαλον ἐπὶ τὰ ὄρη τὰ Ἀβαρὶμ, ἀπέναντι Ναβαῦ."
       }
     },
     {
@@ -2790,7 +2837,8 @@
       "translations": {
         "lxx": "And they departed from the mountains of Abarim, and encamped on the west of Moab, at Jordan by Jericho.",
         "kjv": "And they departed from the mountains of Abarim, and pitched in the plains of Moab by Jordan near Jericho.",
-        "ron": "Pornind de la munţii Abarim, au poposit în şesurile Moabului, la Iordan, în faţa Ierihonului,"
+        "ron": "Pornind de la munţii Abarim, au poposit în şesurile Moabului, la Iordan, în faţa Ierihonului,",
+        "grk": "Καὶ ἀπῇραν ἀπὸ ὀρέων Ἀβαρὶμ, καὶ παρενέβαλον ἐπὶ δυσμῶν Μωὰβ, ἐπὶ τοῦ Ἰορδάνου κατὰ Ἱεριχώ."
       }
     },
     {
@@ -2852,7 +2900,8 @@
       "translations": {
         "lxx": "And they encamped by Jordan between Æsimoth, as far as Belsa to the west of Moab.",
         "kjv": "And they pitched by Jordan, from Bethjesimoth even unto Abelshittim in the plains of Moab.",
-        "ron": "Şi şi-au aşezat ei tabăra la Iordan, de la Bet-Ieşimot până la Abel-Şitim, în şesurile Moabului."
+        "ron": "Şi şi-au aşezat ei tabăra la Iordan, de la Bet-Ieşimot până la Abel-Şitim, în şesurile Moabului.",
+        "grk": "Καὶ παρενέβαλον παρὰ τὸν Ἰορδάνην ἀναμέσον Αἰσιμώθ, ἕως Βελσᾶ τὸ κατὰ δυσμὰς Μωάβ."
       }
     },
     {
@@ -2914,7 +2963,8 @@
       "translations": {
         "lxx": "And the Lord spoke to Moses at the west of Moab by Jordan at Jericho, saying,",
         "kjv": "And the LORD spake unto Moses in the plains of Moab by Jordan near Jericho, saying,",
-        "ron": "Grăit-a Domnul cu Moise în şesurile Moabului, la Iordan, în faţa Ierihonului, şi a zis:"
+        "ron": "Grăit-a Domnul cu Moise în şesurile Moabului, la Iordan, în faţa Ierihonului, şi a zis:",
+        "grk": "Καὶ ἐλάλησε Κύριος πρὸ; Μωυσῆν ἐπὶ δυσμῶν Μωὰβ παρὰ τὸν Ἰορδάνην κατὰ Ἱεριχὼ, λέγων,"
       }
     },
     {
@@ -2981,7 +3031,8 @@
       "translations": {
         "lxx": "Speak to the children of Israel, and thou shalt say to them, Ye are to pass over Jordan into the land of Chanaan.",
         "kjv": "Speak unto the children of Israel, and say unto them, When ye are passed over Jordan into the land of Canaan;",
-        "ron": "\"Vorbeşte fiilor lui Israel şi le spune: Când veţi trece peste Iordan, în pământul Canaanului,"
+        "ron": "\"Vorbeşte fiilor lui Israel şi le spune: Când veţi trece peste Iordan, în pământul Canaanului,",
+        "grk": "λάλησον τοῖς υἱοῖς Ἰσραὴλ, καὶ ἐρεῖς πρὸς αὐτοὺς, ὑμεῖς διαβαίνετε τὸν Ἰορδάνην εἰς γῆν Χαναάν."
       }
     },
     {
@@ -3078,7 +3129,8 @@
       "translations": {
         "lxx": "And ye shall destroy all that dwell in the land before your face, and ye shall abolish their high places, and all their molten images ye shall destroy, and ye shall demolish all their pillars.",
         "kjv": "Then ye shall drive out all the inhabitants of the land from before you, and destroy all their pictures, and destroy all their molten images, and quite pluck down all their high places:",
-        "ron": "Să alungaţi de la voi pe toţi locuitorii ţării şi să stricaţi toate chipurile cele cioplite ale lor, toţi idolii lor cei turnaţi din argint şi toate înălţimile lor să le pustiiţi."
+        "ron": "Să alungaţi de la voi pe toţi locuitorii ţării şi să stricaţi toate chipurile cele cioplite ale lor, toţi idolii lor cei turnaţi din argint şi toate înălţimile lor să le pustiiţi.",
+        "grk": "Καὶ ἀπολεῖτε πάντας τοὺς κατοικοῦντας ἐν τῇ γῇ πρὸ προσώπου ὑμῶν, καὶ ἐξαρεῖτε τὰς σκοπιὰς αὐτῶν, καὶ πάντα τὰ εἴδωλα τὰ χωνευτὰ αὐτῶν ἀπολεῖτε αὐτὰ, καὶ πάσας τὰς στήλας αὐτῶν ἐξαρεῖτε."
       }
     },
     {
@@ -3155,7 +3207,8 @@
       "translations": {
         "lxx": "And ye shall destroy all the inhabitants of the land, and ye shall dwell in it, for I have given their land to you for an inheritance.",
         "kjv": "And ye shall dispossess the inhabitants of the land, and dwell therein: for I have given you the land to possess it.",
-        "ron": "Să luaţi în stăpânire pământul şi să vă aşezaţi acolo, căci vă dau în stăpânire pământul acesta."
+        "ron": "Să luaţi în stăpânire pământul şi să vă aşezaţi acolo, căci vă dau în stăpânire pământul acesta.",
+        "grk": "Καὶ ἀπολεῖτε πάντας τοὺς κατοικοῦντας τὴν γῆν, καὶ κατοικήσετε ἐν αὐτῇ, ὑμῖν γὰρ δέδωκα τὴν γῆν αὐτῶν ἐν κλήρῳ."
       }
     },
     {
@@ -3302,7 +3355,8 @@
       "translations": {
         "lxx": "And ye shall inherit their land according to your tribes; to the greater number ye shall give the larger possession, and to the smaller ye shall give the less possession; to whatsoever part a man's name shall go forth by lot, there shall be his property: ye shall inherit according to the tribes of your families.",
         "kjv": "And ye shall divide the land by lot for an inheritance among your families: and to the more ye shall give the more inheritance, and to the fewer ye shall give the less inheritance: every man’s inheritance shall be in the place where his lot falleth; according to the tribes of your fathers ye shall inherit.",
-        "ron": "Să împărţiţi pământul prin sorţi la seminţiile voastre: celor mai mulţi la număr să le daţi parte mai mare, iar celor mai puţini la număr să le daţi parte mai mică; fiecăruia unde-i va cădea sorţul, acolo să-i fie partea, după seminţiile părinţilor voştri."
+        "ron": "Să împărţiţi pământul prin sorţi la seminţiile voastre: celor mai mulţi la număr să le daţi parte mai mare, iar celor mai puţini la număr să le daţi parte mai mică; fiecăruia unde-i va cădea sorţul, acolo să-i fie partea, după seminţiile părinţilor voştri.",
+        "grk": "Καὶ κατακληρονομήσετε τὴν γῆν αὐτῶν ἐν κλήρῳ κατὰ φυλὰς ὑμῶν· τοῖς πλείοσι πληθυνεῖτε τὴν κατάσχεσιν αὐτῶν, καὶ τοῖς ἐλάττοσιν ἐλαττώσετε τὴν κατάσχεσιν αὐτῶν· εἰς ὃ ἂν ἐξέλθῃ τὸ ὄνομα αὐτοῦ, ἐκεῖ αὐτοῦ ἔσται· κατὰ φυλὰς πατριῶν ὑμῶν κληρονομήσετε."
       }
     },
     {
@@ -3429,7 +3483,8 @@
       "translations": {
         "lxx": "But if ye will not destroy the dwellers in the land from before you, then it shall come to pass that whomsoever of them ye shall leave shall be thorns in your eyes, and darts in your sides, and they shall be enemies to you on the land on which ye shall dwell;",
         "kjv": "But if ye will not drive out the inhabitants of the land from before you; then it shall come to pass, that those which ye let remain of them shall be pricks in your eyes, and thorns in your sides, and shall vex you in the land wherein ye dwell.",
-        "ron": "Iar dacă nu veţi alunga de la voi pe locuitorii pământului, atunci cei rămaşi din ei vor fi spini pentru ochii voştri şi bolduri pentru coastele voastre şi vă vor strâmtora în tara în care veţi trăi."
+        "ron": "Iar dacă nu veţi alunga de la voi pe locuitorii pământului, atunci cei rămaşi din ei vor fi spini pentru ochii voştri şi bolduri pentru coastele voastre şi vă vor strâmtora în tara în care veţi trăi.",
+        "grk": "Ἐὰν δὲ μὴ ἀπολέσητε τοὺς κατοικοῦντας ἐπὶ τῆς γῆς ἀπὸ προσώπου ὑμῶν, καὶ ἔσται οὓς ἐὰν καταλίπητε ἐξ αὐτῶν, σκόλοπες ἐν τοῖς ὀφθαλμοῖς ὑμῶν, καὶ βολίδες ἐν ταῖς πλευραῖς ὑμῶν, καὶ ἐχθρεύσουσιν ὑμῖν ἐπὶ τῆς γῆς, ἐφʼ ἣν ὑμεῖς κατοικήσετε."
       }
     },
     {
@@ -3476,7 +3531,8 @@
       "translations": {
         "lxx": "and it shall come to pass that as I had determined to do to them, so I will do to you.",
         "kjv": "Moreover it shall come to pass, that I shall do unto you, as I thought to do unto them.",
-        "ron": "şi atunci vă voi face vouă ceea ce aveam de gând să le fac lor\"."
+        "ron": "şi atunci vă voi face vouă ceea ce aveam de gând să le fac lor\".",
+        "grk": "Καὶ ἔσται καθότι διεγνώκειν ποιῆσαι αὐτοὺς, ποιήσω ὑμᾶς."
       }
     }
   ],

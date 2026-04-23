@@ -66,7 +66,8 @@
       "translations": {
         "lxx": "I would that thou, O my kinsman, wert he that sucked the breasts of my mother; when I found thee without, I would kiss thee; yea, they should not despise me.",
         "kjv": "O that thou wert as my brother, that sucked the breasts of my mother! when I should find thee without, I would kiss thee; yea, I should not be despised.",
-        "ron": "O, de mi-ai fi fost tu fratele meu şi să fi supt la sinul mamei mele, atunci pe uliţă de te-ntâlneam, cu drag, prelung te sărutam şi nimeni nu-ndrăznea osândei să mă dea."
+        "ron": "O, de mi-ai fi fost tu fratele meu şi să fi supt la sinul mamei mele, atunci pe uliţă de te-ntâlneam, cu drag, prelung te sărutam şi nimeni nu-ndrăznea osândei să mă dea.",
+        "grk": "Τίς δῴη σε, ἀδελφιδέ μου, θηλάζοντα μαστοὺς μητρός μου; εὑροῦσά σε ἔξω φιλήσω σε, καί γε οὐκ ἐξουδενώσουσί μοι."
       }
     },
     {
@@ -148,7 +149,8 @@
       "translations": {
         "lxx": "I would take thee, I would bring thee into my mother's house, and into the chamber of her that conceived me; I would make thee to drink of spiced wine, of the juice of my pomegranates.",
         "kjv": "I would lead thee, and bring thee into my mother’s house, who would instruct me: I would cause thee to drink of spiced wine of the juice of my pomegranate.",
-        "ron": "Te-aş fi luat şi-n casa mamei te-aş fi dus, în casa celei ce m-a născut; tu graiuri dulci mi-ai fi spus şi eu cu drag ţi-aş fi dat vin bun şi must de rodii."
+        "ron": "Te-aş fi luat şi-n casa mamei te-aş fi dus, în casa celei ce m-a născut; tu graiuri dulci mi-ai fi spus şi eu cu drag ţi-aş fi dat vin bun şi must de rodii.",
+        "grk": "Παραλήψομαί σε, εἰσάξω σε εἰς οἶκον μητρός μου καὶ εἰς ταμεῖον τῆς συλλαβούσης με· ποτιῶ σε ἀπὸ οἴνου τοῦ μυρεψικοῦ, ἀπὸ νάματος ῥοῶν μου."
       }
     },
     {
@@ -185,7 +187,8 @@
       "translations": {
         "lxx": "His left hand should be under my head, and his right hand should embrace me.",
         "kjv": "His left hand should be under my head, and his right hand should embrace me.",
-        "ron": "Stânga sa este sub capul meu şi cu dreapta-i mă cuprinde."
+        "ron": "Stânga sa este sub capul meu şi cu dreapta-i mă cuprinde.",
+        "grk": "Εὐώνυμος αὐτοῦ ὑπὸ τὴν κεφαλήν μου, καὶ ἡ δεξιὰ αὐτοῦ περιλήψεταί με."
       }
     },
     {
@@ -272,7 +275,8 @@
       "translations": {
         "lxx": "I have charged you, ye daughters of Jerusalem, by the virtues of the field, that ye stir not up, nor awake my love, until he please.",
         "kjv": "I charge you, O daughters of Jerusalem, that ye stir not up, nor awake my love, until he please.",
-        "ron": "Fete din Ierusalim, vă jur pe cerboaicele şi gazele din câmp, nu treziţi pe draga mea până nu-i va fi ei voia!"
+        "ron": "Fete din Ierusalim, vă jur pe cerboaicele şi gazele din câmp, nu treziţi pe draga mea până nu-i va fi ei voia!",
+        "grk": "Ὥρκισα ὑμᾶς θυγατέρες Ἱερουσαλὴμ ἐν ταῖς ἰσχύσεσι τοῦ ἀγροῦ· ἐὰν ἐγείρητε καὶ ἐὰν ἐξεγείρητε τὴν ἀγάπην ἕως ἂν θελήσῃ."
       }
     },
     {
@@ -399,7 +403,8 @@
       "translations": {
         "lxx": "Who is this that comes up all white, leaning on her kinsman? I raised thee up under an apple-tree; there thy mother brought thee forth; there she that bore thee brought thee forth.",
         "kjv": "Who is this that cometh up from the wilderness, leaning upon her beloved? I raised thee up under the apple tree: there thy mother brought thee forth: there she brought thee forth that bare thee.",
-        "ron": "Cine se înalţă din pustiu, sprijinită de-al său drag? Sub mărul acesta am trezit iubirea ta, aici unde te-a născut şi ţi-a dat lumina zilei mama ta."
+        "ron": "Cine se înalţă din pustiu, sprijinită de-al său drag? Sub mărul acesta am trezit iubirea ta, aici unde te-a născut şi ţi-a dat lumina zilei mama ta.",
+        "grk": "Τίς αὕτη ἡ ἀναβαίνουσα λελευκανθισμένη, ἐπιστηριζομένη ἐπὶ τὸν ἀδελφιδὸν αὐτῆς; Ὑπὸ μῆλον ἐξήγειρά σε· ἐκεῖ ὠδίνησέ σε ἡ μήτηρ σου, ἐκεῖ ὠδίνησέ σε ἡ τεκοῦσά σε."
       }
     },
     {
@@ -476,7 +481,8 @@
       "translations": {
         "lxx": "Set me as a seal upon thy heart, as a seal upon thine arm; for love is strong as death; jealousy is cruel as the grave, her shafts are shafts of fire, even the flames thereof.",
         "kjv": "Set me as a seal upon thine heart, as a seal upon thine arm: for love is strong as death; jealousy is cruel as the grave: the coals thereof are coals of fire, which hath a most vehement flame.",
-        "ron": "Ca pecete pe sânul tău mă poartă, poartă-mă pe mâna ta ca pe o brăţară! Că iubirea ca moartea e de tare şi ca iadul de grozavă este gelozia. Săgeţile ei sunt săgeţi de foc şi flacăra ei ca fulgerul din cer."
+        "ron": "Ca pecete pe sânul tău mă poartă, poartă-mă pe mâna ta ca pe o brăţară! Că iubirea ca moartea e de tare şi ca iadul de grozavă este gelozia. Săgeţile ei sunt săgeţi de foc şi flacăra ei ca fulgerul din cer.",
+        "grk": "Θές με ὡς σφραγίδα ἐπὶ τὴν καρδίαν σου, ὡς σφραγίδα ἐπὶ τὸν βραχίονά σου· ὅτι κραταιὰ ὡς θάνατος ἀγάπη, σκληρὸς ὡς ᾅδης ζῆλος· περίπτερα αὐτῆς περίπτερα πυρὸς, φλόγες αὐτῆς."
       }
     },
     {
@@ -588,7 +594,8 @@
       "translations": {
         "lxx": "Much water will not be able to quench love, and rivers shall not drown it; if a man would give all his substance for love, men would utterly despise it.",
         "kjv": "Many waters cannot quench love, neither can the floods drown it: if a man would give all the substance of his house for love, it would utterly be contemned.",
-        "ron": "Marea nu poate stinge dragostea, nici râurile s-o potolească; de-ar da cineva pentru iubire toate comorile casei sale, cu dispreţ ar fi respins acela."
+        "ron": "Marea nu poate stinge dragostea, nici râurile s-o potolească; de-ar da cineva pentru iubire toate comorile casei sale, cu dispreţ ar fi respins acela.",
+        "grk": "Ὕδωρ πολὺ οὐ δυνήσεται σβέσαι τὴν ἀγάπην, καὶ ποταμοὶ οὐ συνκλύσουσιν αὐτήν· ἐὰν δῷ ἀνὴρ πάντα τὸν βίον αὐτοῦ ἐν τῇ ἀγάπῃ, ἐξουδενώσει ἐξουδενώσουσιν αὐτόν."
       }
     },
     {
@@ -665,7 +672,8 @@
       "translations": {
         "lxx": "Our sister is little, and has no breasts; what shall we do for our sister, in the day wherein she shall be spoken for?",
         "kjv": "We have a little sister, and she hath no breasts: what shall we do for our sister in the day when she shall be spoken for?",
-        "ron": "Avem o mică surioară, care sâni nu are încă. Ce-am face cu sora noastră, când ea ar fi peţită?"
+        "ron": "Avem o mică surioară, care sâni nu are încă. Ce-am face cu sora noastră, când ea ar fi peţită?",
+        "grk": "Ἀδελφή ἡμῶν μικρὰ καὶ μαστοὺς οὐκ ἔχει· τί ποιήσωμεν τῇ ἀδελφῇ ἡμῶν, ἐν ἡμέρᾳ ᾗ ἐὰν λαληθῇ ἐν αὐτῇ;"
       }
     },
     {
@@ -752,7 +760,8 @@
       "translations": {
         "lxx": "If she is a wall, let us build upon her silver bulwarks; and if she is a door, let us carve for her cedar panels.",
         "kjv": "If she be a wall, we will build upon her a palace of silver: and if she be a door, we will inclose her with boards of cedar.",
-        "ron": "Zid de piatră de-ar fi ea, coroană de argint i-am face; iar uşă dac-ar fi, cu lemn de cedru am căptuşi-o."
+        "ron": "Zid de piatră de-ar fi ea, coroană de argint i-am face; iar uşă dac-ar fi, cu lemn de cedru am căptuşi-o.",
+        "grk": "Εἰ τεῖχός ἐστιν, οἰκοδομήσωμεν ἐπʼ αὐτὴν ἐπάλξεις ἀργυρᾶς· καὶ εἰ θύρα ἐστὶ, διαγράψωμεν ἐπʼ αὐτὴν σανίδα κεδρίνην."
       }
     },
     {
@@ -824,7 +833,8 @@
       "translations": {
         "lxx": "I am a wall, and my breasts are as towers; I was in their eyes as one that found peace.",
         "kjv": "I am a wall, and my breasts like towers: then was I in his eyes as one that found favour.",
-        "ron": "Zid sunt eu acum şi sânii mei sunt turnuri; drept aceea în ochii lui eu am aflat pacea."
+        "ron": "Zid sunt eu acum şi sânii mei sunt turnuri; drept aceea în ochii lui eu am aflat pacea.",
+        "grk": "Ἐγὼ τεῖχος, καὶ μαστοί μου ὡς πύργοι ἐγὼ ἤμην ἐν ὀφθαλμοῖς αὐτῶν ὡς εὑρίσκουσα εἰρήνην."
       }
     },
     {
@@ -931,7 +941,8 @@
       "translations": {
         "lxx": "Solomon had a vineyard in Beelamon; he let his vineyard to keepers; every one was to bring for its fruit a thousand pieces of silver.",
         "kjv": "Solomon had a vineyard at Baalhamon; he let out the vineyard unto keepers; every one for the fruit thereof was to bring a thousand pieces of silver.",
-        "ron": "Solomon avea o vie pe coasta Baal-Hamon; el a dat via lucrătorilor, s-o lucreze şi să-i dea fiecare la rod o mie de sicli de argint."
+        "ron": "Solomon avea o vie pe coasta Baal-Hamon; el a dat via lucrătorilor, s-o lucreze şi să-i dea fiecare la rod o mie de sicli de argint.",
+        "grk": "Ἀμπελὼν ἐγενήθη τῷ Σαλωμὼν ἐν Βεεθλαμών· ἔδωκε τὸν ἀμπελῶνα αὐτοῦ τοῖς τηροῦσιν· ἀνὴρ οἴσει ἐν καρπῷ αὐτοῦ χιλίους ἀργυρίου."
       }
     },
     {
@@ -993,7 +1004,8 @@
       "translations": {
         "lxx": "My vineyard, even mine, is before me; Solomon shall have a thousand, and they that keep its fruit two hundred.",
         "kjv": "My vineyard, which is mine, is before me: thou, O Solomon, must have a thousand, and those that keep the fruit thereof two hundred.",
-        "ron": "Via mea este la mine acasă; mia de sicli să fie a ta, Solomoane, şi două sute numai pentru cei ce păzesc roadele ei!"
+        "ron": "Via mea este la mine acasă; mia de sicli să fie a ta, Solomoane, şi două sute numai pentru cei ce păzesc roadele ei!",
+        "grk": "Ἀμπελών μου ἐμὸς ἐνώπιόν μου, οἱ χίλιοι Σαλωμὼν, καὶ οἱ διακόσιοι τοῖς τηροῦσι τὸν καρπὸν αὐτοῦ."
       }
     },
     {
@@ -1085,7 +1097,8 @@
       "translations": {
         "lxx": "Thou that dwellest in the gardens, the companions hearken to thy voice: make me hear it.",
         "kjv": "Thou that dwellest in the gardens, the companions hearken to thy voice: cause me to hear it.",
-        "ron": "O, tu, ce în grădini sălăşluieşti, prietenii vor să-ţi asculte glasul; fă-mă să-l aud şi eu cu ei!"
+        "ron": "O, tu, ce în grădini sălăşluieşti, prietenii vor să-ţi asculte glasul; fă-mă să-l aud şi eu cu ei!",
+        "grk": "Ὁ καθήμενος ἐν κήποις, ἑταῖροι προσέχοντες τῇ φωνῇ σου, ἀκούτισόν με."
       }
     },
     {
@@ -1182,7 +1195,8 @@
       "translations": {
         "lxx": "Away, my kinsman, and be like a doe or a fawn on the mountains of spices.",
         "kjv": "Make haste, my beloved, and be thou like to a roe or to a young hart upon the mountains of spices.",
-        "ron": "Fugi degrab, iubitul meu, sprinten ca o căprioară fii, fii ca puiul cel de cerb, peste munţii cei îmbălsămaţi!"
+        "ron": "Fugi degrab, iubitul meu, sprinten ca o căprioară fii, fii ca puiul cel de cerb, peste munţii cei îmbălsămaţi!",
+        "grk": "Φύγε ἀδελφιδέ μου, καὶ ὁμοιώθητι τῇ δορκάδι, ἢ τῷ νεβρῷ τῶν ἐλάφων ἐπὶ ὄρη τῶν ἀρωμάτων."
       }
     },
     {

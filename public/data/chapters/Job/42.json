@@ -31,7 +31,8 @@
       "translations": {
         "lxx": "Then Job answered and said to the Lord,",
         "kjv": "Then Job answered the LORD, and said,",
-        "ron": "Şi Iov a răspuns Domnului zicând:"
+        "ron": "Şi Iov a răspuns Domnului zicând:",
+        "grk": "Ὑπολαβὼν δὲ Ἰὼβ, λέγει τῷ Κυρίῳ,"
       }
     },
     {
@@ -88,7 +89,8 @@
       "translations": {
         "lxx": "I know that thou canst do all things, and nothing is impossible with thee.",
         "kjv": "I know that thou canst do every thing, and that no thought can be withholden from thee.",
-        "ron": "\"Ştiu că poţi să faci orice şi că nu este nici un gând care să nu ajungă pentru Tine faptă."
+        "ron": "\"Ştiu că poţi să faci orice şi că nu este nici un gând care să nu ajungă pentru Tine faptă.",
+        "grk": "Οἶδα ὅτι πάντα δύνασαι, ἀδυνατεῖ δέ σοι οὐδέν."
       }
     },
     {
@@ -185,7 +187,8 @@
       "translations": {
         "lxx": "For who is he that hides counsel from thee? or who keeps back his words, and thinks to hide them from thee? and who will tell me what I knew not, great and wonderful things which I understood not?",
         "kjv": "Who is he that hideth counsel without knowledge? therefore have I uttered that I understood not; things too wonderful for me, which I knew not.",
-        "ron": "Cine cutează, ai zis Tu, să bârfească planurile Mele, din lipsă de înţelepciune? Cu adevărat, am vorbit fără să înţeleg despre lucruri prea minunate pentru mine şi nu ştiam."
+        "ron": "Cine cutează, ai zis Tu, să bârfească planurile Mele, din lipsă de înţelepciune? Cu adevărat, am vorbit fără să înţeleg despre lucruri prea minunate pentru mine şi nu ştiam.",
+        "grk": "Τίς γάρ ἐστιν ὁ κρύπτων σε βουλήν; φειδόμενος δὲ ῥημάτων, καὶ σὲ οἴεται κρύπτειν; τίς δὲ ἀναγγελεῖ μοι ἃ οὐκ ᾔδειν, μεγάλα καὶ θαυμαστὰ ἃ οὐκ ἐπιστάμην;"
       }
     },
     {
@@ -232,7 +235,8 @@
       "translations": {
         "lxx": "But hear me, O Lord, that I also may speak: and I will ask thee, and do thou teach me.",
         "kjv": "Hear, I beseech thee, and I will speak: I will demand of thee, and declare thou unto me.",
-        "ron": "Ascultă - ai spus Tu iar - şi Eu voi vorbi, te voi întreba şi tu Îmi vei da lămuriri."
+        "ron": "Ascultă - ai spus Tu iar - şi Eu voi vorbi, te voi întreba şi tu Îmi vei da lămuriri.",
+        "grk": "Ἄκουσον δέ μου Κύριε, ἵνα κᾀγὼ λαλήσω· ἐρωτήσω δέ σε, σὺ δέ με δίδαξον."
       }
     },
     {
@@ -279,7 +283,8 @@
       "translations": {
         "lxx": "I have heard the report of thee by the ear before; but now mine eye has seen thee.",
         "kjv": "I have heard of thee by the hearing of the ear: but now mine eye seeth thee.",
-        "ron": "Din spusele unora şi altora auzisem despre Tine, dar acum ochiul meu Te-a văzut."
+        "ron": "Din spusele unora şi altora auzisem despre Tine, dar acum ochiul meu Te-a văzut.",
+        "grk": "Ἀκοὴν μὲν ὠτὸς ἤκουόν σου τὸ πρότερον, νυνὶ δὲ ὁ ὀφθαλμός μου ἑώρακέ σε."
       }
     },
     {
@@ -336,7 +341,8 @@
       "translations": {
         "lxx": "Wherefore I have counted myself vile, and have fainted: and I esteem myself dust and ashes.",
         "kjv": "Wherefore I abhor myself, and repent in dust and ashes.",
-        "ron": "Pentru aceea, mă urgisesc eu pe mine însumi şi mă pocăiesc în praf şi în cenuşă\"."
+        "ron": "Pentru aceea, mă urgisesc eu pe mine însumi şi mă pocăiesc în praf şi în cenuşă\".",
+        "grk": "Διὸ ἐφαύλισα ἐμαυτὸν, καὶ ἐτάκην· ἥγημαι δὲ ἐμαυτὸν γῆν καὶ σποδόν."
       }
     },
     {
@@ -458,7 +464,8 @@
       "translations": {
         "lxx": "And it came to pass after the Lord had spoken all these words to Job, that the Lord said to Eliphaz the Thæmanite, Thou hast sinned, and thy two friends: for ye have not said anything true before me, as my servant Job has.",
         "kjv": "And it was so, that after the LORD had spoken these words unto Job, the LORD said to Eliphaz the Temanite, My wrath is kindled against thee, and against thy two friends: for ye have not spoken of me the thing that is right, as my servant Job hath.",
-        "ron": "Iar după ce Domnul a rostit aceste cuvinte către Iov, a grăit către Elifaz din Teman: \"Mânia Mea arde împotriva ta şi împotriva celor doi prieteni ai tăi, pentru că n-aţi vorbit de Mine aşa de drept, precum a vorbit robul Meu Iov."
+        "ron": "Iar după ce Domnul a rostit aceste cuvinte către Iov, a grăit către Elifaz din Teman: \"Mânia Mea arde împotriva ta şi împotriva celor doi prieteni ai tăi, pentru că n-aţi vorbit de Mine aşa de drept, precum a vorbit robul Meu Iov.",
+        "grk": "Ἐγένετο δὲ μετὰ τὸ λαλῆσαι τὸν Κύριον πάντα τὰ ῥήματα ταῦτα τῷ Ἰώβ, εἶπεν ὁ Κύριος Ἐλὺιφὰς τῷ Θαιμανὺίτῃ, ἥμαρτες σὺ, καὶ οἱ δὺο φίλοι σου· οὐ γὰρ ἐλαλήσατε ἐνώπιόν μου ἀληθὲς οὐδὲν, ὥσπερ ὁ θεράπων μου Ἰώβ."
       }
     },
     {
@@ -610,7 +617,8 @@
       "translations": {
         "lxx": "Now then take seven bullocks, and seven rams, and go to my servant Job, and he shall offer a burnt-offering for you. And my servant Job shall pray for you, for I will only accept him: for but for his sake, I would have destroyed you, for ye have not spoken the truth against my servant Job.",
         "kjv": "Therefore take unto you now seven bullocks and seven rams, and go to my servant Job, and offer up for yourselves a burnt offering; and my servant Job shall pray for you: for him will I accept: lest I deal with you after your folly, in that ye have not spoken of me the thing which is right, like my servant Job.",
-        "ron": "Acum deci luaţi şapte viţei şi şapte berbeci şi duceţi-vă la robul Meu Iov şi aduceţi-le, pentru voi, ardere de tot; iar robul Meu Iov să se roage pentru voi; din dragoste pentru el, voi fi îngăduitor, ca să nu Mă port cu voi după nebunia voastră, întrucât n-aţi vorbit despre Mine aşa de drept cum a vorbit robul Meu Iov\"."
+        "ron": "Acum deci luaţi şapte viţei şi şapte berbeci şi duceţi-vă la robul Meu Iov şi aduceţi-le, pentru voi, ardere de tot; iar robul Meu Iov să se roage pentru voi; din dragoste pentru el, voi fi îngăduitor, ca să nu Mă port cu voi după nebunia voastră, întrucât n-aţi vorbit despre Mine aşa de drept cum a vorbit robul Meu Iov\".",
+        "grk": "Νῦν δὲ λάβετε ἑπτὰ μόσχους, καὶ ἑπτὰ κριοὺς, καὶ πορεύθητε πρὸς τὸν θεράποντά μου Ἰὼβ, καὶ ποιήσει κάρπωσιν ὑπὲρ ὑμῶν. Ἰὼβ δὲ ὁ θεράπων μου εὔξεται περὶ ὑμῶν, ὅτι εἰ μὴ πρόσωπον αὐτοῦ λήψομαι· εἰ μὴ γὰρ διʼ αὐτὸν, ἀπώλεσα ἂν ὑμᾶς· οὐ γὰρ ἐλαλήσατε ἀληθὲς κατὰ τοῦ θεράποντός μου Ἰώβ."
       }
     },
     {
@@ -707,7 +715,8 @@
       "translations": {
         "lxx": "So Eliphaz the Thæmanite, and Baldad the Sauchite, and Sophar the Minæan, went and did as the Lord commanded them: and he pardoned their sin for the sake of Job.",
         "kjv": "So Eliphaz the Temanite and Bildad the Shuhite and Zophar the Naamathite went, and did according as the LORD commanded them: the LORD also accepted Job.",
-        "ron": "Astfel Elifaz din Teman, Bildad din Şuah şi Ţofar din Naamat, s-au dus şi au făcut cum le spusese Domnul, şi Domnul a primit rugăciunea lui Iov."
+        "ron": "Astfel Elifaz din Teman, Bildad din Şuah şi Ţofar din Naamat, s-au dus şi au făcut cum le spusese Domnul, şi Domnul a primit rugăciunea lui Iov.",
+        "grk": "Ἐπορεύθη δὲ Ἐλιφὰζ ὁ Θαιμανίτης, καὶ Βαλδὰδ ὁ Σαυχίτης, καὶ Σωφὰρ ὁ Μιναῖος, καὶ ἐποίησαν καθὼς συνέταξεν αὐτοῖς ὁ Κύριος· καὶ ἔλυσε τὴν ἁμαρτίαν αὐτοῖς διὰ Ἰὼβ."
       }
     },
     {
@@ -819,7 +828,8 @@
       "translations": {
         "lxx": "And the Lord prospered Job: and when he prayed also for his friends, he forgave them their sin: and the Lord gave Job twice as much, even the double of what he had before.",
         "kjv": "And the LORD turned the captivity of Job, when he prayed for his friends: also the LORD gave Job twice as much as he had before.",
-        "ron": "Şi Domnul l-a pus pe Iov iarăşi în starea lui de la început, după ce s-a rugat pentru prieteni, şi i-a întors îndoit tot ce avusese mai înainte."
+        "ron": "Şi Domnul l-a pus pe Iov iarăşi în starea lui de la început, după ce s-a rugat pentru prieteni, şi i-a întors îndoit tot ce avusese mai înainte.",
+        "grk": "Ὁ δὲ Κύριος ηὔξησε τὸν Ἰώβ· εὐξαμένου δὲ αὐτοῦ καὶ περὶ τῶν φίλων αὐτοῦ, ἀφῆκεν αὐτοῖς τὴν ἁμαρτίαν· ἔδωκε δὲ ὁ Κύριος διπλᾶ, ὅσα ἦν ἔμπροσθεν Ἰὼβ εἰς διπλασιασμόν."
       }
     },
     {
@@ -981,7 +991,8 @@
       "translations": {
         "lxx": "And all his brethren and his sisters heard all that had happened to him, and they came to him, and so did all that had known him from the first: and they ate and drank with him, and comforted him, and wondered at all that the Lord had brought upon him: and each one gave him a lamb, and four drachms' weight of gold, even of unstamped gold.",
         "kjv": "Then came there unto him all his brethren, and all his sisters, and all they that had been of his acquaintance before, and did eat bread with him in his house: and they bemoaned him, and comforted him over all the evil that the LORD had brought upon him: every man also gave him a piece of money, and every one an earring of gold.",
-        "ron": "Şi toţi fraţii şi toate surorile şi toţi prietenii lui de altă dată au venit să-l cerceteze, au mâncat pâine în casa lui, l-au compătimit, l-au mângâiat de toate nenorocirile pe care le slobozise Domnul asupra lui şi fiecare i-a dat câte un chesita şi câte un inel de aur."
+        "ron": "Şi toţi fraţii şi toate surorile şi toţi prietenii lui de altă dată au venit să-l cerceteze, au mâncat pâine în casa lui, l-au compătimit, l-au mângâiat de toate nenorocirile pe care le slobozise Domnul asupra lui şi fiecare i-a dat câte un chesita şi câte un inel de aur.",
+        "grk": "Ἤκουσαν δὲ πάντες οἱ ἀδελφοὶ αὐτοῦ καὶ αἱ ἀδελφαὶ αὐτοῦ πάντα τὰ συμβεβηκότα αὐτῷ, καὶ ἦλθον πρὸς αὐτὸν, καὶ πάντες ὅσοι ᾔδεισαν αὐτὸν ἐκ πρώτου· φαγόντες δὲ καὶ πιόντες παρʼ αὐτῷ παρεκάλεσαν αὐτὸν, καὶ ἐθαύμασαν ἐπὶ πᾶσιν οἷς ἐπήγαγεν ἐπʼ αὐτῷ ὁ Κύριος· ἔδωκε δὲ αὐτῷ ἕκαστος ἀμνάδα μίαν, καὶ τετράδραχμον χρυσοῦ καὶ ἀσήμου."
       }
     },
     {
@@ -1108,7 +1119,8 @@
       "translations": {
         "lxx": "And the Lord blessed the latter end of Job, more than the beginning: and his cattle were fourteen thousand sheep, six thousand camels, a thousand yoke of oxen, a thousand she-asses of the pastures.",
         "kjv": "So the LORD blessed the latter end of Job more than his beginning: for he had fourteen thousand sheep, and six thousand camels, and a thousand yoke of oxen, and a thousand she asses.",
-        "ron": "Şi Dumnezeu a binecuvântat sfârşitul vieţii lui Iov mai bogat decât începutul ei, şi el a strâns paisprezece mii de oi, şase mii de cămile, o mie de perechi de boi şi o mie de asine."
+        "ron": "Şi Dumnezeu a binecuvântat sfârşitul vieţii lui Iov mai bogat decât începutul ei, şi el a strâns paisprezece mii de oi, şase mii de cămile, o mie de perechi de boi şi o mie de asine.",
+        "grk": "Ὁ δὲ Κύριος εὐλόγησε τὰ ἔσχατα Ἰὼβ, ἢ τὰ ἔμπροσθεν· ἦν δὲ τὰ κτήνη αὐτοῦ, πρόβατα μύρια τετρακισχίλια, κάμηλοι ἑξακισχίλιαι, ζεύγη βοῶν χίλια, ὄνοι θήλειαι νομάδες χίλιαι."
       }
     },
     {
@@ -1150,7 +1162,8 @@
       "translations": {
         "lxx": "And there were born to him seven sons and three daughters.",
         "kjv": "He had also seven sons and three daughters.",
-        "ron": "Şi a avut şapte fii şi trei fiice."
+        "ron": "Şi a avut şapte fii şi trei fiice.",
+        "grk": "Γεννῶνται δὲ αὐτῷ υἱοὶ ἑπτὰ, καὶ θυγατέρες τρεῖς."
       }
     },
     {
@@ -1202,7 +1215,8 @@
       "translations": {
         "lxx": "And he called the first, Day, and the second, Casia, and the third, Amalthæa's horn.",
         "kjv": "And he called the name of the first, Jemima; and the name of the second, Kezia; and the name of the third, Kerenhappuch.",
-        "ron": "Celei dintâi i-a pus numele Iemima, celei de a doua, Cheţia şi celei de a treia, Cheren-Hapuc."
+        "ron": "Celei dintâi i-a pus numele Iemima, celei de a doua, Cheţia şi celei de a treia, Cheren-Hapuc.",
+        "grk": "Καὶ ἐκάλεσε τὴν μὲν πρώτην, Ἡμέραν· τὴν δὲ δευτέραν, Κασίαν· τὴν δὲ τρίτην, Ἀμαλθαίας κέρας."
       }
     },
     {
@@ -1274,7 +1288,8 @@
       "translations": {
         "lxx": "And there were not found in comparison with the daughters of Job, fairer women than they in all the world: and their father gave them an inheritance among their brethren.",
         "kjv": "And in all the land were no women found so fair as the daughters of Job: and their father gave them inheritance among their brethren.",
-        "ron": "Iar în toată ţara nu se găseau femei atât de frumoase ca fetele lui Iov, şi tatăl lor le-a făcut părtaşe la moştenire, lângă fraţii lor."
+        "ron": "Iar în toată ţara nu se găseau femei atât de frumoase ca fetele lui Iov, şi tatăl lor le-a făcut părtaşe la moştenire, lângă fraţii lor.",
+        "grk": "Καὶ οὐχ εὑρέθησαν κατὰ τὰς θυγατέρας Ἰὼβ, βελτίους αὐτῶν ἐν τῇ ὑπʼ οὐρανόν· ἔδωκε δὲ αὐταῖς ὁ πατὴρ κληρονομίαν ἐν τοῖς ἀδελφοῖς."
       }
     },
     {
@@ -1391,7 +1406,8 @@
       "translations": {
         "lxx": "And Job lived after his affliction a hundred and seventy years: and all the years he lived were two hundred and forty: and Job saw his sons and his sons' sons, the fourth generation.",
         "kjv": "After this lived Job an hundred and forty years, and saw his sons, and his sons’ sons, even four generations.",
-        "ron": "Şi Iov a mai trăit după aceea o sută patruzeci de ani şi a văzut pe fiii săi şi pe fiii fiilor săi, până la al patrulea neam."
+        "ron": "Şi Iov a mai trăit după aceea o sută patruzeci de ani şi a văzut pe fiii săi şi pe fiii fiilor săi, până la al patrulea neam.",
+        "grk": "Ἔζησε δὲ Ἰὼβ μετὰ τὴν πληγὴν ἔτη ἑκατὸν ἑβδομήκοντα· τὰ δὲ πάντα ἔτη ἔζησε, διακόσια τεσσράκοντα· καὶ Σἴδεν Ἰὼβ τοὺς υἱοὺς αὐτοῦ, καὶ τοὺς υἱοὺς τῶν υἱῶν αὐτοῦ, τετάρτην γενεάν."
       }
     },
     {
@@ -1428,7 +1444,8 @@
       "translations": {
         "lxx": "And his friends who came to him were Eliphaz, of the children of Esau, king of the Thæmanites, Baldad sovereign of the Sauchæans, Sophar king of the Minæans.",
         "kjv": "So Job died, being old and full of days.",
-        "ron": "Şi Iov a murit bătrân şi încărcat de zile."
+        "ron": "Şi Iov a murit bătrân şi încărcat de zile.",
+        "grk": "Καὶ ἐτελεύτησεν Ἰὼβ πρεσβύτερος, καὶ πλήρης ἡμερῶν· γέγραπται δὲ, αὐτὸν πάλιν ἀναστήσεσθαι μεθʼ ὧν ὁ Κύριος ἀνίστησιν. Οὗτος ἑρμηνεύεται ἐκ τῆς Συριακῆς βίβλου, ἐν μὲν γῇ κατοικῶν τῇ Αὐσίτιδι, ἐπὶ τοῖς ὁρίοις τῆς Ἰδουμαίας καὶ Ἀραβίας· προϋπῆρχε δὲ αὐτῷ ὄνομα Ἰωβάβ· λαβὼν δὲ γυναῖκα Ἀράβισσαν, γεννᾷ υἱὸν, ᾧ ὄνομα Ἐννών· ἦν δὲ αὐτὸς πατρὸς μὲν Ζαρὲ ἐκ τῶν Ἡσαῦ υἱῶν υἱὸς, μητρὸς δὲ Βοσόῤῥας, ὥστε εἶναι αὐτὸν πέμπτον ἀπὸ Ἁβραάμ· καὶ οὗτοι οἱ βασιλεῖς οἱ βασιλεύσαντες ἐν Ἐδὼμ, ἧς καὶ αὐτὸς ἦρξε χώρας· πρῶτος Βαλὰκ ὁ τοῦ Βεὼρ, καὶ ὄνομα τῇ πόλει αὐτοῦ Δενναβά· μετὰ δὲ Βαλὰκ, Ἰωβὰβ ὁ καλούμενος Ἰώβ· μετὰ δὲ τοῦτον, Ἀσὼμ ὁ ὑπάρχων ἡγεμὼν ἐκ τῆς Θαιμανίτιδος χώρας· μετὰ δὲ τοῦτον, Ἀδὰδ υἱὸς Βαρὰδ, ὁ ἐκκόψας Μαδιὰμ ἐν τῷ πεδίῳ Μωὰβ, καὶ ὄνομα τῇ πόλει αὐτοῦ Γεθαίμ· οἱ δὲ ἐλθόντες πρὸς αὐτὸν φίλοι, Ἐλιφὰς τῶν Ἡσαῦ υἱῶν Θαιμανῶν βασιλεὺς, Βαλδὰδ ὁ Σαυχαίων τύραννος, Σωφὰρ ὁ Μιναίων βασιλεύς."
       }
     },
     {

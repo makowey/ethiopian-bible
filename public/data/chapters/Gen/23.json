@@ -31,7 +31,8 @@
       "translations": {
         "lxx": "And the life of Sarrha was an hundred and twenty-seven years.",
         "kjv": "And Sarah was an hundred and seven and twenty years old: these were the years of the life of Sarah.",
-        "ron": "Sarra a trăit o sută douăzeci şi şapte de ani. Aceştia sunt anii vieţii Sarrei."
+        "ron": "Sarra a trăit o sută douăzeci şi şapte de ani. Aceştia sunt anii vieţii Sarrei.",
+        "grk": "Ἐγένετο δὲ ἡ ζωὴ Σάῤῥας, ἔτη ἑκατὸν εἰκοσιεπτά."
       }
     },
     {
@@ -143,7 +144,8 @@
       "translations": {
         "lxx": "And Sarrha died in the city of Arboc, which is in the valley, this is Chebron in the land of Chanaan; and Abraam came to lament for Sarrha and to mourn.",
         "kjv": "And Sarah died in Kirjatharba; the same is Hebron in the land of Canaan: and Abraham came to mourn for Sarah, and to weep for her.",
-        "ron": "Sarra a murit la Chiriat-Arba care e în vale, adică în Hebronul de astăzi, în ţara Canaanului. Şi a venit Avraam să plângă şi să jelească pe Sarra."
+        "ron": "Sarra a murit la Chiriat-Arba care e în vale, adică în Hebronul de astăzi, în ţara Canaanului. Şi a venit Avraam să plângă şi să jelească pe Sarra.",
+        "grk": "Καὶ ἀπέθανε Σάῤῥα ἐν πόλει Ἀρβὸκ, ἥ ἐστιν ἐν τῷ κοιλώματι· αὕτη ἔστι Χεβρὼν ἐν τῇ γῇ Χαναάν ἦλθε δὲ Ἁβραὰμ κόψασθαι Σάῤῥαν, καὶ πενθῆσαι."
       }
     },
     {
@@ -190,7 +192,8 @@
       "translations": {
         "lxx": "And Abraam stood up from before his dead; and Abraam spoke to the sons of Chet, saying,",
         "kjv": "And Abraham stood up from before his dead, and spake unto the sons of Heth, saying,",
-        "ron": "Apoi s-a dus Avraam de la moarta sa, a grăit cu fiii lui Het şi a zis:"
+        "ron": "Apoi s-a dus Avraam de la moarta sa, a grăit cu fiii lui Het şi a zis:",
+        "grk": "Καὶ ἀνέστη Ἁβραὰμ ἀπὸ τοῦ νεκροῦ αὐτοῦ· καὶ εἶπεν Ἁβραὰμ τοῖς υἱοῖς τοῦ Χὲτ, λέγων,"
       }
     },
     {
@@ -262,7 +265,8 @@
       "translations": {
         "lxx": "I am a sojourner and a stranger among you, give me therefore possession of a burying-place among you, and I will bury my dead away from me.",
         "kjv": "I am a stranger and a sojourner with you: give me a possession of a buryingplace with you, that I may bury my dead out of my sight.",
-        "ron": "\"Eu sunt intre voi străin şi pribeag; daţi-mi dar în stăpânire un loc de mormânt la voi, ca să îngrop pe moarta mea\"."
+        "ron": "\"Eu sunt intre voi străin şi pribeag; daţi-mi dar în stăpânire un loc de mormânt la voi, ca să îngrop pe moarta mea\".",
+        "grk": "Πάροικος καὶ παρεπίδημος ἐγώ εἰμι μεθʼ ὑμῶν· δότε μοι οὖν κτῆσιν τάφου μεθʼ ὑμῶν, καὶ θάψω τὸν νεκρόν μου ἀπʼ ἐμοῦ."
       }
     },
     {
@@ -309,7 +313,8 @@
       "translations": {
         "lxx": "And the sons of Chet answered to Abraam, saying, Not so, Sir,",
         "kjv": "And the children of Heth answered Abraham, saying unto him,",
-        "ron": "Iar fii lui Het au răspuns şi au zis către Avraam:"
+        "ron": "Iar fii lui Het au răspuns şi au zis către Avraam:",
+        "grk": "Ἀπεκρίθησαν δὲ οἱ υἱοὶ Χὲτ πρὸς Ἁβραὰμ, λέγοντες, μὴ, κύριε."
       }
     },
     {
@@ -431,7 +436,8 @@
       "translations": {
         "lxx": "but hear us; thou art in the midst of us a king from God; bury thy dead in our choice sepulchres, for not one of us will by any means withhold his sepulchre from thee, so that thou shouldest not bury thy dead there.",
         "kjv": "Hear us, my lord: thou art a mighty prince among us: in the choice of our sepulchres bury thy dead; none of us shall withhold from thee his sepulchre, but that thou mayest bury thy dead.",
-        "ron": "\"Nu, domnul meu, ci ascultă-ne: Tu aici la noi eşti u: voievod al lui Dumnezeu. Deci, îngroapă-ţi moarta în cel mai bun dintre locurile noastre de îngropare, că nici unul dintre noi nu te va opri să-ţi îngropi moarta acolo\"."
+        "ron": "\"Nu, domnul meu, ci ascultă-ne: Tu aici la noi eşti u: voievod al lui Dumnezeu. Deci, îngroapă-ţi moarta în cel mai bun dintre locurile noastre de îngropare, că nici unul dintre noi nu te va opri să-ţi îngropi moarta acolo\".",
+        "grk": "Ἄκουσον δὲ ἡμῶν· βασιλεὺς παρὰ Θεοῦ σὺ εἶ ἐν ἡμῖν· ἐν τοῖς ἐκλεκτοῖς μνημείοις ἡμῶν θάψον τὸν νεκρόν σου· οὐδεὶς γὰρ ἡμῶν οὐ μὴ κωλύσει τὸ μνημεῖον αὐτοῦ ἀπὸ σοῦ, τοῦ θάψαι τὸν νεκρόν σου ἐκεῖ."
       }
     },
     {
@@ -478,7 +484,8 @@
       "translations": {
         "lxx": "And Abraam rose up and did obeisance to the people of the land, to the sons of Chet.",
         "kjv": "And Abraham stood up, and bowed himself to the people of the land, even to the children of Heth.",
-        "ron": "Atunci s-a sculat Avraam şi s-a închinat poporului jării aceleia, adică fiilor lui Het."
+        "ron": "Atunci s-a sculat Avraam şi s-a închinat poporului jării aceleia, adică fiilor lui Het.",
+        "grk": "Ἀναστὰς δὲ Ἁβραὰμ προσεκύνησε τῷ λαῷ τῆς γῆς, τοῖς υἱοῖς τοῦ Χέτ."
       }
     },
     {
@@ -540,7 +547,8 @@
       "translations": {
         "lxx": "And Abraam spoke to them, saying, If ye have it in your mind that I should bury my dead out of my sight, hearken to me, and speak for me to Ephron the son of Saar.",
         "kjv": "And he communed with them, saying, If it be your mind that I should bury my dead out of my sight; hear me, and intreat for me to Ephron the son of Zohar,",
-        "ron": "Şi a grăit către dânşii Avraam şi a zis: \"Dacă voiţi din suflet să-mi îngrop pe moarta mea de la ochii mei, atunci ascultaţi-mă şi rugaţi pentru mine pe Efron, fiul lui Ţohar,"
+        "ron": "Şi a grăit către dânşii Avraam şi a zis: \"Dacă voiţi din suflet să-mi îngrop pe moarta mea de la ochii mei, atunci ascultaţi-mă şi rugaţi pentru mine pe Efron, fiul lui Ţohar,",
+        "grk": "Καὶ ἐλάλησε πρὸς αὐτοὺς Ἁβραὰμ, λέγων, εἰ ἔχετε τῇ ψυχῇ ὑμῶν, ὥστε θάψαι τὸν νεκρόν μου ἀπὸ προσώπου μου, ἀκούσατέ μου, καὶ λαλήσατε περὶ ἐμοῦ Ἐφρὼν τῷ τοῦ Σαάρ."
       }
     },
     {
@@ -627,7 +635,8 @@
       "translations": {
         "lxx": "And let him give me the double cave which he has, which is in a part of his field, let him give it me for the money it is worth for possession of a burying-place among you.",
         "kjv": "That he may give me the cave of Machpelah, which he hath, which is in the end of his field; for as much money as it is worth he shall give it me for a possession of a buryingplace amongst you.",
-        "ron": "Ca să-mi dea peştera Macpela pe care o are în capătul ţarinei lui, dar să mi-o dea pe bani gata, ca să o am aici la voi în stăpânire de veci pentru îngropare."
+        "ron": "Ca să-mi dea peştera Macpela pe care o are în capătul ţarinei lui, dar să mi-o dea pe bani gata, ca să o am aici la voi în stăpânire de veci pentru îngropare.",
+        "grk": "Καὶ δότω μοι τὸ σπήλαιον τὸ διπλοῦν, ὅ ἐστιν αὐτῷ, τὸ ὂν ἐν μέρει τοῦ ἀγροῦ αὐτοῦ· ἀργυρίου τοῦ ἀξίου δότε μοι αὐτὸ ἐν ὑμῖν εἰς κτῆσιν μνημείου."
       }
     },
     {
@@ -734,7 +743,8 @@
       "translations": {
         "lxx": "Now Ephron was sitting in the midst of the children of Chet, and Ephron the Chettite answered Abraam and spoke in the hearing of the sons of Chet, and of all who entered the city, saying,",
         "kjv": "And Ephron dwelt among the children of Heth: and Ephron the Hittite answered Abraham in the audience of the children of Heth, even of all that went in at the gate of his city, saying,",
-        "ron": "Efron însă şedea atunci în mijlocul fiilor lui Het. Şi a răspuns Efron Heteeanul lui Avraam, în auzul fiilor lui Het şi al tuturor celor ce veniseră la porţile cetăţii lui, şi a zis:"
+        "ron": "Efron însă şedea atunci în mijlocul fiilor lui Het. Şi a răspuns Efron Heteeanul lui Avraam, în auzul fiilor lui Het şi al tuturor celor ce veniseră la porţile cetăţii lui, şi a zis:",
+        "grk": "Ἐφρὼν δὲ ἐκάθητο ἐν μέσῳ τῶν υἱῶν Χέτ· ἀποκριθεὶς δὲ Ἐφρὼν ὁ Χετταῖος πρὸς Ἁβραὰμ εἶπεν, ἀκουόντων τῶν υἱῶν Χὲτ, καὶ τῶν εἰσπορευομένων εἰς τὴν πόλιν πάντων, λέγων,"
       }
     },
     {
@@ -826,7 +836,8 @@
       "translations": {
         "lxx": "Attend to me, my lord, and hear me, I give to thee the field and the cave which is in it; I have given it thee before all my countrymen; bury thy dead.",
         "kjv": "Nay, my lord, hear me: the field give I thee, and the cave that is therein, I give it thee; in the presence of the sons of my people give I it thee: bury thy dead.",
-        "ron": "\"Nu, domnul meu, ascultă-mă pe mine: Eu îţi dau ţarina şi peştera cea dintr-însa şi ţi-o dau în fala fiilor poporului; ţi-o dau însă în dar. Îngroapă-ţi pe moarta ta\"."
+        "ron": "\"Nu, domnul meu, ascultă-mă pe mine: Eu îţi dau ţarina şi peştera cea dintr-însa şi ţi-o dau în fala fiilor poporului; ţi-o dau însă în dar. Îngroapă-ţi pe moarta ta\".",
+        "grk": "Παρʼ ἐμοὶ γενοῦ, κύριε, καὶ ἄκουσόν μου· τὸν ἀγρὸν, καὶ τὸ σπήλαιον τὸ ἐν αὐτῷ, σοὶ δίδωμι· ἐναντίον πάντων τῶν πολιτῶν μου δέδωκά σοι· θάψον τὸν νεκρόν σου."
       }
     },
     {
@@ -863,7 +874,8 @@
       "translations": {
         "lxx": "And Abraam did obeisance before the people of the land.",
         "kjv": "And Abraham bowed down himself before the people of the land.",
-        "ron": "Avraam însă s-a închinat înaintea poporului ţării"
+        "ron": "Avraam însă s-a închinat înaintea poporului ţării",
+        "grk": "Καὶ προσεκύνησεν Ἁβραὰμ ἐναντίον τοῦ λαοῦ τῆς γῆς."
       }
     },
     {
@@ -965,7 +977,8 @@
       "translations": {
         "lxx": "And he said in the ears of Ephron before the people of the land, Since thou art on my side, hear me; take the price of the field from me, and I will bury my dead there.",
         "kjv": "And he spake unto Ephron in the audience of the people of the land, saying, But if thou wilt give it, I pray thee, hear me: I will give thee money for the field; take it of me, and I will bury my dead there.",
-        "ron": "Şi a grăit către Efron în auzul a tot poporul ţinutului aceluia şi a zis: \"De binevoieşti, ascultă-mă şi ia de la mine preţul ţarinei şi voi îngropa acolo pe moarta mea\"."
+        "ron": "Şi a grăit către Efron în auzul a tot poporul ţinutului aceluia şi a zis: \"De binevoieşti, ascultă-mă şi ia de la mine preţul ţarinei şi voi îngropa acolo pe moarta mea\".",
+        "grk": "Καὶ εἶπε τῷ Ἐφρὼν εἰς τὰ ὦτα ἐναντίον τοῦ λαοῦ τῆς γῆς, ἐπειδὴ πρὸς ἐμοῦ εἶ, ἄκουσόν μου· τὸ ἀργύριον τοῦ ἀγροῦ λάβε παρʼ ἐμοῦ, καὶ θάψω τὸν νεκρόν μου ἐκεῖ."
       }
     },
     {
@@ -997,7 +1010,8 @@
       "translations": {
         "lxx": "But Ephron answered Abraam, saying,",
         "kjv": "And Ephron answered Abraham, saying unto him,",
-        "ron": "Răspuns-a Efron lui Avraam şi i-a zis:"
+        "ron": "Răspuns-a Efron lui Avraam şi i-a zis:",
+        "grk": "Ἀπεκρίθη δὲ Ἐφρὼν τῷ Ἁβραὰμ, λέγων,"
       }
     },
     {
@@ -1094,7 +1108,8 @@
       "translations": {
         "lxx": "Nay, my lord, I have heard indeed, the land is worth four hundred silver didrachms, but what can this be between me and thee? nay, do thou bury thy dead.",
         "kjv": "My lord, hearken unto me: the land is worth four hundred shekels of silver; what is that betwixt me and thee? bury therefore thy dead.",
-        "ron": "Ascultă, domnul meu, ţarina preţuieşte patru sute sicli de argint. Ce este aceasta pentru mine şi pentru tine? Îngroapă-ţi dar pe moarta ta!"
+        "ron": "Ascultă, domnul meu, ţarina preţuieşte patru sute sicli de argint. Ce este aceasta pentru mine şi pentru tine? Îngroapă-ţi dar pe moarta ta!",
+        "grk": "Οὐχὶ, κύριε· ἀκήκοα γὰρ, γῆ τετρακοσίων διδράχμων ἀργύριου· ἀλλὰ τί ἂν εἴη τοῦτο ἀνὰ μέσον ἐμοῦ καὶ σοῦ; σὺ δὲ τὸν νεκρόν σου θάψον."
       }
     },
     {
@@ -1196,7 +1211,8 @@
       "translations": {
         "lxx": "And Abraam hearkened to Ephron, and Abraam rendered to Ephron the money, which he mentioned in the ears of the sons of Chet, four hundred didrachms of silver approved with merchants.",
         "kjv": "And Abraham hearkened unto Ephron; and Abraham weighed to Ephron the silver, which he had named in the audience of the sons of Heth, four hundred shekels of silver, current money with the merchant.",
-        "ron": "Atunci, ascultând pe Efron, Avraam a cântărit lui Efron atâta argint, cât a spus el în auzul fiilor lui Het: patru sute sicli de argint, după preţul negustoresc."
+        "ron": "Atunci, ascultând pe Efron, Avraam a cântărit lui Efron atâta argint, cât a spus el în auzul fiilor lui Het: patru sute sicli de argint, după preţul negustoresc.",
+        "grk": "καὶ ἤκουσεν Ἁβραὰμ τοῦ Ἐφρών· καὶ ἀπεκατέστησεν Ἁβραὰμ τῷ Ἐφρὼν τὸ ἀργύριον, ὃ ἐλάλησεν εἰς τὰ ὦτα τῶν υἱῶν Χὲτ, τετρακόσια δίδραχμα ἀργυρίου δοκίμου ἐμπόροις."
       }
     },
     {
@@ -1248,7 +1264,8 @@
       "translations": {
         "lxx": "And the field of Ephron, which was in Double Cave, which is opposite Mambre, the field and the cave, which was in it, and every tree which was in the field, and whatever is in its borders round about, were made sure",
         "kjv": "And the field of Ephron, which was in Machpelah, which was before Mamre, the field, and the cave which was therein, and all the trees that were in the field, that were in all the borders round about, were made sure",
-        "ron": "Şi aşa ţarina lui Efron, care e lângă Macpela, în faţa stejarului Mamvri, ţarina şi peştera din ea şi toţi pomii din ţarină şi tot ce era în hotarele ei de jur împrejur"
+        "ron": "Şi aşa ţarina lui Efron, care e lângă Macpela, în faţa stejarului Mamvri, ţarina şi peştera din ea şi toţi pomii din ţarină şi tot ce era în hotarele ei de jur împrejur",
+        "grk": "Καὶ ἔστη ὁ ἀγρὸς Ἐφρών, ὃς ἦν ἐν τῷ διπλῷ σπηλαίῳ, ὅς ἐστι κατὰ πρόσωπον Μαμβρῆ, ὁ ἀγρὸς καὶ τὸ σπήλαιον, ὃ ἦν ἐν αὐτῷ, καὶ πᾶν δένδρον, ὃ ἦν ἐν τῷ ἀγρῷ, καὶ πᾶν ὅ ἐστιν ἐν τοῖς ὁρίοις αὐτοῦ κύκλῳ,"
       }
     },
     {
@@ -1290,7 +1307,8 @@
       "translations": {
         "lxx": "to Abraam for a possession, before the sons of Chet, and all that entered into the city.",
         "kjv": "Unto Abraham for a possession in the presence of the children of Heth, before all that went in at the gate of his city.",
-        "ron": "S-au dat lui Avraam moşie de veci, înaintea fiilor lui Het şi a tuturor celor ce se strânseseră la poarta cetăţii lui."
+        "ron": "S-au dat lui Avraam moşie de veci, înaintea fiilor lui Het şi a tuturor celor ce se strânseseră la poarta cetăţii lui.",
+        "grk": "τῷ Ἁβραὰμ, εἰς κτῆσιν ἐναντίον τῶν υἱῶν Χὲτ, καὶ πάντων τῶν εἰσπορευομένων εἰς τὴν πόλιν."
       }
     },
     {
@@ -1362,7 +1380,8 @@
       "translations": {
         "lxx": "After this Abraam buried Sarrha his wife in the Double Cave of the field, which is opposite Mambre, this is Chebron in the land of Chanaan.",
         "kjv": "And after this, Abraham buried Sarah his wife in the cave of the field of Machpelah before Mamre: the same is Hebron in the land of Canaan.",
-        "ron": "După aceasta Avraam a îngropat pe Sarra, femeia sa, în peştera din ţarina Macpela, care e în faţa lui Mamvri sau a Hebronului, în Canaan."
+        "ron": "După aceasta Avraam a îngropat pe Sarra, femeia sa, în peştera din ţarina Macpela, care e în faţa lui Mamvri sau a Hebronului, în Canaan.",
+        "grk": "Μετὰ ταῦτα ἔθαψεν Ἁβραὰμ Σάῤῥαν τὴν γυναῖκα αὐτοῦ ἐν τῷ σπηλαίῳ τοῦ ἀγροῦ τῷ διπλῷ, ὅ ἐστιν ἀπέναντι Μαμβρῆ· αὕτη ἐστὶ Χεβρὼν ἐν τῇ γῇ Χαναάν."
       }
     }
   ],

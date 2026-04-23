@@ -96,7 +96,8 @@
       "translations": {
         "lxx": "And Jacob heard the words of the sons of Laban, saying, Jacob has taken all that was our father's, and of our father's property has he gotten all this glory.",
         "kjv": "And he heard the words of Laban’s sons, saying, Jacob hath taken away all that was our father’s; and of that which was our father’s hath he gotten all this glory.",
-        "ron": "A auzit însă Iacov vorbele feciorilor lui Laban, care ziceau: \"Iacov a luat toate câte avea tatăl nostru şi din ale tatălui nostru şi-a făcut toată bogăţia aceasta\"."
+        "ron": "A auzit însă Iacov vorbele feciorilor lui Laban, care ziceau: \"Iacov a luat toate câte avea tatăl nostru şi din ale tatălui nostru şi-a făcut toată bogăţia aceasta\".",
+        "grk": "Ἤκουσε δὲ Ἰακὼβ τὰ ῥήματα τῶν υἱῶν Λάβαν, λεγόντων, εἴληφεν Ἰακὼβ πάντα τὰ τοῦ πατρὸς ἡμῶν, καὶ ἐκ τῶν τοῦ πατρὸς ἡμῶν πεποίηκε πᾶσαν τὴν δόξαν ταύτην."
       }
     },
     {
@@ -153,7 +154,8 @@
       "translations": {
         "lxx": "And Jacob saw the countenance of Laban, and behold it was not toward him as before.",
         "kjv": "And Jacob beheld the countenance of Laban, and, behold, it was not toward him as before.",
-        "ron": "Şi căutând Iacov la faţa lui Laban, iată nu mai era faţă de el ca mai înainte."
+        "ron": "Şi căutând Iacov la faţa lui Laban, iată nu mai era faţă de el ca mai înainte.",
+        "grk": "Καὶ εἶδεν Ἰακὼβ τὸ πρόσωπον τοῦ Λάβαν, καὶ ἰδοὺ οὐκ ἦν πρὸς αὐτὸν ὡσεὶ χθὲς καὶ τρίτην ἡμέραν."
       }
     },
     {
@@ -220,7 +222,8 @@
       "translations": {
         "lxx": "And the Lord said to Jacob, Return to the land of thy father, and to thy family, and I will be with thee.",
         "kjv": "And the LORD said unto Jacob, Return unto the land of thy fathers, and to thy kindred; and I will be with thee.",
-        "ron": "Atunci Domnul a zis către Iacov: \"Întoarce-te în ţara părinţilor tăi, în patria ta, şi Eu voi fi cu tine!\""
+        "ron": "Atunci Domnul a zis către Iacov: \"Întoarce-te în ţara părinţilor tăi, în patria ta, şi Eu voi fi cu tine!\"",
+        "grk": "Εἶπε δὲ Κύριος πρὸς Ἰακὼβ, ἀποστρέφου εἰς τὴν γῆν τοῦ πατρός σου, καὶ εἰς τὴν γενεάν σου, καὶ ἔσομαι μετὰ σοῦ."
       }
     },
     {
@@ -272,7 +275,8 @@
       "translations": {
         "lxx": "And Jacob sent and called Lea and Rachel to the plain where the flocks were.",
         "kjv": "And Jacob sent and called Rachel and Leah to the field unto his flock,",
-        "ron": "Trimiţând, deci, Iacov a chemat pe Rahila şi pe Lia la câmp, unde erau turmele,"
+        "ron": "Trimiţând, deci, Iacov a chemat pe Rahila şi pe Lia la câmp, unde erau turmele,",
+        "grk": "Ἀποστείλας δὲ Ἰακὼβ ἐκάλεσε Λείαν καὶ Ῥαχὴλ εἰς τὸ πεδίον, οὗ ἦν τὰ ποίμνια."
       }
     },
     {
@@ -359,7 +363,8 @@
       "translations": {
         "lxx": "And he said to them, I see the face of your father, that it is not toward me as before, but the God of my father was with me.",
         "kjv": "And said unto them, I see your father’s countenance, that it is not toward me as before; but the God of my father hath been with me.",
-        "ron": "Şi le-a zis: \"Văd eu că faţa tatălui vostru nu mai e faţă de mine, ca mai înainte; dar Dumnezeul tatălui meu este cu mine."
+        "ron": "Şi le-a zis: \"Văd eu că faţa tatălui vostru nu mai e faţă de mine, ca mai înainte; dar Dumnezeul tatălui meu este cu mine.",
+        "grk": "Καὶ εἶπεν αὐταῖς, ὁρῶ ἐγὼ τὸ πρόσωπον τοῦ πατρὸς ὑμῶν, ὅτι οὐκ ἔστι πρὸς ἐμοῦ, ὡς ἐχθὲς καὶ τρίτην ἡμέραν· ὁ δὲ Θεὸς τοῦ πατρός μου ἦν μετʼ ἐμοῦ."
       }
     },
     {
@@ -401,7 +406,8 @@
       "translations": {
         "lxx": "And ye too know that with all my might I have served your father.",
         "kjv": "And ye know that with all my power I have served your father.",
-        "ron": "Voi înşivă ştiţi că am slujit pe tatăl vostru cu toată inima;"
+        "ron": "Voi înşivă ştiţi că am slujit pe tatăl vostru cu toată inima;",
+        "grk": "Καὶ αὐταὶ δὲ οἴδατε, ὅτι ἐν πάσῃ τῇ ἰσχύϊ μου δεδούλευκα τῷ πατρὶ ὑμῶν."
       }
     },
     {
@@ -463,7 +469,8 @@
       "translations": {
         "lxx": "But your father deceived me, and changed my wages for the ten lambs, yet God gave him not power to hurt me.",
         "kjv": "And your father hath deceived me, and changed my wages ten times; but God suffered him not to hurt me.",
-        "ron": "Iar tatăl vostru m-a înşelat şi de zeci de ori mi-a schimbat simbria, Dumnezeu însă nu i-a îngăduit să-mi facă rău."
+        "ron": "Iar tatăl vostru m-a înşelat şi de zeci de ori mi-a schimbat simbria, Dumnezeu însă nu i-a îngăduit să-mi facă rău.",
+        "grk": "Ὁ δὲ πατὴρ ὑμῶν παρεκρούσατό με, καὶ ἤλλαξε τὸν μισθόν μου τῶν δέκα ἀμνῶν· καὶ οὐκ ἔδωκεν αὐτῷ ὁ Θεὸς κακοποιῆσαί με."
       }
     },
     {
@@ -560,7 +567,8 @@
       "translations": {
         "lxx": "If he should say thus, The speckled shall be thy reward, then all the cattle would bear speckled; and if he should say, The white shall be thy reward, then would all the cattle bear white.",
         "kjv": "If he said thus, The speckled shall be thy wages; then all the cattle bare speckled: and if he said thus, The ringstraked shall be thy hire; then bare all the cattle ringstraked.",
-        "ron": "Când zicea el: Cele pestriţe să fie simbria ta, toate oile fătau miei pestriţi; iar când zicea el: Cele negre să-ţi fie de simbrie, atunci toate oile fătau miei negri."
+        "ron": "Când zicea el: Cele pestriţe să fie simbria ta, toate oile fătau miei pestriţi; iar când zicea el: Cele negre să-ţi fie de simbrie, atunci toate oile fătau miei negri.",
+        "grk": "Ἐὰν οὕτως εἴπῃ, τὰ ποικίλα ἔσται σου μισθὸς, καὶ τέξεται πάντα τὰ πρόβατα ποικίλα· ἐὰν δὲ εἴπῃ, τὰ λευκὰ ἔσται σου μισθὸς, καὶ τέξεται πάντα τὰ πρόβατα λευκά."
       }
     },
     {
@@ -607,7 +615,8 @@
       "translations": {
         "lxx": "So God has taken away all the cattle of your father, and given them to me.",
         "kjv": "Thus God hath taken away the cattle of your father, and given them to me.",
-        "ron": "Şi aşa a luat Dumnezeu toate vitele de la tatăl vostru şi mi le-a dat mie."
+        "ron": "Şi aşa a luat Dumnezeu toate vitele de la tatăl vostru şi mi le-a dat mie.",
+        "grk": "Καὶ ἀφείλετο ὁ Θεὸς πάντα τὰ κτήνη τοῦ πατρὸς ὑμῶν, καὶ ἔδωκέ μοι αὐτά."
       }
     },
     {
@@ -719,7 +728,8 @@
       "translations": {
         "lxx": "And it came to pass when the cattle conceived and were with young, that I beheld with mine eyes in sleep, and behold the he-goats and the rams leaping on the sheep and the she-goats, speckled and variegated and spotted with ash-coloured spots.",
         "kjv": "And it came to pass at the time that the cattle conceived, that I lifted up mine eyes, and saw in a dream, and, behold, the rams which leaped upon the cattle were ringstraked, speckled, and grisled.",
-        "ron": "Iată o dată, pe vremea când intrau în călduri oile, mi-am ridicat ochii şi am văzut în vis; şi iată că ţapii şi berbecii, care săreau pe capre şi pe oi, erau albi, vărgaţi şi bălţaţi."
+        "ron": "Iată o dată, pe vremea când intrau în călduri oile, mi-am ridicat ochii şi am văzut în vis; şi iată că ţapii şi berbecii, care săreau pe capre şi pe oi, erau albi, vărgaţi şi bălţaţi.",
+        "grk": "Καὶ ἐγένετο ἡνίκα ἐνεκίσσων τὰ πρόβατα ἐν γαστρὶ λαμβάνοντα, καὶ εἶδον τοῖς ὀφθαλμοῖς μου ἐν τῷ ὕπνῳ· καὶ ἰδοὺ οἱ τράγοι καὶ οἱ κριοὶ ἀναβαίνοντες ἐπὶ τὰ πρόβατα καὶ τὰς αἶγας, διάλευκοι καὶ ποικίλοι καὶ σποδοειδεῖς ῥαντοί."
       }
     },
     {
@@ -786,7 +796,8 @@
       "translations": {
         "lxx": "And the angel of God said to me in a dream, Jacob; and I said, What is it?",
         "kjv": "And the angel of God spake unto me in a dream, saying, Jacob: And I said, Here am I.",
-        "ron": "Iar îngerul Domnului mi-a zis în vis: \"Iacove!\" Şi eu am răspuns: \"Ce este?\""
+        "ron": "Iar îngerul Domnului mi-a zis în vis: \"Iacove!\" Şi eu am răspuns: \"Ce este?\"",
+        "grk": "Καὶ εἶπέ μοι ὁ Ἄγγελος τοῦ Θεοῦ καθʼ ὕπνον, Ἰακώβ· ἐγὼ δὲ εἶπα, τί ἐστι;"
       }
     },
     {
@@ -913,7 +924,8 @@
       "translations": {
         "lxx": "And he said, Look up with thine eyes, and behold the he-goats and the rams leaping on the sheep and the she-goats, speckled and variegated and spotted with ash-coloured spots; for I have seen all things that Laban does to thee.",
         "kjv": "And he said, Lift up now thine eyes, and see, all the rams which leap upon the cattle are ringstraked, speckled, and grisled: for I have seen all that Laban doeth unto thee.",
-        "ron": "Zis-a el: \"Ridică-ţi ochii şi priveşte: toţi ţapii şi berbecii, care sar pe capre şi pe oi, sunt vărgaţi, pestriţi şi bălţaţi, căci am văzut toate câte ţi-a făcut Laban."
+        "ron": "Zis-a el: \"Ridică-ţi ochii şi priveşte: toţi ţapii şi berbecii, care sar pe capre şi pe oi, sunt vărgaţi, pestriţi şi bălţaţi, căci am văzut toate câte ţi-a făcut Laban.",
+        "grk": "Καὶ εἶπεν, ἀνάβλεψον τοῖς ὀφθαλμοῖς σου, καὶ ἴδε τοὺς τράγους καὶ τοὺς κριοὺς ἀναβαίνοντας ἐπὶ τὰ πρόβατα καὶ τὰς αἶγας διαλεύκους καὶ ποικίλους καὶ σποδοειδεῖς ῥαντούς· ἑώρακα γὰρ ὅσα σοι Λάβαν ποιεῖ."
       }
     },
     {
@@ -1040,7 +1052,8 @@
       "translations": {
         "lxx": "I am God that appeared to thee in the place of God, where thou anointedst a pillar to me, and vowedst to me there a vow; now then arise and depart out of this land, depart into the land of thy nativity, and I will be with thee.",
         "kjv": "I am the God of Bethel, where thou anointedst the pillar, and where thou vowedst a vow unto me: now arise, get thee out from this land, and return unto the land of thy kindred.",
-        "ron": "Eu sunt Dumnezeul, Cel ce ţi S-a arătat în Betel, unde Mi-ai turnat untdelemn pe stâlp şi unde Mi-ai făcut făgăduinţă. Scoală deci acum, ieşi din pământul acesta şi mergi în pământul tău de naştere şi Eu voi fi cu tine\"."
+        "ron": "Eu sunt Dumnezeul, Cel ce ţi S-a arătat în Betel, unde Mi-ai turnat untdelemn pe stâlp şi unde Mi-ai făcut făgăduinţă. Scoală deci acum, ieşi din pământul acesta şi mergi în pământul tău de naştere şi Eu voi fi cu tine\".",
+        "grk": "Ἐγώ εἰμι ὁ Θεὸς ὁ ὀφθείς σοι ἐν τόπῳ Θεοῦ, οὗ ἤλειψάς μοι ἐκεῖ στήλην, καὶ ηὔξω μοι ἐκεῖ εὐχήν· νῦν οὖν ἀνάστηθι, καὶ ἔξελθε ἐκ τῆς γῆς ταύτης, καὶ ἄπελθε εἰς τὴν γῆν τῆς γενέσεώς σου, καὶ ἔσομαι μετὰ σοῦ."
       }
     },
     {
@@ -1092,7 +1105,8 @@
       "translations": {
         "lxx": "And Rachel and Lea answered and said to him, Have we yet a part or inheritance in the house of our father?",
         "kjv": "And Rachel and Leah answered and said unto him, Is there yet any portion or inheritance for us in our father’s house?",
-        "ron": "Atunci Lia şi Rahila i-au răspuns şi au zis: \"Mai avem noi oare parte şi moştenire în casa tatălui nostru?"
+        "ron": "Atunci Lia şi Rahila i-au răspuns şi au zis: \"Mai avem noi oare parte şi moştenire în casa tatălui nostru?",
+        "grk": "Καὶ ἀποκριθεῖσαι Ῥαχὴλ καὶ Λεία εἶπαν αὐτῷ, μὴ ἔστιν ἡμῖν ἔτι μερὶς ἢ κληρονομία ἐν τῷ οἴκῳ τοῦ πατρὸς ἡμῶν;"
       }
     },
     {
@@ -1144,7 +1158,8 @@
       "translations": {
         "lxx": "Are we not considered strangers by him? for he has sold us, and quite devoured our money.",
         "kjv": "Are we not counted of him strangers? for he hath sold us, and hath quite devoured also our money.",
-        "ron": "Oare n-am fost noi socotite de el ca nişte străine, fiindcă el ne-a vândut şi a mâncat banii noştri?"
+        "ron": "Oare n-am fost noi socotite de el ca nişte străine, fiindcă el ne-a vândut şi a mâncat banii noştri?",
+        "grk": "Οὐχ ὡς αἱ ἀλλότριαι λελογίσμεθα αὐτῷ; πέπρακε γὰρ ἡμᾶς, καὶ καταβρώσει κατέφαγε τὸ ἀργύριον ἡμῶν."
       }
     },
     {
@@ -1226,7 +1241,8 @@
       "translations": {
         "lxx": "All the wealth and the glory which God has taken from our father, it shall be our's and our children's; now then do whatsoever God has said to thee.",
         "kjv": "For all the riches which God hath taken from our father, that is ours, and our children’s: now then, whatsoever God hath said unto thee, do.",
-        "ron": "De aceea, toată averea pe care Dumnezeu a luat-o de la tatăl nostru este a noastră şi a copiilor noştri. Fă dar acum toate câte ţi-a zis Domnul!\""
+        "ron": "De aceea, toată averea pe care Dumnezeu a luat-o de la tatăl nostru este a noastră şi a copiilor noştri. Fă dar acum toate câte ţi-a zis Domnul!\"",
+        "grk": "Πάντα τὸν πλοῦτον καὶ τὴν δόξαν, ἣν ἀφείλετο ὁ Θεὸς τοῦ πατρὸς ἡμῶν, ἡμῖν ἔσται καὶ τοῖς τέκνοις ἡμῶν· νῦν οὖν ὅσα σοι εἴρηκεν ὁ Θεὸς, ποίει."
       }
     },
     {
@@ -1273,7 +1289,8 @@
       "translations": {
         "lxx": "And Jacob arose and took his wives and his children up on the camels;",
         "kjv": "Then Jacob rose up, and set his sons and his wives upon camels;",
-        "ron": "Atunci s-a sculat Iacov şi a urcat copiii şi femeile sale pe cămile,"
+        "ron": "Atunci s-a sculat Iacov şi a urcat copiii şi femeile sale pe cămile,",
+        "grk": "Ἀναστὰς δὲ Ἰακὼβ ἔλαβε τὰς γυναῖκας αὐτοῦ καὶ τὰ παιδία αὐτοῦ ἐπὶ τὰς καμήλους·"
       }
     },
     {
@@ -1365,7 +1382,8 @@
       "translations": {
         "lxx": "and he took away all his possessions and all his store, which he had gotten in Mesopotamia, and all that belonged to him, to depart to Isaac his father in the land of Chanaan.",
         "kjv": "And he carried away all his cattle, and all his goods which he had gotten, the cattle of his getting, which he had gotten in Padanaram, for to go to Isaac his father in the land of Canaan.",
-        "ron": "A strâns toate turmele sale şi toată bogăţia sa, pe care o agonisise în Mesopotamia, şi toate ale sale, ca să meargă la Isaac, tatăl său, în ţara Canaanului."
+        "ron": "A strâns toate turmele sale şi toată bogăţia sa, pe care o agonisise în Mesopotamia, şi toate ale sale, ca să meargă la Isaac, tatăl său, în ţara Canaanului.",
+        "grk": "Καὶ ἀπήγαγε πάντα τὰ ὑπάρχοντα αὐτῷ, καὶ πᾶσαν τὴν ἀποσκευὴν αὐτοῦ, ἣν περιεποιήσατο ἐν τῇ Μεσοποταμίᾳ, καὶ πάντα τὰ αὐτοῦ, ἀπελθεῖν πρὸς Ἰσαὰκ τὸν πατέρα αὐτοῦ εἰς γῆν Χαναάν."
       }
     },
     {
@@ -1422,7 +1440,8 @@
       "translations": {
         "lxx": "And Laban went to shear his sheep; and Rachel stole her father's images.",
         "kjv": "And Laban went to shear his sheep: and Rachel had stolen the images that were her father’s.",
-        "ron": "Iar Laban, ducându-se să-şi tundă oile, Rahila a furat idolii tatălui său."
+        "ron": "Iar Laban, ducându-se să-şi tundă oile, Rahila a furat idolii tatălui său.",
+        "grk": "Λάβαν δὲ ᾤχετο κεῖραι τὰ πρόβατα αὐτοῦ· ἔκλεψε δὲ Ῥαχὴλ τὰ εἴδωλα τοῦ πατρὸς αὐτῆς."
       }
     },
     {
@@ -1469,7 +1488,8 @@
       "translations": {
         "lxx": "And Jacob hid the matter from Laban the Syrian, so as not to tell him that he ran away.",
         "kjv": "And Jacob stole away unawares to Laban the Syrian, in that he told him not that he fled.",
-        "ron": "Deci Iacov a înşelat pe Laban Arameul, căci nu l-a vestit că pleacă,"
+        "ron": "Deci Iacov a înşelat pe Laban Arameul, căci nu l-a vestit că pleacă,",
+        "grk": "Ἔκρυψε δὲ Ἰακὼβ Λάβαν τὸν Σύρον, τοῦ μὴ ἀναγγεῖλαι αὐτῷ, ὅτι ἀποδιδράσκει."
       }
     },
     {
@@ -1521,7 +1541,8 @@
       "translations": {
         "lxx": "And he departed himself and all that belonged to him, and passed over the river, and went into the mountain Galaad.",
         "kjv": "So he fled with all that he had; and he rose up, and passed over the river, and set his face toward the mount Gilead.",
-        "ron": "Ci a fugit cu toate câte avea şi, trecând Eufratul, s-a îndreptat spre Muntele Galaadului."
+        "ron": "Ci a fugit cu toate câte avea şi, trecând Eufratul, s-a îndreptat spre Muntele Galaadului.",
+        "grk": "Καὶ ἀπέδρα αὐτὸς, καὶ τὰ αὐτοῦ πάντα, καὶ διέβη τὸν ποταμὸν, καὶ ὥρμησεν εἰς τὸ ὄρος Γαλαάδ."
       }
     },
     {
@@ -1563,7 +1584,8 @@
       "translations": {
         "lxx": "But it was told Laban the Syrian on the third day, that Jacob was fled.",
         "kjv": "And it was told Laban on the third day that Jacob was fled.",
-        "ron": "Iar a treia zi i s-a dat de ştire lui Laban Arameul, că Iacov a fugit."
+        "ron": "Iar a treia zi i s-a dat de ştire lui Laban Arameul, că Iacov a fugit.",
+        "grk": "Ἀνηγγέλη δὲ Λάβαν τῷ Σύρῳ τῇ ἡμέρᾳ τῇ τρίτῃ, ὅτι ἀπέδρα Ἰακώβ."
       }
     },
     {
@@ -1630,7 +1652,8 @@
       "translations": {
         "lxx": "And having taken his brethren with him, he pursued after him seven days' journey, and overtook him on Mount Galaad.",
         "kjv": "And he took his brethren with him, and pursued after him seven days’ journey; and they overtook him in the mount Gilead.",
-        "ron": "Atunci, luând Laban cu sine pe feciorii şi pe rudele sale, a alergat după el cale de şapte zile şi l-a ajuns la Muntele Galaadului."
+        "ron": "Atunci, luând Laban cu sine pe feciorii şi pe rudele sale, a alergat după el cale de şapte zile şi l-a ajuns la Muntele Galaadului.",
+        "grk": "Καὶ παραλαβὼν τοὺς ἀδελφοὺς αὐτοῦ μεθʼ ἑαντοῦ, ἐδίωξεν ὀπίσω αὐτοῦ ὁδὸν ἡμερῶν ἑπτά· καὶ κατέλαβεν αὐτὸν ἐν τῷ ὄρει Γαλαάδ."
       }
     },
     {
@@ -1707,7 +1730,8 @@
       "translations": {
         "lxx": "And God came to Laban the Syrian in sleep by night, and said to him, Take heed to thyself that thou speak not at any time to Jacob evil things.",
         "kjv": "And God came to Laban the Syrian in a dream by night, and said unto him, Take heed that thou speak not to Jacob either good or bad.",
-        "ron": "Dar Dumnezeu a venit la Laban Arameul noaptea în vis şi i-a zis: \"Fereşte-te, nu cumva să vorbeşti lui Iacov nici de bine, nici de rău\"."
+        "ron": "Dar Dumnezeu a venit la Laban Arameul noaptea în vis şi i-a zis: \"Fereşte-te, nu cumva să vorbeşti lui Iacov nici de bine, nici de rău\".",
+        "grk": "Ἦλθε δὲ ὁ Θεὸς πρὸς Λάβαν τὸν Σύρον καθʼ ὕπνον τὴν νύκτα, καὶ εἶπεν αὐτῷ, Φύλαξαι σεαυτὸν μή ποτε λαλήσῃς μετὰ Ἰακὼβ πονηρά."
       }
     },
     {
@@ -1789,7 +1813,8 @@
       "translations": {
         "lxx": "And Laban overtook Jacob; and Jacob pitched his tent in the mountain; and Laban stationed his brothers in the mount Galaad.",
         "kjv": "Then Laban overtook Jacob. Now Jacob had pitched his tent in the mount: and Laban with his brethren pitched in the mount of Gilead.",
-        "ron": "Şi a ajuns Laban pe Iacov. Iacov însă îşi aşezase cortul său pe munte; şi tot pe Muntele Galaad şi l-a aşezat şi Laban cu rudele sale."
+        "ron": "Şi a ajuns Laban pe Iacov. Iacov însă îşi aşezase cortul său pe munte; şi tot pe Muntele Galaad şi l-a aşezat şi Laban cu rudele sale.",
+        "grk": "Καὶ κατέλαβε Λάβαν τὸν Ἰακώβ· Ἰακὼβ δὲ ἔπηξεν τὴν σκηνὴν αὐτοῦ ἐν τῷ ὄρει· Λάβαν δὲ ἔστησε τοὺς ἀδελφοὺς αὐτοῦ ἐν τῷ ὄρει Γαλαάδ."
       }
     },
     {
@@ -1861,7 +1886,8 @@
       "translations": {
         "lxx": "And Laban said to Jacob, What hast thou done? wherefore didst thou run away secretly, and pillage me, and lead away my daughters as captives taken with the sword?",
         "kjv": "And Laban said to Jacob, What hast thou done, that thou hast stolen away unawares to me, and carried away my daughters, as captives taken with the sword?",
-        "ron": "Atunci a zis Laban către Iacov: \"Ce ai făcut? Pentru ce mi-ai furat inima şi mi-ai luat fetele, ca şi cum le-ai fi robit cu sabia?"
+        "ron": "Atunci a zis Laban către Iacov: \"Ce ai făcut? Pentru ce mi-ai furat inima şi mi-ai luat fetele, ca şi cum le-ai fi robit cu sabia?",
+        "grk": "Εἶπε δὲ Λάβαν τῷ Ἰακὼβ, τί ἐποίησας; ἱνατί κρυφῇ ἀπέδρας, καὶ ἐκλοποφόρησάς με, καὶ ἀπήγαγες τὰς θυγατέρας μου, ὡς αἰχμαλώτιδας μαχαίρᾳ;"
       }
     },
     {
@@ -1913,7 +1939,8 @@
       "translations": {
         "lxx": "Whereas if thou hadst told me, I would have sent thee away with mirth, and with songs, and timbrels, and harp.",
         "kjv": "Wherefore didst thou flee away secretly, and steal away from me; and didst not tell me, that I might have sent thee away with mirth, and with songs, with tabret, and with harp?",
-        "ron": "Pentru ce ai fugit pe ascuns şi m-ai înşelat, în loc să mă înştiinţezi pe mine, care ţi-aş fi dat drumul cu veselie şi cu cântări din timpane şi din harfă?"
+        "ron": "Pentru ce ai fugit pe ascuns şi m-ai înşelat, în loc să mă înştiinţezi pe mine, care ţi-aş fi dat drumul cu veselie şi cu cântări din timpane şi din harfă?",
+        "grk": "Καὶ εἰ ἀνήγγειλάς μοι, ἐξαπέστειλα ἄν σε μετʼ εὐφροσύνης, καὶ μετὰ μουσικῶν, καὶ τυμπάνων, καὶ κιθάρας."
       }
     },
     {
@@ -1975,7 +2002,8 @@
       "translations": {
         "lxx": "And I was not counted worthy to embrace my children and my daughters; now then thou hast wrought foolishly.",
         "kjv": "And hast not suffered me to kiss my sons and my daughters? thou hast now done foolishly in so doing.",
-        "ron": "Ba nu mi-ai îngăduit nici măcar să-mi sărut nepoţii şi fetele mele. Te-ai purtat, aşadar, ca un om fără de minte."
+        "ron": "Ba nu mi-ai îngăduit nici măcar să-mi sărut nepoţii şi fetele mele. Te-ai purtat, aşadar, ca un om fără de minte.",
+        "grk": "Καὶ οὐκ ἠξιώθην καταφιλῆσαι τὰ παιδία μου, καὶ τὰς θυγατέρας μου· νῦν δὲ ἀφρόνως ἔπραξας."
       }
     },
     {
@@ -2067,7 +2095,8 @@
       "translations": {
         "lxx": "And now my hand has power to hurt thee; but the God of thy father spoke to me yesterday, saying, Take heed to thyself that thou speak not evil words to Jacob.",
         "kjv": "It is in the power of my hand to do you hurt: but the God of your father spake unto me yesternight, saying, Take thou heed that thou speak not to Jacob either good or bad.",
-        "ron": "Şi acum mâna mea cea puternică ar putea să-ţi facă rău. Dar Dumnezeul tatălui tău mi-a vorbit ieri şi mi-a zis: \"Fereşte-te, nu cumva să vorbeşti lui Iacov nici de bine, nici de rău!\""
+        "ron": "Şi acum mâna mea cea puternică ar putea să-ţi facă rău. Dar Dumnezeul tatălui tău mi-a vorbit ieri şi mi-a zis: \"Fereşte-te, nu cumva să vorbeşti lui Iacov nici de bine, nici de rău!\"",
+        "grk": "Καὶ νῦν ἰσχύει ἡ χείρ μου κακοποιῆσαί σε· ὁ δὲ Θεὸς τοῦ πατρός σου χθὲς εἶπε πρός με, λέγων, Φύλαξαι σεαυτὸν μή ποτε λαλήσῃς μετὰ Ἰακὼβ πονηρά."
       }
     },
     {
@@ -2134,7 +2163,8 @@
       "translations": {
         "lxx": "Now then go on thy way, for thou hast earnestly desired to depart to the house of thy father; wherefore hast thou stolen my gods?",
         "kjv": "And now, though thou wouldest needs be gone, because thou sore longedst after thy father’s house, yet wherefore hast thou stolen my gods?",
-        "ron": "Să zicem că ai plecat, pentru că cu mare aprindere doreai casa tatălui tău. Dar atunci de ce mi-ai furat dumnezeii mei?\""
+        "ron": "Să zicem că ai plecat, pentru că cu mare aprindere doreai casa tatălui tău. Dar atunci de ce mi-ai furat dumnezeii mei?\"",
+        "grk": "Νῦν οὖν πεπόρευσαι· ἐπιθυμίᾳ γὰρ ἐπεθύμησας ἀπελθεῖν εἰς τὸν οἶκον τοῦ πατρός σου· ἱνατί ἔκλεψας τοὺς θεούς μου;"
       }
     },
     {
@@ -2196,7 +2226,8 @@
       "translations": {
         "lxx": "And Jacob answered and said to Laban, Because I was afraid; for I said, Lest at any time thou shouldest take away thy daughters from me, and all my possessions.",
         "kjv": "And Jacob answered and said to Laban, Because I was afraid: for I said, Peradventure thou wouldest take by force thy daughters from me.",
-        "ron": "Atunci răspunzând Iacov, a zis către Laban: \"M-am temut, căci ziceam: Nu cumva să-ţi iei fetele de la mine şi toate ale mele."
+        "ron": "Atunci răspunzând Iacov, a zis către Laban: \"M-am temut, căci ziceam: Nu cumva să-ţi iei fetele de la mine şi toate ale mele.",
+        "grk": "Ἀποκριθεὶς δὲ Ἰακὼβ εἶπε τῷ Λάβαν, ὅτι ἐφοβήθην· εἶπα γὰρ, μή ποτε ἀφέλῃ τὰς θυγατέρας σου ἀπʼ ἐμοῦ, καὶ πάντα τὰ ἐμά."
       }
     },
     {
@@ -2343,7 +2374,8 @@
       "translations": {
         "lxx": "And Jacob said, With whomsoever thou shalt find thy gods, he shall not live in the presence of our brethren; take notice of what I have of thy property, and take it; and he observed nothing with him, but Jacob knew not that his wife Rachel had stolen them.",
         "kjv": "With whomsoever thou findest thy gods, let him not live: before our brethren discern thou what is thine with me, and take it to thee. For Jacob knew not that Rachel had stolen them.",
-        "ron": "Dar la cine vei găsi idolii tăi, acela nu va mai trăi. Caută de faţă cu rudele noastre şi ia tot ce vei găsi al tău la mine!\" Iacov însă nu ştia că Rahila, femeia sa, îi furase."
+        "ron": "Dar la cine vei găsi idolii tăi, acela nu va mai trăi. Caută de faţă cu rudele noastre şi ia tot ce vei găsi al tău la mine!\" Iacov însă nu ştia că Rahila, femeia sa, îi furase.",
+        "grk": "Καὶ εἶπεν Ἰακὼβ, παρʼ ᾧ ἂν εὕρῃς τοὺς θεούς σου, οὐ ζήσεται ἐναντίον τῶν ἀδελφῶν ἡμῶν· ἐπίγνωθι τί ἐστι παρʼ ἐμοὶ τῶν σῶν, καὶ λάβε· καὶ οὐκ ἐπέγνω παρʼ αὐτῷ οὐθέν· οὐκ ᾔδει δὲ Ἰακὼβ, ὅτι Ῥαχὴλ ἡ γυνὴ αὐτοῦ ἔκλεψεν αὐτούς."
       }
     },
     {
@@ -2445,7 +2477,8 @@
       "translations": {
         "lxx": "And Laban went in and searched in the house of Lea, and found them not; and he went out of the house of Lea, and searched in the house of Jacob, and in the house of the two maid-servants, and found them not; and he went also into the house of Rachel.",
         "kjv": "And Laban went into Jacob’s tent, and into Leah’s tent, and into the two maidservants’ tents; but he found them not. Then went he out of Leah’s tent, and entered into Rachel’s tent.",
-        "ron": "A intrat atunci Laban în cortul lui Iacov, şi în cortul Liei, şi în cortul celor două roabe, şi a căutat şi n-a găsit nimic; apoi, ieşind din cortul Liei, a intrat şi în cortul Rahilei."
+        "ron": "A intrat atunci Laban în cortul lui Iacov, şi în cortul Liei, şi în cortul celor două roabe, şi a căutat şi n-a găsit nimic; apoi, ieşind din cortul Liei, a intrat şi în cortul Rahilei.",
+        "grk": "Εἰσελθὼν δὲ Λάβαν ἠρεύνησεν εἰς τὸν οἶκον Λείας, καὶ οὐχ εὗρεν· καὶ ἐξῆλθεν ἐκ τοῦ οἴκου Λείας, καὶ ἠρεύνησε τὸν οἶκον Ἰακὼβ, καὶ ἐν τῷ οἴκῳ τῶν δύο παιδισκῶν, καὶ οὐχ εὗρεν· εἰσῆλθε δὲ καὶ εἰς τὸν οἶκον Ῥαχήλ."
       }
     },
     {
@@ -2507,7 +2540,8 @@
       "translations": {
         "lxx": "And Rachel took the idols, and cast them among the camels' packs, and sat upon them.",
         "kjv": "Now Rachel had taken the images, and put them in the camel’s furniture, and sat upon them. And Laban searched all the tent, but found them not.",
-        "ron": "Rahila însă luase idolii şi-i pusese sub samarul cămilei şi şedea deasupra lor; şi a scotocit Laban prin tot cortul Rahilei şi n-a găsit nimic."
+        "ron": "Rahila însă luase idolii şi-i pusese sub samarul cămilei şi şedea deasupra lor; şi a scotocit Laban prin tot cortul Rahilei şi n-a găsit nimic.",
+        "grk": "Ῥαχὴλ δὲ ἔλαβε τὰ εἴδωλα, καὶ ἐνέβαλεν αὐτὰ εἰς τὰ σάγματα τῆς καμήλου, καὶ ἐπεκάθισεν αὐτοῖς."
       }
     },
     {
@@ -2614,7 +2648,8 @@
       "translations": {
         "lxx": "And she said to her father, Be not indignant, Sir; I cannot rise up before thee, for it is with me according to the manner of women. Laban searched in all the house, and found not the images.",
         "kjv": "And she said to her father, Let it not displease my lord that I cannot rise up before thee; for the custom of women is upon me. And he searched, but found not the images.",
-        "ron": "Iar ea a zis către tatăl său: \"Să nu se mânie domnul meu că nu mă pot scula înaintea ta, pentru că tocmai acum am necazul obişnuit al femeilor\". Şi mai scotocind Laban prin tot cortul, n-a găsit idolii."
+        "ron": "Iar ea a zis către tatăl său: \"Să nu se mânie domnul meu că nu mă pot scula înaintea ta, pentru că tocmai acum am necazul obişnuit al femeilor\". Şi mai scotocind Laban prin tot cortul, n-a găsit idolii.",
+        "grk": "Καὶ εἶπε τῷ πατρὶ αὐτῆς, μὴ βαρέως φέρε, κύριε· οὐ δυνάμαι ἀναστῆναι ἐνώπιόν σου, ὅτι τὰ κατʼ ἐθισμὸν τῶν γυναικῶν μοι ἐστίν· ἠρεύνησε Λάβαν ἐν ὅλῳ τῷ οἴκῳ, καὶ οὐχ εὗρε τὰ εἴδωλα."
       }
     },
     {
@@ -2676,7 +2711,8 @@
       "translations": {
         "lxx": "And Jacob was angry, and strove with Laban; and Jacob answered and said to Laban, What is my injustice, and what my sin, that thou hast pursued after me,",
         "kjv": "And Jacob was wroth, and chode with Laban: and Jacob answered and said to Laban, What is my trespass? what is my sin, that thou hast so hotly pursued after me?",
-        "ron": "Atunci s-a mâniat Iacov şi s-a plâns împotriva lui Laban. Şi începând a grăi, Iacov a zis lui Laban: \"Care-i vina mea şi care-i păcatul meu, de te înverşunezi împotriva mea?"
+        "ron": "Atunci s-a mâniat Iacov şi s-a plâns împotriva lui Laban. Şi începând a grăi, Iacov a zis lui Laban: \"Care-i vina mea şi care-i păcatul meu, de te înverşunezi împotriva mea?",
+        "grk": "Ὠργίσθη δὲ Ἰακὼβ, καὶ ἐμαχέσατο τῷ Λάβαν· ἀποκριθεὶς δὲ Ἰακὼβ εἶπε τῷ Λάβαν, τί τὸ ἀδίκημά μου; καὶ τί τὸ ἁμάρτημά μου, ὅτι κατεδίωξας ὀπίσω μου,"
       }
     },
     {
@@ -2758,7 +2794,8 @@
       "translations": {
         "lxx": "and that thou hast searched all the furniture of my house? what hast thou found of all the furniture of thine house? set it here between thy relations and my relations, and let them decide between us two.",
         "kjv": "Whereas thou hast searched all my stuff, what hast thou found of all thy household stuff? set it here before my brethren and thy brethren, that they may judge betwixt us both.",
-        "ron": "Dacă ai răscolit toate lucrurile din casa mea, găsit-ai, oare, ceva din ale casei tale? Arată aici înaintea rudeniilor tale şi înaintea rudeniilor mele, ca să ne judece ele pe amândoi!"
+        "ron": "Dacă ai răscolit toate lucrurile din casa mea, găsit-ai, oare, ceva din ale casei tale? Arată aici înaintea rudeniilor tale şi înaintea rudeniilor mele, ca să ne judece ele pe amândoi!",
+        "grk": "καὶ ὅτι ἠρεύνησας πάντα τὰ σκεύη τοῦ οἴκου μου; τί εὗρες ἀπὸ πάντων τῶν σκευῶν τοῦ οἴκου σου; θὲς ὧδε ἐνώπιον τῶν ἀδελφῶν σου καὶ τῶν ἀδελφῶν μου, καὶ ἐλεγξάτωσαν ἀνὰ μέσον τῶν δύο ἡμῶν."
       }
     },
     {
@@ -2830,7 +2867,8 @@
       "translations": {
         "lxx": "These twenty years have I been with thee; thy sheep, and thy she-goats have not failed in bearing; I devoured not the rams of thy cattle.",
         "kjv": "This twenty years have I been with thee; thy ewes and thy she goats have not cast their young, and the rams of thy flock have I not eaten.",
-        "ron": "Iată, douăzeci de ani am stat la tine: oile tale şi caprele tale n-au lepădat; berbecii oilor tale nu ţi i-am mâncat,"
+        "ron": "Iată, douăzeci de ani am stat la tine: oile tale şi caprele tale n-au lepădat; berbecii oilor tale nu ţi i-am mâncat,",
+        "grk": "Ταῦτά μοι εἴκοσι ἔτη ἐγώ εἰμι μετὰ σοῦ· τὰ πρόβατά σου καὶ αἱ αἶγές σου οὐκ ἠτεκνώθησαν· κριοὺς τῶν προβάτων σου οὐ κατέφαγον."
       }
     },
     {
@@ -2907,7 +2945,8 @@
       "translations": {
         "lxx": "That which was taken of beasts I brought not to thee; I made good of myself the thefts of the day, and the thefts of the night.",
         "kjv": "That which was torn of beasts I brought not unto thee; I bare the loss of it; of my hand didst thou require it, whether stolen by day, or stolen by night.",
-        "ron": "Vite sfâşiate de fiare nu ţi-am adus: acestea au fost paguba mea. Din mâna mea ai cerut ceea ce se furase în timpul zilei şi în vremea nopţii."
+        "ron": "Vite sfâşiate de fiare nu ţi-am adus: acestea au fost paguba mea. Din mâna mea ai cerut ceea ce se furase în timpul zilei şi în vremea nopţii.",
+        "grk": "Θηριάλωτον οὐκ ἐνήνοχά σοι· ἐγὼ ἀπετίννυον παρʼ ἐμαυτοῦ κλέμματα ἡμέρας, καὶ κλέμματα νυκτός."
       }
     },
     {
@@ -2949,7 +2988,8 @@
       "translations": {
         "lxx": "I was parched with heat by day, and chilled with frost by night, and my sleep departed from my eyes.",
         "kjv": "Thus I was; in the day the drought consumed me, and the frost by night; and my sleep departed from mine eyes.",
-        "ron": "Ziua eram mistuit de căldură, iar noaptea de frig şi somnul nu se lipea de ochii mei."
+        "ron": "Ziua eram mistuit de căldură, iar noaptea de frig şi somnul nu se lipea de ochii mei.",
+        "grk": "Ἐγενόμην τῆς ἡμέρας συγκαιόμενος τῷ καύματι, καὶ τῷ παγετῷ τῆς νυκτός· καὶ ἀφίστατο ὁ ὕπνος μου ἀπὸ τῶν ὀφθαλμῶν μου."
       }
     },
     {
@@ -3086,7 +3126,8 @@
       "translations": {
         "lxx": "These twenty years have I been in thy house; I served thee fourteen years for thy two daughters, and six years among thy sheep, and thou didst falsely rate my wages for ten lambs.",
         "kjv": "Thus have I been twenty years in thy house; I served thee fourteen years for thy two daughters, and six years for thy cattle: and thou hast changed my wages ten times.",
-        "ron": "Aşa mi-au fost cei douăzeci de ani în casa ta. ţi-am slujit paisprezece ani pentru cele două fete ale tale şi şase ani pentru vitele tale, iar tu de zeci de ori mi-ai schimbat simbria."
+        "ron": "Aşa mi-au fost cei douăzeci de ani în casa ta. ţi-am slujit paisprezece ani pentru cele două fete ale tale şi şase ani pentru vitele tale, iar tu de zeci de ori mi-ai schimbat simbria.",
+        "grk": "Ταῦτά μοι εἴκοσι ἔτη ἐγώ εἰμι ἐν τῇ οἰκίᾳ σου· ἐδούλευσά σοι δεκατέσσαρα ἔτη ἀντὶ τῶν δύο θυγατέρων σου, καὶ ἓξ ἔτη ἐν τοῖς προβάτοις σου, καὶ παρελογίσω τὸν μισθόν μου δέκα ἀμνάσιν."
       }
     },
     {
@@ -3193,7 +3234,8 @@
       "translations": {
         "lxx": "Unless I had the God of my father Abraam, and the fear of Isaac, now thou wouldest have sent me away empty; God saw my humiliation, and the labour of my hands, and rebuked thee yesterday.",
         "kjv": "Except the God of my father, the God of Abraham, and the fear of Isaac, had been with me, surely thou hadst sent me away now empty. God hath seen mine affliction and the labour of my hands, and rebuked thee yesternight.",
-        "ron": "De n-ar fi fost cu mine Dumnezeul tatălui meu, Dumnezeul lui Avraam şi frica de Isaac, tu acum m-ai fi alungat cu nimic. Necazul meu şi munca mâinilor mele le-a văzut Dumnezeu şi de aceea a mijlocit ieri pentru mine\"."
+        "ron": "De n-ar fi fost cu mine Dumnezeul tatălui meu, Dumnezeul lui Avraam şi frica de Isaac, tu acum m-ai fi alungat cu nimic. Necazul meu şi munca mâinilor mele le-a văzut Dumnezeu şi de aceea a mijlocit ieri pentru mine\".",
+        "grk": "Εἰ μὴ ὁ Θεὸς τοῦ πατρός μου Ἁβραὰμ, καὶ ὁ φόβος Ἰσαὰκ, ἦν μοι, νῦν ἂν κενόν με ἐξαπέστειλας· τὴν ταπείνωσίν μου, καὶ τὸν κόπον τῶν χειρῶν μου, εἶδεν ὁ Θεός· καὶ ἤλεγξέ σε χθές."
       }
     },
     {
@@ -3315,7 +3357,8 @@
       "translations": {
         "lxx": "And Laban answered and said to Jacob, The daughters are my daughters, and the sons my sons, and the cattle are my cattle, and all things which thou seest are mine, and the property of my daughters; what shall I do to them to-day, or their children which they bore?",
         "kjv": "And Laban answered and said unto Jacob, These daughters are my daughters, and these children are my children, and these cattle are my cattle, and all that thou seest is mine: and what can I do this day unto these my daughters, or unto their children which they have born?",
-        "ron": "Răspuns-a Laban şi a zis către Iacov: \"Aceste fete sunt fetele mele, aceşti copii sunt copiii mei, aceste vite sunt vitele mele, şi toate câte le vezi sunt ale mele şi ale fetelor mele. Cum dar aş fi putut eu să fac astăzi ceva împotriva lor, sau împotriva copiilor, pe care i-au născut ele?"
+        "ron": "Răspuns-a Laban şi a zis către Iacov: \"Aceste fete sunt fetele mele, aceşti copii sunt copiii mei, aceste vite sunt vitele mele, şi toate câte le vezi sunt ale mele şi ale fetelor mele. Cum dar aş fi putut eu să fac astăzi ceva împotriva lor, sau împotriva copiilor, pe care i-au născut ele?",
+        "grk": "Ἀποκριθεὶς δὲ Λάβαν εἶπε τῷ Ἰακὼβ, αἱ θυγατέρες, θυγατέρες μου, καὶ υἱοὶ, υἱοί μου, καὶ τὰ κτήνη, κτήνη μου· καὶ πάντα ὅσα σὺ ὁρᾷς, ἐμά ἐστι, καὶ τῶν θυγατέρων μου· τί ποιήσω ταύταις σήμερον ἢ τοῖς τέκνοις αὐτῶν, οἷς ἔτεκον;"
       }
     },
     {
@@ -3372,7 +3415,8 @@
       "translations": {
         "lxx": "Now then come, let me make a covenant, both I and thou, and it shall be for a witness between me and thee; and he said to him, Behold, there is no one with us; behold, God is witness between me and thee.",
         "kjv": "Now therefore come thou, let us make a covenant, I and thou; and let it be for a witness between me and thee.",
-        "ron": "Haidem dar acum să facem amândoi, eu şi tu, legământ, care să fie mărturie între mine şi tine!\" Iar Iacov i-a zis: \"Iată, nu e nimeni cu noi; dar să ştii că Dumnezeu este martor între mine şi tine\"."
+        "ron": "Haidem dar acum să facem amândoi, eu şi tu, legământ, care să fie mărturie între mine şi tine!\" Iar Iacov i-a zis: \"Iată, nu e nimeni cu noi; dar să ştii că Dumnezeu este martor între mine şi tine\".",
+        "grk": "Νῦν οὖν δεῦρο διαθῶμαι διαθήκην ἐγώ τε καὶ σύ· καὶ ἔσται εἰς μαρτύριον ἀνὰ μέσον ἐμοῦ καὶ σοῦ· εἶπε δὲ αὐτῷ, ἰδοὺ οὐθεὶς μεθʼ ἡμῶν ἐστιν· ἴδε ὁ Θεὸς μάρτυς ἀνὰ μέσον ἐμοῦ καὶ σοῦ."
       }
     },
     {
@@ -3409,7 +3453,8 @@
       "translations": {
         "lxx": "And Jacob having taken a stone, set it up for a pillar.",
         "kjv": "And Jacob took a stone, and set it up for a pillar.",
-        "ron": "Şi a luat Iacov o piatră şi a pus-o stâlp."
+        "ron": "Şi a luat Iacov o piatră şi a pus-o stâlp.",
+        "grk": "Λαβὼν δὲ Ἰακὼβ λίθον, ἔστησεν αὐτὸν στήλην."
       }
     },
     {
@@ -3536,7 +3581,8 @@
       "translations": {
         "lxx": "And Jacob said to his brethren, Gather stones; and they gathered stones and made a heap, and ate there upon the heap; and Laban said to him, This heap witnesses between me and thee to-day.",
         "kjv": "And Jacob said unto his brethren, Gather stones; and they took stones, and made an heap: and they did eat there upon the heap.",
-        "ron": "Apoi a zis Iacov către fraţii săi: \"Adunaţi pietre!\" Şi au adunat pietre şi au făcut o movilă; şi au mâncat şi au băut acolo pe movilă. Apoi a zis Laban către dânsul: \"Movila aceasta este astăzi mărturie între mine şi între tine\"."
+        "ron": "Apoi a zis Iacov către fraţii săi: \"Adunaţi pietre!\" Şi au adunat pietre şi au făcut o movilă; şi au mâncat şi au băut acolo pe movilă. Apoi a zis Laban către dânsul: \"Movila aceasta este astăzi mărturie între mine şi între tine\".",
+        "grk": "Εἶπε δὲ Ἰακὼβ τοῖς ἀδελφοῖς αὐτοῦ, συλλέγετε λίθους· καὶ συνέλεξαν λίθους, καὶ ἐποίησαν βουνόν· καὶ ἔφαγον ἐκεῖ ἐπὶ τοῦ βουνοῦ· καὶ εἶπεν αὐτῷ Λάβαν, ὁ βουνὸς οὗτος μαρτυρεῖ ἀνὰ μέσον ἐμοῦ καὶ σοῦ σήμερον."
       }
     },
     {
@@ -3583,7 +3629,8 @@
       "translations": {
         "lxx": "And Laban called it, the Heap of Testimony; and Jacob called it, the Witness Heap.",
         "kjv": "And Laban called it Jegarsahadutha: but Jacob called it Galeed.",
-        "ron": "Şi Laban a numit-o în limba sa: Iegar-Sahaduta, adică movila mărturiei, iar Iacov i-a dat acelaşi nume, însă pe limba sa şi i-a zis: Galaad."
+        "ron": "Şi Laban a numit-o în limba sa: Iegar-Sahaduta, adică movila mărturiei, iar Iacov i-a dat acelaşi nume, însă pe limba sa şi i-a zis: Galaad.",
+        "grk": "Καὶ ἐκάλεσεν αὐτὸν Λάβαν, βουνὸς τῆς μαρτυρίας· Ἰακὼβ δὲ ἐκάλεσεν αὐτὸν, βουνὸς μάρτυς."
       }
     },
     {
@@ -3680,7 +3727,8 @@
       "translations": {
         "lxx": "And Laban said to Jacob, Behold this heap, and the pillar, which I have set between me and thee; this heap witnesses, and this pillar witnesses; therefore its name was called, the Heap witnesses.",
         "kjv": "And Laban said, This heap is a witness between me and thee this day. Therefore was the name of it called Galeed;",
-        "ron": "Apoi Laban a zis iarăşi către Iacov: \"Iată, movila aceasta şi semnul ce am pus astăzi sunt mărturia legământului dintre mine şi tine\". De aceea i s-a pus şi numele Galaad, adică movila mărturiei."
+        "ron": "Apoi Laban a zis iarăşi către Iacov: \"Iată, movila aceasta şi semnul ce am pus astăzi sunt mărturia legământului dintre mine şi tine\". De aceea i s-a pus şi numele Galaad, adică movila mărturiei.",
+        "grk": "Εἶπε δὲ Λάβαν τῷ Ἰακὼβ, ἰδοὺ ὁ βουνὸς οὗτος καὶ ἡ στήλη, ἣν ἔστησα ἀνὰ μέσον ἐμοῦ καὶ σοῦ· μαρτυρεῖ ὁ βουνὸς οὗτος, καὶ μαρτυρεῖ ἡ στήλη αὕτη· διὰ τοῦτο ἐκλήθη τὸ ὄνομα, βουνὸς μαρτυρεῖ."
       }
     },
     {
@@ -3747,7 +3795,8 @@
       "translations": {
         "lxx": "And the vision of which he said—Let God look to it between me and thee, because we are about to depart from each other,—",
         "kjv": "And Mizpah; for he said, The LORD watch between me and thee, when we are absent one from another.",
-        "ron": "Ba s-a mai numit ea şi Miţpa, adică veghere, pentru că Laban a zis: \"Să vegheze Domnul asupra mea şi asupra ta, după ce ne vom despărţi unul de altul."
+        "ron": "Ba s-a mai numit ea şi Miţpa, adică veghere, pentru că Laban a zis: \"Să vegheze Domnul asupra mea şi asupra ta, după ce ne vom despărţi unul de altul.",
+        "grk": "Καὶ ἡ ὅρασις, ἣν εἶπεν, ἐπίδοι ὁ Θεὸς ἀνὰ μέσον ἐμοῦ καὶ σοῦ· ὅτι ἀποστησόμεθα ἕτερος ἀφʼ ἑτέρου."
       }
     },
     {
@@ -3794,7 +3843,8 @@
       "translations": {
         "lxx": "And Laban said to Jacob, Behold, this heap, and this pillar are a witness.",
         "kjv": "If thou shalt afflict my daughters, or if thou shalt take other wives beside my daughters, no man is with us; see, God is witness betwixt me and thee.",
-        "ron": "De te vei purta rău cu fetele mele, sau de-ţi vei mai lua şi alte femei, afară de fetele mele, nu mai e vorba de un om, care să vadă, ci ia aminte că între mine şi între tine e martor Dumnezeu!\""
+        "ron": "De te vei purta rău cu fetele mele, sau de-ţi vei mai lua şi alte femei, afară de fetele mele, nu mai e vorba de un om, care să vadă, ci ia aminte că între mine şi între tine e martor Dumnezeu!\"",
+        "grk": "Εἰ ταπεινώσεις τὰς θυγατέρας μου, εἰ λάβῃς γυναῖκας πρὸς ταῖς θυγατράσι μου, ὅρα, οὐθεὶς μεθʼ ἡμῶν ἐστιν ὁρῶν· Θεὸς μάρτυς μεταξὺ ἐμοῦ καὶ μεταξὺ σοῦ. Καὶ εἶπε Λάβαν τῷ Ἰακὼβ, ἰδοὺ ὁ βουνὸς οὗτος καὶ μάρτυς ἡ στήλη αὕτη."
       }
     },
     {
@@ -3907,7 +3957,8 @@
       "translations": {
         "lxx": "For if I should not cross over unto thee, neither shouldest thou cross over to me, for mischief beyond this heap and this pillar.",
         "kjv": "This heap be witness, and this pillar be witness, that I will not pass over this heap to thee, and that thou shalt not pass over this heap and this pillar unto me, for harm.",
-        "ron": "Că nici eu nu voi trece spre tine şi nici tu nu vei trece spre mine, de la această movilă, cu gând rău."
+        "ron": "Că nici eu nu voi trece spre tine şi nici tu nu vei trece spre mine, de la această movilă, cu gând rău.",
+        "grk": "Ἐάν τε γὰρ ἐγὼ μὴ διαβῶ πρός σε, μήτε σὺ διαβῇς πρός με τὸν βουνὸν τοῦτον καὶ τὴν στήλην ταύτην ἐπὶ κακίᾳ."
       }
     },
     {
@@ -3979,7 +4030,8 @@
       "translations": {
         "lxx": "The God of Abraam and the God of Nachor judge between us; and Jacob swore by the Fear of his father Isaac.",
         "kjv": "The God of Abraham, and the God of Nahor, the God of their father, judge betwixt us. And Jacob sware by the fear of his father Isaac.",
-        "ron": "Dumnezeul lui Avraam şi Dumnezeul lui Nahor, Dumnezeul părinţilor lor să fie judecător între noi!\" Iar Iacov a jurat pe Acela, de Care se temea Isaac, tatăl său."
+        "ron": "Dumnezeul lui Avraam şi Dumnezeul lui Nahor, Dumnezeul părinţilor lor să fie judecător între noi!\" Iar Iacov a jurat pe Acela, de Care se temea Isaac, tatăl său.",
+        "grk": "Ὁ Θεὸς Ἁβραὰμ καὶ ὁ Θεὸς Ναχὼρ κρίναι ἀνὰ μέσον ἡμῶν· καὶ ὤμοσεν Ἰακὼβ κατὰ τοῦ φόβου τοῦ πατρὸς αὐτοῦ Ἰσαάκ."
       }
     },
     {
@@ -4056,7 +4108,8 @@
       "translations": {
         "lxx": "And he offered a sacrifice in the mountain, and called his brethren, and they ate and drank, and slept in the mountain.",
         "kjv": "Then Jacob offered sacrifice upon the mount, and called his brethren to eat bread: and they did eat bread, and tarried all night in the mount.",
-        "ron": "Apoi a junghiat Iacov ardere de tot pe munte şi a chemat pe rudele sale să mănânce pâine. Şi au mâncat pâine şi s-au veselit în munte."
+        "ron": "Apoi a junghiat Iacov ardere de tot pe munte şi a chemat pe rudele sale să mănânce pâine. Şi au mâncat pâine şi s-au veselit în munte.",
+        "grk": "Καὶ ἔθυσεν θυσίαν ἐν τῷ ὄρει· καὶ ἐκάλεσε τοὺς ἀδελφοὺς αὐτοῦ, καὶ ἔφαγον καὶ ἔπιον, καὶ ἐκοιμήθησαν ἐν τῷ ὄρει."
       }
     }
   ],

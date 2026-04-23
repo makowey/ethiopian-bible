@@ -8,7 +8,8 @@
       "translation": "For the end, a Psalm of David.",
       "words": [],
       "translations": {
-        "ron": "Aşteptând am aşteptat pe Domnul şi S-a plecat spre mine."
+        "ron": "Aşteptând am aşteptat pe Domnul şi S-a plecat spre mine.",
+        "grk": "Εἰς τὸ τέλος, τῷ Δαυὶδ ψαλμός."
       }
     },
     {
@@ -17,7 +18,8 @@
       "translation": "I waited patiently for the Lord; and he attended to me, and hearkened to my supplication.",
       "words": [],
       "translations": {
-        "ron": "A auzit rugăciunea mea. M-a scos din groapa ticăloşiei şi din tina noroiului"
+        "ron": "A auzit rugăciunea mea. M-a scos din groapa ticăloşiei şi din tina noroiului",
+        "grk": "Ὑπομένων ὑπέμεινα τὸν Κύριον, καὶ προσέσχε μοι, καὶ εἰσήκουσε τῆς δεήσεώς μου."
       }
     },
     {
@@ -26,7 +28,8 @@
       "translation": "And he brought me up out of a pit of misery, and from miry clay: and he set my feet on a rock, and ordered my goings aright.",
       "words": [],
       "translations": {
-        "ron": "Şi a pus pe piatră picioarele mele şi a îndreptat paşii mei."
+        "ron": "Şi a pus pe piatră picioarele mele şi a îndreptat paşii mei.",
+        "grk": "Καὶ ἀνήγαγέ με ἐκ λάκκου ταλαιπωρίας, καὶ ἀπὸ πηλοῦ ἰλύος· καὶ ἔστησεν ἐπὶ πέτραν τοὺς πόδας μου, καὶ κατεύθυνε τὰ διαβήματά μου."
       }
     },
     {
@@ -35,7 +38,8 @@
       "translation": "And he put a new song into my mouth, even a hymn to our God: many shall see it, and fear, and shall hope in the Lord.",
       "words": [],
       "translations": {
-        "ron": "Şi a pus în gura mea cântare nouă, cântare Dumnezeului nostru;"
+        "ron": "Şi a pus în gura mea cântare nouă, cântare Dumnezeului nostru;",
+        "grk": "Καὶ ἐνέβαλεν εἰς τὸ στόμα μου ᾆσμα καινὸν, ὕμνον τῷ Θεῷ ἡμῶν· ὄψονται πολλοὶ καὶ φοβηθήσονται, καὶ ἐλπιοῦσιν ἐπὶ Κύριον."
       }
     },
     {
@@ -44,7 +48,8 @@
       "translation": "Blessed is the man whose hope is the name of the Lord, and who has not regarded vanities and false frenzies.",
       "words": [],
       "translations": {
-        "ron": "Vedea-vor mulţi şi se vor teme şi vor nădăjdui în Domnul."
+        "ron": "Vedea-vor mulţi şi se vor teme şi vor nădăjdui în Domnul.",
+        "grk": "Μακάριος ἀνὴρ, οὗ ἐστι τὸ ὄνομα Κυρίου ἐλπὶς αὐτοῦ, καὶ οὐκ ἐπέβλεψεν εἰς ματαιότητας καὶ μανίας ψευδεῖς."
       }
     },
     {
@@ -53,7 +58,8 @@
       "translation": "O Lord my God, thou hast multiplied thy wonderful works, and in thy thoughts there is none who shall be likened to thee: I declared and spoke of them: they exceeded number.",
       "words": [],
       "translations": {
-        "ron": "Fericit bărbatul, a cărui nădejde este numele Domnului şi n-a privit la deşertăciuni şi la nebunii mincinoase."
+        "ron": "Fericit bărbatul, a cărui nădejde este numele Domnului şi n-a privit la deşertăciuni şi la nebunii mincinoase.",
+        "grk": "Πολλὰ ἐποίησας σὺ Κύριε ὁ Θεός μου τὰ θαυμάσιά σου, καὶ τοῖς διαλογισμοῖς σου οὐκ ἔστι τίς ὁμοιωθήσεταί σοι· ἀπήγγειλα καὶ ἐλάλησα, ἐπληθύνθησαν ὑπὲρ ἀριθμόν."
       }
     },
     {
@@ -62,7 +68,8 @@
       "translation": "Sacrifice and offering thou wouldest not; but a body hast thou prepared me: whole-burnt-offering and sacrifice for sin thou didst not require.",
       "words": [],
       "translations": {
-        "ron": "Multe ai făcut Tu, Doamne, Dumnezeul meu, minunile Tale, şi nu este cine să se asemene gândurilor Tale;"
+        "ron": "Multe ai făcut Tu, Doamne, Dumnezeul meu, minunile Tale, şi nu este cine să se asemene gândurilor Tale;",
+        "grk": "Θυσίαν καὶ προσφορὰν οὐκ ἠθέλησας, σῶμα δὲ κατηρτίσω μοι· ὁλοκαύτωμα καὶ περὶ ἁμαρτίας οὐκ ᾔτησας."
       }
     },
     {
@@ -71,7 +78,8 @@
       "translation": "Then I said, Behold, I come: in the volume of the book it is written concerning me,",
       "words": [],
       "translations": {
-        "ron": "Vestit-am şi am grăit: înmulţitu-s-au peste număr."
+        "ron": "Vestit-am şi am grăit: înmulţitu-s-au peste număr.",
+        "grk": "Τότε εἶπον, ἰδοὺ ἥκω· ἐν κεφαλίδι βιβλίου γέγραπται περὶ ἐμοῦ,"
       }
     },
     {
@@ -80,7 +88,8 @@
       "translation": "I desired to do thy will, O my God, and thy law in the midst of mine heart.",
       "words": [],
       "translations": {
-        "ron": "Jertfă şi prinos n-ai voit, dar trup mi-ai întocmit;"
+        "ron": "Jertfă şi prinos n-ai voit, dar trup mi-ai întocmit;",
+        "grk": "τοῦ ποιῆσαι τὸ θέλημά σου ὁ Θεός μου ἠβουλήθην, καὶ τὸν νόμον σου ἐν μέσῳ τῆς καρδίας μου."
       }
     },
     {
@@ -89,7 +98,8 @@
       "translation": "I have preached righteousness in the great congregation; lo! I will not refrain my lips; O Lord, thou knowest my righteousness.",
       "words": [],
       "translations": {
-        "ron": "Ardere de tot şi jertfă pentru păcat n-ai cerut. Atunci am zis: \"Iată vin!"
+        "ron": "Ardere de tot şi jertfă pentru păcat n-ai cerut. Atunci am zis: \"Iată vin!",
+        "grk": "Εὐηγγελισάμην δικαιοσύνην ἐν ἐκκλησίᾳ μεγάλῃ, ἰδοὺ τὰ χείλη μου οὐ μὴ κωλύσω. Κύριε, σὺ ἔγνως"
       }
     },
     {
@@ -98,7 +108,8 @@
       "translation": "I have not hid thy truth within my heart, and I have declared thy salvation; I have not hid thy mercy and thy truth from the great congregation.",
       "words": [],
       "translations": {
-        "ron": "În capul cărţii este scris despre mine. Ca să fac voia Ta, Dumnezeul meu, am voit şi legea Ta înăuntru inimii mele\"."
+        "ron": "În capul cărţii este scris despre mine. Ca să fac voia Ta, Dumnezeul meu, am voit şi legea Ta înăuntru inimii mele\".",
+        "grk": "τὴν δικαιοσύνην μου, οὐκ ἔκρυψα ἐν τῇ καρδίᾳ μου τὴν ἀλήθειάν σου, καὶ τὸ σωτήριόν σου εἶπα· οὐκ ἔκρυψα τὸ ἔλεός σου καὶ τὴν ἀλήθειάν σου ἀπὸ συναγωγῆς πολλῆς."
       }
     },
     {
@@ -107,7 +118,8 @@
       "translation": "But thou, Lord, remove not thy compassion far from me; thy mercy and thy truth have helped me continually.",
       "words": [],
       "translations": {
-        "ron": "Bine am vestit dreptate în adunare mare; iată buzele mele nu le voi opri; Doamne, Tu ai cunoscut."
+        "ron": "Bine am vestit dreptate în adunare mare; iată buzele mele nu le voi opri; Doamne, Tu ai cunoscut.",
+        "grk": "Σὺ δέ Κύριε μὴ μακρύνῃς τοὺς οἰκτιρμούς σου ἀπʼ ἐμοῦ, τὸ ἔλεός σου καὶ ἡ ἀλήθειά σου διαπαντὸς ἀντελάβοντό μου."
       }
     },
     {
@@ -116,7 +128,8 @@
       "translation": "For innumerable evils have encompassed me; my transgressions have taken hold of me, and I could not see; they are multiplied more than the hairs of my head; and my heart has failed me.",
       "words": [],
       "translations": {
-        "ron": "Dreptatea Ta n-am ascuns-o în inima mea, adevărul Tău şi mântuirea Ta am spus."
+        "ron": "Dreptatea Ta n-am ascuns-o în inima mea, adevărul Tău şi mântuirea Ta am spus.",
+        "grk": "Ὅτι περιέσχον με κακὰ, ὧν οὐκ ἔστιν ἀριθμὸς, κατέλαβόν με αἱ ἀνομίαι μου, καὶ οὐκ ἠδυνάσθην τοῦ βλέπειν· ἐπληθύνθησαν ὑπὲρ τὰς τρίχας τῆς κεφαλῆς μου, καὶ ἡ καρδία μου ἐγκατέλιπέ με."
       }
     },
     {
@@ -125,7 +138,8 @@
       "translation": "Be pleased, O Lord, to deliver me; O Lord, draw nigh to help me.",
       "words": [],
       "translations": {
-        "ron": "N-am ascuns mila Ta şi adevărul Tău în adunare mare."
+        "ron": "N-am ascuns mila Ta şi adevărul Tău în adunare mare.",
+        "grk": "Εὐδόκησον Κύριε τοῦ ῥύσασθαί με, Κύριε εἰς τὸ βοηθῆσαί μοι πρόσχες."
       }
     },
     {

@@ -6,193 +6,289 @@
       "num": 1,
       "geez": "",
       "translation": "Why delayest thou, O tyrant? for we are readier to die than to transgress the injunctions of our fathers.",
-      "words": []
+      "words": [],
+      "translations": {
+        "grk": "Τί μέλλεις, ὦ τύραννε; ἕτοιμοι γάρ ἐσμεν ἀποθνήσκειν, ἢ παραβαίνειν τὰς πατρίους ἡμῶν ἐντολάς."
+      }
     },
     {
       "num": 2,
       "geez": "",
       "translation": "And we should be disgracing our fathers if we did not obey the law, and take knowledge for our guide.",
-      "words": []
+      "words": [],
+      "translations": {
+        "grk": "Καὶ αἰσχυνόμεθα γὰρ τοὺς προγόνους εἰκότως, εἰ μὴ τῇ τοῦ νόμου εὐπειθείᾳ καὶ συμβούλῳ γνώσει χρησαίμεθα."
+      }
     },
     {
       "num": 3,
       "geez": "",
       "translation": "O tyrant, counsellor of law-breaking, do not, hating us as thou dost, pity us more than we pity ourselves.",
-      "words": []
+      "words": [],
+      "translations": {
+        "grk": "Σύμβουλε τύραννε παρανομίας, μὴ ἡμᾶς μισῶν ὑπὲρ αὐτοὺς ἡμᾶς ἐλέα."
+      }
     },
     {
       "num": 4,
       "geez": "",
       "translation": "For we account your pity of us on the terms of unlawful escape to be worse than death.",
-      "words": []
+      "words": [],
+      "translations": {
+        "grk": "Χαλεπώτερον γὰρ αὐτοὺς τοῦ θανάτου νομίζομεν εἶναί σου τὸν ἐπὶ τῇ παρανόμῳ σωτηρίᾳ ἡμῶν ἔλεον."
+      }
     },
     {
       "num": 5,
       "geez": "",
       "translation": "And you think to scare us, by threatening us with death by tortures, as though thou hadst learned nothing by the death of Eleazar.",
-      "words": []
+      "words": [],
+      "translations": {
+        "grk": "Ἐκφοβεῖς δὲ ἡμᾶς, τὸν διὰ τῶν βασάνων ἡμῖν θάνατον ἀπειλῶν, ὥσπερ οὐχὶ πρὸ βραχέως παρὰ Ἐλεαζάρου μαθών."
+      }
     },
     {
       "num": 6,
       "geez": "",
       "translation": "But if aged men of the Hebrews have died in the cause of religion after enduring torture, more rightly should we younger men die, scorning your cruel tortures, which our aged instructor overcame.",
-      "words": []
+      "words": [],
+      "translations": {
+        "grk": "Εἰ δʼ οἱ γέροντες τῶν Ἑβραίων διὰ τὴν εὐσέβειαν καὶ βασανισμὸυς ὑπομείναντες ἀπέθανον, ἀποθάνοιμεν ἂν δικαιότερον ἡμεῖς οἱ νέοι, τὰς βασάνους τῶν σῶν ἀναγκῶν ὑπεριδόντες, ἃς καὶ ὁ παιδευτὴς γέρων ἐνίκησεν."
+      }
     },
     {
       "num": 7,
       "geez": "",
       "translation": "Make the attempt, then, O tyrant; and if thou puttest us to death for our religion, think not that thou harmest us by torturing us.",
-      "words": []
+      "words": [],
+      "translations": {
+        "grk": "Πείραζε γαροῦν τύραννε· καὶ τὰς ἡμῶν ψυχὰς εἰ θανατώσεις διὰ τὴν εὐσέβειαν, μὴ νομίσῃς ἡμᾶς βλάπτειν βασανίζων."
+      }
     },
     {
       "num": 8,
       "geez": "",
       "translation": "For we through this ill-treatment and endurance shall bear off the rewards of virtue.",
-      "words": []
+      "words": [],
+      "translations": {
+        "grk": "Ἡμεῖς μὲν γὰρ διὰ τῆσδε τῆς κακοπαθείας καὶ ὑπομονῆς, τὰ τῆς ἀρετῆς ἆθλα οἴσομεν."
+      }
     },
     {
       "num": 9,
       "geez": "",
       "translation": "But thou, for the wicked and despotic slaughter of us, shalt, from the Divine vengeance, endure eternal torture by fire.",
-      "words": []
+      "words": [],
+      "translations": {
+        "grk": "Σὺ δὲ διὰ τὴν ἡμῶν μιαροφονίαν αὐτάρχη καρτερήσεις περὶ τῆς θείας δίκης αἰώνιον βάσανον διὰ πυρός."
+      }
     },
     {
       "num": 10,
       "geez": "",
       "translation": "When they had thus spoken, the tyrant was not only exasperated against them as being refractory, but enraged with them as being ungrateful.",
-      "words": []
+      "words": [],
+      "translations": {
+        "grk": "Ταῦτα αὐτῶν εἰπόντων, οὐ μόνον ὡς κατὰ ἀπειθούντων ἐχαλέπαινεν ὁ τύραννος, ἀλλʼ ὡς καὶ κατὰ ἀχαρίστων ὠργίσθη."
+      }
     },
     {
       "num": 11,
       "geez": "",
       "translation": "So that, at his bidding, the torturers brought forth the eldest of them, and tearing through his tunic, bound his hands and arms on each side with thongs.",
-      "words": []
+      "words": [],
+      "translations": {
+        "grk": "Ὅθεν τὸν πρεσβύτατον αὐτῶν κελευθέντες παρήγαγον οἱ μαστισταὶ, καὶ διαῤῥήξαντες τὸν χιτῶνα διέδησαν τὰς χεῖρας αὐτοῦ καὶ τοὺς βραχίονας ἱμᾶσιν ἑκατέρωθεν."
+      }
     },
     {
       "num": 12,
       "geez": "",
       "translation": "And when they had laboured hard without effect in scourging him, they hurled him upon the wheel.",
-      "words": []
+      "words": [],
+      "translations": {
+        "grk": "Ὡς δὲ τύπτοντες ταῖς μάστιξιν ἐκοπίασαν, μηδὲν ἀνύοντες, ἀνέβαλον αὐτὸν ἐπὶ τὸν τροχόν."
+      }
     },
     {
       "num": 13,
       "geez": "",
       "translation": "And the noble youth, extended upon this, became dislocated.",
-      "words": []
+      "words": [],
+      "translations": {
+        "grk": "Περὶ ὃν κατατεινόμενος ὁ εὐγενὴς νεανίας, ἔξαρθρος ἐγίνετο."
+      }
     },
     {
       "num": 14,
       "geez": "",
       "translation": "And with every member disjointed, he exclaimed in expostulation,",
-      "words": []
+      "words": [],
+      "translations": {
+        "grk": "Καὶ κατὰ πᾶν μέλος κλώμενος κατηγόρει, λέγων,"
+      }
     },
     {
       "num": 15,
       "geez": "",
       "translation": "O most accursed tyrant, and enemy of heavenly justice, and cruel-hearted, I am no murderer, nor sacrilegious man, whom thou thus ill-usest; but a defender of the Divine law.",
-      "words": []
+      "words": [],
+      "translations": {
+        "grk": "Τύραννε μιαιρώτατε, καὶ τῆς οὐρανίου δίκης ἐχθρὲ, καὶ ὠμόφρον, οὐκ ἀνδροφονήσαντά με τοῦτον καταικίζεις τὸν τρόπον, οὐδὲ ἀσεβήσαντα, ἀλλα θείου νόμου προασπίζοντα."
+      }
     },
     {
       "num": 16,
       "geez": "",
       "translation": "And when the spearmen said, Consent to eat, that you may be released from your tortures,—",
-      "words": []
+      "words": [],
+      "translations": {
+        "grk": "Καὶ τῶν δορυφόρων λεγόντων, ὁμολόγησον φαγεῖν, οὕπως ἀπαλλαγῇς τῶν βασάνων,"
+      }
     },
     {
       "num": 17,
       "geez": "",
       "translation": "he answered, Not so powerful, O accursed ministers, is your wheel, as to stifle my reasoning; cut my limbs, and burn my flesh, and twist my joints.",
-      "words": []
+      "words": [],
+      "translations": {
+        "grk": "ὁ δὲ εἶπεν, οὐχ οὕτως ἰσχυρὸς ὑμῶν ἐστιν ὁ τρόπος, ὦ μιαιροὶ διὰκονοι, ὥστε μου τὸν λογισμὸν ἄξαι· τέμνετέ μου μέλη, καὶ πυροῦτε τὰς σάρκας, καὶ στρεβλοῦτε τὰ ἄρθρα."
+      }
     },
     {
       "num": 18,
       "geez": "",
       "translation": "For through all my torments I will convince you that the children of the Hebrews are alone unconquered in behalf of virtue.",
-      "words": []
+      "words": [],
+      "translations": {
+        "grk": "Διὰ πασῶν γὰρ ὑμᾶς πείσω τῶν βασάνων· ὅτι μόνοι παῖδες Ἑβραίων ὑπὲρ ἀρετῆς εἰσιν ἀνίκητοι."
+      }
     },
     {
       "num": 19,
       "geez": "",
       "translation": "While he was saying this, they heaped up fuel, and setting fire to it, strained him upon the wheel still more.",
-      "words": []
+      "words": [],
+      "translations": {
+        "grk": "Ταῦτα λέγοντες εἰς πῦρ ἐπέτρωσαν, καὶ διερεθίζοντες, τὸν τροχὸν προσεπικατέτεινον."
+      }
     },
     {
       "num": 20,
       "geez": "",
       "translation": "And the wheel was defiled all over with blood, and the hot ashes were quenched by the droppings of gore, and pieces of flesh were scattered about the axles of the machine.",
-      "words": []
+      "words": [],
+      "translations": {
+        "grk": "Ἐμολύνετο δὲ πάντοθεν αἵματι ὁ τρόχος, καὶ ὁ σωρὸς τῆς ἀνθρακιᾶς τοῖς τῶν ἰχώρων ἐσβέννυτο σταλαγμοῖς, καὶ περὶ τοὺς αὔξονας τοῦ ὀργάνου περιέῤῥεον αἱ σάρκες."
+      }
     },
     {
       "num": 21,
       "geez": "",
       "translation": "And although the framework of his bones was now destroyed, the high-minded and Abrahamic youth did not groan.",
-      "words": []
+      "words": [],
+      "translations": {
+        "grk": "Καὶ περιτετηκμένον ἤδη ἔχων τὸ τῶν ὀστέων πῆγμα ὁ μεγαλόφρων καὶ Ἀβραμιαῖος νεανίας οὐκ ἐστέναξεν."
+      }
     },
     {
       "num": 22,
       "geez": "",
       "translation": "But, as though transformed by fire into immortality, he nobly endured the rackings, saying,",
-      "words": []
+      "words": [],
+      "translations": {
+        "grk": "Ἀλλʼ ὥσπερ ἐν πυρὶ μετασχηματιζόμενος εἰς ἀφθαρσίαν, ὑπέμεινεν εὐγενῶς τὰς στρέβλας."
+      }
     },
     {
       "num": 23,
       "geez": "",
       "translation": "Imitate me, O brethren, nor ever desert your station, nor abjure my brotherhood in courage: fight the holy and honourable fight of religion;",
-      "words": []
+      "words": [],
+      "translations": {
+        "grk": "Μιμήσασθέ με, ἀδελφοὶ, λέγων· μή μου τὸν αἰῶνα λειποτακτήσητε, μηδʼ ἐξομόσησθέ μου τὴν τῆς εὐψυχίας ἀδελφότητα· ἱερὰν καὶ εὐγενῆ στρατείαν στρατεύσασθε περὶ τῆς εὐσεβείας."
+      }
     },
     {
       "num": 24,
       "geez": "",
       "translation": "by which means our just and paternal Providence, becoming merciful to the nation, will punish the pestilent tyrant.",
-      "words": []
+      "words": [],
+      "translations": {
+        "grk": "Διʼ ἧς ἷλεως ἡ δικαία καὶ πάτριος ἡμῶν πρόνοια τῷ ἔθνει γενηθεῖσα τιμωρήσειεν τὸν ἀλάστορα τύραννον."
+      }
     },
     {
       "num": 25,
       "geez": "",
       "translation": "And saying this, the revered youth abruptly closed his life.",
-      "words": []
+      "words": [],
+      "translations": {
+        "grk": "Καὶ ταῦτα εἰπὼν ὁ ἱεροπρεπὴς νεανίας, ἀπέῤῥηξεν τὴν ψυχήν."
+      }
     },
     {
       "num": 26,
       "geez": "",
       "translation": "And when all admired his courageous soul, the spearmen brought forward him who was second in point of age, and having put on iron hands, bound him with pointed hooks to the catapelt.",
-      "words": []
+      "words": [],
+      "translations": {
+        "grk": "Θαυμασάντων δὲ πάντων τὴν καρτεροψυχίαν αὐτοῦ, ἦγον οἱ δορυφόροι τὸν καθʼ ἡλικίαν τοῶ προτέρου δεύτερον, καὶ σιδηρᾶς ἐναρμοσάμενοί χεῖρας, ὀξέσιν τοῖς ὄνυξιν, τοῖς ὀργάνοις καταπέλτῃ προσέδησαν αὐτόν."
+      }
     },
     {
       "num": 27,
       "geez": "",
       "translation": "And when, on enquiring whether he would eat before he was tortured, they heard his noble sentiment,",
-      "words": []
+      "words": [],
+      "translations": {
+        "grk": "Ὡς δὲ, εἰ φαγεῖν βούλοιτο πρὶν βασανίζεσθαι πυνθανόμενοι, τὴν εὐγενῆ γνώμην ἤκουσαν·"
+      }
     },
     {
       "num": 28,
       "geez": "",
       "translation": "after they with the iron hands had violently dragged all the flesh from the neck to the chin, the panther-like beasts tore off the very skin of his head: but he, bearing with firmness this misery, said,",
-      "words": []
+      "words": [],
+      "translations": {
+        "grk": "ἀπὸ τῶν τενόντων ταῖς σιδηραῖς χερσὶν ἐπισπασάμενοι, μέχρι γε τῶν γενείων τὴν σάρκα πᾶσαν καὶ τὴν τῆς κεφαλῆς δορὰν οἱ παρδάλειοι θῆρες ἀπέσυραν· ὁ δὲ ταύτην βαρέως τὴν ἀλγηδόνα καρτερῶν, ἔλεγεν,"
+      }
     },
     {
       "num": 29,
       "geez": "",
       "translation": "How sweet is every form of death for the religion of our fathers! and he said to the tyrant,",
-      "words": []
+      "words": [],
+      "translations": {
+        "grk": "Ὡς ἡδὺς πᾶς τρόπος θανάτου, διὰ τὴν πάτριον ἡμῶν εὐσέβειαν· ἔφη τε πρὸς τὸν τύραννον,"
+      }
     },
     {
       "num": 30,
       "geez": "",
       "translation": "Thinkest thou not, most cruel of all tyrants, that thou art now tortured more than I, finding thy overweening conception of tyranny conquered by our patience in behalf of our religion?",
-      "words": []
+      "words": [],
+      "translations": {
+        "grk": "Οὐ δοκεῖς, πάντων ὠμότατε τύραννε, πλεῖων ἐμοῦ σε νὺν βασανίζεσθαι, ὁρῶν σου νικώμενον τὸν τῆς τυραννίδος ὑπερήφανον λογισμὸν ὑπὸ τῆς διὰ τὴν εὐσέβειαν ἡμῶν ὑπομονῆς."
+      }
     },
     {
       "num": 31,
       "geez": "",
       "translation": "For I lighten my suffering by the pleasures which are connected with virtue.",
-      "words": []
+      "words": [],
+      "translations": {
+        "grk": "Ἐγὼ μὲν γὰρ ταῖς διὰ τὴν ἀρετὴν ἡδοναῖς τὸν πόνον ἐπικουφίζομαι."
+      }
     },
     {
       "num": 32,
       "geez": "",
       "translation": "But thou art tortured with threatenings for impiety; and thou shalt not escape, most corrupt tyrant, the vengeance of Divine wrath.",
-      "words": []
+      "words": [],
+      "translations": {
+        "grk": "Σὺ δὲ ἐν ταῖς τῆς ἀσεβείας ἀπειλαῖς βασανίζῃ· οὐκ ἐκφεύξῃ δὲ, μιαιρότατε τύραννε, τὰς τῆς θείας ὀργῆς δίκας."
+      }
     }
   ]
 }

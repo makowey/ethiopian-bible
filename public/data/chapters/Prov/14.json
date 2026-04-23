@@ -51,7 +51,8 @@
       "translations": {
         "lxx": "Wise women build houses: but a foolish one digs hers down with her hands.",
         "kjv": "Every wise woman buildeth her house: but the foolish plucketh it down with her hands.",
-        "ron": "Femeile înţelepte zidesc casa, iar cele nebune o dărâmă cu mâna lor."
+        "ron": "Femeile înţelepte zidesc casa, iar cele nebune o dărâmă cu mâna lor.",
+        "grk": "Σοφαὶ γυναῖκες ᾠκοδόμησαν οἴκους, ἡ δὲ ἄφρων κατέσκαψε ταῖς χερσὶν αὐτῆς."
       }
     },
     {
@@ -108,7 +109,8 @@
       "translations": {
         "lxx": "He that walks uprightly fears the Lord; but he that is perverse in his ways shall be dishonoured.",
         "kjv": "He that walketh in his uprightness feareth the LORD: but he that is perverse in his ways despiseth him.",
-        "ron": "Cel ce umblă întru dreptate se teme de Domnul, iar cel ce umblă pe căi strâmbe îl dispreţuieşte."
+        "ron": "Cel ce umblă întru dreptate se teme de Domnul, iar cel ce umblă pe căi strâmbe îl dispreţuieşte.",
+        "grk": "Ὁ πορευόμενος ὀρθῶς φοβεῖται τὸν Κύριον, ὁ δὲ σκολιάζων ταῖς ὁδοῖς αὐτοῦ ἀτιμασθήσεται."
       }
     },
     {
@@ -160,7 +162,8 @@
       "translations": {
         "lxx": "Out of the mouth of fools comes a rod of pride; but the lips of the wise preserve them.",
         "kjv": "In the mouth of the foolish is a rod of pride: but the lips of the wise shall preserve them.",
-        "ron": "În gura celui nebun este varga mândriei lui; buzele pe cei înţelepţi îi păzesc."
+        "ron": "În gura celui nebun este varga mândriei lui; buzele pe cei înţelepţi îi păzesc.",
+        "grk": "Ἐκ στόματος ἀφρόνων βακτηρία ὕβρεως, χείλη δὲ σοφῶν φυλάσσει αὐτούς."
       }
     },
     {
@@ -227,7 +230,8 @@
       "translations": {
         "lxx": "Where no oxen are, the cribs are clean; but where there is abundant produce, the strength of the ox is apparent.",
         "kjv": "Where no oxen are, the crib is clean: but much increase is by the strength of the ox.",
-        "ron": "Unde nu sunt boi, staulul este gol, însă puterea boilor aduce mult folos."
+        "ron": "Unde nu sunt boi, staulul este gol, însă puterea boilor aduce mult folos.",
+        "grk": "Οὗ μή εἰσι βόες, φάτναι καθαραί· οὗ δὲ πολλὰ γεννήματα, φανερὰ βοὸς ἰσχύς."
       }
     },
     {
@@ -274,7 +278,8 @@
       "translations": {
         "lxx": "A faithful witness does not lie; but an unjust witness kindles falsehoods.",
         "kjv": "A faithful witness will not lie: but a false witness will utter lies.",
-        "ron": "Martorul care grăieşte adevărul nu minte, iar martorul mincinos spune numai minciuni."
+        "ron": "Martorul care grăieşte adevărul nu minte, iar martorul mincinos spune numai minciuni.",
+        "grk": "Μάρτυς πιστὸς οὐ ψεύδεται, ἐκκαίει δὲ ψευδῆ μάρτυς ἄδικος."
       }
     },
     {
@@ -331,7 +336,8 @@
       "translations": {
         "lxx": "Thou shalt seek wisdom with bad men, and shalt not find it; but discretion is easily available with the prudent.",
         "kjv": "A scorner seeketh wisdom, and findeth it not: but knowledge is easy unto him that understandeth.",
-        "ron": "Batjocoritorul caută înţelepciunea şi nu o găseşte, iar pentru cel priceput ştiinţa este uşoară."
+        "ron": "Batjocoritorul caută înţelepciunea şi nu o găseşte, iar pentru cel priceput ştiinţa este uşoară.",
+        "grk": "Ζητήσεις σοφίαν παρὰ κακοῖς καὶ οὐχ εὑρήσεις, αἴσθησις δὲ παρὰ φρονίμοις εὐχερής."
       }
     },
     {
@@ -388,7 +394,8 @@
       "translations": {
         "lxx": "All things are adverse to a foolish man; but wise lips are the weapons of discretion.",
         "kjv": "Go from the presence of a foolish man, when thou perceivest not in him the lips of knowledge.",
-        "ron": "Fugi dinaintea omului fără de minte, căci tu ştii că nu este nici o ştiinţă pe buzele lui."
+        "ron": "Fugi dinaintea omului fără de minte, căci tu ştii că nu este nici o ştiinţă pe buzele lui.",
+        "grk": "Πάντα ἐναντία ἀνδρὶ ἄφρονι, ὅπλα δὲ αἰσθήσεως χείλη σοφά."
       }
     },
     {
@@ -455,7 +462,8 @@
       "translations": {
         "lxx": "The wisdom of the prudent will understand their ways; but the folly of fools leads astray.",
         "kjv": "The wisdom of the prudent is to understand his way: but the folly of fools is deceit.",
-        "ron": "Înţelepciunea omului chibzuit este de a-şi înţelege calea lui; iar nebunia celor neînţelepţi este înşelăciune."
+        "ron": "Înţelepciunea omului chibzuit este de a-şi înţelege calea lui; iar nebunia celor neînţelepţi este înşelăciune.",
+        "grk": "Σοφία πανούργων ἐπιγνώσεται τὰς ὁδοὺς αὐτῶν, ἄνοια δὲ ἀφρόνων ἐν πλάνῃ."
       }
     },
     {
@@ -502,7 +510,8 @@
       "translations": {
         "lxx": "The houses of transgressors will need purification; but the houses of the just are acceptable.",
         "kjv": "Fools make a mock at sin: but among the righteous there is favour.",
-        "ron": "Nebunul îşi bate joc de jertfa pentru păcat, însă între oamenii drepţi este bună înţelegere."
+        "ron": "Nebunul îşi bate joc de jertfa pentru păcat, însă între oamenii drepţi este bună înţelegere.",
+        "grk": "Οἰκίαι παρανόμων ὀφειλήσουσι καθαρισμὸν, οἰκίαι δὲ δικαίων δεκταί."
       }
     },
     {
@@ -559,7 +568,8 @@
       "translations": {
         "lxx": "If a man's mind is intelligent, his soul is sorrowful; and when he rejoices, he has no fellowship with pride.",
         "kjv": "The heart knoweth his own bitterness; and a stranger doth not intermeddle with his joy.",
-        "ron": "Inima cunoaşte amărăciunile sale, iar un străin nu poate împărţi bucuriile ei."
+        "ron": "Inima cunoaşte amărăciunile sale, iar un străin nu poate împărţi bucuriile ei.",
+        "grk": "Καρδία ἀνδρὸς αἰσθητικὴ, λυπηρὰ ψυχὴ αὐτοῦ, ὅταν δὲ εὐφραίνηται οὐκ ἐπιμίγνυται ὕβρει."
       }
     },
     {
@@ -601,7 +611,8 @@
       "translations": {
         "lxx": "The houses of ungodly men shall be utterly destroyed; but the tabernacles of them that walk uprightly shall stand.",
         "kjv": "The house of the wicked shall be overthrown: but the tabernacle of the upright shall flourish.",
-        "ron": "Casa celor fără de lege va fi distrusă, iar cortul celor drepţi va înflori."
+        "ron": "Casa celor fără de lege va fi distrusă, iar cortul celor drepţi va înflori.",
+        "grk": "Οἰκίαι ἀσεβῶν ἀφανισθήσονται, σκηναὶ δὲ κατορθούντων στήσονται."
       }
     },
     {
@@ -678,7 +689,8 @@
       "translations": {
         "lxx": "There is a way which seems to be right with men, but the ends of it reach to the depth of hell.",
         "kjv": "There is a way which seemeth right unto a man, but the end thereof are the ways of death.",
-        "ron": "Unele căi par drepte în ochii omului, dar sfârşitul lor sunt căile morţii."
+        "ron": "Unele căi par drepte în ochii omului, dar sfârşitul lor sunt căile morţii.",
+        "grk": "Ἔστιν ὁδὸς ἣ δοκεῖ παρὰ ἀνθρώποις ὀρθὴ εἶναι, τὰ δὲ τελευταῖα αὐτῆς ἔρχεται εἰς πυθμένα ᾅδου."
       }
     },
     {
@@ -735,7 +747,8 @@
       "translations": {
         "lxx": "Grief mingles not with mirth; and joy in the end comes to grief.",
         "kjv": "Even in laughter the heart is sorrowful; and the end of that mirth is heaviness.",
-        "ron": "Chiar când râdem, inima se întristează; bucuria se sfârşeşte prin plângere."
+        "ron": "Chiar când râdem, inima se întristează; bucuria se sfârşeşte prin plângere.",
+        "grk": "Ἐν εὐφροσύναις οὐ προσμίγνυται λύπη, τελευταῖα δὲ χαρὰ εἰς πένθος ἔρχεται."
       }
     },
     {
@@ -797,7 +810,8 @@
       "translations": {
         "lxx": "A stout-hearted man shall be filled with his own ways; and a good man with his own thoughts.",
         "kjv": "The backslider in heart shall be filled with his own ways: and a good man shall be satisfied from himself.",
-        "ron": "Nelegiuitul se va sătura de căile sale şi omul bun de roadele sale."
+        "ron": "Nelegiuitul se va sătura de căile sale şi omul bun de roadele sale.",
+        "grk": "Τῶν ἑαυτοῦ ὁδῶν πλησθήσεται θρασυκάρδιος, ἀπὸ δὲ τῶν διανοημάτων αὐτοῦ ἀνὴρ ἀγαθός."
       }
     },
     {
@@ -854,7 +868,8 @@
       "translations": {
         "lxx": "The simple believes every word: but the prudent man betakes himself to after-thought.",
         "kjv": "The simple believeth every word: but the prudent man looketh well to his going.",
-        "ron": "Omul simplu crede toate vorbele; omul înţelept veghează paşii săi."
+        "ron": "Omul simplu crede toate vorbele; omul înţelept veghează paşii săi.",
+        "grk": "Ἄκακος πιστεύει παντὶ λόγῳ, πανοῦργος δὲ ἔρχεται εἰς μετάνοιαν."
       }
     },
     {
@@ -916,7 +931,8 @@
       "translations": {
         "lxx": "A wise man fears, and departs from evil; but the fool trusts in himself, and joins himself with the transgressor.",
         "kjv": "A wise man feareth, and departeth from evil: but the fool rageth, and is confident.",
-        "ron": "Înţeleptul se teme şi se fereşte de rău, iar cel fără de minte îşi iese din fire şi se simte la adăpost."
+        "ron": "Înţeleptul se teme şi se fereşte de rău, iar cel fără de minte îşi iese din fire şi se simte la adăpost.",
+        "grk": "Σοφὸς φοβηθεὶς ἐξέκλινεν ἀπὸ κακοῦ, ὁ δὲ ἄφρων ἑαυτῷ πεποιθὼς μίγνυται ἀνόμῳ."
       }
     },
     {
@@ -968,7 +984,8 @@
       "translations": {
         "lxx": "A passionate man acts inconsiderately; but a sensible man bears up under many things.",
         "kjv": "He that is soon angry dealeth foolishly: and a man of wicked devices is hated.",
-        "ron": "Cel iute la mânie săvârşeşte nebunii, iar cel cumpănit se stăpâneşte."
+        "ron": "Cel iute la mânie săvârşeşte nebunii, iar cel cumpănit se stăpâneşte.",
+        "grk": "Ὀξύθυμος πράσσει μετὰ ἀβουλίας, ἀνὴρ δὲ φρόνιμος πολλὰ ὑποφέρει."
       }
     },
     {
@@ -1010,7 +1027,8 @@
       "translations": {
         "lxx": "Fools shall have mischief for their portion; but the prudent shall take fast hold of understanding.",
         "kjv": "The simple inherit folly: but the prudent are crowned with knowledge.",
-        "ron": "Cei nepricepuţi au parte de nebunie, pe când cei înţelepţi sunt încununaţi cu ştiinţă."
+        "ron": "Cei nepricepuţi au parte de nebunie, pe când cei înţelepţi sunt încununaţi cu ştiinţă.",
+        "grk": "Μεριοῦνται ἄφρονες κακίαν, οἱ δὲ πανοῦργοι κρατήσουσιν αἰσθήσεως."
       }
     },
     {
@@ -1062,7 +1080,8 @@
       "translations": {
         "lxx": "Evil men shall fall before the good; and the ungodly shall attend at the gates of the righteous.",
         "kjv": "The evil bow before the good; and the wicked at the gates of the righteous.",
-        "ron": "Cei răi se pleacă înaintea celor buni şi cei nelegiuiţi stau la porţile celor drepţi."
+        "ron": "Cei răi se pleacă înaintea celor buni şi cei nelegiuiţi stau la porţile celor drepţi.",
+        "grk": "Ὀλισθήσουσι κακοὶ ἔναντι ἀγαθῶν, καὶ ἀσεβεῖς θεραπεύσουσι θύρας δικαίων."
       }
     },
     {
@@ -1114,7 +1133,8 @@
       "translations": {
         "lxx": "Friends will hate poor friends; but the friends of the rich are many.",
         "kjv": "The poor is hated even of his own neighbour: but the rich hath many friends.",
-        "ron": "Săracul este dispreţuit chiar şi de prietenul lui, pe când prietenii celui bogat sunt fără de număr."
+        "ron": "Săracul este dispreţuit chiar şi de prietenul lui, pe când prietenii celui bogat sunt fără de număr.",
+        "grk": "Φίλοι μισήσουσι φίλους πτωχούς, φίλοι δὲ πλουσίων πολλοί."
       }
     },
     {
@@ -1161,7 +1181,8 @@
       "translations": {
         "lxx": "He that dishonours the needy sins: but he that has pity on the poor is most blessed.",
         "kjv": "He that despiseth his neighbour sinneth: but he that hath mercy on the poor, happy is he.",
-        "ron": "Cel care nu bagă în seamă pe prietenul său săvârşeşte un păcat; iar cel ce se îndură de sărmani e fericit."
+        "ron": "Cel care nu bagă în seamă pe prietenul său săvârşeşte un păcat; iar cel ce se îndură de sărmani e fericit.",
+        "grk": "Ὁ ἀτιμάζων πένητας ἁμαρτάνει, ἐλεῶν δὲ πτωχοὺς μακαριστός."
       }
     },
     {
@@ -1233,7 +1254,8 @@
       "translations": {
         "lxx": "They that go astray devise evils: but the good devise mercy and truth. The framers of evil do not understand mercy and truth: but compassion and faithfulness are with the framers of good.",
         "kjv": "Do they not err that devise evil? but mercy and truth shall be to them that devise good.",
-        "ron": "Cu adevărat rătăcesc cei ce plănuiesc fărădelegea, iar cei ce cugetă la lucruri bune au parte de milostivire şi de adevăr."
+        "ron": "Cu adevărat rătăcesc cei ce plănuiesc fărădelegea, iar cei ce cugetă la lucruri bune au parte de milostivire şi de adevăr.",
+        "grk": "Πλανώμενοι τεκταίνουσι κακά, ἔλεον δὲ καὶ ἀλήθειαν τεκταίνουσιν ἀγαθοί· οὐκ ἐπίστανται ἔλεον καὶ πίστιν τέκτονες κακῶν, ἐλεημοσύναι δὲ καὶ πίστεις παρὰ τέκτοσιν ἀγαθοῖς."
       }
     },
     {
@@ -1315,7 +1337,8 @@
       "translations": {
         "lxx": "With every one who is careful there is abundance: but the pleasure-taking and indolent shall be in want.",
         "kjv": "In all labour there is profit: but the talk of the lips tendeth only to penury.",
-        "ron": "Orice osteneală duce la îndestulare, iar cuvintele fără rost la lipsă."
+        "ron": "Orice osteneală duce la îndestulare, iar cuvintele fără rost la lipsă.",
+        "grk": "Ἐν παντὶ μεριμνῶντι ἔνεστι περισσόν, ὁ δὲ ἡδὺς καὶ ἀνάλγητος ἐν ἐνδείᾳ ἔσται."
       }
     },
     {
@@ -1357,7 +1380,8 @@
       "translations": {
         "lxx": "A prudent man is the crown of the wise: but the occupation of fools is evil.",
         "kjv": "The crown of the wise is their riches: but the foolishness of fools is folly.",
-        "ron": "Bogăţia este o cunună pentru cei înţelepţi; iar coroana color nebuni este nebunia."
+        "ron": "Bogăţia este o cunună pentru cei înţelepţi; iar coroana color nebuni este nebunia.",
+        "grk": "Στέφανος σοφῶν πανοῦργος, ἡ δὲ διατριβὴ ἀφρόνων κακή."
       }
     },
     {
@@ -1419,7 +1443,8 @@
       "translations": {
         "lxx": "A faithful witness shall deliver a soul from evil: but a deceitful man kindles falsehoods.",
         "kjv": "A true witness delivereth souls: but a deceitful witness speaketh lies.",
-        "ron": "Martorul drept scapă suflete, iar cel viclean spune numai minciuni."
+        "ron": "Martorul drept scapă suflete, iar cel viclean spune numai minciuni.",
+        "grk": "Ῥύσεται ἐκ κακῶν ψυχὴν μάρτυς πιστὸς, ἐκκαίει δὲ ψευδῆ δόλιος."
       }
     },
     {
@@ -1466,7 +1491,8 @@
       "translations": {
         "lxx": "In the fear of the Lord is strong confidence: and he leaves his children a support.",
         "kjv": "In the fear of the LORD is strong confidence: and his children shall have a place of refuge.",
-        "ron": "Întru frica lui Dumnezeu este nădejdea celui tare; fiii lui afla-vor (acolo) un liman."
+        "ron": "Întru frica lui Dumnezeu este nădejdea celui tare; fiii lui afla-vor (acolo) un liman.",
+        "grk": "Ἐν φόβῳ Κυρίου ἐλπὶς ἰσχύος, τοῖς δὲ τέκνοις αὐτοῦ καταλείπει ἔρεισμα."
       }
     },
     {
@@ -1523,7 +1549,8 @@
       "translations": {
         "lxx": "The commandment of the Lord is a fountain of life; and it causes men to turn aside from the snare of death.",
         "kjv": "The fear of the LORD is a fountain of life, to depart from the snares of death.",
-        "ron": "Frica de Dumnezeu este un izvor de viaţă, ca să putem scăpa de cursele morţii."
+        "ron": "Frica de Dumnezeu este un izvor de viaţă, ca să putem scăpa de cursele morţii.",
+        "grk": "Πρόσταγμα Κυρίου πηγὴ ζωῆς, ποιεῖ δὲ ἐκκλίνειν ἐκ παγίδος θανάτου."
       }
     },
     {
@@ -1575,7 +1602,8 @@
       "translations": {
         "lxx": "In a populous nation is the glory of a king: but in the failure of people is the ruin of a prince.",
         "kjv": "In the multitude of people is the king’s honour: but in the want of people is the destruction of the prince.",
-        "ron": "Strălucirea unui rege se sprijină pe mulţimea poporului, iar lipsa de supuşi este pieirea prinţului."
+        "ron": "Strălucirea unui rege se sprijină pe mulţimea poporului, iar lipsa de supuşi este pieirea prinţului.",
+        "grk": "Ἐν πολλῷ ἔθνει δόξα βασιλέως, ἐν δὲ ἐκλείψει λαοῦ συντριβὴ δυνάστου."
       }
     },
     {
@@ -1622,7 +1650,8 @@
       "translations": {
         "lxx": "A man slow to wrath abounds in wisdom: but a man of impatient spirit is very foolish.",
         "kjv": "He that is slow to wrath is of great understanding: but he that is hasty of spirit exalteth folly.",
-        "ron": "Cel încet la mânie este bogat în înţelepciune, iar cel ce se mânie degrabă îşi dă pe faţă nebunia."
+        "ron": "Cel încet la mânie este bogat în înţelepciune, iar cel ce se mânie degrabă îşi dă pe faţă nebunia.",
+        "grk": "Μακρόθυμος ἀνὴρ πολὺς ἐν φρονήσει, ὁ δὲ ὀλιγόψυχος ἰσχυρῶς ἄφρων."
       }
     },
     {
@@ -1684,7 +1713,8 @@
       "translations": {
         "lxx": "A meek-spirited man is a healer of the heart: but a sensitive heart is a corruption of the bones.",
         "kjv": "A sound heart is the life of the flesh: but envy the rottenness of the bones.",
-        "ron": "O inimă fără patimă este viaţa trupului, pe când pornirea pătimaşă este ca un cariu în oase."
+        "ron": "O inimă fără patimă este viaţa trupului, pe când pornirea pătimaşă este ca un cariu în oase.",
+        "grk": "Πρᾳΰθυμος ἀνὴρ καρδίας ἰατρὸς, σὴς δὲ ὀστέων καρδία αἰσθητική·"
       }
     },
     {
@@ -1756,7 +1786,8 @@
       "translations": {
         "lxx": "He that oppresses the needy provokes his Maker: but he that honours him has pity upon the poor.",
         "kjv": "He that oppresseth the poor reproacheth his Maker: but he that honoureth him hath mercy on the poor.",
-        "ron": "Cel care apasă pe cel sărman defaimă pe Ziditorul lui, dar cel ce are milă de sărac Îl cinsteşte."
+        "ron": "Cel care apasă pe cel sărman defaimă pe Ziditorul lui, dar cel ce are milă de sărac Îl cinsteşte.",
+        "grk": "Ὁ συκοφαντῶν πένητα παροξύνει τὸν ποιήσαντα αὐτὸν, ὁ δὲ τιμῶν αὐτὸν ἐλεεῖ πτωχόν."
       }
     },
     {
@@ -1803,7 +1834,8 @@
       "translations": {
         "lxx": "The ungodly shall be driven away in his wickedness: but he who is secure in his own holiness is just.",
         "kjv": "The wicked is driven away in his wickedness: but the righteous hath hope in his death.",
-        "ron": "Cel fără de lege este răsturnat de răutatea lui, iar cel drept găseşte scăpare în neprihănirea lui."
+        "ron": "Cel fără de lege este răsturnat de răutatea lui, iar cel drept găseşte scăpare în neprihănirea lui.",
+        "grk": "Ἐν κακίᾳ αὐτοῦ ἀπωσθήσεται ἀσεβής, ὁ δὲ πεποιθὼς τῇ ἑαυτοῦ ὁσιότητι δίκαιος."
       }
     },
     {
@@ -1850,7 +1882,8 @@
       "translations": {
         "lxx": "There is wisdom in the good heart of a man: but in the heart of fools it is not discerned.",
         "kjv": "Wisdom resteth in the heart of him that hath understanding: but that which is in the midst of fools is made known.",
-        "ron": "Înţelepciunea sălăşluieşte în inima celui înţelept, iar în inima celor nebuni nu se arată."
+        "ron": "Înţelepciunea sălăşluieşte în inima celui înţelept, iar în inima celor nebuni nu se arată.",
+        "grk": "Ἐν καρδίᾳ ἀγαθῇ ἀνδρὸς σοφία, ἐν δὲ καρδίᾳ ἀφρόνων οὐ διαγινώσκεται."
       }
     },
     {
@@ -1907,7 +1940,8 @@
       "translations": {
         "lxx": "Righteousness exalts a nation: but sins diminish tribes.",
         "kjv": "Righteousness exalteth a nation: but sin is a reproach to any people.",
-        "ron": "Dreptatea înalţă un popor, în vreme ce păcatul este ocara popoarelor."
+        "ron": "Dreptatea înalţă un popor, în vreme ce păcatul este ocara popoarelor.",
+        "grk": "Δικαιοσύνη ὑψοῖ ἔθνος, ἐλασσονοῦσι δὲ φυλὰς ἁμαρτίαι."
       }
     },
     {
@@ -1949,7 +1983,8 @@
       "translations": {
         "lxx": "An understanding servant is acceptable to a king; and by his good behaviour he removes disgrace.",
         "kjv": "The king’s favour is toward a wise servant: but his wrath is against him that causeth shame.",
-        "ron": "Bunăvoinţa regelui este pentru sluga înţeleaptă, iar mânia lui pentru cel ce îi face ruşine."
+        "ron": "Bunăvoinţa regelui este pentru sluga înţeleaptă, iar mânia lui pentru cel ce îi face ruşine.",
+        "grk": "Δεκτὸς βασιλεῖ ὑπηρέτης νοήμων, τῇ δὲ ἑαυτοῦ εὐστροφίᾳ ἀφαιρεῖται ἀτιμίαν."
       }
     },
     {

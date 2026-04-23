@@ -36,7 +36,8 @@
       "translations": {
         "lxx": "And the Lord spoke to Moses and Aaron, saying,",
         "kjv": "And the LORD spake unto Moses and Aaron, saying,",
-        "ron": "Grăit-a Domnul cu Moise şi cu Aaron şi le-a zis:"
+        "ron": "Grăit-a Domnul cu Moise şi cu Aaron şi le-a zis:",
+        "grk": "Καὶ ἐλάλησε Κύριος πρὸς Μωυσῆν καὶ Ἀαρὼν, λέγων,"
       }
     },
     {
@@ -168,7 +169,8 @@
       "translations": {
         "lxx": "If any man should have in the skin of his flesh a bright clear spot, and there should be in the skin of his flesh a plague of leprosy, he shall be brought to Aaron the priest, or to one of his sons the priests.",
         "kjv": "When a man shall have in the skin of his flesh a rising, a scab, or bright spot, and it be in the skin of his flesh like the plague of leprosy; then he shall be brought unto Aaron the priest, or unto one of his sons the priests:",
-        "ron": "\"De se va ivi la vreun om pe pielea trupului lui vreo umflătură, sau bubă, sau băşică, sau de se va face pe pielea trupului o rană ca de lepră, să fie adus la Aaron preotul sau la un preot din fiii lui."
+        "ron": "\"De se va ivi la vreun om pe pielea trupului lui vreo umflătură, sau bubă, sau băşică, sau de se va face pe pielea trupului o rană ca de lepră, să fie adus la Aaron preotul sau la un preot din fiii lui.",
+        "grk": "ἀνθρώπῳ ἐάν τινι γένηται ἐν δέρματι χρωτὸς αὐτοῦ οὐλὴ σημασίας τηλαυγὴς, καὶ γένηται ἐν δέρματι χρωτὸς αὐτοῦ ἁφὴ λέπρας, ἀχθήσεται πρὸς Ἀαρὼν τὸν ἱερέα, ἢ ἕνα τῶν υἱῶν αὐτοῦ τῶν ἱερέων."
       }
     },
     {
@@ -320,7 +322,8 @@
       "translations": {
         "lxx": "And the priest shall view the spot in the skin of his flesh; and if the hair in the spot be changed to white, and the appearance of the spot be below the skin of the flesh, it is a plague of leprosy; and the priest shall look upon it, and pronounce him unclean.",
         "kjv": "And the priest shall look on the plague in the skin of the flesh: and when the hair in the plague is turned white, and the plague in sight be deeper than the skin of his flesh, it is a plague of leprosy: and the priest shall look on him, and pronounce him unclean.",
-        "ron": "Preotul va cerceta rana de pe pielea trupului lui şi de va vedea că perii de pe rană s-au făcut albi şi că rana s-a adâncit în pielea trupului, aceea este rană de lepră, iar preotul după ce l-a cercetat, îl va declara necurat."
+        "ron": "Preotul va cerceta rana de pe pielea trupului lui şi de va vedea că perii de pe rană s-au făcut albi şi că rana s-a adâncit în pielea trupului, aceea este rană de lepră, iar preotul după ce l-a cercetat, îl va declara necurat.",
+        "grk": "Καὶ ὄψεται ὁ ἱερεὺς τὴν ἁφὴν ἐν δέρματι τοῦ χρωτὸς αὐτοῦ, καὶ ἡ θρὶξ ἐν τῇ ἁφῇ μεταβάλῃ λευκὴ, καὶ ἡ ὄψις τῆς ἁφῆς ταπεινὴ ἀπὸ τοῦ δέρματος τοῦ χρωτὸς, ἁφὴ λέπρας ἐστί· καὶ ὄψεται ὁ ἱερεὺς, καὶ μιανεῖ αὐτόν."
       }
     },
     {
@@ -457,7 +460,8 @@
       "translations": {
         "lxx": "But if the spot be clear and white in the skin of his flesh, yet the appearance of it be not deep below the skin, and its hair have not changed itself for white hair, but it is dark, then the priest shall separate him that has the spot seven days;",
         "kjv": "If the bright spot be white in the skin of his flesh, and in sight be not deeper than the skin, and the hair thereof be not turned white; then the priest shall shut up him that hath the plague seven days:",
-        "ron": "Iar dacă pata de pe piele, deşi este albă, dar nu este şi adâncită în pielea lui, şi perii de pe ea nu s-au făcut albi, ci sunt negri, să închidă preotul pe cel cu rana şapte zile."
+        "ron": "Iar dacă pata de pe piele, deşi este albă, dar nu este şi adâncită în pielea lui, şi perii de pe ea nu s-au făcut albi, ci sunt negri, să închidă preotul pe cel cu rana şapte zile.",
+        "grk": "Ἐὰν δὲ καὶ τηλαυγὴς λευκὴ ἦ ἐν τῷ δέρματι τοῦ χρωτὸς αὐτοῦ, καὶ ταπεινὴ μὴ ἦ ἡ ὄψις αὐτῆς ἀπὸ τοῦ δέρματος, καὶ ἡ θρὶξ αὐτοῦ οὐ μετέβαλε τρίχα λευκὴν, αὐτὴ δέ ἐστιν ἀμαυρὰ, καὶ ἀφοριεῖ ὁ ἱερεὺς τὴν ἁφὴν ἑπτὰ ἡμέρας."
       }
     },
     {
@@ -579,7 +583,8 @@
       "translations": {
         "lxx": "and the priest shall look on the spot the seventh day; and, behold, if the spot remains before him, if the spot has not spread in the skin, then the priest shall separate him the second time seven days.",
         "kjv": "And the priest shall look on him the seventh day: and, behold, if the plague in his sight be at a stay, and the plague spread not in the skin; then the priest shall shut him up seven days more:",
-        "ron": "În ziua a şaptea să vadă preotul rana: dacă rana a rămas ca înainte şi nu s-a întins rana pe piele, preotul să-l închidă alte şapte zile."
+        "ron": "În ziua a şaptea să vadă preotul rana: dacă rana a rămas ca înainte şi nu s-a întins rana pe piele, preotul să-l închidă alte şapte zile.",
+        "grk": "Καὶ ὄψεται ὁ ἱερεὺς τὴν ἁφὴν τῇ ἡμέρᾳ τῇ ἑβδόμῃ· καὶ ἰδοὺ ἡ ἁφὴ μένει ἐναντίον αὐτοῦ, οὐ μετέπεσεν ἡ ἁφὴ ἐν τῷ δέρματι, καὶ ἀφοριεῖ αὐτὸν ὁ ἱερεὺς ἑπτὰ ἡμέρας τοδεύτερον."
       }
     },
     {
@@ -711,7 +716,8 @@
       "translations": {
         "lxx": "And the priest shall look upon him the second time on the seventh day; and, behold, if the spot be dark, and the spot have not spread in the skin, then the priest shall pronounce him clean; for it is a mere mark, and the man shall wash his garments and be clean.",
         "kjv": "And the priest shall look on him again the seventh day: and, behold, if the plague be somewhat dark, and the plague spread not in the skin, the priest shall pronounce him clean: it is but a scab: and he shall wash his clothes, and be clean.",
-        "ron": "În ziua a şaptea îl va cerceta preotul din nou şi dacă rana va fi slăbită şi nu se va fi întins rana pe piele, preotul să-l declare curat. Aceasta este o bubă şi cel ce o are să-şi spele hainele sale şi va fi curat."
+        "ron": "În ziua a şaptea îl va cerceta preotul din nou şi dacă rana va fi slăbită şi nu se va fi întins rana pe piele, preotul să-l declare curat. Aceasta este o bubă şi cel ce o are să-şi spele hainele sale şi va fi curat.",
+        "grk": "Καὶ ὄψεται ὁ ἱερεὺς αὐτὸν τῇ ἡμέρᾳ τῇ ἑβδόμῃ τοδεύτερον· καὶ ἰδοὺ ἀμαυρὰ ἡ ἁφή, οὐ μετέπεσεν ἡ ἁφὴ ἐν τῷ δέρματι· καὶ καθαριεῖ αὐτὸν ὁ ἱερεύς, σημασία γάρ ἐστι· καὶ πλυνάμενος τὰ ἱμάτια αὐτοῦ, καθαρὸς ἔσται."
       }
     },
     {
@@ -803,7 +809,8 @@
       "translations": {
         "lxx": "But if the bright spot should have changed and spread in the skin, after the priest has seen him for the purpose of purifying him, then shall he appear the second time to the priest,",
         "kjv": "But if the scab spread much abroad in the skin, after that he hath been seen of the priest for his cleansing, he shall be seen of the priest again:",
-        "ron": "Iar dacă, după ce omul s-a arătat preotului, din nou buba a început a se întinde pe piele, să se arate iar preotului;"
+        "ron": "Iar dacă, după ce omul s-a arătat preotului, din nou buba a început a se întinde pe piele, să se arate iar preotului;",
+        "grk": "Ἐὰν δὲ μεταβαλοῦσα μεταπέσῃ ἡ σημασία ἐν τῷ δέρματι, μετὰ τὸ ἰδεῖν αὐτὸν τὸν ἱερέα τοῦ καθαρίσαι αὐτόν, καὶ ὀφθήσεται τοδεύτερον τῷ ἱερεῖ."
       }
     },
     {
@@ -880,7 +887,8 @@
       "translations": {
         "lxx": "and the priest shall look upon him; and, behold, if the mark have spread in the skin, then the priest shall pronounce him unclean: it is a leprosy.",
         "kjv": "And if the priest see that, behold, the scab spreadeth in the skin, then the priest shall pronounce him unclean: it is a leprosy.",
-        "ron": "Preotul, văzând că buba se întinde pe piele, îl va declara necurat, că aceasta este lepră."
+        "ron": "Preotul, văzând că buba se întinde pe piele, îl va declara necurat, că aceasta este lepră.",
+        "grk": "Καὶ ὄψεται αὐτὸν ὁ ἱερεύς, καὶ ἰδοὺ μετέπεσεν ἡ σημασία ἐν τῷ δέρματι, καὶ μιανεῖ αὐτὸν ὁ ἱερεύς· λέπρα ἐστί."
       }
     },
     {
@@ -937,7 +945,8 @@
       "translations": {
         "lxx": "And if a man have a plague of leprosy, then he shall come to the priest;",
         "kjv": "When the plague of leprosy is in a man, then he shall be brought unto the priest;",
-        "ron": "De se va ivi pe un om boala leprei, acela să fie adus la preot."
+        "ron": "De se va ivi pe un om boala leprei, acela să fie adus la preot.",
+        "grk": "Καὶ ἁφὴ λέπρας ἐὰν γένηται ἐν ἀνθρώπῳ, και ἥξει πρὸς τὸν ἱερέα·"
       }
     },
     {
@@ -1054,7 +1063,8 @@
       "translations": {
         "lxx": "and the priest shall look, and, behold, if it is a white spot in the skin, and it has changed the hair to white, and there be some of the sound part of the quick flesh in the sore—",
         "kjv": "And the priest shall see him: and, behold, if the rising be white in the skin, and it have turned the hair white, and there be quick raw flesh in the rising;",
-        "ron": "Preotul va cerceta şi, dacă umflătura de pe piele va fi albă şi părul va fi schimbat în alb şi dacă umflătura va fi carne vie,"
+        "ron": "Preotul va cerceta şi, dacă umflătura de pe piele va fi albă şi părul va fi schimbat în alb şi dacă umflătura va fi carne vie,",
+        "grk": "Καὶ ὄψεται ὁ ἱερεὺς, καὶ ἰδοὺ οὐλὴ λευκὴ ἐν τῷ δέρματι, καὶ αὕτη μετέβαλε τρίχα λευκὴν, καὶ ἀπὸ τοῦ ὑγιοῦς τῆς σαρκὸς τῆς ζώσης ἐν τῇ οὐλῇ."
       }
     },
     {
@@ -1111,7 +1121,8 @@
       "translations": {
         "lxx": "it is a leprosy waxing old in the skin of the flesh; and the priest shall pronounce him unclean, and shall separate him, because he is unclean.",
         "kjv": "It is an old leprosy in the skin of his flesh, and the priest shall pronounce him unclean, and shall not shut him up: for he is unclean.",
-        "ron": "Aceea e lepră învechită pe pielea trupului; preotul il va declara necurat şi nu-l va închide, că este necurat."
+        "ron": "Aceea e lepră învechită pe pielea trupului; preotul il va declara necurat şi nu-l va închide, că este necurat.",
+        "grk": "Λέπρα παλαιουμένη ἐστὶν ἐν τῷ δέρματι τοῦ χρωτός, καὶ μιανεῖ αὐτὸν ὁ ἱερεὺς, καὶ ἀφοριεῖ αὐτὸν, ὅτι ἀκάθαρτός ἐστιν."
       }
     },
     {
@@ -1208,7 +1219,8 @@
       "translations": {
         "lxx": "And if the leprosy should have come out very evidently in the skin, and the leprosy should cover all the skin of the patient from the head to the feet, wheresoever the priest shall look;",
         "kjv": "And if a leprosy break out abroad in the skin, and the leprosy cover all the skin of him that hath the plague from his head even to his foot, wheresoever the priest looketh;",
-        "ron": "Dacă însă lepra va înflori pe piele şi dacă va acoperi lepra toată pielea bolnavului de la cap până la picioare, cât poate să vadă preotul cu ochii,"
+        "ron": "Dacă însă lepra va înflori pe piele şi dacă va acoperi lepra toată pielea bolnavului de la cap până la picioare, cât poate să vadă preotul cu ochii,",
+        "grk": "Ἐὰν δὲ ἀνθοῦσα ἐξανθήσῃ λέπρα ἐν τῷ δέρματι, καὶ καλύψῃ ἡ λέπρα πᾶν τὸ δέρμα τῆς ἁφῆς ἀπὸ κεφαλῆς ἕως ποδῶν, καθʼ ὅλην τὴν ὅρασιν τοῦ ἱερέως·"
       }
     },
     {
@@ -1305,7 +1317,8 @@
       "translations": {
         "lxx": "then the priest shall look, and, behold, the leprosy has covered all the skin of the flesh; and the priest shall pronounce him clean of the plague, because it has changed all to white, it is clean.",
         "kjv": "Then the priest shall consider: and, behold, if the leprosy have covered all his flesh, he shall pronounce him clean that hath the plague: it is all turned white: he is clean.",
-        "ron": "Şi dacă va vedea preotul că lepra a acoperit toată pielea trupului, atunci va declara pe bolnav curat, pentru că tot s-a schimbat în alb şi deci este curat."
+        "ron": "Şi dacă va vedea preotul că lepra a acoperit toată pielea trupului, atunci va declara pe bolnav curat, pentru că tot s-a schimbat în alb şi deci este curat.",
+        "grk": "Καὶ ὄψεται ὁ ἱερεὺς, καὶ ἰδοὺ ἐκάλυψεν ἡ λέπρα πᾶν τὸ δέρμα τοῦ χρωτός· καὶ καθαριεῖ αὐτὸν ὁ ἱερεὺς τὴν ἁφήν, ὅτι πᾶν μετέβαλε λευκὸν, καθαρόν ἐστι."
       }
     },
     {
@@ -1347,7 +1360,8 @@
       "translations": {
         "lxx": "But on whatsoever day the quick flesh shall appear on him, he shall be pronounced unclean.",
         "kjv": "But when raw flesh appeareth in him, he shall be unclean.",
-        "ron": "Iar în ziua când se va ivi pe el carne vie, va fi necurat,"
+        "ron": "Iar în ziua când se va ivi pe el carne vie, va fi necurat,",
+        "grk": "Καὶ ᾗ ἂν ἡμέρᾳ ὀφθῇ ἐν αὐτῷ χρὼς ζῶν, μιανθήσεται."
       }
     },
     {
@@ -1439,7 +1453,8 @@
       "translations": {
         "lxx": "And the priest shall look upon the sound flesh, and the sound flesh shall prove him to be unclean; for it is unclean, it is a leprosy.",
         "kjv": "And the priest shall see the raw flesh, and pronounce him to be unclean: for the raw flesh is unclean: it is a leprosy.",
-        "ron": "Şi preotul, văzând carnea vie, îl va declara necurat, căci carnea cea vie este necurată, este lepră."
+        "ron": "Şi preotul, văzând carnea vie, îl va declara necurat, căci carnea cea vie este necurată, este lepră.",
+        "grk": "Καὶ ὅψεται ὁ ἱερεὺς τὸν χρῶτα τὸν ὑγιῆ, καὶ μιανεῖ αὐτὸν ὁ χρὼς ὁ ὑγιὴς, ὅτι ἀκάθαρτός ἐστι· λέπρα ἐστίν."
       }
     },
     {
@@ -1501,7 +1516,8 @@
       "translations": {
         "lxx": "But if the sound flesh be restored and changed to white, then shall he come to the priest;",
         "kjv": "Or if the raw flesh turn again, and be changed unto white, he shall come unto the priest;",
-        "ron": "Iar dacă se va schimba carnea cea vie şi se va face albă, să vină bolnavul la preot,"
+        "ron": "Iar dacă se va schimba carnea cea vie şi se va face albă, să vină bolnavul la preot,",
+        "grk": "Ἐὰν δὲ ἀποκαταστῇ ὁ χρὼς ὁ ὑγιὴς, καὶ μεταβάλῃ λευκὴ, καὶ ἐλεύσεται πρὸς τὸν ἱερέα·"
       }
     },
     {
@@ -1583,7 +1599,8 @@
       "translations": {
         "lxx": "and the priest shall see him, and, behold, if the plague is turned white, then the priest shall pronounce the patient clean: he is clean.",
         "kjv": "And the priest shall see him: and, behold, if the plague be turned into white; then the priest shall pronounce him clean that hath the plague: he is clean.",
-        "ron": "Şi preotul să-l cerceteze şi dacă rana s-a schimbat în alb, atunci preotul să-l declare curat, că e curat."
+        "ron": "Şi preotul să-l cerceteze şi dacă rana s-a schimbat în alb, atunci preotul să-l declare curat, că e curat.",
+        "grk": "Καὶ ὄψεται ὁ ἱερεὺς, καὶ ἰδοὺ μετέβαλεν ἡ ἁφὴ εἰς τὸ λευκόν, καὶ καθαριεῖ ὁ ἱερεὺς τὴν ἁφήν· καθαρός ἐστι."
       }
     },
     {
@@ -1630,7 +1647,8 @@
       "translations": {
         "lxx": "And if the flesh should have become an ulcer in his skin, and should be healed,",
         "kjv": "The flesh also, in which, even in the skin thereof, was a boil, and is healed,",
-        "ron": "Dacă cineva a avut pe pielea trupului o bubă şi s-a vindecat,"
+        "ron": "Dacă cineva a avut pe pielea trupului o bubă şi s-a vindecat,",
+        "grk": "Καὶ σὰρξ ἐὰν γένηται ἐν τῷ δέρματι αὐτοῦ ἕλκος, καὶ ὑγιασθῇ,"
       }
     },
     {
@@ -1717,7 +1735,8 @@
       "translations": {
         "lxx": "and there should be in the place of the ulcer a white sore, or one looking white and bright, or fiery, and it shall be seen by the priest;",
         "kjv": "And in the place of the boil there be a white rising, or a bright spot, white, and somewhat reddish, and it be shewed to the priest;",
-        "ron": "Şi pe locul bubei s-a ivit o umflătură albă sau o pată albă-roşiatică, să se arate preotului."
+        "ron": "Şi pe locul bubei s-a ivit o umflătură albă sau o pată albă-roşiatică, să se arate preotului.",
+        "grk": "καὶ γένηται ἐν τῷ τόπῳ τοῦ ἕλκους οὐλὴ λευκὴ, ἢ τηλαυγὴς λευκαίνουσα, ἢ πυῤῥίζουσα, καὶ ὀφθήσεται τῷ ἱερεῖ·"
       }
     },
     {
@@ -1814,7 +1833,8 @@
       "translations": {
         "lxx": "then the priest shall look, and, behold, if the appearance be beneath the skin, and its hair has changed to white, then the priest shall pronounce him unclean; because it is a leprosy, it has broken out in the ulcer.",
         "kjv": "And if, when the priest seeth it, behold, it be in sight lower than the skin, and the hair thereof be turned white; the priest shall pronounce him unclean: it is a plague of leprosy broken out of the boil.",
-        "ron": "Şi preotul să-l cerceteze şi de se va vedea că umflătura s-a adâncit în piele şi părul de pe ea s-a schimbat în alb, preotul îl va declara necurat, că aceasta e lepră şi s-a ivit în locul bubei."
+        "ron": "Şi preotul să-l cerceteze şi de se va vedea că umflătura s-a adâncit în piele şi părul de pe ea s-a schimbat în alb, preotul îl va declara necurat, că aceasta e lepră şi s-a ivit în locul bubei.",
+        "grk": "Καὶ ὄψεται ὁ ἱερεὺς, καὶ ἰδοὺ ἡ ὄψις ταπεινοτέρα τοῦ δέρματος, καὶ ἡ θρὶξ αὐτῆς μετέβαλεν εἰς λευκὴν, καὶ μιανεῖ αὐτὸν ὁ ἱερεὺς, ὅτι λέπρα ἐστίν· ἐν τῷ ἕλκει ἐξήνθησεν."
       }
     },
     {
@@ -1916,7 +1936,8 @@
       "translations": {
         "lxx": "But if the priest look, and behold there is no white hair on it, and it be not below the skin of the flesh, and it be dark-coloured; then the priest shall separate him seven days.",
         "kjv": "But if the priest look on it, and, behold, there be no white hairs therein, and if it be not lower than the skin, but be somewhat dark; then the priest shall shut him up seven days:",
-        "ron": "Dacă însă preotul va vedea că părul de pe umflătură nu este alb şi ea nu este adâncită în pielea trupului şi e negricioasă, atunci preotul va închide pe bolnav pentru şapte zile."
+        "ron": "Dacă însă preotul va vedea că părul de pe umflătură nu este alb şi ea nu este adâncită în pielea trupului şi e negricioasă, atunci preotul va închide pe bolnav pentru şapte zile.",
+        "grk": "Ἐὰν δὲ ἴδῃ ὁ ἱερεὺς, καὶ ἰδοὺ οὐκ ἔστιν ἐν αὐτῷ θρὶξ λευκὴ, καὶ ταπεινὸν μὴ ᾖ ἀπὸ τοῦ δέρματος τοῦ χρωτὸς, καὶ αὐτὴ ᾖ ἀμαυρά, καὶ ἀφοριεῖ αὐτὸν ὁ ἱερεὺς ἑπτὰ ἡμέρας."
       }
     },
     {
@@ -1993,7 +2014,8 @@
       "translations": {
         "lxx": "But if it manifestly spread over the skin, then the priest shall pronounce him unclean: it is a plague of leprosy; it has broken out in the ulcer.",
         "kjv": "And if it spread much abroad in the skin, then the priest shall pronounce him unclean: it is a plague.",
-        "ron": "Dacă rana va începe a se lăţi tare pe piele, preotul îl va declara necurat, că este rană de lepră."
+        "ron": "Dacă rana va începe a se lăţi tare pe piele, preotul îl va declara necurat, că este rană de lepră.",
+        "grk": "Ἐὰν δὲ διαχύσει διαχέηται ἐν τῷ δέρματι, καὶ μιανεῖ αὐτὸν ὁ ἱερεὺς, ἁφὴ λέπρας ἐστίν· ἐν τῷ ἕλκει ἐξήνθησεν·"
       }
     },
     {
@@ -2060,7 +2082,8 @@
       "translations": {
         "lxx": "But if the bright spot should remain in its place and not spread, it is the scar of the ulcer; and the priest shall pronounce him clean.",
         "kjv": "But if the bright spot stay in his place, and spread not, it is a burning boil; and the priest shall pronounce him clean.",
-        "ron": "Iar dacă pata va rămâne pe loc şi nu se va lăţi, atunci e o oprire în loc a bubei şi preotul va declara pe bolnav curat."
+        "ron": "Iar dacă pata va rămâne pe loc şi nu se va lăţi, atunci e o oprire în loc a bubei şi preotul va declara pe bolnav curat.",
+        "grk": "Ἐὰν δὲ κατὰ χώραν μείνῃ τὸ τηλαύγημα καὶ μὴ διαχέηται, οὐλὴ τοῦ ἕλκους ἐστὶ, καὶ καθαριεῖ αὐτὸν ὁ ἱερεύς."
       }
     },
     {
@@ -2182,7 +2205,8 @@
       "translations": {
         "lxx": "And if the flesh be in his skin in a state of fiery inflammation, and there should be in his skin the part which is healed of the inflammation, bright, clear, and white, suffused with red or very white;",
         "kjv": "Or if there be any flesh, in the skin whereof there is a hot burning, and the quick flesh that burneth have a white bright spot, somewhat reddish, or white;",
-        "ron": "Dacă cineva va avea pe pielea trupului o arsură şi pe locul tămăduit de arsură se va ivi o pată roşiatică-albicioasă,"
+        "ron": "Dacă cineva va avea pe pielea trupului o arsură şi pe locul tămăduit de arsură se va ivi o pată roşiatică-albicioasă,",
+        "grk": "Καὶ σὰρξ ἐὰν γένηται ἐν τῷ δέρματι αὐτοῦ κατάκαυμα πυρὸς, καὶ γένηται ἐν τῷ δέρματι αὐτοῦ τὸ ὑγιασθὲν τοῦ κατακαύματος αὐγάζον τηλαυγὲς λευκὸν, ὑποπυῤῥίζον, ἢ ἔκλευκον·"
       }
     },
     {
@@ -2304,7 +2328,8 @@
       "translations": {
         "lxx": "then the priest shall look upon him, and, behold, if the hair being white is changed to a bright colour, and its appearance is lower than the skin, it is a leprosy; it has broken out in the inflammation, and the priest shall pronounce him unclean: it is a plague of leprosy.",
         "kjv": "Then the priest shall look upon it: and, behold, if the hair in the bright spot be turned white, and it be in sight deeper than the skin; it is a leprosy broken out of the burning: wherefore the priest shall pronounce him unclean: it is the plague of leprosy.",
-        "ron": "Şi dacă preotul va vedea că părul de pe acea pată s-a schimbat în alb şi că pata e adâncită sub piele, aceea este lepră şi s-a ivit pe arsură; preotul va declara pe bolnav necurat, căci e boala leprei."
+        "ron": "Şi dacă preotul va vedea că părul de pe acea pată s-a schimbat în alb şi că pata e adâncită sub piele, aceea este lepră şi s-a ivit pe arsură; preotul va declara pe bolnav necurat, căci e boala leprei.",
+        "grk": "Καὶ ὄψεται αὐτὸν ὁ ἱερεὺς, καὶ ἰδοὺ μετέβαλε θρὶξ λευκὴ εἰς τὸ αὐγάζον, καὶ ἡ ὄψις αὐτοῦ ταπεινὴ ἀπὸ τοῦ δέρματος, λέπρα ἐστίν· ἐν τῷ κατακαύματι ἐξήνθησε· καὶ μιανεῖ αὐτὸν ὁ ἱερεὺς, ἁφὴ λέπρας ἐστίν."
       }
     },
     {
@@ -2411,7 +2436,8 @@
       "translations": {
         "lxx": "But if the priest should look, and, behold, there is not in the bright spot any white hair, and it should not be lower than the skin, and it should be dark, then the priest shall separate him seven days.",
         "kjv": "But if the priest look on it, and, behold, there be no white hair in the bright spot, and it be no lower than the other skin, but be somewhat dark; then the priest shall shut him up seven days:",
-        "ron": "Dacă însă preotul va vedea că părul de pe pată nu este alb şi că ea nu este adâncită sub piele şi că este negricioasă, preotul va închide pe acela pentru şapte zile;"
+        "ron": "Dacă însă preotul va vedea că părul de pe pată nu este alb şi că ea nu este adâncită sub piele şi că este negricioasă, preotul va închide pe acela pentru şapte zile;",
+        "grk": "Ἐὰν δὲ ἴδῃ ὁ ἱερεὺς, καὶ ἰδοὺ οὐκ ἔστιν ἐν τῷ· αὐγάζοντι θρὶξ λευκή, καὶ ταπεινὸν μὴ ᾖ ἀπὸ τοῦ δέρματος, αὐτὸ δὲ ἀμαυρὸν, καὶ ἀφοριεῖ αὐτὸν ὁ ἱερεὺς ἑπτὰ ἡμέρας."
       }
     },
     {
@@ -2508,7 +2534,8 @@
       "translations": {
         "lxx": "And the priest shall look upon him on the seventh day; and if the spot be much spread in the skin, then the priest shall pronounce him unclean: it is a plague of leprosy, it has broken out in the ulcer.",
         "kjv": "And the priest shall look upon him the seventh day: and if it be spread much abroad in the skin, then the priest shall pronounce him unclean: it is the plague of leprosy.",
-        "ron": "Şi în ziua a şaptea preotul îl va cerceta iar şi, dacă pata s-a lăţit tare pe piele, preotul îl va declara necurat, că aceea este rană de lepră."
+        "ron": "Şi în ziua a şaptea preotul îl va cerceta iar şi, dacă pata s-a lăţit tare pe piele, preotul îl va declara necurat, că aceea este rană de lepră.",
+        "grk": "Καὶ ὄψεται αὐτὸν ὁ ἱερεὺς τῇ ἡμέρᾳ τῇ ἑβδόμῃ· ἐὰν δὲ διαχύσει διαχέηται ἐν τῷ δέρματι, καὶ μιανεῖ αὐτὸν ὁ ἱερεὺς, ἁφὴ λέπρας ἐστίν· ἐν τῷ ἕλκει ἐξήνθησεν."
       }
     },
     {
@@ -2615,7 +2642,8 @@
       "translations": {
         "lxx": "But if the bright spot remain stationary, and be not spread in the skin, but the sore should be dark, it is a scar of inflammation; and the priest shall pronounce him clean, for it is the mark of the inflammation.",
         "kjv": "And if the bright spot stay in his place, and spread not in the skin, but it be somewhat dark; it is a rising of the burning, and the priest shall pronounce him clean: for it is an inflammation of the burning.",
-        "ron": "Iar dacă pata stă pe loc şi este negricioasă, aceea este obrinteala arsurii şi preotul va declara pe om curat, că este obrinteală a arsurii."
+        "ron": "Iar dacă pata stă pe loc şi este negricioasă, aceea este obrinteala arsurii şi preotul va declara pe om curat, că este obrinteală a arsurii.",
+        "grk": "Ἐὰν δὲ κατὰ χώραν μείνῃ τὸ αὐγάζον, καὶ μὴ διαχυθῇ ἐν τῷ δέρματι, αὐτὴ δὲ ἀμαυρὰ ᾖ, οὐλὴ τοῦ κατακαύματός ἐστι, καὶ καθαριεῖ αὐτὸν ὁ ἱερεύς· ὁ γὰρ χαρακτὴρ τοῦ κατακαύματός ἐστι."
       }
     },
     {
@@ -2687,7 +2715,8 @@
       "translations": {
         "lxx": "And if a man or a woman have in them a plague of leprosy in the head or the beard;",
         "kjv": "If a man or woman have a plague upon the head or the beard;",
-        "ron": "Dacă un bărbat sau o femeie va avea o pată pe cap sau pe bărbie,"
+        "ron": "Dacă un bărbat sau o femeie va avea o pată pe cap sau pe bărbie,",
+        "grk": "Καὶ ἀνδρὶ ἢ γυναικὶ ἐὰν γένηται ἐν αὐτοῖς ἁφὴ λέπρας ἐν τῇ κεφαλῇ ἢ ἐν τῷ πώγωνι·"
       }
     },
     {
@@ -2834,7 +2863,8 @@
       "translations": {
         "lxx": "then the priest shall look on the plague, and, behold, if the appearance of it be beneath the skin, and in it there be thin yellowish hair, then the priest shall pronounce him unclean: it is a scurf, it is a leprosy of the head or a leprosy of the beard.",
         "kjv": "Then the priest shall see the plague: and, behold, if it be in sight deeper than the skin; and there be in it a yellow thin hair; then the priest shall pronounce him unclean: it is a dry scall, even a leprosy upon the head or beard.",
-        "ron": "Şi, cercetând-o preotul, se va vedea că ea este adâncită sub piele şi că părul de pe ea este gălbui şi subţire, preotul va declara pe unul ca acela necurat, că aceea este chelbe, lepră în cap, sau lepră în barbă."
+        "ron": "Şi, cercetând-o preotul, se va vedea că ea este adâncită sub piele şi că părul de pe ea este gălbui şi subţire, preotul va declara pe unul ca acela necurat, că aceea este chelbe, lepră în cap, sau lepră în barbă.",
+        "grk": "Καὶ ὄψεται ὁ ἱερεὺς τὴν ἁφὴν, καὶ ἰδοὺ ἡ ὄψις αὐτῆς ἐγκοιλοτέρα τοῦ δέρματος, ἐν αὐτῇ δὲ θρὶξ ξανθίζουσα λεπτὴ, καὶ μιανεῖ αὐτὸν ὁ ἱερεύς· θραῦσμά ἐστι, λέπρα τῆς κεφαλῆς ἢ λέπρα τοῦ πώγωνός ἐστι."
       }
     },
     {
@@ -2956,7 +2986,8 @@
       "translations": {
         "lxx": "And if the priest should see the plague of the scurf, and, behold, the appearance of it be not beneath the skin, and there is no yellowish hair in it, then the priest shall set apart him that has the plague of the scurf seven days.",
         "kjv": "And if the priest look on the plague of the scall, and, behold, it be not in sight deeper than the skin, and that there is no black hair in it; then the priest shall shut up him that hath the plague of the scall seven days:",
-        "ron": "Dacă însă preotul, la cercetarea petei de chelbe, va vedea că ea nu este adâncită sub piele şi că părul de pe ea nu este gălbui, preotul va închide pe cel cu pata de chelbe şapte zile;"
+        "ron": "Dacă însă preotul, la cercetarea petei de chelbe, va vedea că ea nu este adâncită sub piele şi că părul de pe ea nu este gălbui, preotul va închide pe cel cu pata de chelbe şapte zile;",
+        "grk": "Καὶ ἐὰν ἴδῃ ὁ ἱερεὺς τὴν ἁφὴν τοῦ θραύσματος, καὶ ἰδοὺ οὐχ ἡ ὄψις ἐγκοιλοτέρα τοῦ δέρματος, καὶ θρὶξ ξανθίζουσα οὐκ ἔστιν ἐν αὐτῇ, καὶ ἀφοριεῖ ὁ ἱερεὺς τὴν ἁφὴν τοῦ θραύσματος ἑπτὰ ἡμέρας."
       }
     },
     {
@@ -3073,7 +3104,8 @@
       "translations": {
         "lxx": "And the priest shall look at the plague on the seventh day; and, behold, if the scurf be not spread, and there be no yellowish hair on it, and the appearance of the scurf is not hollow under the skin;",
         "kjv": "And in the seventh day the priest shall look on the plague: and, behold, if the scall spread not, and there be in it no yellow hair, and the scall be not in sight deeper than the skin;",
-        "ron": "în ziua a şaptea preotul va cerceta pata iar şi, dacă chelbea nu s-a întins şi n-are părul de pe ea gălbui şi nici nu s-a adâncit chelbea sub piele,"
+        "ron": "în ziua a şaptea preotul va cerceta pata iar şi, dacă chelbea nu s-a întins şi n-are părul de pe ea gălbui şi nici nu s-a adâncit chelbea sub piele,",
+        "grk": "Καὶ ὄψεται ὁ ἱερεὺς τὴν ἁφὴν τῇ ἡμέρᾳ τῇ ἑβδόμῃ, καὶ ἰδοὺ οὐ διεχύθη τὸ θραῦσμα, καὶ θρὶξ ξανθίζουσα οὐκ ἔστιν ἐν αὐτῇ, καὶ ἡ ὄψις τοῦ θραύσματος οὐκ ἔστι κοίλη ἀπὸ τοῦ δέρματος·"
       }
     },
     {
@@ -3165,7 +3197,8 @@
       "translations": {
         "lxx": "then the skin shall be shaven, but the scurf shall not be shaven; and the priest shall set aside the person having the scurf the second time for seven days.",
         "kjv": "He shall be shaven, but the scall shall he not shave; and the priest shall shut up him that hath the scall seven days more:",
-        "ron": "Atunci să radă pielea, dar locul cu chelbe să nu-l radă, şi preotul să închidă pe cel cu pata a doua oară pentru şapte zile."
+        "ron": "Atunci să radă pielea, dar locul cu chelbe să nu-l radă, şi preotul să închidă pe cel cu pata a doua oară pentru şapte zile.",
+        "grk": "Καὶ ξυρηθήσεται τὸ δέρμα, τὸ δὲ θραῦσμα οὐ ξυρηθήσεται, καὶ ἀφοριεῖ ὁ ἱερεὺς τὸ θραῦσμα ἑπτὰ ἡμέρας τὸ δεύτερον."
       }
     },
     {
@@ -3312,7 +3345,8 @@
       "translations": {
         "lxx": "And the priest shall see the scurf on the seventh day; and, behold, if the scurf is not spread in the skin after the man's being shaved, and the appearance of the scurf is not hollow beneath the skin, then the priest shall pronounce him clean; and he shall wash his garments, and be clean.",
         "kjv": "And in the seventh day the priest shall look on the scall: and, behold, if the scall be not spread in the skin, nor be in sight deeper than the skin; then the priest shall pronounce him clean: and he shall wash his clothes, and be clean.",
-        "ron": "În ziua a şaptea preotul va cerceta din nou chelbea şi, dacă chelbea nu se va fi întins pe piele şi nu se va fi adâncit în piele, preotul va declara pe acela curat şi acela să-şi spele hainele sale şi va fi curat."
+        "ron": "În ziua a şaptea preotul va cerceta din nou chelbea şi, dacă chelbea nu se va fi întins pe piele şi nu se va fi adâncit în piele, preotul va declara pe acela curat şi acela să-şi spele hainele sale şi va fi curat.",
+        "grk": "Καὶ ὄψεται ὁ ἱερεὺς τὸ θραῦσμα τῇ ἡμέρᾳ τῇ ἑβδόμῃ, καὶ ἰδοὺ οὐ διεχύθη τὸ θραῦσμα ἐν τῷ δέρματι μετὰ τὸ ξυρηθῆναι αὐτόν, καὶ ἡ ὄψις τοῦ θραύσματος οὐκ ἔστιν κοίλη ἀπὸ τοῦ δέρματος, καὶ καθαριεῖ αὐτὸν ὁ ἱερεὺς, καὶ πλυνάμενος τὰ ἱμάτια, καθαρὸς ἔσται."
       }
     },
     {
@@ -3364,7 +3398,8 @@
       "translations": {
         "lxx": "But if the scurf be indeed spread in the skin after he has been purified,",
         "kjv": "But if the scall spread much in the skin after his cleansing;",
-        "ron": "Iar dacă, după această curăţire a lui, chelbea va începe a se lăţi foarte tare pe piele,"
+        "ron": "Iar dacă, după această curăţire a lui, chelbea va începe a se lăţi foarte tare pe piele,",
+        "grk": "Ἐὰν δὲ διαχύσει διαχέηται τὸ θραῦσμα ἐν τῷ δέρματι μετὰ τὸ καθαρισθῆναι αὐτόν·"
       }
     },
     {
@@ -3451,7 +3486,8 @@
       "translations": {
         "lxx": "then the priest shall look, and, behold, if the scurf be spread in the skin, the priest shall not examine concerning the yellow hair, for he is unclean.",
         "kjv": "Then the priest shall look on him: and, behold, if the scall be spread in the skin, the priest shall not seek for yellow hair; he is unclean.",
-        "ron": "Şi dacă preotul va vedea că chelbea se lăţeşte pe piele, atunci preotul să nu mai caute de e părul gălbui, că acela este necurat."
+        "ron": "Şi dacă preotul va vedea că chelbea se lăţeşte pe piele, atunci preotul să nu mai caute de e părul gălbui, că acela este necurat.",
+        "grk": "Καὶ ὄψεται ὁ ἱερεὺς, καὶ ἰδοὺ διακέχυται τὸ θραῦσμα ἐν τῷ δέρματι, οὐκ ἐπισκέψεται ὁ ἱερεὺς περὶ τῆς τριχὸς τῆς ξανθῆς, ὅτι ἀκάθαρτός ἐστιν."
       }
     },
     {
@@ -3548,7 +3584,8 @@
       "translations": {
         "lxx": "But if the scurf remain before him in its place, and a dark hair should have arisen in it, the scurf is healed: he is clean, and the priest shall pronounce him clean.",
         "kjv": "But if the scall be in his sight at a stay, and that there is black hair grown up therein; the scall is healed, he is clean: and the priest shall pronounce him clean.",
-        "ron": "Dacă însă chelbea stă pe loc şi se iveşte pe ea păr negru, atunci chelbea a trecut, omul e curat şi preotul îl va declara curat."
+        "ron": "Dacă însă chelbea stă pe loc şi se iveşte pe ea păr negru, atunci chelbea a trecut, omul e curat şi preotul îl va declara curat.",
+        "grk": "Ἐὰν δὲ ἐνώπιον μείνῃ ἐπὶ χώρας τὸ θραῦσμα, καὶ θρὶξ μέλαινα ἀνατείλῃ ἐν αὐτῷ, ὑγίακε τὸ θραῦσμα, καθαρός ἐστι, καὶ καθαριεῖ αὐτὸν ὁ ἱερεύς."
       }
     },
     {
@@ -3615,7 +3652,8 @@
       "translations": {
         "lxx": "And if a man or woman should have in the skin of their flesh spots of a bright whiteness,",
         "kjv": "If a man also or a woman have in the skin of their flesh bright spots, even white bright spots;",
-        "ron": "Dacă un bărbat sau o femeie va avea pe pielea trupului pete, pete albe,"
+        "ron": "Dacă un bărbat sau o femeie va avea pe pielea trupului pete, pete albe,",
+        "grk": "Καὶ ἀνδρὶ ἢ γυναικὶ ἐὰν γένηται ἐν δέρματι τῆς σαρκὸς αὐτοῦ αὐγάματα αὐγάζοντα λευκανθίζοντα·"
       }
     },
     {
@@ -3712,7 +3750,8 @@
       "translations": {
         "lxx": "then the priest shall look; and, behold, there being bright spots of a bright whiteness in the skin of their flesh, it is a tetter; it bursts forth in the skin of his flesh; he is clean.",
         "kjv": "Then the priest shall look: and, behold, if the bright spots in the skin of their flesh be darkish white; it is a freckled spot that groweth in the skin; he is clean.",
-        "ron": "Şi dacă preotul va vedea că pe pielea trupului aceluia petele sunt albe-vinete, aceea e pecingine care a înflorit pe piele şi omul ce o are este curat."
+        "ron": "Şi dacă preotul va vedea că pe pielea trupului aceluia petele sunt albe-vinete, aceea e pecingine care a înflorit pe piele şi omul ce o are este curat.",
+        "grk": "καὶ ὄψεται ὁ ἱερεὺς, καὶ ἰδοὺ ἐν δέρματι τῆς σαρκὸς αὐτοῦ αὐγάσματα αὐγάζοντα λευκαθίζοντα, ἀλφός ἐστιν· ἐξανθεῖ ἐν τῷ δέρματι τῆς σαρκὸς αὐτοῦ, καθαρός ἐστιν."
       }
     },
     {
@@ -3759,7 +3798,8 @@
       "translations": {
         "lxx": "And if any one's head should lose the hair, he is only bald, he is clean.",
         "kjv": "And the man whose hair is fallen off his head, he is bald; yet is he clean.",
-        "ron": "Dacă cuiva i-a căzut părul de pe cap, aceea e pleşuvie şi omul este curat."
+        "ron": "Dacă cuiva i-a căzut părul de pe cap, aceea e pleşuvie şi omul este curat.",
+        "grk": "Ἐὰν δέ τινι μαδήσῃ ἡ κεφαλὴ αὐτοῦ, φαλακρός ἐστι, καθαρός ἐστιν."
       }
     },
     {
@@ -3816,7 +3856,8 @@
       "translations": {
         "lxx": "And if his head should lose the hair in front, he is forehead bald: he is clean.",
         "kjv": "And he that hath his hair fallen off from the part of his head toward his face, he is forehead bald: yet is he clean.",
-        "ron": "Dacă cuiva i-a căzut părul din partea de dinainte a capului, aceea este jumătate de pleşuvie şi omul e curat."
+        "ron": "Dacă cuiva i-a căzut părul din partea de dinainte a capului, aceea este jumătate de pleşuvie şi omul e curat.",
+        "grk": "Ἐὰν δὲ κατὰ πρόσωπον μαδήσῃ ἡ κεφαλὴ αὐτοῦ, ἀναφάλαντός ἐστι, καθαρός ἐστιν."
       }
     },
     {
@@ -3918,7 +3959,8 @@
       "translations": {
         "lxx": "And if there should be in his baldness of head, or his baldness of forehead, a white or fiery plague, it is leprosy in his baldness of head, or baldness of forehead.",
         "kjv": "And if there be in the bald head, or bald forehead, a white reddish sore; it is a leprosy sprung up in his bald head, or his bald forehead.",
-        "ron": "Iar dacă pe pleşuvia din partea de dinainte sau de dinapoi va fi pată albă sau roşiatică, atunci pe pleşuvia lui a înflorit lepra."
+        "ron": "Iar dacă pe pleşuvia din partea de dinainte sau de dinapoi va fi pată albă sau roşiatică, atunci pe pleşuvia lui a înflorit lepra.",
+        "grk": "Ἐὰν δὲ γένηται ἐν τῷ φαλακρώματι αὐτοῦ ἢ ἐν τῷ ἀναφαλαντώματι αὐτοῦ ἁφὴ λευκὴ ἢ πυῤῥίζουσα, λέπρα ἐστὶν ἐν τῷ φαλακρώματι αὐτοὺ, ἢ ἐν τῷ ἀναφαλαντώματι αὐτοῦ·"
       }
     },
     {
@@ -4025,7 +4067,8 @@
       "translations": {
         "lxx": "And the priest shall look upon him, and, behold, if the appearance of the plague be white or inflamed in his baldness of head or baldness in front, as the appearance of leprosy in the skin of his flesh,",
         "kjv": "Then the priest shall look upon it: and, behold, if the rising of the sore be white reddish in his bald head, or in his bald forehead, as the leprosy appeareth in the skin of the flesh;",
-        "ron": "Preotul îl va cerceta şi de va vedea că faţa umflăturii de pe pleşuvia lui este albă sau roşiatică, semănând cu lepra, ce de obicei se iveşte pe pielea trupului,"
+        "ron": "Preotul îl va cerceta şi de va vedea că faţa umflăturii de pe pleşuvia lui este albă sau roşiatică, semănând cu lepra, ce de obicei se iveşte pe pielea trupului,",
+        "grk": "καὶ ὄψεται αὐτὸν ὁ ἱερεύς, καὶ ἰδοὺ ἡ ὄψις τῆς ἁφῆς λευκὴ ἢ πυῤῥίζουσα ἐν τῷ φαλακρώματι αὐτοῦ ἢ ἐν τῷ ἀναφαλαντώματι αὐτοῦ, ὡς ωἶδος λέπρας ἐν δέρματι τῆς σαρκὸς αὐτοῦ·"
       }
     },
     {
@@ -4112,7 +4155,8 @@
       "translations": {
         "lxx": "he is a leprous man: the priest shall surely pronounce him unclean, his plague is in his head.",
         "kjv": "He is a leprous man, he is unclean: the priest shall pronounce him utterly unclean; his plague is in his head.",
-        "ron": "Acela este om lepros şi este necurat; preotul să-l declare necurat, că pe capul lui este boala leprei."
+        "ron": "Acela este om lepros şi este necurat; preotul să-l declare necurat, că pe capul lui este boala leprei.",
+        "grk": "Ἄνθρωπος λεπρός ἐστι· μιάνσει μιανεῖ αὐτὸν ὁ ἱερεὺς, ἐν τῇ κεφαλῇ αὐτοῦ ἡ ἁφὴ αὐτοῦ."
       }
     },
     {
@@ -4204,7 +4248,8 @@
       "translations": {
         "lxx": "And the leper in whom the plague is, let his garments be ungirt, and his head uncovered; and let him have a covering put upon his mouth, and he shall be called unclean.",
         "kjv": "And the leper in whom the plague is, his clothes shall be rent, and his head bare, and he shall put a covering upon his upper lip, and shall cry, Unclean, unclean.",
-        "ron": "Leprosul, cel ce are această boală, să fie cu hainele sfâşiate, cu capul descoperit, învelit până la buze, şi să strige mereu: necurat! necurat!"
+        "ron": "Leprosul, cel ce are această boală, să fie cu hainele sfâşiate, cu capul descoperit, învelit până la buze, şi să strige mereu: necurat! necurat!",
+        "grk": "Καὶ ὁ λεπρὸς ἐν ᾧ ἐστιν ἡ ἁφὴ, τὰ ἱμάτια αὐτοῦ ἔστω παραλελυμένα, καὶ ἡ κεφαλὴ αὐτοῦ ἀκάλυπτος, καὶ περὶ τὸ στόμα αὐτοῦ περιβαλέσθω, καὶ ἀκάθαρτος κεκλήσεται."
       }
     },
     {
@@ -4296,7 +4341,8 @@
       "translations": {
         "lxx": "All the days in which the plague shall be upon him, being unclean, he shall be esteemed unclean; he shall dwell apart, his place of sojourn shall be without the camp.",
         "kjv": "All the days wherein the plague shall be in him he shall be defiled; he is unclean: he shall dwell alone; without the camp shall his habitation be.",
-        "ron": "Tot timpul cât va avea pe el boala, să fie spurcat, că necurat este; şi să trăiască singuratic şi afară din tabără să fie locuinţa lui."
+        "ron": "Tot timpul cât va avea pe el boala, să fie spurcat, că necurat este; şi să trăiască singuratic şi afară din tabără să fie locuinţa lui.",
+        "grk": "Πάσας τὰς ἡμέρας, ὅσας ἐὰν ᾖ ἐπʼ αὐτὸν ἡ ἁφὴ, ἀκάθαρτος ὢν ἀκάθαρτος ἔσται· κεχωρισμένος καθήσεται, ἔξω τῆς παρεμβολῆς αὐτοῦ ἔσται ἡ διατριβή."
       }
     },
     {
@@ -4378,7 +4424,8 @@
       "translations": {
         "lxx": "And if a garment have in it the plague of leprosy, a garment of wool, or a garment of flax,",
         "kjv": "The garment also that the plague of leprosy is in, whether it be a woollen garment, or a linen garment;",
-        "ron": "Dacă boala leprei va fi pe haină, fie pe haină de lână, sau pe haină de în,"
+        "ron": "Dacă boala leprei va fi pe haină, fie pe haină de lână, sau pe haină de în,",
+        "grk": "Καὶ ἱματίῳ ἐὰν γένηται ἁφὴ ἐν αὐτῷ λέπρας, ἐν ἱματίῳ ἐρέῳ, ἢ ἐν ἱματίῳ στυππυίνῳ,"
       }
     },
     {
@@ -4490,7 +4537,8 @@
       "translations": {
         "lxx": "either in the warp or in the woof, or in the linen, or in the woollen threads, or in a skin, or in any workmanship of skin,",
         "kjv": "Whether it be in the warp, or woof; of linen, or of woollen; whether in a skin, or in any thing made of skin;",
-        "ron": "Sau pe urzeală, sau pe bătătură de în sau de lână, sau pe piele sau pe vreun lucru de piele,"
+        "ron": "Sau pe urzeală, sau pe bătătură de în sau de lână, sau pe piele sau pe vreun lucru de piele,",
+        "grk": "ἢ ἐν στήμονι, ἢ ἐν κρόκῃ, ἢ ἐν τοῖς λινοῖς, ἢ ἐν τοῖς ἐρέοις, ἢ ἐν δέρματι, ἢ ἐν παντὶ ἐργασίμῳ δέρματι,"
       }
     },
     {
@@ -4642,7 +4690,8 @@
       "translations": {
         "lxx": "and the plague be greenish or reddish in the skin, or in the garment, either in the warp, or in the woof, or in any utensil of skin, it is a plague of leprosy, and he shall show it to the priest.",
         "kjv": "And if the plague be greenish or reddish in the garment, or in the skin, either in the warp, or in the woof, or in any thing of skin; it is a plague of leprosy, and shall be shewed unto the priest:",
-        "ron": "Şi dacă va fi pată verzuie sau roşiatică pe haină sau pe piele, pe bătătură sau pe urzeală, sau pe vreun lucru de piele, aceea este boala leprei, şi el se va arăta preotului."
+        "ron": "Şi dacă va fi pată verzuie sau roşiatică pe haină sau pe piele, pe bătătură sau pe urzeală, sau pe vreun lucru de piele, aceea este boala leprei, şi el se va arăta preotului.",
+        "grk": "καὶ γένηται ἡ ἁφὴ χλωρίζουσα ἢ πυῤῥίζουσα ἐν τῷ δέρματι, ἢ ἐν τῷ ἱματίῳ, ἢ ἐν τῷ στήμονι, ἢ ἐν τῇ κρόκῃ, ἢ ἐν παντὶ σκεύει ἐργασίμῳ δέρματος, ἁφὴ λέπρας ἐστί· καὶ δείξει τῷ ἱερεῖ·"
       }
     },
     {
@@ -4704,7 +4753,8 @@
       "translations": {
         "lxx": "And the priest shall look upon the plague, and the priest shall set apart that which has the plague seven days.",
         "kjv": "And the priest shall look upon the plague, and shut up it that hath the plague seven days:",
-        "ron": "Preotul va cerceta boala şi va închide lucrul atins de boală pentru şapte zile;"
+        "ron": "Preotul va cerceta boala şi va închide lucrul atins de boală pentru şapte zile;",
+        "grk": "Καὶ ὄψεται ὁ ἱερεὺς τὴν ἁφήν, καὶ ἀφοριεῖ ὁ ἱερεὺς τὴν ἁφὴν ἑπτὰ ἡμέρας."
       }
     },
     {
@@ -4871,7 +4921,8 @@
       "translations": {
         "lxx": "And the priest shall look upon the plague on the seventh day; and if the plague be spread in the garment, either in the warp or in the woof, or in the skin, in whatsoever things skins may be used in their workmanship, the plague is a confirmed leprosy; it is unclean.",
         "kjv": "And he shall look on the plague on the seventh day: if the plague be spread in the garment, either in the warp, or in the woof, or in a skin, or in any work that is made of skin; the plague is a fretting leprosy; it is unclean.",
-        "ron": "În ziua a şaptea va cerceta preotul lucrul atins de boală şi dacă boala se va fi întins pe haină, sau pe urzeală, sau pe bătătură, sau pe piele, sau pe vreun lucru de piele, aceasta este lepră rozătoare, şi e necurat;"
+        "ron": "În ziua a şaptea va cerceta preotul lucrul atins de boală şi dacă boala se va fi întins pe haină, sau pe urzeală, sau pe bătătură, sau pe piele, sau pe vreun lucru de piele, aceasta este lepră rozătoare, şi e necurat;",
+        "grk": "Καὶ ὄψεται ὁ ἱερεὺς τὴν ἁφὴν τῇ ἡμέρᾳ τῇ ἑβδόμῃ· ἐὰν δὲ διαχέηται ἡ ἁφὴ ἐν τῷ ἱματίῳ, ἢ ἐν τῷ στήμονι, ἢ ἐν τῇ κρόκῃ, ἢ ἐν τῷ δέρματι, κατὰ πάντα ὅσα ἐὰν ποιηθῇ δέρματα ἐν τῇ ἐργασίᾳ, λέπρα ἔμμονός ἐστιν ἡ ἁφὴ, ἀκάθαρτός ἐστι."
       }
     },
     {
@@ -5033,7 +5084,8 @@
       "translations": {
         "lxx": "He shall burn the garment, either the warp or woof in woollen garments or in flaxen, or in any utensil of skin, in which there may be the plague; because it is a confirmed leprosy; it shall be burnt with fire.",
         "kjv": "He shall therefore burn that garment, whether warp or woof, in woollen or in linen, or any thing of skin, wherein the plague is: for it is a fretting leprosy; it shall be burnt in the fire.",
-        "ron": "Şi el să ardă haina aceea, sau urzeala, sau bătătura cea de lână sau de in, sau orice fel de lucru din piele, pe care va fi boala, că aceea este lepră rozătoare şi să se ardă cu foc."
+        "ron": "Şi el să ardă haina aceea, sau urzeala, sau bătătura cea de lână sau de in, sau orice fel de lucru din piele, pe care va fi boala, că aceea este lepră rozătoare şi să se ardă cu foc.",
+        "grk": "Κατακαύσει τὸ ἱμάτιον, ἢ τὸν στήμονα, ἢ τὴν κρόκην ἐν τοῖς ἐρέοις, ἢ ἐν τοῖς λινοῖς, ἢ ἐν παντὶ σκεύει δερματίνῳ, ἐν ᾧ ἂν ᾖ ἐν αὐτῷ ἡ ἁφὴ, ὅτι λέπρα ἔμμονός ἐστιν, ἐν πυρὶ κατακαυθήσεται."
       }
     },
     {
@@ -5135,7 +5187,8 @@
       "translations": {
         "lxx": "And if the priest should see, and the plague be not spread in the garments, either in the warp or in the woof, or in any utensil of skin,",
         "kjv": "And if the priest shall look, and, behold, the plague be not spread in the garment, either in the warp, or in the woof, or in any thing of skin;",
-        "ron": "Iar dacă preotul va vedea că boala nu s-a întins pe haină, sau pe urzeală, sau pe bătătură, sau pe orice fel de lucru din piele,"
+        "ron": "Iar dacă preotul va vedea că boala nu s-a întins pe haină, sau pe urzeală, sau pe bătătură, sau pe orice fel de lucru din piele,",
+        "grk": "Ἐὰν δὲ ἴδῃ ὁ ἱερεὺς, καὶ μὴ διαχέηται ἡ ἁφὴ ἐν τῷ ἱματίῳ, ἢ ἐν τῷ στήμονι, ἢ ἐν τῇ κρόκῃ, ἢ ἐν παντὶ σκεύει δερματίνῳ·"
       }
     },
     {
@@ -5217,7 +5270,8 @@
       "translations": {
         "lxx": "then the priest shall give directions, and one shall wash that on which there may have been the plague, and the priest shall set it aside a second time for seven days.",
         "kjv": "Then the priest shall command that they wash the thing wherein the plague is, and he shall shut it up seven days more:",
-        "ron": "Atunci preotul va porunci să se spele lucrul pe care s-a ivit boala şi-l va închide a doua oară pentru şapte zile."
+        "ron": "Atunci preotul va porunci să se spele lucrul pe care s-a ivit boala şi-l va închide a doua oară pentru şapte zile.",
+        "grk": "Καὶ συντάξει ὁ ἱερεύς, καὶ πλυνεῖ ἐφʼ οὗ ἐὰν ᾖ ἐπʼ αὐτοῦ ἡ ἁφὴ, καὶ ἀφοριεῖ ὁ ἱερεὺς τὴν ἁφὴν ἑπτὰ ἡμέρας τοδέυτερον."
       }
     },
     {
@@ -5374,7 +5428,8 @@
       "translations": {
         "lxx": "And the priest shall look upon it after the plague has been washed; and if this, even the plague, has not changed its appearance, and the plague does not spread, it is unclean; it shall be burnt with fire: it is fixed in the garment, in the warp, or in the woof.",
         "kjv": "And the priest shall look on the plague, after that it is washed: and, behold, if the plague have not changed his colour, and the plague be not spread; it is unclean; thou shalt burn it in the fire; it is fret inward, whether it be bare within or without.",
-        "ron": "Dacă, după spălarea lucrului atins, preotul va vedea că boala nu şi-a schimbat starea sa, dar s-a întins, atunci este necurat şi lucrul să-l arzi în foc, căci lepra a ros faţa sau dosul."
+        "ron": "Dacă, după spălarea lucrului atins, preotul va vedea că boala nu şi-a schimbat starea sa, dar s-a întins, atunci este necurat şi lucrul să-l arzi în foc, căci lepra a ros faţa sau dosul.",
+        "grk": "Καὶ ὄψεται ὁ ἱερεὺς μετὰ τὸ πλυθῆναι αὐτὸ τὴν ἁφὴν, καὶ ἥδε οὐ μὴ μετέβαλεν ἡ ἁφὴ τὴν ὄψιν, καὶ ἡ ἁφὴ οὐ διαχεῖται, ἀκάθαρτόν ἐστιν, ἐν πυρὶ κατακαυθήσεται· ἐστήρικται ἐν τῷ ἱματίῳ, ἢ ἐν τῷ στήμονι, ἢ ἐν τῇ κρόκη."
       }
     },
     {
@@ -5496,7 +5551,8 @@
       "translations": {
         "lxx": "And if the priest should look, and the spot be dark after it has been washed, he shall tear it off from the garment, either from the warp or from the woof, or from the skin.",
         "kjv": "And if the priest look, and, behold, the plague be somewhat dark after the washing of it; then he shall rend it out of the garment, or out of the skin, or out of the warp, or out of the woof:",
-        "ron": "Dacă însă preotul va vedea că pata, după spălarea ei, s-a micşorat, atunci preotul s-o rupă de la haină, sau din piele, sau din urzeală, sau din bătătură."
+        "ron": "Dacă însă preotul va vedea că pata, după spălarea ei, s-a micşorat, atunci preotul s-o rupă de la haină, sau din piele, sau din urzeală, sau din bătătură.",
+        "grk": "Καὶ ἐὰν ἴδῃ ὁ ἱερεὺς, καὶ ᾖ ἀμαυρὰ ἡ ἁφὴ μετὰ τὸ πλυθήναι αὐτὸ, ἀποῤῥήξει αὐτὸ ἀπὸ τοῦ ἱματίου, ἢ ἀπὸ τοῦ στήμονος, ἢ ἀπὸ τῆς κρόκης, ἢ ἀπὸ τοῦ δέρματος."
       }
     },
     {
@@ -5633,7 +5689,8 @@
       "translations": {
         "lxx": "And if it should still appear in the garment, either in the warp or in the woof, or in any article of skin, it is a leprosy bursting forth: that wherein is the plague shall be burnt with fire.",
         "kjv": "And if it appear still in the garment, either in the warp, or in the woof, or in any thing of skin; it is a spreading plague: thou shalt burn that wherein the plague is with fire.",
-        "ron": "Iar dacă se va ivi iar pe haină, sau pe bătătură, sau pe urzeală, sau pe vreun lucru de piele, aceea este lepră înflorită şi să se ardă cu foc lucrul pe care s-a ivit boala."
+        "ron": "Iar dacă se va ivi iar pe haină, sau pe bătătură, sau pe urzeală, sau pe vreun lucru de piele, aceea este lepră înflorită şi să se ardă cu foc lucrul pe care s-a ivit boala.",
+        "grk": "Ἐὰν δὲ ὀφθῇ ἔτι ἐν τῷ ἱματίῳ, ἢ ἐν τῷ στήμονι, ἢ ἐν τῇ κρόκῃ, ἢ ἐν παντὶ σκεύει δερματίνῳ, λέπρα ἐξανθοῦσά ἐστιν ἐν πυρὶ κατακαυθήσεται ἐν ᾧ ἐστιν ἡ ἁφή."
       }
     },
     {
@@ -5755,7 +5812,8 @@
       "translations": {
         "lxx": "And the garment, or the warp, or the woof, or any article of skin, which shall be washed, and the plague depart from it, shall also be washed again, and shall be clean.",
         "kjv": "And the garment, either warp, or woof, or whatsoever thing of skin it be, which thou shalt wash, if the plague be departed from them, then it shall be washed the second time, and shall be clean.",
-        "ron": "Dacă însă haina, sau urzeala, sau bătătura, sau lucrul de piele îl vei spăla şi se va duce pata de pe el, trebuie să se spele a doua oară şi va fi curat."
+        "ron": "Dacă însă haina, sau urzeala, sau bătătura, sau lucrul de piele îl vei spăla şi se va duce pata de pe el, trebuie să se spele a doua oară şi va fi curat.",
+        "grk": "Καὶ τὸ ἱμάτιον, ἢ ὁ στήμων, ἢ ἡ κρόκη, ἢ πᾶν σκεῦος δερμάτινον, ὃ πλυθήσεται, καὶ ἀποστήσεται ἀπʼ αὐτοῦ ἡ ἁφὴ, καὶ πλυθήσεται τὸ δέυτερον, καὶ καθαρὸν ἔσται."
       }
     },
     {
@@ -5887,7 +5945,8 @@
       "translations": {
         "lxx": "This is the law of the plague of leprosy of a woollen or linen garment, either of the warp, or woof, or any leathern article, to pronounce it clean or unclean.",
         "kjv": "This is the law of the plague of leprosy in a garment of woollen or linen, either in the warp, or woof, or any thing of skins, to pronounce it clean, or to pronounce it unclean.",
-        "ron": "Aceasta este rânduiala pentru boala leprei, ce se va ivi pe haină de lână sau de în, sau pe urzeală, sau pe bătătură, sau pe vreun lucru de piele, şi cum trebuie hotărât că acestea sunt curate sau necurate\"."
+        "ron": "Aceasta este rânduiala pentru boala leprei, ce se va ivi pe haină de lână sau de în, sau pe urzeală, sau pe bătătură, sau pe vreun lucru de piele, şi cum trebuie hotărât că acestea sunt curate sau necurate\".",
+        "grk": "Οὗτος ὁ νόμος ἁφῆς λέπρας ἱματίου ἐρέου, ἢ στυππυίνου, ἢ στήμονος, ἢ κρόκης, ἢ παντὸς σκεύους δερματίνου, εἰς τὸ καθαρίσαι αὐτὸ, ἢ μιᾶναι αὐτό."
       }
     }
   ],

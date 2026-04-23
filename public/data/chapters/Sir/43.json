@@ -45,7 +45,8 @@
       ],
       "translations": {
         "lxx": "The pride of the height, the clear firmament, the beauty of heaven, with his glorious shew;",
-        "ron": "Mărirea înălţimii este curăţia cerului, întru arătarea slavei Domnului."
+        "ron": "Mărirea înălţimii este curăţia cerului, întru arătarea slavei Domnului.",
+        "grk": "Γαυρίαμα ὕψους, στερέωμα καθαριότητος, εἶδος οὐρανοῦ ἐν ὁράματι δόξης."
       }
     },
     {
@@ -101,7 +102,8 @@
       ],
       "translations": {
         "lxx": "the sun when it appeareth, declaring at his rising a marvellous instrument, the work of the most High:",
-        "ron": "Soarele în ivire vesteşte, când se arată, ca un vas minunat, făptura Celui Preaînalt."
+        "ron": "Soarele în ivire vesteşte, când se arată, ca un vas minunat, făptura Celui Preaînalt.",
+        "grk": "Ἥλιος ἐν ὀπτασίᾳ διαγγέλλων ἐν ἐξόδῳ, σκεῦος θαυμαστὸν, ἔργον ὑψίστου."
       }
     },
     {
@@ -142,7 +144,8 @@
       ],
       "translations": {
         "lxx": "at noon it parcheth the country, and who can abide the burning heat thereof?",
-        "ron": "Când este la amiază usucă pământul şi înaintea arşiţei lui cine va sta?"
+        "ron": "Când este la amiază usucă pământul şi înaintea arşiţei lui cine va sta?",
+        "grk": "Ἐν μεσημβρίᾳ αὐτοῦ ἀναξηραίνει χώραν, καὶ ἐναντίον καύματος αὐτοῦ τίς ὑποστήσεται;"
       }
     },
     {
@@ -238,7 +241,8 @@
       ],
       "translations": {
         "lxx": "A man blowing a furnace is in works of heat, but the sun burneth the mountains three times more; breathing out fiery vapours, and sending forth bright beams, it dimmeth the eyes.",
-        "ron": "Cuptorul arde pentru lucrurile făurirei, dar de trei ori mai tare este soarele arzând munţii."
+        "ron": "Cuptorul arde pentru lucrurile făurirei, dar de trei ori mai tare este soarele arzând munţii.",
+        "grk": "Κάμινον φυσῶν ἐν ἔργοις καύματος, τριπλασίως ἥλιος ἐκκαίων ὄρη· ἀτμίδας πυρώδεις ἐμφυσῶν, καὶ ἐκλάμπων ἀκτίνας ἀμαυροῖ ὀφθαλμούς."
       }
     },
     {
@@ -284,7 +288,8 @@
       ],
       "translations": {
         "lxx": "Great is the Lord that made it; and at his commandment it runneth hastily.",
-        "ron": "Suflând abur de foc şi strălucind rază, întunecă ochii."
+        "ron": "Suflând abur de foc şi strălucind rază, întunecă ochii.",
+        "grk": "Μέγας Κύριος ὁ ποιήσας αὐτὸν, καὶ ἐν λόγοις αὐτοῦ κατέσπευσε πορείαν."
       }
     },
     {
@@ -340,7 +345,8 @@
       ],
       "translations": {
         "lxx": "He made the moon also to serve in her season for a declaration of times, and a sign of the world.",
-        "ron": "Mare este Domnul Cel care l-a făcut, şi cu porunca Lui grăbeşte mergerea."
+        "ron": "Mare este Domnul Cel care l-a făcut, şi cu porunca Lui grăbeşte mergerea.",
+        "grk": "Καὶ ἡ σελήνη ἐν πᾶσιν εἰς καιρὸν αὐτῆς, ἀνάδειξιν χρόνων, καὶ σημεῖον αἰῶνος."
       }
     },
     {
@@ -396,7 +402,8 @@
       ],
       "translations": {
         "lxx": "From the moon is the sign of feasts, a light that decreaseth in her perfection.",
-        "ron": "Şi luna, totdeauna exactă, însemnează lunile şi împarte timpul."
+        "ron": "Şi luna, totdeauna exactă, însemnează lunile şi împarte timpul.",
+        "grk": "Ἀπὸ σελήνης σημεῖον ἑορτῆς, φωστὴρ μειούμενος ἐπὶ συντελείας."
       }
     },
     {
@@ -497,7 +504,8 @@
       ],
       "translations": {
         "lxx": "The month is called after her name, increasing wonderfully in her changing, being an instrument of the armies above, shining in the firmament of heaven;",
-        "ron": "Din lună este semnul sărbătorii, lumină care scade până la sfârşit."
+        "ron": "Din lună este semnul sărbătorii, lumină care scade până la sfârşit.",
+        "grk": "Μὴν κατὰ τὸ ὄνομα αὐτῆς ἐστιν, αὐξανομένη θαυμαστῶς ἐν ἀλλοιώσει· σκεῦος παρεμβολῶν ἐν ὕψει, ἐν στερεώματι οὐρανοῦ ἐκλάμπων·"
       }
     },
     {
@@ -553,7 +561,8 @@
       ],
       "translations": {
         "lxx": "the beauty of heaven, the glory of the stars, an ornament giving light in the highest places of the Lord.",
-        "ron": "Lunile anului sunt după mersul ei, minunate schimbări face crescând."
+        "ron": "Lunile anului sunt după mersul ei, minunate schimbări face crescând.",
+        "grk": "κάλλος οὐρανοῦ, δόξα ἄστρων, κόσμος φωτίζων, ἐν ὑψίστοις Κύριος."
       }
     },
     {
@@ -604,7 +613,8 @@
       ],
       "translations": {
         "lxx": "At the commandment of the Holy One they will stand in their order, and never faint in their watches.",
-        "ron": "Cort taberelor intru înălţime, întru tăria cerului strălucind."
+        "ron": "Cort taberelor intru înălţime, întru tăria cerului strălucind.",
+        "grk": "Ἐν λόγοις ἁγίου στήσονται κατὰ κρίμα, καὶ οὐ μὴ ἐκλυθῶσιν ἐν φυλακαῖς αὐτῶν."
       }
     },
     {
@@ -655,7 +665,8 @@
       ],
       "translations": {
         "lxx": "Look upon the rainbow, and praise him that made it; very beautiful it is in the brightness thereof.",
-        "ron": "Frumuseţea cerului este mulţimea stelelor, podoabe luminând întru cele înalte ale Domnului."
+        "ron": "Frumuseţea cerului este mulţimea stelelor, podoabe luminând întru cele înalte ale Domnului.",
+        "grk": "Ἴδε τόξον, καὶ εὐλόγησον τὸν ποιήσαντα αὐτὸ, σφόδρα ὡραῖον ἐν τῷ αὐγάσματι αὐτοῦ."
       }
     },
     {
@@ -706,7 +717,8 @@
       ],
       "translations": {
         "lxx": "It compasseth the heaven about with a glorious circle, and the hands of the most High have bended it.",
-        "ron": "După pravila Celui Sfânt, ele stau în rânduiala lor şi nu obosesc în străjile lor."
+        "ron": "După pravila Celui Sfânt, ele stau în rânduiala lor şi nu obosesc în străjile lor.",
+        "grk": "Ἐγύρωσεν οὐρανὸν ἐν κυκλώσει δόξης, χεῖρες ὑψίστου ἐτάννυσαν αὐτό."
       }
     },
     {
@@ -752,7 +764,8 @@
       ],
       "translations": {
         "lxx": "By his commandment he maketh the snow to fall apace, and sendeth swiftly the lightnings of his judgment.",
-        "ron": "Vezi curcubeul şi binecuvântează pe Cel care l-a făcut; că foarte frumos este în strălucirea sa."
+        "ron": "Vezi curcubeul şi binecuvântează pe Cel care l-a făcut; că foarte frumos este în strălucirea sa.",
+        "grk": "Προστάγματι αὐτοῦ κατέσπευσε χιόνα, καὶ ταχύνει ἀστραπὰς κρίματος αὐτοῦ."
       }
     },
     {
@@ -803,7 +816,8 @@
       ],
       "translations": {
         "lxx": "Through this the treasures are opened: and clouds fly forth as fowls.",
-        "ron": "A înconjurat cerul împrejur cu mărire, mâinile Celui Preaînalt l-au atins pe el."
+        "ron": "A înconjurat cerul împrejur cu mărire, mâinile Celui Preaînalt l-au atins pe el.",
+        "grk": "Διὰ τοῦτο ἠνεῴχθησαν θησαυροὶ, καὶ ἐξέπτησαν νεφέλαι ὡς πετεινά."
       }
     },
     {
@@ -844,7 +858,8 @@
       ],
       "translations": {
         "lxx": "By his great power he maketh the clouds firm, and the hailstones are broken small.",
-        "ron": "Cu porunca Lui a grăbit zăpada şi grăbeşte fulgerele după judecata Sa."
+        "ron": "Cu porunca Lui a grăbit zăpada şi grăbeşte fulgerele după judecata Sa.",
+        "grk": "Ἐν μεγαλείῳ αὐτοῦ ἴσχυσε νεφέλας, καὶ διεθρύβησαν λίθοι χαλάζης."
       }
     },
     {
@@ -890,7 +905,8 @@
       ],
       "translations": {
         "lxx": "At his sight the mountains are shaken, and at his will the south wind bloweth.",
-        "ron": "Pentru aceea se deschid vistieriile şi norii zboară ca păsările."
+        "ron": "Pentru aceea se deschid vistieriile şi norii zboară ca păsările.",
+        "grk": "Καὶ ἐν ὀπτασίαις αὐτοῦ σαλευθήσεται ὄρη, ἐν θελήματι πνεύσεται νότος."
       }
     },
     {
@@ -991,7 +1007,8 @@
       ],
       "translations": {
         "lxx": "The noise of the thunder maketh the earth to tremble: so doth the northern storm and the whirlwind: as birds flying he scattereth the snow, and the falling down thereof is as the lighting of grasshoppers:",
-        "ron": "Cu slava Sa întăreşte norii şi sfărâmă pietrele grindinei"
+        "ron": "Cu slava Sa întăreşte norii şi sfărâmă pietrele grindinei",
+        "grk": "Φωνὴ βροντῆς αὐτοῦ ὠδίνησε γῆν, καὶ καταιγὶς Βορέου καὶ συστροφὴ πνεύματος· ὡς πετεινὰ καθιπτάμενα πάσσει χιόνα, καὶ ὡς ἀκρὶς καταλύουσα ἡ κατάβασις αὐτῆς."
       }
     },
     {
@@ -1037,7 +1054,8 @@
       ],
       "translations": {
         "lxx": "the eye marvelleth at the beauty of the whiteness thereof, and the heart is astonished at the raining of it.",
-        "ron": "Şi de privirea Lui se vor cutremura munţii."
+        "ron": "Şi de privirea Lui se vor cutremura munţii.",
+        "grk": "Κάλλος λευκότητος αὐτῆς ἐκθαυμάσει ὀφθαλμὸς, καὶ ἐπὶ τοῦ ὑετοῦ αὐτῆς ἐκστήσεται καρδία."
       }
     },
     {
@@ -1128,7 +1146,8 @@
       ],
       "translations": {
         "lxx": "The hoarfrost also as salt he poureth on the earth, and being congealed, it becometh sharp peaks.",
-        "ron": "Cu voia Lui suflă vântul din miazăzi; glasul tunetului Lui a făcut ca să mugească pământul,"
+        "ron": "Cu voia Lui suflă vântul din miazăzi; glasul tunetului Lui a făcut ca să mugească pământul,",
+        "grk": "Καὶ πάχνην ὡς ἅλα ἐπὶ γῆς χέει, καὶ παγεῖσα γίνεται σκολόπων ἄκρα."
       }
     },
     {
@@ -1244,7 +1263,8 @@
       ],
       "translations": {
         "lxx": "When the cold north wind bloweth, and the water is congealed into ice, it abideth upon every gathering together of water, and clotheth the water as with a breastplate.",
-        "ron": "Şi viforul de la miazănoapte şi volbura vântului;"
+        "ron": "Şi viforul de la miazănoapte şi volbura vântului;",
+        "grk": "Ψυχρὸς ἄνεμος Βορέης πνεύσει, καὶ παγήσεται κρύσταλλος ἀφʼ ὕδατος· ἐπὶ πᾶσαν συναγωγὴν ὕδατος καταλύσει, καὶ ὡς θώρακα ἐνδύσεται τὸ ὕδωρ."
       }
     },
     {
@@ -1295,7 +1315,8 @@
       ],
       "translations": {
         "lxx": "It devoureth the mountains, and burneth the wilderness, and consumeth the grass as fire.",
-        "ron": "Presară zăpada ca păsările ce zboară şi cum poposeşte lăcusta, aşa este pogorârea ei."
+        "ron": "Presară zăpada ca păsările ce zboară şi cum poposeşte lăcusta, aşa este pogorârea ei.",
+        "grk": "Καταφάγεται ὄρη, καὶ ἔρημον ἐκκαύσει, καὶ ἀποσβέσει χλόην ὡς πῦρ."
       }
     },
     {
@@ -1356,7 +1377,8 @@
       ],
       "translations": {
         "lxx": "A present remedy of all is a mist coming speedily: a dew coming after heat refresheth.",
-        "ron": "De frumuseţea albinei ei se va mira ochiul şi de viscolul ei se va spăimânta inima."
+        "ron": "De frumuseţea albinei ei se va mira ochiul şi de viscolul ei se va spăimânta inima.",
+        "grk": "Ἴασις πάντων κατὰ σπουδὴν ὁμίχλη, δρόσος ἀπαντῶσα ἀπὸ καύσωνος ἱλαρώσει."
       }
     },
     {
@@ -1402,7 +1424,8 @@
       ],
       "translations": {
         "lxx": "By his counsel he appeaseth the deep, and planteth islands therein.",
-        "ron": "Şi bruma \"a sarea o varsă pe pământ, care, dacă îngheaţă, se face ca vârfurile de ţepuşă."
+        "ron": "Şi bruma \"a sarea o varsă pe pământ, care, dacă îngheaţă, se face ca vârfurile de ţepuşă.",
+        "grk": "Λογισμῷ αὐτοῦ ἐκόπασεν ἄβυσσον, καὶ ἐφύτευσεν αὐτὴν Ἰησοῦς."
       }
     },
     {
@@ -1453,7 +1476,8 @@
       ],
       "translations": {
         "lxx": "They that sail on the sea tell of the danger thereof; and when we hear it with our ears, we marvel thereat.",
-        "ron": "Vânt rece va sufla de la miazănoapte şi va îngheţa apa toată, adunarea apei va acoperi şi se va îmbrăca apa ca şi cu o platoşă."
+        "ron": "Vânt rece va sufla de la miazănoapte şi va îngheţa apa toată, adunarea apei va acoperi şi se va îmbrăca apa ca şi cu o platoşă.",
+        "grk": "Οἱ πλέοντες τὴν θάλασσαν διηγοῦνται τὸν κίνδυνον αὐτῆς, καὶ ἀκοαῖς ὠτίῳν ἡμῶν θαυμάζομεν."
       }
     },
     {
@@ -1499,7 +1523,8 @@
       ],
       "translations": {
         "lxx": "For therein be strange and wondrous works, variety of all kinds of beasts, the race of whales.",
-        "ron": "Puterea Domnului va mânca munţii şi va arde pustiul şi va stinge verdeaţa ca focul."
+        "ron": "Puterea Domnului va mânca munţii şi va arde pustiul şi va stinge verdeaţa ca focul.",
+        "grk": "Καὶ ἐκεῖ τὰ παρὰδοξα καὶ θαυμάσια ἔργα, ποικιλία παντὸς ζώου, κτίσις κητῶν."
       }
     },
     {
@@ -1550,7 +1575,8 @@
       ],
       "translations": {
         "lxx": "By him the end of them hath prosperous success, and by his word all things consist.",
-        "ron": "Leac repede este norul; roua după arşiţă dă viaţă."
+        "ron": "Leac repede este norul; roua după arşiţă dă viaţă.",
+        "grk": "Διʼ αὐτὸν εὐοδία τέλος αὐτοὺ, καὶ ἐν λόγῳ αὐτοῦ σύγκειται πάντα."
       }
     },
     {
@@ -1606,7 +1632,8 @@
       ],
       "translations": {
         "lxx": "We may speak much, and yet come short; wherefore in sum, he is all.",
-        "ron": "Cuvântul Său a făcut să înceteze marea şi a sădit în ea insule."
+        "ron": "Cuvântul Său a făcut să înceteze marea şi a sădit în ea insule.",
+        "grk": "Πολλὰ ἐροῦμεν καὶ οὐ μὴ ἐφικώμεθα, καὶ συντέλεια λόγων τὸ πᾶν ἐστιν αὐτός."
       }
     },
     {
@@ -1662,7 +1689,8 @@
       ],
       "translations": {
         "lxx": "How shall we be able to magnify him? for he is great above all his works.",
-        "ron": "Cei care umblă pe mare povestesc primejdiile ei şi istorisirile lor ne umplu de uimire."
+        "ron": "Cei care umblă pe mare povestesc primejdiile ei şi istorisirile lor ne umplu de uimire.",
+        "grk": "Δοξάζοντες ποῦ ἰσχύσωμεν; αὐτὸς γὰρ ὁ μέγας παρὰ πάντα τὰ ἔργα αὐτοῦ."
       }
     },
     {
@@ -1708,7 +1736,8 @@
       ],
       "translations": {
         "lxx": "The Lord is terrible and very great, and marvellous is his power.",
-        "ron": "Şi acolo sunt lucruri de necrezut şi minunate, tot felul de animale şi de vieţuitoare de mare."
+        "ron": "Şi acolo sunt lucruri de necrezut şi minunate, tot felul de animale şi de vieţuitoare de mare.",
+        "grk": "Φοβερὸς Κύριος καὶ σφόδρα μέγας, καὶ θαυμαστὴ ἡ δυναστεία αὐτοῦ."
       }
     },
     {
@@ -1809,7 +1838,8 @@
       ],
       "translations": {
         "lxx": "When ye glorify the Lord, exalt him as much as ye can; for even yet will he far exceed: and when ye exalt him, put forth all your strength, and be not weary; for ye can never go far enough.",
-        "ron": "Prin El toate ajung la ţelul lor şi în cuvântul Lui s-au aşezat toate."
+        "ron": "Prin El toate ajung la ţelul lor şi în cuvântul Lui s-au aşezat toate.",
+        "grk": "Δοξάζοντες Κύριον ὑψώσατε καθόσον ἂν δύνησθε, ὑπερέξει γὰρ καὶ ἔτι· καὶ ὑψοῦντες αὐτὸν πληθύνατε ἐν ἰσχύϊ, μὴ κοπιᾶτε, οὐ γὰρ μὴ ἐφίκησθε."
       }
     },
     {
@@ -1855,7 +1885,8 @@
       ],
       "translations": {
         "lxx": "Who hath seen him, that he might tell us? and who can magnify him as he is?",
-        "ron": "Am putea spune multe, fără să terminăm; intr-un cuvânt El este toate."
+        "ron": "Am putea spune multe, fără să terminăm; intr-un cuvânt El este toate.",
+        "grk": "Τίς ἑώρακεν αὐτὸν καὶ ἐκδιηγήσεται; καὶ τίς μεγαλύνει αὐτὸν καθώς ἐστι;"
       }
     },
     {
@@ -1911,7 +1942,8 @@
       ],
       "translations": {
         "lxx": "There are yet hid greater things than these be, for we have seen but a few of his works.",
-        "ron": "Cum vom putea să-L preaslăvim? Că El este mai mare decât toate lucrurile Sale."
+        "ron": "Cum vom putea să-L preaslăvim? Că El este mai mare decât toate lucrurile Sale.",
+        "grk": "Πολλὰ ἀπόκρυφά ἐστι μείζονα τούτων, ὀλίγα γὰρ ἑωράκαμεν τῶν ἔργων αὐτοῦ."
       }
     },
     {
@@ -1957,7 +1989,8 @@
       ],
       "translations": {
         "lxx": "For the Lord hath made all things; and to the godly hath he given wisdom.",
-        "ron": "De temut este Domnul şi mare foarte şi minunată este puterea Lui."
+        "ron": "De temut este Domnul şi mare foarte şi minunată este puterea Lui.",
+        "grk": "Πάντα γὰρ ἐποίησεν ὁ Κύριος, καὶ τοῖς εὐσεβέσιν ἔδωκε σοφίαν. ΠΑΤΕΡΩΝ ὝΜΝΟΣ."
       }
     }
   ],

@@ -45,7 +45,8 @@
       ],
       "translations": {
         "lxx": "He that feareth the Lord will do good; and he that hath the knowledge of the law shall obtain her;",
-        "ron": "Cel care se teme de Domnul va face cele bune, şi cel care ţine legea o va cuprinde pe ea."
+        "ron": "Cel care se teme de Domnul va face cele bune, şi cel care ţine legea o va cuprinde pe ea.",
+        "grk": "Ὁ φοβούμενος Κύριον ποιήσει αὐτὸ, καὶ ὁ ἐγκρατὴς τοῦ νόμου καταλήψεται αὐτήν·"
       }
     },
     {
@@ -91,7 +92,8 @@
       ],
       "translations": {
         "lxx": "and as a mother shall she meet him, and receive him as a wife married of a virgin.",
-        "ron": "Şi-l va întâmpina ca o mamă şi ca femeia tinereţilor îl va primi."
+        "ron": "Şi-l va întâmpina ca o mamă şi ca femeia tinereţilor îl va primi.",
+        "grk": "καὶ ὑπαντήσεται αὐτῷ ὡς μήτηρ, καὶ ὡς γυνὴ παρθενίας προσδέξεται αὐτόν·"
       }
     },
     {
@@ -132,7 +134,8 @@
       ],
       "translations": {
         "lxx": "With the bread of understanding shall she feed him, and give him the water of wisdom to drink.",
-        "ron": "Îl va hrăni cu pâinea înţelegerii, şi cu apa înţelepciunii îl va adăpa."
+        "ron": "Îl va hrăni cu pâinea înţelegerii, şi cu apa înţelepciunii îl va adăpa.",
+        "grk": "ψωμιεῖ αὐτὸν ἄρτον συνέσεως, καὶ ὕδωρ σοφίας ποτίσει αὐτόν."
       }
     },
     {
@@ -173,7 +176,8 @@
       ],
       "translations": {
         "lxx": "He shall be stayed upon her, and shall not be moved; and shall rely upon her, and shall not be confounded.",
-        "ron": "Rezema-se-va întru ea şi nu se va clătina; se va ţine de ea şi nu se va ruşina."
+        "ron": "Rezema-se-va întru ea şi nu se va clătina; se va ţine de ea şi nu se va ruşina.",
+        "grk": "Στηριχθήσεται ἐπʼ αὐτὴν καὶ οὐ μὴ κλιθῇ, καὶ ἐπʼ αὐτῆς ἐφέξει καὶ οὐ μὴ καταισχυνθῇ."
       }
     },
     {
@@ -219,7 +223,8 @@
       ],
       "translations": {
         "lxx": "She shall exalt him above his neighbours, and in the midst of the congregation shall she open his mouth.",
-        "ron": "Şi îl va înălţa pe el mai mult decât pe cei de aproape ai lui şi în mijlocul adunării va deschide gura lui."
+        "ron": "Şi îl va înălţa pe el mai mult decât pe cei de aproape ai lui şi în mijlocul adunării va deschide gura lui.",
+        "grk": "Καὶ ὑψώσει αὐτὸν παρὰ τοὺς πλησίον αὐτοῦ, καὶ ἐν μέσῳ ἐκκλησίας ἀνοίξει στόμα αὐτοῦ."
       }
     },
     {
@@ -270,7 +275,8 @@
       ],
       "translations": {
         "lxx": "He shall find joy and a crown of gladness, and she shall cause him to inherit an everlasting name.",
-        "ron": "Desfătare şi cunună de bucurie şi nume veşnic va moşteni."
+        "ron": "Desfătare şi cunună de bucurie şi nume veşnic va moşteni.",
+        "grk": "Εὐφροσύνην καὶ στέφανον ἀγαλλιάματος καὶ ὄνομα αἰώνιον κατακληρονομήσει."
       }
     },
     {
@@ -301,7 +307,8 @@
       ],
       "translations": {
         "lxx": "But foolish men shall not attain unto her, and sinners shall not see her.",
-        "ron": "Oamenii cei nebuni nu vor cuprinde înţelepciunea şi bărbaţii cei păcătoşi nu o vor vedea;"
+        "ron": "Oamenii cei nebuni nu vor cuprinde înţelepciunea şi bărbaţii cei păcătoşi nu o vor vedea;",
+        "grk": "Οὐ μὴ καταλήψονται αὐτὴν ἄνθρωποι ἀσύνετοι, καὶ ἄνδρες ἁμαρτωλοὶ οὐ μὴ ἴδωσιν αὐτήν."
       }
     },
     {
@@ -337,7 +344,8 @@
       ],
       "translations": {
         "lxx": "For she is far from pride, and men that are liars cannot remember her.",
-        "ron": "Departe este de trufie şi oamenii cei mincinoşi nu-şi vor aduce aminte de ea."
+        "ron": "Departe este de trufie şi oamenii cei mincinoşi nu-şi vor aduce aminte de ea.",
+        "grk": "Μακράν ἐστιν ὑπερηφανίας, καὶ ἄνδρες ψεῦσται οὐ μὴ μνησθήσονται αὐτῆς."
       }
     },
     {
@@ -398,7 +406,8 @@
       ],
       "translations": {
         "lxx": "Praise is not seemly in the mouth of a sinner, for it was not sent him of the Lord.",
-        "ron": "Nu este frumoasă lauda în gura păcătosului, că nu este de la Domnul trimisă lui."
+        "ron": "Nu este frumoasă lauda în gura păcătosului, că nu este de la Domnul trimisă lui.",
+        "grk": "Οὐχ ὡραῖος αἶνος ἐν στόματι ἁμαρτωλοῦ, ὅτι οὐ παρὰ Κυρίου ἀπεστάλη."
       }
     },
     {
@@ -444,7 +453,8 @@
       ],
       "translations": {
         "lxx": "For praise shall be uttered in wisdom, and the Lord will prosper it.",
-        "ron": "Că întru înţelepciune se va grăi lauda şi Domnul o va îndrepta pe ea."
+        "ron": "Că întru înţelepciune se va grăi lauda şi Domnul o va îndrepta pe ea.",
+        "grk": "Ἐν γὰρ σοφίᾳ ῥηθήσεται αἶνος, καὶ ὁ Κύριος εὐοδώσει αὐτόν."
       }
     },
     {
@@ -490,7 +500,8 @@
       ],
       "translations": {
         "lxx": "Say not thou, It is through the Lord that I fell away: for thou oughtest not to do the things that he hateth.",
-        "ron": "Să nu zici: Domnul m-a depărtat, că cele ce El le-a urât nu le va face."
+        "ron": "Să nu zici: Domnul m-a depărtat, că cele ce El le-a urât nu le va face.",
+        "grk": "Μὴ εἴπῃς, ὅτι διὰ Κύριον ἀπέστην· ἃ γὰρ ἐμίσησεν, οὐ ποιήσεις."
       }
     },
     {
@@ -536,7 +547,8 @@
       ],
       "translations": {
         "lxx": "Say not thou, He hath caused me to err: for he hath no need of the sinful man.",
-        "ron": "Să nu zici: El m-a înşelat; n-are El lipsă de omul păcătos."
+        "ron": "Să nu zici: El m-a înşelat; n-are El lipsă de omul păcătos.",
+        "grk": "Μὴ εἴπῃς, ὅτι αὐτός με ἐπλάνησεν· οὐ γὰρ χρείαν ἔχει ἀνδρὸς ἁμαρτωλοῦ."
       }
     },
     {
@@ -572,7 +584,8 @@
       ],
       "translations": {
         "lxx": "The Lord hateth all abomination; and they that fear God love it not.",
-        "ron": "Toată urâciunea o urăşte Domnul, şi nu este iubită celor care se tem de Dânsul."
+        "ron": "Toată urâciunea o urăşte Domnul, şi nu este iubită celor care se tem de Dânsul.",
+        "grk": "Πᾶν βδέλυγμα ἐμίσησε Κύριος, καὶ οὐκ ἔστιν ἀγαπητὸν τοῖς φοβουμένοις αὐτόν."
       }
     },
     {
@@ -623,7 +636,8 @@
       ],
       "translations": {
         "lxx": "He himself made man from the beginning, and left him in the hand of his counsel;",
-        "ron": "El din început a făcut pe om şi l-a lăsat în mâna sfatului său."
+        "ron": "El din început a făcut pe om şi l-a lăsat în mâna sfatului său.",
+        "grk": "Αὐτὸς ἐξ ἀρχῆς ἐποίησεν ἄνθρωπον, καὶ ἀφῆκεν αὐτὸν ἐν χειρὶ διαβουλίου αὐτοῦ."
       }
     },
     {
@@ -669,7 +683,8 @@
       ],
       "translations": {
         "lxx": "if thou wilt, to keep the commandments, and to perform acceptable faithfulness.",
-        "ron": "De vei vrea, vei ţine poruncile şi credinţa şi vei face cele bine-plăcute."
+        "ron": "De vei vrea, vei ţine poruncile şi credinţa şi vei face cele bine-plăcute.",
+        "grk": "Ἐὰν θέλῃς, συντηρήσεις ἐντολὰς, καὶ πίστιν ποιῆσαι εὐδοκίας."
       }
     },
     {
@@ -730,7 +745,8 @@
       ],
       "translations": {
         "lxx": "He hath set fire and water before thee: stretch forth thy hand unto whether thou wilt.",
-        "ron": "Pus-a înaintea ta foc şi apă, şi ori la care vei vrea, vei întinde mâna ta."
+        "ron": "Pus-a înaintea ta foc şi apă, şi ori la care vei vrea, vei întinde mâna ta.",
+        "grk": "Παρέθηκέ σοι πῦρ καὶ ὕδωρ, οὗ ἐὰν θέλῃς ἐκτενεῖς τὴν χεῖρά σου."
       }
     },
     {
@@ -781,7 +797,8 @@
       ],
       "translations": {
         "lxx": "Before man is life and death; and whether he liketh shall be given him.",
-        "ron": "Înaintea oamenilor este viaţa şi moartea şi oricare le va plăcea li se va da,"
+        "ron": "Înaintea oamenilor este viaţa şi moartea şi oricare le va plăcea li se va da,",
+        "grk": "Ἔναντι ἀνθρώπων ἡ ζωὴ καὶ ὁ θάνατος, καὶ ὃ ἐὰν εὐδοκήσῃ δοθήσεται αὐτῷ."
       }
     },
     {
@@ -837,7 +854,8 @@
       ],
       "translations": {
         "lxx": "For the wisdom of the Lord is great, and he is mighty in power, and beholdeth all things:",
-        "ron": "Că multă este înţelepciunea Domnului; tare este El întru putere şi vede toate."
+        "ron": "Că multă este înţelepciunea Domnului; tare este El întru putere şi vede toate.",
+        "grk": "Ὅτι πολλὴ σοφία τοῦ Κυρίου, ἰσχυρὸς ἐν δυναστείᾳ καὶ βλέπων τὰ πάντα."
       }
     },
     {
@@ -898,7 +916,8 @@
       ],
       "translations": {
         "lxx": "and his eyes are upon them that fear him, and he knoweth every work of man.",
-        "ron": "Şi ochii Lui sunt peste cei care se tem de El, şi El va cunoaşte tot lucrul omului."
+        "ron": "Şi ochii Lui sunt peste cei care se tem de El, şi El va cunoaşte tot lucrul omului.",
+        "grk": "Καὶ οἱ ὀφθαλμοὶ αὐτοῦ ἐπὶ τοὺς φοβουμένους αὐτὸν, καὶ αὐτὸς ἐπιγνώσεται πᾶν ἔργον ἀνθρώπου."
       }
     },
     {
@@ -959,7 +978,8 @@
       ],
       "translations": {
         "lxx": "He hath commanded no man to do wickedly, neither hath he given any man licence to sin.",
-        "ron": "Şi nimănui n-a poruncit să lucreze nelegiuit şi nimănui n-a dat libertate să păcătuiască."
+        "ron": "Şi nimănui n-a poruncit să lucreze nelegiuit şi nimănui n-a dat libertate să păcătuiască.",
+        "grk": "Καὶ οὐκ ἐνετείλατο οὐδενὶ ἀσεβεῖν, καὶ οὐκ ἔδωκεν ἄνεσιν οὐδενὶ ἁμαρτάνειν."
       }
     }
   ],

@@ -46,7 +46,8 @@
       "translations": {
         "lxx": "Wisdom has built a house for herself, and set up seven pillars.",
         "kjv": "Wisdom hath builded her house, she hath hewn out her seven pillars:",
-        "ron": "Înţelepciunea şi-a zidit casă rezemată pe şapte stâlpi,"
+        "ron": "Înţelepciunea şi-a zidit casă rezemată pe şapte stâlpi,",
+        "grk": "Ἡ σοφία ᾠκοδόμησεν ἑαυτῇ οἶκον, καὶ ὑπήρεισε στύλους ἑπτά."
       }
     },
     {
@@ -98,7 +99,8 @@
       "translations": {
         "lxx": "She has killed her beasts; she has mingled her wine in a bowl, and prepared her table.",
         "kjv": "She hath killed her beasts; she hath mingled her wine; she hath also furnished her table.",
-        "ron": "A înjunghiat vite pentru ospăţ, a pregătit vinul cu mirodenii şi a întins masa sa."
+        "ron": "A înjunghiat vite pentru ospăţ, a pregătit vinul cu mirodenii şi a întins masa sa.",
+        "grk": "Ἔσφαξε τὰ ἑαυτῆς θύματα, ἐκέρασεν εἰς κρατῆρα τὸν ἑαυτῆς οἶνον, καὶ ἡτοιμάσατο τὴν ἑαυτῆς τράπεζαν."
       }
     },
     {
@@ -145,7 +147,8 @@
       "translations": {
         "lxx": "She has sent forth her servants, calling with a loud proclamation to the feast, saying,",
         "kjv": "She hath sent forth her maidens: she crieth upon the highest places of the city,",
-        "ron": "Ea a trimis slujnicele sale să strige pe vârfurile dealurilor cetăţii:"
+        "ron": "Ea a trimis slujnicele sale să strige pe vârfurile dealurilor cetăţii:",
+        "grk": "Ἀπέστειλε τοὺς ἑαυτῆς δούλους, συγκαλοῦσα μετὰ ὑψηλοῦ κηρύγματος ἐπὶ κρατῆρα, λέγουσα,"
       }
     },
     {
@@ -202,7 +205,8 @@
       "translations": {
         "lxx": "Whoso is foolish, let him turn aside to me: and to them that want understanding she says,",
         "kjv": "Whoso is simple, let him turn in hither: as for him that wanteth understanding, she saith to him,",
-        "ron": "\"Cine este neînţelept să intre la mine!\" Şi celor lipsiţi de buna-chibzuială le zice:"
+        "ron": "\"Cine este neînţelept să intre la mine!\" Şi celor lipsiţi de buna-chibzuială le zice:",
+        "grk": "Ὅς ἐστιν ἄφρων, ἐκκλινάτω πρὸς μέ· καὶ τοῖς ἐνδεέσι φρενῶν εἶπεν,"
       }
     },
     {
@@ -254,7 +258,8 @@
       "translations": {
         "lxx": "Come, eat of my bread, and drink wine which I have mingled for you.",
         "kjv": "Come, eat of my bread, and drink of the wine which I have mingled.",
-        "ron": "\"Veniţi şi mâncaţi din pâinea mea şi beţi din vinul pe care eu l-am amestecat cu mirodenii."
+        "ron": "\"Veniţi şi mâncaţi din pâinea mea şi beţi din vinul pe care eu l-am amestecat cu mirodenii.",
+        "grk": "ἔλθατε, φάγετε τῶν ἐμῶν ἄρτων, καὶ πίετε οἶνον ὃν ἐκέρασα ὑμῖν."
       }
     },
     {
@@ -296,7 +301,8 @@
       "translations": {
         "lxx": "Leave folly, that ye may reign for ever; and seek wisdom, and improve understanding by knowledge.",
         "kjv": "Forsake the foolish, and live; and go in the way of understanding.",
-        "ron": "Părăsiţi neînţelepciunea ca să rămâneţi cu viaţă şi umblaţi pe calea cea dreaptă a priceperii!\""
+        "ron": "Părăsiţi neînţelepciunea ca să rămâneţi cu viaţă şi umblaţi pe calea cea dreaptă a priceperii!\"",
+        "grk": "Ἀπολείπετε ἀφροσύνην, ἵνα εἰς τὸν αἰῶνα βασιλεύσητε· καὶ ζητήσατε φρόνησιν, καὶ κατορθώσατε ἐν γνώσει σύνεσιν."
       }
     },
     {
@@ -348,7 +354,8 @@
       "translations": {
         "lxx": "He that reproves evil men shall get dishonour to himself; and he that rebukes an ungodly man shall disgrace himself.",
         "kjv": "He that reproveth a scorner getteth to himself shame: and he that rebuketh a wicked man getteth himself a blot.",
-        "ron": "Cel ce ceartă pe batjocoritor îşi atrage dispreţul, şi cel ce dojeneşte pe cel fără de lege îşi atrage ocara."
+        "ron": "Cel ce ceartă pe batjocoritor îşi atrage dispreţul, şi cel ce dojeneşte pe cel fără de lege îşi atrage ocara.",
+        "grk": "Ὁ παιδεύων κακοὺς λήψεται ἑαυτῷ ἀτιμίαν· ἐλέγχων δὲ τὸν ἀσεβῆ μωμήσεται ἑαυτόν."
       }
     },
     {
@@ -380,7 +387,8 @@
       "translations": {
         "lxx": "Rebuke not evil men, lest they should hate thee: rebuke a wise man, and he will love thee.",
         "kjv": "Reprove not a scorner, lest he hate thee: rebuke a wise man, and he will love thee.",
-        "ron": "Nu certa pe cel batjocoritor ca să nu te urască; dojeneşte pe cel înţelept, şi el te va iubi."
+        "ron": "Nu certa pe cel batjocoritor ca să nu te urască; dojeneşte pe cel înţelept, şi el te va iubi.",
+        "grk": "Μὴ ἔλεγχε κακοὺς, ἵνα μὴ μισήσωσί σε· ἔλεγχε σοφὸν, καὶ ἀγαπήσει σε."
       }
     },
     {
@@ -412,7 +420,8 @@
       "translations": {
         "lxx": "Give an opportunity to a wise man, and he will be wiser: instruct a just man, and he will receive more instruction.",
         "kjv": "Give instruction to a wise man, and he will be yet wiser: teach a just man, and he will increase in learning.",
-        "ron": "Dă sfat celui înţelept, şi el se va face şi mai înţelept; învaţă pe cel drept, şi el îşi va spori ştiinţa lui."
+        "ron": "Dă sfat celui înţelept, şi el se va face şi mai înţelept; învaţă pe cel drept, şi el îşi va spori ştiinţa lui.",
+        "grk": "Δίδου σοφῷ ἀφορμὴν, καὶ σοφώτερος ἔσται· γνώριζε δικαίῳ, καὶ προσθήσει τοῦ δέχεσθαι."
       }
     },
     {
@@ -494,7 +503,8 @@
       "translations": {
         "lxx": "for to know the law is the character of a sound mind.",
         "kjv": "The fear of the LORD is the beginning of wisdom: and the knowledge of the holy is understanding.",
-        "ron": "Începutul înţelepciunii este frica de Dumnezeu şi priceperea este ştiinţa Celui Sfânt."
+        "ron": "Începutul înţelepciunii este frica de Dumnezeu şi priceperea este ştiinţa Celui Sfânt.",
+        "grk": "Ἀρχὴ σοφίας φόβος Κυρίου, καὶ βουλὴ ἁγίων σύνεσις· τὸ γὰρ γνῶναι νόμον, διανοίας ἐστὶν ἀγαθῆς."
       }
     },
     {
@@ -566,7 +576,8 @@
       "translations": {
         "lxx": "For in this way thou shalt live long, and years of thy life shall be added to thee.",
         "kjv": "For by me thy days shall be multiplied, and the years of thy life shall be increased.",
-        "ron": "Căci prin Domnul se vor înmulţi zilele tale şi se vor adăuga ţie ani de viaţă."
+        "ron": "Căci prin Domnul se vor înmulţi zilele tale şi se vor adăuga ţie ani de viaţă.",
+        "grk": "Τούτῳ γὰρ τῷ τρόπῳ πολὺν ζήσεις χρόνον, καὶ προστεθήσεταί σοι ἔτη ζωῆς σου."
       }
     },
     {
@@ -613,7 +624,8 @@
       "translations": {
         "lxx": "and he goes through a dry desert, and a land appointed to drought, and he gathers barrenness with his hands.",
         "kjv": "If thou be wise, thou shalt be wise for thyself: but if thou scornest, thou alone shalt bear it.",
-        "ron": "Dacă tu eşti înţelept, eşti înţelept pentru tine, şi dacă eşti batjocoritor, singur vei purta ponosul."
+        "ron": "Dacă tu eşti înţelept, eşti înţelept pentru tine, şi dacă eşti batjocoritor, singur vei purta ponosul.",
+        "grk": "Υἱὲ ἐὰν σοφὸς γένῃ σεαυτῷ, σοφὸς ἔσῃ καὶ τοῖς πλησίον· ἐὰν δὲ κακὸς ἀποβῇς, μόνος ἂν ἀντλήσεις κακά· ὃς ἐρείδεται ἐπὶ ψεύδεσιν, οὗτος ποιμαίνει ἀνέμους, ὁ δʼ αὐτὸς διώξεται ὄρνεα πετόμενα· ἀπέλιπε γὰρ ὁδοὺς τοῦ ἑαυτοῦ ἀμπελῶνος, τοὺς δὲ ἄξονας τοῦ ἰδίου γεωργίου πεπλάνηται· διαπορεύεται δὲ διʼ ἀνύδρου ἐρήμου, καὶ γῆν διατεταγμένην ἐν διψώδεσι, συνάγει δὲ χερσὶν ἀκαρπίαν."
       }
     },
     {
@@ -695,7 +707,8 @@
       "translations": {
         "lxx": "A foolish and bold woman, who knows not modesty, comes to want a morsel.",
         "kjv": "A foolish woman is clamorous: she is simple, and knoweth nothing.",
-        "ron": "Nebunia este o femeie gălăgioasă, proastă şi care nu ştie nimic."
+        "ron": "Nebunia este o femeie gălăgioasă, proastă şi care nu ştie nimic.",
+        "grk": "Γυνὴ ἄφρων καὶ θρασεῖα ἐνδεὴς ψωμοῦ γίνεται, ἣ οὐκ ἐπίσταται αἰσχύνην."
       }
     },
     {
@@ -762,7 +775,8 @@
       "translations": {
         "lxx": "She sits at the doors of her house, on a seat openly in the streets,",
         "kjv": "For she sitteth at the door of her house, on a seat in the high places of the city,",
-        "ron": "Ea stă la uşa casei sale, pe un scaun înalt şi strigă,"
+        "ron": "Ea stă la uşa casei sale, pe un scaun înalt şi strigă,",
+        "grk": "Ἐκάθισεν ἐπὶ θύραις τοῦ ἑαυτῆς οἴκου, ἐπὶ δίφρου ἐμφανῶς ἐν πλατείαις,"
       }
     },
     {
@@ -879,7 +893,8 @@
       "translations": {
         "lxx": "calling to passers by, and to those that are going right on their ways;",
         "kjv": "To call passengers who go right on their ways:",
-        "ron": "Ca să poftească pe cei ce trec pe drum şi pe cei ce merg pe calea lor fără să se abată:"
+        "ron": "Ca să poftească pe cei ce trec pe drum şi pe cei ce merg pe calea lor fără să se abată:",
+        "grk": "προσκαλουμένη τοὺς παριόντας καὶ κατευθύνοντας ἐν ταῖς ὁδοῖς αὐτῶν·"
       }
     },
     {
@@ -961,7 +976,8 @@
       "translations": {
         "lxx": "saying, Whoso is most senseless of you, let him turn aside to me; and I exhort those that want prudence, saying,",
         "kjv": "Whoso is simple, let him turn in hither: and as for him that wanteth understanding, she saith to him,",
-        "ron": "\"Cine este neînţelept să intre la mine!\" Şi celui lipsit de buna-chibzuială îi zice:"
+        "ron": "\"Cine este neînţelept să intre la mine!\" Şi celui lipsit de buna-chibzuială îi zice:",
+        "grk": "Ὅς ἐστιν ὑμῶν ἀφρονέστατος, ἐκκλινάτω πρὸς μέ· καὶ τοῖς ἐνδεέσι φρονήσεως παρακελεύομαι, λέγουσα,"
       }
     },
     {
@@ -1028,7 +1044,8 @@
       "translations": {
         "lxx": "Take and enjoy secret bread, and the sweet water of theft.",
         "kjv": "Stolen waters are sweet, and bread eaten in secret is pleasant.",
-        "ron": "\"Apa furată e mai plăcută şi pâinea mâncată pe furiş are gust mai bun\"."
+        "ron": "\"Apa furată e mai plăcută şi pâinea mâncată pe furiş are gust mai bun\".",
+        "grk": "ἄρτων κρυφίων ἡδέως ἅψασθε, καὶ ὕδατος κλοπῆς γλυκεροῦ."
       }
     },
     {
@@ -1085,7 +1102,8 @@
       "translations": {
         "lxx": "that thou mayest live long, and years of life may be added to thee.",
         "kjv": "But he knoweth not that the dead are there; and that her guests are in the depths of hell.",
-        "ron": "Şi omul nu ştie că acolo sunt numai umbre, iar cei pe care îi pofteşte nebunia se află de mult în adâncurile şeolului (locuinţa morţilor)."
+        "ron": "Şi omul nu ştie că acolo sunt numai umbre, iar cei pe care îi pofteşte nebunia se află de mult în adâncurile şeolului (locuinţa morţilor).",
+        "grk": "Ὁ δὲ οὐκ οἶδεν ὅτι γηγενεῖς παρʼ αὐτῇ ὄλλυνται, καὶ ἐπὶ πέταυρον ᾅδου συναντᾷ· ἀλλὰ ἀποπήδησον, μὴ χρονίσῃς ἐν τῷ τόπῳ, μηδὲ ἐπιστήσῃς τὸ σὸν ὄμμα πρὸς αὐτὴν, οὕτως γὰρ διαβήσῃ ὕδωρ ἀλλότριον· ἀπὸ δὲ ὕδατος ἀλλοτρίου ἀπόσχου, καὶ ἀπὸ πηγῆς ἀλλοτρίας μὴ πίῃς ἵνα πολὺν ζησῃς χρόνον, προστεθῇ δέ σοι ἔτη ζωῆς."
       }
     },
     {

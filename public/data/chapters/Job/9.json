@@ -36,7 +36,8 @@
       "translations": {
         "lxx": "Then Job answered and said,",
         "kjv": "Then Job answered and said,",
-        "ron": "Atunci Iov a răspuns şi a zis:"
+        "ron": "Atunci Iov a răspuns şi a zis:",
+        "grk": "Ὑπολαβὼν δὲ Ἰὼβ, λέγει,"
       }
     },
     {
@@ -103,7 +104,8 @@
       "translations": {
         "lxx": "I know of a truth that it is so: for how shall a mortal man be just before the Lord?",
         "kjv": "I know it is so of a truth: but how should man be just with God?",
-        "ron": "\"Ştiu bine că aşa este; căci cum ar putea un om să fie drept înaintea lui Dumnezeu?"
+        "ron": "\"Ştiu bine că aşa este; căci cum ar putea un om să fie drept înaintea lui Dumnezeu?",
+        "grk": "Ἐπʼ ἀληθείας οἶδα, ὅτι οὕτως ἐστί· πῶς γὰρ ἔσται δίκαιος βροτὸς παρὰ Κυρίῳ;"
       }
     },
     {
@@ -150,7 +152,8 @@
       "translations": {
         "lxx": "For if he would enter into judgment with him, God would not hearken to him, so that he should answer to one of his charges of a thousand.",
         "kjv": "If he will contend with him, he cannot answer him one of a thousand.",
-        "ron": "Dacă ar fi să se certe cu El, din o mie de lucruri n-ar putea să-I răspundă nici la unul singur."
+        "ron": "Dacă ar fi să se certe cu El, din o mie de lucruri n-ar putea să-I răspundă nici la unul singur.",
+        "grk": "Ἐὰν γὰρ βούληται κριθῆναι αὐτῷ, οὐ μὴ ὑπακούσῃ αὐτῷ, ἵνα μὴ ἀντείπῃ πρὸς ἕνα λόγον αὐτοῦ ἐκ χιλίων."
       }
     },
     {
@@ -217,7 +220,8 @@
       "translations": {
         "lxx": "For he is wise in mind, and mighty, and great: who has hardened himself against him and endured?",
         "kjv": "He is wise in heart, and mighty in strength: who hath hardened himself against him, and hath prospered?",
-        "ron": "A Lui este înţelepciunea şi atotputernicia; cine ar putea să-I stea împotrivă şi să rămână teafăr?"
+        "ron": "A Lui este înţelepciunea şi atotputernicia; cine ar putea să-I stea împotrivă şi să rămână teafăr?",
+        "grk": "Σοφὸς γάρ ἐστι διανοίᾳ, κραταιός τε καὶ μέγας· τίς σκληρὸς γενόμενος ἐναντίον αὐτοῦ ὑπέμεινεν;"
       }
     },
     {
@@ -254,7 +258,8 @@
       "translations": {
         "lxx": "Who wears out the mountains, and men know it not: who overturns them in anger.",
         "kjv": "Which removeth the mountains, and they know not: which overturneth them in his anger.",
-        "ron": "El mişcă munţii din loc fără ca ei să prindă de veste că El i-a răsturnat în mânia Lui."
+        "ron": "El mişcă munţii din loc fără ca ei să prindă de veste că El i-a răsturnat în mânia Lui.",
+        "grk": "Ὁ παλαιῶν ὄρη καὶ οὐκ οἴδασιν, ὁ καταστρέφων αὐτὰ ὀργῇ·"
       }
     },
     {
@@ -281,7 +286,8 @@
       "translations": {
         "lxx": "Who shakes the earth under heaven from its foundations, and its pillars totter.",
         "kjv": "Which shaketh the earth out of her place, and the pillars thereof tremble.",
-        "ron": "El zguduie pământul din temelia lui, aşa încât stâlpii lui se clatină."
+        "ron": "El zguduie pământul din temelia lui, aşa încât stâlpii lui se clatină.",
+        "grk": "Ὁ σείων τὴν ὑπʼ οὐρανὸν ἐκ θεμελίων, οἱ δὲ στύλοι αὐτῆς σαλεύονται·"
       }
     },
     {
@@ -323,7 +329,8 @@
       "translations": {
         "lxx": "Who commands the sun, and it rises not; and he seals up the stars.",
         "kjv": "Which commandeth the sun, and it riseth not; and sealeth up the stars.",
-        "ron": "El porunceşte soarelui şi soarele nu se mai ridică. El pune pecetea Lui asupra stelelor."
+        "ron": "El porunceşte soarelui şi soarele nu se mai ridică. El pune pecetea Lui asupra stelelor.",
+        "grk": "Ὁ λέγων τῷ ἡλίῳ καὶ οὐκ ἀνατέλλει, κατὰ δὲ ἄστρων κατασφραγίζει·"
       }
     },
     {
@@ -380,7 +387,8 @@
       "translations": {
         "lxx": "Who alone has stretched out the heavens, and walks on the sea as on firm ground.",
         "kjv": "Which alone spreadeth out the heavens, and treadeth upon the waves of the sea.",
-        "ron": "El singur este Cel ce întinde cerurile şi umblă pe valurile mării."
+        "ron": "El singur este Cel ce întinde cerurile şi umblă pe valurile mării.",
+        "grk": "Ὁ τανύσας τὸν οὐρανὸν μόνος, καὶ περιπατῶν ὡς ἐπʼ ἐδάφους ἐπὶ θαλάσσης·"
       }
     },
     {
@@ -462,7 +470,8 @@
       "translations": {
         "lxx": "Who makes Pleias, and Hesperus, and Arcturus, and the chambers of the south.",
         "kjv": "Which maketh Arcturus, Orion, and Pleiades, and the chambers of the south.",
-        "ron": "El a zidit Carul mare, Raliţa, Pleiadele şi cămările stelelor de miazăzi."
+        "ron": "El a zidit Carul mare, Raliţa, Pleiadele şi cămările stelelor de miazăzi.",
+        "grk": "Ὁ ποιῶν Πλειάδα καὶ Ἕσπερον καὶ Ἀρκτοῦρον, καὶ ταμεῖα Νότου·"
       }
     },
     {
@@ -524,7 +533,8 @@
       "translations": {
         "lxx": "Who does great and unsearchable things; glorious also and excellent things, innumerable.",
         "kjv": "Which doeth great things past finding out; yea, and wonders without number.",
-        "ron": "El a făcut lucruri mari şi nepătrunse şi minuni fără de număr."
+        "ron": "El a făcut lucruri mari şi nepătrunse şi minuni fără de număr.",
+        "grk": "Ὁ ποιῶν μεγάλα καὶ ἀνεξιχνίαστα, ἔνδοξά τε καὶ ἐξαίσια, ὧν οὐκ ἔστιν ἀριθμός."
       }
     },
     {
@@ -566,7 +576,8 @@
       "translations": {
         "lxx": "If ever he should go beyond me, I shall not see him: if he should pass by me, neither thus have I known it.",
         "kjv": "Lo, he goeth by me, and I see him not: he passeth on also, but I perceive him not.",
-        "ron": "Iată, dacă trece pe lângă mine, eu nu-L văd, şi dacă se strecoară, eu nu-I prind de veste."
+        "ron": "Iată, dacă trece pe lângă mine, eu nu-L văd, şi dacă se strecoară, eu nu-I prind de veste.",
+        "grk": "Ἐὰν ὑπερβῇ με, οὐ μὴ ἴδω· ἐὰν παρέλθῃ με, οὐδʼ ὡς ἔγνων."
       }
     },
     {
@@ -623,7 +634,8 @@
       "translations": {
         "lxx": "If he would take away, who shall turn him back? or who shall say to him, What hast thou done?",
         "kjv": "Behold, he taketh away, who can hinder him? who will say unto him, What doest thou?",
-        "ron": "Dacă ia şi ridică, cine va putea să-L oprească şi cine-I va zice: Ce ai făcut?"
+        "ron": "Dacă ia şi ridică, cine va putea să-L oprească şi cine-I va zice: Ce ai făcut?",
+        "grk": "Ἐὰν ἀπαλλάξῃ, τίς ἀποστρέψει; ἢ τίς ἐρεῖ αὐτῷ, τί ἐποίησας;"
       }
     },
     {
@@ -680,7 +692,8 @@
       "translations": {
         "lxx": "For if he has turned away his anger, the whales under heaven have stooped under him.",
         "kjv": "If God will not withdraw his anger, the proud helpers do stoop under him.",
-        "ron": "Dumnezeu nu-şi înfrânează mânia Sa şi sub El se încovoaie toţi slujitorii mândriei."
+        "ron": "Dumnezeu nu-şi înfrânează mânia Sa şi sub El se încovoaie toţi slujitorii mândriei.",
+        "grk": "Αὐτὸς γὰρ ἀπέστραπται ὀργὴν, ὑπʼ αὐτοῦ ἐκάμφθησαν κήτη τὰ ὑπʼ οὐρανόν"
       }
     },
     {
@@ -712,7 +725,8 @@
       "translations": {
         "lxx": "Oh then that he would hearken to me, or judge my cause.",
         "kjv": "How much less shall I answer him, and choose out my words to reason with him?",
-        "ron": "Şi eu atunci cum o să-I răspund şi ce cuvinte o să aleg?"
+        "ron": "Şi eu atunci cum o să-I răspund şi ce cuvinte o să aleg?",
+        "grk": "Ἐὰν δέ μου ὑπακούσεται, ἤ διακρίνει τὰ ῥήματά μου."
       }
     },
     {
@@ -759,7 +773,8 @@
       "translations": {
         "lxx": "For though I be righteous, he will not hearken to me: I will intreat his judgment.",
         "kjv": "Whom, though I were righteous, yet would I not answer, but I would make supplication to my judge.",
-        "ron": "Chiar dacă aş avea dreptate, nu-I voi răspunde, ci mă voi ruga judecătorului."
+        "ron": "Chiar dacă aş avea dreptate, nu-I voi răspunde, ci mă voi ruga judecătorului.",
+        "grk": "Ἐὰν γὰρ ὦ δίκαιος, οὐκ εἰσακούσεταί μου, τοῦ κρίματος αὐτοῦ δεηθήσομαι·"
       }
     },
     {
@@ -806,7 +821,8 @@
       "translations": {
         "lxx": "And if I should call and he should not hearken, I cannot believe that he has listened to my voice.",
         "kjv": "If I had called, and he had answered me; yet would I not believe that he had hearkened unto my voice.",
-        "ron": "Chiar dacă m-ar asculta, când Îl chem, tot n-aş putea să cred că ascultă glasul meu,"
+        "ron": "Chiar dacă m-ar asculta, când Îl chem, tot n-aş putea să cred că ascultă glasul meu,",
+        "grk": "Ἐάν τε καλέσω καὶ μὴ ὑπακούσῃ, οὐ πιστεύω ὅτι εἰσακήκοέ μου τῆς φωνῆς."
       }
     },
     {
@@ -843,7 +859,8 @@
       "translations": {
         "lxx": "Let him not crush me with a dark storm: but he has made my bruises many without cause.",
         "kjv": "For he breaketh me with a tempest, and multiplieth my wounds without cause.",
-        "ron": "Căci El mă sfărâmă ca sub furtună şi înmulţeşte fără cuvânt rănile mele."
+        "ron": "Căci El mă sfărâmă ca sub furtună şi înmulţeşte fără cuvânt rănile mele.",
+        "grk": "Μὴ γνόφῳ με ἐκτρίψῃ· πολλὰ δέ μου τὰ συντρίμματα πεποίηκε διακενῆς."
       }
     },
     {
@@ -880,7 +897,8 @@
       "translations": {
         "lxx": "For he suffers me not to take breath, but he has filled me with bitterness.",
         "kjv": "He will not suffer me to take my breath, but filleth me with bitterness.",
-        "ron": "El nu-mi dă răgaz să răsuflu şi mă adapă cu amărăciune."
+        "ron": "El nu-mi dă răgaz să răsuflu şi mă adapă cu amărăciune.",
+        "grk": "Οὐκ ἐᾷ γάρ με ἀναπνεῦσαι· ἐνέπλησε δέ με πικρίας,"
       }
     },
     {
@@ -967,7 +985,8 @@
       "translations": {
         "lxx": "For indeed he is strong in power: who then shall resist his judgment?",
         "kjv": "If I speak of strength, lo, he is strong: and if of judgment, who shall set me a time to plead?",
-        "ron": "Dacă este vorba de putere, El este Cel puternic. Dacă este vorba de judecată, cine mă va apăra?"
+        "ron": "Dacă este vorba de putere, El este Cel puternic. Dacă este vorba de judecată, cine mă va apăra?",
+        "grk": "ὅτι μὲν γὰρ ἰσχύει κράτει· τίς οὖν κρίματι αὐτοῦ ἀντιστήσεται;"
       }
     },
     {
@@ -1014,7 +1033,8 @@
       "translations": {
         "lxx": "For though I should seem righteous, my mouth will be profane: and though I should seem blameless, I shall be proved perverse.",
         "kjv": "If I justify myself, mine own mouth shall condemn me: if I say, I am perfect, it shall also prove me perverse.",
-        "ron": "Oricâtă dreptate aş avea, gura mea mă va osândi şi dacă sunt fără prihană ea mă scoate vinovat."
+        "ron": "Oricâtă dreptate aş avea, gura mea mă va osândi şi dacă sunt fără prihană ea mă scoate vinovat.",
+        "grk": "Ἐὰν γὰρ ὦ δίκαιος, τὸ στόμα μου ἀσεβήσει· ἐάν τε ᾧ ἄμεμπτος, σκολιὸς ἀποβήσομαι."
       }
     },
     {
@@ -1136,7 +1156,8 @@
       "translations": {
         "lxx": "For even if I have sinned, I know it not in my soul: but my life is taken away.",
         "kjv": "Though I were perfect, yet would I not know my soul: I would despise my life.",
-        "ron": "Sunt oare desăvârşit? Eu singur nu mă cunosc pe mine şi viaţa mea o dispreţuiesc."
+        "ron": "Sunt oare desăvârşit? Eu singur nu mă cunosc pe mine şi viaţa mea o dispreţuiesc.",
+        "grk": "Εἴτε γὰρ ἠσέβησα, οὐκ οἶδα τῇ ψυχῇ, πλὴν ἀφαιρεῖταί μου ἡ ζωή."
       }
     },
     {
@@ -1183,7 +1204,8 @@
       "translations": {
         "lxx": "Wherefore I said, Wrath slays the great and mighty man.",
         "kjv": "This is one thing, therefore I said it, He destroyeth the perfect and the wicked.",
-        "ron": "Pentru aceea am zis: Tot una este! El nimiceşte pe cel desăvârşit şi pe cel viclean."
+        "ron": "Pentru aceea am zis: Tot una este! El nimiceşte pe cel desăvârşit şi pe cel viclean.",
+        "grk": "Διὸ εἶπον, μέγαν καὶ δυνάστην ἀπολλύει ὀργή,"
       }
     },
     {
@@ -1245,7 +1267,8 @@
       "translations": {
         "lxx": "For the worthless die, but the righteous are laughed to scorn.",
         "kjv": "If the scourge slay suddenly, he will laugh at the trial of the innocent.",
-        "ron": "Dacă o nenorocire aduce moartea deodată, ce-I pasă Lui de deznădejdea celor fără de vină?"
+        "ron": "Dacă o nenorocire aduce moartea deodată, ce-I pasă Lui de deznădejdea celor fără de vină?",
+        "grk": "ὅτι φαῦλοι ἐν θανάτῳ ἐξαισίῳ, ἀλλὰ δίκαιοι καταγελῶνται,"
       }
     },
     {
@@ -1332,7 +1355,8 @@
       "translations": {
         "lxx": "For they are delivered into the hands of the unrighteous man: he covers the faces of the judges of the earth: but if it be not he, who is it?",
         "kjv": "The earth is given into the hand of the wicked: he covereth the faces of the judges thereof; if not, where, and who is he?",
-        "ron": "Dacă o ţară a încăput pe mâna unui om viclean, El acoperă faţa judecătorilor Săi. Şi dacă nu El, cine atunci?"
+        "ron": "Dacă o ţară a încăput pe mâna unui om viclean, El acoperă faţa judecătorilor Săi. Şi dacă nu El, cine atunci?",
+        "grk": "παραδέδονται γὰρ εἰς χεῖρας ἀσεβοῦς, πρόσωπα κριτῶν αὐτῆς συγκαλύπτει· εἰ δὲ μὴ αὐτός ἐστι, τίς ἐστιν;"
       }
     },
     {
@@ -1369,7 +1393,8 @@
       "translations": {
         "lxx": "But my life is swifter than a post: my days have fled away, and they knew it not.",
         "kjv": "Now my days are swifter than a post: they flee away, they see no good.",
-        "ron": "Zilele mele sunt mai grabnice decât un aducător de veşti şi au fugit fără să vadă fericirea."
+        "ron": "Zilele mele sunt mai grabnice decât un aducător de veşti şi au fugit fără să vadă fericirea.",
+        "grk": "Ὁ δὲ βίος μου ἐστὶν ἐλαφρότερος δρομέως· ἀπέδρασαν, καὶ οὐκ εἴδοσαν."
       }
     },
     {
@@ -1421,7 +1446,8 @@
       "translations": {
         "lxx": "Or again, is there a trace of their path left by ships? or is there one of the flying eagle as it seeks its prey?",
         "kjv": "They are passed away as the swift ships: as the eagle that hasteth to the prey.",
-        "ron": "S-au strecurat ca nişte bărci de papură, ca un vultur care se năpusteşte asupra prăzii sale."
+        "ron": "S-au strecurat ca nişte bărci de papură, ca un vultur care se năpusteşte asupra prăzii sale.",
+        "grk": "Ἢ καὶ ἐστι ναυσὶν ἴχνος ὁδοῦ, ἢ ἀετοῦ πετομένου ζητοῦντος βοράν;"
       }
     },
     {
@@ -1458,7 +1484,8 @@
       "translations": {
         "lxx": "And if I should say, I will forget to speak, I will bow down my face and groan;",
         "kjv": "If I say, I will forget my complaint, I will leave off my heaviness, and comfort myself:",
-        "ron": "Dacă zic: Vreau să-mi uit suferinţa, să-mi schimb înfăţişarea şi să fiu voios,"
+        "ron": "Dacă zic: Vreau să-mi uit suferinţa, să-mi schimb înfăţişarea şi să fiu voios,",
+        "grk": "Ἐάν τε γὰρ εἶπω, ἐπιλήσομαι λαλῶν, συγκύψας τῷ προσώπῳ στενάξω·"
       }
     },
     {
@@ -1510,7 +1537,8 @@
       "translations": {
         "lxx": "I quake in all my limbs, for I know that thou wilt not leave me alone as innocent.",
         "kjv": "I am afraid of all my sorrows, I know that thou wilt not hold me innocent.",
-        "ron": "Sunt năpădit de teama chinurilor mele, ştiind bine că Tu nu mă vei scoate nevinovat."
+        "ron": "Sunt năpădit de teama chinurilor mele, ştiind bine că Tu nu mă vei scoate nevinovat.",
+        "grk": "Σείομαι πᾶσι τοῖς μέλεσιν, οἴδα γὰρ ὅτι οὐκ ἀθῶόν με ἐάσεις."
       }
     },
     {
@@ -1582,7 +1610,8 @@
       "translations": {
         "lxx": "But since I am ungodly, why have I not died?",
         "kjv": "If I be wicked, why then labour I in vain?",
-        "ron": "Dacă sunt vinovat, de ce să mă mai trudesc zadarnic?"
+        "ron": "Dacă sunt vinovat, de ce să mă mai trudesc zadarnic?",
+        "grk": "Ἐπειδὴ δέ εἰμι ἀσεβὴς, διὰ τί οὐκ ἀπέθανον;"
       }
     },
     {
@@ -1614,7 +1643,8 @@
       "translations": {
         "lxx": "For if I should wash myself with snow, and purge myself with pure hands,",
         "kjv": "If I wash myself with snow water, and make my hands never so clean;",
-        "ron": "Dacă m-aş spăla cu zăpadă şi mi-aş curăţi mâinile cu leşie,"
+        "ron": "Dacă m-aş spăla cu zăpadă şi mi-aş curăţi mâinile cu leşie,",
+        "grk": "Ἐὰν γὰρ ἀπολούσωμαι χιόνι, καὶ ἀποκαθάρωμαι χερσὶ καθαραῖς,"
       }
     },
     {
@@ -1641,7 +1671,8 @@
       "translations": {
         "lxx": "thou hadst thoroughly plunged me in filth, and my garment had abhorred me.",
         "kjv": "Yet shalt thou plunge me in the ditch, and mine own clothes shall abhor me.",
-        "ron": "Atunci Tu tot m-ai cufunda în noroi, încât şi veşmintele mele s-ar scârbi de mine."
+        "ron": "Atunci Tu tot m-ai cufunda în noroi, încât şi veşmintele mele s-ar scârbi de mine.",
+        "grk": "ἱκανῶς ἐν ῥύπῳ με ἔβαψας, ἐβδελύξατο δέ με ἡ στολή."
       }
     }
   ],

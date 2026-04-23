@@ -8,7 +8,8 @@
       "translation": "A Psalm for Asaph. O God, the heathen are come into thine inheritance; they have polluted thy holy temple; they have made Jerusalem a storehouse of fruits.",
       "words": [],
       "translations": {
-        "ron": "Dumnezeule, intrat-au neamurile în moştenirea Ta, pângărit-au locaşul Tău cel sfânt, făcut-au din Ierusalim ruină."
+        "ron": "Dumnezeule, intrat-au neamurile în moştenirea Ta, pângărit-au locaşul Tău cel sfânt, făcut-au din Ierusalim ruină.",
+        "grk": "Ψαλμὸς τῷ Ἀσάφ. Ὁ Θεὸς, ἤλθοσαν ἔθνη εἰς τὴν κληρονομίαν σου, ἐμίαναν τὸν ναὸν τὸν ἅγιόν σου· ἔθεντο Ἱερουσαλὴμ εἰς ὀπωροφυλάκιον."
       }
     },
     {
@@ -17,7 +18,8 @@
       "translation": "They have given the dead bodies of thy servants to be food for the birds of the sky, the flesh of thy holy ones for the wild beasts of the earth.",
       "words": [],
       "translations": {
-        "ron": "Pus-au cadavrele robilor Tăi mâncare păsărilor cerului, trupurile celor cuvioşi ai Tăi, fiarelor pământului."
+        "ron": "Pus-au cadavrele robilor Tăi mâncare păsărilor cerului, trupurile celor cuvioşi ai Tăi, fiarelor pământului.",
+        "grk": "Ἔθεντο τὰ θνησιμαῖα τῶν δούλων σου βρώματα τοῖς πετεινοῖς τοῦ οὐρανοῦ, τὰς σάρκας τῶν ὁσίων σου τοῖς θηρίοις τῆς γῆς."
       }
     },
     {
@@ -26,7 +28,8 @@
       "translation": "They have shed their blood as water, round about Jerusalem; and there was none to bury them.",
       "words": [],
       "translations": {
-        "ron": "Vărsat-au sângele lor ca apa împrejurul Ierusalimului şi nu era cine să-i îngroape."
+        "ron": "Vărsat-au sângele lor ca apa împrejurul Ierusalimului şi nu era cine să-i îngroape.",
+        "grk": "Ἐξέχεαν τὸ αἷμα αὐτῶν ὡς ὕδωρ, κύκλῳ Ἱερουσαλὴμ, καὶ οὐκ ἦν ὁ θάπτων."
       }
     },
     {
@@ -35,7 +38,8 @@
       "translation": "We are become a reproach to our neighbours, a scorn and derision to them that are round about us.",
       "words": [],
       "translations": {
-        "ron": "Făcutu-ne-am ocară vecinilor noştri, batjocură şi râs celor dimprejurul nostru."
+        "ron": "Făcutu-ne-am ocară vecinilor noştri, batjocură şi râs celor dimprejurul nostru.",
+        "grk": "Ἐγενήθημεν εἰς ὄνειδος τοῖς γείτοσιν ἡμῶν, μυκτηρισμὸς καὶ χλευασμὸς τοῖς κύκλῳ ἡμῶν."
       }
     },
     {
@@ -44,7 +48,8 @@
       "translation": "How long, O Lord? wilt thou be angry for ever? shall thy jealousy burn like fire?",
       "words": [],
       "translations": {
-        "ron": "Până când, Doamne, Te vei mânia până în sfârşit? Până când se va aprinde ca focul mânia Ta?"
+        "ron": "Până când, Doamne, Te vei mânia până în sfârşit? Până când se va aprinde ca focul mânia Ta?",
+        "grk": "Ἕως πότε, Κύριε, ὀργισθήσῃ εἰς τέλος; ἐκκαυθήσεται ὡς πῦρ ὁ ζῆλός σου;"
       }
     },
     {
@@ -53,7 +58,8 @@
       "translation": "Pour out thy wrath upon the heathen that have not known thee, and upon the kingdoms which have not called upon thy name.",
       "words": [],
       "translations": {
-        "ron": "Varsă mânia Ta peste neamurile care nu Te cunosc şi peste împărăţiile care n-au chemat numele Tău."
+        "ron": "Varsă mânia Ta peste neamurile care nu Te cunosc şi peste împărăţiile care n-au chemat numele Tău.",
+        "grk": "Ἔκχεον τὴν ὀργήν σου ἐπὶ ἔθνη τὰ μὴ ἐπεγνωκότα σε, καὶ ἐπὶ βασιλείας αἳ τὸ ὄνομά σου οὐκ ἐπεκαλέσαντο."
       }
     },
     {
@@ -62,7 +68,8 @@
       "translation": "For they have devoured Jacob, and laid his place waste.",
       "words": [],
       "translations": {
-        "ron": "Că au mâncat pe Iacob şi locul lui l-au pustiit."
+        "ron": "Că au mâncat pe Iacob şi locul lui l-au pustiit.",
+        "grk": "Ὅτι κατέφαγον τὸν Ἰακὼβ, καὶ τὸν τόπον αὐτοῦ ἠρήμωσαν."
       }
     },
     {
@@ -71,7 +78,8 @@
       "translation": "Remember not our old transgressions; let thy tender mercies speedily prevent us; for we are greatly impoverished.",
       "words": [],
       "translations": {
-        "ron": "Să nu pomeneşti fărădelegile noastre cele de demult; degrabă să ne întâmpine pe noi îndurările Tale, că am sărăcit foarte."
+        "ron": "Să nu pomeneşti fărădelegile noastre cele de demult; degrabă să ne întâmpine pe noi îndurările Tale, că am sărăcit foarte.",
+        "grk": "Μὴ μνησθῇς ἡμῶν ἀνομιῶν ἀρχαίων, ταχὺ προκαταλαβέτωσαν ἡμᾶς οἱ οἰκτιρμοί σου, ὅτι ἐπτωχεύσαμεν σφόδρα."
       }
     },
     {
@@ -80,7 +88,8 @@
       "translation": "Help us, O God our Saviour; for the glory of thy name, O Lord, deliver us; and be merciful to our sins, for thy name's sake.",
       "words": [],
       "translations": {
-        "ron": "Ajută-ne nouă, Dumnezeule, Mântuitorul nostru, pentru slava numelui Tău; Doamne, izbăveşte-ne pe noi şi curăţeşte păcatele noastre pentru numele Tău."
+        "ron": "Ajută-ne nouă, Dumnezeule, Mântuitorul nostru, pentru slava numelui Tău; Doamne, izbăveşte-ne pe noi şi curăţeşte păcatele noastre pentru numele Tău.",
+        "grk": "Βοήθησον ἡμῖν ὁ Θεὸς ὁ σωτὴρ ἡμῶν, ἕνεκα τῆς δόξης τοῦ ὀνόματός σου Κύριε ῥῦσαι ἡμᾶς, καὶ ἱλάσθητι ταῖς ἁμαρτίαις ἡμῶν ἕνεκα τοῦ ὀνόματός σου·"
       }
     },
     {
@@ -89,7 +98,8 @@
       "translation": "Lest haply they should say among the heathen, Where is their God? and let the avenging of thy servants' blood that has been shed be known among the heathen before our eyes.",
       "words": [],
       "translations": {
-        "ron": "Ca nu cumva să zică neamurile: \"Unde este Dumnezeul lor?\" Să se cunoască între neamuri, înaintea ochilor noştri,"
+        "ron": "Ca nu cumva să zică neamurile: \"Unde este Dumnezeul lor?\" Să se cunoască între neamuri, înaintea ochilor noştri,",
+        "grk": "Μή ποτε εἴπωσιν ἐν τοῖς ἔθνεσι, ποῦ ἐστιν ὁ Θεὸς αὐτῶν; καὶ γνωσθήτω ἐν τοῖς ἔθνεσιν ἐνώπιον τῶν ὀφθαλμῶν ἡμῶν ἡ ἐκδίκησις τοῦ αἵματος τῶν δούλων σου τοῦ ἐκκεχυμένου."
       }
     },
     {
@@ -98,7 +108,8 @@
       "translation": "Let the groaning of the prisoners come in before thee; according to the greatness of thine arm preserve the sons of the slain ones.",
       "words": [],
       "translations": {
-        "ron": "Răzbunarea sângelui vărsat, al robilor Tăi; să intre înaintea Ta suspinul celor ferecaţi."
+        "ron": "Răzbunarea sângelui vărsat, al robilor Tăi; să intre înaintea Ta suspinul celor ferecaţi.",
+        "grk": "Εἰσελθέτω ἐνώπιόν σου ὁ στεναγμὸς τῶν πεπεδημένων, κατὰ τὴν μεγαλωσύνην τοῦ βραχίονός σου περιποίησαι τοὺς υἱοὺς τῶν τεθανατωμένων."
       }
     },
     {
@@ -107,7 +118,8 @@
       "translation": "Repay to our neighbours sevenfold into their bosom their reproach, with which they have reproached thee, O Lord.",
       "words": [],
       "translations": {
-        "ron": "După măreţia braţului Tău, păzeşte pe fiii celor omorâţi."
+        "ron": "După măreţia braţului Tău, păzeşte pe fiii celor omorâţi.",
+        "grk": "Ἀπόδος τοῖς γείτοσιν ἡμῶν ἑπταπλάσια εἰς τὸν κόλπον αὐτῶν τὸν ὀνειδισμὸν αὐτῶν, ὃν ὠνείδισάν σε Κύριε."
       }
     },
     {
@@ -116,7 +128,8 @@
       "translation": "For we are thy people and the sheep of thy pasture; we will give thee thanks for ever; we will declare thy praise throughout all generations.",
       "words": [],
       "translations": {
-        "ron": "Răsplăteşte vecinilor noştri de şapte ori, în sânul lor, ocara lor cu care Te-au ocărât pe Tine, Doamne."
+        "ron": "Răsplăteşte vecinilor noştri de şapte ori, în sânul lor, ocara lor cu care Te-au ocărât pe Tine, Doamne.",
+        "grk": "Ἡμεῖς γὰρ λαός σου καὶ πρόβατα νομῆς σου, ἀνθομολογησόμεθά σοι εἰς τὸν αἰῶνα, εἰς γενεὰν καὶ γενεὰν ἐξαγγελοῦμεν τὴν αἴνεσίν σου."
       }
     }
   ]

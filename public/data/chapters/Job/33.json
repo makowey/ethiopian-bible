@@ -41,7 +41,8 @@
       "translations": {
         "lxx": "Howbeit hear, Job, my words, and hearken to my speech.",
         "kjv": "Wherefore, Job, I pray thee, hear my speeches, and hearken to all my words.",
-        "ron": "Drept aceea, Iov, te rog, ascultă cuvintele mele şi ia aminte la toate cuvintele mele."
+        "ron": "Drept aceea, Iov, te rog, ascultă cuvintele mele şi ia aminte la toate cuvintele mele.",
+        "grk": "Οὐ μὴν δὲ ἀλλὰ ἄκουσου Ἰὼβ τὰ ῥήματά μου, καὶ λαλιὰν ἐνωτίζου μου."
       }
     },
     {
@@ -78,7 +79,8 @@
       "translations": {
         "lxx": "For behold, I have opened my mouth, and my tongue has spoken.",
         "kjv": "Behold, now I have opened my mouth, my tongue hath spoken in my mouth.",
-        "ron": "Iată că am deschis gura mea şi limba mea grăieşte."
+        "ron": "Iată că am deschis gura mea şi limba mea grăieşte.",
+        "grk": "γὰρ ἤνοιξα τὸ στόμα μου, καὶ ἐλάλησεν ἡ γλῶσσά μου."
       }
     },
     {
@@ -125,7 +127,8 @@
       "translations": {
         "lxx": "My heart shall be found pure by my words; and the understanding of my lips shall meditate purity.",
         "kjv": "My words shall be of the uprightness of my heart: and my lips shall utter knowledge clearly.",
-        "ron": "Inima mea va scoate la iveală cuvinte de învăţătură, buzele mele se vor rosti cu limpezime,"
+        "ron": "Inima mea va scoate la iveală cuvinte de învăţătură, buzele mele se vor rosti cu limpezime,",
+        "grk": "Καθαρά μου ἡ καρδία ῥήμασι, σύνεσις δὲ χειλέων μου καθαρὰ νοήσει."
       }
     },
     {
@@ -167,7 +170,8 @@
       "translations": {
         "lxx": "The Divine Spirit is that which formed me, and the breath of the Almighty that which teaches me.",
         "kjv": "The spirit of God hath made me, and the breath of the Almighty hath given me life.",
-        "ron": "Duhul lui Dumnezeu este Cel ce m-a făcut şi suflarea Celui Atotputernic este dătătoarea vieţii mele."
+        "ron": "Duhul lui Dumnezeu este Cel ce m-a făcut şi suflarea Celui Atotputernic este dătătoarea vieţii mele.",
+        "grk": "Πνεῦμα θεῖον τὸ ποιῆσάν με, πνοὴ δὲ παντοκράτορος ἡ διδάσκουσά με."
       }
     },
     {
@@ -229,7 +233,8 @@
       "translations": {
         "lxx": "If thou canst, give me an answer: wait therefore; stand against me, and I will stand against thee.",
         "kjv": "If thou canst answer me, set thy words in order before me, stand up.",
-        "ron": "Dacă poţi, răspunde-mi, apără-ţi pricina înaintea mea, fii tare!"
+        "ron": "Dacă poţi, răspunde-mi, apără-ţi pricina înaintea mea, fii tare!",
+        "grk": "Ἐὰν δύνῃ, δός μοι ἀπόκρισιν, πρὸς ταῦτα ὑπόμεινον, στῆθι κατʼ ἐμὲ, καὶ ἐγὼ κατὰ σέ."
       }
     },
     {
@@ -266,7 +271,8 @@
       "translations": {
         "lxx": "Thou art formed out of the clay as also I: we have been formed out of the same substance.",
         "kjv": "Behold, I am according to thy wish in God’s stead: I also am formed out of the clay.",
-        "ron": "Înaintea lui Dumnezeu eu sunt la fel cu tine şi eu ca şi tine am fost frământat din lut,"
+        "ron": "Înaintea lui Dumnezeu eu sunt la fel cu tine şi eu ca şi tine am fost frământat din lut,",
+        "grk": "Ἐκ πηλοῦ διήρτισαι σὺ ὡς καὶ ἐγὼ, ἐκ τοῦ αὐτοῦ διηρτίσμεθα."
       }
     },
     {
@@ -303,7 +309,8 @@
       "translations": {
         "lxx": "My fear shall not terrify thee, neither shall my hand be heavy upon thee.",
         "kjv": "Behold, my terror shall not make thee afraid, neither shall my hand be heavy upon thee.",
-        "ron": "De aceea frica de mine să nu te tulbure, nici mâna mea să nu atârne greu asupra ta."
+        "ron": "De aceea frica de mine să nu te tulbure, nici mâna mea să nu atârne greu asupra ta.",
+        "grk": "Οὐχ ὁ φόβος μου σὲ στροβήσει, οὐδὲ ἡ χείρ μου βαρεῖα ἔσται ἐπὶ σοί."
       }
     },
     {
@@ -345,7 +352,8 @@
       "translations": {
         "lxx": "But thou hast said in mine ears, (I have heard the voice of thy words;) because thou sayest, I am pure, not having sinned;",
         "kjv": "Surely thou hast spoken in mine hearing, and I have heard the voice of thy words, saying,",
-        "ron": "Tu ai spus în auzul meu şi eu am auzit rostul vorbelor tale spunând aşa:"
+        "ron": "Tu ai spus în auzul meu şi eu am auzit rostul vorbelor tale spunând aşa:",
+        "grk": "Πλὴν εἶπας ἐν ὠσί μου· φωνὴν ῥημάτων σου ἀκήκοα·"
       }
     },
     {
@@ -417,7 +425,8 @@
       "translations": {
         "lxx": "I am blameless, for I have not transgressed.",
         "kjv": "I am clean without transgression, I am innocent; neither is there iniquity in me.",
-        "ron": "\"Eu sunt curat şi fără nici o vină, eu sunt fără prihană şi n-am nici o greşeală;"
+        "ron": "\"Eu sunt curat şi fără nici o vină, eu sunt fără prihană şi n-am nici o greşeală;",
+        "grk": "διότι λέγεις, καθαρός εἰμι οὐχ ἁμαρτών, ἄμεμπτός εἰμι, οὐ γὰρ ἠνόμησα·"
       }
     },
     {
@@ -459,7 +468,8 @@
       "translations": {
         "lxx": "Yet he has discovered a charge against me, and he has reckoned me as an adversary.",
         "kjv": "Behold, he findeth occasions against me, he counteth me for his enemy,",
-        "ron": "Dar iată că Dumnezeu caută pricină de ură împotriva mea şi mă socoteşte ca un vrăjmaş al Lui."
+        "ron": "Dar iată că Dumnezeu caută pricină de ură împotriva mea şi mă socoteşte ca un vrăjmaş al Lui.",
+        "grk": "Μέμψιν δὲ κατʼ ἐμοῦ εὗρεν· ἥγηται δέ με ὥσπερ ὑπεναντίον."
       }
     },
     {
@@ -506,7 +516,8 @@
       "translations": {
         "lxx": "And he has put my foot in the stocks, and has watched all my ways.",
         "kjv": "He putteth my feet in the stocks, he marketh all my paths.",
-        "ron": "El pune picioarele mele în butuci şi pândeşte toţi paşii mei!\""
+        "ron": "El pune picioarele mele în butuci şi pândeşte toţi paşii mei!\"",
+        "grk": "Ἔθετο δὲ ἐν ξύλῳ τὸν πόδα μου, ἐφύλαξε δέ μου πάσας τὰς ὁδούς."
       }
     },
     {
@@ -568,7 +579,8 @@
       "translations": {
         "lxx": "For how sayest thou, I am righteous, yet he has not hearkened to me? for he that is above mortals is eternal.",
         "kjv": "Behold, in this thou art not just: I will answer thee, that God is greater than man.",
-        "ron": "Dar aici îţi voi răspunde că tu n-ai dreptate, fiindcă Dumnezeu este mai mare decât omul."
+        "ron": "Dar aici îţi voi răspunde că tu n-ai dreptate, fiindcă Dumnezeu este mai mare decât omul.",
+        "grk": "Πῶς γὰρ λέγεις, δίκαιός εἰμι, καὶ οὐκ ἐπακήκοέ μου; αἰώνιος γάρ ἐστιν ὁ ἐπάνω βροτῶν."
       }
     },
     {
@@ -605,7 +617,8 @@
       "translations": {
         "lxx": "But thou sayest, Why has he not heard every word of my cause?",
         "kjv": "Why dost thou strive against him? for he giveth not account of any of his matters.",
-        "ron": "De ce grăieşti împotriva Lui, fiindcă El nu dă nimănui socoteală de toate câte face?"
+        "ron": "De ce grăieşti împotriva Lui, fiindcă El nu dă nimănui socoteală de toate câte face?",
+        "grk": "Λέγεις δέ, διατί τῆς δίκης μου οὐκ ἐπακήκοέ μου πᾶν ῥῆμα;"
       }
     },
     {
@@ -672,7 +685,8 @@
       "translations": {
         "lxx": "For when the Lord speaks once, or a second time,",
         "kjv": "For God speaketh once, yea twice, yet man perceiveth it not.",
-        "ron": "Vezi că Dumnezeu vorbeşte când într-un fel, când într-alt fel, dar omul nu ia aminte."
+        "ron": "Vezi că Dumnezeu vorbeşte când într-un fel, când într-alt fel, dar omul nu ia aminte.",
+        "grk": "Ἐν γὰρ τῷ ἅπαξ λαλήσαι ὁ Κύριος, ἐν δὲ τῷ δευτέρῳ."
       }
     },
     {
@@ -724,7 +738,8 @@
       "translations": {
         "lxx": "sending a dream, or in the meditation of the night; (as when a dreadful alarm happens to fall upon men, in slumberings on the bed:)",
         "kjv": "In a dream, in a vision of the night, when deep sleep falleth upon men, in slumberings upon the bed;",
-        "ron": "Şi anume, El vorbeşte în vis, în vedeniile nopţii, atunci când somnul se lasă peste oameni şi când ei dorm în aşternutul lor."
+        "ron": "Şi anume, El vorbeşte în vis, în vedeniile nopţii, atunci când somnul se lasă peste oameni şi când ei dorm în aşternutul lor.",
+        "grk": "ἐνύπνιον ἢ ἐν μελέτῃ νυκτερινῇ, ὡς ὅταν ἐπιπίπτῃ δεινὸς φόβος ἐπʼ ἀνθρώπους, ἐπὶ νυσταγμάτων ἐπὶ κοίτης·"
       }
     },
     {
@@ -776,7 +791,8 @@
       "translations": {
         "lxx": "then opens he the understanding of men: he scares them with such fearful visions:",
         "kjv": "Then he openeth the ears of men, and sealeth their instruction,",
-        "ron": "Atunci El dă înştiinţări oamenilor şi-i cutremură cu arătările Sale."
+        "ron": "Atunci El dă înştiinţări oamenilor şi-i cutremură cu arătările Sale.",
+        "grk": "Τότε ἀνακαλύπτει νοῦν ἀνθρώπων, ἐν εἴδεσι φόβου τοιούτοις αὐτοὺς ἐξεφόβησεν."
       }
     },
     {
@@ -818,7 +834,8 @@
       "translations": {
         "lxx": "to turn a man from unrighteousness, and he delivers his body from a fall.",
         "kjv": "That he may withdraw man from his purpose, and hide pride from man.",
-        "ron": "Ca să întoarcă pe om de la cele rele şi să-l ferească de mândrie"
+        "ron": "Ca să întoarcă pe om de la cele rele şi să-l ferească de mândrie",
+        "grk": "Ἀποστρέψαι ἄνθρωπον ἀπὸ ἀδικίας, τὸ δὲ σῶμα αὐτοῦ ἀπὸ πτώματος ἐῤῥύσατο."
       }
     },
     {
@@ -865,7 +882,8 @@
       "translations": {
         "lxx": "He spares also his soul from death, and suffers him not to fall in war.",
         "kjv": "He keepeth back his soul from the pit, and his life from perishing by the sword.",
-        "ron": "Ca să-i ferească sufletul de prăpastie şi viaţa lui de calea mormântului;"
+        "ron": "Ca să-i ferească sufletul de prăpastie şi viaţa lui de calea mormântului;",
+        "grk": "Ἐφείσατο δὲ τῆς ψυχῆς αὐτοῦ ἀπὸ θανάτου, καὶ μὴ πεσεῖν αὐτὸν ἐν πολέμῳ."
       }
     },
     {
@@ -917,7 +935,8 @@
       "translations": {
         "lxx": "And again, he chastens him with sickness on his bed, and the multitude of his bones is benumbed.",
         "kjv": "He is chastened also with pain upon his bed, and the multitude of his bones with strong pain:",
-        "ron": "De aceea, prin durere, omul este mustrat în patul lui şi oasele lui sunt zguduite de un cutremur neîntrerupt."
+        "ron": "De aceea, prin durere, omul este mustrat în patul lui şi oasele lui sunt zguduite de un cutremur neîntrerupt.",
+        "grk": "Πάλιν δὲ ἤλεγξεν αὐτὸν ἐπὶ μαλακίᾳ ἐπὶ κοίτης, καὶ πλῆθος ὀστῶν αὐτοῦ ἐνάρκησε."
       }
     },
     {
@@ -974,7 +993,8 @@
       "translations": {
         "lxx": "And he shall not be able to take any food, though his soul shall desire meat;",
         "kjv": "So that his life abhorreth bread, and his soul dainty meat.",
-        "ron": "Pofta lui este dezgustată de mâncare şi inima lui nu mai pofteşte nici cele mai bune bucate."
+        "ron": "Pofta lui este dezgustată de mâncare şi inima lui nu mai pofteşte nici cele mai bune bucate.",
+        "grk": "Πᾶν δὲ βρωτὸν σίτου οὐ μὴ δύνηται προσδέξασθαι, καὶ ἡ ψυχὴ αὐτοῦ βρῶσιν ἐπιθυμήσει·"
       }
     },
     {
@@ -1016,7 +1036,8 @@
       "translations": {
         "lxx": "until his flesh shall be consumed, and he shall shew his bones bare.",
         "kjv": "His flesh is consumed away, that it cannot be seen; and his bones that were not seen stick out.",
-        "ron": "Carnea după el se prăpădeşte şi piere şi oasele lui, până acum nevăzute, îi ies prin piele."
+        "ron": "Carnea după el se prăpădeşte şi piere şi oasele lui, până acum nevăzute, îi ies prin piele.",
+        "grk": "ἕως ἂν σαπῶσιν αὐτοῦ αἱ σάρκες, καὶ ἀποδείξῃ τὰ ὀστᾶ αὐτοῦ κένα."
       }
     },
     {
@@ -1053,7 +1074,8 @@
       "translations": {
         "lxx": "His soul also draws nigh to death, and his life is in Hades.",
         "kjv": "Yea, his soul draweth near unto the grave, and his life to the destroyers.",
-        "ron": "Sufletul lui vine încet, încet spre prăpastie şi viaţa lui spre împărăţia morţilor."
+        "ron": "Sufletul lui vine încet, încet spre prăpastie şi viaţa lui spre împărăţia morţilor.",
+        "grk": "Ἤγγισε δὲ εἰς θάνατον ἡ ψυχὴ αὐτοῦ, ἡ δὲ ζωὴ αὐτοῦ ἐν ᾅδῃ·"
       }
     },
     {
@@ -1195,7 +1217,8 @@
       "translations": {
         "lxx": "Though there should be a thousand messengers of death, not one of them shall wound him: if he should purpose in his heart to turn to the Lord, and declare to man his fault, and shew his folly;",
         "kjv": "If there be a messenger with him, an interpreter, one among a thousand, to shew unto man his uprightness:",
-        "ron": "Dacă atunci se află un înger lângă el, un mijlocitor între vii, care să-i arate omului calea datoriei,"
+        "ron": "Dacă atunci se află un înger lângă el, un mijlocitor între vii, care să-i arate omului calea datoriei,",
+        "grk": "Ἐὰν ὦσι χιλιοι αγγελοι θανατηφόροι, εἷς αὐτῶν οὐ μὴ τρώσῃ αὐτόν· ἐὰν νοήσῃ τῇ καρδίᾳ ἐπιστραφῆναι πρὸς Κύριον, ἀναγγείλῃ δὲ ἀνθρώπῳ τὴν ἑαυτοῦ μέμψιν, τὴν δὲ ἄνοιαν αὐτοῦ δείξῃ,"
       }
     },
     {
@@ -1247,7 +1270,8 @@
       "translations": {
         "lxx": "he will support him, that he should not perish, and will restore his body as fresh plaster upon a wall; and he will fill his bones with marrow.",
         "kjv": "Then he is gracious unto him, and saith, Deliver him from going down to the pit: I have found a ransom.",
-        "ron": "Dumnezeu Se milostiveşte de el şi zice îngerului: \"Izbăveşte-l ca să nu cadă în prăpastie; am găsit pentru sufletul lui preţul de răscumpărare!\""
+        "ron": "Dumnezeu Se milostiveşte de el şi zice îngerului: \"Izbăveşte-l ca să nu cadă în prăpastie; am găsit pentru sufletul lui preţul de răscumpărare!\"",
+        "grk": "ἀνθέξεται τοῦ μὴ πεσεῖν εἰς θάνατον· ἀνανεώσει δὲ αὐτοῦ τὸ σῶμα ὥσπερ ἀλοιφὴν ἐπὶ τοίχου, τὰ δὲ ὀστᾶ αὐτοῦ ἐμπλήσει μυελοῦ·"
       }
     },
     {
@@ -1299,7 +1323,8 @@
       "translations": {
         "lxx": "And he will make his flesh tender as that of a babe, and he will restore him among men in his full strength.",
         "kjv": "His flesh shall be fresher than a child’s: he shall return to the days of his youth:",
-        "ron": "Atunci trupul lui înfloreşte ca în tinereţe şi el vine înapoi la zilele de la începutul vieţii sale."
+        "ron": "Atunci trupul lui înfloreşte ca în tinereţe şi el vine înapoi la zilele de la începutul vieţii sale.",
+        "grk": "Ἁπαλυνεῖ δὲ αὐτοῦ τὰς σάρκας ὥσπερ νηπίου, ἀποκαταστήσει δὲ αὐτὸν ἀνδρωθέντα ἐν ἀνθρώποις."
       }
     },
     {
@@ -1371,7 +1396,8 @@
       "translations": {
         "lxx": "And he shall pray to the Lord, and his prayer shall be accepted of him; he shall enter with a cheerful countenance, with a full expression of praise: for he will render to men their due.",
         "kjv": "He shall pray unto God, and he will be favourable unto him: and he shall see his face with joy: for he will render unto man his righteousness.",
-        "ron": "El se roagă lui Dumnezeu şi Dumnezeu îi arată bunătatea Sa şi-i îngăduie să vadă faţa Sa cu mare bucurie şi astfel îi dă omului iertarea Sa."
+        "ron": "El se roagă lui Dumnezeu şi Dumnezeu îi arată bunătatea Sa şi-i îngăduie să vadă faţa Sa cu mare bucurie şi astfel îi dă omului iertarea Sa.",
+        "grk": "Εὐξάμενος δὲ πρὸς Κύριον καὶ δεκτὰ αὐτῷ ἔσται, εἰσελεύσεται προσώπῳ ἱλαρῷ σὺν ἐξηγορίᾳ· ἀποδώσει δὲ ἀνθρώποις δικαιοσύνην."
       }
     },
     {
@@ -1438,7 +1464,8 @@
       "translations": {
         "lxx": "Even then a man shall blame himself, saying, What kind of things have I done? and he has not punished me according to the full amount of my sins.",
         "kjv": "He looketh upon men, and if any say, I have sinned, and perverted that which was right, and it profited me not;",
-        "ron": "Atunci omul priveşte peste semenii săi şi zice: \"Păcătuisem şi călcasem dreptatea, dar n-am fost pedepsit după faptele mele."
+        "ron": "Atunci omul priveşte peste semenii săi şi zice: \"Păcătuisem şi călcasem dreptatea, dar n-am fost pedepsit după faptele mele.",
+        "grk": "Εἶτα τότε ἀπομέμψεται ἄνθρωπος αὐτὸς ἑαυτῷ, λέγων, οἷα συνετέλουν; καὶ οὐκ ἄξια ἤτασέ με ὧν ἥμαρτον."
       }
     },
     {
@@ -1495,7 +1522,8 @@
       "translations": {
         "lxx": "Deliver my soul, that it may not go to destruction, and my life shall see the light.",
         "kjv": "He will deliver his soul from going into the pit, and his life shall see the light.",
-        "ron": "Căci El a izbăvit sufletul meu ca să nu treacă prin strâmtorile morţii şi ochii mei văd încă lumina\"."
+        "ron": "Căci El a izbăvit sufletul meu ca să nu treacă prin strâmtorile morţii şi ochii mei văd încă lumina\".",
+        "grk": "Σῶσον ψυχήν μου τοῦ μὴ ἐλθεῖν εἰς διαφθορὰν, καὶ ἡ ζωή μου φῶς ὄψεται."
       }
     },
     {
@@ -1542,7 +1570,8 @@
       "translations": {
         "lxx": "Behold, all these things the Mighty One works in a threefold manner with a man.",
         "kjv": "Lo, all these things worketh God oftentimes with man,",
-        "ron": "Iată toate acestea le face Dumnezeu de două ori, de trei ori cu omul,"
+        "ron": "Iată toate acestea le face Dumnezeu de două ori, de trei ori cu omul,",
+        "grk": "Ἰδοὺ ταῦτα πάντα ἐργᾶται ὁ ἰσχυρὸς ὁδοὺς τρεῖς μετὰ ἀνδρός."
       }
     },
     {
@@ -1599,7 +1628,8 @@
       "translations": {
         "lxx": "And he has delivered my soul from death, that my life may praise him in the light.",
         "kjv": "To bring back his soul from the pit, to be enlightened with the light of the living.",
-        "ron": "Ca să-i scoată sufletul din pieire şi ca să-l lumineze cu lumina celor vii."
+        "ron": "Ca să-i scoată sufletul din pieire şi ca să-l lumineze cu lumina celor vii.",
+        "grk": "Καὶ ἐῤῥύσατο τὴν ψυχήν μου ἐκ θανάτου, ἵνα ἡ ζωή μου ἐν φωτὶ αἰνῇ αὐτόν."
       }
     },
     {
@@ -1656,7 +1686,8 @@
       "translations": {
         "lxx": "Hearken, Job, and hear me: be silent, and I will speak.",
         "kjv": "Mark well, O Job, hearken unto me: hold thy peace, and I will speak.",
-        "ron": "Ia aminte Iov, ascultă-mă pe mine, taci şi eu voi vorbi!"
+        "ron": "Ia aminte Iov, ascultă-mă pe mine, taci şi eu voi vorbi!",
+        "grk": "Ἐνωτίζου Ἰὼβ καὶ ἄκουέ μου· κώφευσον, καὶ ἐγώ εἰμι λαλήσω."
       }
     },
     {
@@ -1713,7 +1744,8 @@
       "translations": {
         "lxx": "If thou hast words, answer me: speak, for I desire thee to be justified.",
         "kjv": "If thou hast anything to say, answer me: speak, for I desire to justify thee.",
-        "ron": "Dacă ai ceva de spus dă-mi răspuns, vorbeşte, căci dorinţa mea este să-ţi dau dreptate."
+        "ron": "Dacă ai ceva de spus dă-mi răspuns, vorbeşte, căci dorinţa mea este să-ţi dau dreptate.",
+        "grk": "Εἰ εἰσί σοι λόγοι, ἀποκρίθητί μοι· λάλησον, θέλω γὰρ δικαιωθῆναί σε."
       }
     },
     {
@@ -1760,7 +1792,8 @@
       "translations": {
         "lxx": "If not, do thou hear me: be silent, and I will teach thee.",
         "kjv": "If not, hearken unto me: hold thy peace, and I shall teach thee wisdom.",
-        "ron": "Iar dacă nu, ascultă la mine: ţine-ţi gura şi te voi învăţa care este înţelepciunea\"."
+        "ron": "Iar dacă nu, ascultă la mine: ţine-ţi gura şi te voi învăţa care este înţelepciunea\".",
+        "grk": "Εἰ μὴ, σὺ ἄκουσόν μου, κώφευσον καὶ διδάξω σε."
       }
     }
   ],

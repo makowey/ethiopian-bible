@@ -56,7 +56,8 @@
       "translations": {
         "lxx": "And it came to pass after the plague, that the Lord spoke to Moses and Eleazar the priest, saying,",
         "kjv": "And it came to pass after the plague, that the LORD spake unto Moses and unto Eleazar the son of Aaron the priest, saying,",
-        "ron": "După această pedeapsă, a grăit Domnul către Moise şi către Eleazar, fiul preotului Aaron, şi a zis:"
+        "ron": "După această pedeapsă, a grăit Domnul către Moise şi către Eleazar, fiul preotului Aaron, şi a zis:",
+        "grk": "Καὶ ἐγένετο μετὰ τὴν πληγὴν, καὶ ἐλάλησε Κύριος πρὸς Μωυσῆν καὶ Ἐλεάζαρ τὸν ἱερέα, λέγων,"
       }
     },
     {
@@ -163,7 +164,8 @@
       "translations": {
         "lxx": "Take the sum of all the congregation of the children of Israel, from twenty years old and upward, according to the houses of their lineage, every one that goes forth to battle in Israel.",
         "kjv": "Take the sum of all the congregation of the children of Israel, from twenty years old and upward, throughout their fathers’ house, all that are able to go to war in Israel.",
-        "ron": "Număraţi toată obştea fiilor lui Israel de la douăzeci de ani în sus, pe toţi cei buni de război în Israel, după familiile lor!"
+        "ron": "Număraţi toată obştea fiilor lui Israel de la douăzeci de ani în sus, pe toţi cei buni de război în Israel, după familiile lor!",
+        "grk": "λάβε τὴν ἀρχὴν πάσης συναγωγῆς υἱῶν Ἰσραὴλ ἀπὸ εἰκοσαετοῦς καὶ ἐπάνω κατʼ οἴκους πατριῶν αὐτῶν, πᾶς ὁ ἐκπορευόμενος παρατάξασθαι ἐν Ἰσραήλ."
       }
     },
     {
@@ -230,7 +232,8 @@
       "translations": {
         "lxx": "And Moses and Eleazar the priest spoke in Araboth of Moab at the Jordan by Jericho, saying,",
         "kjv": "And Moses and Eleazar the priest spake with them in the plains of Moab by Jordan near Jericho, saying,",
-        "ron": "Atunci Moise şi preotul Eleazar le-au grăit în şesurile Moabului, la Iordan, în dreptul Ierihonului, şi le-au zis:"
+        "ron": "Atunci Moise şi preotul Eleazar le-au grăit în şesurile Moabului, la Iordan, în dreptul Ierihonului, şi le-au zis:",
+        "grk": "Καὶ ἐλάλησε Μωυσῆς καὶ Ἐλεάζαρ ὁ ἱερεὺς ἐν Ἀραβὼθ Μωἀβ ἐπὶ τοῦ Ἰορδάνου κατὰ Ἱεριχὼ, λέγων,"
       }
     },
     {
@@ -302,7 +305,8 @@
       "translations": {
         "lxx": "This is the numbering from twenty years old and upward as the Lord commanded Moses. And the sons of Israel that came out of Egypt are as follows:",
         "kjv": "Take the sum of the people, from twenty years old and upward; as the LORD commanded Moses and the children of Israel, which went forth out of the land of Egypt.",
-        "ron": "\"Număraţi pe toţi de la douăzeci de ani în sus\", cum a grăit Domnul lui Moise şi fiilor lui Israel, care au ieşit din pământul Egiptului."
+        "ron": "\"Număraţi pe toţi de la douăzeci de ani în sus\", cum a grăit Domnul lui Moise şi fiilor lui Israel, care au ieşit din pământul Egiptului.",
+        "grk": "ἀπὸ εἰκοσαετοῦς καὶ ἐπάνω, ὃν τρόπον συνέταξε Κύριος τῷ Μωυσῇ· καὶ οἱ υἱοὶ Ἰσραὴλ οἱ ἐξελθόντες ἐξ Αἰγύπτου,"
       }
     },
     {
@@ -364,7 +368,8 @@
       "translations": {
         "lxx": "Ruben was the first-born of Israel: and the sons of Ruben, Enoch, and the family of Enoch; to Phallu belongs the family of the Phalluites.",
         "kjv": "Reuben, the eldest son of Israel: the children of Reuben; Hanoch, of whom cometh the family of the Hanochites: of Pallu, the family of the Palluites:",
-        "ron": "Ruben, este întâiul născut al lui Israel. Fiii lui Ruben: din Enoh, neamul lui Enoh; din Falu, neamul lui Falu;"
+        "ron": "Ruben, este întâiul născut al lui Israel. Fiii lui Ruben: din Enoh, neamul lui Enoh; din Falu, neamul lui Falu;",
+        "grk": "Ῥουβὴν πρωτότοκος Ἰσραήλ· υἱοὶ δὲ Ῥουβὴν Ἐνὼχ, καὶ δῆμος τοῦ Ἐνώχ· τῷ Φαλλοῦ, δῆμος τοῦ Φαλλουί."
       }
     },
     {
@@ -406,7 +411,8 @@
       "translations": {
         "lxx": "To Asron, the family of Asroni: to Charmi, the family of Charmi.",
         "kjv": "Of Hezron, the family of the Hezronites: of Carmi, the family of the Carmites.",
-        "ron": "Din Heţron, neamul lui Heţron; din Carmi, neamul lui Carmi;"
+        "ron": "Din Heţron, neamul lui Heţron; din Carmi, neamul lui Carmi;",
+        "grk": "Τῷ Ἀσρὼν, δῆμος τοῦ Ἀσρωνεί· τῷ Χαρμὶ, δῆμος τοῦ Χαρμί."
       }
     },
     {
@@ -448,7 +454,8 @@
       "translations": {
         "lxx": "These are the families of Ruben; and their numbering was forty-three thousand and seven hundred and thirty.",
         "kjv": "These are the families of the Reubenites: and they that were numbered of them were forty and three thousand and seven hundred and thirty.",
-        "ron": "Acestea sunt neamurile lui Ruben; şi s-au numărat patruzeci şi trei de mii şapte sute treizeci."
+        "ron": "Acestea sunt neamurile lui Ruben; şi s-au numărat patruzeci şi trei de mii şapte sute treizeci.",
+        "grk": "Οὗτοι δῆμοι Ῥουβήν· καὶ ἐγένετο ἡ ἐπίσκεψις αὐτῶν, τρεῖς καὶ τεσσαράκοντα χιλιάδες καὶ ἑπτακόσιοι καὶ τριάκοντα."
       }
     },
     {
@@ -475,7 +482,8 @@
       "translations": {
         "lxx": "And the sons of Phallu were Eliab,—",
         "kjv": "And the sons of Pallu; Eliab.",
-        "ron": "Fiul lui Falu: Eliab."
+        "ron": "Fiul lui Falu: Eliab.",
+        "grk": "Καὶ υἱοῖ Φαλλοὺ, Ἑλιάβ."
       }
     },
     {
@@ -597,7 +605,8 @@
       "translations": {
         "lxx": "and the sons of Eliab, Namuel, and Dathan, and Abiron: these are renowned men of the congregation; these are they that rose up against Moses and Aaron in the gathering of Core, in the rebellion against the Lord.",
         "kjv": "And the sons of Eliab; Nemuel, and Dathan, and Abiram. This is that Dathan and Abiram, which were famous in the congregation, who strove against Moses and against Aaron in the company of Korah, when they strove against the LORD:",
-        "ron": "Fiii lui Eliab: Nemuel, Datan şi Abiron. Datan şi Abiron sunt aceia care, chemaţi fiind în adunare, au stârnit răzvrătire împotriva lui Moise şi a lui Aaron împreună cu părtaşii lui Core, când aceştia au stârnit răzvrătire împotriva Domnului"
+        "ron": "Fiii lui Eliab: Nemuel, Datan şi Abiron. Datan şi Abiron sunt aceia care, chemaţi fiind în adunare, au stârnit răzvrătire împotriva lui Moise şi a lui Aaron împreună cu părtaşii lui Core, când aceştia au stârnit răzvrătire împotriva Domnului",
+        "grk": "Καὶ υἱοὶ Ἑλιὰβ, Ναμουὴλ, καὶ Δαθὰν, καὶ Ἀβειρών· οὗτοι ἐπίκλητοι τῆς συναγωγῆς· οὗτοί εἰσιν οἱ ἐπισυστάντες ἐπὶ Μωυσῆν καὶ Ἀαρὼν ἐν τῇ συναγωγῇ Κορὲ, ἐν τῇ ἐπισυστάσει Κυρίου."
       }
     },
     {
@@ -669,7 +678,8 @@
       "translations": {
         "lxx": "And the earth opened her mouth, and swallowed up them and Core, when their assembly perished, when the fire devoured the two hundred and fifty, and they were made a sign.",
         "kjv": "And the earth opened her mouth, and swallowed them up together with Korah, when that company died, what time the fire devoured two hundred and fifty men: and they became a sign.",
-        "ron": "Şi şi-a deschis pământul gura sa şi i-a înghiţit pe ei şi pe Core; şi împreună cu ei au murit şi părtaşii lor, când focul a mistuit două sute cincizeci de oameni şi au rămas ei ca semn."
+        "ron": "Şi şi-a deschis pământul gura sa şi i-a înghiţit pe ei şi pe Core; şi împreună cu ei au murit şi părtaşii lor, când focul a mistuit două sute cincizeci de oameni şi au rămas ei ca semn.",
+        "grk": "Καὶ ἀνοίξασα ἡ γῆ τὸ στόμα αὐτῆς, κατέπιεν αὐτοὺς καὶ Κορὲ, ἐν τῷ θανάτῳ τῆς συναγωγῆ αὐτοῦ, ὅτε κατέφαγε τὸ πῦρ τοὺς πεντήκοντα καὶ διακοσίους, καὶ ἐγενήθησαν ἐν σημείῳ·"
       }
     },
     {
@@ -696,7 +706,8 @@
       "translations": {
         "lxx": "But the sons of Core died not.",
         "kjv": "Notwithstanding the children of Korah died not.",
-        "ron": "Însă fiii lui Core n-au murit."
+        "ron": "Însă fiii lui Core n-au murit.",
+        "grk": "οἱ δὲ υἱοὶ Κορὲ οὐκ ἀπέθανον."
       }
     },
     {
@@ -793,7 +804,8 @@
       "translations": {
         "lxx": "And the sons of Symeon:—the family of the sons of Symeon: to Namuel, belonged the family of the Namuelites; to Jamin the family of the Jaminites; to Jachin the family of the Jachinites.",
         "kjv": "The sons of Simeon after their families: of Nemuel, the family of the Nemuelites: of Jamin, the family of the Jaminites: of Jachin, the family of the Jachinites:",
-        "ron": "Fiii lui Simeon, după familiile lor, sunt: din Nemuel, neamul lui Nemuel; din Iamin, neamul lui Iamin; din Iachin; neamul lui Iachin;"
+        "ron": "Fiii lui Simeon, după familiile lor, sunt: din Nemuel, neamul lui Nemuel; din Iamin, neamul lui Iamin; din Iachin; neamul lui Iachin;",
+        "grk": "Καὶ οἱ υἱοὶ Συμεὼν, ὁ δῆμος τῶν υἱῶν Συμεών· τῷ Ναμουὴλ, δῆμος ὁ Ναμουηλί· τῷ Ἰαμὶν, δῆμος ὁ Ἰαμινί· τῷ Ἰαχὶν, δῆμος Ἰαχινί·"
       }
     },
     {
@@ -850,7 +862,8 @@
       "translations": {
         "lxx": "To Zara the family of the Zaraites; to Saul the family of the Saulites.",
         "kjv": "Of Zerah, the family of the Zarhites: of Shaul, the family of the Shaulites.",
-        "ron": "Din Zerah, neamul lui Zerah; din Saul, neamul lui Saul."
+        "ron": "Din Zerah, neamul lui Zerah; din Saul, neamul lui Saul.",
+        "grk": "Τῷ Ζαρὰ δῆμος ὁ Ζαραΐ· τῷ Σαοὺλ, δῆμος ὁ Σαουλί."
       }
     },
     {
@@ -887,7 +900,8 @@
       "translations": {
         "lxx": "These are the families of Symeon according to their numbering, two and twenty thousand and two hundred.",
         "kjv": "These are the families of the Simeonites, twenty and two thousand and two hundred.",
-        "ron": "Acestea sunt neamurile cele din Simeon, care s-au găsit la numărătoarea lor: douăzeci şi două de mii două sute."
+        "ron": "Acestea sunt neamurile cele din Simeon, care s-au găsit la numărătoarea lor: douăzeci şi două de mii două sute.",
+        "grk": "Οὗτοι δῆμοι Συμεὼν ἐκ τῆς ἐπισκέψεως αὐτῶν, δύο καὶ εἴκοσι χιλιάδες καὶ διακόσιοι."
       }
     },
     {
@@ -959,7 +973,8 @@
       "translations": {
         "lxx": "And the sons of Juda, Er and Aunan; and Er and Aunan died in the land of Chanaan.",
         "kjv": "The children of Gad after their families: of Zephon, the family of the Zephonites: of Haggi, the family of the Haggites: of Shuni, the family of the Shunites:",
-        "ron": "Fiii lui Gad, după neamurile lor: din Ţefon neamul Ţefonienilor; din Haghi, neamul Haghiţilor; din Şunie, neamul Şunienilor;"
+        "ron": "Fiii lui Gad, după neamurile lor: din Ţefon neamul Ţefonienilor; din Haghi, neamul Haghiţilor; din Şunie, neamul Şunienilor;",
+        "grk": "Υἱοὶ δὲ Ἰούδα, Ἢρ καὶ Αὐνάν· καὶ ἀπέθανον Ἤρ καὶ Αὐνὰν ἐν γῇ Χαναάν."
       }
     },
     {
@@ -1056,7 +1071,8 @@
       "translations": {
         "lxx": "And these were the sons of Juda, according to their families: to Selom belonged the family of the Selonites; to Phares, the family of the Pharesites; to Zara, the family of the Zaraites.",
         "kjv": "Of Ozni, the family of the Oznites: of Eri, the family of the Erites:",
-        "ron": "Din Ozni, neamul Oznienilor;"
+        "ron": "Din Ozni, neamul Oznienilor;",
+        "grk": "Καὶ ἐγένοντο οἱ υἱοὶ Ἰούδα κατὰ δήμους αὐτῶν· τῷ Σηλὼμ, δῆμος ὁ Σηλωνί· τῷ Φαρὲς, δῆμος ὁ Φαρεσί· τῷ Ζαρὰ, δῆμος ὁ Ζαραΐ."
       }
     },
     {
@@ -1123,7 +1139,8 @@
       "translations": {
         "lxx": "And the sons of Phares were, to Asron, the family of the Asronites; to Jamun, the family of the Jamunites.",
         "kjv": "Of Arod, the family of the Arodites: of Areli, the family of the Arelites.",
-        "ron": "Din Eri, neamul Erienilor; din Arod, neamul Arodeilor; din Areli, neamul Arelienilor."
+        "ron": "Din Eri, neamul Erienilor; din Arod, neamul Arodeilor; din Areli, neamul Arelienilor.",
+        "grk": "Καὶ ἐγένοντο οἱ υἱοὶ Φαρὲς, τῷ Ἀσρὼν, δῆμος ὁ Ἀσρωνί· τῷ Ἰαμοῦν, δῆμος ὁ Ἰαμουνί."
       }
     },
     {
@@ -1160,7 +1177,8 @@
       "translations": {
         "lxx": "These are the families of Juda according to their numbering, seventy-six thousand and five hundred.",
         "kjv": "These are the families of the children of Gad according to those that were numbered of them, forty thousand and five hundred.",
-        "ron": "Acestea sunt neamurile fiilor lui Gad, care la numărătoarea lor s-au găsit patruzeci de mii cinci sute."
+        "ron": "Acestea sunt neamurile fiilor lui Gad, care la numărătoarea lor s-au găsit patruzeci de mii cinci sute.",
+        "grk": "Οὗτοι δῆμοι τοῦ Ἰούδα κατὰ τὴν ἐπίσκεψιν αὐτῶν, ἓξ καὶ ἑβδομήκοντα χιλιάδες καὶ πεντακόσιοι."
       }
     },
     {
@@ -1232,7 +1250,8 @@
       "translations": {
         "lxx": "And the sons of Issachar according to their families: to Thola, the family of the Tholaites; to Phua, the family of the Phuaites.",
         "kjv": "The sons of Judah were Er and Onan: and Er and Onan died in the land of Canaan.",
-        "ron": "Fiii lui Iuda sunt: Er şi Onan, Şela, Fares şi Zara; însă Er şi Onan au murit în pământul Canaanului."
+        "ron": "Fiii lui Iuda sunt: Er şi Onan, Şela, Fares şi Zara; însă Er şi Onan au murit în pământul Canaanului.",
+        "grk": "Καὶ υἱοὶ Ἰσσάχαρ κατὰ δήμους αὐτῶν· τῷ Θωλᾷ, δῆμος ὁ Θωλαΐ· τῷ Φουᾷ, δῆμος ὁ Φουαΐ·"
       }
     },
     {
@@ -1284,7 +1303,8 @@
       "translations": {
         "lxx": "To Jasub, the family of the Jasubites; to Samram, the family of the Samramites.",
         "kjv": "And the sons of Judah after their families were; of Shelah, the family of the Shelanites: of Pharez, the family of the Pharzites: of Zerah, the family of the Zarhites.",
-        "ron": "Şi fiii lui Iuda, după neamurile lor, sunt: din Şela, neamul Şelaenilor; din Fares, neamul Fareseilor; din Zara, neamul Zaraenilor."
+        "ron": "Şi fiii lui Iuda, după neamurile lor, sunt: din Şela, neamul Şelaenilor; din Fares, neamul Fareseilor; din Zara, neamul Zaraenilor.",
+        "grk": "Τῷ Ἰασοὺβ, δῆμος ὁ Ἰασουβί· τῷ Σαμρὰμ, δῆμος ὁ Σαμραμί."
       }
     },
     {
@@ -1321,7 +1341,8 @@
       "translations": {
         "lxx": "These are the families of Issachar according to their numbering, sixty-four thousand and four hundred.",
         "kjv": "And the sons of Pharez were; of Hezron, the family of the Hezronites: of Hamul, the family of the Hamulites.",
-        "ron": "Iar fiii lui Fares sunt: din Esron neamul Esroneilor; din Hamul, neamul Hamulienilor."
+        "ron": "Iar fiii lui Fares sunt: din Esron neamul Esroneilor; din Hamul, neamul Hamulienilor.",
+        "grk": "Οὗτοι δῆμοι Ἰσσάχαρ ἐξ ἐπισκέψεως αὐτῶν, τέσσαρες καὶ ἑξήκοντα χιλιάδες καὶ τετρακόσιοι."
       }
     },
     {
@@ -1413,7 +1434,8 @@
       "translations": {
         "lxx": "The sons of Zabulon according to their families: to Sared, the family of the Saredites; to Allon, the family of the Allonites; to Allel, the family of the Allelites.",
         "kjv": "These are the families of Judah according to those that were numbered of them, threescore and sixteen thousand and five hundred.",
-        "ron": "Acestea sunt neamurile din Iuda şi la numărătoarea lor s-au găsit şaptezeci şi şase de mii cinci sute."
+        "ron": "Acestea sunt neamurile din Iuda şi la numărătoarea lor s-au găsit şaptezeci şi şase de mii cinci sute.",
+        "grk": "Υἱοὶ Ζαβουλὼν κατὰ δήμους αὐτῶν· τῷ Σαρὲδ, δῆμος ὁ Σαρεδί· τῷ Ἀλλὼν, δῆμος ὁ Ἀλλωνί· τῷ Ἀλλὴλ, δῆμος ὁ Ἀλληλί."
       }
     },
     {
@@ -1450,7 +1472,8 @@
       "translations": {
         "lxx": "These are the families of Zabulon according to their numbering, sixty thousand and five hundred.",
         "kjv": "Of the sons of Issachar after their families: of Tola, the family of the Tolaites: of Pua, the family of the Punites:",
-        "ron": "Fiii lui Isahar, după neamurile lor, sunt: din Tola, neamul Tolaenilor; din Fuva, neamul Fuvaenilor;"
+        "ron": "Fiii lui Isahar, după neamurile lor, sunt: din Tola, neamul Tolaenilor; din Fuva, neamul Fuvaenilor;",
+        "grk": "Οὗτοι δῆμοι Ζαβουλὼν ἐξ ἐπισκέψεως αὐτῶν, ἐξήκοντα χιλιάδες καὶ πεντακόσιοι."
       }
     },
     {
@@ -1522,7 +1545,8 @@
       "translations": {
         "lxx": "The sons of Gad according to their families: to Saphon, the family of the Saphonites; to Angi, the family of the Angites; to Suni, the family of the Sunites;",
         "kjv": "Of Jashub, the family of the Jashubites: of Shimron, the family of the Shimronites.",
-        "ron": "Din Iaşub, neamul Iaşubienilor; din Şimron, neamul Şimronienilor."
+        "ron": "Din Iaşub, neamul Iaşubienilor; din Şimron, neamul Şimronienilor.",
+        "grk": "Υἱοὶ Γὰδ κατὰ δήμους αὐτῶν· τῷ Σαφὼν, δῆμος ὁ Σαφωνί· τῷ Ἀγγὶ, δῆμος ὁ Ἀγγί· τῷ Σουνὶ, δῆμος ὁ Σουνί·"
       }
     },
     {
@@ -1564,7 +1588,8 @@
       "translations": {
         "lxx": "to Azeni, the family of the Azenites; to Addi, the family of the Addites:",
         "kjv": "These are the families of Issachar according to those that were numbered of them, threescore and four thousand and three hundred.",
-        "ron": "Acestea sunt neamurile din Isahar şi la numărătoarea lor s-au găsit şaizeci şi patru de mii trei sute."
+        "ron": "Acestea sunt neamurile din Isahar şi la numărătoarea lor s-au găsit şaizeci şi patru de mii trei sute.",
+        "grk": "τῷ Ἀζενὶ, δῆμος ὁ Ἀζενί· τῷ Ἀδδὶ, δῆμος ὁ Ἀδδί·"
       }
     },
     {
@@ -1606,7 +1631,8 @@
       "translations": {
         "lxx": "to Aroadi, the family of the Aroadites; to Ariel, the family of the Arielites.",
         "kjv": "Of the sons of Zebulun after their families: of Sered, the family of the Sardites: of Elon, the family of the Elonites: of Jahleel, the family of the Jahleelites.",
-        "ron": "Fiii lui Zabulon, după neamurile lor, sunt: din Sered, neamul Seredienilor; din Elon, neamul Elonienilor; din Iahleil, neamul Iahleililor."
+        "ron": "Fiii lui Zabulon, după neamurile lor, sunt: din Sered, neamul Seredienilor; din Elon, neamul Elonienilor; din Iahleil, neamul Iahleililor.",
+        "grk": "τῷ Ἀροδὶ, δῆμος ὁ Αροαδί· τῷ Ἀριὴλ, δῆμος ὁ Ἀριηλί."
       }
     },
     {
@@ -1643,7 +1669,8 @@
       "translations": {
         "lxx": "These are the families of the children of Gad according to their numbering, forty-four thousand and five hundred.",
         "kjv": "These are the families of the Zebulunites according to those that were numbered of them, threescore thousand and five hundred.",
-        "ron": "Acestea sunt neamurile din Zabulon şi la numărătoarea lor s-au găsit şaizeci de mii cinci sute."
+        "ron": "Acestea sunt neamurile din Zabulon şi la numărătoarea lor s-au găsit şaizeci de mii cinci sute.",
+        "grk": "Οὗτοι δῆμοι υἱῶν Γὰδ ἐξ ἑπισκέψεως αὐτῶν, τέσσαρες καὶ τεσσαράκοντα χιλιάδες καὶ πεντακόσιοι."
       }
     },
     {
@@ -1720,7 +1747,8 @@
       "translations": {
         "lxx": "The sons of Aser according to their families; to Jamin, the family of the Jaminites; to Jesu, the family of the Jesusites; to Baria, the family of the Bariaites.",
         "kjv": "The sons of Joseph after their families were Manasseh and Ephraim.",
-        "ron": "Fiii lui Iosif sunt: Manase şi Efraim."
+        "ron": "Fiii lui Iosif sunt: Manase şi Efraim.",
+        "grk": "Υἱοὶ Ἀσὴρ κατὰ δήμους αὐτῶν· τῷ Ἰαμὶν, δῆμος ὁ Ἰαμινί· τῷ Ἰεσοὺ, δῆμος ὁ Ἰεσουΐ· τῷ Βαριὰ, δῆμος ὁ Βαριαΐ."
       }
     },
     {
@@ -1762,7 +1790,8 @@
       "translations": {
         "lxx": "To Chober, the family of the Choberites; to Melchiel, the family of the Melchielites.",
         "kjv": "Of the sons of Manasseh: of Machir, the family of the Machirites: and Machir begat Gilead: of Gilead come the family of the Gileadites.",
-        "ron": "Fiii lui Manase, după neamurile lor, sunt: din Machir, neamul Machirienilor; din Machir s-a născut Galaad şi din Galaad este neamul Galaadenilor."
+        "ron": "Fiii lui Manase, după neamurile lor, sunt: din Machir, neamul Machirienilor; din Machir s-a născut Galaad şi din Galaad este neamul Galaadenilor.",
+        "grk": "Τῷ Χοβὲρ, δῆμος ὁ Χοβερί· τῷ Μελχιὴλ, δῆμος ὁ Μελχιηλί."
       }
     },
     {
@@ -1794,7 +1823,8 @@
       "translations": {
         "lxx": "And the name of the daughter of Aser, Sara.",
         "kjv": "These are the sons of Gilead: of Jeezer, the family of the Jeezerites: of Helek, the family of the Helekites:",
-        "ron": "Fiii lui Galaad sunt: din Iezer, neamul Iezerienilor; din Helec, neamul Helecienilor;"
+        "ron": "Fiii lui Galaad sunt: din Iezer, neamul Iezerienilor; din Helec, neamul Helecienilor;",
+        "grk": "Καὶ τὸ ὄνομα θυγατρὸς Ἀσὴρ, Σάρα."
       }
     },
     {
@@ -1831,7 +1861,8 @@
       "translations": {
         "lxx": "These are the families of Aser according to their numbering, forty-three thousand and four hundred.",
         "kjv": "And of Asriel, the family of the Asrielites: and of Shechem, the family of the Shechemites:",
-        "ron": "Din Asriel, neamul Asrielienilor; din Şechem, neamul Şechemienilor;"
+        "ron": "Din Asriel, neamul Asrielienilor; din Şechem, neamul Şechemienilor;",
+        "grk": "Οὗτοι δῆμοι Ἀσὴρ ἐξ ἐπισκέψεως αὐτῶν, τρεῖς καὶ τεσσαράκοντα χιλιάδες καὶ τετρακόσιοι."
       }
     },
     {
@@ -1873,7 +1904,8 @@
       "translations": {
         "lxx": "The sons of Joseph according to their families, Manasse and Ephraim.",
         "kjv": "And of Shemida, the family of the Shemidaites: and of Hepher, the family of the Hepherites.",
-        "ron": "Din Şemida, neamul Şemidienilor; din Hefer, neamul Heferienilor."
+        "ron": "Din Şemida, neamul Şemidienilor; din Hefer, neamul Heferienilor.",
+        "grk": "Υἱοὶ Ἰωσὴφ κατὰ δήμους αὐτῶν, Μανασσῆ καὶ Ἐφραίμ."
       }
     },
     {
@@ -1925,7 +1957,8 @@
       "translations": {
         "lxx": "The sons of Manasse. To Machir the family of the Machirites; and Machir begot Galaad: to Galaad, the family of the Galaadites.",
         "kjv": "And Zelophehad the son of Hepher had no sons, but daughters: and the names of the daughters of Zelophehad were Mahlah, and Noah, Hoglah, Milcah, and Tirzah.",
-        "ron": "Salfaad, fiul lui Hefer, n-a avut fii, ci numai fiice şi numele fiicelor lui Salfaad sunt: Mahla, Noa, Hogla, Milca şi Tirţa."
+        "ron": "Salfaad, fiul lui Hefer, n-a avut fii, ci numai fiice şi numele fiicelor lui Salfaad sunt: Mahla, Noa, Hogla, Milca şi Tirţa.",
+        "grk": "Υἱοὶ Μανασσῆ. Τῷ Μαχὶρ, δῆμος ὁ Μαχιρί· καὶ Μαχὶρ ἐγέννησε τὸν Γαλαάδ· τῷ Γαλαὰδ, δῆμος ὁ Γαλααδί."
       }
     },
     {
@@ -1952,7 +1985,8 @@
       "translations": {
         "lxx": "And these are the sons of Galaad; to Achiezer, the family of the Achiezerites; to Cheleg, the family of the Chelegites.",
         "kjv": "These are the families of Manasseh, and those that were numbered of them, fifty and two thousand and seven hundred.",
-        "ron": "Acestea sunt neamurile lui Manase şi la numărătoarea lor s-au găsit cincizeci şi două de mii şapte sute."
+        "ron": "Acestea sunt neamurile lui Manase şi la numărătoarea lor s-au găsit cincizeci şi două de mii şapte sute.",
+        "grk": "Καὶ οὗτοι υἱοὶ Γαλαάδ· Ἀχιέζερ, δῆμος ὁ Ἀχιεζερί· τῷ Χελὲγ, δῆμος ὁ Χελεγί."
       }
     },
     {
@@ -2044,7 +2078,8 @@
       "translations": {
         "lxx": "To Esriel, the family of the Esrielites; to Sychem, the family of the Sychemites.",
         "kjv": "These are the sons of Ephraim after their families: of Shuthelah, the family of the Shuthalhites: of Becher, the family of the Bachrites: of Tahan, the family of the Tahanites.",
-        "ron": "Fiii lui Efraim, după neamurile lor, sunt: din Şutelah, neamul Şutelahienilor; din Becher, neamul Becherienilor; din Tahan, neamul Tahanienilor."
+        "ron": "Fiii lui Efraim, după neamurile lor, sunt: din Şutelah, neamul Şutelahienilor; din Becher, neamul Becherienilor; din Tahan, neamul Tahanienilor.",
+        "grk": "Τῷ Ἐσριὴλ, δῆμος ὁ Ἐσριηλί· τῷ Συχὲμ, δῆμος ὁ Συχεμί·"
       }
     },
     {
@@ -2086,7 +2121,8 @@
       "translations": {
         "lxx": "To Symaer, the family of the Symaerites; and to Opher, the family of the Opherites.",
         "kjv": "And these are the sons of Shuthelah: of Eran, the family of the Eranites.",
-        "ron": "Iar fiii lui Şutelah sunt: din Eran, neamul Eranienilor."
+        "ron": "Iar fiii lui Şutelah sunt: din Eran, neamul Eranienilor.",
+        "grk": "Τῷ Συμαὲρ, δῆμος ὁ Συμαερί· καὶ τῷ Ὀφὲρ, δῆμος ὁ Ὀφερὶ."
       }
     },
     {
@@ -2178,7 +2214,8 @@
       "translations": {
         "lxx": "And to Salpaad the son of Opher there were no sons, but daughters: and these were the names of the daughters of Salpaad; Mala, and Nua, and Egla, and Melcha, and Thersa.",
         "kjv": "These are the families of the sons of Ephraim according to those that were numbered of them, thirty and two thousand and five hundred. These are the sons of Joseph after their families.",
-        "ron": "Acestea sunt neamurile fiilor lui Efraim şi la numărătoarea lor s-au găsit treizeci şi două de mii cinci sute. Aceştia sunt fiii lui Iosif după neamurile lor."
+        "ron": "Acestea sunt neamurile fiilor lui Efraim şi la numărătoarea lor s-au găsit treizeci şi două de mii cinci sute. Aceştia sunt fiii lui Iosif după neamurile lor.",
+        "grk": "Καὶ τῷ Σαλπαὰδ, υἱῷ Ὀφὲρ, οὐκ ἐγένοντο αὐτῷ υἱοὶ, ἀλλʼ ἢ θυγατέρες· καὶ ταῦτα τὰ ὀνόματα τῶν θυγατέρων Σαλπαάδ· Μαλὰ, καὶ Νουὰ, καὶ Ἐγλὰ, καὶ Μελχὰ, καὶ Θερσά."
       }
     },
     {
@@ -2215,7 +2252,8 @@
       "translations": {
         "lxx": "These are the families of Manasse according to their numbering, fifty-two thousand and seven hundred.",
         "kjv": "The sons of Benjamin after their families: of Bela, the family of the Belaites: of Ashbel, the family of the Ashbelites: of Ahiram, the family of the Ahiramites:",
-        "ron": "Fiii lui Veniamin, după neamurile lor, sunt; din Bela, neamul Belaienilor; din Aşbel, neamul Aşbelienilor; din Ahiram, neamul Ahiramienilor;"
+        "ron": "Fiii lui Veniamin, după neamurile lor, sunt; din Bela, neamul Belaienilor; din Aşbel, neamul Aşbelienilor; din Ahiram, neamul Ahiramienilor;",
+        "grk": "Οὗτοι δῆμοι Μανασσὴ ἐξ ἐπισκέψεως αὐτῶν, δύο καὶ πεντήκοντα χιλιαδες καὶ ἑπτακόσιοι."
       }
     },
     {
@@ -2272,7 +2310,8 @@
       "translations": {
         "lxx": "And these are the children of Ephraim; to Suthala, the family of the Suthalanites; to Tanach, the family of the Tanachites.",
         "kjv": "Of Shupham, the family of the Shuphamites: of Hupham, the family of the Huphamites.",
-        "ron": "Din Şefufam, neamul Şefufamienilor; din Hufam, neamul Hufamienilor."
+        "ron": "Din Şefufam, neamul Şefufamienilor; din Hufam, neamul Hufamienilor.",
+        "grk": "Καὶ οὗτοι υἱοὶ Ἐφραίμ· τῷ Σουθαλὰ, δῆμος ὁ Σουθαλάν· τῷ Τανὰχ, δῆμος ὁ Ταναχί."
       }
     },
     {
@@ -2314,7 +2353,8 @@
       "translations": {
         "lxx": "These are the sons of Suthala; to Eden, the family of the Edenites.",
         "kjv": "And the sons of Bela were Ard and Naaman: of Ard, the family of the Ardites: and of Naaman, the family of the Naamites.",
-        "ron": "Iar fiii lui Bela sunt: Ard şi Naaman: din Ard, neamul Ardienilor şi din Naaman, neamul Naamanienilor."
+        "ron": "Iar fiii lui Bela sunt: Ard şi Naaman: din Ard, neamul Ardienilor şi din Naaman, neamul Naamanienilor.",
+        "grk": "Οὗτοι υἱοὶ Σουθαλά· τῷ Ἐδὲν, δῆμος ὁ Ἐδενί."
       }
     },
     {
@@ -2381,7 +2421,8 @@
       "translations": {
         "lxx": "These are the families of Ephraim according to their numbering, thirty-two thousand and five hundred: these are the families of the children of Joseph according to their families.",
         "kjv": "These are the sons of Benjamin after their families: and they that were numbered of them were forty and five thousand and six hundred.",
-        "ron": "Aceştia sunt fiii lui Veniamin după neamurile lor şi la numărătoare s-au găsit patruzeci şi cinci de mii şase sute."
+        "ron": "Aceştia sunt fiii lui Veniamin după neamurile lor şi la numărătoare s-au găsit patruzeci şi cinci de mii şase sute.",
+        "grk": "Οὗτοι δῆμοι Ἐφραὶμ ἐξ ἐπισκέψεως αὐτῶν, δύο καὶ τριάκοντα χιλιάδες καὶ πεντακόσιοι· οὗτοι δῆμοι υἱῶν Ἰωσὴφ κατὰ δήμους αὐτῶν."
       }
     },
     {
@@ -2458,7 +2499,8 @@
       "translations": {
         "lxx": "The sons of Benjamin according to their families; to Bale, the family of the Balites; to Asyber, the family of the Asyberites; to Jachiran, the family of the Jachiranites.",
         "kjv": "These are the sons of Dan after their families: of Shuham, the family of the Shuhamites. These are the families of Dan after their families.",
-        "ron": "Fiii lui Dan, după neamurile lor, sunt: din Şuham, neamul Şuhamienilor. Acestea sunt familiile lui Dan, după neamurile lor."
+        "ron": "Fiii lui Dan, după neamurile lor, sunt: din Şuham, neamul Şuhamienilor. Acestea sunt familiile lui Dan, după neamurile lor.",
+        "grk": "Υἱοὶ Βενιαμὶν κατὰ δήμους αὐτῶν· τῷ Βαλὲ, δῆμος ὁ Βαλί· τῷ Ἀσυβὴρ, δῆμος ὁ Ἀσυβηρί· τῷ Ἰαχιρὰν, δῆμος ὁ Ἰαχιρανί."
       }
     },
     {
@@ -2485,7 +2527,8 @@
       "translations": {
         "lxx": "To Sophan, the family of the Sophanites.",
         "kjv": "All the families of the Shuhamites, according to those that were numbered of them, were threescore and four thousand and four hundred.",
-        "ron": "Şi neamurile lui Şuham, la numărătoarea lor, au fost de toate şaizeci şi patru de mii patru sute."
+        "ron": "Şi neamurile lui Şuham, la numărătoarea lor, au fost de toate şaizeci şi patru de mii patru sute.",
+        "grk": "Τῷ Σωφὰν, δῆμος ὁ Σωφανι."
       }
     },
     {
@@ -2532,7 +2575,8 @@
       "translations": {
         "lxx": "And the sons of Bale were Adar and Noeman; to Adar, the family of the Adarites; and to Noeman, the family of the Noemanites.",
         "kjv": "Of the children of Asher after their families: of Jimna, the family of the Jimnites: of Jesui, the family of the Jesuites: of Beriah, the family of the Beriites.",
-        "ron": "Fiii lui Aşer, după neamurile lor, sunt: din Imna, neamul Imnaenilor; din Işba, neamul Işbaenilor; din Verie, neamul Verienilor."
+        "ron": "Fiii lui Aşer, după neamurile lor, sunt: din Imna, neamul Imnaenilor; din Işba, neamul Işbaenilor; din Verie, neamul Verienilor.",
+        "grk": "Καὶ ἐγένοντο οἱ υἱοὶ Βαλὲ, Ἀδὰρ, καὶ Νοεμάν· τῷ Ἀδὰρ, δῆμος ὁ Αδαρί· καὶ τῷ Νοεμὰν, δῆμος ὁ Νοεμανί."
       }
     },
     {
@@ -2579,7 +2623,8 @@
       "translations": {
         "lxx": "These are the sons of Benjamin by their families according to their numbering, thirty-five thousand and five hundred.",
         "kjv": "Of the sons of Beriah: of Heber, the family of the Heberites: of Malchiel, the family of the Malchielites.",
-        "ron": "Din fiii lui Verie: din Heber, neamul Heberienilor; din Malchiel, neamul Malchielilor."
+        "ron": "Din fiii lui Verie: din Heber, neamul Heberienilor; din Malchiel, neamul Malchielilor.",
+        "grk": "Οὗτοι υἱοὶ Βενιαμὶν κατὰ δήμους αὐτῶν ἐξ ἐπισκέψεως αὐτῶν, πέντε καὶ τριάκοντα χιλιάδες καὶ πεντακόσιοι."
       }
     },
     {
@@ -2646,7 +2691,8 @@
       "translations": {
         "lxx": "And the sons of Dan according to their families; to Same, the family of the Sameites; these are the families of Dan according to their families.",
         "kjv": "And the name of the daughter of Asher was Sarah.",
-        "ron": "Şi numele fiicei lui Aşer a fost Serah."
+        "ron": "Şi numele fiicei lui Aşer a fost Serah.",
+        "grk": "Καὶ υἱοὶ Δὰν κατὰ δήμους αὐτῶν· τῷ Σαμὲ, δῆμος ὁ Σαμεΐ, οὗτοι δῆμοι Δὰν κατὰ δήμους αὐτῶν."
       }
     },
     {
@@ -2683,7 +2729,8 @@
       "translations": {
         "lxx": "All the families of Samei according to their numbering, sixty-four thousand and four hundred.",
         "kjv": "These are the families of the sons of Asher according to those that were numbered of them; who were fifty and three thousand and four hundred.",
-        "ron": "Acestea sunt neamurile fiilor lui Aşer şi la numărătoare s-au găsit cincizeci şi trei de mii patru sute."
+        "ron": "Acestea sunt neamurile fiilor lui Aşer şi la numărătoare s-au găsit cincizeci şi trei de mii patru sute.",
+        "grk": "Πάντες οἱ δῆμοι Σαμεῒ κατʼ ἐπισκοπὴν αὐτῶν, τέσσαρες καὶ ἑξήκοντα χιλιάδες καὶ τετρακόσιοι."
       }
     },
     {
@@ -2745,7 +2792,8 @@
       "translations": {
         "lxx": "The sons of Nephthali according to their families; to Asiel, the family of the Asielites; to Gauni, the family of the Gaunites.",
         "kjv": "Of the sons of Naphtali after their families: of Jahzeel, the family of the Jahzeelites: of Guni, the family of the Gunites:",
-        "ron": "Fiii lui Neftali, după neamurile lor, sunt: din Iahţeel, neamul Iahţeelienilor; din Guni, neamul Gunienilor;"
+        "ron": "Fiii lui Neftali, după neamurile lor, sunt: din Iahţeel, neamul Iahţeelienilor; din Guni, neamul Gunienilor;",
+        "grk": "Υἱοὶ Νεφθαλὶ κατὰ δήμους αὐτῶν· τῷ Ἀσιὴλ· δῆμος ὁ Ἀσιηλί· τῷ Γαυνὶ, δῆμος ὁ Γαυνί."
       }
     },
     {
@@ -2787,7 +2835,8 @@
       "translations": {
         "lxx": "To Jeser, the family of the Jeserites; to Sellem, the family of the Sellemites.",
         "kjv": "Of Jezer, the family of the Jezerites: of Shillem, the family of the Shillemites.",
-        "ron": "Din Ieţer, neamul Ieţerienilor; din Şilem, neamul Şilemienilor."
+        "ron": "Din Ieţer, neamul Ieţerienilor; din Şilem, neamul Şilemienilor.",
+        "grk": "Τῷ Ἰεσὲρ, δῆμος ὁ Ἰεσερί· τῷ Σελλὴμ, δῆμος ὁ Σελλημί."
       }
     },
     {
@@ -2824,7 +2873,8 @@
       "translations": {
         "lxx": "These are the families of Nephthali, according to their numbering, forty thousand and three hundred.",
         "kjv": "These are the families of Naphtali according to their families: and they that were numbered of them were forty and five thousand and four hundred.",
-        "ron": "Acestea sunt neamurile lui Neftali, după familiile lor şi la numărătoare s-au găsit patruzeci şi cinci de mii patru sute."
+        "ron": "Acestea sunt neamurile lui Neftali, după familiile lor şi la numărătoare s-au găsit patruzeci şi cinci de mii patru sute.",
+        "grk": "Οὗτοι δῆμοι Νεφθαλὶ ἐξ ἐπισκέψεως αὐτῶν, τεσσαράκοντα χιλιάδες καὶ τριακόσιοι."
       }
     },
     {
@@ -2866,7 +2916,8 @@
       "translations": {
         "lxx": "This is the numbering of the children of Israel, six hundred and one thousand and seven hundred and thirty.",
         "kjv": "These were the numbered of the children of Israel, six hundred thousand and a thousand seven hundred and thirty.",
-        "ron": "Iată numărul fiilor lui Israel, celor ce au intrat la numărătoare: şase sute una mii şapte sute treizeci."
+        "ron": "Iată numărul fiilor lui Israel, celor ce au intrat la numărătoare: şase sute una mii şapte sute treizeci.",
+        "grk": "Αὕτη ἡ ἐπίσκεψις υἱῶν Ἰσραὴλ, ἑξακόσιαι χιλιάδες καὶ χίλιοι καὶ ἑπτακόσιοι καὶ τριάκοντα."
       }
     },
     {
@@ -2898,7 +2949,8 @@
       "translations": {
         "lxx": "And the Lord spoke to Moses, saying,",
         "kjv": "And the LORD spake unto Moses, saying,",
-        "ron": "Apoi a grăit Domnul cu Moise şi a zis:"
+        "ron": "Apoi a grăit Domnul cu Moise şi a zis:",
+        "grk": "Καὶ ἐλάλησε Κύριος πρὸς Μωυσῆν, λέγων,"
       }
     },
     {
@@ -2955,7 +3007,8 @@
       "translations": {
         "lxx": "To these the land shall be divided, so that they may inherit according to the number of the names.",
         "kjv": "Unto these the land shall be divided for an inheritance according to the number of names.",
-        "ron": "\"Acestora să li se împartă spre moştenire pământul, după numărul numelor;"
+        "ron": "\"Acestora să li se împartă spre moştenire pământul, după numărul numelor;",
+        "grk": "τούτοις μερισθήσεται ἡ γῆ, κληρονομεῖν ἐξ ἀριθμοῦ ὀνομάτων."
       }
     },
     {
@@ -3042,7 +3095,8 @@
       "translations": {
         "lxx": "To the greater number thou shalt give the greater inheritance, and to the less number thou shalt give the less inheritance: to each one, as they have been numbered, shall their inheritance be given.",
         "kjv": "To many thou shalt give the more inheritance, and to few thou shalt give the less inheritance: to every one shall his inheritance be given according to those that were numbered of him.",
-        "ron": "Celor mai mulţi să le dai moşie mai mare, iar celor mai puţini să le dai moşie mai mică; fiecăruia să se dea moşie potrivit cu numărul celor ce au intrat la numărătoare."
+        "ron": "Celor mai mulţi să le dai moşie mai mare, iar celor mai puţini să le dai moşie mai mică; fiecăruia să se dea moşie potrivit cu numărul celor ce au intrat la numărătoare.",
+        "grk": "Τοῖς πλείοσι πλεονάσεις τὴν κληρονομίαν, καὶ τοῖς ἐλάττοσιν ἐλαττώσεις τὴν κληρονομίαν αὐτῶν· ἑκάστῳ, καθὼς ἐπεσκέπησαν, δοθήσεται ἡ κληρονομία αὐτῶν."
       }
     },
     {
@@ -3094,7 +3148,8 @@
       "translations": {
         "lxx": "The land shall be divided to the names by lot, they shall inherit according to the tribes of their families.",
         "kjv": "Notwithstanding the land shall be divided by lot: according to the names of the tribes of their fathers they shall inherit.",
-        "ron": "Pământul să-l împărţiţi prin sorţi; după numele seminţiilor părinţilor lor să-şi primească şi părţile:"
+        "ron": "Pământul să-l împărţiţi prin sorţi; după numele seminţiilor părinţilor lor să-şi primească şi părţile:",
+        "grk": "Διὰ κλήρων μερισθήσεται ἡ γῆ τοῖς ὀνόμασι· κατὰ φυλὰς πατριῶν αὐτῶν κληρονομήσουσιν."
       }
     },
     {
@@ -3146,7 +3201,8 @@
       "translations": {
         "lxx": "Thou shalt divide their inheritance by lot between the many and the few.",
         "kjv": "According to the lot shall the possession thereof be divided between many and few.",
-        "ron": "Prin sorţi să le împarţi moşia, atât celor mulţi la număr, cât şi celor puţini la număr\"."
+        "ron": "Prin sorţi să le împarţi moşia, atât celor mulţi la număr, cât şi celor puţini la număr\".",
+        "grk": "Ἐκ τοῦ κλήρου μεριεῖς τὴν κληρονομίαν αὐτῶν ἀναμέσον πολλῶν καὶ ὀλίγων."
       }
     },
     {
@@ -3223,7 +3279,8 @@
       "translations": {
         "lxx": "And the sons of Levi according to their families; to Gedson, the family of the Gedsonites; to Caath, the family of the Caathites; to Merari, the family of the Merarites.",
         "kjv": "And these are they that were numbered of the Levites after their families: of Gershon, the family of the Gershonites: of Kohath, the family of the Kohathites: of Merari, the family of the Merarites.",
-        "ron": "Leviţii, care au intrat la numărătoare, după neamurile lor, sunt aceştia: din Gherşon, neamul Gherşonienilor; din Cahat, neamul Cahatienilor, din Merari, neamul Merarienilor."
+        "ron": "Leviţii, care au intrat la numărătoare, după neamurile lor, sunt aceştia: din Gherşon, neamul Gherşonienilor; din Cahat, neamul Cahatienilor, din Merari, neamul Merarienilor.",
+        "grk": "Καὶ υἱοὶ Λευὶ κατὰ δήμους αὐτῶν· τῷ Γεδσὼν, δῆμος ὁ Γεδσωνί· τῷ Καὰθ, δῆμος ὁ Κααθί· τῷ Μεραρὶ, δῆμος ὁ Μεραρί."
       }
     },
     {
@@ -3315,7 +3372,8 @@
       "translations": {
         "lxx": "These are the families of the sons of Levi; the family of the Lobenites, the family of the Chebronites, the family of the Coreites, and the family of the Musites; and Caath begot Amram.",
         "kjv": "These are the families of the Levites: the family of the Libnites, the family of the Hebronites, the family of the Mahlites, the family of the Mushites, the family of the Korathites. And Kohath begat Amram.",
-        "ron": "Iată neamurile lui Levi: neamul lui Libni, neamul lui Hebron, neamul lui Mahli, neamul lui Muşi şi neamul lui Core. Din Cahat s-a născut Amram."
+        "ron": "Iată neamurile lui Levi: neamul lui Libni, neamul lui Hebron, neamul lui Mahli, neamul lui Muşi şi neamul lui Core. Din Cahat s-a născut Amram.",
+        "grk": "Οὗτοι δῆμοι υἱῶν Λευί· δῆμος ὁ Λοβενί, δῆμος ὁ Χεβρωνὶ, δῆμος ὁ Κορὲ, καὶ δῆμος ὁ Μουσί· καὶ Καὰθ ἐγέννησε τὸν Ἁμράμ."
       }
     },
     {
@@ -3422,7 +3480,8 @@
       "translations": {
         "lxx": "And the name of his wife was Jochabed, daughter of Levi, who bore these to Levi in Egypt, and she bore to Amram, Aaron and Moses, and Mariam their sister.",
         "kjv": "And the name of Amram’s wife was Jochebed, the daughter of Levi, whom her mother bare to Levi in Egypt: and she bare unto Amram Aaron and Moses, and Miriam their sister.",
-        "ron": "Numele femeii lui Amram a fost Iohabed, fiica lui Levi, pe care a născut-o femeia lui Levi în Egipt, iar ea a născut lui Amram pe Aaron, pe Moise şi pe Mariam, sora lor."
+        "ron": "Numele femeii lui Amram a fost Iohabed, fiica lui Levi, pe care a născut-o femeia lui Levi în Egipt, iar ea a născut lui Amram pe Aaron, pe Moise şi pe Mariam, sora lor.",
+        "grk": "Τὸ δὲ ὄνομα τῆς γυναικὸς αὐτοῦ Ἰωχαβὲδ, θυγάτηρ Λευὶ, ἣ ἔτεκε τούτους τῷ Λευὶ ἐν Αἰγύπτῳ, καὶ ἔτεκε τῷ Ἀμρὰμ τὸν Ἀαρὼν καὶ Μωυσῆν, καὶ Μαριὰμ τὴν ἀδελφὴν αὐτῶν."
       }
     },
     {
@@ -3464,7 +3523,8 @@
       "translations": {
         "lxx": "And to Aaron were born both Nadab and Abiud, and Eleazar, and Ithamar.",
         "kjv": "And unto Aaron was born Nadab, and Abihu, Eleazar, and Ithamar.",
-        "ron": "Lui Aaron i s-au născut: Nadab şi Abiud, Eleazar şi Itamar."
+        "ron": "Lui Aaron i s-au născut: Nadab şi Abiud, Eleazar şi Itamar.",
+        "grk": "Καὶ ἐγενήθησαν τῷ Ἀαρὼν, ὅ, τε Ναδὰβ, καὶ Ἀβιοὺδ, καὶ Ἐλεάζαρ, καὶ Ἰθάμαρ."
       }
     },
     {
@@ -3531,7 +3591,8 @@
       "translations": {
         "lxx": "And Nadab and Abiud died when they offered strange fire before the Lord in the wilderness of Sina.",
         "kjv": "And Nadab and Abihu died, when they offered strange fire before the LORD.",
-        "ron": "Dar Nadab şi Abiud au murit când au adus foc străin înaintea Domnului, în pustiul Sinai."
+        "ron": "Dar Nadab şi Abiud au murit când au adus foc străin înaintea Domnului, în pustiul Sinai.",
+        "grk": "Καὶ ἀπέθανε Ναδὰβ καὶ Ἀβιοὺδ ἐν τῷ προσφέρειν αὐτοὺς πῦρ ἀλλότριον ἔναντι Κυρίου ἐν τῇ ἐρήμῳ Σινᾷ."
       }
     },
     {
@@ -3638,7 +3699,8 @@
       "translations": {
         "lxx": "And there were according to their numbering, twenty-three thousand, every male from a month old and upward; for they were not numbered among the children of Israel, because they have no inheritance in the midst of the children of Israel.",
         "kjv": "And those that were numbered of them were twenty and three thousand, all males from a month old and upward: for they were not numbered among the children of Israel, because there was no inheritance given them among the children of Israel.",
-        "ron": "Şi s-au numărat toţi cei de parte bărbătească de la o lună în sus şi s-au găsit douăzeci şi trei de mii; căci aceştia nu fuseseră număraţi împreună cu fiii lui Israel, pentru că nu li s-a dat moştenire printre fiii lui Israel."
+        "ron": "Şi s-au numărat toţi cei de parte bărbătească de la o lună în sus şi s-au găsit douăzeci şi trei de mii; căci aceştia nu fuseseră număraţi împreună cu fiii lui Israel, pentru că nu li s-a dat moştenire printre fiii lui Israel.",
+        "grk": "Καὶ ἐγενήθησαν ἐξ ἐπισκέψεως αὐτῶν τρεῖς καὶ εἴκοσι χιλιάδες, πᾶν ἀρσενικὸν ἀπὸ μηνιαίου καὶ ἐπάνω· οὐ γὰρ συνεπεσκέπησαν ἐν μέσῳ υἱῶν Ἰσραὴλ, ὅτι οὐ δίδοται αὐτοῖς κλῆρος ἐν μέσῳ υἱῶν Ἰσραήλ."
       }
     },
     {
@@ -3730,7 +3792,8 @@
       "translations": {
         "lxx": "And this is the numbering of Moses and Eleazar the priest, who numbered the children of Israel in Araboth of Moab, at Jordan by Jericho.",
         "kjv": "These are they that were numbered by Moses and Eleazar the priest, who numbered the children of Israel in the plains of Moab by Jordan near Jericho.",
-        "ron": "Aceştia sunt cei număraţi de Moise şi Eleazar preotul, care au numărat pe fiii lui Israel în şesurile Moabului, lângă Iordan, în dreptul Ierihonului."
+        "ron": "Aceştia sunt cei număraţi de Moise şi Eleazar preotul, care au numărat pe fiii lui Israel în şesurile Moabului, lângă Iordan, în dreptul Ierihonului.",
+        "grk": "Καὶ αὕτη ἡ ἐπίσκεψις Μωυσῆ καὶ Ἐλεάζαρ τοῦ ἱερέως, οἱ ἐπεσκέψαντο τοὺς υἱοὺς Ἰσραὴλ ἐν Ἀραβὼθ Μωὰβ, ἐπὶ τοῦ Ἰορδάνου κατὰ Ἱεριχώ."
       }
     },
     {
@@ -3812,7 +3875,8 @@
       "translations": {
         "lxx": "And among these there was not a man numbered by Moses and Aaron, whom, even the children of Israel, they numbered in the wilderness of Sinai.",
         "kjv": "But among these there was not a man of them whom Moses and Aaron the priest numbered, when they numbered the children of Israel in the wilderness of Sinai.",
-        "ron": "În numărul lor nu se afla niciunul din fiii lui Israel număraţi de Moise şi de preotul Aaron, în pustiul Sinai,"
+        "ron": "În numărul lor nu se afla niciunul din fiii lui Israel număraţi de Moise şi de preotul Aaron, în pustiul Sinai,",
+        "grk": "Καὶ ἐν τούτοις οὐκ ἦν ἄνθρωπος τῶν ἐπεσκεμμένων ὑπὸ Μωυσῆ καὶ Ἀαρὼν, οὓς ἐπεσκέψαντο τοὺς υἱοὺς Ἰσραὴλ ἐν τῇ ἐρήμῳ Σινᾷ."
       }
     },
     {
@@ -3909,7 +3973,8 @@
       "translations": {
         "lxx": "For the Lord said to them, They shall surely die in the wilderness; and there was not left even one of them, except Chaleb the son of Jephonne, and Joshua the son of Naue.",
         "kjv": "For the LORD had said of them, They shall surely die in the wilderness. And there was not left a man of them, save Caleb the son of Jephunneh, and Joshua the son of Nun.",
-        "ron": "Căci Domnul le zisese acestora că vor muri toţi în pustie, - şi n-au rămas din ei niciunul, afară de Caleb, fiul lui Iefone şi de Iosua, fiul lui Navi."
+        "ron": "Căci Domnul le zisese acestora că vor muri toţi în pustie, - şi n-au rămas din ei niciunul, afară de Caleb, fiul lui Iefone şi de Iosua, fiul lui Navi.",
+        "grk": "Ὅτι εἶπε Κύριος αὐτοῖς, θανάτῳ ἀποθανοῦνται ἐν τῇ ἐρήμῳ· καὶ οὐ κατελείφθη ἐξ αὐτῶν οὐδὲ εἷς, πλὴν Χάλεβ υἱὸς Ἰεφοννὴ, καὶ Ἰησοῦς ὁ τοῦ Ναυή."
       }
     }
   ],

@@ -56,7 +56,8 @@
       "translations": {
         "lxx": "And if the thief be found in the breach made by himself and be smitten and die, there shall not be blood shed for him.",
         "kjv": "If a man shall steal an ox, or a sheep, and kill it, or sell it; he shall restore five oxen for an ox, and four sheep for a sheep.",
-        "ron": "\"De va fura cineva un bou sau o oaie şi le va junghia, sau le va vinde, să plătească cinci boi pentru un bou şi patru oi pentru oaie!"
+        "ron": "\"De va fura cineva un bou sau o oaie şi le va junghia, sau le va vinde, să plătească cinci boi pentru un bou şi patru oi pentru oaie!",
+        "grk": "Ἐὰν δὲ ἐν τῷ διορύγματι εὑρεθῇ ὁ κλέπτης, καὶ πληγεὶς ἀποθάνῃ, οὐκ ἔστιν αὐτῷ φόνος."
       }
     },
     {
@@ -118,7 +119,8 @@
       "translations": {
         "lxx": "But if the sun be risen upon him, he is guilty, he shall die instead; and if a thief have nothing, let him be sold in compensation for what he has stolen.",
         "kjv": "If a thief be found breaking up, and be smitten that he die, there shall no blood be shed for him.",
-        "ron": "Dacă furul va fi prins spărgând şi va fi lovit încât să moară, cel ce l-a lovit nu va fi vinovat de moartea lui."
+        "ron": "Dacă furul va fi prins spărgând şi va fi lovit încât să moară, cel ce l-a lovit nu va fi vinovat de moartea lui.",
+        "grk": "Ἐὰν δὲ ἀνατείλῃ ὁ ἥλιος ἐπʼ αὐτῷ, ἔνοχός ἐστιν, ἀνταποθανεῖται· ἐὰν δὲ μὴ ὑπάρχῃ αὐτῷ, πραθήτω ἀντὶ τοῦ κλέμματος."
       }
     },
     {
@@ -190,7 +192,8 @@
       "translations": {
         "lxx": "And if the thing stolen be left and be in his hand alive, whether ox or sheep, he shall restore them two-fold.",
         "kjv": "If the sun be risen upon him, there shall be blood shed for him; for he should make full restitution; if he have nothing, then he shall be sold for his theft.",
-        "ron": "Iar de se va face aceasta după ce a răsărit soarele, va fi vinovat şi pentru ucidere va fi ucis. Cel ce a furat va trebui să plătească tot şi de nu are cu ce, să fie vândut el pentru plata celor furate."
+        "ron": "Iar de se va face aceasta după ce a răsărit soarele, va fi vinovat şi pentru ucidere va fi ucis. Cel ce a furat va trebui să plătească tot şi de nu are cu ce, să fie vândut el pentru plata celor furate.",
+        "grk": "Ἐὰν δὲ καταλειφθῇ καὶ εὑρεθῇ ἐν τῇ χειρὶ αὐτοῦ τὸ κλέμμα ἀπό τε ὄνου ἕως προβάτου ζῶντα, διπλᾶ αὐτὰ ἀποτίσει."
       }
     },
     {
@@ -342,7 +345,8 @@
       "translations": {
         "lxx": "And if any one should feed down a field or a vineyard, and should send in his beast to feed down another field, he shall make compensation of his own field according to his produce; and if he shall have fed down the whole field, he shall pay for compensation the best of his own field and the best of his vineyard.",
         "kjv": "If the theft be certainly found in his hand alive, whether it be ox, or ass, or sheep; he shall restore double.",
-        "ron": "Iar de se va prinde furul şi cele furate se vor găsi la el vii, fie bou, oaie sau asin, să plătească îndoit."
+        "ron": "Iar de se va prinde furul şi cele furate se vor găsi la el vii, fie bou, oaie sau asin, să plătească îndoit.",
+        "grk": "Ἐὰν δὲ καταβοσκήσῃ τις ἀγρὸν ἢ ἀμπελῶνα, καὶ ἀφῇ τὸ κτῆνος αὐτοῦ καταβοσκῆσαι ἀγρὸν ἕτερον, ἀποτίσει ἐκ τοῦ ἀγροῦ αὐτοῦ κατὰ τὸ γέννημα αὐτοῦ· ἐὰν δὲ πάντα τὸν ἀγρὸν καταβοσκήσῃ, τὰ βέλτιστα τοῦ ἀγροῦ αὐτοῦ καὶ τὰ βέλτιστα τοῦ ἀμπελῶνος αὐτοῦ ἀποτίσει."
       }
     },
     {
@@ -409,7 +413,8 @@
       "translations": {
         "lxx": "And if fire have gone forth and caught thorns, and should also set on fire threshing-floors or ears of corn or a field, he that kindled the fire shall make compensation.",
         "kjv": "If a man shall cause a field or vineyard to be eaten, and shall put in his beast, and shall feed in another man’s field; of the best of his own field, and of the best of his own vineyard, shall he make restitution.",
-        "ron": "De va pricinui cineva pagubă într-o ţarină sau vie, lăsând vitele să pască, stricând ţarina altuia, să plătească din ţarina sa potrivit cu stricăciunea; iar de a păscut toată ţarina, să plătească despăgubire cu ce are mai bun în ţarina sa şi cu ce are mai bun în via sa."
+        "ron": "De va pricinui cineva pagubă într-o ţarină sau vie, lăsând vitele să pască, stricând ţarina altuia, să plătească din ţarina sa potrivit cu stricăciunea; iar de a păscut toată ţarina, să plătească despăgubire cu ce are mai bun în ţarina sa şi cu ce are mai bun în via sa.",
+        "grk": "Ἐὰν δὲ ἐξελθὸν πῦρ εὕρῃ ἀκάνθας, καὶ προσεμπρήσῃ ἅλωνας ἢ στάχυς ἢ πεδίον, ἀποτίσει ὁ τὸ πῦρ ἐκκαύσας."
       }
     },
     {
@@ -476,7 +481,8 @@
       "translations": {
         "lxx": "And if any one give to his neighbour money or goods to keep, and they be stolen out of the man's house, if the thief be found, he shall repay double.",
         "kjv": "If fire break out, and catch in thorns, so that the stacks of corn, or the standing corn, or the field, be consumed therewith; he that kindled the fire shall surely make restitution.",
-        "ron": "De va izbucni foc şi va cuprinde spini şi, întinzându-se, va arde clăi, sau snopi, sau holdă, să plătească despăgubire îndoit cel ce a aprins focul."
+        "ron": "De va izbucni foc şi va cuprinde spini şi, întinzându-se, va arde clăi, sau snopi, sau holdă, să plătească despăgubire îndoit cel ce a aprins focul.",
+        "grk": "Ἐὰν δέ τις δῷ τῷ πλησίον ἀργύριον ἢ σκεύη φυλάξαι, καὶ κλαπῇ ἐκ τῆς οἰκίας τοῦ ἀνθρώπου, ἐὰν εὑρεθῇ ὁ κλέψας, ἀποτίσει τὸ διπλοῦν."
       }
     },
     {
@@ -558,7 +564,8 @@
       "translations": {
         "lxx": "But if the thief be not found, the master of the house shall come forward before God, and shall swear that surely he has not wrought wickedly in regard of any part of his neighbour's deposit,",
         "kjv": "If a man shall deliver unto his neighbour money or stuff to keep, and it be stolen out of the man’s house; if the thief be found, let him pay double.",
-        "ron": "De va da cineva vecinului său argint sau lucruri să le păstreze şi acelea vor fi furate din casa acestui om, de se va găsi furul, să le plătească îndoit;"
+        "ron": "De va da cineva vecinului său argint sau lucruri să le păstreze şi acelea vor fi furate din casa acestui om, de se va găsi furul, să le plătească îndoit;",
+        "grk": "Ἐὰν δὲ μὴ εὑρεθῇ ὁ κλέψας, προσελεύσεται ὁ κύριος τῆς οἰκίας ἐνώπιον τοῦ Θεοῦ, καὶ ὀμεῖται ἦ μὴν μὴ αὐτὸν πεπονηρεῦσθαι ἐφʼ ὅλης τῆς παρακαταθήκης τοῦ πλησίον,"
       }
     },
     {
@@ -660,7 +667,8 @@
       "translations": {
         "lxx": "according to every injury alleged, both concerning a calf, and an ass, and a sheep, and a garment, and every alleged loss, whatsoever in fact it may be,—the judgment of both shall proceed before God, and he that is convicted by God shall repay to his neighbour double.",
         "kjv": "If the thief be not found, then the master of the house shall be brought unto the judges, to see whether he have put his hand unto his neighbour’s goods.",
-        "ron": "Iar de nu se va găsi furul, să vină stăpânul casei înaintea judecătorilor şi să jure că nu şi-a întins mâna asupra lucrului aproapelui său."
+        "ron": "Iar de nu se va găsi furul, să vină stăpânul casei înaintea judecătorilor şi să jure că nu şi-a întins mâna asupra lucrului aproapelui său.",
+        "grk": "κατὰ πᾶν ῥητὸν ἀδίκημα, περί τε μόσχου, καὶ ὑποζυγίου, καὶ προβάτου, καὶ ἱματίου, καὶ πάσης ἀπωλίας τῆς ἐνκαλουμένης· ὅ, τι οὖν ἂν ᾖ, ἐνώπιον τοῦ Θεοῦ ἐλεύσεται ἡ κρίσις ἀμφοτέρων, καὶ ὁ ἁλοὺς διὰ τοῦ Θεοῦ, ἀποτίσει διπλοῦν τῷ πλησίον."
       }
     },
     {
@@ -757,7 +765,8 @@
       "translations": {
         "lxx": "And if any one give to his neighbour to keep a calf or sheep or any beast, and it be wounded or die or be taken, and no one know,",
         "kjv": "For all manner of trespass, whether it be for ox, for ass, for sheep, for raiment, or for any manner of lost thing, which another challengeth to be his, the cause of both parties shall come before the judges; and whom the judges shall condemn, he shall pay double unto his neighbour.",
-        "ron": "Pentru tot lucrul care s-ar putea fura: bou sau asin, oaie sau haină, sau orice lucru pierdut, despre care va zice cineva: \"Acesta este al meu!\" pricina amândurora trebuie să fie adusă înaintea judecătorilor, şi cel ce va fi osândit de judecători să plătească aproapelui său îndoit."
+        "ron": "Pentru tot lucrul care s-ar putea fura: bou sau asin, oaie sau haină, sau orice lucru pierdut, despre care va zice cineva: \"Acesta este al meu!\" pricina amândurora trebuie să fie adusă înaintea judecătorilor, şi cel ce va fi osândit de judecători să plătească aproapelui său îndoit.",
+        "grk": "Ἐὰν δέ τις δῷ τῷ πλησίον ὑποζύγιον ἢ μόσχον ἢ πρόβατον ἢ πᾶν κτῆνος φυλάξαι, καὶ συντριβῇ ἢ τελευτήσῃ ἢ αἰχμάλωτον γένηται, καὶ μηδεὶς γνῷ,"
       }
     },
     {
@@ -824,7 +833,8 @@
       "translations": {
         "lxx": "an oath of God shall be between both, each swearing that he has surely not at all been guilty in the matter of his neighbour's deposit; and so his master shall hold him guiltless, and he shall not make compensation.",
         "kjv": "If a man deliver unto his neighbour an ass, or an ox, or a sheep, or any beast, to keep; and it die, or be hurt, or driven away, no man seeing it:",
-        "ron": "De va da cineva spre pază aproapelui său asin sau bou, sau oaie, sau alt dobitoc şi va muri, sau va fi vătămat, sau luat fără să ştie cineva,"
+        "ron": "De va da cineva spre pază aproapelui său asin sau bou, sau oaie, sau alt dobitoc şi va muri, sau va fi vătămat, sau luat fără să ştie cineva,",
+        "grk": "ὅρκος ἔσται τοῦ Θεοῦ ἀνὰ μέσον ἀμφοτέρων, ἦ μὴν μὴ αὐτὸν πεπονηρεῦσθαι καθόλου τῆς παρακαταθήκης τοῦ πλησίον· καὶ οὕτως προσδέξεται ὁ κύριος αὐτοῦ, καὶ οὐκ ἀποτίσει."
       }
     },
     {
@@ -861,7 +871,8 @@
       "translations": {
         "lxx": "And if it be stolen from him, he shall make compensation to the owner.",
         "kjv": "Then shall an oath of the LORD be between them both, that he hath not put his hand unto his neighbour’s goods; and the owner of it shall accept thereof, and he shall not make it good.",
-        "ron": "Să facă amândoi jurământ înaintea Domnului, că cel ce a luat pe seama sa nu şi-a întins mâna asupra lucrului aproapelui său, şi aşa stăpânul trebuie să primească jurământul, iar celălalt nu va avea să-l despăgubească;"
+        "ron": "Să facă amândoi jurământ înaintea Domnului, că cel ce a luat pe seama sa nu şi-a întins mâna asupra lucrului aproapelui său, şi aşa stăpânul trebuie să primească jurământul, iar celălalt nu va avea să-l despăgubească;",
+        "grk": "Ἐὰν δὲ κλαπῇ παρʼ αὐτοῦ, ἀποτίσει τῷ κυρίῳ·"
       }
     },
     {
@@ -908,7 +919,8 @@
       "translations": {
         "lxx": "And if it be seized of beasts, he shall bring him to witness the prey, and he shall not make compensation.",
         "kjv": "And if it be stolen from him, he shall make restitution unto the owner thereof.",
-        "ron": "Iar de se va fura de la el, să plătească stăpânului despăgubire."
+        "ron": "Iar de se va fura de la el, să plătească stăpânului despăgubire.",
+        "grk": "Ἐὰν δὲ θηριάλωτον γένηται, ἄξει αὐτὸν ἐπὶ τὴν θήραν, καὶ οὐκ ἀποτίσει."
       }
     },
     {
@@ -975,7 +987,8 @@
       "translations": {
         "lxx": "And if any one borrow ought of his neighbour, and it be wounded or die or be carried away, and the owner of it be not with it, he shall make compensation.",
         "kjv": "If it be torn in pieces, then let him bring it for witness, and he shall not make good that which was torn.",
-        "ron": "Dacă însă va fi sfâşiat de fiară, să-i aducă ceea ce a rămas ca mărturie şi nu va plăti despăgubire pentru vita sfâşiată."
+        "ron": "Dacă însă va fi sfâşiat de fiară, să-i aducă ceea ce a rămas ca mărturie şi nu va plăti despăgubire pentru vita sfâşiată.",
+        "grk": "Ἐὰν δὲ αἰτήσῃ τις παρὰ τοῦ πλησίον, καὶ συντριβῇ ἢ ἀποθάνῃ ἢ αἰχμάλωτον γένηται, ὁ δὲ κύριος μὴ ᾖ μετʼ αὐτοῦ, ἀποτίσει."
       }
     },
     {
@@ -1027,7 +1040,8 @@
       "translations": {
         "lxx": "But if the owner be with it, he shall not make compensation: but if it be a hired thing, there shall be a compensation to him instead of his hire.",
         "kjv": "And if a man borrow ought of his neighbour, and it be hurt, or die, the owner thereof being not with it, he shall surely make it good.",
-        "ron": "De va împrumuta cineva de la aproapele său vită şi aceea se va vătăma sau va pieri, şi stăpânul ei nu va fi cu ea, să o plătească;"
+        "ron": "De va împrumuta cineva de la aproapele său vită şi aceea se va vătăma sau va pieri, şi stăpânul ei nu va fi cu ea, să o plătească;",
+        "grk": "Ἐὰν δὲ ὁ κύριος ᾖ μετʼ αὐτοῦ, οὐκ ἀποτίσει· ἐὰν δὲ μισθωτὸς ᾖ, ἔσται αὐτῷ ἀντὶ τοῦ μισθοῦ αὐτοῦ."
       }
     },
     {
@@ -1089,7 +1103,8 @@
       "translations": {
         "lxx": "And if any one deceive a virgin that is not betrothed, and lie with her, he shall surely endow her for a wife to himself.",
         "kjv": "But if the owner thereof be with it, he shall not make it good: if it be an hired thing, it came for his hire.",
-        "ron": "Iar dacă stăpânul ei a fost cu ea, să nu o plătească. Iar dacă a fost închiriată cu bani, se va socoti pentru chiria aceea."
+        "ron": "Iar dacă stăpânul ei a fost cu ea, să nu o plătească. Iar dacă a fost închiriată cu bani, se va socoti pentru chiria aceea.",
+        "grk": "Ἐὰν δὲ ἀπατήσῃ τις παρθένον ἀμνήστευτον, καὶ κοιμηθῇ μετʼ αὐτῆς, φερνῇ φερνιεῖ αὐτὴν αὐτῷ γυναῖκα."
       }
     },
     {
@@ -1161,7 +1176,8 @@
       "translations": {
         "lxx": "And if her father positively refuse, and will not consent to give her to him for a wife, he shall pay compensation to her father according to the amount of the dowry of virgins.",
         "kjv": "And if a man entice a maid that is not betrothed, and lie with her, he shall surely endow her to be his wife.",
-        "ron": "De va amăgi cineva o fată nelogodită şi se va culca cu ea, să o înzestreze şi să o ia de soţie;"
+        "ron": "De va amăgi cineva o fată nelogodită şi se va culca cu ea, să o înzestreze şi să o ia de soţie;",
+        "grk": "Ἐὰν δὲ ἀνανεύων ἀνανεύσῃ, καὶ μὴ βούληται ὁ πατὴρ αὐτῆς δοῦναι αὐτὴν αὐτῷ γυναῖκα, ἀργύριον ἀποτίσει τῷ πατρὶ καθʼ ὅσον ἐστὶν ἡ φερνὴ τῶν παρθένων."
       }
     },
     {
@@ -1183,7 +1199,8 @@
       "translations": {
         "lxx": "Ye shall not save the lives of sorcerers.",
         "kjv": "If her father utterly refuse to give her unto him, he shall pay money according to the dowry of virgins.",
-        "ron": "Iar dacă tatăl ei se va feri şi nu va voi să o dea lui de femeie, atunci el să plătească tatălui fetei bani câţi se cer pentru înzestrarea fetelor."
+        "ron": "Iar dacă tatăl ei se va feri şi nu va voi să o dea lui de femeie, atunci el să plătească tatălui fetei bani câţi se cer pentru înzestrarea fetelor.",
+        "grk": "Φαρμακοὺς οὐ περιποιήσετε."
       }
     },
     {
@@ -1220,7 +1237,8 @@
       "translations": {
         "lxx": "Every one that lies with a beast ye shall surely put to death.",
         "kjv": "Thou shalt not suffer a witch to live.",
-        "ron": "Pe vrăjitori să nu-i lăsaţi să trăiască!"
+        "ron": "Pe vrăjitori să nu-i lăsaţi să trăiască!",
+        "grk": "Πᾶν κοιμώμενον μετὰ κτήνους θανάτῳ ἀποκτενεῖτε αὐτούς."
       }
     },
     {
@@ -1262,7 +1280,8 @@
       "translations": {
         "lxx": "He that sacrifices to any gods but to the Lord alone, shall be destroyed by death.",
         "kjv": "Whosoever lieth with a beast shall surely be put to death.",
-        "ron": "Tot cel ce se împreună cu dobitoc să fie omorât."
+        "ron": "Tot cel ce se împreună cu dobitoc să fie omorât.",
+        "grk": "Ὁ θυσιάζων θεοῖς θανάτῳ ἐξολοθρευθήσεται, πλὴν Κυρίῳ μόνῳ."
       }
     },
     {
@@ -1319,7 +1338,8 @@
       "translations": {
         "lxx": "And ye shall not hurt a stranger, nor afflict him; for ye were strangers in the land of Egypt.",
         "kjv": "He that sacrificeth unto any god, save unto the LORD only, he shall be utterly destroyed.",
-        "ron": "Cel ce jertfeşte la alţi dumnezei, afară de Domnul, să se piardă."
+        "ron": "Cel ce jertfeşte la alţi dumnezei, afară de Domnul, să se piardă.",
+        "grk": "Καὶ προσήλυτον οὐ κακώσετε, οὐδὲ μὴ θλίψητε αὐτόν· ἦτε γάρ προσήλυτοι ἐν γῇ Αἰγύπτῳ."
       }
     },
     {
@@ -1356,7 +1376,8 @@
       "translations": {
         "lxx": "Ye shall hurt no widow or orphan.",
         "kjv": "Thou shalt neither vex a stranger, nor oppress him: for ye were strangers in the land of Egypt.",
-        "ron": "Pe străin să nu-l strâmtorezi, nici să-l apeşi, căci şi voi aţi fost străini în pământul Egiptului."
+        "ron": "Pe străin să nu-l strâmtorezi, nici să-l apeşi, căci şi voi aţi fost străini în pământul Egiptului.",
+        "grk": "Πᾶσαν χήραν καὶ ὀρφανὸν οὐ κακώσετε."
       }
     },
     {
@@ -1413,7 +1434,8 @@
       "translations": {
         "lxx": "And if ye should afflict them by ill-treatment, and they should cry aloud to me, I will surely hear their voice.",
         "kjv": "Ye shall not afflict any widow, or fatherless child.",
-        "ron": "La nici o văduvă şi la nici un orfan să nu le faceţi rău!"
+        "ron": "La nici o văduvă şi la nici un orfan să nu le faceţi rău!",
+        "grk": "Ἐὰν δὲ κακίᾳ κακώσητε αὐτοὺς, καὶ κεκράξαντες καταβοήσωσι πρός με, ἀκοῇ εἰσακούσομαι τῆς φωνῆς αὐτῶν,"
       }
     },
     {
@@ -1475,7 +1497,8 @@
       "translations": {
         "lxx": "And I will be very angry, and will slay you with the sword, and your wives shall be widows and your children orphans.",
         "kjv": "If thou afflict them in any wise, and they cry at all unto me, I will surely hear their cry;",
-        "ron": "Iar de le veţi face rău şi vor striga către Mine, voi auzi plângerea lor,"
+        "ron": "Iar de le veţi face rău şi vor striga către Mine, voi auzi plângerea lor,",
+        "grk": "καὶ ὀργισθήσομαι θυμῷ, καὶ ἀποκτενῶ ὑμᾶς μαχαίρᾳ, καὶ ἔσονται αἱ γυναῖκες ὑμῶν χῆραι, καὶ τὰ παιδία ὑμῶν ὀρφανά."
       }
     },
     {
@@ -1522,7 +1545,8 @@
       "translations": {
         "lxx": "And if thou shouldest lend money to thy poor brother who is by thee, thou shalt not be hard upon him, thou shalt not exact usury of him.",
         "kjv": "And my wrath shall wax hot, and I will kill you with the sword; and your wives shall be widows, and your children fatherless.",
-        "ron": "Şi se va aprinde mânia Mea şi vă voi ucide cu sabia şi vor fi femeile voastre văduve şi copiii voştri orfani."
+        "ron": "Şi se va aprinde mânia Mea şi vă voi ucide cu sabia şi vor fi femeile voastre văduve şi copiii voştri orfani.",
+        "grk": "Ἐὰν δὲ ἀργύριον ἐκδανείσῃς τῷ ἀδελφῷ τῷ πενιχρῷ παρὰ σοὶ, οὐκ ἔσῃ αὐτὸν κατεπείγων, οὐκ ἐπιθήσεις αὐτῷ τόκον."
       }
     },
     {
@@ -1579,7 +1603,8 @@
       "translations": {
         "lxx": "And if thou take thy neighbour's garment for a pledge, thou shalt restore it to him before sunset.",
         "kjv": "If thou lend money to any of my people that is poor by thee, thou shalt not be to him as an usurer, neither shalt thou lay upon him usury.",
-        "ron": "De vei împrumuta bani fratelui sărac din poporul Meu, să nu-l strâmtorezi şi să nu-i pui camătă."
+        "ron": "De vei împrumuta bani fratelui sărac din poporul Meu, să nu-l strâmtorezi şi să nu-i pui camătă.",
+        "grk": "Ἐὰν δὲ ἐνεχύρασμα ἐνεχυράσῃς τὸ ἱμάτιον τοῦ πλησίον, πρὸ δυσμῶν ἡλίου ἀποδώσεις αὐτῷ·"
       }
     },
     {
@@ -1676,7 +1701,8 @@
       "translations": {
         "lxx": "For this is his clothing, this is the only covering of his nakedness; wherein shall he sleep? If then he shall cry to me, I will hearken to him, for I am merciful.",
         "kjv": "If thou at all take thy neighbour’s raiment to pledge, thou shalt deliver it unto him by that the sun goeth down:",
-        "ron": "De vei lua zălog haina aproapelui tău, să i-l întorci până la asfinţitul soarelui,"
+        "ron": "De vei lua zălog haina aproapelui tău, să i-l întorci până la asfinţitul soarelui,",
+        "grk": "Ἔστι γὰρ τοῦτο περιβόλαιον αὐτοῦ, μόνον τοῦτο τὸ ἱμάτιον ἀσχημοσύνης αὐτοῦ· ἐν τίνι κοιμηθήσεται; Ἐὰν οὖν καταβοήσῃ πρός μέ, εἰσακούσομαι αὐτοῦ· ἐλεήμων γάρ εἰμι."
       }
     },
     {
@@ -1718,7 +1744,8 @@
       "translations": {
         "lxx": "Thou shalt not revile the gods, nor speak ill of the ruler of thy people.",
         "kjv": "For that is his covering only, it is his raiment for his skin: wherein shall he sleep? and it shall come to pass, when he crieth unto me, that I will hear; for I am gracious.",
-        "ron": "Căci aceasta este învelitoarea lui, aceasta este singura îmbrăcăminte pentru goliciunea sa. fn ce va dormi el? Deci de va striga către Mine, îl voi auzi, pentru că sunt milostiv."
+        "ron": "Căci aceasta este învelitoarea lui, aceasta este singura îmbrăcăminte pentru goliciunea sa. fn ce va dormi el? Deci de va striga către Mine, îl voi auzi, pentru că sunt milostiv.",
+        "grk": "Θεοὺς οὐ κακολογήσεις, καὶ ἄρχοντα τοῦ λαοῦ σου οὐ κακῶς ἐρεῖς."
       }
     },
     {
@@ -1765,7 +1792,8 @@
       "translations": {
         "lxx": "Thou shalt not keep back the first-fruits of thy threshing floor and press. The first-born of thy sons thou shalt give to me.",
         "kjv": "Thou shalt not revile the gods, nor curse the ruler of thy people.",
-        "ron": "Pe judecători să nu-i grăieşti de rău şi pe căpetenia poporului tău să nu o huleşti!"
+        "ron": "Pe judecători să nu-i grăieşti de rău şi pe căpetenia poporului tău să nu o huleşti!",
+        "grk": "Ἀπαρχὰς ἅλωνος καὶ ληνοῦ σου οὐ καθυστερήσεις· τὰ πρωτότοκα τῶν υἱῶν σου δώσεις ἐμοί."
       }
     },
     {
@@ -1852,7 +1880,8 @@
       "translations": {
         "lxx": "So shalt thou do with thy calf and thy sheep and thine ass; seven days shall it be under the mother, and the eighth day thou shalt give it to me.",
         "kjv": "Thou shalt not delay to offer the first of thy ripe fruits, and of thy liquors: the firstborn of thy sons shalt thou give unto me.",
-        "ron": "Nu întârzia a-Mi aduce pârga ariei tale şi a teascului tău; pe cel întâi-născut din fiii tăi să Mi-l dai Mic!"
+        "ron": "Nu întârzia a-Mi aduce pârga ariei tale şi a teascului tău; pe cel întâi-născut din fiii tăi să Mi-l dai Mic!",
+        "grk": "Οὕτω ποιήσεις τὸν μόσχον σου καὶ τὸ πρόβατόν σου καὶ τὸ ὑποζύγιόν σου· ἑπτὰ ἡμέρας ἔσται ὑπὸ τὴν μητέρα, τῇ δὲ ὀγδόῃ ἡμέρᾳ ἀποδώσεις μοι αὐτό."
       }
     },
     {
@@ -1909,7 +1938,8 @@
       "translations": {
         "lxx": "And ye shall be holy men to me; and ye shall not eat flesh taken of beasts, ye shall cast it to the dog.",
         "kjv": "Likewise shalt thou do with thine oxen, and with thy sheep: seven days it shall be with his dam; on the eighth day thou shalt give it me.",
-        "ron": "Asemenea să faci cu boul tău, cu oaia ta şi cu asinul tău: şapte zile să fie ei la mama lor, iar în ziua a opta să Mi le dai Mie!"
+        "ron": "Asemenea să faci cu boul tău, cu oaia ta şi cu asinul tău: şapte zile să fie ei la mama lor, iar în ziua a opta să Mi le dai Mie!",
+        "grk": "Καὶ ἄνδρες ἅγιοι ἔσεσθέ μοι· καὶ κρέας θηριάλωτον οὐκ ἔδεσθε, τῷ κυνὶ ἀποῤῥίψατε αὐτό."
       }
     }
   ],

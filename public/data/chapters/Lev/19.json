@@ -31,7 +31,8 @@
       "translations": {
         "lxx": "And the Lord spoke to Moses, saying,",
         "kjv": "And the LORD spake unto Moses, saying,",
-        "ron": "Grăit-a Domnul cu Moise şi a zis:"
+        "ron": "Grăit-a Domnul cu Moise şi a zis:",
+        "grk": "Καὶ ἐλάλησε Κύριος πρὸς Μωυσῆν, λέγων,"
       }
     },
     {
@@ -103,7 +104,8 @@
       "translations": {
         "lxx": "Speak to the congregation of the children of Israel, and thou shalt say to them, Ye shall be holy; for I the Lord your God am holy.",
         "kjv": "Speak unto all the congregation of the children of Israel, and say unto them, Ye shall be holy: for I the LORD your God am holy.",
-        "ron": "\"Vorbeşte la toată obştea fiilor lui Israel şi le zi; Fiţi sfinţi, că Eu, Domnul Dumnezeul vostru, sunt sfânt."
+        "ron": "\"Vorbeşte la toată obştea fiilor lui Israel şi le zi; Fiţi sfinţi, că Eu, Domnul Dumnezeul vostru, sunt sfânt.",
+        "grk": "λάλησον τῇ συναγωγῇ τῶν υἱῶν Ἰσραὴλ, καὶ ἐρεῖς πρὸς αὐτοῦς, ἅγιοι ἔσεσθε, ὅτι ἅγιος ἐγὼ Κύριος ὁ Θεὸς ὑμῶν."
       }
     },
     {
@@ -155,7 +157,8 @@
       "translations": {
         "lxx": "Let every one of you reverence his father and his mother; and ye shall keep my sabbaths: I am the Lord your God.",
         "kjv": "Ye shall fear every man his mother, and his father, and keep my sabbaths: I am the LORD your God.",
-        "ron": "Să cinstească fiecare pe tatăl său şi pe mama sa şi zilele Mele de odihnă să le păziţi, că Eu sunt Domnul Dumnezeul vostru."
+        "ron": "Să cinstească fiecare pe tatăl său şi pe mama sa şi zilele Mele de odihnă să le păziţi, că Eu sunt Domnul Dumnezeul vostru.",
+        "grk": "Ἕκαστος πατέρα αὐτοῦ καὶ μητέρα αὐτοῦ φοβείσθω, καὶ τὰ σάββατά μου φυλάξεσθε· ἐγὼ Κύριος ὁ Θεὸς ὑμῶν."
       }
     },
     {
@@ -222,7 +225,8 @@
       "translations": {
         "lxx": "Ye shall not follow idols, and ye shall not make to yourselves molten gods: I am the Lord your God.",
         "kjv": "Turn ye not unto idols, nor make to yourselves molten gods: I am the LORD your God.",
-        "ron": "Să nu alergaţi la idoli şi dumnezei turnaţi să nu vă faceţi, că Eu sunt Domnul Dumnezeul vostru."
+        "ron": "Să nu alergaţi la idoli şi dumnezei turnaţi să nu vă faceţi, că Eu sunt Domnul Dumnezeul vostru.",
+        "grk": "Οὐκ ἐπακολουθήσετε εἰδώλοις, καὶ θεοὺς χωνευτοὺς οὐ ποιήσετε ὑμῖν· ἐγὼ Κύριος ὁ Θεὸς ὑμῶν."
       }
     },
     {
@@ -269,7 +273,8 @@
       "translations": {
         "lxx": "And if ye will sacrifice a peace-offering to the Lord, ye shall offer it acceptable from yourselves.",
         "kjv": "And if ye offer a sacrifice of peace offerings unto the LORD, ye shall offer it at your own will.",
-        "ron": "De veţi aduce Domnului jertfă de izbăvire, să o aduceţi de bunăvoie."
+        "ron": "De veţi aduce Domnului jertfă de izbăvire, să o aduceţi de bunăvoie.",
+        "grk": "Καὶ ἐὰν θύσητε θυσίαν σωτηρίου τῷ Κυρίῳ, δεκτὴν ὑμῶν θύσετε."
       }
     },
     {
@@ -331,7 +336,8 @@
       "translations": {
         "lxx": "In what day soever ye shall sacrifice it, it shall be eaten; and on the following day, and if any of it should be left till the third day, it shall be thoroughly burnt with fire.",
         "kjv": "It shall be eaten the same day ye offer it, and on the morrow: and if ought remain until the third day, it shall be burnt in the fire.",
-        "ron": "Şi să o mâncaţi în ziua aducerii şi a doua zi, iar ce va rămâne pentru a treia zi să ardeţi cu foc."
+        "ron": "Şi să o mâncaţi în ziua aducerii şi a doua zi, iar ce va rămâne pentru a treia zi să ardeţi cu foc.",
+        "grk": "ᾟ ἂν ἡμέρᾳ θύσετε, βρωθήσεται, καὶ τῇ αὔριον· καὶ ἐὰν καταλειφθῇ ἕως ἡμέρας τρίτης, ἐν πυρὶ κατακαυθήσεται."
       }
     },
     {
@@ -373,7 +379,8 @@
       "translations": {
         "lxx": "And if it should be at all eaten on the third day, it is unfit for sacrifice: it shall not be accepted.",
         "kjv": "And if it be eaten at all on the third day, it is abominable; it shall not be accepted.",
-        "ron": "Iar de va mânca cineva a treia zi, va face urâciune şi jertfa nu va fi primită;"
+        "ron": "Iar de va mânca cineva a treia zi, va face urâciune şi jertfa nu va fi primită;",
+        "grk": "Ἐὰν δὲ βρώσει βρωθῇ τῇ ἡμέρᾳ τῇ τρίτῃ, ἄθυτόν ἐστιν, οὐ δεχθήσεται."
       }
     },
     {
@@ -455,7 +462,8 @@
       "translations": {
         "lxx": "And he that eats it shall bear his iniquity, because he has profaned the holy things of the Lord; and the souls that eat it shall be destroyed from among their people.",
         "kjv": "Therefore every one that eateth it shall bear his iniquity, because he hath profaned the hallowed thing of the LORD: and that soul shall be cut off from among his people.",
-        "ron": "Cel ce va mânca va agonisi păcat, că acela a spurcat lucrul sfânt al Domnului şi sufletul acela se va stârpi din poporul său."
+        "ron": "Cel ce va mânca va agonisi păcat, că acela a spurcat lucrul sfânt al Domnului şi sufletul acela se va stârpi din poporul său.",
+        "grk": "Ὁ δὲ ἔσθων αὐτὸ, ἁμαρτίαν λήψεται, ὅτι τὰ ἅγια Κυρίου ἐβεβήλωσε· καὶ ἐξολοθρευθήσονται αἱ ψυχαὶ αἱ ἔσθουσαι ἐκ τοῦ λαοῦ αὐτῶν."
       }
     },
     {
@@ -532,7 +540,8 @@
       "translations": {
         "lxx": "And when ye reap the harvest of your land, ye shall not complete the reaping of your field with exactness, and thou shalt not gather that which falls from thy reaping.",
         "kjv": "And when ye reap the harvest of your land, thou shalt not wholly reap the corners of thy field, neither shalt thou gather the gleanings of thy harvest.",
-        "ron": "Când veţi secera holdele voastre în pământul vostru, să nu seceri tot până la fir în ogorul tău şi ceea ce rămâne după secerişul tău să nu aduni;"
+        "ron": "Când veţi secera holdele voastre în pământul vostru, să nu seceri tot până la fir în ogorul tău şi ceea ce rămâne după secerişul tău să nu aduni;",
+        "grk": "Καὶ ἐκθεριζόντων ὑμῶν τὸν θερισμὸν τῆς γῆς ὑμῶν, οὐ συντελέσετε τὸν θερισμὸν ὑμῶν τοῦ ἀγροῦ σου ἐκθερίσαι· καὶ τὰ ἀποπίπτοντα τοῦ θερισμοῦ σου οὐ συλλέξεις,"
       }
     },
     {
@@ -619,7 +628,8 @@
       "translations": {
         "lxx": "And thou shalt not go over the gathering of thy vineyard, neither shalt thou gather the remaining grapes of thy vineyard: thou shalt leave them for the poor and the stranger: I am the Lord your God.",
         "kjv": "And thou shalt not glean thy vineyard, neither shalt thou gather every grape of thy vineyard; thou shalt leave them for the poor and stranger: I am the LORD your God.",
-        "ron": "Şi în via ta să nu culegi strugurii rămaşi, nici boabele ce cad în via ta să nu le aduni; lasă-le pe acestea săracului şi străinului, că Eu sunt Domnul Dumnezeul tău."
+        "ron": "Şi în via ta să nu culegi strugurii rămaşi, nici boabele ce cad în via ta să nu le aduni; lasă-le pe acestea săracului şi străinului, că Eu sunt Domnul Dumnezeul tău.",
+        "grk": "καὶ τὸν ἀμπελῶνά σου οὐκ ἐπανατρυγήσεις, οὐδὲ τὰς ῥῶγας τοῦ ἀμπελῶνός σου συλλέξεις· τῷ πτωχῷ καὶ τῷ προσηλύτῳ καταλείψεις αὐτά. ἐγώ εἰμι Κύριος ὁ Θεὸς ὑμῶν."
       }
     },
     {
@@ -656,7 +666,8 @@
       "translations": {
         "lxx": "Ye shall not steal, ye shall not lie, neither shall one bear false witness as an informer against his neighbour.",
         "kjv": "Ye shall not steal, neither deal falsely, neither lie one to another.",
-        "ron": "Să nu furaţi, să nu spuneţi minciună şi să nu înşele nimeni pe aproapele său."
+        "ron": "Să nu furaţi, să nu spuneţi minciună şi să nu înşele nimeni pe aproapele său.",
+        "grk": "Οὐ κλέψετε, οὐ ψεύσεσθε, οὐδὲ συκοφαντήσει ἕκαστος τὸν πλησίον."
       }
     },
     {
@@ -723,7 +734,8 @@
       "translations": {
         "lxx": "And ye shall not swear unjustly by my name, and ye shall not profane the holy name of your God: I am the Lord your God.",
         "kjv": "And ye shall not swear by my name falsely, neither shalt thou profane the name of thy God: I am the LORD.",
-        "ron": "Să nu vă juraţi strâmb pe numele Meu şi să nu pângăriţi numele cel sfânt al Dumnezeului vostru, că Eu sunt Domnul Dumnezeul vostru."
+        "ron": "Să nu vă juraţi strâmb pe numele Meu şi să nu pângăriţi numele cel sfânt al Dumnezeului vostru, că Eu sunt Domnul Dumnezeul vostru.",
+        "grk": "Καὶ οὐκ ὀμεῖσθε τῷ ὀνόματί μου ἐπʼ ἀδίκῳ, καὶ οὐ βεβηλώσετε τὸ ὄνομα τὸ ἅγιον τοῦ Θεοῦ ὑμῶν· ἐγώ εἰμι Κύριος ὁ Θεὸς ὑμῶν."
       }
     },
     {
@@ -780,7 +792,8 @@
       "translations": {
         "lxx": "Thou shalt not injure thy neighbour, neither do thou rob him, neither shall the wages of thy hireling remain with thee until the morning.",
         "kjv": "Thou shalt not defraud thy neighbour, neither rob him: the wages of him that is hired shall not abide with thee all night until the morning.",
-        "ron": "Să nu nedreptăţeşti pe aproapele şi să nu-l jefuieşti. Plata simbriaşului să nu rămână la tine până a doua zi."
+        "ron": "Să nu nedreptăţeşti pe aproapele şi să nu-l jefuieşti. Plata simbriaşului să nu rămână la tine până a doua zi.",
+        "grk": "Οὐκ ἀδικήσεις τὸν πλησίον, καὶ οὐχ ἁρπᾷ· καὶ οὐ μὴ κοιμηθήσεται ὁ μισθὸς τοῦ μισθωτοῦ σου παρὰ σοὶ ἕως πρωΐ."
       }
     },
     {
@@ -867,7 +880,8 @@
       "translations": {
         "lxx": "Thou shalt not revile the deaf, neither shalt thou put a stumbling-block in the way of the blind; and thou shalt fear the Lord thy God: I am the Lord your God.",
         "kjv": "Thou shalt not curse the deaf, nor put a stumblingblock before the blind, but shalt fear thy God: I am the LORD.",
-        "ron": "Să nu grăieşti de rău pe surd şi înaintea orbului să nu pui piedică. Să te temi de Domnul Dumnezeul tău. Eu sunt Domnul Dumnezeul tău."
+        "ron": "Să nu grăieşti de rău pe surd şi înaintea orbului să nu pui piedică. Să te temi de Domnul Dumnezeul tău. Eu sunt Domnul Dumnezeul tău.",
+        "grk": "Οὐ κακῶς ἐρεῖς κωφόν, καὶ ἀπέναντι τυφλοῦ οὐ προσθήσεις σκάνδαλον· καὶ φοβηθήσῃ Κύριον τὸν Θεόν σου· ἐγώ εἰμι Κύριος ὁ Θεὸς ὑμῶν."
       }
     },
     {
@@ -944,7 +958,8 @@
       "translations": {
         "lxx": "Thou shalt not act unjustly in judgment: thou shalt not accept the person of the poor, nor admire the person of the mighty; with justice shalt thou judge thy neighbour.",
         "kjv": "Ye shall do no unrighteousness in judgment: thou shalt not respect the person of the poor, nor honor the person of the mighty: but in righteousness shalt thou judge thy neighbour.",
-        "ron": "Să nu faceţi nedreptate la judecată; să nu căutaţi la faţa celui sărac şi de faţa celui puternic să nu te sfieşti, ci cu dreptate să judeci pe aproapele tău."
+        "ron": "Să nu faceţi nedreptate la judecată; să nu căutaţi la faţa celui sărac şi de faţa celui puternic să nu te sfieşti, ci cu dreptate să judeci pe aproapele tău.",
+        "grk": "Οὐ ποιήσετε ἄδικον ἐν κρίσει· οὐ λήψῃ πρόσωπον πτωχοῦ, οὐδὲ μὴ θαυμάσῃς πρόσωπον δυνάστου· ἐν δικαιοσύνῃ κρίνεις τὸν πλησίον σου."
       }
     },
     {
@@ -1016,7 +1031,8 @@
       "translations": {
         "lxx": "Thou shalt not walk deceitfully among thy people; thou shalt not rise up against the blood of thy neighbour: I am the Lord your God.",
         "kjv": "Thou shalt not go up and down as a talebearer among thy people: neither shalt thou stand against the blood of thy neighbour: I am the LORD.",
-        "ron": "Să nu umbli cu clevetiri în poporul tău şi asupra vieţii aproapelui tău să nu te ridici. Eu sunt Domnul Dumnezeul vostru."
+        "ron": "Să nu umbli cu clevetiri în poporul tău şi asupra vieţii aproapelui tău să nu te ridici. Eu sunt Domnul Dumnezeul vostru.",
+        "grk": "Οὐ πορεύσῃ δόλῳ ἐν τῷ ἔθνει σου· οὐκ ἐπιστήσῃ ἐφʼ αἷμα τοῦ πλησίον σου· ἐγώ εἰμι Κύριος ὁ Θεὸς ὑμῶν."
       }
     },
     {
@@ -1073,7 +1089,8 @@
       "translations": {
         "lxx": "Thou shalt not hate thy brother in thine heart: thou shalt in any wise rebuke thy neighbour, so thou shalt not bear sin on his account.",
         "kjv": "Thou shalt not hate thy brother in thine heart: thou shalt in any wise rebuke thy neighbour, and not suffer sin upon him.",
-        "ron": "Să nu duşmăneşti pe fratele tău în inima ta, dar să mustri pe aproapele tău, ca să nu porţi păcatul lui."
+        "ron": "Să nu duşmăneşti pe fratele tău în inima ta, dar să mustri pe aproapele tău, ca să nu porţi păcatul lui.",
+        "grk": "Οὐ μισήσεις τὸν ἀδελφόν σου τῇ διανοίᾳ σου· ἐλεγμῷ ἐλέγξεις τὸν πλησίον σου, καὶ οὐ λήψῃ διʼ αὐτὸν ἁμαρτίαν."
       }
     },
     {
@@ -1150,7 +1167,8 @@
       "translations": {
         "lxx": "And thy hand shall not avenge thee; and thou shalt not be angry with the children of thy people; and thou shalt love thy neighbour as thyself; I am the Lord.",
         "kjv": "Thou shalt not avenge, nor bear any grudge against the children of thy people, but thou shalt love thy neighbour as thyself: I am the LORD.",
-        "ron": "Să nu te răzbuni cu mîna ta şi să nu ai ură asupra fiilor poporului tău, ci să iubeşti pe aproapele tău ca pe tine însuţi. Eu sunt Domnul Dumnezeul vostru."
+        "ron": "Să nu te răzbuni cu mîna ta şi să nu ai ură asupra fiilor poporului tău, ci să iubeşti pe aproapele tău ca pe tine însuţi. Eu sunt Domnul Dumnezeul vostru.",
+        "grk": "Καὶ οὐκ ἐκδικᾶταί σου ἡ χείρ· καὶ οὐ μηνιεῖς τοῖς υἱοῖς τοῦ λαοῦ σου· καὶ ἀγαπήσεις τὸν πλησίον σου ὡς σεαυτόν· ἐγώ εἰμι Κύριος."
       }
     },
     {
@@ -1257,7 +1275,8 @@
       "translations": {
         "lxx": "Ye shall observe my law: thou shalt not let thy cattle gender with one of a different kind, and thou shalt not sow thy vineyard with diverse seed; and thou shalt not put upon thyself a mingled garment woven of two materials.",
         "kjv": "Ye shall keep my statutes. Thou shalt not let thy cattle gender with a diverse kind: thou shalt not sow thy field with mingled seed: neither shall a garment mingled of linen and woollen come upon thee.",
-        "ron": "Legea Mea să o păziţi; vitele tale să nu le faci să se împreune cu alt soi; ogorul tău să nu-l semeni deodată cu două feluri de seminţe; cu haină ţesută din felurite torturi, de lână şi de în, să nu te îmbraci."
+        "ron": "Legea Mea să o păziţi; vitele tale să nu le faci să se împreune cu alt soi; ogorul tău să nu-l semeni deodată cu două feluri de seminţe; cu haină ţesută din felurite torturi, de lână şi de în, să nu te îmbraci.",
+        "grk": "Τὸν νόμον μου φυλάξεσθε· τὰ κτήνη σου οὐ κατοχεύσεις ἑτεροζύγῳ· καὶ τὸν ἀμπελῶνά σου οὐ κατασπερεῖς διάφορον· καὶ ἱμάτιον ἐκ δύο ὑφασμένον κίβδηλον οὐκ ἐπιβαλεῖς σεαυτῷ."
       }
     },
     {
@@ -1369,7 +1388,8 @@
       "translations": {
         "lxx": "And if any one lie carnally with a woman, and she should be a home-servant kept for a man, and she has not been ransomed, and her freedom has not been given to her, they shall be visited with punishment; but they shall not die, because she was not set at liberty.",
         "kjv": "And whosoever lieth carnally with a woman, that is a bondmaid, betrothed to an husband, and not at all redeemed, nor freedom given her; she shall be scourged; they shall not be put to death, because she was not free.",
-        "ron": "De va dormi cineva cu femeie, împreunându-se, şi aceea va fi roabă, logodită cu un bărbat, dar nerăscumpărată încă sau dacă nu i s-a dat încă slobozenia, să-i pedepsiţi pe amândoi, dar nu cu moarte, pentru că ea nu este slobodă,"
+        "ron": "De va dormi cineva cu femeie, împreunându-se, şi aceea va fi roabă, logodită cu un bărbat, dar nerăscumpărată încă sau dacă nu i s-a dat încă slobozenia, să-i pedepsiţi pe amândoi, dar nu cu moarte, pentru că ea nu este slobodă,",
+        "grk": "Καὶ ἐάν τις κοιμηθῇ μετὰ γυναικὸς κοίτην σπέρματος, καὶ αὕτη ᾖ οἰκέτις διαπεφυλαγμένη ἀνθρώπῳ, καὶ αὕτη λύτροις οὐ λελύτρωται, ἢ ἐλευθερία οὐκ ἐδόθη αὐτῇ, ἐπισκοπὴ ἔσται αὐτοῖς· οὐκ ἀποθανοῦνται, ὅτι οὐκ ἀπηλευθερώθη."
       }
     },
     {
@@ -1431,7 +1451,8 @@
       "translations": {
         "lxx": "And he shall bring for his trespass to the Lord to the door of the tabernacle of witness, a ram for a trespass-offering.",
         "kjv": "And he shall bring his trespass offering unto the LORD, unto the door of the tabernacle of the congregation, even a ram for a trespass offering.",
-        "ron": "Ci să aducă el Domnului, la uşa cortului adunării, jertfă de vină; un berbec să aducă jertfă pentru vina sa;"
+        "ron": "Ci să aducă el Domnului, la uşa cortului adunării, jertfă de vină; un berbec să aducă jertfă pentru vina sa;",
+        "grk": "Καὶ προσάξει τῆς πλημμελείας αὐτοῦ τῷ Κυρίῳ παρὰ τὴν θύραν τῆς σκηνῆς τοῦ μαρτυρίου κριὸν πλημμελείας."
       }
     },
     {
@@ -1528,7 +1549,8 @@
       "translations": {
         "lxx": "And the priest shall make atonement for him with the ram of the trespass-offering, before the Lord, for the sin which he sinned; and the sin which he sinned shall be forgiven him.",
         "kjv": "And the priest shall make an atonement for him with the ram of the trespass offering before the LORD for his sin which he hath done: and the sin which he hath done shall be forgiven him.",
-        "ron": "Şi preotul îl va curăţi de păcatul lui înaintea Domnului cu berbecul cel pentru vină şi i se va ierta lui păcatul pe care l-a făcut."
+        "ron": "Şi preotul îl va curăţi de păcatul lui înaintea Domnului cu berbecul cel pentru vină şi i se va ierta lui păcatul pe care l-a făcut.",
+        "grk": "Καὶ ἐξιλάσεται περὶ αὐτοῦ ὁ ἱερεὺς ἐν τῷ κριῷ τῆς πλημμελείας ἔναντι Κυρίου περὶ τῆς ἁμαρτίας ἧς ἥμαρτε, καὶ ἀφεθήσεται αὐτῷ ἡ ἁμαρτία ἣν ἥμαρτεν."
       }
     },
     {
@@ -1650,7 +1672,8 @@
       "translations": {
         "lxx": "And whenever ye shall enter into the land which the Lord your God gives you, and shall plant any fruit-tree, then shall ye purge away its uncleanness; its fruit shall be three years uncleansed to you, it shall not be eaten.",
         "kjv": "And when ye shall come into the land, and shall have planted all manner of trees for food, then ye shall count the fruit thereof as uncircumcised: three years shall it be as uncircumcised unto you: it shall not be eaten of.",
-        "ron": "Când veţi intra în pământul, pe care Domnul Dumnezeul vostru vi-l va da, şi veţi sădi orice pom roditor, să curăţiţi necurăţenia lui: trei ani să socotiţi roadele lui ca necurate şi să nu le mâncaţi;"
+        "ron": "Când veţi intra în pământul, pe care Domnul Dumnezeul vostru vi-l va da, şi veţi sădi orice pom roditor, să curăţiţi necurăţenia lui: trei ani să socotiţi roadele lui ca necurate şi să nu le mâncaţi;",
+        "grk": "Ὅταν δὲ εἰσέλθητε εἰς τὴν γῆν, ἣν Κύριος ὁ Θεὸς ὑμῶν δίδωσιν ὑμῖν, καὶ καταφυτεύσετε πᾶν ξύλον βρώσιμον, καὶ περικαθαριεῖτε τὴν ἀκαθαρσίαν αὐτοῦ· ὁ καρπὸς αὐτοῦ τρία ἔτη ἔσται ὑμῖν ἀπερικάθαρτος, οὐ βρωθήσεται."
       }
     },
     {
@@ -1702,7 +1725,8 @@
       "translations": {
         "lxx": "And in the fourth year all its fruit shall be holy, a subject of praise to the Lord.",
         "kjv": "But in the fourth year all the fruit thereof shall be holy to praise the LORD withal.",
-        "ron": "Iar în anul al patrulea toate roadele lui să fie afierosite Domnului, întru lauda Lui."
+        "ron": "Iar în anul al patrulea toate roadele lui să fie afierosite Domnului, întru lauda Lui.",
+        "grk": "Καὶ τῷ ἔτει τῷ τετάρτῳ ἔσται πᾶς ὁ καρπὸς αὐτοῦ ἅγιος αἰνετὸς τῷ Κυρίῳ."
       }
     },
     {
@@ -1769,7 +1793,8 @@
       "translations": {
         "lxx": "And in the fifth year ye shall eat the fruit, its produce is an increase to you. I am the Lord your God.",
         "kjv": "And in the fifth year shall ye eat of the fruit thereof, that it may yield unto you the increase thereof: I am the LORD your God.",
-        "ron": "Şi în anul al cincilea să mâncaţi din roadele lui şi să vă adunaţi toate roadele. Eu sunt Domnul Dumnezeul vostru."
+        "ron": "Şi în anul al cincilea să mâncaţi din roadele lui şi să vă adunaţi toate roadele. Eu sunt Domnul Dumnezeul vostru.",
+        "grk": "Ἐν δὲ τῷ ἔτει τῷ πέμπτῳ φάγεσθε τὸν καρπόν, πρόσθεμα ὑμῖν τὰ γεννήματα αὐτοῦ· ἐγώ εἰμι Κύριος ὁ Θεὸς ὑμῶν."
       }
     },
     {
@@ -1811,7 +1836,8 @@
       "translations": {
         "lxx": "Eat not on the mountains, nor shall ye employ auguries, nor divine by inspection of birds.",
         "kjv": "Ye shall not eat any thing with the blood: neither shall ye use enchantment, nor observe times.",
-        "ron": "Să nu mâncaţi cu sânge; să nu vrăjiţi, nici să ghiciţi."
+        "ron": "Să nu mâncaţi cu sânge; să nu vrăjiţi, nici să ghiciţi.",
+        "grk": "Μὴ ἔσθετε ἐπὶ τῶν ὀρέων, καὶ οὐκ οἰωνιεῖσθε, οὐδὲ ὀρνιθοσκοπήσεσθε."
       }
     },
     {
@@ -1868,7 +1894,8 @@
       "translations": {
         "lxx": "Ye shall not make a round cutting of the hair of your head, nor disfigure your beard.",
         "kjv": "Ye shall not round the corners of your heads, neither shalt thou mar the corners of thy beard.",
-        "ron": "Să nu vă tundeţi rotund părul capului vostru, nici să vă stricaţi faţa bărbii voastre."
+        "ron": "Să nu vă tundeţi rotund părul capului vostru, nici să vă stricaţi faţa bărbii voastre.",
+        "grk": "Οὐ ποιήσετε σισόην ἐκ τῆς κόμης τῆς κεφαλῆς ὑμῶν, οὐδὲ φθερεῖτε τὴν ὄψιν τοῦ πώγωνος ὑμῶν."
       }
     },
     {
@@ -1945,7 +1972,8 @@
       "translations": {
         "lxx": "And ye shall not make cuttings in your body for a dead body, and ye shall not inscribe on yourselves any marks. I am the Lord your God.",
         "kjv": "Ye shall not make any cuttings in your flesh for the dead, nor print any marks upon you: I am the LORD.",
-        "ron": "Pentru morţi să nu vă faceţi tăieturi pe trupurile voastre, nici semne cu împunsături să nu faceţi pe voi. Eu sunt Domnul Dumnezeul vostru."
+        "ron": "Pentru morţi să nu vă faceţi tăieturi pe trupurile voastre, nici semne cu împunsături să nu faceţi pe voi. Eu sunt Domnul Dumnezeul vostru.",
+        "grk": "Καὶ ἐντομίδας οὐ ποιήσετε ἐπὶ ψυχῇ ἐν τῷ σώματι ὑμῶν· καὶ γράμματα στικτὰ οὐ ποιήσετε ἐν ὑμῖν· ἐγώ εἰμι Κύριος ὁ Θεὸς ὑμῶν."
       }
     },
     {
@@ -1997,7 +2025,8 @@
       "translations": {
         "lxx": "Thou shalt not profane thy daughter to prostitute her; so the land shall not go a whoring, and the land be filled with iniquity.",
         "kjv": "Do not prostitute thy daughter, to cause her to be a whore; lest the land fall to whoredom, and the land become full of wickedness.",
-        "ron": "Să nu necinsteşti pe fiica ta, îngăduindu-i să facă desfrânare, ca să nu se desfrâneze pământul şi ca să nu se umple pământul de stricăciune."
+        "ron": "Să nu necinsteşti pe fiica ta, îngăduindu-i să facă desfrânare, ca să nu se desfrâneze pământul şi ca să nu se umple pământul de stricăciune.",
+        "grk": "Οὐ βεβηλώσεις τὴν θυγατέρα σου ἐκπορνεῦσαι αὐτήν· καὶ οὐκ ἐκπορνεύσει ἡ γῆ, καὶ ἡ γῆ πλησθήσεται ἀνομίας."
       }
     },
     {
@@ -2049,7 +2078,8 @@
       "translations": {
         "lxx": "Ye shall keep my sabbaths, and reverence my sanctuaries: I am the Lord.",
         "kjv": "Ye shall keep my sabbaths, and reverence my sanctuary: I am the LORD.",
-        "ron": "Zilele Mele de odihnă să le păzeşti şi locaşul Meu să-l cinsteşti. Eu sunt Domnul."
+        "ron": "Zilele Mele de odihnă să le păzeşti şi locaşul Meu să-l cinsteşti. Eu sunt Domnul.",
+        "grk": "Τὰ σάββατά μον φυλάξεσθε, καὶ ἀπὸ τῶν ἁγίων μου φοβηθήσεσθε· ἐγώ εἰμι Κύριος."
       }
     },
     {
@@ -2126,7 +2156,8 @@
       "translations": {
         "lxx": "Ye shall not attend to those who have in them divining spirits, nor attach yourselves to enchanters, to pollute yourselves with them: I am the Lord your God.",
         "kjv": "Regard not them that have familiar spirits, neither seek after wizards, to be defiled by them: I am the LORD your God.",
-        "ron": "Să nu alergaţi la cei ce cheamă morţii, pe la vrăjitori să nu umblaţi şi să nu vă întinaţi cu ei. Eu sunt Domnul Dumnezeul vostru."
+        "ron": "Să nu alergaţi la cei ce cheamă morţii, pe la vrăjitori să nu umblaţi şi să nu vă întinaţi cu ei. Eu sunt Domnul Dumnezeul vostru.",
+        "grk": "Οὐκ ἐπακολουθήσετε ἐγγαστριμύθοις, καὶ τοῖς ἐπαοιδοῖς οὐ προσκολληθήσεσθε, ἐκμιανθῆναι ἐν αὐτοῖς· ἐγώ εἰμι Κύριος ὁ Θεὸς ὑμῶν."
       }
     },
     {
@@ -2203,7 +2234,8 @@
       "translations": {
         "lxx": "Thou shalt rise up before the hoary head, and honour the face of the old man, and shalt fear thy God: I am the Lord your God.",
         "kjv": "Thou shalt rise up before the hoary head, and honour the face of the old man, and fear thy God: I am the LORD.",
-        "ron": "Înaintea celui cărunt să te scoli, să cinsteşti faţa bătrânului şi să te temi de Domnul Dumnezeul tău. Eu sunt Domnul Dumnezeul vostru."
+        "ron": "Înaintea celui cărunt să te scoli, să cinsteşti faţa bătrânului şi să te temi de Domnul Dumnezeul tău. Eu sunt Domnul Dumnezeul vostru.",
+        "grk": "Ἀπὸ προσώπου πολιοῦ ἐξαναστήσῃ, καὶ τιμήσεις πρόσωπον πρεσβυτέρου, καὶ φοβηθήσῃ τὸν Θεόν σου· ἐγώ εἰμι Κύριος ὁ Θεὸς ὑμῶν."
       }
     },
     {
@@ -2250,7 +2282,8 @@
       "translations": {
         "lxx": "And if there should come to you a stranger in your land, ye shall not afflict him.",
         "kjv": "And if a stranger sojourn with thee in your land, ye shall not vex him.",
-        "ron": "De se va aşeza vreun străin în pământul vostru, să nu-l strâmtoraţi."
+        "ron": "De se va aşeza vreun străin în pământul vostru, să nu-l strâmtoraţi.",
+        "grk": "Ἐὰν δέ τις προσέλθῃ ὑμῖν προσήλυτος ἐν τῇ γῇ ὑμῶν, οὐ θλίψετε αὐτόν."
       }
     },
     {
@@ -2357,7 +2390,8 @@
       "translations": {
         "lxx": "The stranger that comes to you shall be among you as the native, and thou shalt love him as thyself; for ye were strangers in the land of Egypt: I am the Lord your God.",
         "kjv": "But the stranger that dwelleth with you shall be unto you as one born among you, and thou shalt love him as thyself; for ye were strangers in the land of Egypt: I am the LORD your God.",
-        "ron": "Străinul, care s-a aşezat la voi, să fie pentru voi ca şi băştinaşul vostru; să-l iubiţi ca pe voi înşivă, că şi voi aţi fost străini în pământul Egiptului. Eu sunt Domnul Dumnezeul vostru."
+        "ron": "Străinul, care s-a aşezat la voi, să fie pentru voi ca şi băştinaşul vostru; să-l iubiţi ca pe voi înşivă, că şi voi aţi fost străini în pământul Egiptului. Eu sunt Domnul Dumnezeul vostru.",
+        "grk": "Ὡς ὁ αὐτόχθων ἐν ὑμῖν ἔσται ὁ προσήλυτος ὁ προσπορευόμενος πρὸς ὑμᾶς, καὶ ἀγαπήσεις αὐτὸν ὡς σεαυτόν· ὅτι προσήλυτοι ἐγενήθητε ἐν γῇ Αἰγύπτῳ· ἐγώ εἰμι Κύριος ὁ Θεὸς ὑμῶν."
       }
     },
     {
@@ -2414,7 +2448,8 @@
       "translations": {
         "lxx": "Ye shall not act unrighteously in judgment, in measures and weights and scales.",
         "kjv": "Ye shall do no unrighteousness in judgment, in meteyard, in weight, or in measure.",
-        "ron": "Să nu faceţi nedreptate la judecată, la măsură, la cântărit şi la măsurătoare."
+        "ron": "Să nu faceţi nedreptate la judecată, la măsură, la cântărit şi la măsurătoare.",
+        "grk": "Οὐ ποιήσετε ἄδικον ἐν κρίσει, ἐν μέτροις καὶ ἐν σταθμίοις καὶ ἐν ζυγοῖς."
       }
     },
     {
@@ -2506,7 +2541,8 @@
       "translations": {
         "lxx": "There shall be among you just balances and just weights and a just liquid measure. I am the Lord your God, who brought you out of the land of Egypt.",
         "kjv": "Just balances, just weights, a just ephah, and a just hin, shall ye have: I am the LORD your God, which brought you out of the land of Egypt.",
-        "ron": "Cântarul vostru să fie drept, greutăţile drepte, efa dreaptă şi hinul drept. Eu sunt Domnul Dumnezeul vostru, Care v-am scos din pământul Egiptului."
+        "ron": "Cântarul vostru să fie drept, greutăţile drepte, efa dreaptă şi hinul drept. Eu sunt Domnul Dumnezeul vostru, Care v-am scos din pământul Egiptului.",
+        "grk": "Ζυγὰ δίκαια καὶ σταθμία δίκαια καὶ χοῦς δίκαιος ἔσται ἐν ὑμιν· ἐγώ εἰμι Κύριος ὁ Θεὸς ὑμῶν, ὁ ἐξαγαγὼν ὑμᾶς ἐκ γῆς Αἰγύπτου."
       }
     },
     {
@@ -2563,7 +2599,8 @@
       "translations": {
         "lxx": "And ye shall keep all my law and all my ordinances, and ye shall do them: I am the Lord your God.",
         "kjv": "Therefore shall ye observe all my statutes, and all my judgments, and do them: I am the LORD.",
-        "ron": "Să păziţi toate legile Mele şi toate orânduielile Mele şi să le pliniţi. Eu sunt Domnul Dumnezeul vostru\"."
+        "ron": "Să păziţi toate legile Mele şi toate orânduielile Mele şi să le pliniţi. Eu sunt Domnul Dumnezeul vostru\".",
+        "grk": "Καὶ φυλάξεσθε πάντα τὸν νόμον μου, καὶ πάντα τὰ προστάγματά μου, καὶ ποιήσετε αὐτά· ἐγώ εἰμι Κύριος ὁ Θεὸς ὑμῶν."
       }
     }
   ],

@@ -8,7 +8,8 @@
       "translation": "Alleluia. Praise God in his holy places: praise him in the firmament of his power.",
       "words": [],
       "translations": {
-        "ron": "Lăudaţi pe Domnul întru sfinţii Lui; lăudaţi-L pe El întru tăria puterii Lui."
+        "ron": "Lăudaţi pe Domnul întru sfinţii Lui; lăudaţi-L pe El întru tăria puterii Lui.",
+        "grk": "Ἁλληλούϊα. Αἰνεῖτε τὸν Θεὸν ἐν τοῖς ἁγίοις αὐτοῦ, αἰνεῖτε αὐτὸν ἐν στερεώματι δυνάμεως αὐτοῦ."
       }
     },
     {
@@ -17,7 +18,8 @@
       "translation": "Praise him on account of his mighty acts: praise him according to his abundant greatness.",
       "words": [],
       "translations": {
-        "ron": "Lăudaţi-L pe El întru puterile Lui; lăudaţi-L pe El după mulţimea slavei Lui."
+        "ron": "Lăudaţi-L pe El întru puterile Lui; lăudaţi-L pe El după mulţimea slavei Lui.",
+        "grk": "Αἰνεῖτε αὐτὸν ἐπὶ ταῖς δυναστείαις αὐτοῦ, αἰνεῖτε αὐτὸν κατὰ τὸ πλῆθος τῆς μεγαλωσύνης αὐτοῦ."
       }
     },
     {
@@ -26,7 +28,8 @@
       "translation": "Praise him with the sound of a trumpet: praise him with psaltery and harp.",
       "words": [],
       "translations": {
-        "ron": "Lăudaţi-L pe El în glas de trâmbiţă; lăudaţi-L pe El în psaltire şi în alăută."
+        "ron": "Lăudaţi-L pe El în glas de trâmbiţă; lăudaţi-L pe El în psaltire şi în alăută.",
+        "grk": "Αἰνεῖτε αὐτὸν ἐν ἤχῳ σάλπιγγος, αἰνεῖτε αὐτὸν ἐν ψαλτηρίῳ καὶ κιθάρᾳ."
       }
     },
     {
@@ -35,7 +38,8 @@
       "translation": "Praise him with timbrel and dance: praise him with stringed instruments and the organ.",
       "words": [],
       "translations": {
-        "ron": "Lăudaţi-L pe El în timpane şi în horă; lăudaţi-L pe El în strune şi organe."
+        "ron": "Lăudaţi-L pe El în timpane şi în horă; lăudaţi-L pe El în strune şi organe.",
+        "grk": "Αἰνεῖτε αὐτὸν ἐν τυμπάνῳ καὶ χορῷ, αἰνεῖτε αὐτὸν ἐν χορδαῖς καὶ ὀργάνῳ."
       }
     },
     {
@@ -44,7 +48,8 @@
       "translation": "Praise him with melodious cymbals: praise him with loud cymbals.",
       "words": [],
       "translations": {
-        "ron": "Lăudaţi-L pe El în chimvale bine răsunătoare; lăudaţi-L pe El în chimvale de strigare."
+        "ron": "Lăudaţi-L pe El în chimvale bine răsunătoare; lăudaţi-L pe El în chimvale de strigare.",
+        "grk": "Αἰνεῖτε αὐτὸν ἐν κυμβάλοις εὐήχοις, αἰνεῖτε αὐτὸν ἐν κυμβάλοις ἀλαλαγμοῦ."
       }
     },
     {
@@ -53,7 +58,8 @@
       "translation": "Let every thing that has breath praise the Lord.",
       "words": [],
       "translations": {
-        "ron": "Toată suflarea să laude pe Domnul!"
+        "ron": "Toată suflarea să laude pe Domnul!",
+        "grk": "Πᾶσα πνοὴ αἰνεσάτω τὸν Κύριον."
       }
     }
   ]

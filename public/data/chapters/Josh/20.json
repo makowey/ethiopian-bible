@@ -31,7 +31,8 @@
       "translations": {
         "lxx": "And the Lord spoke to Joshua, saying,",
         "kjv": "The LORD also spake unto Joshua, saying,",
-        "ron": "Şi a zis Domnul către Iosua:"
+        "ron": "Şi a zis Domnul către Iosua:",
+        "grk": "Καὶ ἐλάλησε Κύριος τῷ Ἰησοῖ, λέγων,"
       }
     },
     {
@@ -93,7 +94,8 @@
       "translations": {
         "lxx": "Speak to the children of Israel, saying, Assign the cities of refuge, of which I spoke to you by Moses.",
         "kjv": "Speak to the children of Israel, saying, Appoint out for you cities of refuge, whereof I spake unto you by the hand of Moses:",
-        "ron": "\"Spune fiilor lui Israel: Faceţi-vă oraşe de scăpare cum v-am zis Eu prin Moise,"
+        "ron": "\"Spune fiilor lui Israel: Faceţi-vă oraşe de scăpare cum v-am zis Eu prin Moise,",
+        "grk": "λάλησον τοῖς υἱοῖς Ἰσραὴλ, λέγων, δότε τὰς πόλεις τῶν φυγαδευτηρίων, ἃς εἶπα πρὸς ὑμᾶς διὰ Μωυσῆ."
       }
     },
     {
@@ -165,7 +167,8 @@
       "translations": {
         "lxx": "Even a refuge to the slayer who has smitten a man unintentionally; and the cities shall be to you a refuge, and the slayer shall not be put to death by the avenger of blood, until he have stood before the congregation for judgment.",
         "kjv": "That the slayer that killeth any person unawares and unwittingly may flee thither: and they shall be your refuge from the avenger of blood.",
-        "ron": "Ca să poată scăpa acolo ucigaşul care a ucis om din greşeală, fără precugetare; şi să fie oraşele acestea loc de scăpare pentru cel ce a ucis, ca să nu moară de mâna celui ce răzbună sângele vărsat, înainte de a se înfăţişa înaintea obştii la judecată."
+        "ron": "Ca să poată scăpa acolo ucigaşul care a ucis om din greşeală, fără precugetare; şi să fie oraşele acestea loc de scăpare pentru cel ce a ucis, ca să nu moară de mâna celui ce răzbună sângele vărsat, înainte de a se înfăţişa înaintea obştii la judecată.",
+        "grk": "Φυγαδευτήριον τῷ φονευτῇ τῷ πατάξαντι ψυχὴν ἀκουσίως· καὶ ἔσονται ὑμῖν αἱ πόλεις φυγαδευτήριον, καὶ οὐκ ἀποθανεῖται ὁ φονευτὴς ὑπὸ τοῦ ἀγχιστεύοντος τὸ αἷμα, ἕως ἂν καταστῇ· ἐναντίον τῆς συναγωγῆς εἰς κρίσιν."
       }
     },
     {
@@ -680,7 +683,8 @@
       "translations": {
         "lxx": "And Joshua separated Cades in Galilee in the mount Nephthali, and Sychem in the mount Ephraim, and the city of Arboc; this is Chebron, in the mountain of Juda.",
         "kjv": "And they appointed Kedesh in Galilee in mount Naphtali, and Shechem in mount Ephraim, and Kirjatharba, which is Hebron, in the mountain of Judah.",
-        "ron": "Şi au rânduit Chedeşul în Galileea, în muntele Neftalimului; Sichemul în muntele Efraim şi Chiriat-Arba sau Hebronul, în muntele lui Iuda."
+        "ron": "Şi au rânduit Chedeşul în Galileea, în muntele Neftalimului; Sichemul în muntele Efraim şi Chiriat-Arba sau Hebronul, în muntele lui Iuda.",
+        "grk": "Καὶ διέστειλε τὴν Κάδης ἐν τῇ Γαλιλαίᾳ ἐν τῷ ὄρει τῷ Νεφθαλὶ, καὶ Συχὲμ ἐν τῷ ὄρει τῷ Ἐφραὶμ, καὶ τὴν πόλιν Ἀρβὸκ, αὕτη ἐστὶ Χεβρὼν, ἐν τῷ ὄρει τῷ Ἰούδα."
       }
     },
     {
@@ -802,7 +806,8 @@
       "translations": {
         "lxx": "And beyond Jordan he appointed Bosor in the wilderness in the plain out of the tribe of Ruben, and Aremoth in Galaad out of the tribe of Gad, and Gaulon in the country of Basan out of the tribe of Manasse.",
         "kjv": "And on the other side Jordan by Jericho eastward, they assigned Bezer in the wilderness upon the plain out of the tribe of Reuben, and Ramoth in Gilead out of the tribe of Gad, and Golan in Bashan out of the tribe of Manasseh.",
-        "ron": "Peste Iordan, în faţa lerihonului, spre răsărit, au rânduit: Beţerul în pustiu, la şes, în seminţia lui Ruben; Ramot în Galaad, în seminţia lui Gad; şi Golan în Vasan, în seminţia lui Manase."
+        "ron": "Peste Iordan, în faţa lerihonului, spre răsărit, au rânduit: Beţerul în pustiu, la şes, în seminţia lui Ruben; Ramot în Galaad, în seminţia lui Gad; şi Golan în Vasan, în seminţia lui Manase.",
+        "grk": "Καὶ ἐν τῷ πέραν τοῦ Ἰορδάνου ἔδωκε Βοσὸρ ἐν τῇ ἐρήμῳ ἐν τῷ πεδίῳ ἀπὸ τῆς φυλῆς Ῥουβὴν, καὶ Ἀρημὼθ ἐν τῇ Γαλαὰδ ἐκ τῆς φυλῆς Γὰδ, καὶ τὴν Γαυλὼν ἐν τῇ Βασανίτιδι ἐκ τῆς φυλῆς Μανασσῆ."
       }
     },
     {
@@ -939,7 +944,8 @@
       "translations": {
         "lxx": "These were the cities selected for the sons of Israel, and for the stranger abiding among them, that every one who smites a soul unintentionally should flee thither, that he should not die by the hand of the avenger of blood, until he should stand before the congregation for judgment.",
         "kjv": "These were the cities appointed for all the children of Israel, and for the stranger that sojourneth among them, that whosoever killeth any person at unawares might flee thither, and not die by the hand of the avenger of blood, until he stood before the congregation.",
-        "ron": "Aceste cetăţi le-au rânduit pentru toţi fiii lui Israel şi pentru străinii care trăiesc printre ei, ca să fugă acolo cel ce va ucide om din greşeală, ca să nu moară de mâna celui ce răzbună sângele vărsat, până nu se va înfăţişa înaintea obştii la judecată."
+        "ron": "Aceste cetăţi le-au rânduit pentru toţi fiii lui Israel şi pentru străinii care trăiesc printre ei, ca să fugă acolo cel ce va ucide om din greşeală, ca să nu moară de mâna celui ce răzbună sângele vărsat, până nu se va înfăţişa înaintea obştii la judecată.",
+        "grk": "Αὗται αἱ πόλεις αἱ ἐπίκλητοι τοῖς υἱοῖς Ἰσραὴλ καὶ τῷ προσηλύτῳ τῷ προσκειμένῳ ἐν αὐτοῖς, καταφυγεῖν ἐκεῖ παντὶ παίοντι ψυχὴν ἀκουσίως, ἵνα μὴ ἀποθάνῃ ἐν χειρὶ τοῦ ἀγχιστεύοντος τὸ αἷμα, ἕως ἄν καταστῇ ἔναντι τῆς συναγωγῆς εἰς κρίσιν."
       }
     }
   ],

@@ -46,7 +46,8 @@
       "translations": {
         "lxx": "My son, forget not my laws; but let thine heart keep my words:",
         "kjv": "My son, forget not my law; but let thine heart keep my commandments:",
-        "ron": "Fiul meu, nu uita învăţătura mea şi inima ta să păzească sfaturile mele,"
+        "ron": "Fiul meu, nu uita învăţătura mea şi inima ta să păzească sfaturile mele,",
+        "grk": "Υἱὲ, ἐμῶννομίμων μὴ ἐπιλανθάνου, τὰ δὲ ῥήματά μου τηρείτω σὴ καρδία·"
       }
     },
     {
@@ -88,7 +89,8 @@
       "translations": {
         "lxx": "for length of existence, and years of life, and peace, shall they add to thee.",
         "kjv": "For length of days, and long life, and peace, shall they add to thee.",
-        "ron": "Căci lungime de zile şi ani de viaţă şi propăşire îi se vor adăuga."
+        "ron": "Căci lungime de zile şi ani de viaţă şi propăşire îi se vor adăuga.",
+        "grk": "Μῆκος γὰρ βίου, καὶ ἔτη ζωῆς, καὶ εἰρήνην προσθήσουσί σοι."
       }
     },
     {
@@ -145,7 +147,8 @@
       "translations": {
         "lxx": "Let not mercy and truth forsake thee; but bind them about thy neck:",
         "kjv": "Let not mercy and truth forsake thee: bind them about thy neck; write them upon the table of thine heart:",
-        "ron": "Mila şi adevărul să nu te părăsească; leagă-le împrejurul gâtului tău, scrie-le pe tabla inimii tale;"
+        "ron": "Mila şi adevărul să nu te părăsească; leagă-le împrejurul gâtului tău, scrie-le pe tabla inimii tale;",
+        "grk": "Ἐλεημοσύναι καὶ πίστεις μὴ ἐκλειπέτωσάν σε· ἄφαψαι δὲ αὐτὰς ἐπὶ σῷ τραχήλῳ, καὶ εὑρήσεις χάριν·"
       }
     },
     {
@@ -192,7 +195,8 @@
       "translations": {
         "lxx": "so shalt thou find favour: and do thou provide things honest in the sight of the Lord, and of men.",
         "kjv": "So shalt thou find favour and good understanding in the sight of God and man.",
-        "ron": "Atunci vei afla har şi bunăvoinţă înaintea lui Dumnezeu şi a oamenilor."
+        "ron": "Atunci vei afla har şi bunăvoinţă înaintea lui Dumnezeu şi a oamenilor.",
+        "grk": "καὶ προνοοῦ καλὰ ἐνώπιον Κυρίου καὶ ἀνθρώπων."
       }
     },
     {
@@ -239,7 +243,8 @@
       "translations": {
         "lxx": "Trust in God with all thine heart; and be not exalted in thine own wisdom.",
         "kjv": "Trust in the LORD with all thine heart; and lean not unto thine own understanding.",
-        "ron": "Pune-ţi nădejdea în Domnul din toată inima ta şi nu te bizui pe priceperea ta."
+        "ron": "Pune-ţi nădejdea în Domnul din toată inima ta şi nu te bizui pe priceperea ta.",
+        "grk": "Ἴσθι πεποιθὼς ἐν ὅλῃ τῇ καρδίᾳ ἐπὶ Θεῷ, ἐπὶ δὲ σῇ σοφίᾳ μὴ ἐπαίρου."
       }
     },
     {
@@ -281,7 +286,8 @@
       "translations": {
         "lxx": "In all thy ways acquaint thyself with her, that she may rightly direct thy paths.",
         "kjv": "In all thy ways acknowledge him, and he shall direct thy paths.",
-        "ron": "Pe toate căile tale gândeste la Dânsul şi El îţi va netezi toate cărările tale."
+        "ron": "Pe toate căile tale gândeste la Dânsul şi El îţi va netezi toate cărările tale.",
+        "grk": "Πάσαις ὁδοῖς σου γνώριζε αὐτὴν, ἵνα ὀρθοτομῇ τὰς ὁδούς σου."
       }
     },
     {
@@ -338,7 +344,8 @@
       "translations": {
         "lxx": "Be not wise in thine own conceit; but fear God, and depart from all evil.",
         "kjv": "Be not wise in thine own eyes: fear the LORD, and depart from evil.",
-        "ron": "Nu fii înţelept în ochii tăi; teme-te de Dumnezeu şi fugi de rău;"
+        "ron": "Nu fii înţelept în ochii tăi; teme-te de Dumnezeu şi fugi de rău;",
+        "grk": "Μὴ ἴσθι φρόνιμος παρὰ σεαυτῷ, φοβοῦ δὲ τὸν Θεὸν, καὶ ἔκκλινε ἀπὸ παντὸς κακοῦ."
       }
     },
     {
@@ -380,7 +387,8 @@
       "translations": {
         "lxx": "Then shall there be health to thy body, and good keeping to thy bones.",
         "kjv": "It shall be health to thy navel, and marrow to thy bones.",
-        "ron": "Aceasta va fi sănătate pentru trupul tău şi o înviorare pentru oasele tale."
+        "ron": "Aceasta va fi sănătate pentru trupul tău şi o înviorare pentru oasele tale.",
+        "grk": "Τότε ἴασις ἔσται τῷ σώματί σου, καὶ ἐπιμέλεια τοῖς ὀστέοις σου."
       }
     },
     {
@@ -447,7 +455,8 @@
       "translations": {
         "lxx": "Honour the Lord with thy just labours, and give him the first of thy fruits of righteousness:",
         "kjv": "Honour the LORD with thy substance, and with the firstfruits of all thine increase:",
-        "ron": "Cinsteşte pe Domnul din averea ta şi din pârga tuturor roadelor tale."
+        "ron": "Cinsteşte pe Domnul din averea ta şi din pârga tuturor roadelor tale.",
+        "grk": "Τίμα τὸν Κύριον ἀπὸ σῶν δικαίων πόνων, καὶ ἀπάρχου αὐτῷ ἀπὸ σῶν καρπῶν δικαιοσύνης·"
       }
     },
     {
@@ -499,7 +508,8 @@
       "translations": {
         "lxx": "that thy storehouses may be completely filled with corn, and that thy presses may burst forth with wine.",
         "kjv": "So shall thy barns be filled with plenty, and thy presses shall burst out with new wine.",
-        "ron": "Atunci jitniţele tale se vor umple de grâu şi mustul va da afară din teascurile tale."
+        "ron": "Atunci jitniţele tale se vor umple de grâu şi mustul va da afară din teascurile tale.",
+        "grk": "Ἵνα πίμπληται τὰ ταμιεῖά σου πλησμονῆς σίτῳ, οἴνῳ δὲ αἱ ληνοί σου ἐκβλύζωσιν."
       }
     },
     {
@@ -546,7 +556,8 @@
       "translations": {
         "lxx": "My son, despise not the chastening of the Lord; nor faint when thou art rebuked of him:",
         "kjv": "My son, despise not the chastening of the LORD; neither be weary of his correction:",
-        "ron": "Fiul meu, nu dispreţui certarea Domnului şi nu simţi scârbă pentru mustrările Lui,"
+        "ron": "Fiul meu, nu dispreţui certarea Domnului şi nu simţi scârbă pentru mustrările Lui,",
+        "grk": "Υἱὲ, μὴ ὀλιγώρει παιδείας Κυρίου, μηδὲ ἐκλύου ὑπʼ αὐτοῦ ἐλεγχόμενος."
       }
     },
     {
@@ -618,7 +629,8 @@
       "translations": {
         "lxx": "for whom the Lord loves, he rebukes, and scourges every son whom he receives.",
         "kjv": "For whom the LORD loveth he correcteth; even as a father the son in whom he delighteth.",
-        "ron": "Căci Domnul ceartă pe cel pe care-l iubeşte şi ca un părinte pedepseşte pe feciorul care îi este drag."
+        "ron": "Căci Domnul ceartă pe cel pe care-l iubeşte şi ca un părinte pedepseşte pe feciorul care îi este drag.",
+        "grk": "Ὃν γὰρ ἀγαπᾷ Κύριος, ἐλέγχει, μαστιγοῖ δὲ πάντα υἱὸν ὃν παραδέχεται."
       }
     },
     {
@@ -670,7 +682,8 @@
       "translations": {
         "lxx": "Blessed is the man who has found wisdom, and the mortal who knows prudence.",
         "kjv": "Happy is the man that findeth wisdom, and the man that getteth understanding.",
-        "ron": "Fericit este omul care a aflat înţelepciunea şi bărbatul care a dobândit pricepere,"
+        "ron": "Fericit este omul care a aflat înţelepciunea şi bărbatul care a dobândit pricepere,",
+        "grk": "Μακάριος ἄνθρωπος ὃς εὗρε σοφίαν, καὶ θνητὸς ὃς εἶδε φρόνησιν."
       }
     },
     {
@@ -722,7 +735,8 @@
       "translations": {
         "lxx": "For it is better to traffic for her, than for treasures of gold and silver.",
         "kjv": "For the merchandise of it is better than the merchandise of silver, and the gain thereof than fine gold.",
-        "ron": "Căci dobândirea ei este mai scumpă decât argintul şi preţul ei mai mare decât al celui mai curat aur."
+        "ron": "Căci dobândirea ei este mai scumpă decât argintul şi preţul ei mai mare decât al celui mai curat aur.",
+        "grk": "Κρεῖσσον γὰρ αὐτὴν ἐμπορεύεσθαι, ἢ χρυσίου καὶ ἀργυρίου θησαυρούς."
       }
     },
     {
@@ -774,7 +788,8 @@
       "translations": {
         "lxx": "And she is more valuable than precious stones: no evil thing shall resist her: she is well known to all that approach her, and no precious thing is equal to her in value.",
         "kjv": "She is more precious than rubies: and all the things thou canst desire are not to be compared unto her.",
-        "ron": "Ea este mai preţioasă decât pietrele scumpe; nici un rău nu i se poate împotrivi şi e bine-cunoscută tuturor celor ce se apropie de ea; nimic din cele dorite de tine nu se aseamănă cu ea."
+        "ron": "Ea este mai preţioasă decât pietrele scumpe; nici un rău nu i se poate împotrivi şi e bine-cunoscută tuturor celor ce se apropie de ea; nimic din cele dorite de tine nu se aseamănă cu ea.",
+        "grk": "Τιμιωτέρα δέ ἐστι λίθων πολυτελῶν, οὐκ ἀντιτάξεται αὐτῇ οὐδὲν πονηρόν· εὔγνωστός ἐστι πᾶσι τοῖς ἐγγίζουσιν αὐτῇ, πᾶν δὲ τίμιον οὐκ ἄξιον αὐτῆς ἐστι."
       }
     },
     {
@@ -866,7 +881,8 @@
       "translations": {
         "lxx": "out of her mouth proceeds righteousness, and she carries law and mercy upon her tongue.",
         "kjv": "Length of days is in her right hand; and in her left hand riches and honour.",
-        "ron": "Viaţă lungă este în dreapta ei, iar în stânga ei, bogăţie şi slavă; din gura ei iese dreptatea; legea şi mila pe limbă le poartă."
+        "ron": "Viaţă lungă este în dreapta ei, iar în stânga ei, bogăţie şi slavă; din gura ei iese dreptatea; legea şi mila pe limbă le poartă.",
+        "grk": "Μῆκος γὰρ βίου καὶ ἔτη ζωῆς ἐν τῇ δεξιᾷ αὐτῆς, ἐν δὲ τῇ ἀριστερᾷ αὐτῆς πλοῦτος καὶ δόξα· ἐκ τοῦ στόματος αὐτῆς ἐκπορεύεται δικαιοσύνη, νόμον δὲ καὶ ἔλεον ἐπὶ γλώσσης φορεῖ."
       }
     },
     {
@@ -963,7 +979,8 @@
       "translations": {
         "lxx": "Her ways are good ways, and all her paths are peaceful.",
         "kjv": "Her ways are ways of pleasantness, and all her paths are peace.",
-        "ron": "Căile ei sunt plăcute şi toate cărările ei sunt căile păcii."
+        "ron": "Căile ei sunt plăcute şi toate cărările ei sunt căile păcii.",
+        "grk": "Αἱ ὁδοὶ αὐτῆς ὁδοὶ καλαί, καὶ πάσαι αἱ τρίβοι αὐτῆς ἐν εἰρήνῃ."
       }
     },
     {
@@ -1030,7 +1047,8 @@
       "translations": {
         "lxx": "She is a tree of life to all that lay hold upon her; and she is a secure help to all that stay themselves on her, as on the Lord.",
         "kjv": "She is a tree of life to them that lay hold upon her: and happy is every one that retaineth her.",
-        "ron": "Pom al vierii este ea pentru cei ce o stăpânesc, iar cei care se sprijină pe ea sunt fericiţi."
+        "ron": "Pom al vierii este ea pentru cei ce o stăpânesc, iar cei care se sprijină pe ea sunt fericiţi.",
+        "grk": "Ξύλον ζωῆς ἐστι πᾶσι τοῖς ἀντεχομένοις αὐτῆς, καὶ τοῖς ἐπερειδομένοις ἐπʼ αὐτὴν ὡς ἐπὶ Κύριον ἀσφαλής."
       }
     },
     {
@@ -1077,7 +1095,8 @@
       "translations": {
         "lxx": "God by wisdom founded the earth, and by prudence he prepared the heavens.",
         "kjv": "The LORD by wisdom hath founded the earth; by understanding hath he established the heavens.",
-        "ron": "Prin înţelepciune, Domnul a întemeiat pământul, iar prin înţelegere a întărit cerurile."
+        "ron": "Prin înţelepciune, Domnul a întemeiat pământul, iar prin înţelegere a întărit cerurile.",
+        "grk": "Ὁ Θεὸς τῇ σοφίᾳ ἐθεμελίωσε τὴν γῆν, ἡτοίμασε δὲ οὐρανοὺς φρονήσει."
       }
     },
     {
@@ -1119,7 +1138,8 @@
       "translations": {
         "lxx": "By understanding were the depths broken up, and the clouds dropped water.",
         "kjv": "By his knowledge the depths are broken up, and the clouds drop down the dew.",
-        "ron": "Prin ştiinţa Sa a deschis adâncurile şi norii picură rouă."
+        "ron": "Prin ştiinţa Sa a deschis adâncurile şi norii picură rouă.",
+        "grk": "Ἐν αἰσθήσει ἄβυσσοι ἐῤῥάγησαν, νέφη δὲ ἐῤῥύησαν δρόσους."
       }
     },
     {
@@ -1171,7 +1191,8 @@
       "translations": {
         "lxx": "My son, let them not pass from thee, but keep my counsel and understanding:",
         "kjv": "My son, let not them depart from thine eyes: keep sound wisdom and discretion:",
-        "ron": "Fiul meu, să nu se depărteze acestea dinaintea ochilor tăi; păstrează înţelepciunea şi buna chibzuială,"
+        "ron": "Fiul meu, să nu se depărteze acestea dinaintea ochilor tăi; păstrează înţelepciunea şi buna chibzuială,",
+        "grk": "Υἱὲ, μὴ παραῤῥυῇς, τήρησον δὲ ἐμὴν βουλὴν καὶ ἔννοιαν·"
       }
     },
     {
@@ -1258,7 +1279,8 @@
       "translations": {
         "lxx": "and it shall be health to thy flesh, and safety to thy bones:",
         "kjv": "So shall they be life unto thy soul, and grace to thy neck.",
-        "ron": "Căci ele sunt viaţa sufletului tău şi podoabă pentru gâtul tău."
+        "ron": "Căci ele sunt viaţa sufletului tău şi podoabă pentru gâtul tău.",
+        "grk": "ἵνα ζήσῃ ἡ ψυχή σου, καὶ χάρις ᾖ περὶ σῷ τραχήλῳ· ἔσται δὲ ἴασις ταῖς σαρξί σου, καὶ ἐπιμέλεια τοῖς σοῖς ὀστέοις·"
       }
     },
     {
@@ -1295,7 +1317,8 @@
       "translations": {
         "lxx": "that thou mayest go confidently in peace in all thy ways, and that thy foot may not stumble.",
         "kjv": "Then shalt thou walk in thy way safely, and thy foot shall not stumble.",
-        "ron": "Atunci tu vei merge fără teamă pe calea ta şi piciorul tău nu se va poticni."
+        "ron": "Atunci tu vei merge fără teamă pe calea ta şi piciorul tău nu se va poticni.",
+        "grk": "ἵνα πορεύῃ πεποιθὼς ἐν εἰρήνῃ πάσας τὰς ὁδούς σου, ὁ δὲ πούς σου οὐ μὴ προσκόψῃ."
       }
     },
     {
@@ -1357,7 +1380,8 @@
       "translations": {
         "lxx": "For if thou rest, thou shalt be undismayed; and if thou sleep, thou shalt slumber sweetly.",
         "kjv": "When thou liest down, thou shalt not be afraid: yea, thou shalt lie down, and thy sleep shall be sweet.",
-        "ron": "De te culci, nu-ţi va fi teamă, iar de adormi, somnul tău va fi dulce."
+        "ron": "De te culci, nu-ţi va fi teamă, iar de adormi, somnul tău va fi dulce.",
+        "grk": "Ἐὰν γὰρ κάθῃ, ἄφοβος ἔσῃ· ἐὰν δὲ καθεύδῃς, ἡδέως ὑπνώσεις."
       }
     },
     {
@@ -1424,7 +1448,8 @@
       "translations": {
         "lxx": "And thou shalt not be afraid of alarm coming upon thee, neither of approaching attacks of ungodly men.",
         "kjv": "Be not afraid of sudden fear, neither of the desolation of the wicked, when it cometh.",
-        "ron": "Să nu te temi de frica fără veste şi nici de vreo năvală a celor păcătoşi,"
+        "ron": "Să nu te temi de frica fără veste şi nici de vreo năvală a celor păcătoşi,",
+        "grk": "Καὶ οὐ φοβηθήσῃ πτόησιν ἐπελθοῦσαν, οὐδὲ ὁρμὰς ἀσεβῶν ἐπερχομένας."
       }
     },
     {
@@ -1481,7 +1506,8 @@
       "translations": {
         "lxx": "For the Lord shall be over all thy ways, and shall establish thy foot that thou be not moved.",
         "kjv": "For the LORD shall be thy confidence, and shall keep thy foot from being taken.",
-        "ron": "Că Domnul este nădejdea ta şi va feri piciorul tău de cursă."
+        "ron": "Că Domnul este nădejdea ta şi va feri piciorul tău de cursă.",
+        "grk": "Ὁ γὰρ Κύριος ἔσται ἐπὶ πασῶν ὁδῶν σου, καὶ ἐρείσει σὸν πόδα ἵνα μὴ σαλευθῇς."
       }
     },
     {
@@ -1558,7 +1584,8 @@
       "translations": {
         "lxx": "Forbear not to do good to the poor, whensoever thy hand may have power to help him.",
         "kjv": "Withhold not good from them to whom it is due, when it is in the power of thine hand to do it.",
-        "ron": "Nu zăbovi a face bine celui ce are nevoie, când ai putinţa să-i ajuţi."
+        "ron": "Nu zăbovi a face bine celui ce are nevoie, când ai putinţa să-i ajuţi.",
+        "grk": "Μὴ ἀπόσχῃ εὖ ποιεῖν ἐνδεῆ, ἡνίκα ἂν ἔχῃ ἡ χείρ σου βοηθεῖν."
       }
     },
     {
@@ -1660,7 +1687,8 @@
       "translations": {
         "lxx": "Say not, Come back another time, to-morrow I will give; while thou art able to do him good: for thou knowest not what the next day will bring forth.",
         "kjv": "Say not unto thy neighbour, Go, and come again, and to morrow I will give; when thou hast it by thee.",
-        "ron": "Nu spune aproapelui tău: \"Du-te şi vino, mâine îţi voi da!\", când poţi să-i dai acum."
+        "ron": "Nu spune aproapelui tău: \"Du-te şi vino, mâine îţi voi da!\", când poţi să-i dai acum.",
+        "grk": "Μὴ εἴπῃς, ἐπανελθὼν ἐπάνηκε, αὔριον δώσω, δυνατοῦ σου ὄντος εὖ ποιεῖν· οὐ γὰρ οἶδας τί τέξεται ἡ ἐπιοῦσα."
       }
     },
     {
@@ -1712,7 +1740,8 @@
       "translations": {
         "lxx": "Devise not evil against thy friend, living near thee and trusting in thee.",
         "kjv": "Devise not evil against thy neighbour, seeing he dwelleth securely by thee.",
-        "ron": "Nu pune la cale răul împotriva aproapelui tău, când el locuieşte fără grijă lângă tine."
+        "ron": "Nu pune la cale răul împotriva aproapelui tău, când el locuieşte fără grijă lângă tine.",
+        "grk": "Μὴ τεκτῄνῃ ἐπὶ σὸν φίλον κακὰ παροικοῦντα καὶ πεποιθότα ἐπὶ σοί."
       }
     },
     {
@@ -1784,7 +1813,8 @@
       "translations": {
         "lxx": "Be not ready to quarrel with a man without a cause, lest he do thee some harm.",
         "kjv": "Strive not with a man without cause, if he have done thee no harm.",
-        "ron": "Nu te certa cu nimeni fără pricină, de vreme ce nu ţi-a făcut nici un rău."
+        "ron": "Nu te certa cu nimeni fără pricină, de vreme ce nu ţi-a făcut nici un rău.",
+        "grk": "Μὴ φιλεχθρήσῃς πρὸς ἄνθρωπον μάτην, μήτί σε ἐργάσηται κακόν."
       }
     },
     {
@@ -1821,7 +1851,8 @@
       "translations": {
         "lxx": "Procure not the reproaches of bad men, neither do thou covet their ways.",
         "kjv": "Envy thou not the oppressor, and choose none of his ways.",
-        "ron": "Nu râvni să fii ca omul silnic şi nu alege nici una din căile lui;"
+        "ron": "Nu râvni să fii ca omul silnic şi nu alege nici una din căile lui;",
+        "grk": "Μὴ κτήσῃ κακῶν ἀνδρῶν ὀνείδη, μηδὲ ζηλώσῃς τὰς ὁδοὺς αὐτῶν."
       }
     },
     {
@@ -1873,7 +1904,8 @@
       "translations": {
         "lxx": "For every transgressor is unclean before the Lord; neither does he sit among the righteous.",
         "kjv": "For the froward is abomination to the LORD: but his secret is with the righteous.",
-        "ron": "Căci omul cu gând rău este urât de Domnul, iar de cei drepţi El este mai aproape."
+        "ron": "Căci omul cu gând rău este urât de Domnul, iar de cei drepţi El este mai aproape.",
+        "grk": "Ἀκάθαρτος γὰρ ἔναντι Κυρίου πᾶς παράνομος, ἐν δὲ δικαίοις οὐ συνεδριάζει."
       }
     },
     {
@@ -1915,7 +1947,8 @@
       "translations": {
         "lxx": "The curse of God is in the houses of the ungodly; but the habitations of the just are blessed.",
         "kjv": "The curse of the LORD is in the house of the wicked: but he blesseth the habitation of the just.",
-        "ron": "Domnul blesteamă casa celui fără de lege şi binecuvântează adăposturile celor drepţi."
+        "ron": "Domnul blesteamă casa celui fără de lege şi binecuvântează adăposturile celor drepţi.",
+        "grk": "Κατάρα Θεοῦ ἐν οἴκοις ἀσεβῶν, ἐπαύλεις δὲ δικαίων εὐλογοῦνται."
       }
     },
     {
@@ -1942,7 +1975,8 @@
       "translations": {
         "lxx": "The Lord resists the proud; but he gives grace to the humble.",
         "kjv": "Surely he scorneth the scorners: but he giveth grace unto the lowly.",
-        "ron": "De cei batjocoritori El râde, iar celor smeriţi le dă har."
+        "ron": "De cei batjocoritori El râde, iar celor smeriţi le dă har.",
+        "grk": "Κύριος ὑπερηφάνοις ἀντιτάσσεται, ταπεινοῖς δὲ δίδωσι χάριν."
       }
     }
   ],

@@ -86,7 +86,8 @@
       "translations": {
         "lxx": "Awake, awake, Sion; put on thy strength, O Sion; and do thou put on thy glory, Jerusalem the holy city: there shall no more pass through thee the uncircumcised and unclean.",
         "kjv": "Awake, awake; put on thy strength, O Zion; put on thy beautiful garments, O Jerusalem, the holy city: for henceforth there shall no more come into thee the uncircumcised and the unclean.",
-        "ron": "Trezeşte-te, trezeşte-te, îmbracă-te cu puterea ta, Sioane, înveşmântează-te în haine de sărbătoare, Ierusalime, cetate sfântă! Că nu va mai intra în tine cel netăiat împrejur şi cel necurat!"
+        "ron": "Trezeşte-te, trezeşte-te, îmbracă-te cu puterea ta, Sioane, înveşmântează-te în haine de sărbătoare, Ierusalime, cetate sfântă! Că nu va mai intra în tine cel netăiat împrejur şi cel necurat!",
+        "grk": "Ἐξεγείρου ἐξεγείρου Σιὼν, ἔνδυσαι τὴν ἰσχύν σου Σιὼν, καὶ σὺ ἔνδυσαι τὴν δόξαν σου Ἱερουσαλὴμ πόλις ἡ ἁγία· οὐκέτι προστεθήσεται διελθεῖν διὰ σοῦ ἀπερίτμητος καὶ ἀκάθαρτος."
       }
     },
     {
@@ -143,7 +144,8 @@
       "translations": {
         "lxx": "Shake off the dust and arise; sit down, Jerusalem: put off the band of thy neck, captive daughter of Sion.",
         "kjv": "Shake thyself from the dust; arise, and sit down, O Jerusalem: loose thyself from the bands of thy neck, O captive daughter of Zion.",
-        "ron": "Scutură-te de pulbere, scoală-te, Ierusalime robit, dezleagă funiile de pe grumazul tău, robită fiică a Sionului?"
+        "ron": "Scutură-te de pulbere, scoală-te, Ierusalime robit, dezleagă funiile de pe grumazul tău, robită fiică a Sionului?",
+        "grk": "Ἐκτίναξαι τὸν χοῦν καὶ ἀνάστηθι, κάθισον Ἱερουσαλὴμ, ἔκδυσαι τὸν δεσμὸν τοῦ τραχήλου σου ἡ αἰχμάλωτος θυγάτηρ Σιών."
       }
     },
     {
@@ -195,7 +197,8 @@
       "translations": {
         "lxx": "For thus saith the Lord, Ye have been sold for nought; and ye shall not be ransomed with silver.",
         "kjv": "For thus saith the LORD, Ye have sold yourselves for nought; and ye shall be redeemed without money.",
-        "ron": "Căci iată ce spune Domnul: \"Fără preţ aţi fost vânduţi şi fără argint veţi fi răscumpăraţi\"."
+        "ron": "Căci iată ce spune Domnul: \"Fără preţ aţi fost vânduţi şi fără argint veţi fi răscumpăraţi\".",
+        "grk": "Ὅτι τάδε λέγει Κύριος, δωρεὰν ἐπράθητε, καὶ οὐ μετὰ ἀργυρίου λυτρωθήσεσθε."
       }
     },
     {
@@ -272,7 +275,8 @@
       "translations": {
         "lxx": "Thus saith the Lord, My people went down before to Egypt to sojourn there; and were carried away forcibly to the Assyrians.",
         "kjv": "For thus saith the Lord GOD, My people went down aforetime into Egypt to sojourn there; and the Assyrian oppressed them without cause.",
-        "ron": "Că aşa zice Domnul Dumnezeu: \"Poporul Meu a coborât odinioară în Egipt ca să aibă sălaş, apoi Asiria l-a împilat fără cuvânt."
+        "ron": "Că aşa zice Domnul Dumnezeu: \"Poporul Meu a coborât odinioară în Egipt ca să aibă sălaş, apoi Asiria l-a împilat fără cuvânt.",
+        "grk": "Οὕτως λέγει Κύριος, εἰς Αἴγυπτον κατέβη ὁ λαός μου τὸ πρότερον παροικῆσαι ἐκεῖ, καὶ εἰς Ἀσσυρίους βίᾳ ἤχθησαν."
       }
     },
     {
@@ -339,7 +343,8 @@
       "translations": {
         "lxx": "And now why are ye here? Thus saith the Lord, Because my people was taken for nothing, wonder ye and howl. Thus saith the Lord, On account of you my name is continually blasphemed among the Gentiles.",
         "kjv": "Now therefore, what have I here, saith the LORD, that my people is taken away for nought? they that rule over them make them to howl, saith the LORD; and my name continually every day is blasphemed.",
-        "ron": "Şi acum ce să fac Eu, zice Domnul, când poporul Meu a fost luat pe nedrept? Stăpânitorii lui strigă în semn de biruinţă, zice Domnul, iar numele Meu, mereu, cât ţine ziua, este defăimat."
+        "ron": "Şi acum ce să fac Eu, zice Domnul, când poporul Meu a fost luat pe nedrept? Stăpânitorii lui strigă în semn de biruinţă, zice Domnul, iar numele Meu, mereu, cât ţine ziua, este defăimat.",
+        "grk": "Καὶ νῦν τί ἐστὲ ὧδε; τάδε λέγει Κύριος, ὅτι ἐλήφθη ὁ λαός μου δωρεὰν, θαυμάζετε καὶ ὀλολύζετε· τάδε λέγει Κύριος, διʼ ὑμᾶς διαπαντὸς τὸ ὄνομά μου βλασφημεῖται ἐν τοῖς ἔθνεσι."
       }
     },
     {
@@ -411,7 +416,8 @@
       "translations": {
         "lxx": "Therefore shall my people know my name in that day, for I am he that speaks: I am present,",
         "kjv": "Therefore my people shall know my name: therefore they shall know in that day that I am he that doth speak: behold, it is I.",
-        "ron": "Drept aceea poporul va cunoaşte numele Meu, el va înţelege în ziua aceea că Eu sunt Cel Care grăieşte: Iată-Mă!\""
+        "ron": "Drept aceea poporul va cunoaşte numele Meu, el va înţelege în ziua aceea că Eu sunt Cel Care grăieşte: Iată-Mă!\"",
+        "grk": "Διατοῦτο γνώσεται ὁ λαός μου τὸ ὄνομά μου ἐν τῇ ἡμέρᾳ ἐκείνῃ, ὅτι ἐγώ εἰμι αὐτὸς ὁ λαλῶν, πάρειμι ὡς ὥρα ἐπὶ τῶν ὀρέων,"
       }
     },
     {
@@ -478,7 +484,8 @@
       "translations": {
         "lxx": "as a season of beauty upon the mountains, as the feet of one preaching glad tidings of peace, as one preaching good news: for I will publish thy salvation, saying, O Sion, thy God shall reign.",
         "kjv": "How beautiful upon the mountains are the feet of him that bringeth good tidings, that publisheth peace; that bringeth good tidings of good, that publisheth salvation; that saith unto Zion, Thy God reigneth!",
-        "ron": "Cât de frumoase sunt pe munţi picioarele trimisului care vesteşte pacea, a solului de veste bună, care dă de ştire mântuirea, care zice Sionului: Dumnezeul tău este împărat!"
+        "ron": "Cât de frumoase sunt pe munţi picioarele trimisului care vesteşte pacea, a solului de veste bună, care dă de ştire mântuirea, care zice Sionului: Dumnezeul tău este împărat!",
+        "grk": "ὡς πόδες εὐαγγελιζομένου ἀκοὴν εἰρήνης, ὡς εὐαγγελιζόμενος ἀγαθὰ, ὅτι ἀκουστὴν ποιήσω τὴν σωτηρίαν σου, λέγων, Σιὼν βασιλεύσει σου ὁ Θεός."
       }
     },
     {
@@ -560,7 +567,8 @@
       "translations": {
         "lxx": "For the voice of them that guard thee is exalted, and with the voice together they shall rejoice: for eyes shall look to eyes, when the Lord shall have mercy upon Sion.",
         "kjv": "Thy watchmen shall lift up the voice; with the voice together shall they sing: for they shall see eye to eye, when the LORD shall bring again Zion.",
-        "ron": "Toţi străjerii tăi ridică glas şi laolaltă strigă de bucurie, că ei văd cu ochii când Domnul Se întoarce în Sion."
+        "ron": "Toţi străjerii tăi ridică glas şi laolaltă strigă de bucurie, că ei văd cu ochii când Domnul Se întoarce în Sion.",
+        "grk": "Ὅτι φωνὴ τῶν φυλασσόντων σε ὑψώθη, καὶ τῇ φωνῇ ἅμα εὐφρανθήσονται· ὅτι ὀφθαλμοὶ πρὸς ὀφθαλμοὺς ὄψονται, ἡνίκα ἂν ἐλεήσῃ Κύριος τὴν Σιών."
       }
     },
     {
@@ -617,7 +625,8 @@
       "translations": {
         "lxx": "Let the waste places of Jerusalem break forth in joy together, because the Lord has had mercy upon her, and has delivered Jerusalem.",
         "kjv": "Break forth into joy, sing together, ye waste places of Jerusalem: for the LORD hath comforted his people, he hath redeemed Jerusalem.",
-        "ron": "Izbucniţi în chiote de veselie, dărâmături ale Ierusalimului, că Domnul mângâie pe poporul Său, răscumpărat-a Ierusalimul."
+        "ron": "Izbucniţi în chiote de veselie, dărâmături ale Ierusalimului, că Domnul mângâie pe poporul Său, răscumpărat-a Ierusalimul.",
+        "grk": "Ῥηξάτω εὐφροσύνην ἅμα τὰ ἔρημα Ἱερουσαλὴμ, ὅτι ἠλέησε Κύριος αὐτὴν, καὶ ἐῤῥύσατο Ἱερουσαλήμ."
       }
     },
     {
@@ -689,7 +698,8 @@
       "translations": {
         "lxx": "And the Lord shall reveal his holy arm in the sight of all the nations; and all the ends of the earth shall see the salvation that comes from our God.",
         "kjv": "The LORD hath made bare his holy arm in the eyes of all the nations; and all the ends of the earth shall see the salvation of our God.",
-        "ron": "Descoperit-a Domnul braţul Său cel sfânt în ochii tuturor popoarelor şi toate marginile cele îndepărtate ale pământului vor vedea mântuirea Dumnezeului nostru, zicând:"
+        "ron": "Descoperit-a Domnul braţul Său cel sfânt în ochii tuturor popoarelor şi toate marginile cele îndepărtate ale pământului vor vedea mântuirea Dumnezeului nostru, zicând:",
+        "grk": "Καὶ ἀποκαλύψει Κύριος τὸν βραχίονα τὸν ἅγιον αὐτοῦ ἐνώπιον πάντων τῶν ἐθνῶν, καὶ ὄψονται πάντα ἄκρα τῆς γῆς τὴν σωτηρίαν τὴν παρὰ τοῦ Θεοῦ ἡμῶν."
       }
     },
     {
@@ -766,7 +776,8 @@
       "translations": {
         "lxx": "Depart ye, depart, go out from thence, and touch not the unclean thing; go ye out from the midst of her; separate yourselves, ye that bear the vessels of the Lord.",
         "kjv": "Depart ye, depart ye, go ye out from thence, touch no unclean thing; go ye out of the midst of her; be ye clean, that bear the vessels of the LORD.",
-        "ron": "\"Plecaţi, plecaţi, ieşiţi de acolo! Nu vă atingeţi de lucru spurcat! Ieşiţi, curăţiţi-vă, voi cei care purtaţi vasele Domnului!"
+        "ron": "\"Plecaţi, plecaţi, ieşiţi de acolo! Nu vă atingeţi de lucru spurcat! Ieşiţi, curăţiţi-vă, voi cei care purtaţi vasele Domnului!",
+        "grk": "Ἀπόστητε, ἀπόστητε, ἐξέλθατε ἐκεῖθεν, καὶ ἀκαθάρτου μὴ ἅψησθε, ἐξέλθατε ἐκ μέσου αὐτῆς, ἀφορίσθητε οἱ φέροντες τὰ σκεύη Κυρίου·"
       }
     },
     {
@@ -813,7 +824,8 @@
       "translations": {
         "lxx": "For ye shall not go forth with tumult, neither go by flight: for the Lord shall go first in advance of you; and the God of Israel shall be he that brings up your rear.",
         "kjv": "For ye shall not go out with haste, nor go by flight: for the LORD will go before you; and the God of Israel will be your rereward.",
-        "ron": "Dar nu veţi ieşi îngrămădindu-vă şi nu veţi pleca fugind, că înaintea voastră merge Domnul şi în urma voastră tot El, Dumnezeul lui Israel!\""
+        "ron": "Dar nu veţi ieşi îngrămădindu-vă şi nu veţi pleca fugind, că înaintea voastră merge Domnul şi în urma voastră tot El, Dumnezeul lui Israel!\"",
+        "grk": "Ὅτι οὐ μετὰ ταραχῆς ἐξελεύσεσθε, οὐδὲ φυγῇ πορεύσεσθε· προπορεύσεται γὰρ πρότερος ὑμῶν Κύριος, καὶ ὁ ἐπισυνάγων ὑμᾶς Θεὸς Ἰσραήλ."
       }
     },
     {
@@ -860,7 +872,8 @@
       "translations": {
         "lxx": "Behold, my servant shall understand, and be exalted, and glorified exceedingly.",
         "kjv": "Behold, my servant shall deal prudently, he shall be exalted and extolled, and be very high.",
-        "ron": "Iată că Sluga Mea va propăşi, Se va sui, mare Se va face şi Se va înălţa pe culmile slavei!"
+        "ron": "Iată că Sluga Mea va propăşi, Se va sui, mare Se va face şi Se va înălţa pe culmile slavei!",
+        "grk": "Ἰδοὺ, συνήσει ὁ παῖς μου, καὶ ὑψωθήσεται, καὶ δοξασθήσεται σφόδρα."
       }
     },
     {
@@ -927,7 +940,8 @@
       "translations": {
         "lxx": "As many shall be amazed at thee, so shall thy face be without glory from men, and thy glory shall not be honoured by the sons of men.",
         "kjv": "As many were astonied at thee; his visage was so marred more than any man, and his form more than the sons of men:",
-        "ron": "Precum mulţi s-au spăimântat de El - aşa de schimonosită li era înfăţişarea Lui, şi chipul Lui atât de fără asemănare cu oamenii, -"
+        "ron": "Precum mulţi s-au spăimântat de El - aşa de schimonosită li era înfăţişarea Lui, şi chipul Lui atât de fără asemănare cu oamenii, -",
+        "grk": "Ὃν τρόπον ἐκστήσονται ἐπὶ σὲ πολλοὶ, οὕτως ἀδοξήσει ἀπὸ τῶς ἀνθρώπων τὸ εἶδός σου, καὶ ἡ δόξα σου ἀπὸ υἱῶν ἀνθρώπων."
       }
     },
     {
@@ -1019,7 +1033,8 @@
       "translations": {
         "lxx": "Thus shall many nations wonder at him; and kings shall keep their mouths shut: for they to whom no report was brought concerning him, shall see; and they who have not heard, shall consider.",
         "kjv": "So shall he sprinkle many nations; the kings shall shut their mouths at him: for that which had not been told them shall they see; and that which they had not heard shall they consider.",
-        "ron": "Tot aşa va fi pricină de uimire pentru multe popoare; înaintea Lui regii vor închide gura, că acum văd ceea ce nu li s-a spus, şi înţeleg ceea ce n-au auzit."
+        "ron": "Tot aşa va fi pricină de uimire pentru multe popoare; înaintea Lui regii vor închide gura, că acum văd ceea ce nu li s-a spus, şi înţeleg ceea ce n-au auzit.",
+        "grk": "Οὕτω θαυμάσονται ἔθνη πολλὰ ἐπʼ αὐτῷ, καὶ συνέξουσι βασιλεῖς τὸ στόμα αὐτῶν· ὅτι οἷς οὐκ ἀνηγγέλη περὶ αὐτοῦ, ὄψονται, καὶ οἳ οὐκ ἀκηκόασι, συνήσουσι."
       }
     }
   ],

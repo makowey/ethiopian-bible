@@ -45,7 +45,8 @@
       ],
       "translations": {
         "lxx": "My son, defraud not the poor of his living, and make not the needy eyes to wait long.",
-        "ron": "Fiule, să nu laşi pe cel sărac lipsit de hrană şi ochii celor nevoiaşi nu-i face să aştepte."
+        "ron": "Fiule, să nu laşi pe cel sărac lipsit de hrană şi ochii celor nevoiaşi nu-i face să aştepte.",
+        "grk": "Τέκνον, τὴν ζωὴν τοῦ πτωχοῦ μὴ ἀποστερήσῃς, καὶ μὴ παρελκύσῃς ὀφθαλμοὺς ἐπιδεεῖς."
       }
     },
     {
@@ -86,7 +87,8 @@
       ],
       "translations": {
         "lxx": "Make not a hungry soul sorrowful; neither provoke a man in his distress.",
-        "ron": "Sufletul flămând să nu-l întristezi şi să nu urgiseşti pe om când are lipsă."
+        "ron": "Sufletul flămând să nu-l întristezi şi să nu urgiseşti pe om când are lipsă.",
+        "grk": "ψυχὴν πεινῶσαν μὴ λυπήσῃς, καὶ μὴ παροργίσῃς ἄνδρα ἐν ἀπορίᾳ αὐτοῦ."
       }
     },
     {
@@ -122,7 +124,8 @@
       ],
       "translations": {
         "lxx": "Add not more trouble to a heart that is vexed; and defer not to give to him that is in need.",
-        "ron": "Inima necăjită nu o tulbura şi nu întârzia a da celui lipsit."
+        "ron": "Inima necăjită nu o tulbura şi nu întârzia a da celui lipsit.",
+        "grk": "Καρδίαν παροργισμένην μὴ προσταράξῃς, καὶ μὴ παρελκύσῃς δόσιν προσδεομένου."
       }
     },
     {
@@ -173,7 +176,8 @@
       ],
       "translations": {
         "lxx": "Reject not the supplication of the afflicted; neither turn away thy face from a poor man.",
-        "ron": "Rugăciunea celui necăjit nu o lepăda şi nu-ţi întoarce faţa ta de la cel sărac."
+        "ron": "Rugăciunea celui necăjit nu o lepăda şi nu-ţi întoarce faţa ta de la cel sărac.",
+        "grk": "Ἱκέτην θλιβόμενον μὴ ἀπαναίνου, καὶ μὴ ἀποστρέψῃς τὸ πρόσωπόν σου ἀπὸ πτωχοῦ."
       }
     },
     {
@@ -219,7 +223,8 @@
       ],
       "translations": {
         "lxx": "Turn not away thine eye from the needy, and give him none occasion to curse thee:",
-        "ron": "De la cel în lipsă nu-ţi întoarce ochiul şi nu da loc omului să te blesteme."
+        "ron": "De la cel în lipsă nu-ţi întoarce ochiul şi nu da loc omului să te blesteme.",
+        "grk": "Ἀπὸ δεομένου μὴ ἀποστρέψῃς ὀφθαλμόν, καὶ μὴ δῷς τόπον ἀνθρώπῳ καταράσασθαί σε."
       }
     },
     {
@@ -270,7 +275,8 @@
       ],
       "translations": {
         "lxx": "for if he curse thee in the bitterness of his soul, his prayer shall be heard of him that made him.",
-        "ron": "Că rugăciunea celui ce te blestemă pe tine, întru amărăciunea sufletului său, o va auzi Cel care l-a făcut pe el."
+        "ron": "Că rugăciunea celui ce te blestemă pe tine, întru amărăciunea sufletului său, o va auzi Cel care l-a făcut pe el.",
+        "grk": "Καταρωμένου γάρ σε ἐν πικρίᾳ ψυχῆς αὐτοῦ, τῆς δεήσεως αὐτοῦ ἐπακούσεται ὁ ποιήσας αὐτόν."
       }
     },
     {
@@ -321,7 +327,8 @@
       ],
       "translations": {
         "lxx": "Get thyself the love of the congregation, and bow thy head to a great man.",
-        "ron": "Fă-te iubit adunării şi celui mai mare smereşte capul tău."
+        "ron": "Fă-te iubit adunării şi celui mai mare smereşte capul tău.",
+        "grk": "Προσφιλῆ συναγωγῇ σεαυτὸν ποίει, καὶ μεγιστᾶνι ταπεινοῦ τὴν κεφαλήν σου."
       }
     },
     {
@@ -367,7 +374,8 @@
       ],
       "translations": {
         "lxx": "Let it not grieve thee to bow down thine ear to the poor, and give him a friendly answer with meekness.",
-        "ron": "Pleacă săracului urechea ta şi cu blândeţe răspunde-i cele de pace."
+        "ron": "Pleacă săracului urechea ta şi cu blândeţe răspunde-i cele de pace.",
+        "grk": "Κλῖνον πτωχῷ τὸ οὖς σου, καὶ ἀποκρίθητι αὐτῷ εἰρηνικὰ ἐν πρᾳΰτητι."
       }
     },
     {
@@ -408,7 +416,8 @@
       ],
       "translations": {
         "lxx": "Deliver him that suffereth wrong from the hand of the oppressor; and be not fainthearted when thou sittest in judgment.",
-        "ron": "Scoate pe cel năpăstuit din mâna celui ce-l năpăstuieşte şi să nu fi slab de înger când judeci."
+        "ron": "Scoate pe cel năpăstuit din mâna celui ce-l năpăstuieşte şi să nu fi slab de înger când judeci.",
+        "grk": "Ἐξελοῦ ἀδικούμενον ἐκ χειρὸς ἀδικοῦντος, καὶ μὴ ὀλιγοψυχήσῃς ἐν τῷ κρίνειν σε."
       }
     },
     {
@@ -509,7 +518,8 @@
       ],
       "translations": {
         "lxx": "Be as a father unto the fatherless, and instead of a husband unto their mother: so shalt thou be as the son of the most High, and he shall love thee more than thy mother doth.",
-        "ron": "Fii celor orfani ca un tată şi ca un bărbat pentru mama lor."
+        "ron": "Fii celor orfani ca un tată şi ca un bărbat pentru mama lor.",
+        "grk": "Γίνου ὀρφανοῖς ὡς πατὴρ, καὶ ἀντὶ ἀνδρὸς τῇ μητρὶ αὐτῶν· καὶ ἔσῃ ὡς υἱὸς ὑψίστου, καὶ ἀγαπήσει σε μᾶλλον ἡ μήτηρ σου."
       }
     },
     {
@@ -550,7 +560,8 @@
       ],
       "translations": {
         "lxx": "Wisdom exalteth her children, and layeth hold of them that seek her.",
-        "ron": "Şi vei fi ca fiu al Celui Preaînalt şi El te va iubi mai mult decât mama ta."
+        "ron": "Şi vei fi ca fiu al Celui Preaînalt şi El te va iubi mai mult decât mama ta.",
+        "grk": "Ἡ σοφία υἱοὺς ἑαυτῇ ἀνύψωσε, καὶ ἐπιλαμβάνεται τῶν ζητούντων αὐτήν·"
       }
     },
     {
@@ -601,7 +612,8 @@
       ],
       "translations": {
         "lxx": "He that loveth her loveth life; and they that seek to her early shall be filled with joy.",
-        "ron": "Înţelepciunea înalţă pe fiii săi, şi poartă grijă celor care o caută."
+        "ron": "Înţelepciunea înalţă pe fiii săi, şi poartă grijă celor care o caută.",
+        "grk": "ὁ ἀγαπῶν αὐτὴν ἀγαπᾷ ζωὴν, καὶ οἱ ὀρθρίζοντες πρὸς αὐτὴν ἐμπλησθήσονται εὐφροσύνης."
       }
     },
     {
@@ -652,7 +664,8 @@
       ],
       "translations": {
         "lxx": "He that holdeth her fast shall inherit glory; and wheresoever she entereth, the Lord will bless.",
-        "ron": "Cel care o iubeşte, iubeşte viaţa şi cei care se scoală pentru ea dis-de-dimineaţă se vor umple de veselie."
+        "ron": "Cel care o iubeşte, iubeşte viaţa şi cei care se scoală pentru ea dis-de-dimineaţă se vor umple de veselie.",
+        "grk": "Ὁ κρατῶν αὐτῆς κληρονομήσει δόξαν, καὶ οὗ εἰσπορεύεται εὐλογήσει Κύριος."
       }
     },
     {
@@ -708,7 +721,8 @@
       ],
       "translations": {
         "lxx": "They that serve her shall minister to the Holy One: and them that love her the Lord doth love.",
-        "ron": "Cel care o ţine va moşteni mărire şi oriunde va merge îl va binecuvânta Domnul."
+        "ron": "Cel care o ţine va moşteni mărire şi oriunde va merge îl va binecuvânta Domnul.",
+        "grk": "Οἱ λατρεύοντες αὐτῇ λειτουργήσουσιν Ἁγίῳ, καὶ τοὺς ἀγαπῶντας αὐτὴν ἀγαπᾷ ὁ Κύριος."
       }
     },
     {
@@ -759,7 +773,8 @@
       ],
       "translations": {
         "lxx": "Whoso giveth ear unto her shall judge the nations: and he that attendeth unto her shall dwell securely.",
-        "ron": "Cei care o slujesc vor sluji Celui Sfânt şi pe cei care o iubesc, îi iubeşte Domnul."
+        "ron": "Cei care o slujesc vor sluji Celui Sfânt şi pe cei care o iubesc, îi iubeşte Domnul.",
+        "grk": "Ὁ ὑπακούων αὐτῆς κρινεῖ ἔθνη, καὶ ὁ προσελθὼν αὐτῇ κατασκηνώσει πεποιθώς."
       }
     },
     {
@@ -795,7 +810,8 @@
       ],
       "translations": {
         "lxx": "If a man commit himself unto her, he shall inherit her; and his generation shall hold her in possession.",
-        "ron": "Cel care ascultă de ea va judeca neamuri şi cel care se apropie de ea va locui fără grijă."
+        "ron": "Cel care ascultă de ea va judeca neamuri şi cel care se apropie de ea va locui fără grijă.",
+        "grk": "Ἐὰν ἐμπιστεύσῃς, κατακληρονομήσεις αὐτὴν, καὶ ἐν κατασχέσει ἔσονται αἱ γενεαὶ αὐτοῦ."
       }
     },
     {
@@ -876,7 +892,8 @@
       ],
       "translations": {
         "lxx": "For at the first she will walk with him by crooked ways, and bring fear and dread upon him, and torment him with her discipline, until she may trust his soul, and try him by her laws.",
-        "ron": "Cine are încredere în ea are parte de ea şi urmaşii lui o moştenesc,"
+        "ron": "Cine are încredere în ea are parte de ea şi urmaşii lui o moştenesc,",
+        "grk": "Ὅτι διεστραμμένως πορεύεται μετʼ αὐτοῦ ἐν πρώτοις· φόβον δὲ καὶ δειλίαν ἐπάξει ἐπʼ αὐτὸν, καὶ βασανίσει αὐτὸν ἐν παιδιᾷ αὐτῆς, ἕως οὗ ἐμπιστεύσῃ τῇ ψυχῇ αὐτοῦ, καὶ πειράσῃ αὐτὸν ἐν τοῖς δικαιώμασιν αὐτῆς."
       }
     },
     {
@@ -927,7 +944,8 @@
       ],
       "translations": {
         "lxx": "Then will she return the straight way unto him, and comfort him, and shew him her secrets.",
-        "ron": "Că umblă cu el cu faţa ascunsă şi-l încearcă la început cu ispite şi-l înfricoşează şi-l strâmtorează,"
+        "ron": "Că umblă cu el cu faţa ascunsă şi-l încearcă la început cu ispite şi-l înfricoşează şi-l strâmtorează,",
+        "grk": "Καὶ πάλιν ἐπανήξει κατʼ εὐθεῖαν πρὸς αὐτὸν, καὶ εὐφρανεῖ αὐτὸν, καὶ ἀποκαλύψει αὐτῷ τὰ κρυπτὰ αὐτῆς."
       }
     },
     {
@@ -973,7 +991,8 @@
       ],
       "translations": {
         "lxx": "But if he go wrong, she will forsake him, and give him over to his own ruin.",
-        "ron": "Şi-l chinuieşte cu învăţătura sa, până ce va prinde încredere în el, şi-l va ispiti întru îndreptările sale."
+        "ron": "Şi-l chinuieşte cu învăţătura sa, până ce va prinde încredere în el, şi-l va ispiti întru îndreptările sale.",
+        "grk": "Ἐὰν ἀποπλανηθῇ, ἐγκαταλείψει αὐτὸν, καὶ παραδώσει αὐτὸν εἰς χεῖρας πτώσεως αὐτοῦ."
       }
     },
     {
@@ -1029,7 +1048,8 @@
       ],
       "translations": {
         "lxx": "Observe the opportunity, and beware of evil; and be not ashamed when it concerneth thy soul.",
-        "ron": "Şi iarăşi se va întoarce drept la el şi-l va veseli şi îi va descoperi lui cele ascunse ale sale."
+        "ron": "Şi iarăşi se va întoarce drept la el şi-l va veseli şi îi va descoperi lui cele ascunse ale sale.",
+        "grk": "Συντήρησον καιρὸν καὶ φύλαξαι ἀπὸ πονηροῦ, καὶ περὶ τῆς ψυχῆς σου μὴ αἰσχυνθῇς."
       }
     },
     {
@@ -1095,7 +1115,8 @@
       ],
       "translations": {
         "lxx": "For there is a shame that bringeth sin; and there is a shame which is glory and grace.",
-        "ron": "Iar de va rătăci, îl va părăsi şi-l va da în mâinile căderii lui."
+        "ron": "Iar de va rătăci, îl va părăsi şi-l va da în mâinile căderii lui.",
+        "grk": "Ἔστι γὰρ αἰσχύνη ἐπάγουσα ἁμαρτίαν, καὶ ἔστιν αἰσχύνη δόξα καὶ χάρις."
       }
     },
     {
@@ -1156,7 +1177,8 @@
       ],
       "translations": {
         "lxx": "Accept no person against thy soul, and let not the reverence of any man cause thee to fall.",
-        "ron": "Păzeşte vremea şi fereşte-te de rău şi pentru credinţa sufletului tău nu te ruşina."
+        "ron": "Păzeşte vremea şi fereşte-te de rău şi pentru credinţa sufletului tău nu te ruşina.",
+        "grk": "Μὴ λάβῃς πρόσωπον κατὰ τῆς ψυχῆς σου, καὶ μὴ ἐντραπῇς εἰς πτῶσίν σου."
       }
     },
     {
@@ -1222,7 +1244,8 @@
       ],
       "translations": {
         "lxx": "And refrain not to speak, when there is occasion to do good, and hide not thy wisdom in her beauty.",
-        "ron": "Căci este ruşine care aduce păcat şi este ruşine care aduce mărire şi har."
+        "ron": "Căci este ruşine care aduce păcat şi este ruşine care aduce mărire şi har.",
+        "grk": "Μὴ κωλύσῃς λόγον ἐν καιρῷ σωτηρίας,"
       }
     },
     {
@@ -1263,7 +1286,8 @@
       ],
       "translations": {
         "lxx": "For by speech wisdom shall be known: and learning by the word of the tongue.",
-        "ron": "Nu lua seama la nimeni când este vorba de paguba sufletului tău şi să nu te ruşinezi pentru pierderea ta."
+        "ron": "Nu lua seama la nimeni când este vorba de paguba sufletului tău şi să nu te ruşinezi pentru pierderea ta.",
+        "grk": "ἐν γὰρ λόγῳ γνωσθήσεται σοφία, καὶ παιδεία ἐν ῥήματι γλώσσης."
       }
     },
     {
@@ -1304,7 +1328,8 @@
       ],
       "translations": {
         "lxx": "In no wise speak against the truth; but be abashed of the error of thine ignorance.",
-        "ron": "Nu opri cuvântul în vreme de mântuire,"
+        "ron": "Nu opri cuvântul în vreme de mântuire,",
+        "grk": "Μὴ ἀντίλεγε τῇ ἀληθείᾳ, καὶ περὶ τῆς ἀπαιδευσίας σου ἐντράπηθι."
       }
     },
     {
@@ -1350,7 +1375,8 @@
       ],
       "translations": {
         "lxx": "Be not ashamed to confess thy sins; and force not the course of the river.",
-        "ron": "Că din cuvânt se cunoaşte înţelepciunea şi din graiurile limbii învăţătura."
+        "ron": "Că din cuvânt se cunoaşte înţelepciunea şi din graiurile limbii învăţătura.",
+        "grk": "Μὴ αἰσχυνθῇς ὁμολογῆσαι ἐφʼ ἁμαρτίαις σου, καὶ μὴ βιάζου ῥοῦν ποταμοῦ."
       }
     },
     {
@@ -1416,7 +1442,8 @@
       ],
       "translations": {
         "lxx": "Make not thyself an underling to a foolish man; neither accept the person of the mighty.",
-        "ron": "Nu grăi împotriva adevărului, ci ruşinează-te de lipsa ta de învăţătură."
+        "ron": "Nu grăi împotriva adevărului, ci ruşinează-te de lipsa ta de învăţătură.",
+        "grk": "Καὶ μὴ ὑποστρώσῃς σεαυτὸν ἀνθρώπῳ μωρῷ, καὶ μὴ λάβῃς πρόσωπον δυνάστου."
       }
     },
     {
@@ -1452,7 +1479,8 @@
       ],
       "translations": {
         "lxx": "Strive for the truth unto death, and the Lord shall fight for thee.",
-        "ron": "Nu-ţi fie ruşine a mărturisi păcatele tale şi nu sta împotriva curgerii râului."
+        "ron": "Nu-ţi fie ruşine a mărturisi păcatele tale şi nu sta împotriva curgerii râului.",
+        "grk": "Ἕως τοῦ θανάτου ἀγώνισαι περὶ τῆς ἀληθείας, καὶ Κύριος ὁ Θεὸς πολεμήσει ὑπὲρ σοῦ."
       }
     },
     {
@@ -1513,7 +1541,8 @@
       ],
       "translations": {
         "lxx": "Be not hasty in thy tongue, and in thy deeds slack and remiss.",
-        "ron": "Nu te supune omului nebun şi nu măguli faţa celui puternic."
+        "ron": "Nu te supune omului nebun şi nu măguli faţa celui puternic.",
+        "grk": "Μὴ γίνου τραχὺς ἐν γλώσσῃ σου, καὶ νωθρὸς καὶ παρειμένος ἐν τοῖς ἔργοις σου."
       }
     },
     {
@@ -1564,7 +1593,8 @@
       ],
       "translations": {
         "lxx": "Be not as a lion in thy house, nor frantic among thy servants.",
-        "ron": "Până la moarte luptă-te pentru adevăr, şi Domnul Dumnezeu se va lupta pentru tine."
+        "ron": "Până la moarte luptă-te pentru adevăr, şi Domnul Dumnezeu se va lupta pentru tine.",
+        "grk": "Μὴ ἴσθι ὡς λέων ἐν τῷ οἴκῳ σου, καὶ φαντασιοκοπῶν ἐν τοῖς οἰκέταις σου."
       }
     }
   ],

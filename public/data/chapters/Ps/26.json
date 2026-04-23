@@ -8,7 +8,8 @@
       "translation": "A Psalm of David, before he was anointed. The Lord is my light and my Saviour; whom shall I fear? the Lord is the defender of my life; of whom shall I be afraid?",
       "words": [],
       "translations": {
-        "ron": "Domnul este luminarea mea şi mântuirea mea; de cine mă voi teme?"
+        "ron": "Domnul este luminarea mea şi mântuirea mea; de cine mă voi teme?",
+        "grk": "Τοῦ Δαυὶδ, πρὸ τοῦ χρισθῆναι. Κύριος φωτισμός μου καὶ σώτηρ μου, τίνα φοβηθήσομαι; Κύριος ὑπερασπιστὴς τῆς ζωῆς μου, ἀπὸ τίνος δειλιάσω;"
       }
     },
     {
@@ -17,7 +18,8 @@
       "translation": "When evil-doers drew nigh against me to eat up my flesh, my persecutors and mine enemies, they fainted and fell.",
       "words": [],
       "translations": {
-        "ron": "Domnul este apărătorul vieţii mele; de cine mă voi înfricoşa?"
+        "ron": "Domnul este apărătorul vieţii mele; de cine mă voi înfricoşa?",
+        "grk": "Ἐν τῷ ἐγγίζειν ἐπʼ ἐμὲ κακοῦντας, τοῦ φαγεῖν τὰς σάρκας μου, οἱ θλίβοντες με καὶ οἱ ἐχθροί μου, αὐτοὶ ἠσθένησαν καὶ ἔπεσαν."
       }
     },
     {
@@ -26,7 +28,8 @@
       "translation": "Though an army should set itself in array against me, my heart shall not be afraid: though war should rise up against me, in this am I confident.",
       "words": [],
       "translations": {
-        "ron": "Când se vor apropia de mine cei ce îmi fac rău, ca să mănânce trupul meu;"
+        "ron": "Când se vor apropia de mine cei ce îmi fac rău, ca să mănânce trupul meu;",
+        "grk": "Ἐὰν παρατάξηται ἐπʼ ἐμὲ παρεμβολὴ, οὐ φοβηθήσεται ἡ καρδία μου· ἐὰν ἐπαναστῇ ἐπʼ ἐμὲ πόλεμος, ἐν ταύτῃ ἐγὼ ἐλπιζω."
       }
     },
     {
@@ -35,7 +38,8 @@
       "translation": "One thing have I asked of the Lord, this will I earnestly seek: that I should dwell in the house of the Lord all the days of my life, that I should behold the fair beauty of the Lord, and survey his temple.",
       "words": [],
       "translations": {
-        "ron": "Cei ce mă necăjesc şi vrăjmaşii mei, aceia au slăbit şi au căzut."
+        "ron": "Cei ce mă necăjesc şi vrăjmaşii mei, aceia au slăbit şi au căzut.",
+        "grk": "Μίαν ᾐτησάμην παρὰ Κυρίου, ταύτην ἐκζητήσω, τοῦ κατοικεῖν με ἐν οἴκῳ Κυρίου πάσας τὰς ἡμέρας τῆς ζωῆς μου, τοῦ θεωρεῖν με τὴν τερπνότητα Κυρίου, καὶ ἐπισκέπτεσθαι τὸν ναὸν αὐτοῦ."
       }
     },
     {
@@ -44,7 +48,8 @@
       "translation": "For in the day of mine afflictions he hid me in his tabernacle: he sheltered me in the secret of his tabernacle; he set me up on a rock.",
       "words": [],
       "translations": {
-        "ron": "De s-ar rîndui împotriva mea oştire, nu se va înfricoşa inima mea."
+        "ron": "De s-ar rîndui împotriva mea oştire, nu se va înfricoşa inima mea.",
+        "grk": "Ὅτι ἔκρυψέ με ἐν σκηνῇ αὐτοῦ ἐν ἡμέρᾳ κακῶν μου, ἐσκέπασέ με ἐν ἀποκρύφῳ τῆς σκῆνης αὐτοῦ· ἐν πέτρᾳ ὕψωσέ με,"
       }
     },
     {
@@ -53,7 +58,8 @@
       "translation": "And now, behold, he has lifted up mine head over mine enemies: I went round and offered in his tabernacle the sacrifice of joy; I will sing, even sing psalms to the Lord.",
       "words": [],
       "translations": {
-        "ron": "De s-ar ridica împotriva mea război, eu în El nădăjduiesc."
+        "ron": "De s-ar ridica împotriva mea război, eu în El nădăjduiesc.",
+        "grk": "καὶ νῦν ἰδοὺ ὕψωσε τὴν κεφαλήν μου ἐπʼ ἐχθρούς μου· ἐκύκλωσα καὶ ἔθυσα ἐν τῇ σκηνῇ αὐτοῦ θυσίαν ἀλαλαγμοῦ, ᾄσομαι καὶ ψαλῶ τῷ Κυρίῳ·"
       }
     },
     {
@@ -62,7 +68,8 @@
       "translation": "Hear, O Lord, my voice which I have uttered aloud: pity me, and hearken to me.",
       "words": [],
       "translations": {
-        "ron": "Una am cerut de la Domnul, pe aceasta o voi căuta: să locuiesc în casa Domnului în toate zilele vieţii mele,"
+        "ron": "Una am cerut de la Domnul, pe aceasta o voi căuta: să locuiesc în casa Domnului în toate zilele vieţii mele,",
+        "grk": "Εἰσάκουσον, Κύριε, τῆς φωνῆς μου ἧς ἐκέκραξα, ἐλέησόν με, καὶ εἰσάκουσόν μου."
       }
     },
     {
@@ -71,7 +78,8 @@
       "translation": "My heart said to thee, I have diligently sought thy face: thy face, O Lord, I will seek.",
       "words": [],
       "translations": {
-        "ron": "Ca să văd frumuseţea Domnului şi să cercetez locaşul Lui."
+        "ron": "Ca să văd frumuseţea Domnului şi să cercetez locaşul Lui.",
+        "grk": "Σοὶ εἶπεν ἡ καρδία μου, ἐξεζήτησα τὸ πρόσωπόν σου, τὸ πρόσωπόν σου Κύριε ζητήσω."
       }
     },
     {
@@ -80,7 +88,8 @@
       "translation": "Turn not thy face away from me, turn not thou away from thy servant in anger: be thou my helper, forsake me not; and, O God my Saviour, overlook me not.",
       "words": [],
       "translations": {
-        "ron": "Că Domnul m-a ascuns în cortul Lui în ziua necazurilor mele; m-a acoperit în locul cel ascuns al cortului Lui;"
+        "ron": "Că Domnul m-a ascuns în cortul Lui în ziua necazurilor mele; m-a acoperit în locul cel ascuns al cortului Lui;",
+        "grk": "Μὴ ἀποστρέψῃς τὸ πρόσωπόν σου ἀπʼ ἐμοῦ, μὴ ἐκκλίνῃς ἐν ὀργῇ ἀπὸ τοῦ δούλου σου· βοηθός μου γενοῦ, μὴ ἐγκαταλίπῃς με, καὶ μὴ ὑπερίδῃς με ὁ Θεὸς ὁ σωτήρ μου."
       }
     },
     {
@@ -89,7 +98,8 @@
       "translation": "For my father and my mother have forsaken me, but the Lord has taken me to himself.",
       "words": [],
       "translations": {
-        "ron": "Pe piatră m-a înălţat. Şi acum iată, a înălţat capul meu peste vrăjmaşii mei."
+        "ron": "Pe piatră m-a înălţat. Şi acum iată, a înălţat capul meu peste vrăjmaşii mei.",
+        "grk": "Ὅτι ὁ πατήρ μου καὶ ἡ μήτηρ μου ἐγκατέλιπόν με, ὁ δὲ Κύριος προσελάβετό με."
       }
     },
     {
@@ -98,7 +108,8 @@
       "translation": "Teach me, O Lord, in thy way, and guide me in a right path, because of mine enemies.",
       "words": [],
       "translations": {
-        "ron": "Înconjurat-am şi am jertfit în cortul Lui jertfă de laudă. Îl voi lăuda şi voi cânta Domnului."
+        "ron": "Înconjurat-am şi am jertfit în cortul Lui jertfă de laudă. Îl voi lăuda şi voi cânta Domnului.",
+        "grk": "Νομοθέτησόν με, Κύριε, ἐν τῇ ὁδῷ σου, καὶ ὁδήγησόν με ἐν τρίβῳ εὐθείᾳ ἕνεκα τῶν ἐχθρῶν μου."
       }
     },
     {
@@ -107,7 +118,8 @@
       "translation": "Deliver me not over to the desire of them that afflict me; for unjust witnesses have risen up against me, and injustice has lied within herself.",
       "words": [],
       "translations": {
-        "ron": "Auzi, Doamne, glasul meu cu care am strigat; miluieşte-mă şi mă ascultă."
+        "ron": "Auzi, Doamne, glasul meu cu care am strigat; miluieşte-mă şi mă ascultă.",
+        "grk": "Μὴ παραδῷς με εἰς ψυχὰς θλιβόντων με, ὅτι ἐπανέστησάν μοι μάρτυρες ἄδικοι, καὶ ἐψεύσατο ἡ ἀδικία ἑαυτῇ."
       }
     },
     {

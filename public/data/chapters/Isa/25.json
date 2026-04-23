@@ -61,7 +61,8 @@
       "translations": {
         "lxx": "O Lord God, I will glorify thee, I will sing to thy name; for thou hast done wonderful things, even an ancient and faithful counsel. So be it.",
         "kjv": "O Lord, thou art my God; I will exalt thee, I will praise thy name; for thou hast done wonderful things; thy counsels of old are faithfulness and truth.",
-        "ron": "Doamne Dumnezeul meu, pe Tine Te voi înălţa, lăuda-voi numele Tău, că Tu ai făcut lucruri minunate; planurile Tale de mult întocmite sunt adevărate şi statornice."
+        "ron": "Doamne Dumnezeul meu, pe Tine Te voi înălţa, lăuda-voi numele Tău, că Tu ai făcut lucruri minunate; planurile Tale de mult întocmite sunt adevărate şi statornice.",
+        "grk": "Κύριε ὁ Θεὸς δοξάσω σε, ὑμνήσω τὸ ὄνομά σου, ὅτι ἐποίησας θαυμαστὰ πράγματα, βουλὴν ἀρχαίαν ἀληθινήν· γένοιτο."
       }
     },
     {
@@ -128,7 +129,8 @@
       "translations": {
         "lxx": "For thou hast made cities a heap, even cities made strong that their foundations should not fall: the city of ungodly men shall not be built for ever.",
         "kjv": "For thou hast made of a city an heap; of a defenced city a ruin: a palace of strangers to be no city; it shall never be built.",
-        "ron": "Că Tu ai făcut din cetate o grămadă de pietre şi din cetatea cea întărită o dărâmătură. Cetatea celor fără de lege nu mai este cetate, zidită nu va mai fi în veci."
+        "ron": "Că Tu ai făcut din cetate o grămadă de pietre şi din cetatea cea întărită o dărâmătură. Cetatea celor fără de lege nu mai este cetate, zidită nu va mai fi în veci.",
+        "grk": "Ὅτι ἔθηκας πόλεις εἰς χῶμα, πόλεις ὀχυρὰς τοῦ μὴ πεσεῖν αὐτῶν τὰ θεμέλια· τῶν ἀσεβῶν πόλις τὸν αἰῶνα οὐ μὴ οἰκοδομηθῇ."
       }
     },
     {
@@ -180,7 +182,8 @@
       "translations": {
         "lxx": "Therefore shall the poor people bless thee, and cities of injured men shall bless thee.",
         "kjv": "Therefore shall the strong people glorify thee, the city of the terrible nations shall fear thee.",
-        "ron": "Pentru aceasta un popor tare Te va preaslăvi, cetatea puternicelor neamuri de Tine se va teme."
+        "ron": "Pentru aceasta un popor tare Te va preaslăvi, cetatea puternicelor neamuri de Tine se va teme.",
+        "grk": "Διατοῦτο εὐλογήσει σε ὁ λαὸς ὁ πτωχὸς, καὶ πόλεις ἀνθρώπων ἀδικουμένων εὐλογήσουσί σε."
       }
     },
     {
@@ -267,7 +270,8 @@
       "translations": {
         "lxx": "For thou hast been a helper to every lowly city, and a shelter to them that were disheartened by reason of poverty: thou shalt deliver them from wicked men: thou hast been a shelter of them that thirst, and a refreshing air to injured men.",
         "kjv": "For thou hast been a strength to the poor, a strength to the needy in his distress, a refuge from the storm, a shadow from the heat, when the blast of the terrible ones is as a storm against the wall.",
-        "ron": "Fost-ai scăpare pentru cel sărman, adăpost pentru cel ce era în strâmtorare, liman în vremi vijelioase, umbră în vreme de căldură. Căci suflarea celor apăsători este ca furtuna de iarnă"
+        "ron": "Fost-ai scăpare pentru cel sărman, adăpost pentru cel ce era în strâmtorare, liman în vremi vijelioase, umbră în vreme de căldură. Căci suflarea celor apăsători este ca furtuna de iarnă",
+        "grk": "Ἐγένου γὰρ πάσῃ πόλει ταπεινῇ βοηθὸς, καὶ τοῖς ἀθυμήσασιν διʼ ἔνδειαν σκέπη, ἀπὸ ἀνθρώπων πονηρῶν ῥύσῃ αὐτούς· σκέπη διψώντων, καὶ πνεῦμα ἀνθρώπων ἀδικουμένων."
       }
     },
     {
@@ -334,7 +338,8 @@
       "translations": {
         "lxx": "We were as faint-hearted men thirsting in Sion, by reason of ungodly men to whom thou didst deliver us.",
         "kjv": "Thou shalt bring down the noise of strangers, as the heat in a dry place; even the heat with the shadow of a cloud: the branch of the terrible ones shall be brought low.",
-        "ron": "Şi ca arşiţa soarelui într-un pământ uscat. Ai potolit zarva celor nelegiuiţi. Precum se potoleşte căldura la umbra unui nor, aşa se va domoli cântecul de biruinţă al stăpânitorilor silnici."
+        "ron": "Şi ca arşiţa soarelui într-un pământ uscat. Ai potolit zarva celor nelegiuiţi. Precum se potoleşte căldura la umbra unui nor, aşa se va domoli cântecul de biruinţă al stăpânitorilor silnici.",
+        "grk": "Ὡς ἄνθρωποι ὀλιγόψυχοι διψῶντες ἐν Σιὼν, ἀπὸ ἀνθρώπων ἀσεβῶν, οἷς ἡμᾶς παρέδωκας."
       }
     },
     {
@@ -406,7 +411,8 @@
       "translations": {
         "lxx": "And the Lord of hosts shall make a feast for all the nations: on this mount they shall drink gladness, they shall drink wine:",
         "kjv": "And in this mountain shall the LORD of hosts make unto all people a feast of fat things, a feast of wines on the lees, of fat things full of marrow, of wines on the lees well refined.",
-        "ron": "Şi Domnul Savaot va pregăti în muntele acesta pentru toate popoarele un ospăţ de cărnuri grase, un ospăţ cu vinuri bune, cărnuri grase cu măduvă, vinuri bune, limpezite!"
+        "ron": "Şi Domnul Savaot va pregăti în muntele acesta pentru toate popoarele un ospăţ de cărnuri grase, un ospăţ cu vinuri bune, cărnuri grase cu măduvă, vinuri bune, limpezite!",
+        "grk": "Καὶ ποιήσει Κύριος σαβαὼθ πᾶσι τοῖς ἔθνεσιν· ἐπὶ τὸ ὄρος τοῦτο πίονται εὐφροσύνην, πίονται οἶνον·"
       }
     },
     {
@@ -438,7 +444,8 @@
       "translations": {
         "lxx": "they shall anoint themselves with ointment in this mountain. Impart thou all these things to the nations; for this is God's counsel upon all the nations.",
         "kjv": "And he will destroy in this mountain the face of the covering cast over all people, and the vail that is spread over all nations.",
-        "ron": "Şi în muntele acesta El va da la o parte vălul care învăluie toate popoarele şi perdeaua care acoperă toate neamurile."
+        "ron": "Şi în muntele acesta El va da la o parte vălul care învăluie toate popoarele şi perdeaua care acoperă toate neamurile.",
+        "grk": "Χρίσονται μύρον ἐν τῷ ὄρει τούτῳ· παράδος ταῦτα πάντα τοῖς ἔθνεσιν· ἡ γὰρ βουλὴ αὕτη ἐπὶ πάντα τὰ ἔθνη."
       }
     },
     {
@@ -545,7 +552,8 @@
       "translations": {
         "lxx": "Death has prevailed and swallowed men up; but again the Lord God has taken away every tear from every face. He has taken away the reproach of his people from all the earth: for the mouth of the Lord has spoken it.",
         "kjv": "He will swallow up death in victory; and the Lord GOD will wipe away tears from off all faces; and the rebuke of his people shall he take away from off all the earth: for the LORD hath spoken it.",
-        "ron": "El va înlătura moartea pe vecie! Şi Domnul Dumnezeu va şterge lacrimile de pe toate feţele şi ruşinea poporului Său o va îndepărta de pe pământ, căci Domnul a grăit!"
+        "ron": "El va înlătura moartea pe vecie! Şi Domnul Dumnezeu va şterge lacrimile de pe toate feţele şi ruşinea poporului Său o va îndepărta de pe pământ, căci Domnul a grăit!",
+        "grk": "Κατέπιεν ὁ θάνατος ἰσχύσας, καὶ πάλιν ἀφεῖλε Κύριος ὁ Θεὸς πᾶν δάκρυον ἀπὸ παντὸς προσώπου· τὸ ὄνειδος τοῦ λαοῦ ἀφεῖλεν ἀπὸ πάσης τῆς γῆς, τὸ γὰρ στόμα Κυρίου ἐλάλησε."
       }
     },
     {
@@ -597,7 +605,8 @@
       "translations": {
         "lxx": "And in that day they shall say, Behold our God in whom we have trusted, and he shall save us: this is the Lord; we have waited for him, and we have exulted, and will rejoice in our salvation.",
         "kjv": "And it shall be said in that day, Lo, this is our God; we have waited for him, and he will save us: this is the LORD; we have waited for him, we will be glad and rejoice in his salvation.",
-        "ron": "Şi se va zice în ziua aceea: Iată Dumnezeul nostru în Care nădăjduiam ca să fim mântuiţi. Iată Domnul, în Care am nădăjduit, să ne bucurăm şi să ne veselim de mântuirea Lui,"
+        "ron": "Şi se va zice în ziua aceea: Iată Dumnezeul nostru în Care nădăjduiam ca să fim mântuiţi. Iată Domnul, în Care am nădăjduit, să ne bucurăm şi să ne veselim de mântuirea Lui,",
+        "grk": "Καὶ ἐροῦσι τῇ ἡμέρᾳ ἐκείνῃ, ἰδοὺ ὁ Θεὸς ἡμῶν ἐφʼ ᾧ ἠλπίζομεν, καὶ σώσει ἡμᾶς· οὗτος Κύριος, ὑπεμείναμεν αὐτῷ, καὶ ἠγαλλιώμεθα καὶ εὐφρανθησόμεθα ἐπὶ τῇ σωτηρίᾳ ἡμῶν."
       }
     },
     {
@@ -659,7 +668,8 @@
       "translations": {
         "lxx": "God will give rest on this mountain, and the country of Moab shall be trodden down, as they tread the floor with waggons.",
         "kjv": "For in this mountain shall the hand of the LORD rest, and Moab shall be trodden down under him, even as straw is trodden down for the dunghill.",
-        "ron": "Că mâna Domnului se va odihni pe acest munte. Moabul însă va fi călcat în picioare pe locul lui, ca nişte paie în groapa cu gunoi."
+        "ron": "Că mâna Domnului se va odihni pe acest munte. Moabul însă va fi călcat în picioare pe locul lui, ca nişte paie în groapa cu gunoi.",
+        "grk": "Ἀνάπαυσιν δώσει ὁ Θεὸς ἐπὶ τὸ ὄρος τοῦτο, καὶ καταπατηθήσεται ἡ Μωαβίτις, ὃν τρόπον πατοῦσιν ἅλωνα ἐν ἁμάξαις."
       }
     },
     {
@@ -726,7 +736,8 @@
       "translations": {
         "lxx": "And he shall spread forth his hands, even as he also brings down man to destroy him: and he shall bring low his pride in regard to the thing on which he has laid his hands.",
         "kjv": "And he shall spread forth his hands in the midst of them, as he that swimmeth spreadeth forth his hands to swim: and he shall bring down their pride together with the spoils of their hands.",
-        "ron": "Şi va întinde mâinile sale, precum înotătorul le întinde ca să înoate. Dar Domnul va zdrobi mândria lui şi silinţele mâinilor lui."
+        "ron": "Şi va întinde mâinile sale, precum înotătorul le întinde ca să înoate. Dar Domnul va zdrobi mândria lui şi silinţele mâinilor lui.",
+        "grk": "Καὶ ἀνήσει τὰς χεῖρας αὐτοῦ, ὃν τρόπον καὶ αὐτὸς ἐταπείνωσε τοῦ ἀπολέσαι· καὶ ταπεινώσει τὴν ὕβριν αὐτοῦ, ἐφʼ ἃ τὰς χεῖρας ἐπέβαλε."
       }
     },
     {
@@ -768,7 +779,8 @@
       "translations": {
         "lxx": "And he shall bring down the height of the refuge of the wall, and it shall come down even to the ground.",
         "kjv": "And the fortress of the high fort of thy walls shall he bring down, lay low, and bring to the ground, even to the dust.",
-        "ron": "Întăriturile lui măreţe şi înalte le va nimici, le va răsturna şi la pământ le va culca, în ţărână."
+        "ron": "Întăriturile lui măreţe şi înalte le va nimici, le va răsturna şi la pământ le va culca, în ţărână.",
+        "grk": "Καὶ τὸ ὕψος τῆς καταφυγῆς τοῦ τοίχου ταπεινώσει, καὶ καταβήσεται ἕως τοῦ ἐδάφους."
       }
     }
   ],

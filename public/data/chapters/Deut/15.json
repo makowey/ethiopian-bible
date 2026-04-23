@@ -31,7 +31,8 @@
       "translations": {
         "lxx": "Every seven years thou shalt make a release.",
         "kjv": "At the end of every seven years thou shalt make a release.",
-        "ron": "\"În anul al şaptelea vei face iertare."
+        "ron": "\"În anul al şaptelea vei face iertare.",
+        "grk": "Διʼ ἑπτὰ ἐτῶν ποιήσεις ἄφεσιν."
       }
     },
     {
@@ -123,7 +124,8 @@
       "translations": {
         "lxx": "And this is the ordinance of the release: thou shalt remit every private debt which thy neighbour owes thee, and thou shalt not ask payment of it from thy brother; for it has been called a release to the Lord thy God.",
         "kjv": "And this is the manner of the release: Every creditor that lendeth ought unto his neighbour shall release it; he shall not exact it of his neighbour, or of his brother; because it is called the LORD’s release.",
-        "ron": "Iertarea însă va fi aceasta: tot împrumutătorul, care dă împrumut aproapelui său, să ierte datoria şi să n-o mai ceară de la aproapele său sau de la fratele său, că s-a vestit iertarea în cinstea Domnului Dumnezeului tău."
+        "ron": "Iertarea însă va fi aceasta: tot împrumutătorul, care dă împrumut aproapelui său, să ierte datoria şi să n-o mai ceară de la aproapele său sau de la fratele său, că s-a vestit iertarea în cinstea Domnului Dumnezeului tău.",
+        "grk": "Καὶ οὕτω τὸ πρόσταγμα τῆς ἀφέσεως· ἀφήσεις πᾶν χρέος ἴδιον, ὃ ὀφείλει σοι ὁ πλησίον, καὶ τὸν ἀδελφόν σου οὐκ ἀπαιτήσεις· ἐπικέκληται γὰρ ἄφεσις Κυρίῳ τῷ Θεῷ σου."
       }
     },
     {
@@ -185,7 +187,8 @@
       "translations": {
         "lxx": "Of a stranger thou shalt ask again whatsoever he has of thine, but to thy brother thou shalt remit his debt to thee.",
         "kjv": "Of a foreigner thou mayest exact it again: but that which is thine with thy brother thine hand shall release;",
-        "ron": "De la cel de alt neam să ceri datoria; iar ce vei avea la fratele tău, să-i ierţi."
+        "ron": "De la cel de alt neam să ceri datoria; iar ce vei avea la fratele tău, să-i ierţi.",
+        "grk": "Τὸν ἀλλότριον ἀπαιτήσεις ὅσα ἐὰν ἠ· σοι παρʼ αὐτῷ, τῷ δὲ ἀδελφῷ σου ἄφεσιν ποιήσεις τοῦ χρέους σου."
       }
     },
     {
@@ -282,7 +285,8 @@
       "translations": {
         "lxx": "For thus there shall not be a poor person in the midst of thee, for the Lord thy God will surely bless thee in the land which the Lord thy God gives thee by inheritance, that thou shouldest inherit it.",
         "kjv": "Save when there shall be no poor among you; for the LORD shall greatly bless thee in the land which the LORD thy God giveth thee for an inheritance to possess it:",
-        "ron": "Numai aşa nu va fi sărac printre voi; că te va binecuvânta Domnul în pământul acela pe care Domnul Dumnezeul tău ţi-l dă în stăpânire, ca să-l ai moştenire,"
+        "ron": "Numai aşa nu va fi sărac printre voi; că te va binecuvânta Domnul în pământul acela pe care Domnul Dumnezeul tău ţi-l dă în stăpânire, ca să-l ai moştenire,",
+        "grk": "Ὅτι οὐκ ἔσται ἐν σοὶ ἐνδεὴς, ὅτι εὐλογῶν εὐλογήσει σε Κύριος ὁ Θεός σου ἐν τῇ γῇ, ᾗ Κύριος ὁ Θεός σου δίδωσί σοι ἐν κλήρῳ κατακληρονομεῖν σε αὐτήν."
       }
     },
     {
@@ -364,7 +368,8 @@
       "translations": {
         "lxx": "And if ye shall indeed hearken to the voice of the Lord your God, to keep and do all these commandments, as many as I charge thee this day,",
         "kjv": "Only if thou carefully hearken unto the voice of the LORD thy God, to observe to do all these commandments which I command thee this day.",
-        "ron": "Dacă vei asculta glasul Domnului Dumnezeului tău şi te vei sili să plineşti toate poruncile acestea, care ţi le spun eu astăzi."
+        "ron": "Dacă vei asculta glasul Domnului Dumnezeului tău şi te vei sili să plineşti toate poruncile acestea, care ţi le spun eu astăzi.",
+        "grk": "Ἐὰν δὲ ἀκοῇ εἰσακούσητε τῆς φωνῆς Κυρίου τοῦ Θεοῦ ὑμῶν φυλάσσειν καὶ ποιεῖν πάσας τὰς ἐντολὰς ταύτας, ὅσας ἐγὼ ἐντέλλομαί σοι σήμερον,"
       }
     },
     {
@@ -461,7 +466,8 @@
       "translations": {
         "lxx": "(for the Lord thy God has blessed thee in the way of which he spoke to thee,) then thou shalt lend to many nations, but thou shalt not borrow; and thou shalt rule over many nations, but they shall not rule over thee.",
         "kjv": "For the LORD thy God blesseth thee, as he promised thee: and thou shalt lend unto many nations, but thou shalt not borrow; and thou shalt reign over many nations, but they shall not reign over thee.",
-        "ron": "Căci Domnul Dumnezeul tău te va binecuvânta, după cum i-a grăit şi vei da împrumut altor poare, iar tu nu vei lua împrumut; şi ţi domni peste multe popoare, iar acelea nu vor domni peste tine."
+        "ron": "Căci Domnul Dumnezeul tău te va binecuvânta, după cum i-a grăit şi vei da împrumut altor poare, iar tu nu vei lua împrumut; şi ţi domni peste multe popoare, iar acelea nu vor domni peste tine.",
+        "grk": "ὅτι Κύριος ὁ Θεός σου εὐλόγησέ σε ὃν τρόπον ἐλάλησέ σοι· καὶ δανειεῖς ἔθνεσι πολλοῖς, σὺ δὲ οὐ δανειῇ· καὶ ἄρξεις ἐθνῶν πολλῶν, σοῦ δὲ οὐκ ἄρξουσιν."
       }
     },
     {
@@ -553,7 +559,8 @@
       "translations": {
         "lxx": "And if there shall be in the midst of thee a poor man of thy brethren in one of thy cities in the land, which the Lord thy God gives thee, thou shalt not harden thine heart, neither shalt thou by any means close up thine hand from thy brother who is in want.",
         "kjv": "If there be among you a poor man of one of thy brethren within any of thy gates in thy land which the LORD thy God giveth thee, thou shalt not harden thine heart, nor shut thine hand from thy poor brother:",
-        "ron": "Iar de va fi la tine sărac vreunul din fraţii tăi, în vreuna din cetăţile tale de pe pământul tău pe care ţi-l dă Domnul Dumnezeul tău, să nu-ţi învârtoşezi inima, nici să-ţi închizi mâna ta înaintea fratelui tău celui sărac;"
+        "ron": "Iar de va fi la tine sărac vreunul din fraţii tăi, în vreuna din cetăţile tale de pe pământul tău pe care ţi-l dă Domnul Dumnezeul tău, să nu-ţi învârtoşezi inima, nici să-ţi închizi mâna ta înaintea fratelui tău celui sărac;",
+        "grk": "Ἐὰν δὲ γένηται ἐν σοὶ ἐνδεὴς ἐκ τῶν ἀδελφῶν σου ἐν μιᾷ τῶν πόλεών σου ἐν τῇ γῇ, ᾗ Κύριος ὁ Θεός σου δίδωσί σοι, οὐκ ἀποστέρξεις τὴν καρδίαν σου, οὐδʼ οὐ μὴ συσφίγξεις τὴν χεῖρά σου ἀπὸ τοῦ ἀδελφοῦ σου τοῦ ἐπιδεομένου."
       }
     },
     {
@@ -605,7 +612,8 @@
       "translations": {
         "lxx": "Thou shalt surely open thine hands to him, and shalt lend to him as much as he wants according to his need.",
         "kjv": "But thou shalt open thine hand wide unto him, and shalt surely lend him sufficient for his need, in that which he wanteth.",
-        "ron": "Ci să-i deschizi mâna ta şi să-i dai împrumuturi potrivite cu nevoia lui şi cu lipsa ce suferă."
+        "ron": "Ci să-i deschizi mâna ta şi să-i dai împrumuturi potrivite cu nevoia lui şi cu lipsa ce suferă.",
+        "grk": "Ἀνοίγων ἀνοίξεις τὰς χεῖράς σου αὐτῷ, καὶ δάνειον δανειεῖς αὐτῷ ὅσον ἐπιδέεται, καθότι ἐνδεεῖται."
       }
     },
     {
@@ -752,7 +760,8 @@
       "translations": {
         "lxx": "Take heed to thyself that there be not a secret thing in thine heart, an iniquity, saying, The seventh year, the year of release, draws nigh; and thine eye shall be evil to thy brother that is in want, and thou shalt not give to him, and he shall cry against thee to the Lord, and there shall be great sin in thee.",
         "kjv": "Beware that there be not a thought in thy wicked heart, saying, The seventh year, the year of release, is at hand; and thine eye be evil against thy poor brother, and thou givest him nought; and he cry unto the LORD against thee, and it be sin unto thee.",
-        "ron": "Păzeşte-te să nu intre în inima ta gândul nelegiuit şi să zici: Se apropie anul al şaptelea, anul iertării; şi să nu se facă din pricina aceasta ochiul tău nemilostiv către fratele tău cel sărac şi să-l treci cu vederea; că acela va striga împotriva ta către Domnul şi va fi asupra ta păcat mare."
+        "ron": "Păzeşte-te să nu intre în inima ta gândul nelegiuit şi să zici: Se apropie anul al şaptelea, anul iertării; şi să nu se facă din pricina aceasta ochiul tău nemilostiv către fratele tău cel sărac şi să-l treci cu vederea; că acela va striga împotriva ta către Domnul şi va fi asupra ta păcat mare.",
+        "grk": "Πρόσεχε σεαυτῷ μὴ γένηται ῥῆμα κρυπτὸν ἐν τῇ καρδίᾳ σου ἀνόμημα, λέγων, Ἐγγίζει τὸ ἔτος τὸ ἕβδομον, ἔτος τῆς ἀφέσεως, καὶ πονηρεύσηται ὁ ὀφθαλμός σου τῷ ἀδελφῷ σου τῷ ἐπιδεομένῳ, καὶ οὐ δώσεις αὐτῷ, καὶ καταβοήσεται κατὰ σοῦ πρὸς Κύριον, καὶ ἔσται ἐν σοὶ ἁμαρτία μεγάλη."
       }
     },
     {
@@ -879,7 +888,8 @@
       "translations": {
         "lxx": "Thou shalt surely give to him, and thou shalt lend him as much as he wants, according as he is in need; and thou shalt not grudge in thine heart as thou givest to him, because on this account the Lord thy God will bless thee in all thy works, and in all things on which thou shalt lay thine hand.",
         "kjv": "Thou shalt surely give him, and thine heart shall not be grieved when thou givest unto him: because that for this thing the LORD thy God shall bless thee in all thy works, and in all that thou puttest thine hand unto.",
-        "ron": "Dă-i, dă-i şi împrumuturi câte-ţi va cere şi cît îi va trebui, şi când îi vei da, să nu se întristeze inima ta, căci pentru aceasta te va binecuvânta Domnul Dumnezeul tău în toate lucrurile tale şi în toate câte se vor lucra de mâinile tale."
+        "ron": "Dă-i, dă-i şi împrumuturi câte-ţi va cere şi cît îi va trebui, şi când îi vei da, să nu se întristeze inima ta, căci pentru aceasta te va binecuvânta Domnul Dumnezeul tău în toate lucrurile tale şi în toate câte se vor lucra de mâinile tale.",
+        "grk": "Διδοὺς δώσεις αὐτῷ, καὶ δάνειον δανειεῖς αὐτῷ ὅσον ἐπιδέεται, καθότι ἐνδεεῖται· καὶ οὐ λυπηθήσῃ τῇ καρδίᾳ σου διδόντος σου αὐτῷ, ὅτι διὰ τὸ ῥῆμα τοῦτο εὐλογήσει σε Κύριος ὁ Θεός σου ἐν πᾶσιν τοῖς ἔργοις καὶ ἐν πᾶσι οὗ ἂν ἐπιβάλῃς τὴν χεῖρά σου."
       }
     },
     {
@@ -1026,7 +1036,8 @@
       "translations": {
         "lxx": "For the poor shall not fail off thy land, therefore I charge thee to do this thing, saying, Thou shalt surely open thine hands to thy poor brother, and to him that is distressed upon thy land.",
         "kjv": "For the poor shall never cease out of the land: therefore I command thee, saying, Thou shalt open thine hand wide unto thy brother, to thy poor, and to thy needy, in thy land.",
-        "ron": "Căci nu va lipsi sărac din pământul tău; de aceea îţi şi poruncesc eu: Deschide mâna ta fratelui tău, săracului tău şi celui lipsit din pământul tău."
+        "ron": "Căci nu va lipsi sărac din pământul tău; de aceea îţi şi poruncesc eu: Deschide mâna ta fratelui tău, săracului tău şi celui lipsit din pământul tău.",
+        "grk": "Οὐ γὰρ μὴ ἐκλίπῃ ἐνδεὴς ἀπὸ τῆς γῆς σου· διὰ τοῦτο ἐγώ σοι ἐντέλλομαι ποιεῖν τὸ ῥῆμα τοῦτο, λέγων, ἀνοίγων ἀνοίξεις τὰς χεῖράς σου τῷ ἀδελφῷ σου τῷ πένητι καὶ τῷ ἐπιδεομένῳ τῷ ἐπὶ τῆς γῆς σου."
       }
     },
     {
@@ -1118,7 +1129,8 @@
       "translations": {
         "lxx": "And if thy brother or sister, a Hebrew man or a Hebrew woman, be sold to thee, he shall serve thee six years, and in the seventh year thou shalt send him out free from thee.",
         "kjv": "And if thy brother, an Hebrew man, or an Hebrew woman, be sold unto thee, and serve thee six years; then in the seventh year thou shalt let him go free from thee.",
-        "ron": "De ţi se va vinde ţie fratele tău, evreu sau evreică, şase ani să fie rob la tine, iar în anul al şaptelea să-i dai drumul de la tine, slobod."
+        "ron": "De ţi se va vinde ţie fratele tău, evreu sau evreică, şase ani să fie rob la tine, iar în anul al şaptelea să-i dai drumul de la tine, slobod.",
+        "grk": "Ἐὰν δὲ πραθῇ σοι ὁ ἀδελφός σου ὁ Ἑβραῖος ἢ Ἐβραία, δουλεύσει σοι ἓξ ἔτη, καὶ τῷ ἑβδόμῳ ἐξαποστελεῖς αὐτὸν ἐλεύθερον ἀπὸ σοῦ."
       }
     },
     {
@@ -1140,7 +1152,8 @@
       "translations": {
         "lxx": "And when thou shalt send him out free from thee, thou shalt not send him out empty.",
         "kjv": "And when thou sendest him out free from thee, thou shalt not let him go away empty:",
-        "ron": "Iar când îi vei da drumul ca să fie slobod, să nu-i dai drumul cu mâinile goale;"
+        "ron": "Iar când îi vei da drumul ca să fie slobod, să nu-i dai drumul cu mâinile goale;",
+        "grk": "Ὅταν δὲ ἐξαποστέλλῃς αὐτὸν ἐλεύθερον ἀπὸ σοῦ, οὐκ ἐξαποστελεῖς αὐτὸν κενόν."
       }
     },
     {
@@ -1222,7 +1235,8 @@
       "translations": {
         "lxx": "Thou shalt give him provision for the way from thy flock, and from thy corn, and from thy wine; as the Lord thy God has blessed thee, thou shalt give to him.",
         "kjv": "Thou shalt furnish him liberally out of thy flock, and out of thy floor, and out of thy winepress: of that wherewith the LORD thy God hath blessed thee thou shalt give unto him.",
-        "ron": "Ci înzestrează-l din turmele tale, din aria ta, de la teascul tău; dă-i şi lui din cele cu care te-a binecuvântat Domnul Dumnezeul tău."
+        "ron": "Ci înzestrează-l din turmele tale, din aria ta, de la teascul tău; dă-i şi lui din cele cu care te-a binecuvântat Domnul Dumnezeul tău.",
+        "grk": "Ἐφόδιον ἐφοδιάσεις αὐτὸν ἀπὸ τῶν προβάτων σου, καὶ ἀπὸ τοῦ σίτου σου, καὶ ἀπὸ τοῦ οἴνου σου· καθὰ εὐλόγησέ σε Κύριος ὁ Θεός σου, δώσεις αὐτῷ."
       }
     },
     {
@@ -1314,7 +1328,8 @@
       "translations": {
         "lxx": "And thou shalt remember that thou wast a servant in the land of Egypt, and the Lord thy God redeemed thee from thence; therefore I charge thee to do this thing.",
         "kjv": "And thou shalt remember that thou wast a bondman in the land of Egypt, and the LORD thy God redeemed thee: therefore I command thee this thing to day.",
-        "ron": "Adu-ţi aminte că şi tu ai fost rob în pământul Egiptului şi te-a izbăvit Domnul Dumnezeul tău. Iată pentru ce îţi poruncesc acestea astăzi."
+        "ron": "Adu-ţi aminte că şi tu ai fost rob în pământul Egiptului şi te-a izbăvit Domnul Dumnezeul tău. Iată pentru ce îţi poruncesc acestea astăzi.",
+        "grk": "Καὶ μνησθήσῃ ὅτι οἰκέτης ἦσθα ἐν γῇ Αἰγύπτου, καὶ ἐλυτρώσατό σε Κύριος ὁ Θεός σοῦ ἐκεῖθεν· διὰ τοῦτο ἐγώ σοι ἐντέλλομαι ποιεῖν τὸ ῥῆμα τοῦτο."
       }
     },
     {
@@ -1381,7 +1396,8 @@
       "translations": {
         "lxx": "And if he should say to thee, I will not go out from thee, because he continues to love thee and thy house, because he is well with thee;",
         "kjv": "And it shall be, if he say unto thee, I will not go away from thee; because he loveth thee and thine house, because he is well with thee;",
-        "ron": "Iar dacă acela îţi va zice: Nu mă duc de la tine, pentru că te iubesc pe tine şi casa ta, şi deci îi este bine la tine,"
+        "ron": "Iar dacă acela îţi va zice: Nu mă duc de la tine, pentru că te iubesc pe tine şi casa ta, şi deci îi este bine la tine,",
+        "grk": "Ἐὰν δὲ λέγῃ πρὸς σὲ, οὐκ ἐξελεύσομαι ἀπὸ σοῦ, ὅτι ἠγάπηκέ σε καὶ τὴν οἰκίαν σου, ὅτι εὖ ἐστιν αὐτῷ παρὰ σοί."
       }
     },
     {
@@ -1468,7 +1484,8 @@
       "translations": {
         "lxx": "then thou shalt take an awl, and bore his ear through to the door, and he shall be thy servant for ever; and in like manner shalt thou do to thy maid-servant.",
         "kjv": "Then thou shalt take an aul, and thrust it through his ear unto the door, and he shall be thy servant for ever. And also unto thy maidservant thou shalt do likewise.",
-        "ron": "Să iei sula şi să-i găureşti urechea lui de uşor, şi îţi va fi rob pe vecie. Tot aşa să faci şi cu roaba ta."
+        "ron": "Să iei sula şi să-i găureşti urechea lui de uşor, şi îţi va fi rob pe vecie. Tot aşa să faci şi cu roaba ta.",
+        "grk": "Καὶ λήψῃ τὸ ὀπήτιον, καὶ τρυπήσεις τὸ ὠτίον αὐτοῦ πρὸς τὴν θύραν, καὶ ἔσται σοι οἰκέτης εἰς τὸν αἰῶνα· καὶ τὴν παιδίσκην σου ὡσαύτως ποιήσεις."
       }
     },
     {
@@ -1565,7 +1582,8 @@
       "translations": {
         "lxx": "It shall not seem hard to thee when they are sent out free from thee, because thy servant has served thee six years according to the annual hire of a hireling; so the Lord thy God shall bless thee in all things whatsoever thou mayest do.",
         "kjv": "It shall not seem hard unto thee, when thou sendest him away free from thee; for he hath been worth a double hired servant to thee, in serving thee six years: and the LORD thy God shall bless thee in all that thou doest.",
-        "ron": "Să nu socoteşti o greutate pentru tine când va trebui să-i dai drumul de la tine ca să fie slobod, căci în şase ani ţi-a muncit de două ori cât plata unui străin şi te va binecuvânta Domnul Dumnezeul tău în toate câte vei face."
+        "ron": "Să nu socoteşti o greutate pentru tine când va trebui să-i dai drumul de la tine ca să fie slobod, căci în şase ani ţi-a muncit de două ori cât plata unui străin şi te va binecuvânta Domnul Dumnezeul tău în toate câte vei face.",
+        "grk": "Οὐ σκληρὸν ἔσται ἐναντίον σου ἐξαποστελλομένων αὐτῶν ἐλευθέρων ἀπὸ σου, ὅτι ἐπέτειον μισθὸν τοῦ μισθωτοῦ ἐδούλευσέ σοι ἓξ ἔτη· καὶ εὐλογήσει σε Κύριος ὁ Θεός σου ἐν πᾶσιν οἷς ἐὰν ποιῇς."
       }
     },
     {
@@ -1657,7 +1675,8 @@
       "translations": {
         "lxx": "Every first-born that shall be born among thy kine and thy sheep, thou shalt sanctify the males to the Lord thy God; thou shalt not work with thy first-born calf, and thou shalt not shear the first-born of thy sheep.",
         "kjv": "All the firstling males that come of thy herd and of thy flock thou shalt sanctify unto the LORD thy God: thou shalt do no work with the firstling of thy bullock, nor shear the firstling of thy sheep.",
-        "ron": "Tot întâiul născut de parte bărbătească, ce se va naşte din vitele tale cele mari şi din vitele mărunte ale tale, să-l închini Domnului Dumnezeului tău. Să nu lucrezi cu boul tău întâi-născut şi să nu tunzi pe întâiul născut din vitele tale mărunte."
+        "ron": "Tot întâiul născut de parte bărbătească, ce se va naşte din vitele tale cele mari şi din vitele mărunte ale tale, să-l închini Domnului Dumnezeului tău. Să nu lucrezi cu boul tău întâi-născut şi să nu tunzi pe întâiul născut din vitele tale mărunte.",
+        "grk": "Πᾶν πρωτότοκον ὃ ἐὰν τεχθῇ ἐν ταῖς βουσί σου, καὶ ἐν τοῖς προβάτοις σου, τὰ ἀρσενικὰ ἁγιάσεις Κυρίῳ τῷ Θεῷ σου· οὐκ ἐργᾷ ἐν τῷ πρωτοτόκῳ μόσχῳ σου, καὶ οὐ μὴ κείρῃς τὰ πρωτότοκα τῶν προβάτων σου."
       }
     },
     {
@@ -1734,7 +1753,8 @@
       "translations": {
         "lxx": "Thou shalt eat it before the Lord year by year in the place which the Lord thy God shall choose, thou and thy house.",
         "kjv": "Thou shalt eat it before the LORD thy God year by year in the place which the LORD shall choose, thou and thy household.",
-        "ron": "Înaintea Domnului Dumnezeului tău să mănânci acestea în fiecare an, tu şi familia ta, la locul pe care-l va alege Domnul Dumnezeul tău."
+        "ron": "Înaintea Domnului Dumnezeului tău să mănânci acestea în fiecare an, tu şi familia ta, la locul pe care-l va alege Domnul Dumnezeul tău.",
+        "grk": "Ἔναντι Κυρίου φαγῇ αὐτὸ ἐνιαυτὸν ἐξ ἐνιαυτοῦ ἐν τῷ τόπῳ ᾧ ἐὰν ἐκλέξηται Κύριος ὁ Θεός σου, σὺ καὶ ὁ οἶκός σου."
       }
     },
     {
@@ -1826,7 +1846,8 @@
       "translations": {
         "lxx": "And if there be in it a blemish, if it be lame or blind, an evil blemish, thou shalt not sacrifice it to the Lord thy God.",
         "kjv": "And if there be any blemish therein, as if it be lame, or blind, or have any ill blemish, thou shalt not sacrifice it unto the LORD thy God.",
-        "ron": "Dar dacă va avea vreo meteahnă, şchiopătare, sau orbire, sau altă meteahnă oarecare, să nu-l aduci jertfă Domnului Dumnezeului tău,"
+        "ron": "Dar dacă va avea vreo meteahnă, şchiopătare, sau orbire, sau altă meteahnă oarecare, să nu-l aduci jertfă Domnului Dumnezeului tău,",
+        "grk": "Ἐὰν δὲ ἠ· ἐν αὐτῷ μῶμος, χωλὸν ἢ τυφλον, μῶμον πονηρὸν, οὐ θύσεις αὐτὸ Κυρίῳ τῷ Θεῷ σου."
       }
     },
     {
@@ -1888,7 +1909,8 @@
       "translations": {
         "lxx": "Thou shalt eat it in thy cities; the unclean in thee and the clean shall eat it in like manner, as the doe or the stag.",
         "kjv": "Thou shalt eat it within thy gates: the unclean and the clean person shall eat it alike, as the roebuck, and as the hart.",
-        "ron": "Ci să-l mănânci în cetăţile tale; atât cel necurat cît şi cel curat pot să mănânce din el, cum mănâncă o căprioară sau un cerb."
+        "ron": "Ci să-l mănânci în cetăţile tale; atât cel necurat cît şi cel curat pot să mănânce din el, cum mănâncă o căprioară sau un cerb.",
+        "grk": "Ἐν ταῖς πόλεσί σου φαγῇ αὐτό· ὁ ἀκάθαρτος ἐν σοι, καὶ ὁ καθαρὸς ὡσαύτως ἔδεται ὡς δορκάδα ἢ ἔλαφον."
       }
     },
     {
@@ -1940,7 +1962,8 @@
       "translations": {
         "lxx": "Only ye shall not eat the blood; thou shalt pour it out on the earth as water.",
         "kjv": "Only thou shalt not eat the blood thereof; thou shalt pour it upon the ground as water.",
-        "ron": "Numai sângele lui să nu-l mănânci, ci să-l verşi jos, ca apa\"."
+        "ron": "Numai sângele lui să nu-l mănânci, ci să-l verşi jos, ca apa\".",
+        "grk": "Πλὴν αἷμα οὐ φἀγεσθε· ἐπὶ τὴν γῆν ἐκχεεῖς αὐτὸ ὡς ὕδωρ."
       }
     }
   ],

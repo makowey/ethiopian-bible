@@ -36,7 +36,8 @@
       "translations": {
         "lxx": "In the beginning God made the heaven and the earth.",
         "kjv": "In the beginning God created the heaven and the earth.",
-        "ron": "La început a făcut Dumnezeu cerul şi pământul."
+        "ron": "La început a făcut Dumnezeu cerul şi pământul.",
+        "grk": "ἘΝ ἀρχῇ ἐποίησεν ὁ Θεὸς τὸν οὐρανὸν καὶ τὴν γῆν."
       }
     },
     {
@@ -108,7 +109,8 @@
       "translations": {
         "lxx": "But the earth was unsightly and unfurnished, and darkness was over the deep, and the Spirit of God moved over the water.",
         "kjv": "And the earth was without form, and void; and darkness was upon the face of the deep. And the Spirit of God moved upon the face of the waters.",
-        "ron": "Şi pământul era netocmit şi gol. Întuneric era deasupra adâncului şi Duhul lui Dumnezeu Se purta pe deasupra apelor."
+        "ron": "Şi pământul era netocmit şi gol. Întuneric era deasupra adâncului şi Duhul lui Dumnezeu Se purta pe deasupra apelor.",
+        "grk": "Ἡ δὲ γῆ ἦν ἀόρατος καὶ ἀκατασκεύαστος, καὶ σκότος ἐπάνω τῆς ἀβύσσου· καὶ πνεῦμα Θεοῦ ἐπεφέρετο ἐπάνω τοῦ ὕδατος."
       }
     },
     {
@@ -150,7 +152,8 @@
       "translations": {
         "lxx": "And God said, Let there be light, and there was light.",
         "kjv": "And God said, Let there be light: and there was light.",
-        "ron": "Şi a zis Dumnezeu: \"Să fie lumină!\" Şi a fost lumină."
+        "ron": "Şi a zis Dumnezeu: \"Să fie lumină!\" Şi a fost lumină.",
+        "grk": "Καὶ εἶπεν ὁ Θεὸς, γενηθήτω φῶς· καὶ ἐγένετο φῶς."
       }
     },
     {
@@ -217,7 +220,8 @@
       "translations": {
         "lxx": "And God saw the light that it was good, and God divided between the light and the darkness.",
         "kjv": "And God saw the light, that it was good: and God divided the light from the darkness.",
-        "ron": "Şi a văzut Dumnezeu că este bună lumina, şi a despărţit Dumnezeu lumina de întuneric."
+        "ron": "Şi a văzut Dumnezeu că este bună lumina, şi a despărţit Dumnezeu lumina de întuneric.",
+        "grk": "Καὶ εἶδεν ὁ Θεὸς τὸ φῶς, ὅτι καλόν· καὶ διεχώρισεν ὁ Θεὸς ἀνὰ μέσον τοῦ φωτὸς, καὶ ἀνὰ μέσον τοῦ σκότους."
       }
     },
     {
@@ -289,7 +293,8 @@
       "translations": {
         "lxx": "And God called the light Day, and the darkness he called Night, and there was evening and there was morning, the first day.",
         "kjv": "And God called the light Day, and the darkness he called Night. And the evening and the morning were the first day.",
-        "ron": "Lumina a numit-o Dumnezeu ziuă, iar întunericul l-a numit noapte. Şi a fost seară şi a fost dimineaţă: ziua întâi."
+        "ron": "Lumina a numit-o Dumnezeu ziuă, iar întunericul l-a numit noapte. Şi a fost seară şi a fost dimineaţă: ziua întâi.",
+        "grk": "Καὶ ἐκάλεσεν ὁ Θεὸς τὸ φῶς ἡμέραν, καὶ τὸ σκότος ἐκάλεσε νύκτα. Καὶ ἐγένετο ἑσπέρα, καὶ ἐγένετο πρωῒ, ἡμέρα μία."
       }
     },
     {
@@ -361,7 +366,8 @@
       "translations": {
         "lxx": "And God said, Let there be a firmament in the midst of the water, and let it be a division between water and water, and it was so.",
         "kjv": "And God said, Let there be a firmament in the midst of the waters, and let it divide the waters from the waters.",
-        "ron": "Şi a zis Dumnezeu: \"Să fie o tărie prin mijlocul apelor şi să despartă ape de ape!\" Şi a fost aşa."
+        "ron": "Şi a zis Dumnezeu: \"Să fie o tărie prin mijlocul apelor şi să despartă ape de ape!\" Şi a fost aşa.",
+        "grk": "Καὶ εἶπεν ὁ Θεὸς, γενηθήτω στερέωμα ἐν μέσῳ τοῦ ὕδατος· καὶ ἔστω διαχωρίζον ἀνὰ μέσον ὕδατος καὶ ὕδατος· καὶ ἐγένετο οὕτως."
       }
     },
     {
@@ -438,7 +444,8 @@
       "translations": {
         "lxx": "And God made the firmament, and God divided between the water which was under the firmament and the water which was above the firmament.",
         "kjv": "And God made the firmament, and divided the waters which were under the firmament from the waters which were above the firmament: and it was so.",
-        "ron": "A făcut Dumnezeu tăria şi a despărţit Dumnezeu apele cele de sub tărie de apele cele de deasupra tăriei."
+        "ron": "A făcut Dumnezeu tăria şi a despărţit Dumnezeu apele cele de sub tărie de apele cele de deasupra tăriei.",
+        "grk": "Καὶ ἐποίησεν ὁ Θεὸς τὸ στερέωμα· καὶ διεχώρισεν ὁ Θεὸς ἀνὰ μέσον τοῦ ὕδατος, ὃ ἦν ὑποκάτω τοῦ στερεώματος, καὶ ἀνὰ μέσον τοῦ ὕδατος, τοῦ ἐπάνω τοῦ στερεώματος."
       }
     },
     {
@@ -525,7 +532,8 @@
       "translations": {
         "lxx": "And God called the firmament Heaven, and God saw that it was good, and there was evening and there was morning, the second day.",
         "kjv": "And God called the firmament Heaven. And the evening and the morning were the second day.",
-        "ron": "Tăria a numit-o Dumnezeu cer. Şi a văzut Dumnezeu că este bine. Şi a fost seară şi a fost dimineaţă: ziua a doua."
+        "ron": "Tăria a numit-o Dumnezeu cer. Şi a văzut Dumnezeu că este bine. Şi a fost seară şi a fost dimineaţă: ziua a doua.",
+        "grk": "Καὶ ἐκάλεσεν ὁ Θεὸς τὸ στερέωμα οὐρανόν· καὶ εἶδεν ὁ Θεὸς ὅτι καλόν· καὶ ἐγένετο ἑσπέρα, καὶ ἐγένετο πρωῒ, ἡμέρα δευτέρα."
       }
     },
     {
@@ -632,7 +640,8 @@
       "translations": {
         "lxx": "And God said, Let the water which is under the heaven be collected into one place, and let the dry land appear, and it was so. And the water which was under the heaven was collected into its places, and the dry land appeared.",
         "kjv": "And God said, Let the waters under the heaven be gathered together unto one place, and let the dry land appear: and it was so.",
-        "ron": "Şi a zis Dumnezeu: \"Să se adune apele cele de sub cer la un loc şi să se arate uscatul!\" Şi a fost aşa. şi s-au adunat apele cele de sub cer la locurile lor şi s-a arătat uscatul."
+        "ron": "Şi a zis Dumnezeu: \"Să se adune apele cele de sub cer la un loc şi să se arate uscatul!\" Şi a fost aşa. şi s-au adunat apele cele de sub cer la locurile lor şi s-a arătat uscatul.",
+        "grk": "Καὶ εἶπεν ὁ Θεὸς, συναχθήτω τὸ ὕδωρ τὸ ὑποκάτω τοῦ οὐρανοῦ εἰς συναγωγὴν μίαν, καὶ ὀφθήτω ἡ ξηρά· καὶ ἐγένετο οὕτως· καὶ συνήχθη τὸ ὕδωρ τὸ ὑποκάτω τοῦ οὐρανοῦ εἰς τὰς συναγωγὰς αὐτῶν, καὶ ὤφθη ἡ ξηρά."
       }
     },
     {
@@ -704,7 +713,8 @@
       "translations": {
         "lxx": "And God called the dry land Earth, and the gatherings of the waters he called Seas, and God saw that it was good.",
         "kjv": "And God called the dry land Earth; and the gathering together of the waters called he Seas: and God saw that it was good.",
-        "ron": "Uscatul l-a numit Dumnezeu pământ, iar adunarea apelor a numit-o mări. Şi a văzut Dumnezeu că este bine."
+        "ron": "Uscatul l-a numit Dumnezeu pământ, iar adunarea apelor a numit-o mări. Şi a văzut Dumnezeu că este bine.",
+        "grk": "Καὶ ἐκάλεσεν ὁ Θεὸς τὴν ξηρὰν, γῆν· καὶ τὰ συστήματα τῶν ὑδάτων ἐκάλεσε θαλάσσας· καὶ εἶδεν ὁ Θεὸς ὅτι καλόν."
       }
     },
     {
@@ -836,7 +846,8 @@
       "translations": {
         "lxx": "And God said, Let the earth bring forth the herb of grass bearing seed according to its kind and according to its likeness, and the fruit-tree bearing fruit whose seed is in it, according to its kind on the earth, and it was so.",
         "kjv": "And God said, Let the earth bring forth grass, the herb yielding seed, and the fruit tree yielding fruit after his kind, whose seed is in itself, upon the earth: and it was so.",
-        "ron": "Apoi a zis Dumnezeu: \"Să dea pământul din sine verdeaţă: iarbă, cu sămânţă într-însa, după felul şi asemănarea ei, şi pomi roditori, care să dea rod cu sămânţă în sine, după fel, pe pământ!\" Şi a fost aşa."
+        "ron": "Apoi a zis Dumnezeu: \"Să dea pământul din sine verdeaţă: iarbă, cu sămânţă într-însa, după felul şi asemănarea ei, şi pomi roditori, care să dea rod cu sămânţă în sine, după fel, pe pământ!\" Şi a fost aşa.",
+        "grk": "Καὶ εἶπεν ὁ Θεὸς, βλαστησάτω ἡ γῆ βοτάνην χόρτου, σπεῖρον σπέρμα κατὰ γένος καὶ καθʼ ὁμοιότητα, καὶ ξύλον κάρπιμον ποιοῦν καρπὸν, οὗ τὸ σπέρμα αὐτοῦ ἐν αὐτῷ κατὰ γένος ἐπὶ τῆς γῆς· καὶ ἐγένετο οὕτως."
       }
     },
     {
@@ -958,7 +969,8 @@
       "translations": {
         "lxx": "And the earth brought forth the herb of grass bearing seed according to its kind and according to its likeness, and the fruit tree bearing fruit whose seed is in it, according to its kind on the earth, and God saw that it was good.",
         "kjv": "And the earth brought forth grass, and herb yielding seed after his kind, and the tree yielding fruit, whose seed was in itself, after his kind: and God saw that it was good.",
-        "ron": "Pământul a dat din sine verdeaţă: iarbă, care face sămânţă, după felul şi după asemănarea ei, şi pomi roditori, cu sămânţă, după fel, pe pământ. Şi a văzut Dumnezeu că este bine."
+        "ron": "Pământul a dat din sine verdeaţă: iarbă, care face sămânţă, după felul şi după asemănarea ei, şi pomi roditori, cu sămânţă, după fel, pe pământ. Şi a văzut Dumnezeu că este bine.",
+        "grk": "Καὶ ἐξήνεγκεν ἡ γῆ βοτάνην χόρτου, σπεῖρον σπέρμα κατὰ γένος καὶ καθʼ ὁμοιότητα, καὶ ξύλον κάρπιμον ποιοῦν καρπὸν, οὗ τὸ σπέρμα αὐτοῦ ἐν αὐτῷ κατὰ γένος ἐπὶ τῆς γῆς· καὶ εἶδεν ὁ Θεὸς ὅτι καλόν."
       }
     },
     {
@@ -1000,7 +1012,8 @@
       "translations": {
         "lxx": "And there was evening and there was morning, the third day.",
         "kjv": "And the evening and the morning were the third day.",
-        "ron": "Şi a fost seară şi a fost dimineaţă: ziua a treia."
+        "ron": "Şi a fost seară şi a fost dimineaţă: ziua a treia.",
+        "grk": "Καὶ ἐγένετο ἑσπέρα, καὶ ἐγένετο πρωῒ, ἡμέρα τρίτη."
       }
     },
     {
@@ -1117,7 +1130,8 @@
       "translations": {
         "lxx": "And God said, Let there be lights in the firmament of the heaven to give light upon the earth, to divide between day and night, and let them be for signs and for seasons and for days and for years.",
         "kjv": "And God said, Let there be lights in the firmament of the heaven to divide the day from the night; and let them be for signs, and for seasons, and for days, and years:",
-        "ron": "Şi a zis Dumnezeu: \"Să fie luminători pe tăria cerului, ca să lumineze pe pământ, să despartă ziua de noapte şi să fie semne ca să deosebească anotimpurile, zilele şi anii,"
+        "ron": "Şi a zis Dumnezeu: \"Să fie luminători pe tăria cerului, ca să lumineze pe pământ, să despartă ziua de noapte şi să fie semne ca să deosebească anotimpurile, zilele şi anii,",
+        "grk": "Καὶ εἶπεν ὁ Θεὸς, γενηθήτωσαν φωστῆρες ἐν τῷ στερεώματι τοῦ οὐρανοῦ εἰς φαῦσιν ἐπὶ τῆς γῆς, τοῦ διαχωρίζειν ἀνὰ μέσον τῆς ἡμέρας καὶ ἀνὰ μέσον τῆς νυκτός· καὶ ἔστωσαν εἰς σημεῖα, καὶ εἰς καιροὺς, καὶ εἰς ἡμέρας, καὶ εἰς ἐνιαυτούς."
       }
     },
     {
@@ -1184,7 +1198,8 @@
       "translations": {
         "lxx": "And let them be for light in the firmament of the heaven, so as to shine upon the earth, and it was so.",
         "kjv": "And let them be for lights in the firmament of the heaven to give light upon the earth: and it was so.",
-        "ron": "Şi să slujească drept luminători pe tăria cerului, ca să lumineze pământul. Şi a fost aşa."
+        "ron": "Şi să slujească drept luminători pe tăria cerului, ca să lumineze pământul. Şi a fost aşa.",
+        "grk": "Καὶ ἔστωσαν εἰς φαῦσιν ἐν τῷ στερεώματι τοῦ οὐρανοῦ, ὥστε φαίνειν ἐπὶ τῆς γῆς· καὶ ἐγένετο οὕτως."
       }
     },
     {
@@ -1281,7 +1296,8 @@
       "translations": {
         "lxx": "And God made the two great lights, the greater light for regulating the day and the lesser light for regulating the night, the stars also.",
         "kjv": "And God made two great lights; the greater light to rule the day, and the lesser light to rule the night: he made the stars also.",
-        "ron": "A făcut Dumnezeu cei doi luminători mari: luminătorul cel mai mare pentru cârmuirea zilei şi luminătorul cel mai mic pentru cârmuirea nopţii, şi stelele."
+        "ron": "A făcut Dumnezeu cei doi luminători mari: luminătorul cel mai mare pentru cârmuirea zilei şi luminătorul cel mai mic pentru cârmuirea nopţii, şi stelele.",
+        "grk": "Καὶ ἐποίησεν ὁ Θεὸς τοὺς δύο φωστῆρας τοὺς μεγάλους· τὸν φωστῆρα τὸν μέγαν εἰς ἀρχὰς τῆς ἡμέρας, καὶ τὸν φωστῆρα τὸν ἐλάσσω εἰς ἀρχὰς τῆς νυκτὸς, καὶ τοὺς ἀστέρας."
       }
     },
     {
@@ -1338,7 +1354,8 @@
       "translations": {
         "lxx": "And God placed them in the firmament of the heaven, so as to shine upon the earth,",
         "kjv": "And God set them in the firmament of the heaven to give light upon the earth,",
-        "ron": "Şi le-a pus Dumnezeu pe tăria cerului, ca să lumineze pământul,"
+        "ron": "Şi le-a pus Dumnezeu pe tăria cerului, ca să lumineze pământul,",
+        "grk": "Καὶ ἔθετο αὐτοὺς ὁ Θεὸς ἐν τῷ στερεώματι τοῦ οὐρανοῦ, ὥστε φαίνειν ἐπὶ τῆς γῆς,"
       }
     },
     {
@@ -1410,7 +1427,8 @@
       "translations": {
         "lxx": "and to regulate day and night, and to divide between the light and the darkness. And God saw that it was good.",
         "kjv": "And to rule over the day and over the night, and to divide the light from the darkness: and God saw that it was good.",
-        "ron": "Să cârmuiască ziua şi noaptea şi să despartă lumina de întuneric. Şi a văzut Dumnezeu că este bine."
+        "ron": "Să cârmuiască ziua şi noaptea şi să despartă lumina de întuneric. Şi a văzut Dumnezeu că este bine.",
+        "grk": "καὶ ἄρχειν τῆς ἡμέρας καὶ τῆς νυκτὸς, καὶ διαχωρίζειν ἀνὰ μέσον τοῦ φωτὸς, καὶ ἀνὰ μέσον τοῦ σκότους· καὶ εἶδεν ὁ Θεὸς ὅτι καλόν."
       }
     },
     {
@@ -1452,7 +1470,8 @@
       "translations": {
         "lxx": "And there was evening and there was morning, the fourth day.",
         "kjv": "And the evening and the morning were the fourth day.",
-        "ron": "Şi a fost seară şi a fost dimineaţă: ziua a patra."
+        "ron": "Şi a fost seară şi a fost dimineaţă: ziua a patra.",
+        "grk": "Καὶ ἐγένετο ἑσπέρα καὶ ἐγένετο πρωῒ, ἡμέρα τετάρτη."
       }
     },
     {
@@ -1544,7 +1563,8 @@
       "translations": {
         "lxx": "And God said, Let the waters bring forth reptiles having life, and winged creatures flying above the earth in the firmament of heaven, and it was so.",
         "kjv": "And God said, Let the waters bring forth abundantly the moving creature that hath life, and fowl that may fly above the earth in the open firmament of heaven.",
-        "ron": "Apoi a zis Dumnezeu: \"Să mişune apele de vietăţi, fiinţe cu viaţă în ele şi păsări să zboare pe pământ, pe întinsul tăriei cerului!\" Şi a fost aşa."
+        "ron": "Apoi a zis Dumnezeu: \"Să mişune apele de vietăţi, fiinţe cu viaţă în ele şi păsări să zboare pe pământ, pe întinsul tăriei cerului!\" Şi a fost aşa.",
+        "grk": "Καὶ εἶπεν ὁ Θεὸς, ἐξαγαγέτω τὰ ὕδατα ἑρπετὰ ψυχῶν ζωσῶν, καὶ πετεινὰ πετόμενα ἐπὶ τῆς γῆς κατὰ τὸ στερέωμα τοῦ οὐρανοῦ· καὶ ἐγένετο οὕτως."
       }
     },
     {
@@ -1651,7 +1671,8 @@
       "translations": {
         "lxx": "And God made great whales, and every living reptile, which the waters brought forth according to their kinds, and every creature that flies with wings according to its kind, and God saw that they were good.",
         "kjv": "And God created great whales, and every living creature that moveth, which the waters brought forth abundantly, after their kind, and every winged fowl after his kind: and God saw that it was good.",
-        "ron": "A făcut Dumnezeu animalele cele mari din ape şi toate fiinţele vii, care mişună în ape, unde ele se prăsesc după felul lor, şi toate păsările înaripate după felul lor. Şi a văzut Dumnezeu că este bine."
+        "ron": "A făcut Dumnezeu animalele cele mari din ape şi toate fiinţele vii, care mişună în ape, unde ele se prăsesc după felul lor, şi toate păsările înaripate după felul lor. Şi a văzut Dumnezeu că este bine.",
+        "grk": "Καὶ ἐποίησεν ὁ Θεὸς τὰ κήτη τὰ μεγάλα, καὶ πᾶσαν ψυχὴν ζώων ἑρπετῶν, ἃ ἐξήγαγε τὰ ὕδατα κατὰ γένη αὐτῶν, καὶ πᾶν πετεινὸν πτερωτὸν κατὰ γένος· καὶ εἶδεν ὁ Θεὸς ὅτι καλά."
       }
     },
     {
@@ -1718,7 +1739,8 @@
       "translations": {
         "lxx": "And God blessed them, saying, Increase and multiply and fill the waters in the seas, and let the creatures that fly be multiplied on the earth.",
         "kjv": "And God blessed them, saying, Be fruitful, and multiply, and fill the waters in the seas, and let fowl multiply in the earth.",
-        "ron": "Şi le-a binecuvântat Dumnezeu şi a zis: \"Prăsiţi-vă şi vă înmulţiţi şi umpleţi apele mărilor şi păsările să se înmulţească pe pământ!"
+        "ron": "Şi le-a binecuvântat Dumnezeu şi a zis: \"Prăsiţi-vă şi vă înmulţiţi şi umpleţi apele mărilor şi păsările să se înmulţească pe pământ!",
+        "grk": "Καὶ εὐλόγησεν αὐτὰ ὁ Θεὸς, λέγων, αὐξάνεσθε καὶ πληθύνεσθε, καὶ πληρώσατε τὰ ὕδατα ἐν ταῖς θαλάσσαις, καὶ τὰ πετεινὰ πληθυνέσθωσαν ἐπὶ τῆς γῆς."
       }
     },
     {
@@ -1760,7 +1782,8 @@
       "translations": {
         "lxx": "And there was evening and there was morning, the fifth day.",
         "kjv": "And the evening and the morning were the fifth day.",
-        "ron": "Şi a fost seară şi a fost dimineaţă: ziua a cincea."
+        "ron": "Şi a fost seară şi a fost dimineaţă: ziua a cincea.",
+        "grk": "Καὶ ἐγένετο ἑσπέρα, καὶ ἐγένετο πρωῒ, ἡμέρα πέμπτη."
       }
     },
     {
@@ -1837,7 +1860,8 @@
       "translations": {
         "lxx": "And God said, Let the earth bring forth the living creature according to its kind, quadrupeds and reptiles and wild beasts of the earth according to their kind, and it was so.",
         "kjv": "And God said, Let the earth bring forth the living creature after his kind, cattle, and creeping thing, and beast of the earth after his kind: and it was so.",
-        "ron": "Apoi a zis Dumnezeu: \"Să scoată pământul fiinţe vii, după felul lor: animale, târâtoare şi fiare sălbatice după felul lor\". Şi a fost aşa."
+        "ron": "Apoi a zis Dumnezeu: \"Să scoată pământul fiinţe vii, după felul lor: animale, târâtoare şi fiare sălbatice după felul lor\". Şi a fost aşa.",
+        "grk": "Καὶ εἶπεν ὁ Θεὸς, ἐξαγαγέτω ἡ γῆ ψυχὴν ζῶσαν κατὰ γένος, τετράποδα, καὶ ἑρπετὰ, καὶ θηρία τῆς γῆς κατὰ γένος· καὶ ἐγένετο οὕτως."
       }
     },
     {
@@ -1934,7 +1958,8 @@
       "translations": {
         "lxx": "And God made the wild beasts of the earth according to their kind, and cattle according to their kind, and all the reptiles of the earth according to their kind, and God saw that they were good.",
         "kjv": "And God made the beast of the earth after his kind, and cattle after their kind, and every thing that creepeth upon the earth after his kind: and God saw that it was good.",
-        "ron": "A făcut Dumnezeu fiarele sălbatice după felul lor, şi animalele domestice după felul lor, şi toate târâtoarele pământului după felul lor. Şi a văzut Dumnezeu că este bine."
+        "ron": "A făcut Dumnezeu fiarele sălbatice după felul lor, şi animalele domestice după felul lor, şi toate târâtoarele pământului după felul lor. Şi a văzut Dumnezeu că este bine.",
+        "grk": "Καὶ ἐποίησεν ὁ Θεὸς τὰ θηρία τῆς γῆς κατὰ γένος, καὶ τὰ κτήνη κατὰ γένος αὐτῶν, καὶ πάντα τὰ ἑρπετὰ τῆς γῆς κατὰ γένος· καὶ εἶδεν ὁ Θεὸς ὅτι καλά."
       }
     },
     {
@@ -2046,7 +2071,8 @@
       "translations": {
         "lxx": "And God said, Let us make man according to our image and likeness, and let them have dominion over the fish of the sea, and over the flying creatures of heaven, and over the cattle and all the earth, and over all the reptiles that creep on the earth.",
         "kjv": "And God said, Let us make man in our image, after our likeness: and let them have dominion over the fish of the sea, and over the fowl of the air, and over the cattle, and over all the earth, and over every creeping thing that creepeth upon the earth.",
-        "ron": "Şi a zis Dumnezeu: \"Să facem om după chipul şi după asemănarea Noastră, ca să stăpânească peştii mării, păsările cerului, animalele domestice, toate vietăţile ce se târăsc pe pământ şi tot pământul!\""
+        "ron": "Şi a zis Dumnezeu: \"Să facem om după chipul şi după asemănarea Noastră, ca să stăpânească peştii mării, păsările cerului, animalele domestice, toate vietăţile ce se târăsc pe pământ şi tot pământul!\"",
+        "grk": "Καὶ εἶπεν ὁ Θεός, Ποιήσωμεν ἄνθρωπον κατʼ εἰκόνα ἡμετέραν καὶ καθʼ ὁμοίωσιν· καὶ ἀρχέτωσαν τῶν ἰχθύων τῆς θαλάσσης, καὶ τῶν πετεινῶν τοῦ οὐρανοῦ, καὶ τῶν κτηνῶν, καὶ πάσης τῆς γῆς, καὶ πάντων τῶν ἑρπετῶν τῶν ἑρπόντων ἐπὶ τῆς γῆς."
       }
     },
     {
@@ -2103,7 +2129,8 @@
       "translations": {
         "lxx": "And God made man, according to the image of God he made him, male and female he made them.",
         "kjv": "So God created man in his own image, in the image of God created he him; male and female created he them.",
-        "ron": "Şi a făcut Dumnezeu pe om după chipul Său; după chipul lui Dumnezeu l-a făcut; a făcut bărbat şi femeie."
+        "ron": "Şi a făcut Dumnezeu pe om după chipul Său; după chipul lui Dumnezeu l-a făcut; a făcut bărbat şi femeie.",
+        "grk": "Καὶ ἐποιήσεν ὁ Θεὸς τὸν ἄνθρωπον· κατʼ εἰκόνα Θεοῦ ἐποίησεν αὐτόν· ἄρσεν καὶ θῆλυ ἐποίησεν αὐτούς."
       }
     },
     {
@@ -2210,7 +2237,8 @@
       "translations": {
         "lxx": "And God blessed them, saying, Increase and multiply, and fill the earth and subdue it, and have dominion over the fish of the seas and flying creatures of heaven, and all the cattle and all the earth, and all the reptiles that creep on the earth.",
         "kjv": "And God blessed them, and God said unto them, Be fruitful, and multiply, and replenish the earth, and subdue it: and have dominion over the fish of the sea, and over the fowl of the air, and over every living thing that moveth upon the earth.",
-        "ron": "Şi Dumnezeu i-a binecuvântat, zicând: \"Creşteţi şi vă înmulţiţi şi umpleţi pământul şi-l supuneţi; şi stăpâniţi peste peştii mării, peste păsările cerului, peste toate animalele, peste toate vietăţile ce se mişcă pe pământ şi peste tot pământul!\""
+        "ron": "Şi Dumnezeu i-a binecuvântat, zicând: \"Creşteţi şi vă înmulţiţi şi umpleţi pământul şi-l supuneţi; şi stăpâniţi peste peştii mării, peste păsările cerului, peste toate animalele, peste toate vietăţile ce se mişcă pe pământ şi peste tot pământul!\"",
+        "grk": "Καὶ εὐλόγησεν αὐτοὺς ὁ Θεὸς, λέγων, αὐξάνεσθε καὶ πληθύνεσθε, καὶ πληρώσατε τὴν γῆν, καὶ κατακυριεύσατε αὐτῆς· καὶ ἄρχετε τῶν ἰχθύων τῆς θαλάσσης, καὶ τῶν πετεινῶν τοῦ οὐρανοῦ, καὶ πάντων τῶν κτηνῶν, καὶ πάσης τῆς γῆς, καὶ πάντων τῶν ἑρπετῶν τῶν ἑρπόντων ἐπὶ τῆς γῆς."
       }
     },
     {
@@ -2337,7 +2365,8 @@
       "translations": {
         "lxx": "And God said, Behold I have given to you every seed-bearing herb sowing seed which is upon all the earth, and every tree which has in itself the fruit of seed that is sown, to you it shall be for food.",
         "kjv": "And God said, Behold, I have given you every herb bearing seed, which is upon the face of all the earth, and every tree, in the which is the fruit of a tree yielding seed; to you it shall be for meat.",
-        "ron": "Apoi a zis Dumnezeu: \"Iată, vă dau toată iarba ce face sămânţă de pe toată faţa pământului şi tot pomul ce are rod cu sămânţă în el. Acestea vor fi hrana voastră."
+        "ron": "Apoi a zis Dumnezeu: \"Iată, vă dau toată iarba ce face sămânţă de pe toată faţa pământului şi tot pomul ce are rod cu sămânţă în el. Acestea vor fi hrana voastră.",
+        "grk": "Καὶ εἶπεν ὁ Θεός, Ἰδοὺ δέδωκα ὑμῖν πάντα χόρτον σπόριμον σπεῖρον σπέρμα, ὅ ἐστιν ἐπάνω πάσης τῆς γῆς· καὶ πᾶν ξύλον, ὃ ἔχει ἐν ἑαυτῷ καρπὸν σπέρματος σπορίμου, ὑμῖν ἔσται εἰς βρῶσιν,"
       }
     },
     {
@@ -2449,7 +2478,8 @@
       "translations": {
         "lxx": "And to all the wild beasts of the earth, and to all the flying creatures of heaven, and to every reptile creeping on the earth, which has in itself the breath of life, even every green plant for food; and it was so.",
         "kjv": "And to every beast of the earth, and to every fowl of the air, and to every thing that creepeth upon the earth, wherein there is life, I have given every green herb for meat: and it was so.",
-        "ron": "Iar tuturor fiarelor pământului şi tuturor păsărilor cerului şi tuturor vietăţilor ce se mişcă pe pământ, care au în ele suflare de viată, le dau toată iarba verde spre hrană. Şi a fost aşa."
+        "ron": "Iar tuturor fiarelor pământului şi tuturor păsărilor cerului şi tuturor vietăţilor ce se mişcă pe pământ, care au în ele suflare de viată, le dau toată iarba verde spre hrană. Şi a fost aşa.",
+        "grk": "καὶ πᾶσι τοῖς θηρίοις τῆς γῆς, καὶ πᾶσι τοῖς πετεινοῖς τοῦ οὐρανοῦ, καὶ παντὶ ἑρπετῷ ἕρποντι ἐπὶ τῆς γῆς, ὃ ἔχει ἐν ἑαυτῷ ψυχὴν ζωῆς, καὶ πάντα χόρτον χλωρὸν εἰς βρῶσιν· καὶ ἐγένετο οὕτως."
       }
     },
     {
@@ -2526,7 +2556,8 @@
       "translations": {
         "lxx": "And God saw all the things that he had made, and, behold, they were very good. And there was evening and there was morning, the sixth day.",
         "kjv": "And God saw every thing that he had made, and, behold, it was very good. And the evening and the morning were the sixth day.",
-        "ron": "Şi a privit Dumnezeu toate câte a făcut şi iată erau bune foarte. Şi a fost seară şi a fost dimineaţă: ziua a şasea."
+        "ron": "Şi a privit Dumnezeu toate câte a făcut şi iată erau bune foarte. Şi a fost seară şi a fost dimineaţă: ziua a şasea.",
+        "grk": "Καὶ εἶδεν ὁ Θεὸς τὰ πάντα, ὅσα ἐποίησε, καὶ ἰδοὺ καλὰ λίαν· καὶ ἐγένετο ἑσπέρα, καὶ ἐγένετο πρωῒ, ἡμέρα ἕκτη."
       }
     }
   ],

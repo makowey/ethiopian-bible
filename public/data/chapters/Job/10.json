@@ -71,7 +71,8 @@
       "translations": {
         "lxx": "Weary in my soul, I will pour my words with groans upon him: I will speak being straitened in the bitterness of my soul.",
         "kjv": "My soul is weary of my life; I will leave my complaint upon myself; I will speak in the bitterness of my soul.",
-        "ron": "Sufletul meu este dezgustat de viaţa mea. Voi lăsa să curgă slobodă tânguirea mea şi voi vorbi întru suferinţa sufletului meu."
+        "ron": "Sufletul meu este dezgustat de viaţa mea. Voi lăsa să curgă slobodă tânguirea mea şi voi vorbi întru suferinţa sufletului meu.",
+        "grk": "Καμνὼν τῇ ψυχῇ μου, στένων ἐπαφήσω ἐπʼ αὐτὸν τὰ ῥήματα μου· λαλήσω πικρίᾳ ψυχῆς μου συνεχόμενος,"
       }
     },
     {
@@ -118,7 +119,8 @@
       "translations": {
         "lxx": "And I will say to the Lord, Do not teach me to be impious; and wherefore hast thou thus judged me?",
         "kjv": "I will say unto God, Do not condemn me; shew me wherefore thou contendest with me.",
-        "ron": "Voi spune către Domnul: Nu mă osândi; lămureşte-mă, să ştiu pentru ce Te cerţi cu mine."
+        "ron": "Voi spune către Domnul: Nu mă osândi; lămureşte-mă, să ştiu pentru ce Te cerţi cu mine.",
+        "grk": "καὶ ἐρῶ πρὸς Κύριον, μή με ἀσεβεῖν δίδασκε· καὶ διατί με οὕτως ἔκρινας;"
       }
     },
     {
@@ -180,7 +182,8 @@
       "translations": {
         "lxx": "Is it good before thee if I be unrighteous? for thou hast disowned the work of thy hands, and attended to the counsel of the ungodly.",
         "kjv": "Is it good unto thee that thou shouldest oppress, that thou shouldest despise the work of thine hands, and shine upon the counsel of the wicked?",
-        "ron": "Care e folosul Tău, când eşti aprig şi dispreţuieşti făptura mâinilor Tale şi eşti surâzător la sfatul celor răi?"
+        "ron": "Care e folosul Tău, când eşti aprig şi dispreţuieşti făptura mâinilor Tale şi eşti surâzător la sfatul celor răi?",
+        "grk": "Ἢ καλόν σοι ἐὰν ἀδικήσω; ὅτι ἀπείπω ἔργα χειρῶν σου, βουλῇ δὲ ἀσεβῶν προσέσχες."
       }
     },
     {
@@ -232,7 +235,8 @@
       "translations": {
         "lxx": "Or dost thou see as a mortal sees? or wilt thou look as a man sees?",
         "kjv": "Hast thou eyes of flesh? or seest thou as man seeth?",
-        "ron": "Ai Tu ochi materiali şi vezi lucrurile precum le vede omul?"
+        "ron": "Ai Tu ochi materiali şi vezi lucrurile precum le vede omul?",
+        "grk": "Ἢ ὥσπερ βροτὸς ὁρᾷ, καθορᾷς; ἢ καθὼς ὁρᾷ ἄνθρωπος, βλέψῃ;"
       }
     },
     {
@@ -309,7 +313,8 @@
       "translations": {
         "lxx": "Or is thy life human, or thy years the years of a man,",
         "kjv": "Are thy days as the days of man? are thy years as man’s days,",
-        "ron": "Zilele Tale sunt oare ca zilele omului şi anii Tăi ca anii omeneşti,"
+        "ron": "Zilele Tale sunt oare ca zilele omului şi anii Tăi ca anii omeneşti,",
+        "grk": "Ἢ ὁ βίος σου ἀνθρώπινός ἐστιν, ἢ τὰ ἔτη σου ἀνδρὸς,"
       }
     },
     {
@@ -361,7 +366,8 @@
       "translations": {
         "lxx": "that thou hast enquired into mine iniquity, and searched out my sins?",
         "kjv": "That thou enquirest after mine iniquity, and searchest after my sin?",
-        "ron": "Ca să cercetezi fărădelegea mea şi să cauţi păcatul meu,"
+        "ron": "Ca să cercetezi fărădelegea mea şi să cauţi păcatul meu,",
+        "grk": "ὅτι ἀνεζήτησας τὴν ἀνομίαν μου, καὶ τὰς ἁμαρτίας μου ἐξιχνίασας;"
       }
     },
     {
@@ -403,7 +409,8 @@
       "translations": {
         "lxx": "For thou knowest that I have not committed iniquity: but who is he that can deliver out of thy hands?",
         "kjv": "Thou knowest that I am not wicked; and there is none that can deliver out of thine hand.",
-        "ron": "Când ştii bine că nu sunt vinovat şi că nimeni nu mă poate scăpa din mâna Ta?"
+        "ron": "Când ştii bine că nu sunt vinovat şi că nimeni nu mă poate scăpa din mâna Ta?",
+        "grk": "Οἶδας γὰρ ὅτι οὐκ ἠσέβησα· ἀλλὰ τίς ἐστιν ὁ ἐκ τῶν χειρῶν σου ἐξαιρούμενος;"
       }
     },
     {
@@ -455,7 +462,8 @@
       "translations": {
         "lxx": "Thy hands have formed me and made me; afterwards thou didst change thy mind, and smite me.",
         "kjv": "Thine hands have made me and fashioned me together round about; yet thou dost destroy me.",
-        "ron": "Mâinile Tale m-au făcut şi m-au zidit şi apoi Tu mă nimiceşti în întregime."
+        "ron": "Mâinile Tale m-au făcut şi m-au zidit şi apoi Tu mă nimiceşti în întregime.",
+        "grk": "Αἱ χεῖρές σου ἔπλασάν με καὶ ἐποίησάν με, μετὰ ταῦτα μεταβαλών με ἔπαισας."
       }
     },
     {
@@ -497,7 +505,8 @@
       "translations": {
         "lxx": "Remember that thou hast made me as clay, and thou dost turn me again to earth.",
         "kjv": "Remember, I beseech thee, that thou hast made me as the clay; and wilt thou bring me into dust again?",
-        "ron": "Adu-ţi aminte că m-ai făcut din pământ şi că mă vei întoarce în ţărână."
+        "ron": "Adu-ţi aminte că m-ai făcut din pământ şi că mă vei întoarce în ţărână.",
+        "grk": "Μνήσθητι, ὅτι πηλόν με ἔπλασας, εἰς δὲ γῆν με πάλιν ἀποστρέφεις."
       }
     },
     {
@@ -539,7 +548,8 @@
       "translations": {
         "lxx": "Hast thou not poured me out like milk, and curdled me like cheese?",
         "kjv": "Hast thou not poured me out as milk, and curdled me like cheese?",
-        "ron": "Nu m-ai turnat oare ca pe lapte şi nu m-ai închegat ca pe caş?"
+        "ron": "Nu m-ai turnat oare ca pe lapte şi nu m-ai închegat ca pe caş?",
+        "grk": "Ἢ οὐχ ὥσπερ γάλα με ἤμελξας, ἐτύρωσας δέ με ἶσα τυρῷ;"
       }
     },
     {
@@ -586,7 +596,8 @@
       "translations": {
         "lxx": "And thou didst clothe me with skin and flesh, and frame me with bones and sinews.",
         "kjv": "Thou hast clothed me with skin and flesh, and hast fenced me with bones and sinews.",
-        "ron": "M-ai îmbrăcat în piele şi în carne, m-ai ţesut din oase şi din vine;"
+        "ron": "M-ai îmbrăcat în piele şi în carne, m-ai ţesut din oase şi din vine;",
+        "grk": "Δέρμα δὲ καὶ κρέας με ἐνέδυσας, ὀστέοις δὲ καὶ νεύροις με ἔνειρας."
       }
     },
     {
@@ -653,7 +664,8 @@
       "translations": {
         "lxx": "And thou didst bestow upon me life and mercy, and thy oversight has preserved my spirit.",
         "kjv": "Thou hast granted me life and favour, and thy visitation hath preserved my spirit.",
-        "ron": "Apoi mi-ai dat viaţă, şi bunăvoinţa Ta şi purtarea Ta de grijă au ţinut vie suflarea mea,"
+        "ron": "Apoi mi-ai dat viaţă, şi bunăvoinţa Ta şi purtarea Ta de grijă au ţinut vie suflarea mea,",
+        "grk": "Ζωὴν δὲ καὶ ἔλεος ἔθου παρʼ ἐμοὶ, ἡ δὲ ἐπισκοπή σου ἐφυλαξέ μου τὸ πνεῦμα."
       }
     },
     {
@@ -695,7 +707,8 @@
       "translations": {
         "lxx": "Having these things in thyself, I know that thou canst do all things; for nothing is impossible with thee.",
         "kjv": "And these things hast thou hid in thine heart: I know that this is with thee.",
-        "ron": "Şi ceea ce Tu ţineai ascuns în inima Ta, iată ştiu acum gândul Tău:"
+        "ron": "Şi ceea ce Tu ţineai ascuns în inima Ta, iată ştiu acum gândul Tău:",
+        "grk": "Ταῦτα ἔχων ἐν σεαυτῷ, οἶδα ὅτι πάντα δύνασαι· ἀδυνατεῖ δέ σοι οὐθέν."
       }
     },
     {
@@ -757,7 +770,8 @@
       "translations": {
         "lxx": "And if I should sin, thou watchest me; and thou hast not cleared me from iniquity.",
         "kjv": "If I sin, then thou markest me, and thou wilt not acquit me from mine iniquity.",
-        "ron": "Dacă păcătuiesc, Tu mă supraveghezi şi nu mă dezvinovăţeşti de greşeala mea."
+        "ron": "Dacă păcătuiesc, Tu mă supraveghezi şi nu mă dezvinovăţeşti de greşeala mea.",
+        "grk": "Ἐάν τε γὰρ ἁμάρτω, φυλάσσεις με, ἀπὸ δὲ ἀνομίας οὐκ ἀθῶόν με πεποίηκας."
       }
     },
     {
@@ -829,7 +843,8 @@
       "translations": {
         "lxx": "Or if I should be ungodly, woe is me: and if I should be righteous, I cannot lift myself up, for I am full of dishonour.",
         "kjv": "If I be wicked, woe unto me; and if I be righteous, yet will I not lift up my head. I am full of confusion; therefore see thou mine affliction;",
-        "ron": "Dacă sunt vinovat este amar de mine şi dacă sunt drept nu cutez să ridic capul, ca unul ce sunt sătul de ocară şi sunt apăsat de necazuri."
+        "ron": "Dacă sunt vinovat este amar de mine şi dacă sunt drept nu cutez să ridic capul, ca unul ce sunt sătul de ocară şi sunt apăsat de necazuri.",
+        "grk": "Ἐάν τε γὰρ ἀσεβήσω, οἴμοι· ἐὰν δὲ ὦ δίκαιος, οὐ δύναμαι ἀνακύψαι, πλήρης γὰρ ἀτιμίας εἰμί."
       }
     },
     {
@@ -891,7 +906,8 @@
       "translations": {
         "lxx": "For I am hunted like a lion for slaughter; for again thou hast changed and art terribly destroying me;",
         "kjv": "For it increaseth. Thou huntest me as a fierce lion: and again thou shewest thyself marvellous upon me.",
-        "ron": "Şi astfel fără vlagă cum sunt, Tu mă vânezi ca un leu şi din nou Te arăţi minunat faţă de mine."
+        "ron": "Şi astfel fără vlagă cum sunt, Tu mă vânezi ca un leu şi din nou Te arăţi minunat faţă de mine.",
+        "grk": "Ἀγρεύομαι γὰρ ὥσπερ λέων εἰς σφαγήν· πάλιν γὰρ μεταβαλὼν δεινῶς με ὀλέκεις,"
       }
     },
     {
@@ -963,7 +979,8 @@
       "translations": {
         "lxx": "renewing against me my torture: and thou hast dealt with me in great anger, and thou hast brought trials upon me.",
         "kjv": "Thou renewest thy witnesses against me, and increasest thine indignation upon me; changes and war are against me.",
-        "ron": "Tu înnoieşti duşmănia Ta împotriva mea. Tu sporeşti mânia Ta asupră-mi ca nişte oştiri primenite care se luptă cu mine."
+        "ron": "Tu înnoieşti duşmănia Ta împotriva mea. Tu sporeşti mânia Ta asupră-mi ca nişte oştiri primenite care se luptă cu mine.",
+        "grk": "ἐπανακαινίζων ἐπʼ ἐμὲ τὴν ἔτασίν μου· ὀργῇ δὲ μεγάλῃ μοι ἐχρήσω, ἐπήγαγες δὲ ἐπʼ ἐμὲ πειρατήρια."
       }
     },
     {
@@ -1020,7 +1037,8 @@
       "translations": {
         "lxx": "Why then didst thou bring me out of the womb? and why did I not die, and no eye see me,",
         "kjv": "Wherefore then hast thou brought me forth out of the womb? Oh that I had given up the ghost, and no eye had seen me!",
-        "ron": "De ce m-ai scos din sânul mamei mele? Aş fi murit şi nici un ochi nu m-ar fi văzut!"
+        "ron": "De ce m-ai scos din sânul mamei mele? Aş fi murit şi nici un ochi nu m-ar fi văzut!",
+        "grk": "Ἱνατί οὖν ἐκ κοιλίας με ἐξήγαγες, καὶ οὐκ ἀπέθανον, ὀφθαλμὸς δέ με οὐκ εἶδε,"
       }
     },
     {
@@ -1082,7 +1100,8 @@
       "translations": {
         "lxx": "and I become as if I had not been? for why was I not carried from the womb to the grave?",
         "kjv": "I should have been as though I had not been; I should have been carried from the womb to the grave.",
-        "ron": "Aş fi fost ca unul care n-a fost niciodată şi din pântecele mamei mele aş fi trecut în mormânt."
+        "ron": "Aş fi fost ca unul care n-a fost niciodată şi din pântecele mamei mele aş fi trecut în mormânt.",
+        "grk": "καὶ ὥσπερ οὐκ ὢν ἐγενόμην; διατί γὰρ ἐκ γαστρὸς εἰς μνῆμα οὐκ ἀπηλλάγην;"
       }
     },
     {
@@ -1204,7 +1223,8 @@
       "translations": {
         "lxx": "Is not the time of my life short? suffer me to rest a little,",
         "kjv": "Are not my days few? cease then, and let me alone, that I may take comfort a little,",
-        "ron": "Nu sunt oare zilele mele destul de puţine? Dă-Te la o parte ca să pot să-mi vin puţin în fire,"
+        "ron": "Nu sunt oare zilele mele destul de puţine? Dă-Te la o parte ca să pot să-mi vin puţin în fire,",
+        "grk": "Ἢ οὐκ ὀλίγος ἐστὶν ὁ βίος τοῦ χρόνου μου; ἔασόν με ἀναπαύσασθαι μικρὸν,"
       }
     }
   ],

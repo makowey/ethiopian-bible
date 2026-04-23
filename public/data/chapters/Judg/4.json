@@ -56,7 +56,8 @@
       "translations": {
         "lxx": "And the children of Israel continued to do evil against the Lord; and Aod was dead.",
         "kjv": "And the children of Israel again did evil in the sight of the LORD, when Ehud was dead.",
-        "ron": "După ce a murit Aod, fiii lui Israel au început iar să facă rele înaintea ochilor Domnului."
+        "ron": "După ce a murit Aod, fiii lui Israel au început iar să facă rele înaintea ochilor Domnului.",
+        "grk": "Καὶ προσέθεντο οἱ υἱοὶ Ἰσραὴλ ποιῆσαι τὸ πονηρὸν ἐνώπιον Κυρίου· καὶ Ἀὼδ ἀπέθανε."
       }
     },
     {
@@ -153,7 +154,8 @@
       "translations": {
         "lxx": "And the Lord sold the children of Israel into the hand of Jabin king of Chanaan, who ruled in Asor; and the chief of his host was Sisara, and he dwelt in Arisoth of the Gentiles.",
         "kjv": "And the LORD sold them into the hand of Jabin king of Canaan, that reigned in Hazor; the captain of whose host was Sisera, which dwelt in Harosheth of the Gentiles.",
-        "ron": "Şi Domnul i-a dat în mâinile lui Iabin, regele Canaanului, care domnea în Haţor. Acesta avea căpetenie peste oştire pe Sisera care locuia în Haroşet-Goim."
+        "ron": "Şi Domnul i-a dat în mâinile lui Iabin, regele Canaanului, care domnea în Haţor. Acesta avea căpetenie peste oştire pe Sisera care locuia în Haroşet-Goim.",
+        "grk": "Καὶ ἀπέδοτο τοὺς υἱοὺς Ἰσραὴλ Κύριος ἐν χειρὶ Ἰαβὶν βασιλέως Χαναὰν, ὃς ἐβασίλευσεν ἐν Ἀσώρ· καὶ ὁ ἂρχων τῆς δυνάμεως αὐτοῦ Σισάρα, καὶ αὐτὸς κατῴκει ἐν Ἀρισὼθ τῶν ἐθνῶν."
       }
     },
     {
@@ -255,7 +257,8 @@
       "translations": {
         "lxx": "And the children of Israel cried to the Lord, because he had nine hundred chariots of iron; and he mightily oppressed Israel twenty years.",
         "kjv": "And the children of Israel cried unto the LORD: for he had nine hundred chariots of iron; and twenty years he mightily oppressed the children of Israel.",
-        "ron": "Şi au strigat fiii lui Israel către Domnul; căci Iabin avea nouă sute de care de fier şi a apăsat cumplit pe fiii lui Israel douăzeci de ani."
+        "ron": "Şi au strigat fiii lui Israel către Domnul; căci Iabin avea nouă sute de care de fier şi a apăsat cumplit pe fiii lui Israel douăzeci de ani.",
+        "grk": "Καὶ ἐκέκραξαν οἱ υἱοὶ Ἰσραὴλ πρὸς Κύριον, ὅτι ἐννακόσια ἅρματα σιδηρᾶ ἦν αὐτῷ· καὶ αὐτὸς ἔθλιψε τὸν Ἰσραὴλ κατακράτος εἴκοσι ἔτη."
       }
     },
     {
@@ -317,7 +320,8 @@
       "translations": {
         "lxx": "And Debbora, a prophetess, the wife of Lapidoth,—she judged Israel at that time.",
         "kjv": "And Deborah, a prophetess, the wife of Lapidoth, she judged Israel at that time.",
-        "ron": "În vremea aceea era judecător în Israel Debora-proorociţa, soţia lui Lapidot."
+        "ron": "În vremea aceea era judecător în Israel Debora-proorociţa, soţia lui Lapidot.",
+        "grk": "Καὶ Δεββῶρα γυνὴ προφῆτις, γυνὴ Λαφιδὼθ, αὕτη ἔκρινε τὸν Ἰσραὴλ ἐν τῷ καιρῷ ἐκείνῳ."
       }
     },
     {
@@ -414,7 +418,8 @@
       "translations": {
         "lxx": "And she sat under the palm-tree of Debbora between Rama and Bæthel in mount Ephraim; and the children of Israel went up to her for judgment.",
         "kjv": "And she dwelt under the palm tree of Deborah between Ramah and Bethel in mount Ephraim: and the children of Israel came up to her for judgment.",
-        "ron": "Aceasta locuia sub palmierul Deborei, între Rama şi Betel, pe muntele Efraim şi veneau acolo la ea fiii lui Israel să se judece."
+        "ron": "Aceasta locuia sub palmierul Deborei, între Rama şi Betel, pe muntele Efraim şi veneau acolo la ea fiii lui Israel să se judece.",
+        "grk": "Καὶ αὐτὴ ἐκάθητο ὑπὸ φοίνικα Δεββῶρα ἀναμέσον τῆς Ῥαμὰ καὶ ἀναμέσον τῆς Βαιθὴλ ἐν τῷ ὄρει Ἐφραίμ· καὶ ἀνέβαινον πρὸς αὐτὴν οἱ υἱοὶ Ἰσραὴλ εἰς κρίσιν."
       }
     },
     {
@@ -576,7 +581,8 @@
       "translations": {
         "lxx": "And Debbora sent and called Barac the son of Abineem out of Cades Nephthali, and she said to him, Has not the Lord God of Israel commanded thee? and thou shalt depart to mount Thabor, and shalt take with thyself ten thousand men of the sons of Nephthali and of the sons of Zabulon.",
         "kjv": "And she sent and called Barak the son of Abinoam out of Kedeshnaphtali, and said unto him, Hath not the LORD God of Israel commanded, saying, Go and draw toward mount Tabor, and take with thee ten thousand men of the children of Naphtali and of the children of Zebulun?",
-        "ron": "Şi a trimis Debora de a chemat pe Barac, fiul lui Abinoam, din Chedeşul Neftalimului şi i-a zis: \"Domnul Dumnezeul lui Israel îţi porunceşte: Du-te şi te suie pe muntele Tabor şi ia cu tine zece mii de oameni din fiii lui Neftali şi din fiii lui Zabulon;"
+        "ron": "Şi a trimis Debora de a chemat pe Barac, fiul lui Abinoam, din Chedeşul Neftalimului şi i-a zis: \"Domnul Dumnezeul lui Israel îţi porunceşte: Du-te şi te suie pe muntele Tabor şi ia cu tine zece mii de oameni din fiii lui Neftali şi din fiii lui Zabulon;",
+        "grk": "Καὶ ἀπέστειλε Δεββῶρα καὶ ἐκάλεσε τὸν Βαρὰκ υἱὸν Ἀβινεὲμ ἐκ Κάδης Νεφθαλὶ, καὶ εἶπε πρὸς αὐτὸν, οὐχὶ ἐνετείλατο Κύριος ὁ Θεὸς Ἰσραήλ σοι; καὶ ἀπελεύσῃ εἰς ὄρος Θαβὼρ, καὶ λήψῃ μετὰ σεαυτοῦ δέκα χιλιάδας ἀνδρῶν ἐκ τῶν υἱῶν Νεφθαλὶ, καὶ ἐκ τῶν υἱῶν Ζαβουλὼν."
       }
     },
     {
@@ -658,7 +664,8 @@
       "translations": {
         "lxx": "And I will bring to thee to the torrent of Kison Sisara the captain of the host of Jabin, and his chariots, and his multitude, and I will deliver them into thine hands.",
         "kjv": "And I will draw unto thee to the river Kishon Sisera, the captain of Jabin’s army, with his chariots and his multitude; and I will deliver him into thine hand.",
-        "ron": "Iar Eu voi aduce la tine, la pârâul Chişon, pe Sisera, căpetenia oştirilor lui Iabin şi carele lui şi oastea lui cea multă şi-l voi da în mâinile tale\"."
+        "ron": "Iar Eu voi aduce la tine, la pârâul Chişon, pe Sisera, căpetenia oştirilor lui Iabin şi carele lui şi oastea lui cea multă şi-l voi da în mâinile tale\".",
+        "grk": "Καὶ ἐπάξω πρὸς σὲ εἰς τὸν χειμάῤῥουν Κισῶν ἐπὶ τὸν Σισάρα ἄρχοντα τῆς δυνάμεως Ἰαβὶν, καὶ τὰ ἅρματα αὐτοῦ καὶ τὸ πλῆθος αὐτοῦ, καὶ παραδώσω αὐτὸν εἰς χεῖράς σου."
       }
     },
     {
@@ -770,7 +777,8 @@
       "translations": {
         "lxx": "And Barac said to her, If thou wilt go with me, I will go; and if thou wilt not go, I will not go; for I know not the day on which the Lord prospers his messenger with me.",
         "kjv": "And Barak said unto her, If thou wilt go with me, then I will go: but if thou wilt not go with me, then I will not go.",
-        "ron": "Iar Barac a zis către dânsa: \"De mergi tu cu mine, mă voi duce; iar de nu mergi cu mine, eu nu mă voi duce. Căci eu nu ştiu ziua când are să trimită Domnul pe îngerul Său în ajutorul meu\"."
+        "ron": "Iar Barac a zis către dânsa: \"De mergi tu cu mine, mă voi duce; iar de nu mergi cu mine, eu nu mă voi duce. Căci eu nu ştiu ziua când are să trimită Domnul pe îngerul Său în ajutorul meu\".",
+        "grk": "Καὶ εἶπε πρὸς αὐτὴν Βαρὰκ, ἐὰν πορευθῇς μετʼ ἐμοῦ, πορεύσομαι, καὶ ἐὰν μὴ πορευθῇς, οὐ πορεύσομαι· ὅτι οὐκ οἶδα τὴν ἡμέραν ἐν ᾗ εὐοδοῖ Κύριος τὸν ἄγγελον μετʼ ἐμοῦ."
       }
     },
     {
@@ -927,7 +935,8 @@
       "translations": {
         "lxx": "And she said, I will surely go with thee; but know that thy honour shall not attend on the expedition on which thou goest, for the Lord shall sell Sisara into the hands of a woman: and Debbora arose, and went with Barac out of Cades.",
         "kjv": "And she said, I will surely go with thee: notwithstanding the journey that thou takest shall not be for thine honour; for the LORD shall sell Sisera into the hand of a woman. And Deborah arose, and went with Barak to Kedesh.",
-        "ron": "Atunci ea a zis către el: \"De mers voi merge cu tine, dar să ştii că nu va mai fi slava ta în calea aceasta în care mergi; ci în mâna unei femei va da Domnul pe Sisera\". Şi s-a sculat Debora şi s-a dus cu Barac la Chedeş."
+        "ron": "Atunci ea a zis către el: \"De mers voi merge cu tine, dar să ştii că nu va mai fi slava ta în calea aceasta în care mergi; ci în mâna unei femei va da Domnul pe Sisera\". Şi s-a sculat Debora şi s-a dus cu Barac la Chedeş.",
+        "grk": "Καὶ εἶπε, πορευομένη πορεύσομαι μετὰ σοῦ· πλὴν γίνωσκε ὅτι οὐκ ἔσται τὸ προτέρημά σου ἐπὶ τὴν ὁδὸν ἣν σὺ πορεύῃ, ὅτι ἐν χειρὶ γυναικὸς ἀποδώσεται Κύριος τὸν Σισάρα· καὶ ἀνέστη Δεββῶρα, καὶ ἐπορεύθη μετὰ τοῦ Βαρὰκ ἐκ Κάδης."
       }
     },
     {
@@ -999,7 +1008,8 @@
       "translations": {
         "lxx": "And Barac called Zabulon and Nephthali out of Cades, and there went up at his feet ten thousand men, and Debbora went up with him.",
         "kjv": "And Barak called Zebulun and Naphtali to Kedesh; and he went up with ten thousand men at his feet: and Deborah went up with him.",
-        "ron": "Şi a chemat Barac pe Zabulonieni şi Neftalimieni la Chedeş şi s-au dus după dânsul zece mii de oameni şi s-a dus şi Debora cu dânşii."
+        "ron": "Şi a chemat Barac pe Zabulonieni şi Neftalimieni la Chedeş şi s-au dus după dânsul zece mii de oameni şi s-a dus şi Debora cu dânşii.",
+        "grk": "Καὶ ἐβόησε Βαρὰκ τὸν Ζαβουλὼν καὶ τὸν Νεφθαλὶ ἐκ Κάδης, καὶ ἀνέβησαν κατὰ πόδας αὐτοῦ δέκα χιλιάδες ἀνδρῶν, καὶ ἀνέβη Δεββῶρα μετʼ αὐτοῦ."
       }
     },
     {
@@ -1096,7 +1106,8 @@
       "translations": {
         "lxx": "And Chaber the Kenite had removed from Caina, from the sons of Jobab the father-in-law of Moses, and pitched his tent by the oak of the covetous ones, which is near Kedes.",
         "kjv": "Now Heber the Kenite, which was of the children of Hobab the father in law of Moses, had severed himself from the Kenites, and pitched his tent unto the plain of Zaanaim, which is by Kedesh.",
-        "ron": "Atunci Heber Cheneul s-a despărţit de Chenei, fiii lui Hobab, rudenia lui Moise, şi şi-a întins cortul său la dumbrava din Ţaanaim, aproape de Chedeş."
+        "ron": "Atunci Heber Cheneul s-a despărţit de Chenei, fiii lui Hobab, rudenia lui Moise, şi şi-a întins cortul său la dumbrava din Ţaanaim, aproape de Chedeş.",
+        "grk": "Καὶ Χαβὲρ ὁ Κιναῖος ἐχωρίσθη ἀπὸ Καινᾶ ἀπὸ τῶν υἱῶν Ἰωβὰβ γαμβροῦ Μωυσῆ· καὶ ἔπηξε τὴν σκηνὴν αὐτοῦ ἕως δρυὸς πλεονεκτούντων, ἥ ἐστιν ἐχόμενα Κεδές."
       }
     },
     {
@@ -1158,7 +1169,8 @@
       "translations": {
         "lxx": "And it was told Sisara that Barac the son of Abineem was gone up to mount Thabor.",
         "kjv": "And they shewed Sisera that Barak the son of Abinoam was gone up to mount Tabor.",
-        "ron": "Şi i s-a spus lui Sisera că Barac, fiul lui Abinoam, s-a suit pe muntele Taborului."
+        "ron": "Şi i s-a spus lui Sisera că Barac, fiul lui Abinoam, s-a suit pe muntele Taborului.",
+        "grk": "Καὶ ἀνηγγέλη Σισάρᾳ, ὅτι ἀνέβη Βαρὰκ υἱὸς Ἀβινεὲμ εἰς ὄρος Θαβώρ."
       }
     },
     {
@@ -1250,7 +1262,8 @@
       "translations": {
         "lxx": "And Sisara summoned all his chariots, nine hundred chariots of iron and all the people with him, from Arisoth of the Gentiles to the brook of Kison.",
         "kjv": "And Sisera gathered together all his chariots, even nine hundred chariots of iron, and all the people that were with him, from Harosheth of the Gentiles unto the river of Kishon.",
-        "ron": "Atunci Sisera a adunat toate carele sale, nouă sute de care de fier, şi tot poporul pe care-l avea şi a venit din Haroşet-Goim la râul Chişon."
+        "ron": "Atunci Sisera a adunat toate carele sale, nouă sute de care de fier, şi tot poporul pe care-l avea şi a venit din Haroşet-Goim la râul Chişon.",
+        "grk": "Καὶ ἐκάλεσε Σισάρα πάντα τὰ ἅρματα αὐτοὺ ἐννακόσια ἅρματα σιδηρᾶ, καὶ πάντα τὸν λαὸν τὸν μετʼ αὐτοῦ ἀπὸ Ἀρισὼθ τῶν ἐθνῶν εἰς τὸν χειμάῤῥουν Κισῶν."
       }
     },
     {
@@ -1392,7 +1405,8 @@
       "translations": {
         "lxx": "And Debbora said to Barac, Rise up, for this is the day on which the Lord has delivered Sisara into thy hand, for the Lord shall go forth before thee: and Barac went down from mount Thabor, and ten thousand men after him.",
         "kjv": "And Deborah said unto Barak, Up; for this is the day in which the LORD hath delivered Sisera into thine hand: is not the LORD gone out before thee? So Barak went down from mount Tabor, and ten thousand men after him.",
-        "ron": "Iar Debora a zis către Barac: \"Scoală, că aceasta este ziua aceea în care Domnul are să dea pe Sisera în mâinile tale. Însuşi Domnul are să meargă înaintea ta\". Şi s-a coborât Barac din muntele Taborului şi după el şi cei zece mii de oameni."
+        "ron": "Iar Debora a zis către Barac: \"Scoală, că aceasta este ziua aceea în care Domnul are să dea pe Sisera în mâinile tale. Însuşi Domnul are să meargă înaintea ta\". Şi s-a coborât Barac din muntele Taborului şi după el şi cei zece mii de oameni.",
+        "grk": "Καὶ εἶπε Δεββῶρα πρὸς Βαρὰκ, ἀνάστηθι, ὅτι αὕτη ἡ ἡμέρα ἐν ᾗ παρέδωκε Κύριος τὸν Σισάρα ἐν τῇ χειρί σου, ὅτι Κύριος ἐξελεύσεται ἔμπροσθέν σου· καὶ κατέβη Βαρὰκ κατὰ τοῦ ὄρους Θαβὼρ, καὶ δέκα χιλιάδες ἀνδρῶν ὀπίσω αὐτοῦ."
       }
     },
     {
@@ -1494,7 +1508,8 @@
       "translations": {
         "lxx": "And the Lord discomfited Sisara, and all his chariots, and all his army, with the edge of the sword before Barac: and Sisara descended from off his chariot, and fled on his feet.",
         "kjv": "And the LORD discomfited Sisera, and all his chariots, and all his host, with the edge of the sword before Barak; so that Sisera lighted down off his chariot, and fled away on his feet.",
-        "ron": "Atunci Domnul a pus pe fugă pe Sisera şi toate carele lui şi toată tabăra lui prin sabia lui Barac; şi s-a coborât Sisera din carul său şi a fugit pe jos."
+        "ron": "Atunci Domnul a pus pe fugă pe Sisera şi toate carele lui şi toată tabăra lui prin sabia lui Barac; şi s-a coborât Sisera din carul său şi a fugit pe jos.",
+        "grk": "Καὶ ἐξέστησε Κύριος τὸν Σισάρα καὶ πάντα τὰ ἅρματα αὐτοῦ καὶ πᾶσαν τὴν παρεμβολὴν αὐτοῦ ἐν στόματι ῥομφαίας ἐνώπιον Βαράκ· καὶ κατέβη Σισάρα ἐπάνωθεν τοὺ ἄρματος αὐτοῦ, καὶ ἔφυγε τοῖς ποσὶν αὐτοῦ."
       }
     },
     {
@@ -1591,7 +1606,8 @@
       "translations": {
         "lxx": "And Barac pursued after the chariots and after the army, into Arisoth of the Gentiles; and the whole army of Sisara fell by the edge of the sword, there was not one left.",
         "kjv": "But Barak pursued after the chariots, and after the host, unto Harosheth of the Gentiles: and all the host of Sisera fell upon the edge of the sword; and there was not a man left.",
-        "ron": "Iar Barac a urmărit carele lui şi tabăra lui până la Haroşet-Goim şi a căzut toată oştirea lui Sisera de sabie şi nimeni n-a rămas."
+        "ron": "Iar Barac a urmărit carele lui şi tabăra lui până la Haroşet-Goim şi a căzut toată oştirea lui Sisera de sabie şi nimeni n-a rămas.",
+        "grk": "Καὶ Βαρὰκ διώκων ὀπίσω τῶν ἁρμάτων καὶ ὀπίσω τῆς παρεμβολῆς ἕως Ἀρισὼθ τῶν ἐθνῶν· καὶ ἔπεσε πᾶσα παρεμβολὴ Σισάρα ἐν στόματι ῥομφαίας· οὐ κατελείφθη ἕως ἑνός."
       }
     },
     {
@@ -1708,7 +1724,8 @@
       "translations": {
         "lxx": "And Sisara fled on his feet to the tent of Jael the wife of Chaber the Kenite his friend: for there was peace between Jabin king of Asor and the house of Chaber the Kenite.",
         "kjv": "Howbeit Sisera fled away on his feet to the tent of Jael the wife of Heber the Kenite: for there was peace between Jabin the king of Hazor and the house of Heber the Kenite.",
-        "ron": "Sisera însă a fugit pe jos în cortul Iaelei, femeia lui Heber Cheneul; căci între Iabin, regele Haţorului, şi casa lui Heber Cheneul era pace."
+        "ron": "Sisera însă a fugit pe jos în cortul Iaelei, femeia lui Heber Cheneul; căci între Iabin, regele Haţorului, şi casa lui Heber Cheneul era pace.",
+        "grk": "Καὶ Σισάρα ἔφυγε τοῖς ποσὶν αὐτοῦ εἰς σκηνὴν Ἰαὴλ γυναικὸς Χαβὲρ ἑταίρου τοῦ Κιναίου· ὅτι εἰρήνη ἦν ἀναμέσον Ἰαβὶν βασιλέως Ἀσὼρ καὶ ἀναμέσον τοῦ οἴκου Χαβὲρ τοῦ Κιναίου."
       }
     },
     {
@@ -1800,7 +1817,8 @@
       "translations": {
         "lxx": "And Jael went out to meet Sisara, and said to him, Turn aside, my lord, turn aside to me, fear not: and he turned aside to her into the tent; and she covered him with a mantle.",
         "kjv": "And Jael went out to meet Sisera, and said unto him, Turn in, my lord, turn in to me; fear not. And when he had turned in unto her into the tent, she covered him with a mantle.",
-        "ron": "Şi a ieşit Iaela în întâmpinarea lui Sisera şi i-a zis: \"Intră, domnul meu intră la mine, nu te teme!\" Şi el a intrat la ea în cort şi ea l-a acoperit cu haina sa."
+        "ron": "Şi a ieşit Iaela în întâmpinarea lui Sisera şi i-a zis: \"Intră, domnul meu intră la mine, nu te teme!\" Şi el a intrat la ea în cort şi ea l-a acoperit cu haina sa.",
+        "grk": "Καὶ ἐξῆλθεν Ἰαὴλ εἰς συνάντησιν Σισάρα, καὶ εἶπεν αὐτῷ, ἔκκλινον, κύριέ μου, ἔκκλινον πρὸς μὲ, μὴ φοβοῦ· καὶ ἐξέκλινε πρὸς αὐτῆν εἰς τὴν σκηνήν· καὶ περιέβαλεν αὐτὸν ἐπιβολαίῳ."
       }
     },
     {
@@ -1877,7 +1895,8 @@
       "translations": {
         "lxx": "And Sisara said to her, Give me, I pray thee, a little water to drink, for I am thirsty: and she opened a bottle of milk, and gave him to drink, and covered him.",
         "kjv": "And he said unto her, Give me, I pray thee, a little water to drink; for I am thirsty. And she opened a bottle of milk, and gave him drink, and covered him.",
-        "ron": "Şi a zis Sisera către ea: \"Dă-mi putină apă să beau, că mi-e sete! Şi ea a dezlegat un burduf cu lapte şi l-a adăpat şi iar l-a acoperit."
+        "ron": "Şi a zis Sisera către ea: \"Dă-mi putină apă să beau, că mi-e sete! Şi ea a dezlegat un burduf cu lapte şi l-a adăpat şi iar l-a acoperit.",
+        "grk": "Καὶ εἶπε Σισάρα πρὸς αὐτὴν, πότισόν με δὴ μικρὸν ὑδωρ, ὅτι ἐδίψησα· καὶ ἤνοιξε τὸν ἀσκὸν τοῦ γάλακτος, καὶ ἐπότισεν αὐτὸν, καὶ περιέβαλεν αὐτόν."
       }
     },
     {
@@ -1974,7 +1993,8 @@
       "translations": {
         "lxx": "And Sisara said to her, Stand now by the door of the tent, and it shall come to pass if any man come to thee, and ask of thee, and say, Is there any man here? then thou shalt say, There is not.",
         "kjv": "Again he said unto her, Stand in the door of the tent, and it shall be, when any man doth come and enquire of thee, and say, Is there any man here? that thou shalt say, No.",
-        "ron": "Apoi Sisera i-a zis: \"Stai la uşa cortului şi de va veni cineva să te întrebe şi va zice: Nu este aici cineva? Tu să zici: Nu!\""
+        "ron": "Apoi Sisera i-a zis: \"Stai la uşa cortului şi de va veni cineva să te întrebe şi va zice: Nu este aici cineva? Tu să zici: Nu!\"",
+        "grk": "Καὶ εἶπε πρὸς αὐτὴν Σισάρα, στῆθι δὴ ἐπὶ τὴν θύραν τῆς σκηνῆς, καὶ ἔσται ἐὰν ἀνὴρ ἔλθῃ πρὸς σὲ, καὶ ἐρωτήσῃ σε, καὶ εἴπῃ, εἰ ἔστιν ὧδε ἀνήρ; καὶ ἐρεῖς, οὐκ ἔστι."
       }
     },
     {
@@ -2126,7 +2146,8 @@
       "translations": {
         "lxx": "And Jael the wife of Chaber took a pin of the tent, and took a hammer in her hand, and went secretly to him, and fastened the pin in his temple, and it went through to the earth, and he fainted away, and darkness fell upon him and he died.",
         "kjv": "Then Jael Heber’s wife took a nail of the tent, and took an hammer in her hand, and went softly unto him, and smote the nail into his temples, and fastened it into the ground: for he was fast asleep and weary. So he died.",
-        "ron": "Apoi Iaela, femeia lui Heber, a luat un ţăruş de la cort şi un ciocan în mâna sa şi s-a apropiat de el încetişor şi i-a înfipt ţăruşul în tâmpla lui, aşa încât l-a pironit la pământ, căci el dormea, fiind obosit; şi aşa a murit."
+        "ron": "Apoi Iaela, femeia lui Heber, a luat un ţăruş de la cort şi un ciocan în mâna sa şi s-a apropiat de el încetişor şi i-a înfipt ţăruşul în tâmpla lui, aşa încât l-a pironit la pământ, căci el dormea, fiind obosit; şi aşa a murit.",
+        "grk": "Καὶ ἔλαβεν Ἰαὴλ γυνὴ Χαβὲρ τὸν πάσσαλον τῆς σκηνῆς, καὶ ἔθηκε τὴν σφύραν ἐν τῇ χειρὶ αὐτῆς, καὶ εἰσῆλθε πρὸς αὐτὸν ἐν κρύφῇ, καὶ ἔπηξε τὸν πάσσαλον ἐν τῷ κροτάφῳ αὐτοῦ, καὶ διεξῆλθεν ἐν τῇ γῇ· καὶ αὐτὸς ἐξεστῶς ἐσκοτώθη, καὶ ἀπέθανε."
       }
     },
     {
@@ -2253,7 +2274,8 @@
       "translations": {
         "lxx": "And, behold, Barac was pursuing Sisara: and Jael went out to meet him, and she said to him, Come, and I will shew thee the man whom thou seekest: and he went in to her; and, behold, Sisara was fallen dead, and the pin was in his temple.",
         "kjv": "And, behold, as Barak pursued Sisera, Jael came out to meet him, and said unto him, Come, and I will shew thee the man whom thou seekest. And when he came into her tent, behold, Sisera lay dead, and the nail was in his temples.",
-        "ron": "Şi iată Barac alerga în urmărirea lui Sisera. Atunci Iaela a ieşit în întâmpinarea lui şi i-a zis: \"Intră şi-ţi voi arăta pe omul pe care tu îl cauţi\". şi el a intrat şi iată Sisera zăcea mort cu ţăruşul în tâmplă."
+        "ron": "Şi iată Barac alerga în urmărirea lui Sisera. Atunci Iaela a ieşit în întâmpinarea lui şi i-a zis: \"Intră şi-ţi voi arăta pe omul pe care tu îl cauţi\". şi el a intrat şi iată Sisera zăcea mort cu ţăruşul în tâmplă.",
+        "grk": "Καὶ ἰδοὺ Βαρὰκ διώκων τὸν Σισάρα· καὶ ἐξῆλθεν Ἰαὴλ εἰς συνάντησιν αὐτῷ, καὶ εἶπεν αὐτῷ, δεῦρο καὶ δείξω σοι τὸν ἄνδρα ὃν σὺ ζητεῖς· καὶ εἰσῆλθε πρὸς αὐτήν· καὶ ἰδοὺ Σισάρα ἐῤῥιμμένος νεκρὸς, καὶ ὁ πάσσαλος ἐν τῷ κροτάφῳ αὐτοῦ."
       }
     },
     {
@@ -2315,7 +2337,8 @@
       "translations": {
         "lxx": "So God routed Jabin king of Chanaan in that day before the children of Israel.",
         "kjv": "So God subdued on that day Jabin the king of Canaan before the children of Israel.",
-        "ron": "Şi a supus Domnul Dumnezeu în ziua aceea pe Iabin, regele Canaanului, în faţa fiilor lui Israel."
+        "ron": "Şi a supus Domnul Dumnezeu în ziua aceea pe Iabin, regele Canaanului, în faţa fiilor lui Israel.",
+        "grk": "Καὶ ἐτρόπωσεν ὁ Θεὸς τὸν Ἰαβὶν βασιλέα Χαναὰν ἐν τῇ ἡμέρᾳ ἐκείνῃ ἔμπροσθεν υἱῶν Ἰσραήλ."
       }
     },
     {
@@ -2397,7 +2420,8 @@
       "translations": {
         "lxx": "And the hand of the children of Israel prevailed more and more against Jabin king of Chanaan, until they utterly destroyed Jabin king of Chanaan.",
         "kjv": "And the hand of the children of Israel prospered, and prevailed against Jabin the king of Canaan, until they had destroyed Jabin king of Canaan.",
-        "ron": "Şi s-a întărit mâna fiilor lui Israel din ce în ce mai mult asupra lui Iabin, regele Canaanului, până ce au stârpit pe Iabin, regele Canaaneilor,"
+        "ron": "Şi s-a întărit mâna fiilor lui Israel din ce în ce mai mult asupra lui Iabin, regele Canaanului, până ce au stârpit pe Iabin, regele Canaaneilor,",
+        "grk": "Καὶ ἐπορεύετο χεὶρ τῶν υἱῶν Ἰσραὴλ πορευομένη καὶ σκληρυνομένη ἐπὶ Ἰαβὶν βασιλέα Χαναὰν, ἕως οὗ ἐξωλόθρευσαν τὸν Ἰαβὶν βασιλέα Χαναάν."
       }
     }
   ],

@@ -61,7 +61,8 @@
       "translations": {
         "lxx": "For there is a place for the silver, whence it comes, and a place for the gold, whence it is refined.",
         "kjv": "Surely there is a vein for the silver, and a place for gold where they fine it.",
-        "ron": "Argintul are zăcămintele lui de obârşie şi aurul are locul lui de unde-l scoţi şi-l lămureşti."
+        "ron": "Argintul are zăcămintele lui de obârşie şi aurul are locul lui de unde-l scoţi şi-l lămureşti.",
+        "grk": "Ἐστι γὰρ ἀργυρίῳ τόπος ὅθεν γίνεται, τόπος δὲ χρυσίου ὅθεν διηθεῖται."
       }
     },
     {
@@ -113,7 +114,8 @@
       "translations": {
         "lxx": "For iron comes out of the earth, and brass is hewn out like stone.",
         "kjv": "Iron is taken out of the earth, and brass is molten out of the stone.",
-        "ron": "Din pământ scoatem fierul şi din stânca topită scoatem arama."
+        "ron": "Din pământ scoatem fierul şi din stânca topită scoatem arama.",
+        "grk": "Σίδηρος μὲν γὰρ ἐκ γῆς γίνεται, χαλκὸς δὲ ἶσα λίθῳ λατομεῖται."
       }
     },
     {
@@ -175,7 +177,8 @@
       "translations": {
         "lxx": "He has set a bound to darkness, and he searches out every limit: a stone is darkness, and the shadow of death.",
         "kjv": "He setteth an end to darkness, and searcheth out all perfection: the stones of darkness, and the shadow of death.",
-        "ron": "Omul a pus hotare întunericului şi cercetează până în cele mai depărtate adâncuri, sfredelind piatra ascunsă în umbră şi în beznă."
+        "ron": "Omul a pus hotare întunericului şi cercetează până în cele mai depărtate adâncuri, sfredelind piatra ascunsă în umbră şi în beznă.",
+        "grk": "Τάξιν ἔθετο σκότει, καὶ πᾶν πέρας αὐτὸς ἐξακριβάζεται, λίθος σκοτία, καὶ σκιὰ θανάτου."
       }
     },
     {
@@ -242,7 +245,8 @@
       "translations": {
         "lxx": "There is a cutting off of the torrent by reason of dust: so they that forget the right way are weakened; they are removed from among men.",
         "kjv": "The flood breaketh out from the inhabitant; even the waters forgotten of the foot: they are dried up, they are gone away from men.",
-        "ron": "Un popor străin a săpat cărări pe sub pământ, uitate de piciorul celor de deasupra şi departe de oameni; scormonitorii se spânzură pe funii şi se clatină încoace şi în colo."
+        "ron": "Un popor străin a săpat cărări pe sub pământ, uitate de piciorul celor de deasupra şi departe de oameni; scormonitorii se spânzură pe funii şi se clatină încoace şi în colo.",
+        "grk": "Διακοπὴ χειμάῤῥου ἀπὸ κονίας, οἱ δὲ ἐπιλανθανόμενοι ὁδὸν δικαίαν ἠσθένησαν, ἐκ βροτῶν ἐσαλεύθησαν."
       }
     },
     {
@@ -289,7 +293,8 @@
       "translations": {
         "lxx": "As for the earth, out of it shall come bread: under it has been turned up as it were fire.",
         "kjv": "As for the earth, out of it cometh bread: and under it is turned up as it were fire.",
-        "ron": "Şi deasupra este pământul din care iese pâinea, dar pe dedesubt este răvăşit ca de foc."
+        "ron": "Şi deasupra este pământul din care iese pâinea, dar pe dedesubt este răvăşit ca de foc.",
+        "grk": "Γῆ, ἐξ αὐτῆς ἐξελεύσεται ἄρτος, ὑποκάτω αὐτῆς ἐστράφη ὡσεὶ πῦρ."
       }
     },
     {
@@ -336,7 +341,8 @@
       "translations": {
         "lxx": "Her stones are the place of the sapphire: and her dust supplies man with gold.",
         "kjv": "The stones of it are the place of sapphires: and it hath dust of gold.",
-        "ron": "Aici pietrele lui sunt de safir, dincoace sunt puzderii de aur,"
+        "ron": "Aici pietrele lui sunt de safir, dincoace sunt puzderii de aur,",
+        "grk": "Τόπος σαπφείρου οἱ λίθοι αὐτῆς, καὶ χῶμα χρυσίον αὐτῷ."
       }
     },
     {
@@ -378,7 +384,8 @@
       "translations": {
         "lxx": "There is a path, the fowl has not known it, neither has the eye of the vulture seen it:",
         "kjv": "There is a path which no fowl knoweth, and which the vulture’s eye hath not seen:",
-        "ron": "Cărări pe care nu le-a cunoscut pasărea de pradă şi pe care ochiul vulturului nu şi le-a însemnat."
+        "ron": "Cărări pe care nu le-a cunoscut pasărea de pradă şi pe care ochiul vulturului nu şi le-a însemnat.",
+        "grk": "Τρίβος, οὐκ ἔγνω αὐτὴν πετεινὸν, καὶ οὐ παρέβλεψεν αὐτὴν ὀφθαλμὸς γυπός·"
       }
     },
     {
@@ -425,7 +432,8 @@
       "translations": {
         "lxx": "neither have the sons of the proud trodden it, a lion has not passed upon it.",
         "kjv": "The lion’s whelps have not trodden it, nor the fierce lion passed by it.",
-        "ron": "Fiarele sălbatice nu le-au călcat niciodată, niciodată leul nu s-a strecurat pe aici."
+        "ron": "Fiarele sălbatice nu le-au călcat niciodată, niciodată leul nu s-a strecurat pe aici.",
+        "grk": "Καὶ οὐκ ἐπάτησαν αὐτὸν υἱοὶ ἀλαζόνων, οὐ παρῆλθεν ἐπʼ αὐτῆς λέων."
       }
     },
     {
@@ -472,7 +480,8 @@
       "translations": {
         "lxx": "He has stretched forth his hand on the sharp rock, and turned up mountains by the roots:",
         "kjv": "He putteth forth his hand upon the rock; he overturneth the mountains by the roots.",
-        "ron": "Dar omul a ajuns cu mâna lui la aceste stânci de cremene şi munţii i-a răsturnat din temelie."
+        "ron": "Dar omul a ajuns cu mâna lui la aceste stânci de cremene şi munţii i-a răsturnat din temelie.",
+        "grk": "Ἐν ἀκροτόμῳ ἐξέτεινε χεῖρα αὐτοῦ, κατέστρεψε δὲ ἐκ ῥιζῶν ὄρη."
       }
     },
     {
@@ -519,7 +528,8 @@
       "translations": {
         "lxx": "and he has interrupted the whirlpools of rivers, and mine eye has seen every precious thing.",
         "kjv": "He cutteth out rivers among the rocks; and his eye seeth every precious thing.",
-        "ron": "El a săpat şanţuri în stânci şi nimic de preţ nu scapă privirii lui."
+        "ron": "El a săpat şanţuri în stânci şi nimic de preţ nu scapă privirii lui.",
+        "grk": "Δίνας δὲ ποταμῶν διέῤῥηξε, πᾶν δὲ ἔντιμον εἴδέ μου ὁ ὀφθαλμός."
       }
     },
     {
@@ -561,7 +571,8 @@
       "translations": {
         "lxx": "And he has laid bare the depths of rivers, and has brought his power to light.",
         "kjv": "He bindeth the floods from overflowing; and the thing that is hid bringeth he forth to light.",
-        "ron": "El a răscolit izvoarele apelor şi tot ce era în adâncime a scos afară la lumină."
+        "ron": "El a răscolit izvoarele apelor şi tot ce era în adâncime a scos afară la lumină.",
+        "grk": "Βάθη δὲ ποταμῶν ἀνεκάλυψεν, ἔδειξε δὲ αὐτοῦ δύναμιν εἰς φῶς."
       }
     },
     {
@@ -603,7 +614,8 @@
       "translations": {
         "lxx": "But whence has wisdom been discovered? and what is the place of knowledge?",
         "kjv": "But where shall wisdom be found? and where is the place of understanding?",
-        "ron": "Dar înţelepciunea de unde izvorăşte ea şi care este locul de obârşie al priceperii?"
+        "ron": "Dar înţelepciunea de unde izvorăşte ea şi care este locul de obârşie al priceperii?",
+        "grk": "Ἡ δὲ σοφία πόθεν εὑρέθη; ποῖος δὲ τόπος ἐστὶ τῆς ἐπιστήμης;"
       }
     },
     {
@@ -650,7 +662,8 @@
       "translations": {
         "lxx": "A mortal has not known its way, neither indeed has it been discovered among men.",
         "kjv": "Man knoweth not the price thereof; neither is it found in the land of the living.",
-        "ron": "Pământeanul nu cunoaşte calea către ea, căci ea nu se găseşte pe meleagurile celor vii."
+        "ron": "Pământeanul nu cunoaşte calea către ea, căci ea nu se găseşte pe meleagurile celor vii.",
+        "grk": "Οὐκ οἶδε βροτὸς ὁδὸν αὐτῆς, οὐδὲ μὴν εὑρέθη ἐν ἀνθρώποις."
       }
     },
     {
@@ -702,7 +715,8 @@
       "translations": {
         "lxx": "The depth said, It is not in me: and the sea said, It is not with me.",
         "kjv": "The depth saith, It is not in me: and the sea saith, It is not with me.",
-        "ron": "Adâncul a grăit: Ea nu se află în sânul meu! Şi marea a spus la fel: Ea nu este la mine!"
+        "ron": "Adâncul a grăit: Ea nu se află în sânul meu! Şi marea a spus la fel: Ea nu este la mine!",
+        "grk": "Ἄβυσσος εἶπεν, οὐκ ἔνεστιν ἐν ἐμοί· καὶ ἡ θάλασσα εἶπεν, οὐκ ἔνεστι μετʼ ἐμοῦ."
       }
     },
     {
@@ -744,7 +758,8 @@
       "translations": {
         "lxx": "One shall not give fine gold instead of it, neither shall silver be weighed in exchange for it.",
         "kjv": "It cannot be gotten for gold, neither shall silver be weighed for the price thereof.",
-        "ron": "Mintea cea înaltă nu poate fi schimbată cu bulgări de aur şi argintul nu-l cântăreşti ca s-o plăteşti."
+        "ron": "Mintea cea înaltă nu poate fi schimbată cu bulgări de aur şi argintul nu-l cântăreşti ca s-o plăteşti.",
+        "grk": "Οὐ δώσει συνκλεισμὸν ἀντʼ αὐτῆς, καὶ οὐ σταθήσεται ἀργύριον ἀντάλλαγμα αὐτῆς."
       }
     },
     {
@@ -796,7 +811,8 @@
       "translations": {
         "lxx": "Neither shall it be compared with gold of Sophir, with the precious onyx and sapphire.",
         "kjv": "It cannot be valued with the gold of Ophir, with the precious onyx, or the sapphire.",
-        "ron": "Ea nu poate să fie preţuită nici cu aurul Ofirului, nici cu preţioasa cornalină, nici cu pietre de safir!"
+        "ron": "Ea nu poate să fie preţuită nici cu aurul Ofirului, nici cu preţioasa cornalină, nici cu pietre de safir!",
+        "grk": "Καὶ οὐ συνβασταχθήσεται χρυσίῳ Σωφεὶρ, ἐν ὄνυχι τιμίῳ καὶ σαπφείρῳ."
       }
     },
     {
@@ -838,7 +854,8 @@
       "translations": {
         "lxx": "Gold and crystal shall not be equalled to it, neither shall vessels of gold be its exchange.",
         "kjv": "The gold and the crystal cannot equal it: and the exchange of it shall not be for jewels of fine gold.",
-        "ron": "Cu ea alături nu pot să stea nici aurul, nici cristalul şi cu un vas din aurul cel mai curat nu se poate schimba ea."
+        "ron": "Cu ea alături nu pot să stea nici aurul, nici cristalul şi cu un vas din aurul cel mai curat nu se poate schimba ea.",
+        "grk": "Οὐκ ἰσωθήσεται αὐτῇ χρυσίον καὶ ὕαλος, καὶ τὸ ἄλλαγμα αὐτῆς σκεύη χρυσᾶ."
       }
     },
     {
@@ -925,7 +942,8 @@
       "translations": {
         "lxx": "Coral and fine pearl shall not be mentioned: but do thou esteem wisdom above the most precious things.",
         "kjv": "No mention shall be made of coral, or of pearls: for the price of wisdom is above rubies.",
-        "ron": "Despre mărgean şi despre diamant, nici să mai pomenim, iar agonisirea înţelepciunii întrece cu mult pe aceea a mărgăritarelor."
+        "ron": "Despre mărgean şi despre diamant, nici să mai pomenim, iar agonisirea înţelepciunii întrece cu mult pe aceea a mărgăritarelor.",
+        "grk": "Μετέωρα καὶ γαβὶς οὐ μνησθήσεται, καὶ ἕλκυσον σοφίαν ὑπὲρ τὰ ἐσώτατα."
       }
     },
     {
@@ -972,7 +990,8 @@
       "translations": {
         "lxx": "Whence then is wisdom found? and of what kind is the place of understanding?",
         "kjv": "Whence then cometh wisdom? and where is the place of understanding?",
-        "ron": "Şi această înţelepciune de unde vine ea şi care este sălaşul priceperii?"
+        "ron": "Şi această înţelepciune de unde vine ea şi care este sălaşul priceperii?",
+        "grk": "Ἡ δὲ σοφία πόθεν εὑρέθη; ποῖος δὲ τόπος ἐστὶ τῆς συνέσεως;"
       }
     },
     {
@@ -1024,7 +1043,8 @@
       "translations": {
         "lxx": "It has escaped the notice of every man, and has been hidden from the birds of the sky.",
         "kjv": "Seeing it is hid from the eyes of all living, and kept close from the fowls of the air.",
-        "ron": "Ea a fost ascunsă de ochii oricărei făpturi vii; ea a fost tăinuită şi de pasărea cerului."
+        "ron": "Ea a fost ascunsă de ochii oricărei făpturi vii; ea a fost tăinuită şi de pasărea cerului.",
+        "grk": "Λέληθε πάντα ἄνθρωπον, καὶ ἀπὸ πετεινῶν τοῦ οὐρανοῦ ἐκρύβη."
       }
     },
     {
@@ -1061,7 +1081,8 @@
       "translations": {
         "lxx": "Destruction and Death said, We have heard the report of it.",
         "kjv": "Destruction and death say, We have heard the fame thereof with our ears.",
-        "ron": "Adâncul şi moartea au zis: Noi am auzit vorbindu-se de ea."
+        "ron": "Adâncul şi moartea au zis: Noi am auzit vorbindu-se de ea.",
+        "grk": "Ἡ ἀπώλεια καὶ ὁ θάνατος εἶπαν, ἀκηκόαμεν δὲ αὐτῆς τὸ κλέος."
       }
     },
     {
@@ -1108,7 +1129,8 @@
       "translations": {
         "lxx": "God has well ordered the way of it, and he knows the place of it.",
         "kjv": "God understandeth the way thereof, and he knoweth the place thereof.",
-        "ron": "Dumnezeu îi cunoaşte drumul şi numai El este Cel ce ştie locuinţa ei."
+        "ron": "Dumnezeu îi cunoaşte drumul şi numai El este Cel ce ştie locuinţa ei.",
+        "grk": "Ὁ Θεὸς εὖ συνέστησεν αὐτῆς τὴν ὁδὸν, αὐτὸς δὲ οἶδε τὸν τόπον αὐτῆς."
       }
     },
     {
@@ -1165,7 +1187,8 @@
       "translations": {
         "lxx": "For he surveys the whole earth under heaven, knowing the things in the earth:",
         "kjv": "For he looketh to the ends of the earth, and seeth under the whole heaven;",
-        "ron": "Când El privea până la marginile pământului şi îmbrăţişa cu ochii tot ce se află sub ceruri,"
+        "ron": "Când El privea până la marginile pământului şi îmbrăţişa cu ochii tot ce se află sub ceruri,",
+        "grk": "Αὐτὸς γὰρ τὴν ὑπʼ οὐρανὸν πᾶσαν ἐφορᾷ· εἰδὼς τὰ ἐν τῇ γῇ, πάντα"
       }
     },
     {
@@ -1207,7 +1230,8 @@
       "translations": {
         "lxx": "all that he has made; the weight of the winds, the measures of the water.",
         "kjv": "To make the weight for the winds; and he weigheth the waters by measure.",
-        "ron": "Ca să dea vântului cumpănă şi să chibzuiască legea apelor,"
+        "ron": "Ca să dea vântului cumpănă şi să chibzuiască legea apelor,",
+        "grk": "ἃ ἐποίησεν, ἀνέμων σταθμὸν, ὕδατος μέτρα ὅτε ἐποίησεν·"
       }
     },
     {
@@ -1279,7 +1303,8 @@
       "translations": {
         "lxx": "When he made them, thus he saw and numbered them, and made a way for the pealing of the thunder.",
         "kjv": "When he made a decree for the rain, and a way for the lightning of the thunder:",
-        "ron": "Când El statornicea ploilor un făgaş şi o cale bubuitului tunetului,"
+        "ron": "Când El statornicea ploilor un făgaş şi o cale bubuitului tunetului,",
+        "grk": "οὕτως ἰδὼν ἠρίθμησε, καὶ ὁδὸν ἐν τινάγματι φωνάς."
       }
     },
     {
@@ -1321,7 +1346,8 @@
       "translations": {
         "lxx": "Then he saw it, and declared it: he prepared it and traced it out.",
         "kjv": "Then did he see it, and declare it; he prepared it, yea, and searched it out.",
-        "ron": "Atunci El a văzut înţelepciunea şi a cântărit-o, atunci a pus-o în lumină şi i-a măsurat adâncimea."
+        "ron": "Atunci El a văzut înţelepciunea şi a cântărit-o, atunci a pus-o în lumină şi i-a măsurat adâncimea.",
+        "grk": "Τότε εἶδεν αὐτὴν, καὶ ἐξηγήσατο αὐτὴν, ἑτοιμάσας ἐξιχνίασεν."
       }
     },
     {
@@ -1398,7 +1424,8 @@
       "translations": {
         "lxx": "And he said to man, Behold, godliness is wisdom; and to abstain from evil is understanding.",
         "kjv": "And unto man he said, Behold, the fear of the LORD, that is wisdom; and to depart from evil is understanding.",
-        "ron": "După aceea Dumnezeu a zis omului: Iată, frica de Dumnezeu, aceasta este înţelepciunea, iar în depărtarea de cel rău stă priceperea\"."
+        "ron": "După aceea Dumnezeu a zis omului: Iată, frica de Dumnezeu, aceasta este înţelepciunea, iar în depărtarea de cel rău stă priceperea\".",
+        "grk": "Εἶπε δὲ ἀνθρώπῳ, Ἰδοὺ ἡ θεοσέβειά ἐστι σοφία, τὸ δὲ ἀπέχεσθαι ἀπὸ κακῶν ἐστὶν ἐπιστήμη."
       }
     }
   ],

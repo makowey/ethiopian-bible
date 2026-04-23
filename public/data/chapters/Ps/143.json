@@ -8,7 +8,8 @@
       "translation": "A Psalm of David concerning Goliad. Blessed be the Lord my God, who instructs my hands for battle, and my fingers for war.",
       "words": [],
       "translations": {
-        "ron": "Binecuvântat este Domnul Dumnezeul meu, Cel ce învaţă mâinile mele la luptă şi degetele mele la război."
+        "ron": "Binecuvântat este Domnul Dumnezeul meu, Cel ce învaţă mâinile mele la luptă şi degetele mele la război.",
+        "grk": "Τῷ Δαυὶδ πρὸς τὸν Γολιάδ. Εὐλογήτος Κύριος ὁ Θεός μου, ὁ διδάσκων τὰς χεῖράς μου εἰς παράταξιν, τοὺς δακτύλους μου εἰς πόλεμον·"
       }
     },
     {
@@ -17,7 +18,8 @@
       "translation": "My mercy, and my refuge; my helper, and my deliverer; my protector, in whom I have trusted; who subdues my people under me.",
       "words": [],
       "translations": {
-        "ron": "Mila mea şi Scăparea mea, Sprijinitorul meu şi Izbăvitorul meu, Apărătorul meu, şi în El am nădăjduit, Cel ce supune pe poporul meu sub mine."
+        "ron": "Mila mea şi Scăparea mea, Sprijinitorul meu şi Izbăvitorul meu, Apărătorul meu, şi în El am nădăjduit, Cel ce supune pe poporul meu sub mine.",
+        "grk": "Ἔλεός μου καὶ καταφυγή μου, ἀντιλήπτωρ μου καὶ ῥύστης μου, ὑπερασπιστής μου, καὶ ἐπʼ αὐτῷ ἤλπισα, ὁ ὑποτάσσων τὸν λαόν μου ὑπʼ ἐμέ."
       }
     },
     {
@@ -26,7 +28,8 @@
       "translation": "Lord, what is man, that thou art made known to him? or the son of man, that thou takest account of him?",
       "words": [],
       "translations": {
-        "ron": "Doamne, ce este omul că Te-ai făcut cunoscut lui, sau fiul omului că-l socoteşti pe el?"
+        "ron": "Doamne, ce este omul că Te-ai făcut cunoscut lui, sau fiul omului că-l socoteşti pe el?",
+        "grk": "Κύριε, τί ἐστιν ἄνθρωπος, ὅτι ἐγνώσθης αὐτῷ; ἢ υἱὸς ἀνθρώπου, ὅτι λογίζῃ αὐτόν;"
       }
     },
     {
@@ -35,7 +38,8 @@
       "translation": "Man is like to vanity: his days pass as a shadow.",
       "words": [],
       "translations": {
-        "ron": "Omul cu deşertăciunea se aseamănă; zilele lui ca umbra trec."
+        "ron": "Omul cu deşertăciunea se aseamănă; zilele lui ca umbra trec.",
+        "grk": "Ἄνθρωπος ματαιότητι ὡμοιώθη, αἱ ἡμέραι αὐτοῦ ὡσεὶ σκιὰ παράγουσι."
       }
     },
     {
@@ -44,7 +48,8 @@
       "translation": "O Lord, bow thy heavens, and come down: touch the mountains, and they shall smoke.",
       "words": [],
       "translations": {
-        "ron": "Doamne, pleacă cerurile şi Te pogoară, atinge-Te de munţi şi fă-i să fumege."
+        "ron": "Doamne, pleacă cerurile şi Te pogoară, atinge-Te de munţi şi fă-i să fumege.",
+        "grk": "Κύριε, κλῖνον οὐρανούς σου καὶ κατάβηθι, ἅψαι τῶν ὀρέων καὶ καπνισθήσονται."
       }
     },
     {
@@ -53,7 +58,8 @@
       "translation": "Send lightning, and thou shalt scatter them: send forth thine arrows, and thou shalt discomfit them.",
       "words": [],
       "translations": {
-        "ron": "Cu fulger fulgeră-i şi-i risipeşte! Trimite săgeţile Tale şi tulbură-i!"
+        "ron": "Cu fulger fulgeră-i şi-i risipeşte! Trimite săgeţile Tale şi tulbură-i!",
+        "grk": "Ἄστραψον ἀστραπὴν καὶ σκορπιεῖς αὐτοὺς, ἐξαπόστειλον τὰ βέλη σου καὶ συνταράξεις αὐτούς."
       }
     },
     {
@@ -62,7 +68,8 @@
       "translation": "Send forth thine hand from on high; rescue me, and deliver me out of great waters, out of the hand of strange children;",
       "words": [],
       "translations": {
-        "ron": "Trimite mâna Ta dintru înălţime; scoate-mă şi mă izbăveşte de ape multe, din mâna străinilor,"
+        "ron": "Trimite mâna Ta dintru înălţime; scoate-mă şi mă izbăveşte de ape multe, din mâna străinilor,",
+        "grk": "Ἐξαπόστειλον τὴν χεῖρά σου ἐξ ὕψους, ἐξελοῦ με καὶ ῥῦσαί με ἐξ ὑδάτων πολλῶν, ἐκ χειρὸς υἱῶν ἀλλοτρίων·"
       }
     },
     {
@@ -71,7 +78,8 @@
       "translation": "whose mouth has spoken vanity, and their right hand is a right hand of iniquity.",
       "words": [],
       "translations": {
-        "ron": "A căror gură a grăit deşertăciune şi dreapta lor e dreapta nedreptăţii."
+        "ron": "A căror gură a grăit deşertăciune şi dreapta lor e dreapta nedreptăţii.",
+        "grk": "ὧν τὸ στόμα ἐλάλησε ματαιότητα, καὶ ἡ δεξιὰ αὐτῶν δεξιὰ ἀδικίας."
       }
     },
     {
@@ -80,7 +88,8 @@
       "translation": "O God, I will sing a new song to thee: I will play to thee on a psaltery of ten strings.",
       "words": [],
       "translations": {
-        "ron": "Dumnezeule, cântare nouă Îţi voi cânta ţie; în psaltire cu zece strune Îţi voi cânta ţie,"
+        "ron": "Dumnezeule, cântare nouă Îţi voi cânta ţie; în psaltire cu zece strune Îţi voi cânta ţie,",
+        "grk": "Ὁ Θεὸς, ᾠδὴν καινὴν ᾄσομαί σοι, ἐν ψαλτηρίῳ δεκαχόρδῳ ψαλῶ σοι·"
       }
     },
     {
@@ -89,7 +98,8 @@
       "translation": "Even to him who gives salvation to kings: who redeems his servant David from the hurtful sword.",
       "words": [],
       "translations": {
-        "ron": "Celui ce dai mântuire împăraţilor, Celui ce izbăveşti pe David, robul Tău, din robia cea cumplită."
+        "ron": "Celui ce dai mântuire împăraţilor, Celui ce izbăveşti pe David, robul Tău, din robia cea cumplită.",
+        "grk": "Τῷ διδόντι τὴν σωτηρίαν τοῖς βασιλεῦσι, τῷ λυτρουμένῳ Δαυὶδ τὸν δοῦλον αὐτοῦ ἐκ ῥομφαίας πονηρᾶς."
       }
     },
     {
@@ -98,7 +108,8 @@
       "translation": "Deliver me, and rescue me from the hand of strange children, whose mouth has spoken vanity, and their right hand is a right hand of iniquity;",
       "words": [],
       "translations": {
-        "ron": "Izbăveşte-mă şi mă scoate din mâna străinilor, a căror gură a grăit deşertăciune şi dreapta lor e dreapta nedreptăţii,"
+        "ron": "Izbăveşte-mă şi mă scoate din mâna străinilor, a căror gură a grăit deşertăciune şi dreapta lor e dreapta nedreptăţii,",
+        "grk": "Ῥῦσαί με καὶ ἐξελοῦ με ἐκ χειρὸς υἱῶν ἀλλοτρίων, ὧν τὸ στόμα ἐλάλησε ματαιότητα, καὶ ἡ δεξιὰ αὐτῶν δεξιὰ ἀδικίας·"
       }
     },
     {
@@ -107,7 +118,8 @@
       "translation": "whose children are as plants, strengthened in their youth: their daughters are beautiful, sumptuously adorned after the similitude of a temple.",
       "words": [],
       "translations": {
-        "ron": "Ai căror fii sunt ca nişte odrasle tinere, crescute în tinereţile lor; fiicele lor înfrumuseţate şi împodobite ca chipurile templului."
+        "ron": "Ai căror fii sunt ca nişte odrasle tinere, crescute în tinereţile lor; fiicele lor înfrumuseţate şi împodobite ca chipurile templului.",
+        "grk": "ὧν οἱ υἱοὶ ὡς νεόφυτα ἱδρυμένα ἐν τῇ νεότητι αὐτῶν· αἱ θυγατέρες αὐτῶν κεκαλλωπισμέναι, περικεκοσμημέναι ὡς ὁμοίωμα ναοῦ."
       }
     },
     {

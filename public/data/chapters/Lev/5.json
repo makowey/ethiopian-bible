@@ -86,7 +86,8 @@
       "translations": {
         "lxx": "And if a soul sin, and hear the voice of swearing, and he is a witness or has seen or been conscious, if he do not report it, he shall bear his iniquity.",
         "kjv": "And if a soul sin, and hear the voice of swearing, and is a witness, whether he hath seen or known of it; if he do not utter it, then he shall bear his iniquity.",
-        "ron": "Dacă vreun suflet va păcătui prin aceea că, fiind pus să jure ca martor, nu va spune ceea ce a auzit sau ce ştie, acela va lua asupra sa păcat."
+        "ron": "Dacă vreun suflet va păcătui prin aceea că, fiind pus să jure ca martor, nu va spune ceea ce a auzit sau ce ştie, acela va lua asupra sa păcat.",
+        "grk": "Ἐὰν δὲ ψυχὴ ἁμάρτῃ, καὶ ἀκούσῃ φωνὴν ὁρκισμοῦ, καὶ οὗτος μάρτυς ἢ ἑώρακεν ἢ σύνοιδεν, ἐὰν μὴ ἀπαγγείλῃ, λήψεται τὴν ἁμαρτίαν."
       }
     },
     {
@@ -213,7 +214,8 @@
       "translations": {
         "lxx": "That soul which shall touch any unclean thing, or carcase, or that which is unclean being taken of beasts, or the dead bodies of abominable reptiles which are unclean, or carcases of unclean cattle,",
         "kjv": "Or if a soul touch any unclean thing, whether it be a carcase of an unclean beast, or a carcase of unclean cattle, or the carcase of unclean creeping things, and if it be hidden from him; he also shall be unclean, and guilty.",
-        "ron": "Sau de se va atinge cineva de orice lucru necurat, sau de trup necurat de fiară, sau de stârv de dobitoc necurat, sau de stârv de târâtoare necurată, fără să ştie, se face necurat şi vinovat;"
+        "ron": "Sau de se va atinge cineva de orice lucru necurat, sau de trup necurat de fiară, sau de stârv de dobitoc necurat, sau de stârv de târâtoare necurată, fără să ştie, se face necurat şi vinovat;",
+        "grk": "Ἡ ψυχὴ ἐκείνη ἥτις ἐὰν ἅψηται παντὸς πράγματος ἀκαθάρτου, ἢ θνησιμαίου, ἢ θηριαλώτου ἀκαθάρτου, ἢ τῶν θνησιμαίων βδελυγμάτων τῶν ἀκαθάρτων, ἢ τῶν θνησιμαίων κτηνῶν τῶν ἀκαθάρτων,"
       }
     },
     {
@@ -310,7 +312,8 @@
       "translations": {
         "lxx": "or should touch the uncleanness of a man, of whatever kind, which he may touch and be defiled by, and it should have escaped him, but afterwards he should know,—then he shall have transgressed.",
         "kjv": "Or if he touch the uncleanness of man, whatsoever uncleanness it be that a man shall be defiled withal, and it be hid from him; when he knoweth of it, then he shall be guilty.",
-        "ron": "Sau de se va atinge cineva de necurăţenie omenească, sau de orice fel de necurăţenie care spurcă, şi nu va şti, dar apoi va afla, acela e vinovat."
+        "ron": "Sau de se va atinge cineva de necurăţenie omenească, sau de orice fel de necurăţenie care spurcă, şi nu va şti, dar apoi va afla, acela e vinovat.",
+        "grk": "ἢ ἅψηται ἀπὸ ἀκαθαρσίας ἀνθρώπου, ἀπὸ πάσης ἀκαθαρσίας αὐτοῦ, ἧς ἂν ἁψάμενος μιανθῇ καὶ ἔλαθεν αὐτόν, μετὰ τοῦτο δὲ γνῷ, καὶ πλημμελήσῃ."
       }
     },
     {
@@ -432,7 +435,8 @@
       "translations": {
         "lxx": "That unrighteous soul, which determines with his lips to do evil or to do good according to whatsoever a man may determine with an oath, and it shall have escaped his notice, and he shall afterwards know it, and so he should sin in some one of these things:—",
         "kjv": "Or if a soul swear, pronouncing with his lips to do evil, or to do good, whatsoever it be that a man shall pronounce with an oath, and it be hid from him; when he knoweth of it, then he shall be guilty in one of these.",
-        "ron": "Sau de se va jura cineva cu buzele sale nebuneşte să facă ceva rău sau bine, orice fel ar fi fapta pentru care se jură oamenii fără socoteală, de nu va şti că aceasta este rău, ci va afla în urmă, e vinovat."
+        "ron": "Sau de se va jura cineva cu buzele sale nebuneşte să facă ceva rău sau bine, orice fel ar fi fapta pentru care se jură oamenii fără socoteală, de nu va şti că aceasta este rău, ci va afla în urmă, e vinovat.",
+        "grk": "Ἡ ψυχὴ ἡ ἄνομος, ἡ διαστέλλουσα τοῖς χείλεσι κακοποιῆσαι ἢ καλῶς ποιῆσαι κατὰ πάντα ὅσα ἐὰν διαστείλῃ ὁ ἄνθρωπος μεθʼ ὅρκου, καὶ λάθῃ αὐτὸν πρὸ ὀφθαλμῶν, καὶ οὗτος γνῷ, καὶ ἁμάρτῃ ἕν τι τούτων."
       }
     },
     {
@@ -469,7 +473,8 @@
       "translations": {
         "lxx": "then shall he declare his sin in the things wherein he has sinned by that sin.",
         "kjv": "And it shall be, when he shall be guilty in one of these things, that he shall confess that he hath sinned in that thing:",
-        "ron": "Deci, de se va face cineva vinovat de ceva din acestea şi îşi va mărturisi păcatul,"
+        "ron": "Deci, de se va face cineva vinovat de ceva din acestea şi îşi va mărturisi păcatul,",
+        "grk": "Καὶ ἐξαγορεύσει τὴν ἁμαρτίαν περὶ ὧν ἡμάρτηκε κατʼ αὐτῆς."
       }
     },
     {
@@ -611,7 +616,8 @@
       "translations": {
         "lxx": "And he shall bring for his transgressions against the Lord, for his sin which he has sinned, a ewe lamb of the flock, or a kid of the goats, for a sin-offering; and the priest shall make an atonement for him for his sin which he has sinned, and his sin shall be forgiven him.",
         "kjv": "And he shall bring his trespass offering unto the LORD for his sin which he hath sinned, a female from the flock, a lamb or a kid of the goats, for a sin offering; and the priest shall make an atonement for him concerning his sin.",
-        "ron": "Atunci, pentru păcatul său, pe care l-a săvârşit, să aducă Domnului jertfă din turmă, o oaie sau o capră din caprele sale, pentru vina păcatului, şi-l va curăţi preotul prin aceasta de păcatul său şi i se va ierta păcatul."
+        "ron": "Atunci, pentru păcatul său, pe care l-a săvârşit, să aducă Domnului jertfă din turmă, o oaie sau o capră din caprele sale, pentru vina păcatului, şi-l va curăţi preotul prin aceasta de păcatul său şi i se va ierta păcatul.",
+        "grk": "Καὶ οἴσει περὶ ὧν ἐπλημμέλησε Κυρίῳ, περὶ τῆς ἁμαρτίας ἧς ἥμαρτε, θῆλυ ἀπὸ τῶν προβάτων ἀμνάδα, ἢ χίμαιραν ἐξ αἰγῶν, περὶ ἁμαρτίας· καὶ ἐξιλάσεται περὶ αὐτοῦ ὁ ἱερεὺς περὶ τῆς ἁμαρτίας αὐτοῦ, ἧς ἥμαρτε, καὶ ἀφεθήσεται αὐτῷ ἡ ἁμαρτία."
       }
     },
     {
@@ -743,7 +749,8 @@
       "translations": {
         "lxx": "And if he cannot afford a sheep, he shall bring for his sin which he has sinned, two turtle-doves or two young pigeons to the Lord; one for a sin-offering, and the other for a burnt-offering.",
         "kjv": "And if he be not able to bring a lamb, then he shall bring for his trespass, which he hath committed, two turtledoves, or two young pigeons, unto the LORD; one for a sin offering, and the other for a burnt offering.",
-        "ron": "Iar de nu va fi în stare să aducă jertfă o oaie, pentru vina păcatului său, să aducă Domnului două turturele sau doi pui de porumbel: unul jertfă pentru păcat, iar altul ardere de tot."
+        "ron": "Iar de nu va fi în stare să aducă jertfă o oaie, pentru vina păcatului său, să aducă Domnului două turturele sau doi pui de porumbel: unul jertfă pentru păcat, iar altul ardere de tot.",
+        "grk": "Ἐὰν δὲ μὴ ἰσχύῃ ἡ χεὶρ αὐτοῦ τὸ ἱκανὸν εἰς τὸ πρόβατον, οἴσει περὶ τῆς ἁμαρτίας αὐτοῦ, ἧς ἥμαρτε, δύο τρυγόνας, ἢ δύο νοσσοὺς περιστερῶν Κυρίῳ, ἕνα περὶ ἁμαρτίας, καὶ ἕνα εἰς ὁλοκαύτωμα."
       }
     },
     {
@@ -820,7 +827,8 @@
       "translations": {
         "lxx": "And he shall bring them to the priest, and the priest shall bring the sin-offering first; and the priest shall pinch off the head from the neck, and shall not divide the body.",
         "kjv": "And he shall bring them unto the priest, who shall offer that which is for the sin offering first, and wring off his head from his neck, but shall not divide it asunder:",
-        "ron": "Aceste păsări să le aducă la preot şi preotul să jertfească mai întâi pe cea pentru păcat, să-i frângă gâtul, fără să despartă capul de trup,"
+        "ron": "Aceste păsări să le aducă la preot şi preotul să jertfească mai întâi pe cea pentru păcat, să-i frângă gâtul, fără să despartă capul de trup,",
+        "grk": "Καὶ οἴσει αὐτὰ πρὸς τὸν ἱερέα· καὶ προσάξει ὁ ἱερεὺς τὸ περὶ τῆς ἁμαρτίας πρότερον· καὶ ἀποκνίσει ὁ ἱερεὺς τὴν κεφαλὴν αὐτοῦ ἀπὸ τοῦ σφονδύλου, καὶ οὐ διελεῖ."
       }
     },
     {
@@ -922,7 +930,8 @@
       "translations": {
         "lxx": "And he shall sprinkle of the blood of the sin-offering on the side of the altar, but the rest of the blood he shall drop at the foot of the altar, for it is a sin-offering.",
         "kjv": "And he shall sprinkle of the blood of the sin offering upon the side of the altar; and the rest of the blood shall be wrung out at the bottom of the altar: it is a sin offering.",
-        "ron": "Şi să stropească cu sângele acestei jertfe pentru păcat peretele jertfelnicului, iar celălalt sânge să-l scurgă jos lângă jertfelnic; aceasta e jertfă pentru păcat."
+        "ron": "Şi să stropească cu sângele acestei jertfe pentru păcat peretele jertfelnicului, iar celălalt sânge să-l scurgă jos lângă jertfelnic; aceasta e jertfă pentru păcat.",
+        "grk": "Καὶ ῥανεῖ ἀπὸ τοῦ αἵματος τοῦ περὶ τῆς ἁμαρτίας ἐπὶ τὸν τοῖχον τοῦ θυσιαστηρίου· τὸ δὲ κατάλοιπον τοῦ αἵματος καταστραγγιεῖ ἐπὶ τὴν βάσιν τοῦ θυσιαστηρίου· ἁμαρτία γάρ ἐστι·"
       }
     },
     {
@@ -1004,7 +1013,8 @@
       "translations": {
         "lxx": "And he shall make the second a whole-burnt-offering, as it is fit; and the priest shall make atonement for his sin which he has sinned, and it shall be forgiven him.",
         "kjv": "And he shall offer the second for a burnt offering, according to the manner: and the priest shall make an atonement for him for his sin which he hath sinned, and it shall be forgiven him.",
-        "ron": "Iar pe cealaltă pasăre s-o aducă ardere de tot, după rânduială. Şi aşa îl va curăţi preotul de păcatul lui şi i se va ierta."
+        "ron": "Iar pe cealaltă pasăre s-o aducă ardere de tot, după rânduială. Şi aşa îl va curăţi preotul de păcatul lui şi i se va ierta.",
+        "grk": "Καὶ τὸ δεύτερον ποιήσει ὁλοκάρπωμα, ὡς καθήκει· καὶ ἐξιλάσεται ὁ ἱερεὺς περὶ τῆς ἁμαρτίας αὐτοῦ, ἧς ἥμαρτε, καὶ ἀφεθήσεται αὐτῷ."
       }
     },
     {
@@ -1171,7 +1181,8 @@
       "translations": {
         "lxx": "And if he cannot afford a pair of turtle-doves, or two young pigeons, then shall he bring as his gift for his sin, the tenth part of an ephah of fine flour for a sin-offering; he shall not pour oil upon it, nor shall he put frankincense upon it, because it is a sin-offering.",
         "kjv": "But if he be not able to bring two turtledoves, or two young pigeons, then he that sinned shall bring for his offering the tenth part of an ephah of fine flour for a sin offering; he shall put no oil upon it, neither shall he put any frankincense thereon: for it is a sin offering.",
-        "ron": "Dacă însă nu-i va da mâna să aducă nici o pereche de turturele sau doi pui de porumbel, atunci să aducă pentru greşeala sa a zecea parte dintr-o efă de făină bună de grâu, ca jertfă pentru păcat, dar să nu toarne pe ea untdelemn, nici tămâie să nu pună pe ea, că aceasta este jertfă pentru păcat."
+        "ron": "Dacă însă nu-i va da mâna să aducă nici o pereche de turturele sau doi pui de porumbel, atunci să aducă pentru greşeala sa a zecea parte dintr-o efă de făină bună de grâu, ca jertfă pentru păcat, dar să nu toarne pe ea untdelemn, nici tămâie să nu pună pe ea, că aceasta este jertfă pentru păcat.",
+        "grk": "Ἐὰν δὲ μὴ εὑρίσκῃ ἡ χεὶρ αὐτοῦ ζεῦγος τρυγόνων, ἢ δύο νοσσούς περιστερῶν, καὶ οἴσει τὸ δῶρον αὐτοῦ, περὶ οὗ ἥμαρτε, τὸ δέκατον τοῦ οἰφὶ σεμιδάλεως περὶ ἁμαρτίας· οὐκ ἐπιχεεῖ ἐπʼ αὐτὸ ἔλαιον, οὐδὲ ἐπιθήσει ἐπʼ αὐτῷ λίβανον, ὅτι περὶ ἁμαρτίας ἐστί."
       }
     },
     {
@@ -1278,7 +1289,8 @@
       "translations": {
         "lxx": "And he shall bring it to the priest; and the priest having taken a handful of it, shall lay the memorial of it on the altar of whole-burnt-offerings to the Lord; it is a sin-offering.",
         "kjv": "Then shall he bring it to the priest, and the priest shall take his handful of it, even a memorial thereof, and burn it on the altar, according to the offerings made by fire unto the LORD: it is a sin offering.",
-        "ron": "S-o aducă la preot şi preotul să ia din ea un pumn plin, spre pomenire, şi s-o ardă pe jertfelnic, ca jertfă Domnului; aceasta este jertfă pentru păcat."
+        "ron": "S-o aducă la preot şi preotul să ia din ea un pumn plin, spre pomenire, şi s-o ardă pe jertfelnic, ca jertfă Domnului; aceasta este jertfă pentru păcat.",
+        "grk": "Καὶ οἴσει αὐτὸ πρὸς τὸν ἱερέα· καὶ δραξάμενος ὁ ἱερεὺς ἀπʼ αὐτῆς πλήρη τὴν δράκα, τὸ μνημόσυνον αὐτῆς ἐπιθήσει ἐπὶ τὸ θυσιαστήριον τῶν ὁλοκαυτωμάτων Κυρίῳ· ἁμαρτία ἐστί."
       }
     },
     {
@@ -1375,7 +1387,8 @@
       "translations": {
         "lxx": "And the priest shall make atonement for him for his sin, which he has sinned in one of these things, and it shall be forgiven him; and that which is left shall be the priest's, as an offering of fine flour.",
         "kjv": "And the priest shall make an atonement for him as touching his sin that he hath sinned in one of these, and it shall be forgiven him: and the remnant shall be the priest’s, as a meat offering.",
-        "ron": "Prin aceasta îl va curăţi preotul de păcatul lui, pe care l-a săvârşit în una din întâmplările acelea, şi i se va ierta păcatul; rămăşiţa de făină va fi a preotului, ca la prinosul de făină\"."
+        "ron": "Prin aceasta îl va curăţi preotul de păcatul lui, pe care l-a săvârşit în una din întâmplările acelea, şi i se va ierta păcatul; rămăşiţa de făină va fi a preotului, ca la prinosul de făină\".",
+        "grk": "Καὶ ἐξιλάσεται περὶ αὐτοῦ ὁ ἱερεὺς περὶ τῆς ἁμαρτίας αὐτοῦ, ἧς ἥμαρτεν ἀφʼ ἑνὸς τούτων, καὶ ἀφεθήσεται αὐτῷ. τὸ δὲ καταλειφθὲν ἔσται τῷ ἱερεῖ, ὡς θυσία τῆς σεμιδάλεως."
       }
     },
     {
@@ -1407,7 +1420,8 @@
       "translations": {
         "lxx": "And the Lord spoke to Moses, saying,",
         "kjv": "And the LORD spake unto Moses, saying,",
-        "ron": "Apoi a grăit Domnul cu Moise şi a zis:"
+        "ron": "Apoi a grăit Domnul cu Moise şi a zis:",
+        "grk": "Καὶ ἐλάλησε Κύριος πρὸς Μωυσῆν, λέγων,"
       }
     },
     {
@@ -1539,7 +1553,8 @@
       "translations": {
         "lxx": "The soul which shall be really unconscious, and shall sin unwillingly in any of the holy things of the Lord, shall even bring to the Lord for his transgression, a ram of the flock without blemish, valued according to shekels of silver according to the shekel of the sanctuary, for his transgression wherein he transgressed.",
         "kjv": "If a soul commit a trespass, and sin through ignorance, in the holy things of the LORD; then he shall bring for his trespass unto the LORD a ram without blemish out of the flocks, with thy estimation by shekels of silver, after the shekel of the sanctuary, for a trespass offering:",
-        "ron": "De va face cineva greşeală şi din neştiinţă va păcătui împotriva celor afierosite Domnului, acela, pentru vina sa, să ia din turma de oi şi să aducă Domnului jertfă pentru vină, un berbec fără meteahnă, preţuit la doi sicli de argint, după preţul siclului sfânt."
+        "ron": "De va face cineva greşeală şi din neştiinţă va păcătui împotriva celor afierosite Domnului, acela, pentru vina sa, să ia din turma de oi şi să aducă Domnului jertfă pentru vină, un berbec fără meteahnă, preţuit la doi sicli de argint, după preţul siclului sfânt.",
+        "grk": "ψυχὴ ἣ ἂν λάθῃ αὐτὸν λήθῃ, καὶ ἁμάρτῃ ἀκουσίως ἀπὸ τῶν ἁγίων Κυρίου, καὶ οἴσει τῆς πλημμελείας αὐτοῦ τῷ Κυρίῳ κριὸν ἄμωμον ἐκ τῶν προβάτων, τιμῆς ἀργυρίου σίκλων, τῷ σίκλῳ τῶν ἁγίων, περὶ οὗ ἐπλημμέλησε."
       }
     },
     {
@@ -1646,7 +1661,8 @@
       "translations": {
         "lxx": "And he shall make compensation for that wherein he has sinned in the holy things; and he shall add the fifth part to it, and give it to the priest; and the priest shall make atonement for him with the ram of transgression, and his sin shall be forgiven him.",
         "kjv": "And he shall make amends for the harm that he hath done in the holy thing, and shall add the fifth part thereto, and give it unto the priest: and the priest shall make an atonement for him with the ram of the trespass offering, and it shall be forgiven him.",
-        "ron": "Şi ce a greşit împotriva lucrului sfânt, va plăti şi va mai adăuga peste preţul lui a cincea parte din preţ şi va da aceasta preotului şi preotul îl va curăţi prin berbecul jertfei pentru vină şi i se va ierta."
+        "ron": "Şi ce a greşit împotriva lucrului sfânt, va plăti şi va mai adăuga peste preţul lui a cincea parte din preţ şi va da aceasta preotului şi preotul îl va curăţi prin berbecul jertfei pentru vină şi i se va ierta.",
+        "grk": "Καὶ ὃ ἥμαρτεν ἀπὸ τῶν ἁγίων ἀποτίσει αὐτὸ, καὶ τὸ ἐπίπεμπτον προσθήσει ἐπʼ αὐτὸ, καὶ δώσει αὐτὸ τῷ ἱερεῖ· καὶ ὁ ἱερεὺς ἐξιλάσεται περὶ αὐτοῦ ἐν τῷ κριῷ τῆς πλημμελείας, καὶ ἀφεθήσεται αὐτῷ."
       }
     },
     {
@@ -1728,7 +1744,8 @@
       "translations": {
         "lxx": "And the soul which shall sin, and do one thing against any of the commandments of the Lord, which it is not right to do, and has not known it, and shall have transgressed, and shall have contracted guilt,",
         "kjv": "And if a soul sin, and commit any of these things which are forbidden to be done by the commandments of the LORD; though he wist it not, yet is he guilty, and shall bear his iniquity.",
-        "ron": "De va greşi cineva împotriva uneia din toate poruncile Domnului şi va face ce nu se cuvine să facă şi din neştiinţă s-a făcut vinovat şi va fi sub păcat,"
+        "ron": "De va greşi cineva împotriva uneia din toate poruncile Domnului şi va face ce nu se cuvine să facă şi din neştiinţă s-a făcut vinovat şi va fi sub păcat,",
+        "grk": "Καὶ ἡ ψυχὴ ἣ ἂν ἁμάρτῃ, καὶ ποιήσει μίαν ἀπὸ πασῶν τῶν ἐντολῶν Κυρίου, ὧν οὐ δεῖ ποιεῖν, καὶ οὐκ ἔγνω, καὶ πλημμελήσῃ, καὶ λάβῃ τὴν ἁμαρτίαν,"
       }
     },
     {
@@ -1845,7 +1862,8 @@
       "translations": {
         "lxx": "he shall even bring a ram without blemish from the flock, valued at a price of silver for his transgression to the priest; and the priest shall make atonement for his trespass of ignorance, wherein he ignorantly trespassed, and he knew it not; and it shall be forgiven him.",
         "kjv": "And he shall bring a ram without blemish out of the flock, with thy estimation, for a trespass offering, unto the priest: and the priest shall make an atonement for him concerning his ignorance wherein he erred and wist it not, and it shall be forgiven him.",
-        "ron": "Acela să aducă la preot din turma de oi, jertfă pentru vină, un berbec fără meteahnă, după preţuirea ta, şi-i va curăţi preotul greşeala, în care a căzut el din neştiinţă şi i se va ierta."
+        "ron": "Acela să aducă la preot din turma de oi, jertfă pentru vină, un berbec fără meteahnă, după preţuirea ta, şi-i va curăţi preotul greşeala, în care a căzut el din neştiinţă şi i se va ierta.",
+        "grk": "καὶ οἴσει κριὸν ἄμωμον ἐκ τῶν προβάτων, τιμῆς ἀργυρίου εἰς πλημμέλειαν πρὸς τὸν ἱερέα· καὶ ἐξιλάσεται περὶ αὐτοῦ ὁ ἱερεὺς περὶ τῆς ἀγνοίας αὐτοῦ, ἧς ἠγνόησε, καὶ αὐτὸς οὐκ ᾔδει, καὶ ἀφεθήσεται αὐτῷ."
       }
     },
     {
@@ -1887,7 +1905,8 @@
       "translations": {
         "lxx": "For he has surely been guilty of transgression before the Lord.",
         "kjv": "It is a trespass offering: he hath certainly trespassed against the LORD.",
-        "ron": "Aceasta este jertfă pentru greşeala cu care s-a făcut vinovat el înaintea Domnului\"."
+        "ron": "Aceasta este jertfă pentru greşeala cu care s-a făcut vinovat el înaintea Domnului\".",
+        "grk": "Ἐπλημμέλησε γὰρ πλημμελείᾳ ἔναντι Κυρίου."
       }
     },
     {
@@ -1917,7 +1936,8 @@
         }
       ],
       "translations": {
-        "lxx": "And the Lord spoke to Moses, saying,"
+        "lxx": "And the Lord spoke to Moses, saying,",
+        "grk": "Καὶ ἐλάλησε Κύριος πρὸς Μωυσῆν, λέγων,"
       }
     },
     {
@@ -2032,7 +2052,8 @@
         }
       ],
       "translations": {
-        "lxx": "The soul which shall have sinned, and wilfully overlooked the commandments of the Lord, and shall have dealt falsely in the affairs of his neighbour in the matter of a deposit, or concerning fellowship, or concerning plunder, or has in anything wronged his neighbour,"
+        "lxx": "The soul which shall have sinned, and wilfully overlooked the commandments of the Lord, and shall have dealt falsely in the affairs of his neighbour in the matter of a deposit, or concerning fellowship, or concerning plunder, or has in anything wronged his neighbour,",
+        "grk": "ψυχὴ ἣ ἂν ἁμάρτῃ, καὶ παριδὼν παρίδῃ τὰς ἐντολὰς Κυρίου, καὶ ψεύσηται τὰ πρὸς τὸν πλησίον ἐν παραθήκῃ, ἢ περὶ κοινωνίας, ἢ περὶ ἁρπαγῆς, ἢ ἠδίκησέ τι τὸν πλησίον,"
       }
     },
     {
@@ -2127,7 +2148,8 @@
         }
       ],
       "translations": {
-        "lxx": "or has found that which was lost, and shall have lied concerning it, and shall have sworn unjustly concerning any one of all the things, whatsoever a man may do, so as to sin hereby;"
+        "lxx": "or has found that which was lost, and shall have lied concerning it, and shall have sworn unjustly concerning any one of all the things, whatsoever a man may do, so as to sin hereby;",
+        "grk": "ἢ εὗρεν ἀπωλίαν, καὶ ψεύσηται περὶ αὐτῆς, καὶ ὀμόσῃ ἀδίκως περὶ ἑνὸς ἀπὸ πάντων, ὧν ἐὰν ποιήσῃ ὁ ἄνθρωπος, ὥστε ἁμαρτεῖν ἐν τούτοις·"
       }
     },
     {
@@ -2222,7 +2244,8 @@
         }
       ],
       "translations": {
-        "lxx": "it shall come to pass, whensoever he shall have sinned, and transgressed, that he shall restore the plunder which he has seized, or redress the injury which he has committed, or restore the deposit which was entrusted to him, or the lost article which he has found"
+        "lxx": "it shall come to pass, whensoever he shall have sinned, and transgressed, that he shall restore the plunder which he has seized, or redress the injury which he has committed, or restore the deposit which was entrusted to him, or the lost article which he has found",
+        "grk": "Καὶ ἔσται ἡνίκα ἐὰν ἁμάρτῃ, καὶ πλημμελήσῃ, καὶ ἀποδῷ τὸ ἅρπαγμα, ὃ ἥρπασεν, ἢ τὸ ἀδίκημα, ὃ ἠδίκησεν, ἢ τὴν παραθήκην, ἥτις παρετέθη αὐτῷ, ἢ τὴν ἀπώλειαν, ἣν εὗρεν"
       }
     },
     {
@@ -2317,7 +2340,8 @@
         }
       ],
       "translations": {
-        "lxx": "of any kind, about which he swore unjustly, he shall even restore it in full; and he shall add to it a fifth part besides; he shall restore it to him whose it is in the day in which he happens to be convicted."
+        "lxx": "of any kind, about which he swore unjustly, he shall even restore it in full; and he shall add to it a fifth part besides; he shall restore it to him whose it is in the day in which he happens to be convicted.",
+        "grk": "ἀπὸ παντὸς πράγματος, οὗ ὤμοσε περὶ αὐτοῦ ἀδίκως, καὶ ἀποτίσει αὐτὸ τὸ κεφάλαιον, καὶ τὸ ἐπίπεμπτον προσθήσει ἐπʼ αὐτὸ, τίνος ἐστίν, αὐτῷ ἀποδώσει ᾗ ἡμέρᾳ ἐλεγχθῇ."
       }
     },
     {
@@ -2377,7 +2401,8 @@
         }
       ],
       "translations": {
-        "lxx": "And he shall bring to the Lord for his trespass, a ram of the flock, without blemish, of value to the amount of the thing in which he trespassed."
+        "lxx": "And he shall bring to the Lord for his trespass, a ram of the flock, without blemish, of value to the amount of the thing in which he trespassed.",
+        "grk": "Καὶ τῆς πλημμελείας αὐτου οἴσει τῷ Κυρίῳ κριὸν ἀπὸ τῶν προβάτων ἄμωμον, τιμῆς, εἰς ὃ ἐπλημμέλησε."
       }
     },
     {
@@ -2452,7 +2477,8 @@
         }
       ],
       "translations": {
-        "lxx": "And the priest shall make atonement for him before the Lord, and he shall be forgiven for any one of all the things which he did and trespassed in it."
+        "lxx": "And the priest shall make atonement for him before the Lord, and he shall be forgiven for any one of all the things which he did and trespassed in it.",
+        "grk": "Καὶ ἐξιλάσεται περὶ αὐτοῦ ὁ ἱερεὺς ἔναντι Κυρίου, καὶ ἀφεθήσεται αὐτῷ περὶ ἑνὸς ἀπὸ πάντων ὧν ἐποίησε καὶ ἐπλημμέλησεν αὐτῷ."
       }
     }
   ],

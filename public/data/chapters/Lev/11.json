@@ -36,7 +36,8 @@
       "translations": {
         "lxx": "And the Lord spoke to Moses and Aaron, saying,",
         "kjv": "And the LORD spake unto Moses and to Aaron, saying unto them,",
-        "ron": "În vremea aceea a grăit Domnul cu Moise şi cu Aaron şi a zis:"
+        "ron": "În vremea aceea a grăit Domnul cu Moise şi cu Aaron şi a zis:",
+        "grk": "Καὶ ἐλάλησε Κύριος πρὸς Μωυσῆν καὶ Ἀαρὼν, λέγων,"
       }
     },
     {
@@ -118,7 +119,8 @@
       "translations": {
         "lxx": "Speak ye to the sons of Israel, saying, These are the beasts which ye shall eat of all beasts that are upon the earth.",
         "kjv": "Speak unto the children of Israel, saying, These are the beasts which ye shall eat among all the beasts that are on the earth.",
-        "ron": "\"Grăiţi fiilor lui Israel şi le ziceţi: Iată animalele pe care le puteţi mânca din toate dobitoacele de pe pământ:"
+        "ron": "\"Grăiţi fiilor lui Israel şi le ziceţi: Iată animalele pe care le puteţi mânca din toate dobitoacele de pe pământ:",
+        "grk": "λαλήσατε τοῖς υἱοῖς Ἰσραὴλ, λέγοντες, ταῦτα τὰ κτήνη, ἃ φάγεσθε ἀπὸ πάντων τῶν κτηνῶν τῶν ἐπὶ τῆς γῆς."
       }
     },
     {
@@ -205,7 +207,8 @@
       "translations": {
         "lxx": "Every beast parting the hoof and making divisions of two claws, and chewing the cud among beasts, these ye shall eat.",
         "kjv": "Whatsoever parteth the hoof, and is clovenfooted, and cheweth the cud, among the beasts, that shall ye eat.",
-        "ron": "Orice animal cu copita despicată, care are copita despărţită în două şi îşi rumegă mâncarea, îl puteţi mânca."
+        "ron": "Orice animal cu copita despicată, care are copita despărţită în două şi îşi rumegă mâncarea, îl puteţi mânca.",
+        "grk": "Πᾶν κτῆνος διχηλοῦν ὁπλὴν καὶ ὀνυχιστῆρας ὀνυχίζον δύο χηλῶν, καὶ ἀνάγον μηρυκισμὸν ἐν τοῖς κτήνεσι, ταῦτα φάγεσθε."
       }
     },
     {
@@ -307,7 +310,8 @@
       "translations": {
         "lxx": "But of these ye shall not eat, of those that chew the cud, and of those that part the hoofs, and divide claws; the camel, because it chews the cud, but does not divide the hoof, this is unclean to you.",
         "kjv": "Nevertheless these shall ye not eat of them that chew the cud, or of them that divide the hoof: as the camel, because he cheweth the cud, but divideth not the hoof; he is unclean unto you.",
-        "ron": "Dar şi din cele ce-şi rumegă mâncarea, sau îşi au copita despicată sau împărţită în două, nu veţi mânca pe acestea: cămila, pentru că aceasta-şi rumegă mâncarea, dar copita n-o are despicată; aceasta e necurată pentru voi."
+        "ron": "Dar şi din cele ce-şi rumegă mâncarea, sau îşi au copita despicată sau împărţită în două, nu veţi mânca pe acestea: cămila, pentru că aceasta-şi rumegă mâncarea, dar copita n-o are despicată; aceasta e necurată pentru voi.",
+        "grk": "Πλὴν ἀπὸ τούτων οὐ φάγεσθε, ἀπὸ τῶν ἀναγόντων μηρυκισμὸν, καὶ ἀπὸ τῶν διχηλούντων τὰς ὁπλὰς, καὶ ὀνυχιζόντων ὀνυχιστῆρας· τὸν κάμηλον, ὅτι ἀνάγει μηρυκισμὸν τοῦτο, ὁπλὴν δὲ οὐ διχηλεῖ, ἀκάθαρτον τοῦτο ὑμῖν."
       }
     },
     {
@@ -369,7 +373,8 @@
       "translations": {
         "lxx": "And the rabbit, because it chews the cud, but does not divide the hoof, this is unclean to you.",
         "kjv": "And the coney, because he cheweth the cud, but divideth not the hoof; he is unclean unto you.",
-        "ron": "Iepurele de casă îşi rumegă mâncarea, dar laba n-o are despicată; acesta este necurat pentru voi."
+        "ron": "Iepurele de casă îşi rumegă mâncarea, dar laba n-o are despicată; acesta este necurat pentru voi.",
+        "grk": "Καὶ τὸν δασύποδα, ὅτι ἀνάγει μηρυκισμὸν τοῦτο, καὶ ὁπλὴν οὐ διχηλεῖ, ἀκάθαρτον τοῦτο ὑμῖν."
       }
     },
     {
@@ -431,7 +436,8 @@
       "translations": {
         "lxx": "And the hare, because it does not chew the cud, and does not divide the hoof, this is unclean to you.",
         "kjv": "And the hare, because he cheweth the cud, but divideth not the hoof; he is unclean unto you.",
-        "ron": "Iepurele de câmp îşi rumegă mâncarea, dar laba n-o are despicată; acesta este necurat pentru voi."
+        "ron": "Iepurele de câmp îşi rumegă mâncarea, dar laba n-o are despicată; acesta este necurat pentru voi.",
+        "grk": "Καὶ τὸν χοιρογρύλλιον, ὅτι οὐκ ἀνάγει μηρυκισμὸν τοῦτο, καὶ ὁπλὴν οὐ διχηλεῖ, ἀκάθαρτον τοῦτο ὑμῖν."
       }
     },
     {
@@ -508,7 +514,8 @@
       "translations": {
         "lxx": "And the swine, because this animal divides the hoof, and makes claws of the hoof, and it does not chew the cud, is unclean to you.",
         "kjv": "And the swine, though he divide the hoof, and be clovenfooted, yet he cheweth not the cud; he is unclean to you.",
-        "ron": "Porcul are copita despicată şi despărţită în două, dar nu rumegă; acesta este necurat pentru voi."
+        "ron": "Porcul are copita despicată şi despărţită în două, dar nu rumegă; acesta este necurat pentru voi.",
+        "grk": "Καὶ τὸν ὗν, ὅτι διχηλεῖ ὁπλὴν τοῦτο, καὶ ὀνυχίζει ὄνυχας ὁπλῆς, καὶ τοῦτο οὐκ ἀνάγει μηρυκισμὸν, ἀκάθαρτον τοῦτο ὑμῖν."
       }
     },
     {
@@ -565,7 +572,8 @@
       "translations": {
         "lxx": "Ye shall not eat of their flesh, and ye shall not touch their carcases; these are unclean to you.",
         "kjv": "Of their flesh shall ye not eat, and their carcase shall ye not touch; they are unclean to you.",
-        "ron": "Din carnea acestora să nu mâncaţi şi de stârvurile lor să nu vă atingeţi, că acestea sunt necurate pentru voi."
+        "ron": "Din carnea acestora să nu mâncaţi şi de stârvurile lor să nu vă atingeţi, că acestea sunt necurate pentru voi.",
+        "grk": "Ἀπὸ τῶν κρεῶν αὐτῶν οὐ φάγεσθε, καὶ τῶν θνησιμαίων αὐτῶν οὐχ ἅψεσθε· ἀκάθαρτα ταῦτα ὑμῖν."
       }
     },
     {
@@ -672,7 +680,8 @@
       "translations": {
         "lxx": "And these are what ye shall eat of all that are in the waters: all things that have fins and scales in the waters, and in the seas, and in the brooks, these ye shall eat.",
         "kjv": "These shall ye eat of all that are in the waters: whatsoever hath fins and scales in the waters, in the seas, and in the rivers, them shall ye eat.",
-        "ron": "Din toate vieţuitoarele, care sunt în apă, veţi mânca pe acestea: toate câte sunt în ape; în mări, în râuri şi în bălţi, şi au aripi şi solzi, pe acelea să le mâncaţi."
+        "ron": "Din toate vieţuitoarele, care sunt în apă, veţi mânca pe acestea: toate câte sunt în ape; în mări, în râuri şi în bălţi, şi au aripi şi solzi, pe acelea să le mâncaţi.",
+        "grk": "Καὶ ταῦτα, ἃ φάγεσθε ἀπὸ πάντων τῶν ἐν τοῖς ὕδασι· πάντα ὅσα ἐστὶν αὐτοῖς πτερύγια καὶ λεπίδες ἐν τοῖς ὕδασι, καὶ ἐν ταῖς θαλάσσαις, καὶ ἐν τοῖς χειμάῤῥοις, ταῦτα φάγεσθε."
       }
     },
     {
@@ -799,7 +808,8 @@
       "translations": {
         "lxx": "And all things which have not fins or scales in the water, or in the seas, and in the brooks, of all which the waters produce, and of every soul living in the water, are an abomination; and they shall be abominations to you.",
         "kjv": "And all that have not fins and scales in the seas, and in the rivers, of all that move in the waters, and of any living thing which is in the waters, they shall be an abomination unto you:",
-        "ron": "Iar toate câte sunt în ape, în mări, în râuri, şi în bălţi, toate cele ce mişună în ape, dar n-au aripi şi solzi, spurcăciune sunt pentru voi."
+        "ron": "Iar toate câte sunt în ape, în mări, în râuri, şi în bălţi, toate cele ce mişună în ape, dar n-au aripi şi solzi, spurcăciune sunt pentru voi.",
+        "grk": "Καὶ πάντα ὅσα οὐκ ἔστιν αὐτοῖς πτερύγια, οὐδὲ λεπίδες ἐν τῷ ὕδατι, ἢ ἐν ταῖς θαλάσσαις, καὶ ἐν τοῖς χειμάῤῥοις, ἀπὸ πάντων ὧν ἐρεύγεται τὰ ὕδατα, καὶ ἀπὸ πάσης ψυχῆς τῆς ζώσης ἐν τῷ ὕδατι, βδέλυγμά ἐστι, καὶ βδελύγματα ἔσονται ὑμῖν."
       }
     },
     {
@@ -846,7 +856,8 @@
       "translations": {
         "lxx": "Ye shall not eat of their flesh, and ye shall abhor their carcases.",
         "kjv": "They shall be even an abomination unto you; ye shall not eat of their flesh, but ye shall have their carcases in abomination.",
-        "ron": "De acestea să vă îngreţoşaţi, carnea lor să n-o mâncaţi şi de stârvurile lor să vă îngreţoşaţi."
+        "ron": "De acestea să vă îngreţoşaţi, carnea lor să n-o mâncaţi şi de stârvurile lor să vă îngreţoşaţi.",
+        "grk": "Ἀπὸ τῶν κρεῶν αὐτῶν οὐκ ἔδεσθε, καὶ τὰ θνησιμαῖα αὐτῶν βδελύξεσθε."
       }
     },
     {
@@ -908,7 +919,8 @@
       "translations": {
         "lxx": "And all things that have not fins or scales of those that are in the waters, these are an abomination to you.",
         "kjv": "Whatsoever hath no fins nor scales in the waters, that shall be an abomination unto you.",
-        "ron": "Toate vietăţile din ape, care n-au aripi şi solzi, sunt spurcate pentru voi."
+        "ron": "Toate vietăţile din ape, care n-au aripi şi solzi, sunt spurcate pentru voi.",
+        "grk": "Καὶ πάντα ὅσα οὐκ ἔστιν αὐτοῖς πτερύγια, οὐδὲ λεπίδες τῶν ἐν τοῖς ὕδασι, βδέλυγμα τοῦτό ἐστιν ὑμῖν."
       }
     },
     {
@@ -975,7 +987,8 @@
       "translations": {
         "lxx": "And these are the things which ye shall abhor of birds, and they shall not be eaten, they are an abomination: the eagle and the ossifrage, and the sea-eagle.",
         "kjv": "And these are they which ye shall have in abomination among the fowls; they shall not be eaten, they are an abomination: the eagle, and the ossifrage, and the ospray,",
-        "ron": "Din păsări să nu mâncaţi şi să vă îngreţoşaţi de acestea, că sunt spurcate: vulturul, zgripţorul şi vulturul de mare;"
+        "ron": "Din păsări să nu mâncaţi şi să vă îngreţoşaţi de acestea, că sunt spurcate: vulturul, zgripţorul şi vulturul de mare;",
+        "grk": "Καὶ ταῦτα, ἃ βδελύξεσθε ἀπὸ τῶν πετεινῶν, καὶ οὐ βρωθήσεται, βδέλυγμά ἐστι· τὸν ἀετὸν, καὶ τὸν γρύπα, καὶ τὸν ἁλιαίετον,"
       }
     },
     {
@@ -1012,7 +1025,8 @@
       "translations": {
         "lxx": "And the vulture, and the kite, and the like to it;",
         "kjv": "And the vulture, and the kite after his kind;",
-        "ron": "Corbul şi şoimul cu soiurile lor;"
+        "ron": "Corbul şi şoimul cu soiurile lor;",
+        "grk": "καὶ τὸν γύπα, καὶ τὸν ἴκτινον καὶ τὰ ὅμοια αὐτῷ."
       }
     },
     {
@@ -1039,7 +1053,8 @@
       "translations": {
         "lxx": "and the sparrow, and the owl, and the sea-mew, and the like to it:",
         "kjv": "Every raven after his kind;",
-        "ron": "Toată cioara cu soiurile ei;"
+        "ron": "Toată cioara cu soiurile ei;",
+        "grk": "Καὶ στρουθὸν, καὶ γλαῦκα, καὶ λάρον, καὶ τὰ ὅμοια αὐτῷ·"
       }
     },
     {
@@ -1086,7 +1101,8 @@
       "translations": {
         "lxx": "and every raven, and the birds like it, and the hawk and his like,",
         "kjv": "And the owl, and the night hawk, and the cuckow, and the hawk after his kind,",
-        "ron": "Struţul, cucuveaua, rândunica şi uliul cu soiurile lui;"
+        "ron": "Struţul, cucuveaua, rândunica şi uliul cu soiurile lui;",
+        "grk": "Καὶ πάντα κόρακα, καὶ τὰ ὅμοια αὐτῷ· καὶ ἱέρακα, καὶ τὰ ὅμοια αὐτῷ·"
       }
     },
     {
@@ -1113,7 +1129,8 @@
       "translations": {
         "lxx": "and the night-raven and the cormorant and the stork,",
         "kjv": "And the little owl, and the cormorant, and the great owl,",
-        "ron": "Huhurezul, pescarul şi ibisul;"
+        "ron": "Huhurezul, pescarul şi ibisul;",
+        "grk": "καὶ νυκτικόρακα, καὶ καταράκτην, καὶ ἴβιν,"
       }
     },
     {
@@ -1145,7 +1162,8 @@
       "translations": {
         "lxx": "and the red-bill, and pelican, and swan,",
         "kjv": "And the swan, and the pelican, and the gier eagle,",
-        "ron": "Lebăda, pelicanul şi cocorul;"
+        "ron": "Lebăda, pelicanul şi cocorul;",
+        "grk": "καὶ πορφυρίωνα, καὶ πελεκᾶνα, καὶ κύκνον,"
       }
     },
     {
@@ -1182,7 +1200,8 @@
       "translations": {
         "lxx": "and the heron, and the lapwing, and the like to it, and the hoopoe and the bat.",
         "kjv": "And the stork, the heron after her kind, and the lapwing, and the bat.",
-        "ron": "Cocostârcul, bâtlanul cu soiurile lui; pupăza şi liliacul."
+        "ron": "Cocostârcul, bâtlanul cu soiurile lui; pupăza şi liliacul.",
+        "grk": "καὶ ἐρωδιὸν, καὶ χαράδριον, καὶ τὰ ὅμοια αὐτῷ· καὶ ἔποπα, καὶ νυκτερίδα."
       }
     },
     {
@@ -1234,7 +1253,8 @@
       "translations": {
         "lxx": "And all winged creatures that creep, which go upon four feet, are abominations to you.",
         "kjv": "All fowls that creep, going upon all four, shall be an abomination unto you.",
-        "ron": "Toate insectele înaripate, care umblă pe patru picioare, sunt spurcate pentru voi."
+        "ron": "Toate insectele înaripate, care umblă pe patru picioare, sunt spurcate pentru voi.",
+        "grk": "Καὶ πάντα τὰ ἑρπετὰ τῶν πετεινῶν, ἃ πορεύεται ἐπὶ τέσσαρα, βδελύγματά ἐστιν ὑμῖν."
       }
     },
     {
@@ -1336,7 +1356,8 @@
       "translations": {
         "lxx": "But these ye shall eat of the creeping winged animals, which go upon four feet, which have legs above their feet, to leap with on the earth.",
         "kjv": "Yet these may ye eat of every flying creeping thing that goeth upon all four, which have legs above their feet, to leap withal upon the earth;",
-        "ron": "Dar din toate insectele înaripate, care umblă în patru picioare, să mâncaţi numai pe acelea care au fluierele picioarelor de dinapoi mai lungi, ca să poată sări pe pământ."
+        "ron": "Dar din toate insectele înaripate, care umblă în patru picioare, să mâncaţi numai pe acelea care au fluierele picioarelor de dinapoi mai lungi, ca să poată sări pe pământ.",
+        "grk": "Ἀλλὰ ταῦτα φάγεσθε ἀπὸ τῶν ἑρπετῶν τῶν πετεινῶν, ἃ πορεύεται ἐπὶ τέσσαρα, ἃ ἔχει σκέλη ἀνώτερον τῶν ποδῶν αὐτοῦ, πηδᾷν ἐν αὐτοῖς ἐπὶ τῆς γῆς."
       }
     },
     {
@@ -1403,7 +1424,8 @@
       "translations": {
         "lxx": "And these of them ye shall eat: the caterpillar and his like, and the attacus and his like, and the cantharus and his like, and the locust and his like.",
         "kjv": "Even these of them ye may eat; the locust after his kind, and the bald locust after his kind, and the beetle after his kind, and the grasshopper after his kind.",
-        "ron": "Din acestea să mâncaţi următoarele: lăcusta şi soiurile ei, solamul şi soiurile lui, hargolul şi soiurile lui, şi hagabul cu soiurile lui."
+        "ron": "Din acestea să mâncaţi următoarele: lăcusta şi soiurile ei, solamul şi soiurile lui, hargolul şi soiurile lui, şi hagabul cu soiurile lui.",
+        "grk": "Καὶ ταῦτα φάγεσθε ἀπʼ αὐτῶν· τὸν βροῦχον, καὶ τὰ ὅμοια αὐτῷ· καὶ τὸν ἀττάκην, καὶ τὰ ὅμοια αὐτῷ· καὶ ὀφιομάχην, καὶ τὰ ὅμοια αὐτῷ· καὶ τὴν ἀκρίδα, καὶ τὰ ὅμοια αὐτῇ·"
       }
     },
     {
@@ -1450,7 +1472,8 @@
       "translations": {
         "lxx": "Every creeping thing from among the birds, which has four feet, is an abomination to you.",
         "kjv": "But all other flying creeping things, which have four feet, shall be an abomination unto you.",
-        "ron": "Orice altă insectă înaripată care are patru picioare e spurcată pentru voi şi vă spurcaţi de ele."
+        "ron": "Orice altă insectă înaripată care are patru picioare e spurcată pentru voi şi vă spurcaţi de ele.",
+        "grk": "Πᾶν ἑρπετὸν ἀπὸ τῶν πετεινῶν, οἷς εἰσι τέσσαρες πόδες, βδελύγματά ἐστιν ὑμῖν,"
       }
     },
     {
@@ -1472,7 +1495,8 @@
       "translations": {
         "lxx": "And by these ye shall be defiled; every one that touches their carcases shall be unclean till the evening.",
         "kjv": "And for these ye shall be unclean: whosoever toucheth the carcase of them shall be unclean until the even.",
-        "ron": "Tot cel ce se va atinge de trupul lor necurat va fi până seara;"
+        "ron": "Tot cel ce se va atinge de trupul lor necurat va fi până seara;",
+        "grk": "καὶ ἐν τούτοις μιανθήσεσθε· πᾶς ὁ ἁπτόμενος τῶν θνησιμαίων αὐτῶν, ἀκάθαρτος ἔσται ἕως ἑσπέρας."
       }
     },
     {
@@ -1519,7 +1543,8 @@
       "translations": {
         "lxx": "And every one that takes of their dead bodies shall wash his garments, and shall be unclean till the evening.",
         "kjv": "And whosoever beareth ought of the carcase of them shall wash his clothes, and be unclean until the even.",
-        "ron": "Şi tot cel ce va lua în mâini trupul lor să-şi spele haina şi necurat va fi până seara."
+        "ron": "Şi tot cel ce va lua în mâini trupul lor să-şi spele haina şi necurat va fi până seara.",
+        "grk": "Καὶ πᾶς ὁ αἴρων τῶν θνησιμαίων αὐτῶν, πλυνεῖ τὰ ἱμάτια αὐτοῦ, καὶ ἀκάθαρτος ἔσται ἕως ἑσπέρας."
       }
     },
     {
@@ -1576,7 +1601,8 @@
       "translations": {
         "lxx": "And whichever among the beasts divides the hoof and makes claws, and does not chew the cud, shall be unclean to you; every one that touches their dead bodies shall be unclean till evening.",
         "kjv": "The carcases of every beast which divideth the hoof, and is not clovenfooted, nor cheweth the cud, are unclean unto you: every one that toucheth them shall be unclean.",
-        "ron": "Tot dobitocul cu copita despicată, care n-are copita despărţită adânc sau nu-şi rumegă mâncarea, este necurat pentru voi; tot cel ce se va atinge de el necurat va fi până seara."
+        "ron": "Tot dobitocul cu copita despicată, care n-are copita despărţită adânc sau nu-şi rumegă mâncarea, este necurat pentru voi; tot cel ce se va atinge de el necurat va fi până seara.",
+        "grk": "Καὶ ἐν πᾶσι τοῖς κτήνεσιν ὅ ἐστι διχηλοῦν ὁπλὴν, καὶ ὀνυχιστῆρας ὀνυχίζει, καὶ μηρυκισμὸν οὐ μηρυκᾶται, ἀκάθαρτα ἔσονται ὑμῖν· πᾶς ὁ ἁπτόμενος τῶν θνησιμαίων αὐτῶν, ἀκάθαρτος ἔσται ἕως ἑσπέρας."
       }
     },
     {
@@ -1668,7 +1694,8 @@
       "translations": {
         "lxx": "And every one among all the wild beasts that moves upon its fore feet, which goes on all four, is unclean to you; every one that touches their dead bodies shall be unclean till evening.",
         "kjv": "And whatsoever goeth upon his paws, among all manner of beasts that go on all four, those are unclean unto you: whoso toucheth their carcase shall be unclean until the even.",
-        "ron": "Din toate fiarele cu patru picioare, cele care calcă pe labe sunt necurate pentru voi şi tot cel ce se va atinge de stârvul lor necurat va fi până seara."
+        "ron": "Din toate fiarele cu patru picioare, cele care calcă pe labe sunt necurate pentru voi şi tot cel ce se va atinge de stârvul lor necurat va fi până seara.",
+        "grk": "Καὶ πᾶς ὃς πορεύεται ἐπὶ χειρῶν ἐν πᾶσι τοῖς θηρίοις, ἃ πορεύεται ἐπὶ τέσσαρα, ἀκάθαρτά ἐστιν ὑμῖν· πᾶς ὁ ἁπτόμενος τῶν θνησιμαίων αὐτῶν, ἀκάθαρτος ἔσται ἕως ἑσπέρας."
       }
     },
     {
@@ -1770,7 +1797,8 @@
       "translations": {
         "lxx": "And he that takes of their dead bodies shall wash his garments, and shall be unclean till evening: these are unclean to you.",
         "kjv": "And he that beareth the carcase of them shall wash his clothes, and be unclean until the even: they are unclean unto you.",
-        "ron": "Cel ce va umbla cu stârvul lor să-şi spele haina şi necurat va fi până seara, căci ele sunt necurate pentru voi."
+        "ron": "Cel ce va umbla cu stârvul lor să-şi spele haina şi necurat va fi până seara, căci ele sunt necurate pentru voi.",
+        "grk": "Καὶ ὁ αἴρων τῶν θνησιμαίων αὐτῶν, πλυνεῖ τὰ ἱμάτια αὐτοῦ, καὶ ἀκάθαρτος ἔσται ἕως ἑσπέρας· ἀκάθαρτα ταῦτά ἔστιν ὑμῖν."
       }
     },
     {
@@ -1842,7 +1870,8 @@
       "translations": {
         "lxx": "And these are unclean to you of reptiles upon the earth, the weasel, and the mouse, and the lizard,",
         "kjv": "These also shall be unclean unto you among the creeping things that creep upon the earth; the weasel, and the mouse, and the tortoise after his kind,",
-        "ron": "Din dobitoacele ce mişună pe pământ, iată care sunt necurate pentru voi: cârtiţa, şoarecele şi şopârla, cu soiurile lor;"
+        "ron": "Din dobitoacele ce mişună pe pământ, iată care sunt necurate pentru voi: cârtiţa, şoarecele şi şopârla, cu soiurile lor;",
+        "grk": "Καὶ ταῦτα ὑμῖν ἀκάθαρτα ἀπὸ τῶν ἑρπετῶν τῶν ἐπὶ τῆς γῆς· ἡ γαλὴ, καὶ ὁ μῦς, καὶ ὁ κροκόδειλος ὁ χερσαῖος,"
       }
     },
     {
@@ -1939,7 +1968,8 @@
       "translations": {
         "lxx": "the ferret, and the chameleon, and the evet, and the newt, and the mole.",
         "kjv": "And the ferret, and the chameleon, and the lizard, and the snail, and the mole.",
-        "ron": "Ariciul, crocodilul, salamandra, melcul şi cameleonul."
+        "ron": "Ariciul, crocodilul, salamandra, melcul şi cameleonul.",
+        "grk": "μυγάλη, καὶ χαμαιλέων, καὶ χαλαβώτης, καὶ σαῦρα, καὶ ἀσπάλαξ."
       }
     },
     {
@@ -2026,7 +2056,8 @@
       "translations": {
         "lxx": "These are unclean to you of all the reptiles which are on the earth; every one who touches their carcases shall be unclean till evening.",
         "kjv": "These are unclean to you among all that creep: whosoever doth touch them, when they be dead, shall be unclean until the even.",
-        "ron": "Acestea dintre toate cele ce mişună pe pământ sunt necurate pentru voi. Tot cel ce se atinge de stârvurile lor necurat va fi până seara."
+        "ron": "Acestea dintre toate cele ce mişună pe pământ sunt necurate pentru voi. Tot cel ce se atinge de stârvurile lor necurat va fi până seara.",
+        "grk": "Ταῦτα ἀκάθαρτα ὑμῖν ἀπὸ πάντων τῶν ἑρπετῶν τῶν ἐπὶ τῆς γῆς· πᾶς ὁ ἁπτόμενος αὐτῶν τεθνηκότων, ἀκάθαρτος ἔσται ἕως ἑσπέρας."
       }
     },
     {
@@ -2188,7 +2219,8 @@
       "translations": {
         "lxx": "And on whatsoever one of their dead bodies shall fall it shall be unclean; whatever wooden vessel, or garment, or skin, or sack it may be, every vessel in which work should be done, shall be dipped in water, and shall be unclean till evening; and then it shall be clean.",
         "kjv": "And upon whatsoever any of them, when they are dead, doth fall, it shall be unclean; whether it be any vessel of wood, or raiment, or skin, or sack, whatsoever vessel it be, wherein any work is done, it must be put into water, and it shall be unclean until the even; so it shall be cleansed.",
-        "ron": "Tot lucrul, pe care va cădea vreuna din acestea, moartă, fie vas de lemn, sau haină, sau piele, sau orice fel de lucru ce se întrebuinţează la ceva, lucrul acela necurat va fi; să-l puneţi în apă şi va fi necurat până seara, iar apoi va fi curat."
+        "ron": "Tot lucrul, pe care va cădea vreuna din acestea, moartă, fie vas de lemn, sau haină, sau piele, sau orice fel de lucru ce se întrebuinţează la ceva, lucrul acela necurat va fi; să-l puneţi în apă şi va fi necurat până seara, iar apoi va fi curat.",
+        "grk": "Καὶ πᾶν ἐφʼ ὃ ἂν ἐπιπέσῃ ἀπʼ αὐτῶν ἐπʼ αὐτὸ τεθνηκότων αὐτῶν, ἀκάθαρτον ἔσται ἀπὸ παντὸς σκεύους ξυλίνου ἢ ἱματίου ἢ δέρματος ἢ σάκκου· πᾶν σκεῦος ὃ ἂν ποιηθῇ ἔργον ἐν αὐτῷ, εἰς ὕδωρ βαφήσεται, καὶ ἀκάθαρτον ἔσται ἕως ἑσπέρας· καὶ καθαρὸν ἔσται."
       }
     },
     {
@@ -2280,7 +2312,8 @@
       "translations": {
         "lxx": "And every earthen vessel into which one of these things shall fall, whatsoever is inside it, shall be unclean, and it shall be broken.",
         "kjv": "And every earthen vessel, whereinto any of them falleth, whatsoever is in it shall be unclean; and ye shall break it.",
-        "ron": "Tot vasul de lut, în care va cădea vreuna din ele, să-l spargeţi, iar cele din el sunt necurate."
+        "ron": "Tot vasul de lut, în care va cădea vreuna din ele, să-l spargeţi, iar cele din el sunt necurate.",
+        "grk": "Καὶ πᾶν σκεῦος ὀστράκινον εἰς ὃ ἐὰν πέσῃ ἀπὸ τούτων ἔνδον, ὅσα ἐὰν ἔνδον ᾖ, ἀκάθαρτα ἔσται, καὶ αὐτὸ συντριβήσεται."
       }
     },
     {
@@ -2387,7 +2420,8 @@
       "translations": {
         "lxx": "And all food that is eaten, on which water shall come from such a vessel, shall be unclean; and every beverage which is drunk in any such vessel, shall be unclean.",
         "kjv": "Of all meat which may be eaten, that on which such water cometh shall be unclean: and all drink that may be drunk in every such vessel shall be unclean.",
-        "ron": "Orice lucru de mâncare, peste care \"a cădea apă din acel vas, necurat va fi pentru voi şi toată băutura de băut, din asemenea vas, necurată va fi."
+        "ron": "Orice lucru de mâncare, peste care \"a cădea apă din acel vas, necurat va fi pentru voi şi toată băutura de băut, din asemenea vas, necurată va fi.",
+        "grk": "Καὶ πᾶν βρῶμα, ὃ ἔσθεται, εἰς ὃ ἂν ἐπέλθῃ ἐπʼ αὐτὸ ὕδωρ, ἀκάθαρτον ἔσται· καὶ πᾶν ποτὸν, ὃ πίνεται ἐν παντὶ ἀγγείῳ, ἀκάθαρτον ἔσται."
       }
     },
     {
@@ -2484,7 +2518,8 @@
       "translations": {
         "lxx": "And every thing on which there shall fall of their dead bodies shall be unclean; ovens and stands for jars shall be broken down: these are unclean, and they shall be unclean to you.",
         "kjv": "And every thing whereupon any part of their carcase falleth shall be unclean; whether it be oven, or ranges for pots, they shall be broken down: for they are unclean, and shall be unclean unto you.",
-        "ron": "Tot lucrul, peste care va cădea ceva din trupul mort al acestora, se va spurca; soba şi căminul să le stricaţi, că necurate sunt şi necurate vor fi pentru voi."
+        "ron": "Tot lucrul, peste care va cădea ceva din trupul mort al acestora, se va spurca; soba şi căminul să le stricaţi, că necurate sunt şi necurate vor fi pentru voi.",
+        "grk": "Καὶ πᾶν ὃ ἐὰν ἐπιπέσῃ ἀπὸ τῶν θνησιμαίων αὐτῶν ἐπʼ αὐτό, ἀκάθαρτον ἔσται· κλίβανοι καὶ χυτρόποδες καθαιρεθήσονται· ἀκάθαρτα ταῦτά ἐστι, καὶ ἀκάθαρτα ταῦτα ὑμῖν ἔσονται."
       }
     },
     {
@@ -2561,7 +2596,8 @@
       "translations": {
         "lxx": "Only if the water be of fountains of water, or a pool, or confluence of water, it shall be clean; but he that touches their carcases shall be unclean.",
         "kjv": "Nevertheless a fountain or pit, wherein there is plenty of water, shall be clean: but that which toucheth their carcase shall be unclean.",
-        "ron": "Numai izvorul, fântâna şi adunările de apă vor rămâne curate, iar cel ce se va atinge de mortăciunile din ele, acela necurat va fi."
+        "ron": "Numai izvorul, fântâna şi adunările de apă vor rămâne curate, iar cel ce se va atinge de mortăciunile din ele, acela necurat va fi.",
+        "grk": "Πλὴν πηγῶν ὑδάτων καὶ λάκκου καὶ συναγωγῆς ὕδατος, ἔσται καθαρόν· ὁ δὲ ἁπτόμενος τῶν θνησιμαίων αὐτῶν, ἀκάθαρτος ἔσται."
       }
     },
     {
@@ -2618,7 +2654,8 @@
       "translations": {
         "lxx": "And if one of their carcases should fall upon any sowing seed which shall be sown, it shall be clean.",
         "kjv": "And if any part of their carcase fall upon any sowing seed which is to be sown, it shall be clean.",
-        "ron": "De va cădea ceva din trupul acestora pe sămânţa de semănat, aceasta curată va fi."
+        "ron": "De va cădea ceva din trupul acestora pe sămânţa de semănat, aceasta curată va fi.",
+        "grk": "Ἐὰν δὲ ἐπιπέσῃ ἀπὸ τῶν θνησιμαίων αὐτῶν ἐπὶ πᾶν σπέρμα σπόριμον, ὃ σπαρήσεται, καθαρὸν ἔσται."
       }
     },
     {
@@ -2695,7 +2732,8 @@
       "translations": {
         "lxx": "But if water be poured on any seed, and one of their dead bodies fall upon it, it is unclean to you.",
         "kjv": "But if any water be put upon the seed, and any part of their carcase fall thereon, it shall be unclean unto you.",
-        "ron": "Dacă însă va cădea ceva din trupul lor peste sămânţă, după ce aceasta s-a muiat cu apă, atunci sămânţa necurată să fie pentru voi."
+        "ron": "Dacă însă va cădea ceva din trupul lor peste sămânţă, după ce aceasta s-a muiat cu apă, atunci sămânţa necurată să fie pentru voi.",
+        "grk": "Ἐὰν δὲ ἐπιχυθῇ ὕδωρ ἐπὶ πᾶν σπέρμα, καὶ ἐπιπέσῃ τῶν θνησιμαίων αὐτῶν ἐπʼ αὐτό, ἀκάθαρτόν ἐστιν ὑμῖν."
       }
     },
     {
@@ -2762,7 +2800,8 @@
       "translations": {
         "lxx": "And if one of the cattle die, which it is lawful for you to eat, he that touches their carcases shall be unclean till evening.",
         "kjv": "And if any beast, of which ye may eat, die; he that toucheth the carcase thereof shall be unclean until the even.",
-        "ron": "Iar de va muri vreun dobitoc din cele ce se mănâncă şi se va atinge cineva de stârvul lui, acela necurat va fi până seara;"
+        "ron": "Iar de va muri vreun dobitoc din cele ce se mănâncă şi se va atinge cineva de stârvul lui, acela necurat va fi până seara;",
+        "grk": "Ἐὰν δὲ ἀποθάνῃ τῶν κτηνῶν, ὅ ἐστιν ὑμῖν φαγεῖν τοῦτο, ὁ ἁπτόμενος τῶν θνησιμαίων αὐτῶν, ἀκάθαρτος ἔσται ἕως ἑσπέρας·"
       }
     },
     {
@@ -2854,7 +2893,8 @@
       "translations": {
         "lxx": "And he that eats of their carcases shall wash his garments, and be unclean till evening; and he that carries any of their carcases shall wash his garments, and bathe himself in water, and be unclean till evening.",
         "kjv": "And he that eateth of the carcase of it shall wash his clothes, and be unclean until the even: he also that beareth the carcase of it shall wash his clothes, and be unclean until the even.",
-        "ron": "Iar cel ce va mânca mortăciunea lui, să-şi spele hainele sale şi necurat va fi până seara; cel ce va duce stârvul lui să-şi spele hainele sale şi necurat va fi până seara."
+        "ron": "Iar cel ce va mânca mortăciunea lui, să-şi spele hainele sale şi necurat va fi până seara; cel ce va duce stârvul lui să-şi spele hainele sale şi necurat va fi până seara.",
+        "grk": "καὶ ὁ ἐσθίων ἀπὸ τῶν θνησιμαίων τούτων, πλυνεῖ τὰ ἱμάτια, καὶ ἀκάθαρτος ἔσται ἕως ἑσπέρας· καὶ ὁ αἴρων ἀπὸ θνησιμαίων αὐτῶν, πλυνεῖ τὰ ἱμάτια, καὶ λούσεται ὕδατι, καὶ ἀκάθαρτος ἔσται ἕως ἑσπέρας."
       }
     },
     {
@@ -2911,7 +2951,8 @@
       "translations": {
         "lxx": "And every reptile that creeps on the earth, this shall be an abomination to you; it shall not be eaten.",
         "kjv": "And every creeping thing that creepeth upon the earth shall be an abomination; it shall not be eaten.",
-        "ron": "Toată vietatea ce se târăşte pe pământ este spurcată pentru voi; să n-o mâncaţi."
+        "ron": "Toată vietatea ce se târăşte pe pământ este spurcată pentru voi; să n-o mâncaţi.",
+        "grk": "Καὶ πᾶν ἑρπετὸν, ὃ ἕρπει ἐπὶ τῆς γῆς, βδέλυγμα ἔσται τοῦτο ὑμῖν· οὐ βρωθήσεται."
       }
     },
     {
@@ -3018,7 +3059,8 @@
       "translations": {
         "lxx": "And every animal that creeps on its belly, and every one that goes on four feet continually, which abounds with feet among all the reptiles creeping upon the earth—ye shall not eat it, for it is an abomination to you.",
         "kjv": "Whatsoever goeth upon the belly, and whatsoever goeth upon all four, or whatsoever hath more feet among all creeping things that creep upon the earth, them ye shall not eat; for they are an abomination.",
-        "ron": "Tot ce se târăşte pe pântece şi tot ce umblă în patru picioare şi cele cu picioare multe dintre vietăţile ce se târăsc pe pământ, să nu le mâncaţi, că sunt spurcate pentru voi."
+        "ron": "Tot ce se târăşte pe pântece şi tot ce umblă în patru picioare şi cele cu picioare multe dintre vietăţile ce se târăsc pe pământ, să nu le mâncaţi, că sunt spurcate pentru voi.",
+        "grk": "Καὶ πᾶς ὁ πορευόμενος ἐπὶ κοιλίας, καὶ πᾶς ὁ πορευόμενος ἐπὶ τέσσαρα διαπαντός, ὃ πολυπληθεῖ ποσὶν ἐν πᾶσι τοῖς ἑρπετοῖς τοῖς ἕρπουσιν ἐπὶ τῆς γῆς, οὐ φάγεσθε αὐτὸ, ὅτι βδέλυγμα ὑμῖν ἐστι."
       }
     },
     {
@@ -3090,7 +3132,8 @@
       "translations": {
         "lxx": "And ye shall not defile your souls with any of the reptiles that creep upon the earth, and ye shall not be polluted with them, and ye shall not be unclean by them.",
         "kjv": "Ye shall not make yourselves abominable with any creeping thing that creepeth, neither shall ye make yourselves unclean with them, that ye should be defiled thereby.",
-        "ron": "Să nu vă spurcaţi sufletele voastre cu vreo vietate târâtoare şi să nu vă pângăriţi cu ea, ca să fiţi din pricina ei necuraţi,"
+        "ron": "Să nu vă spurcaţi sufletele voastre cu vreo vietate târâtoare şi să nu vă pângăriţi cu ea, ca să fiţi din pricina ei necuraţi,",
+        "grk": "Καὶ οὐ μὴ βδελύξητε τὰς ψυχὰς ὑμῶν ἐν πᾶσι τοῖς ἑρπετοῖς τοῖς ἕρπουσιν ἐπὶ τῆς γῆς, καὶ οὐ μιανθήσεσθε ἐν τούτοις, καὶ οὐκ ἀκάθαρτοι ἔσεσθε ἐν αὐτοῖς,"
       }
     },
     {
@@ -3202,7 +3245,8 @@
       "translations": {
         "lxx": "For I am the Lord your God; and ye shall be sanctified, and ye shall be holy, because I the Lord your God am holy; and ye shall not defile your souls with any of the reptiles creeping upon the earth.",
         "kjv": "For I am the LORD your God: ye shall therefore sanctify yourselves, and ye shall be holy; for I am holy: neither shall ye defile yourselves with any manner of creeping thing that creepeth upon the earth.",
-        "ron": "Că Eu sunt Domnul Dumnezeul vostru. Sfinţiţi-vă şi veţi fi sfinţi, că Eu, Domnul Dumnezeul vostru, sfânt sunt; să nu vă pângăriţi sufletele voastre cu vreo vietate din cele ce se târăsc pe pământ,"
+        "ron": "Că Eu sunt Domnul Dumnezeul vostru. Sfinţiţi-vă şi veţi fi sfinţi, că Eu, Domnul Dumnezeul vostru, sfânt sunt; să nu vă pângăriţi sufletele voastre cu vreo vietate din cele ce se târăsc pe pământ,",
+        "grk": "ὅτι ἐγώ εἰμι Κύριος ὁ Θεὸς ὑμῶν· καὶ ἁγιασθήσεσθε, καὶ ἅγιοι ἔσεσθε, ὅτι ἅγιός εἰμι ἐγὼ Κύριος ὁ Θεὸς ὑμῶν· καὶ οὐ μιανεῖτε τὰς ψυχὰς ὑμῶν ἐν πᾶσι τοῖς ἑρπετοῖς τοῖς κινουμένοις ἐπὶ τῆς γῆς,"
       }
     },
     {
@@ -3299,7 +3343,8 @@
       "translations": {
         "lxx": "For I am the Lord who brought you up out of the land of Egypt to be your God; and ye shall be holy, for I the Lord am holy.",
         "kjv": "For I am the LORD that bringeth you up out of the land of Egypt, to be your God: ye shall therefore be holy, for I am holy.",
-        "ron": "Că Eu sunt Domnul, Cel ce v-am scos din pământul Egiptului, ca să vă fiu Dumnezeu. Deci fiţi sfinţi, că Eu, Domnul, sunt sfânt\"."
+        "ron": "Că Eu sunt Domnul, Cel ce v-am scos din pământul Egiptului, ca să vă fiu Dumnezeu. Deci fiţi sfinţi, că Eu, Domnul, sunt sfânt\".",
+        "grk": "ὅτι ἐγώ εἰμι Κύριος ὁ ἀναγαγὼν ὑμᾶς ἐκ γῆς Αἰγύπτου εἶναι ὑμῶν Θεός· καὶ ἔσεσθε ἅγιοι, ὅτι ἅγιός εἰμι ἐγὼ Κύριος."
       }
     },
     {
@@ -3411,7 +3456,8 @@
       "translations": {
         "lxx": "This is the law concerning beasts and birds and every living creature moving in the water, and every living creature creeping on the earth;",
         "kjv": "This is the law of the beasts, and of the fowl, and of every living creature that moveth in the waters, and of every creature that creepeth upon the earth:",
-        "ron": "Aceasta este legea cea pentru dobitoace, pentru păsări, pentru toate vietăţile ce mişună în apă şi pentru toate vietăţile ce trăiesc pe pământ,"
+        "ron": "Aceasta este legea cea pentru dobitoace, pentru păsări, pentru toate vietăţile ce mişună în apă şi pentru toate vietăţile ce trăiesc pe pământ,",
+        "grk": "Οὗτος ὁ νόμος περὶ τῶν κτηνῶν καὶ τῶν πετεινῶν καὶ πάσης ψυχῆς τῆς κινουμένης ἐν τῷ ὕδατι, καὶ πάσης ψυχῆς ἑρπούσης ἐπὶ τῆς γῆς,"
       }
     },
     {
@@ -3493,7 +3539,8 @@
       "translations": {
         "lxx": "to distinguish between the unclean and the clean; and between those that bring forth alive, such as should be eaten, and those that bring forth alive, such as should not be eaten.",
         "kjv": "To make a difference between the unclean and the clean, and between the beast that may be eaten and the beast that may not be eaten.",
-        "ron": "După care se pot deosebi cele necurate de cele curate şi vietăţile ce se mănâncă de vietătile ce nu se mănâncă."
+        "ron": "După care se pot deosebi cele necurate de cele curate şi vietăţile ce se mănâncă de vietătile ce nu se mănâncă.",
+        "grk": "διαστεῖλαι ἀναμέσον τῶν ἀκαθάρτων καὶ ἀναμέσον τῶν καθαρῶν, καὶ ἀναμέσον τῶν ζωογονούντων τὰ ἐσθιόμενα καὶ ἀναμέσον τῶν ζωογονούντων τὰ μὴ ἐσθιόμενα."
       }
     }
   ],

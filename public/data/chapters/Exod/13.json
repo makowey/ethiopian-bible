@@ -26,7 +26,8 @@
       "translations": {
         "lxx": "And the Lord spoke to Moses, saying,",
         "kjv": "And the LORD spake unto Moses, saying,",
-        "ron": "În vremea aceea a vorbit Domnul cu Moise şi i-a zis:"
+        "ron": "În vremea aceea a vorbit Domnul cu Moise şi i-a zis:",
+        "grk": "Εἶπε δὲ Κύριος πρὸς Μωυσῆν, λέγων,"
       }
     },
     {
@@ -118,7 +119,8 @@
       "translations": {
         "lxx": "Sanctify to me every first-born, first produced, opening every womb among the children of Israel both of man and beast: it is mine.",
         "kjv": "Sanctify unto me all the firstborn, whatsoever openeth the womb among the children of Israel, both of man and of beast: it is mine.",
-        "ron": "Să-Mi sfinţeşti pe tot întâiul născut, pe tot cel ce se naşte întâi la fiii lui Israel, de la om până la dobitoc, că este al Meu!"
+        "ron": "Să-Mi sfinţeşti pe tot întâiul născut, pe tot cel ce se naşte întâi la fiii lui Israel, de la om până la dobitoc, că este al Meu!",
+        "grk": "ἁγίασόν μοι πᾶν πρωτότοκον πρωτογενὲς διανοῖγον πᾶσαν μήτραν ἐν τοῖς υἱοῖς Ἰσραὴλ ἀπὸ ἀνθρώπου ἕως κτήνους, ἐμοί ἐστιν."
       }
     },
     {
@@ -235,7 +237,8 @@
       "translations": {
         "lxx": "And Moses said to the people, Remember this day, in which ye came forth out of the land of Egypt, out of the house of bondage, for with a strong hand the Lord brought you forth thence; and leaven shall not be eaten.",
         "kjv": "And Moses said unto the people, Remember this day, in which ye came out from Egypt, out of the house of bondage; for by strength of hand the LORD brought you out from this place: there shall no leavened bread be eaten.",
-        "ron": "Iar Moise a zis către popor: \"Să vă aduceţi aminte de ziua aceasta, în care aţi ieşit din pământul Egiptului, din casa robiei, căci cu mână tare v-a scos Domnul de acolo şi să nu mâncaţi dospit;"
+        "ron": "Iar Moise a zis către popor: \"Să vă aduceţi aminte de ziua aceasta, în care aţi ieşit din pământul Egiptului, din casa robiei, căci cu mână tare v-a scos Domnul de acolo şi să nu mâncaţi dospit;",
+        "grk": "Εἶπε δὲ Μωυσῆς πρὸς τὸν λαὸν, μνημονεύετε τὴν ἡμέραν ταύτην, ἐν ᾗ ἐξήλθατε ἐκ γῆς Αἰγύπτου, ἐξ οἴκου δουλείας· ἐν γὰρ χειρὶ κραταιᾷ ἐξήγαγεν ὑμᾶς Κύριος ἐντεῦθεν· καὶ οὐ βρωθήσεται ζύμη."
       }
     },
     {
@@ -287,7 +290,8 @@
       "translations": {
         "lxx": "For on this day ye go forth in the month of new corn.",
         "kjv": "This day came ye out in the month Abib.",
-        "ron": "Că astăzi ieşiţi voi, în luna Aviv."
+        "ron": "Că astăzi ieşiţi voi, în luna Aviv.",
+        "grk": "Ἐν γὰρ τῇ σήμερον ὑμεῖς ἐκπορεύεσθε ἐν μηνὶ τῶν νέων."
       }
     },
     {
@@ -429,7 +433,8 @@
       "translations": {
         "lxx": "And it shall come to pass when the Lord thy God shall have brought thee into the land of the Chananites, and the Chettites, and Amorites, and Evites, and Jebusites, and Gergesites, and Pherezites, which he sware to thy fathers to give thee, a land flowing with milk and honey, that thou shalt perform this service in this month.",
         "kjv": "And it shall be when the LORD shall bring thee into the land of the Canaanites, and the Hittites, and the Amorites, and the Hivites, and the Jebusites, which he sware unto thy fathers to give thee, a land flowing with milk and honey, that thou shalt keep this service in this month.",
-        "ron": "Iar când te va duce Domnul Dumnezeul tău în ţara Canaaneilor, a Heteilor, a Amoreilor, a Heveilor, a Iebuseilor, a Ghergheseilor şi a Ferezeilor, pentru care S-a jurat El părinţilor tăi să-ţi dea ţara unde curge miere şi lapte, să faci slujba aceasta în această lună."
+        "ron": "Iar când te va duce Domnul Dumnezeul tău în ţara Canaaneilor, a Heteilor, a Amoreilor, a Heveilor, a Iebuseilor, a Ghergheseilor şi a Ferezeilor, pentru care S-a jurat El părinţilor tăi să-ţi dea ţara unde curge miere şi lapte, să faci slujba aceasta în această lună.",
+        "grk": "Καὶ ἔσται ἡνίκα ἐὰν εἰσαγάγῃ σε Κύριος ὁ Θεός σου εἰς τὴν γῆν τῶν Χαναναίων, καὶ Χετταίων, καὶ Ἀμοῤῥαίων, καὶ Εὐαίων, καὶ Ἰεβουσαίων, καὶ Γεργεσαίων, καὶ Φερεζαίων, ἣν ὤμοσε τοῖς πατράσι σου, δοῦναί σοι γῆν ῥέουσαν γάλα καὶ μέλι· καὶ ποιήσεις τὴν λατρείαν ταύτην ἐν τῷ μηνὶ τούτῳ."
       }
     },
     {
@@ -481,7 +486,8 @@
       "translations": {
         "lxx": "Six days ye shall eat unleavened bread, and on the seventh day is a feast to the Lord.",
         "kjv": "Seven days thou shalt eat unleavened bread, and in the seventh day shall be a feast to the LORD.",
-        "ron": "Şapte zile să mănânci azime, iar în ziua a şaptea este sărbătoarea Domnului:"
+        "ron": "Şapte zile să mănânci azime, iar în ziua a şaptea este sărbătoarea Domnului:",
+        "grk": "Ἓξ ἡμέρας ἔδεσθε ἄζυμα, τῇ δὲ ἡμέρᾳ τῇ ἑβδόμῃ ἑορτὴ Κυρίου."
       }
     },
     {
@@ -548,7 +554,8 @@
       "translations": {
         "lxx": "Seven days shall ye eat unleavened bread; nothing leavened shall be seen with thee, neither shalt thou have leaven in all thy borders.",
         "kjv": "Unleavened bread shall be eaten seven days; and there shall no leavened bread be seen with thee, neither shall there be leaven seen with thee in all thy quarters.",
-        "ron": "Azime să mâncaţi şapte zile şi să nu se găsească la tine pâine dospită, nici aluat dospit în toate hotarele tale."
+        "ron": "Azime să mâncaţi şapte zile şi să nu se găsească la tine pâine dospită, nici aluat dospit în toate hotarele tale.",
+        "grk": "Ἄζυμα ἔδεσθε ἑπτὰ ἡμέρας· οὐκ ὀφθήσεταί σοι ζυμωτὸν, οὐδὲ ἔσται σοι ζύμη ἐν πᾶσι τοῖς ὁρίοις σου."
       }
     },
     {
@@ -635,7 +642,8 @@
       "translations": {
         "lxx": "And thou shalt tell thy son in that day, saying, Therefore the Lord dealt thus with me, as I was going out of Egypt.",
         "kjv": "And thou shalt shew thy son in that day, saying, This is done because of that which the LORD did unto me when I came forth out of Egypt.",
-        "ron": "În ziua aceea să spui fiului tău şi să zici: Acestea sunt pentru cele ce a făcut Domnul cu mine, când am ieşit din Egipt."
+        "ron": "În ziua aceea să spui fiului tău şi să zici: Acestea sunt pentru cele ce a făcut Domnul cu mine, când am ieşit din Egipt.",
+        "grk": "Καὶ ἀναγγελεῖς τῷ υἱῷ σου ἐν τῇ ἡμέρᾳ ἐκείνῃ, λέγων, διὰ τοῦτο ἐποίησε Κύριος ὁ Θεός μοι, ὡς ἐξεπορευόμην ἐξ Αἰγύπτου."
       }
     },
     {
@@ -752,7 +760,8 @@
       "translations": {
         "lxx": "And it shall be to thee a sign upon thy hand and a memorial before thine eyes, that the law of the Lord may be in thy mouth, for with a strong hand the Lord God brought thee out of Egypt.",
         "kjv": "And it shall be for a sign unto thee upon thine hand, and for a memorial between thine eyes, that the LORD’s law may be in thy mouth: for with a strong hand hath the LORD brought thee out of Egypt.",
-        "ron": "Să fie acestea ca un semn pe mâna ta şi aducere aminte înaintea ochilor tăi, pentru ca legea Domnului să fie în gura ta, căci cu mână tare te-a scos Domnul Dumnezeu din Egipt."
+        "ron": "Să fie acestea ca un semn pe mâna ta şi aducere aminte înaintea ochilor tăi, pentru ca legea Domnului să fie în gura ta, căci cu mână tare te-a scos Domnul Dumnezeu din Egipt.",
+        "grk": "Καὶ ἔσται σοι σημεῖον ἐπὶ τῆς χειρός σου, καὶ μνημόσυνον πρὸ ὀφθαλμῶν σου, ὅπως ἂν γένηται ὁ νόμος Κυρίου ἐν τῷ στόματί σου· ἐν γὰρ χειρὶ κραταιᾷ ἐξήγαγέ σε Κύριος ὁ Θεὸς ἐξ Αἰγύπτου."
       }
     },
     {
@@ -794,7 +803,8 @@
       "translations": {
         "lxx": "And preserve ye this law according to the times of the seasons, from year to year.",
         "kjv": "Thou shalt therefore keep this ordinance in his season from year to year.",
-        "ron": "Să păziţi dar legea aceasta din an în an, la vremea hotărâtă."
+        "ron": "Să păziţi dar legea aceasta din an în an, la vremea hotărâtă.",
+        "grk": "Καὶ φυλάξασθε τὸν νόμον τοῦτον κατὰ καιροὺς ὡρῶν, ἀφʼ ἡμερῶν εἰς ἡμέρας."
       }
     },
     {
@@ -856,7 +866,8 @@
       "translations": {
         "lxx": "And it shall come to pass when the Lord thy God shall bring thee into the land of the Chananites, as he sware to thy fathers, and shall give it thee,",
         "kjv": "And it shall be when the LORD shall bring thee into the land of the Canaanites, as he sware unto thee and to thy fathers, and shall give it thee,",
-        "ron": "Şi când te va duce Domnul Dumnezeul tău în ţara Canaanului, cum S-a jurat ţie şi părinţilor tăi, şi ti-o va da ţie,"
+        "ron": "Şi când te va duce Domnul Dumnezeul tău în ţara Canaanului, cum S-a jurat ţie şi părinţilor tăi, şi ti-o va da ţie,",
+        "grk": "Καὶ ἔσται ὡς ἂν εἰσαγάγῃ σε Κύριος ὁ Θεός σου εἰς τὴν γῆν τῶν Χαναναίων, ὃν τρόπον ὤμοσε τοῖς πατράσι σου, καὶ δώσει σοι αὐτήν."
       }
     },
     {
@@ -913,7 +924,8 @@
       "translations": {
         "lxx": "that thou shalt set apart every offspring opening the womb, the males to the Lord, every one that opens the womb out of the herds or among thy cattle, as many as thou shalt have: thou shalt sanctify the males to the Lord.",
         "kjv": "That thou shalt set apart unto the LORD all that openeth the matrix, and every firstling that cometh of a beast which thou hast; the males shall be the LORD’s.",
-        "ron": "Atunci să osebeşti Domnului pe tot cel de parte bărbătească de la oameni, care se naşte întâi; şi pe tot cel de parte bărbătească, care se va naşte întâi din turmele sau de la vitele ce vei avea, să-l închini Domnului."
+        "ron": "Atunci să osebeşti Domnului pe tot cel de parte bărbătească de la oameni, care se naşte întâi; şi pe tot cel de parte bărbătească, care se va naşte întâi din turmele sau de la vitele ce vei avea, să-l închini Domnului.",
+        "grk": "Καὶ ἀφελεῖς πᾶν διανοῖγον μήτραν, τὰ ἀρσενικὰ τῷ Κυρίῳ· πᾶν διανοῖγον μήτραν ἐκ βουκολίων ἢ ἐν τοῖς κτήνεσί σου, ὅσα ἐὰν γένηταί σοι, τὰ ἀρσενικὰ ἁγιάσεις τῷ Κυρίῳ."
       }
     },
     {
@@ -995,7 +1007,8 @@
       "translations": {
         "lxx": "Every offspring opening the womb of the ass thou shalt change for a sheep; and if thou wilt not change it, thou shalt redeem it: every first-born of man of thy sons shalt thou redeem.",
         "kjv": "And every firstling of an ass thou shalt redeem with a lamb; and if thou wilt not redeem it, then thou shalt break his neck: and all the firstborn of man among thy children shalt thou redeem.",
-        "ron": "Pe tot întâi-născutul de la asină să-l răscumperi cu un miel; iar de nu-l vei răscumpăra, îi vei frânge gâtul; să răscumperi şi pe tot întâi-născutul din oameni în neamul tău."
+        "ron": "Pe tot întâi-născutul de la asină să-l răscumperi cu un miel; iar de nu-l vei răscumpăra, îi vei frânge gâtul; să răscumperi şi pe tot întâi-născutul din oameni în neamul tău.",
+        "grk": "Πᾶν διανοῖγον μήτραν ὄνου, ἀλλάξεις προβάτῳ· ἐὰν δὲ μὴ ἀλλάξῃς, λυτρώσῃ αὐτό· πᾶν πρωτότοκον ἀνθρώπου τῶν υἱῶν σου λυτρώσῃ."
       }
     },
     {
@@ -1092,7 +1105,8 @@
       "translations": {
         "lxx": "And if thy son should ask thee hereafter, saying, What is this? then thou shalt say to him, With a strong hand the Lord brought us out of Egypt, out of the house of bondage.",
         "kjv": "And it shall be when thy son asketh thee in time to come, saying, What is this? that thou shalt say unto him, By strength of hand the LORD brought us out from Egypt, from the house of bondage:",
-        "ron": "Când însă te va întreba după aceea fiul tău şi va zice: Ce înseamnă aceasta?, să-i spui: Cu mână puternică ne-a scos Domnul din pământul Egiptului, din casa robiei."
+        "ron": "Când însă te va întreba după aceea fiul tău şi va zice: Ce înseamnă aceasta?, să-i spui: Cu mână puternică ne-a scos Domnul din pământul Egiptului, din casa robiei.",
+        "grk": "Ἐὰν δὲ ἐρωτήσῃ σε ὁ υἱός σου μετὰ ταῦτα, λέγων, τί τοῦτο; καὶ ἐρεῖς αὐτῷ, ὅτι ἐν χειρὶ κραταιᾷ ἐξήγαγεν Κύριος ἡμᾶς ἐκ γῆς Αἰγύπτου, ἐξ οἴκου δουλείας."
       }
     },
     {
@@ -1229,7 +1243,8 @@
       "translations": {
         "lxx": "And when Pharao hardened his heart so as not to send us away, he slew every first-born in the land of Egypt, both the first-born of man and the first-born of beast; therefore do I sacrifice every offspring that opens the womb, the males to the Lord, and every first-born of my sons I will redeem.",
         "kjv": "And it came to pass, when Pharaoh would hardly let us go, that the LORD slew all the firstborn in the land of Egypt, both the firstborn of man, and the firstborn of beast: therefore I sacrifice to the LORD all that openeth the matrix, being males; but all the firstborn of my children I redeem.",
-        "ron": "Că atunci când se îndărătnicea Faraon să ne dea drumul, Domnul a omorât pe toţi întâi-născuţii în pământul Egiptului, de la întâi-născutul oamenilor până la întâi-născutul dobitoacelor. De aceea jertfesc eu Domnului pe tot întâi-născutul de parte bărbătească şi pe tot întâi-născutul din fiii mei îl răscumpăr."
+        "ron": "Că atunci când se îndărătnicea Faraon să ne dea drumul, Domnul a omorât pe toţi întâi-născuţii în pământul Egiptului, de la întâi-născutul oamenilor până la întâi-născutul dobitoacelor. De aceea jertfesc eu Domnului pe tot întâi-născutul de parte bărbătească şi pe tot întâi-născutul din fiii mei îl răscumpăr.",
+        "grk": "Ἡνίκα δὲ ἐσκλήρυνε Φαραὼ ἐξαποστεῖλαι ἡμᾶς, ἀπέκτεινε πᾶν πρωτότοκον ἐν γῇ Αἰγύπτῳ, ἀπὸ πρωτοτόκων ἀνθρώπων ἕως πρωτοτόκων κτηνῶν· διὰ τοῦτο ἐγὼ θύω πᾶν διανοῖγον μήτραν, τὰ ἀρσενικὰ τῷ Κυρίῳ, καὶ πᾶν πρωτότοκον τῶν υἱῶν μου λυτρώσομαι."
       }
     },
     {
@@ -1301,7 +1316,8 @@
       "translations": {
         "lxx": "And it shall be for a sign upon thy hand, and immovable before thine eyes, for with a strong hand the Lord brought thee out of Egypt.",
         "kjv": "And it shall be for a token upon thine hand, and for frontlets between thine eyes: for by strength of hand the LORD brought us forth out of Egypt.",
-        "ron": "Să fie dar aceasta ca un semn la mâna ta şi ca o tăbliţă deasupra ochilor tăi, căci cu mână tare ne-a scos Domnul din Egipt!\""
+        "ron": "Să fie dar aceasta ca un semn la mâna ta şi ca o tăbliţă deasupra ochilor tăi, căci cu mână tare ne-a scos Domnul din Egipt!\"",
+        "grk": "Καὶ ἔσται εἰς σημεῖον ἐπὶ τῆς χειρός σου, καὶ ἀσαλευτον πρὸ ὀφθαλμων σου· ἐν γὰρ χειρὶ κραταιᾷ ἐξήγαγέ σε Κύριος ἐξ Αἰγύπτου."
       }
     },
     {
@@ -1423,7 +1439,8 @@
       "translations": {
         "lxx": "And when Pharao sent forth the people, God led them not by the way of the land of the Phylistines, because it was near; for God said, Lest at any time the people repent when they see war, and return to Egypt.",
         "kjv": "And it came to pass, when Pharaoh had let the people go, that God led them not through the way of the land of the Philistines, although that was near; for God said, Lest peradventure the people repent when they see war, and they return to Egypt:",
-        "ron": "Iar după ce Faraon a dat drumul poporului, Dumnezeu nu l-a dus pe calea cea către pământul Filistenilor, care era mai scurtă; căci a zis Dumnezeu: \"Nu cumva poporul, văzând război, să-i pară rău şi să se întoarcă în Egipt\"."
+        "ron": "Iar după ce Faraon a dat drumul poporului, Dumnezeu nu l-a dus pe calea cea către pământul Filistenilor, care era mai scurtă; căci a zis Dumnezeu: \"Nu cumva poporul, văzând război, să-i pară rău şi să se întoarcă în Egipt\".",
+        "grk": "Ὡς δὲ ἐξαπέστειλε Φαραὼ τὸν λαὸν, οὐχ ὡδήγησεν αὐτοὺς ὁ Θεὸς ὁδὸν γῆς· Φυλιστιεὶμ, ὅτι ἐγγὺς ἦν· εἶπε γὰρ ὁ Θεὸς, μήποτε μεταμελήσῃ τῷ λαῷ ἰδόντι πόλεμον, καὶ ἀποστρέψῃ εἰς Αἴγυπτον."
       }
     },
     {
@@ -1505,7 +1522,8 @@
       "translations": {
         "lxx": "And God led the people round by the way to the wilderness, to the Red Sea: and in the fifth generation the children of Israel went up out of the land of Egypt.",
         "kjv": "But God led the people about, through the way of the wilderness of the Red sea: and the children of Israel went up harnessed out of the land of Egypt.",
-        "ron": "Ci a dus Dumnezeu poporul împrejur, pe calea pustiului, către Marea Roşie. Şi fiii lui Israel au ieşit în bună rânduială din pământul Egiptului."
+        "ron": "Ci a dus Dumnezeu poporul împrejur, pe calea pustiului, către Marea Roşie. Şi fiii lui Israel au ieşit în bună rânduială din pământul Egiptului.",
+        "grk": "Καὶ ἐκύκλωσεν ὁ Θεὸς τὸν λαὸν ὁδὸν τὴν εἰς τὴν ἔρημον, εἰς τὴν ἐρυθρὰν θάλασσαν· πέμπτῃ δὲ γενεᾷ ἀνέβησαν οἱ υἱοὶ Ἰσραὴλ ἐκ γῆς Αἰγύπτου."
       }
     },
     {
@@ -1617,7 +1635,8 @@
       "translations": {
         "lxx": "And Moses took the bones of Joseph with him, for he had solemnly adjured the children of Israel, saying, God will surely visit you, and ye shall carry up my bones hence with you.",
         "kjv": "And Moses took the bones of Joseph with him: for he had straitly sworn the children of Israel, saying, God will surely visit you; and ye shall carry up my bones away hence with you.",
-        "ron": "Atunci a luat Moise cu sine oasele lui Iosif; căci Iosif legase pe fiii lui Israel cu jurământ, zicând: \"Are să vă cerceteze Dumnezeu şi atunci să luaţi cu voi şi oasele mele de aici!\""
+        "ron": "Atunci a luat Moise cu sine oasele lui Iosif; căci Iosif legase pe fiii lui Israel cu jurământ, zicând: \"Are să vă cerceteze Dumnezeu şi atunci să luaţi cu voi şi oasele mele de aici!\"",
+        "grk": "Καὶ ἔλαβε Μωυσῆς τὰ ὀστᾶ Ἰωσὴφ μεθʼ ἑαυτοῦ· ὅρκῳ γὰρ ὥρκισεν τοὺς υἱοὺς Ἰσραὴλ, λέγων, ἐπισκοπῇ ἐπισκέψεται ὑμᾶς Κύριος, καὶ συνανοίσετε μου τὰ ὀστᾶ ἐντεῦθεν μεθʼ ὑμῶν."
       }
     },
     {
@@ -1674,7 +1693,8 @@
       "translations": {
         "lxx": "And the children of Israel departed from Socchoth, and encamped in Othom by the wilderness.",
         "kjv": "And they took their journey from Succoth, and encamped in Etham, in the edge of the wilderness.",
-        "ron": "Fiii lui Israel au pornit apoi din Sucot şi şi-au aşezat tabăra la Etam, la capătul pustiului."
+        "ron": "Fiii lui Israel au pornit apoi din Sucot şi şi-au aşezat tabăra la Etam, la capătul pustiului.",
+        "grk": "Ἐξάραντες δὲ οἱ υἱοὶ Ἰσραὴλ ἐκ Σοκχὼθ, ἐστρατοπέδευσαν ἐν Ὀθὼμ παρὰ τὴν ἔρημον."
       }
     },
     {
@@ -1726,7 +1746,8 @@
       "translations": {
         "lxx": "And God led them, in the day by a pillar of cloud, to show them the way, and in the night by a pillar of fire.",
         "kjv": "And the LORD went before them by day in a pillar of a cloud, to lead them the way; and by night in a pillar of fire, to give them light; to go by day and night:",
-        "ron": "Iar Domnul mergea înaintea lor: ziua în stâlp de nor, arătându-le calea, iar noaptea în stâlp de foc, luminându-le, ca să poată merge şi ziua şi noaptea."
+        "ron": "Iar Domnul mergea înaintea lor: ziua în stâlp de nor, arătându-le calea, iar noaptea în stâlp de foc, luminându-le, ca să poată merge şi ziua şi noaptea.",
+        "grk": "Ὁ δὲ Θεὸς ἡγεῖτο αὐτῶν, ἡμέρας μὲν ἐν στύλῳ νεφέλης, δεῖξαι αὐτοῖς τὴν ὁδόν· τὴν δὲ νύκτα ἐν στύλῳ πυρός."
       }
     },
     {
@@ -1788,7 +1809,8 @@
       "translations": {
         "lxx": "And the pillar of cloud failed not by day, nor the pillar of fire by night, before all the people.",
         "kjv": "He took not away the pillar of the cloud by day, nor the pillar of fire by night, from before the people.",
-        "ron": "Şi n-a lipsit stâlpul de nor ziua, nici stâlpul de foc noaptea dinaintea poporului."
+        "ron": "Şi n-a lipsit stâlpul de nor ziua, nici stâlpul de foc noaptea dinaintea poporului.",
+        "grk": "Οὐκ ἐξέλιπεν δὲ ὁ στύλος τῆς νεφέλης ἡμέρας, καὶ ὁ στύλος τοῦ πυρὸς νυκτὸς, ἐναντίον τοῦ λαοῦ παντός."
       }
     }
   ],

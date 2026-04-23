@@ -46,7 +46,8 @@
       "translations": {
         "lxx": "Say if thou knowest the time of the bringing forth of the wild goats of the rock, and if thou hast marked the calving of the hinds:",
         "kjv": "Knowest thou the time when the wild goats of the rock bring forth? or canst thou mark when the hinds do calve?",
-        "ron": "Ştii tu când nasc caprele sălbatice? Ai băgat de seamă care este vremea cerboaicelor?"
+        "ron": "Ştii tu când nasc caprele sălbatice? Ai băgat de seamă care este vremea cerboaicelor?",
+        "grk": "Εἰ ἔγνως καιρὸν τοκετοῦ τραγελάφων πέτρας, ἐφύλαξας δὲ ὠδῖνας ἐλάφων,"
       }
     },
     {
@@ -93,7 +94,8 @@
       "translations": {
         "lxx": "and if thou hast numbered the full months of their being with young, and if thou hast relieved their pangs:",
         "kjv": "Canst thou number the months that they fulfil? or knowest thou the time when they bring forth?",
-        "ron": "Numeri tu lunile sarcinii lor şi ştii tu când le vine ceasul să nască?"
+        "ron": "Numeri tu lunile sarcinii lor şi ştii tu când le vine ceasul să nască?",
+        "grk": "ἠρίθμησας δὲ μῆνας αὐτῶν πλήρεις τοκετοῦ αὐτῶν, ὠδῖνας δὲ αὐτῶν ἔλυσας,"
       }
     },
     {
@@ -135,7 +137,8 @@
       "translations": {
         "lxx": "and hast reared their young without fear; and wilt thou loosen their pangs?",
         "kjv": "They bow themselves, they bring forth their young ones, they cast out their sorrows.",
-        "ron": "Ele îngenunchiază, fată puii şi scapă de durerile lor,"
+        "ron": "Ele îngenunchiază, fată puii şi scapă de durerile lor,",
+        "grk": "ἐξέθρεψας δὲ αὐτῶν τὰ παιδία ἔξω φόβου, ὠδῖνας δὲ αὐτῶν ἐξαποστελεῖς,"
       }
     },
     {
@@ -182,7 +185,8 @@
       "translations": {
         "lxx": "Their young will break forth; they will be multiplied with offspring: their young will go forth, and will not return to them.",
         "kjv": "Their young ones are in good liking, they grow up with corn; they go forth, and return not unto them.",
-        "ron": "Iar puii lor prind putere, se fac mari pe câmp, pornesc şi nu se mai întorc spre mamele lor."
+        "ron": "Iar puii lor prind putere, se fac mari pe câmp, pornesc şi nu se mai întorc spre mamele lor.",
+        "grk": "ἀποῤῥήξουσι τὰ τέκνα αὐτῶν, πληθυνθήσονται ἐν γενγήματι· ἐξελεύσονται, καὶ οὐ μὴ ἀνακάμψουσιν αὐτοῖς."
       }
     },
     {
@@ -224,7 +228,8 @@
       "translations": {
         "lxx": "And who is he that sent forth the wild ass free? and who loosed his bands?",
         "kjv": "Who hath sent out the wild ass free? or who hath loosed the bands of the wild ass?",
-        "ron": "Cine a lăsat slobod asinul sălbatic şi l-a dezlegat de la iesle?"
+        "ron": "Cine a lăsat slobod asinul sălbatic şi l-a dezlegat de la iesle?",
+        "grk": "Τίς δέ ἐστιν ὁ ἀφεὶς ὄνον ἄγριον ἐλεύθερον; δεσμοὺς δὲ αὐτοῦ τίς ἔλυσεν;"
       }
     },
     {
@@ -271,7 +276,8 @@
       "translations": {
         "lxx": "whereas I made his habitation the wilderness, and the salt land his coverts.",
         "kjv": "Whose house I have made the wilderness, and the barren land his dwellings.",
-        "ron": "I-am dat pustiul ca să-l locuiască şi pământul sărat i l-am hărăzit ocol;"
+        "ron": "I-am dat pustiul ca să-l locuiască şi pământul sărat i l-am hărăzit ocol;",
+        "grk": "Ἐθέμην δὲ τὴν δίαιταν αὐτοῦ ἔρημον, καὶ τὰ σκηνώματα αὐτοῦ ἁλμυρίδα."
       }
     },
     {
@@ -313,7 +319,8 @@
       "translations": {
         "lxx": "He laughs to scorn the multitude of the city, and hears not the chiding of the tax-gatherer.",
         "kjv": "He scorneth the multitude of the city, neither regardeth he the crying of the driver.",
-        "ron": "El îşi bate joc de zarva oraşelor; el nu aude strigătele nici unui stăpân;"
+        "ron": "El îşi bate joc de zarva oraşelor; el nu aude strigătele nici unui stăpân;",
+        "grk": "Καταγελῶν πολυοχλίας πόλεως, μέμψιν δὲ φορολόγου οὐκ ἀκούων,"
       }
     },
     {
@@ -360,7 +367,8 @@
       "translations": {
         "lxx": "He will survey the mountains as his pasture, and he seeks after every green thing.",
         "kjv": "The range of the mountains is his pasture, and he searcheth after every green thing.",
-        "ron": "El străbate munţii, locul său de păşune, şi umblă după orişice verdeaţă."
+        "ron": "El străbate munţii, locul său de păşune, şi umblă după orişice verdeaţă.",
+        "grk": "κατασκέψεται ὄρη νομὴν αὐτοῦ, καὶ ὀπίσω παντὸς χλωροῦ ζητεῖ."
       }
     },
     {
@@ -412,7 +420,8 @@
       "translations": {
         "lxx": "And will the unicorn be willing to serve thee, or to lie down at thy manger?",
         "kjv": "Will the unicorn be willing to serve thee, or abide by thy crib?",
-        "ron": "Va voi bivolul sălbatic să se bage la tine slugă şi să petreacă noaptea lingă ieslele tale?"
+        "ron": "Va voi bivolul sălbatic să se bage la tine slugă şi să petreacă noaptea lingă ieslele tale?",
+        "grk": "Βουλήσεται δέ σοι μονόκερως δουλεῦσαι, ἢ κοιμηθῆναι ἐπὶ φάτνης σου;"
       }
     },
     {
@@ -474,7 +483,8 @@
       "translations": {
         "lxx": "And wilt thou bind his yoke with thongs, or will he plough furrows for thee in the plain?",
         "kjv": "Canst thou bind the unicorn with his band in the furrow? or will he harrow the valleys after thee?",
-        "ron": "Poţi tu să-l legi cu funia de gât şi să tragă grapa după tine, peste arătură?"
+        "ron": "Poţi tu să-l legi cu funia de gât şi să tragă grapa după tine, peste arătură?",
+        "grk": "Δήσεις δὲ ἐν ἱμᾶσι ζυγὸν αὐτοῦ, ἢ ἑλκύσει σου αὔλακας ἐν πεδίῳ;"
       }
     },
     {
@@ -526,7 +536,8 @@
       "translations": {
         "lxx": "And dost thou trust him, because his strength is great? and wilt thou commit thy works to him?",
         "kjv": "Wilt thou trust him, because his strength is great? or wilt thou leave thy labour to him?",
-        "ron": "Poţi să te încrezi în el, fiindcă este atât de tare, şi să-i laşi în grijă munca ta?"
+        "ron": "Poţi să te încrezi în el, fiindcă este atât de tare, şi să-i laşi în grijă munca ta?",
+        "grk": "Πέποιθας δὲ ἐπʼ αὐτῷ, ὅτι πολλὴ ἡ ἰσχὺς αὐτοῦ, ἐπαφήσεις δὲ αὐτῷ τὰ ἔργα σου;"
       }
     },
     {
@@ -583,7 +594,8 @@
       "translations": {
         "lxx": "And wilt thou believe that he will return to thee thy seed, and bring it in to thy threshing-floor?",
         "kjv": "Wilt thou believe him, that he will bring home thy seed, and gather it into thy barn?",
-        "ron": "Te bizui tu pe el, că mai vine înapoi să-ţi aducă roadele la aria ta?"
+        "ron": "Te bizui tu pe el, că mai vine înapoi să-ţi aducă roadele la aria ta?",
+        "grk": "Πιστεύσεις δὲ, ὅτι ἀποδώσει σοι τὸν σπόρον, εἰσοίσει δέ σου τὸν ἅλωνα;"
       }
     },
     {
@@ -650,7 +662,8 @@
       "translations": {
         "lxx": "The peacock has a beautiful wing: if the stork and the ostrich conceive, it is worthy of notice,",
         "kjv": "Gavest thou the goodly wings unto the peacocks? or wings and feathers unto the ostrich?",
-        "ron": "Aripile struţului sunt negrăit de agere; struţul are pene preafrumoase ţi mândru penaj."
+        "ron": "Aripile struţului sunt negrăit de agere; struţul are pene preafrumoase ţi mândru penaj.",
+        "grk": "Πτέρυξ τερπομένων νεέλασσα, ἐὰν συλλάβῃ ἁσίδα καὶ νέσσα·"
       }
     },
     {
@@ -707,7 +720,8 @@
       "translations": {
         "lxx": "for the ostrich will leave her eggs in the ground, and warm them on the dust,",
         "kjv": "Which leaveth her eggs in the earth, and warmeth them in dust,",
-        "ron": "Când îşi lasă ouăle pe pământ şi le lasă să se clocească în nisipul fierbinte,"
+        "ron": "Când îşi lasă ouăle pe pământ şi le lasă să se clocească în nisipul fierbinte,",
+        "grk": "Ὅτι ἀφήσει εἰς γῆν τὰ ὠὰ αὐτῆς, καὶ ἐπὶ χοῦν θάλψει,"
       }
     },
     {
@@ -764,7 +778,8 @@
       "translations": {
         "lxx": "and has forgotten that the foot will scatter them, and the wild beasts of the field trample them.",
         "kjv": "And forgetteth that the foot may crush them, or that the wild beast may break them.",
-        "ron": "El uită că oarecine poate să le calce cu piciorul şi că vreo fiară sălbatică poate să le strivească."
+        "ron": "El uită că oarecine poate să le calce cu piciorul şi că vreo fiară sălbatică poate să le strivească.",
+        "grk": "καὶ ἐπελάθετο, ὅτι ποῦς σκορπιεῖ, καὶ θηρία ἀγροῦ καταπατήσει."
       }
     },
     {
@@ -816,7 +831,8 @@
       "translations": {
         "lxx": "She has hardened herself against her young ones, as though she bereaved not herself: she labours in vain without fear.",
         "kjv": "She is hardened against her young ones, as though they were not hers: her labour is in vain without fear;",
-        "ron": "Struţul e hain cu puii săi, ca şi cum n-ar fi ai lui, şi nu-i pasă deloc de truda sa zadarnică."
+        "ron": "Struţul e hain cu puii săi, ca şi cum n-ar fi ai lui, şi nu-i pasă deloc de truda sa zadarnică.",
+        "grk": "Ἀπεσκλήρυνε τὰ τέκνα ἑαυτῆς, ὥστε μὴ ἑαυτήν· εἰς κενὸν ἐκοπίασεν ἄνευ φόβου."
       }
     },
     {
@@ -863,7 +879,8 @@
       "translations": {
         "lxx": "For God has withholden wisdom from her, and not given her a portion in understanding.",
         "kjv": "Because God hath deprived her of wisdom, neither hath he imparted to her understanding.",
-        "ron": "Vezi că Dumnezeu nu l-a înzestrat cu pricepere şi pătrundere."
+        "ron": "Vezi că Dumnezeu nu l-a înzestrat cu pricepere şi pătrundere.",
+        "grk": "Ὅτι κατεσιώπησεν αὐτῇ ὁ Θεὸς σοφίαν, καὶ οὐκ ἐπεμέρισεν αὐτῇ ἐν τῇ συνέσει."
       }
     },
     {
@@ -910,7 +927,8 @@
       "translations": {
         "lxx": "In her season she will lift herself on high; she will scorn the horse and his rider.",
         "kjv": "What time she lifteth up herself on high, she scorneth the horse and his rider.",
-        "ron": "Când se scoală însă şi porneşte, face de ocară şi pe cal şi pe călăreţ."
+        "ron": "Când se scoală însă şi porneşte, face de ocară şi pe cal şi pe călăreţ.",
+        "grk": "Κατὰ καιρὸν ἐν ὕψει ὑψώσει, καταγελάσεται ἵππου, καὶ τοῦ ἐπιβάτου αὐτοῦ."
       }
     },
     {
@@ -942,7 +960,8 @@
       "translations": {
         "lxx": "Hast thou invested the horse with strength, and clothed his neck with terror?",
         "kjv": "Hast thou given the horse strength? hast thou clothed his neck with thunder?",
-        "ron": "Tu eşti cel ce dai putere calului? Tu i-ai împodobit gâtul cu falnica lui coamă?"
+        "ron": "Tu eşti cel ce dai putere calului? Tu i-ai împodobit gâtul cu falnica lui coamă?",
+        "grk": "Ἢ σὺ περιέθηκας ἵππῳ δύναμιν, ἐνέδυσας δὲ τραχήλῳ αὐτοῦ φόβον;"
       }
     },
     {
@@ -1004,7 +1023,8 @@
       "translations": {
         "lxx": "And hast thou clad him in perfect armour, and made his breast glorious with courage?",
         "kjv": "Canst thou make him afraid as a grasshopper? the glory of his nostrils is terrible.",
-        "ron": "Tu l-ai învăţat să sară uşor, ca o lăcustă? Nechezatul lui viteaz insuflă spaimă!"
+        "ron": "Tu l-ai învăţat să sară uşor, ca o lăcustă? Nechezatul lui viteaz insuflă spaimă!",
+        "grk": "Περιέθηκας δὲ αὐτῷ πανοπλίαν; δόξαν δὲ στηθέων αὐτοῦ τόλμῃ."
       }
     },
     {
@@ -1076,7 +1096,8 @@
       "translations": {
         "lxx": "He paws exulting in the plain, and goes forth in strength into the plain.",
         "kjv": "He paweth in the valley, and rejoiceth in his strength: he goeth on to meet the armed men.",
-        "ron": "El bate pământul cu copita şi mândru de puterea lui porneşte spre taberele înarmate;"
+        "ron": "El bate pământul cu copita şi mândru de puterea lui porneşte spre taberele înarmate;",
+        "grk": "Ἀνορύσσων ἐν πεδίῳ γαυριᾷ, ἐκπορεύεται δὲ εἰς πεδίον ἐν ἰσχύϊ."
       }
     },
     {
@@ -1133,7 +1154,8 @@
       "translations": {
         "lxx": "The bow and sword resound against him; and his rage will swallow up the ground:",
         "kjv": "The quiver rattleth against him, the glittering spear and the shield.",
-        "ron": "La oblânc îi sună tolba cu săgeţi; fulgere aruncă suliţa şi lancea."
+        "ron": "La oblânc îi sună tolba cu săgeţi; fulgere aruncă suliţa şi lancea.",
+        "grk": "Ἐπʼ αὐτῷ γαυριᾷ τόξον καὶ μάχαιρα,"
       }
     },
     {
@@ -1180,7 +1202,8 @@
       "translations": {
         "lxx": "and he will not believe until the trumpet sounds.",
         "kjv": "He swalloweth the ground with fierceness and rage: neither believeth he that it is the sound of the trumpet.",
-        "ron": "De aprindere, de nerăbdare, el mănâncă, gonind, pământul şi, când a sunat trâmbiţa, nu mai are astâmpăr."
+        "ron": "De aprindere, de nerăbdare, el mănâncă, gonind, pământul şi, când a sunat trâmbiţa, nu mai are astâmpăr.",
+        "grk": "καὶ ὀργὴ ἀφανιεῖ τὴν γῆν· καὶ οὐ μὴ πιστεύσει, ἕως ἂν σημάνῃ σάλπιγξ."
       }
     },
     {
@@ -1237,7 +1260,8 @@
       "translations": {
         "lxx": "And when the trumpet sounds, he says, Aha! and afar off he smells the war with prancing and neighing.",
         "kjv": "He saith among the trumpets, Ha, ha; and he smelleth the battle afar off, the thunder of the captains, and the shouting.",
-        "ron": "La chemarea trâmbiţei, pare că zice: Haide! Şi de departe soarbe cu nările bătălia, tunetul poruncilor căpeteniilor şi strigătele războinice."
+        "ron": "La chemarea trâmbiţei, pare că zice: Haide! Şi de departe soarbe cu nările bătălia, tunetul poruncilor căpeteniilor şi strigătele războinice.",
+        "grk": "Σάλπιγγος δὲ σημαινούσης, λέγει, εὖγε· πόῤῥωθεν δὲ ὀσφραίνεται πολέμου σὺν ἅλματι καὶ κραυγῇ."
       }
     },
     {
@@ -1284,7 +1308,8 @@
       "translations": {
         "lxx": "And does the hawk remain steady by thy wisdom, having spread out her wings unmoved, looking toward the region of the south?",
         "kjv": "Doth the hawk fly by thy wisdom, and stretch her wings toward the south?",
-        "ron": "Oare, prin deşteptăciunea ta s-a îmbrăcat în pene şoimul şi îşi întinde aripile ca nişte seceri, spre miazăzi?"
+        "ron": "Oare, prin deşteptăciunea ta s-a îmbrăcat în pene şoimul şi îşi întinde aripile ca nişte seceri, spre miazăzi?",
+        "grk": "Ἐκ δὲ τῆς σῆς ἐπιστήμης ἕστηκεν ἱέραξ, ἀναπετάσας τὰς πτέρυγας, ἀκίνητος, καθορῶν τὰ πρὸς Νότον;"
       }
     },
     {
@@ -1331,7 +1356,8 @@
       "translations": {
         "lxx": "And does the eagle rise at thy command, and the vulture remain sitting over his nest,",
         "kjv": "Doth the eagle mount up at thy command, and make her nest on high?",
-        "ron": "Nu cumva vulturul se ridică în înălţime din porunca ta şi îşi aşază cuibul pe vârfuri neajunse?"
+        "ron": "Nu cumva vulturul se ridică în înălţime din porunca ta şi îşi aşază cuibul pe vârfuri neajunse?",
+        "grk": "Ἐπὶ δὲ σῷ προστάγματι ὑψοῦται ἀετὸς, γὺψ δὲ ἐπὶ νοσσιᾶς αὐτοῦ καθεσθεὶς αὐλίζεται,"
       }
     },
     {
@@ -1388,7 +1414,8 @@
       "translations": {
         "lxx": "on a crag of a rock, and in a secret place?",
         "kjv": "She dwelleth and abideth on the rock, upon the crag of the rock, and the strong place.",
-        "ron": "El îşi face sălaşul în stânci şi acolo petrece noaptea - pe un vârf de stâncă şi pe vreo înălţime prăpăstioasă."
+        "ron": "El îşi face sălaşul în stânci şi acolo petrece noaptea - pe un vârf de stâncă şi pe vreo înălţime prăpăstioasă.",
+        "grk": "ἐπʼ ἐξοχῇ πέτρας, καὶ ἀποκρύφῳ,"
       }
     }
   ],

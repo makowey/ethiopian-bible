@@ -41,7 +41,8 @@
       "translations": {
         "lxx": "Then Baldad the Sauchite answered and said,",
         "kjv": "Then answered Bildad the Shuhite, and said,",
-        "ron": "Atunci Bildad din Şuah a început să vorbească şi a zis:"
+        "ron": "Atunci Bildad din Şuah a început să vorbească şi a zis:",
+        "grk": "Ὑπολαβὼν δὲ Βαλδὰδ ὁ Σαυχίτης, λέγει,"
       }
     },
     {
@@ -98,7 +99,8 @@
       "translations": {
         "lxx": "What beginning or fear is his—even he that makes all things in the highest?",
         "kjv": "Dominion and fear are with him, he maketh peace in his high places.",
-        "ron": "\"A Lui este stăpânirea, a Lui este puterea înfricoşătoare! Şi El sălăşluieşte pacea în locurile preaînalte."
+        "ron": "\"A Lui este stăpânirea, a Lui este puterea înfricoşătoare! Şi El sălăşluieşte pacea în locurile preaînalte.",
+        "grk": "Τί γὰρ προοίμιον ἢ φόβος παρʼ αὐτοῦ ὁ ποιῶν τὴν σύμπασαν ἐν ὑψιστῳ;"
       }
     },
     {
@@ -155,7 +157,8 @@
       "translations": {
         "lxx": "For let none think that there is a respite for robbers: and upon whom will there not come a snare from him?",
         "kjv": "Is there any number of his armies? and upon whom doth not his light arise?",
-        "ron": "Cine poate să numere oştile Sale? Şi peste cine nu se ridică paza Lui?"
+        "ron": "Cine poate să numere oştile Sale? Şi peste cine nu se ridică paza Lui?",
+        "grk": "Μὴ γάρ τις ὑπολάβοι ὅτι ἐστὶ παρέλκυσις πειραταῖς· ἐπὶ τίνας δὲ οὐκ ἐπελεύσεται ἔνεδρα παρʼ αὐτοῦ;"
       }
     },
     {
@@ -222,7 +225,8 @@
       "translations": {
         "lxx": "For how shall a mortal be just before the Lord? or who that is born of a woman shall purify himself?",
         "kjv": "How then can man be justified with God? or how can he be clean that is born of a woman?",
-        "ron": "Cum ar putea un om să fie fără de prihană înaintea lui Dumnezeu, sau cum ar putea să fie curat cel ce se naşte din femeie?"
+        "ron": "Cum ar putea un om să fie fără de prihană înaintea lui Dumnezeu, sau cum ar putea să fie curat cel ce se naşte din femeie?",
+        "grk": "Πῶς γὰρ ἔσται δίκαιος βροτὸς ἔναντι Κυρίου; ἢ τίς ἂν ἀποκαθαρίσαι αὐτὸν γεννητὸς γυναικός;"
       }
     },
     {
@@ -304,7 +308,8 @@
       "translations": {
         "lxx": "If he gives an order to the moon, then it shines not; and the stars are not pure before him.",
         "kjv": "Behold even to the moon, and it shineth not; yea, the stars are not pure in his sight.",
-        "ron": "Iată nici luna nu străluceşte destul în ochii Lui şi nici stelele nu sunt de tot curate, pentru El!"
+        "ron": "Iată nici luna nu străluceşte destul în ochii Lui şi nici stelele nu sunt de tot curate, pentru El!",
+        "grk": "Εἰ σελήνῃ συντάσσει, καὶ οὐκ ἐπιφαύσκει, ἄστρα δὲ οὐ καθαρὰ ἐναντίον αὐτοῦ."
       }
     }
   ],

@@ -31,7 +31,8 @@
       "translations": {
         "lxx": "And the Lord spoke to Moses, saying,",
         "kjv": "And the LORD spake unto Moses, saying,",
-        "ron": "Şi a grăit Domnul cu Moise şi a zis:"
+        "ron": "Şi a grăit Domnul cu Moise şi a zis:",
+        "grk": "Καὶ ἐλάλησε Κύριος πρὸς Μωυσῆν, λέγων, ποίησον σεαυτῷ δύο σάλπιγγας ἀγυρᾶς·"
       }
     },
     {
@@ -128,7 +129,8 @@
       "translations": {
         "lxx": "Make to thyself two silver trumpets: thou shalt make them of beaten work; and they shall be to thee for the purpose of calling the assembly, and of removing the camps.",
         "kjv": "Make thee two trumpets of silver; of a whole piece shalt thou make them: that thou mayest use them for the calling of the assembly, and for the journeying of the camps.",
-        "ron": "\"Fă-ţi două trâmbiţe de argint; din ciocan să le faci, ca să fie pentru chemarea obştii şi pentru plecarea taberei."
+        "ron": "\"Fă-ţi două trâmbiţe de argint; din ciocan să le faci, ca să fie pentru chemarea obştii şi pentru plecarea taberei.",
+        "grk": "ἐλατὰς ποιήσεις αὐτάς· καὶ ἔσονταί σοι ἀνακαλεῖν τὴν συναγωγὴν, καὶ ἐξαίρειν τὰς παρεμβολάς."
       }
     },
     {
@@ -185,7 +187,8 @@
       "translations": {
         "lxx": "And thou shalt sound with them, and all the congregation shall be gathered to the door of the tabernacle of witness.",
         "kjv": "And when they shall blow with them, all the assembly shall assemble themselves to thee at the door of the tabernacle of the congregation.",
-        "ron": "De se va trâmbiţa din ele, se va aduna toată obştea la uşa cortului adunării."
+        "ron": "De se va trâmbiţa din ele, se va aduna toată obştea la uşa cortului adunării.",
+        "grk": "Καὶ σαλπιεῖς ἐν αὐταῖς, καὶ συναχθήσεται πᾶσα ἡ συναγωγὴ ἐπὶ τὴν θύραν τῆς σκηνῆς τοῦ μαρτυρίου·"
       }
     },
     {
@@ -242,7 +245,8 @@
       "translations": {
         "lxx": "And if they shall sound with one, all the rulers even the princes of Israel shall come to thee.",
         "kjv": "And if they blow but with one trumpet, then the princes, which are heads of the thousands of Israel, shall gather themselves unto thee.",
-        "ron": "De se va trâmbiţa numai din una, se vor aduna la tine toate căpeteniile cele mai mari ale lui Israel."
+        "ron": "De se va trâmbiţa numai din una, se vor aduna la tine toate căpeteniile cele mai mari ale lui Israel.",
+        "grk": "Ἐὰν δὲ ἐν μιᾷ σαλπίσωσι, προσελεύσονται πρὸς σὲ πάντες οἱ ἄρχοντες ἀρχηγοὶ Ἰσραήλ."
       }
     },
     {
@@ -294,7 +298,8 @@
       "translations": {
         "lxx": "And ye shall sound an alarm, and the camps pitched eastward shall begin to move.",
         "kjv": "When ye blow an alarm, then the camps that lie on the east parts shall go forward.",
-        "ron": "Când veţi însoţi sunetele cu strigăte, se vor ridica taberele cele dinspre răsărit."
+        "ron": "Când veţi însoţi sunetele cu strigăte, se vor ridica taberele cele dinspre răsărit.",
+        "grk": "καὶ σαλπιεῖτε σημασίαν, καὶ ἐξαροῦσιν αἱ παρεμβάλλουσαι αἱ παρεμβαλοῦσαι ἀνατολάς·"
       }
     },
     {
@@ -451,7 +456,8 @@
       "translations": {
         "lxx": "And ye shall sound a second alarm, and the camps pitched southward shall move; and ye shall sound a third alarm, and the camps pitched westward shall move forward; and ye shall sound a fourth alarm, and they that encamp toward the north shall move forward: they shall sound an alarm at their departure.",
         "kjv": "When ye blow an alarm the second time, then the camps that lie on the south side shall take their journey: they shall blow an alarm for their journeys.",
-        "ron": "Când veţi însoţi a doua oară sunetele cu strigăte, se vor ridica taberele cele dinspre miazăzi. Când veţi însoţi a treia oară sunetele cu strigăte, se vor ridica taberele cele dinspre mare. Când veţi însoţi a patra oară sunetele cu strigăte, se vor ridica taberele cele dinspre miazănoapte. Să însoţiţi sunetele cu strigăte numai pentru plecare."
+        "ron": "Când veţi însoţi a doua oară sunetele cu strigăte, se vor ridica taberele cele dinspre miazăzi. Când veţi însoţi a treia oară sunetele cu strigăte, se vor ridica taberele cele dinspre mare. Când veţi însoţi a patra oară sunetele cu strigăte, se vor ridica taberele cele dinspre miazănoapte. Să însoţiţi sunetele cu strigăte numai pentru plecare.",
+        "grk": "καὶ σαλπιεῖτε σημασίαν δευτέραν, καὶ ἐξαροῦσιν αἱ παρεμβολαὶ αἱ παρεμβάλλουσαι Λίβα· καὶ σαλπιεῖτε σημασίαν τρίτην, καὶ ἐξαροῦσιν αἱ παρεμβολαὶ αἱ παρεμβάλλουσαι παρὰ θάλασσαν· καὶ σαλπιεῖτε σημασίαν τετάρτην, καὶ ἐξαροῦσιν αἱ παρεμβολαὶ αἱ παρεμβάλλουσαι πρὸς Βοῤῥᾶν· σημασίᾳ σαλπιοῦσιν ἐν τῇ ἐξάρσει αὐτῶν."
       }
     },
     {
@@ -493,7 +499,8 @@
       "translations": {
         "lxx": "And whenever ye shall gather the assembly, ye shall sound, but not an alarm.",
         "kjv": "But when the congregation is to be gathered together, ye shall blow, but ye shall not sound an alarm.",
-        "ron": "Iar când chemaţi adunarea, să sunaţi, dar să nu însoţiţi sunetele cu strigăte."
+        "ron": "Iar când chemaţi adunarea, să sunaţi, dar să nu însoţiţi sunetele cu strigăte.",
+        "grk": "καὶ ὅταν συναγάγητε τὴν συναγωγὴν, σαλπιεῖτε, καὶ οὐ σημασίᾳ."
       }
     },
     {
@@ -555,7 +562,8 @@
       "translations": {
         "lxx": "And the priests the sons of Aaron shall sound with the trumpets; and it shall be a perpetual ordinance for you throughout your generations.",
         "kjv": "And the sons of Aaron, the priests, shall blow with the trumpets; and they shall be to you for an ordinance for ever throughout your generations.",
-        "ron": "Din trâmbiţe vor suna preoţii, fiii lui Aaron: aceasta-i pentru voi lege veşnică din neam în neam."
+        "ron": "Din trâmbiţe vor suna preoţii, fiii lui Aaron: aceasta-i pentru voi lege veşnică din neam în neam.",
+        "grk": "Καὶ οἱ υἱοὶ Ἀαρὼν οἱ ἱερεῖς σαλπιοῦσι ταῖς σάλπιγξι· καὶ ἔσται ὑμῖν νόμιμον αἰώνιον εἰς τὰς γενεὰς ὑμῶν."
       }
     },
     {
@@ -647,7 +655,8 @@
       "translations": {
         "lxx": "And if ye shall go forth to war in your land against your enemies that are opposed to you, then shall ye sound with the trumpets; and ye shall be had in remembrance before the Lord, and ye shall be saved from your enemies.",
         "kjv": "And if ye go to war in your land against the enemy that oppresseth you, then ye shall blow an alarm with the trumpets; and ye shall be remembered before the LORD your God, and ye shall be saved from your enemies.",
-        "ron": "Când veţi merge la război, în pământul vostru, împotriva vrăjmaşilor care năvălesc asupra voastră, însoţiţi sunetele de trâmbiţă cu strigăte şi veţi fi pomeniţi înaintea Domnului Dumnezeului vostru şi veţi fi izbăviţi de vrăjmaşii voştri."
+        "ron": "Când veţi merge la război, în pământul vostru, împotriva vrăjmaşilor care năvălesc asupra voastră, însoţiţi sunetele de trâmbiţă cu strigăte şi veţi fi pomeniţi înaintea Domnului Dumnezeului vostru şi veţi fi izbăviţi de vrăjmaşii voştri.",
+        "grk": "Ἐὰν δὲ ἐξέλθητε εἰς πόλεμον ἐν τῇ γῇ ὑμῶν πρὸς τοὺς ὑπεναντίους τοὺς ἀνθεστηκότας ὑμῖ, καὶ σημανεῖτε ταῖς σάλπιγξιν, καὶ ἀναμνησθήσεσθε ἔναντι Κυρίου, καὶ διασωθήσεσθε ἀπὸ τῶν ἐχθρῶν ὑμῶν."
       }
     },
     {
@@ -749,7 +758,8 @@
       "translations": {
         "lxx": "And in the days of your gladness, and in your feasts, and in your new moons, ye shall sound with the trumpets at your whole-burnt-offerings, and at the sacrifices of your peace-offerings; and there shall be a memorial for you before your God: I am the Lord your God.",
         "kjv": "Also in the day of your gladness, and in your solemn days, and in the beginnings of your months, ye shall blow with the trumpets over your burnt offerings, and over the sacrifices of your peace offerings; that they may be to you for a memorial before your God: I am the LORD your God.",
-        "ron": "În ziua voastră de bucurie, la sărbătorile voastre şi la lunile noi ale voastre, să trâmbiţaţi din trâmbiţe la arderile de tot ale voastre şi la jertfele voastre de împăcare şi prin aceasta veţi fi pomeniţi înaintea Dumnezeului vostru. Eu sunt Domnul Dumnezeul vostru\"."
+        "ron": "În ziua voastră de bucurie, la sărbătorile voastre şi la lunile noi ale voastre, să trâmbiţaţi din trâmbiţe la arderile de tot ale voastre şi la jertfele voastre de împăcare şi prin aceasta veţi fi pomeniţi înaintea Dumnezeului vostru. Eu sunt Domnul Dumnezeul vostru\".",
+        "grk": "Καὶ ἐν ταῖς ἡμέραις τῆς εὐφροσύνης ὑμῶν, καὶ ἐν ταῖς ἑορταῖς ὑμῶν, καὶ ἐν ταῖς νουμηνίαις ὑμῶν, σαλπιεῖτε ταῖς σάλπιγξιν ἐπὶ τοῖς ὁλοκαυτώμασι, καὶ ἐπὶ ταῖς θυσίαις τῶν σωτηρίων ὑμῶν· καὶ ἔσται ὑμῖν ἀνάμνησις ἔναντι τοῦ Θεοῦ ὑμῶν· ἐγὼ Κύριος ὁ Θεὸς ὑμῶν."
       }
     },
     {
@@ -826,7 +836,8 @@
       "translations": {
         "lxx": "And it came to pass in the second year, in the second month, on the twentieth day of the month, the cloud went up from the tabernacle of witness.",
         "kjv": "And it came to pass on the twentieth day of the second month, in the second year, that the cloud was taken up from off the tabernacle of the testimony.",
-        "ron": "În anul al doilea, în luna a doua, în douăzeci ale lunii, s-a ridicat norul de deasupra cortului adunării;"
+        "ron": "În anul al doilea, în luna a doua, în douăzeci ale lunii, s-a ridicat norul de deasupra cortului adunării;",
+        "grk": "Καὶ ἐγένετο ἐν τῷ ἐνιαυτῷ τῷ δευτέρῳ ἐν τῷ μηνὶ τῷ δευτέρῳ εἰκάδι τοῦ μηνὸς, ἀνέβη ἡ νεφέλη ἀπὸ τῆς σκηνῆς τοῦ μαρτυρίου."
       }
     },
     {
@@ -903,7 +914,8 @@
       "translations": {
         "lxx": "And the children of Israel set forward with their baggage in the wilderness of Sina; and the cloud rested in the wilderness of Pharan.",
         "kjv": "And the children of Israel took their journeys out of the wilderness of Sinai; and the cloud rested in the wilderness of Paran.",
-        "ron": "Şi au plecat fiii lui Israel din pustiul Sinai după taberele lor şi s-a oprit norul în pustiul Paran."
+        "ron": "Şi au plecat fiii lui Israel din pustiul Sinai după taberele lor şi s-a oprit norul în pustiul Paran.",
+        "grk": "καὶ ἐξῇραν οἱ υἱοὶ Ἰσραὴλ σὺν ἀπαρτίαις αὐτῶν ἐν τῇ ἐρήμῳ Σινᾶ· καὶ ἔστη ἡ νεφέλη ἐν τῇ ἐρήμῳ τοῦ Φαράν."
       }
     },
     {
@@ -950,7 +962,8 @@
       "translations": {
         "lxx": "And the first rank departed by the word of the Lord by the hand of Moses.",
         "kjv": "And they first took their journey according to the commandment of the LORD by the hand of Moses.",
-        "ron": "Aceasta a fost întâia plecare, după porunca lui Dumnezeu, dată prin Moise."
+        "ron": "Aceasta a fost întâia plecare, după porunca lui Dumnezeu, dată prin Moise.",
+        "grk": "Καὶ ἐξῆραν πρῶτοι διὰ φωνῆς Κυρίου ἐν χειρὶ Μωυσῆ."
       }
     },
     {
@@ -1027,7 +1040,8 @@
       "translations": {
         "lxx": "And they first set in motion the order of the camp of the children of Juda with their host; and over their host was Naasson, son of Aminadab.",
         "kjv": "In the first place went the standard of the camp of the children of Judah according to their armies: and over his host was Nahshon the son of Amminadab.",
-        "ron": "Întâi s-a ridicat steagul taberei fiilor lui Iuda cu cetele lor şi peste cetele lor era Naason, fiul lui Aminadab."
+        "ron": "Întâi s-a ridicat steagul taberei fiilor lui Iuda cu cetele lor şi peste cetele lor era Naason, fiul lui Aminadab.",
+        "grk": "Καὶ ἐξῇραν τάγμα παρεμβολῆς υἱῶν Ἰούδα πρῶτοι σὺν δυνάμει αὐτῶν· καὶ ἐπὶ τῆς δυνάμεως αὐτῶν, Ναασσὼν υἱὸς Ἀμιναδάβ."
       }
     },
     {
@@ -1079,7 +1093,8 @@
       "translations": {
         "lxx": "And over the host of the tribe of the sons of Issachar, was Nathanael son of Sogar.",
         "kjv": "And over the host of the tribe of the children of Issachar was Nethaneel the son of Zuar.",
-        "ron": "Peste cetele seminţiei lui Isahar era Natanael, fiul lui Ţuar;"
+        "ron": "Peste cetele seminţiei lui Isahar era Natanael, fiul lui Ţuar;",
+        "grk": "καὶ ἐπὶ τῆς δυνάμεως φυλῆς υἱῶν Ἰσσάχαρ, Ναθαναὴλ υἱὸς Σωγάρ."
       }
     },
     {
@@ -1131,7 +1146,8 @@
       "translations": {
         "lxx": "And over the host of the tribe of the sons of Zabulon, was Eliab the son of Chælon.",
         "kjv": "And over the host of the tribe of the children of Zebulun was Eliab the son of Helon.",
-        "ron": "Iar peste cetele seminţiei fiilor lui Zabulon era Eliab, fiul lui Helon."
+        "ron": "Iar peste cetele seminţiei fiilor lui Zabulon era Eliab, fiul lui Helon.",
+        "grk": "καὶ ἐπὶ τῆς δυνάμεως φυλῆς υἱῶν Ζαβουλὼν, Ἐλιὰβ, υἱὸς Χαιλών."
       }
     },
     {
@@ -1188,7 +1204,8 @@
       "translations": {
         "lxx": "And they shall take down the tabernacle, and the sons of Gedson shall set forward, and the sons of Merari, who bear the tabernacle.",
         "kjv": "And the tabernacle was taken down; and the sons of Gershon and the sons of Merari set forward, bearing the tabernacle.",
-        "ron": "Apoi s-a ridicat cortul şi au plecat fiii lui Gherşon şi fiii lui Merari, care duceau cortul."
+        "ron": "Apoi s-a ridicat cortul şi au plecat fiii lui Gherşon şi fiii lui Merari, care duceau cortul.",
+        "grk": "Καὶ καθελοῦσι τὴν σκηνὴν, καὶ ἐξαροῦσιν οἱ υἱοὶ Γεδσὼν, καὶ οἱ υἱοὶ Μεραρὶ, οἱ αἴροντες τὴν σκηνήν."
       }
     },
     {
@@ -1255,7 +1272,8 @@
       "translations": {
         "lxx": "And the order of the camp of Ruben set forward with their host; and over their host was Elisur the son of Sediur.",
         "kjv": "And the standard of the camp of Reuben set forward according to their armies: and over his host was Elizur the son of Shedeur.",
-        "ron": "După aceea s-a ridicat steagul taberei lui Ruben cu cetele sale; peste cetele lui era Eliţur, fiul lui Şedeur;"
+        "ron": "După aceea s-a ridicat steagul taberei lui Ruben cu cetele sale; peste cetele lui era Eliţur, fiul lui Şedeur;",
+        "grk": "Καὶ ἐξῇραν τάγμα παρεμβολῆς Ῥουβὴν σὺν δυνάμει αὐτῶν· καὶ ἐπὶ τῆς δυνάμεως αὐτῶν, Ἐλισοὺρ υἱὸς Σεδιούρ·"
       }
     },
     {
@@ -1307,7 +1325,8 @@
       "translations": {
         "lxx": "And over the host of the tribe of the sons of Symeon, was Salamiel son of Surisadai.",
         "kjv": "And over the host of the tribe of the children of Simeon was Shelumiel the son of Zurishaddai.",
-        "ron": "Peste cetele seminţiei lui Simeon era Şelumiel, fiul lui Ţurişadai;"
+        "ron": "Peste cetele seminţiei lui Simeon era Şelumiel, fiul lui Ţurişadai;",
+        "grk": "Καὶ ἐπὶ τῆς δυνάμεως φυλῆς υἱῶν Συμεὼν, Σαλαμιὴλ υἱὸς Σουρισαδαΐ."
       }
     },
     {
@@ -1359,7 +1378,8 @@
       "translations": {
         "lxx": "And over the host of the tribe of the children of Gad, was Elisaph the son of Raguel.",
         "kjv": "And over the host of the tribe of the children of Gad was Eliasaph the son of Deuel.",
-        "ron": "Iar peste cetele seminţiei fiilor lui Gad era Eliasaf, fiul lui Raguel."
+        "ron": "Iar peste cetele seminţiei fiilor lui Gad era Eliasaf, fiul lui Raguel.",
+        "grk": "Καὶ ἐπὶ τῆς δυνάμεως φυλῆς υἱῶν Γὰδ, Ἐλισὰφ ὁ τοῦ Ῥαγουήλ."
       }
     },
     {
@@ -1416,7 +1436,8 @@
       "translations": {
         "lxx": "And the sons of Caath shall set forward bearing the holy things, and the others shall set up the tabernacle until they arrive.",
         "kjv": "And the Kohathites set forward, bearing the sanctuary: and the other did set up the tabernacle against they came.",
-        "ron": "După aceea au plecat fiii lui Cahat, care duceau lucrurile sfinte, căci cortul trebuia să fie aşezat înainte de sosirea lor."
+        "ron": "După aceea au plecat fiii lui Cahat, care duceau lucrurile sfinte, căci cortul trebuia să fie aşezat înainte de sosirea lor.",
+        "grk": "Καὶ ἐξαροῦσιν οἱ υἱοὶ Καὰθ αἴροντες τὰ ἅγια· καὶ στήσουσι τὴν σκηνὴν ἕως παραγένωνται."
       }
     },
     {
@@ -1483,7 +1504,8 @@
       "translations": {
         "lxx": "And the order of the camp of Ephraim shall set forward with their forces; and over their forces was Elisama the son of Semiud.",
         "kjv": "And the standard of the camp of the children of Ephraim set forward according to their armies: and over his host was Elishama the son of Ammihud.",
-        "ron": "Apoi s-a ridicat steagul taberei fiilor lui Efraim cu cetele lor; peste cetele lui era Elişama, fiul lui Amihud."
+        "ron": "Apoi s-a ridicat steagul taberei fiilor lui Efraim cu cetele lor; peste cetele lui era Elişama, fiul lui Amihud.",
+        "grk": "Καὶ ἐξαροῦσι τάγμα παρεμβολῆς Ἐφραὶμ σὺν δυνάμει αὐτῶν· καὶ ἐπὶ τῆς δυνάμεως αὐτῶν, Ἐλισαμὰ υἱὸς Σμιούδ."
       }
     },
     {
@@ -1535,7 +1557,8 @@
       "translations": {
         "lxx": "And over the forces of the tribe of the sons of Manasse, was Gamaliel the son of Phadassur.",
         "kjv": "And over the host of the tribe of the children of Manasseh was Gamaliel the son of Pedahzur.",
-        "ron": "Peste cetele fiilor seminţiei lui Manase era Gamaliel, fiul lui Pedaţur;"
+        "ron": "Peste cetele fiilor seminţiei lui Manase era Gamaliel, fiul lui Pedaţur;",
+        "grk": "Καὶ ἐπὶ τῆς δυνάμεως φυλῆς υἱῶν Μανασσῆ, Γαμαλιὴλ ὁ τοῦ Φαδασσούρ."
       }
     },
     {
@@ -1587,7 +1610,8 @@
       "translations": {
         "lxx": "And over the forces of the tribe of the children of Benjamin, was Abidan the son of Gadeoni.",
         "kjv": "And over the host of the tribe of the children of Benjamin was Abidan the son of Gideoni.",
-        "ron": "Iar peste cetele fiilor seminţiei lui Veniamin era Abidan, fiul lui Ghedeon."
+        "ron": "Iar peste cetele fiilor seminţiei lui Veniamin era Abidan, fiul lui Ghedeon.",
+        "grk": "Καὶ ἐπὶ τῆς δυνάμεως φυλῆς υἱῶν Βενιαμὶν, Ἀβιδὰν ὁ τοῦ Γαδεωνί."
       }
     },
     {
@@ -1674,7 +1698,8 @@
       "translations": {
         "lxx": "And the order of the camp of the sons of Dan shall set forward the last of all the camps, with their forces: and over their forces was Achiezer the son of Amisadai.",
         "kjv": "And the standard of the camp of the children of Dan set forward, which was the rereward of all the camps throughout their hosts: and over his host was Ahiezer the son of Ammishaddai.",
-        "ron": "După toate taberele, cel din urmă a fost ridicat steagul taberei fiilor lui Dan cu cetele sale; peste cetele lui era Ahiezer, fiul lui Amişadai;"
+        "ron": "După toate taberele, cel din urmă a fost ridicat steagul taberei fiilor lui Dan cu cetele sale; peste cetele lui era Ahiezer, fiul lui Amişadai;",
+        "grk": "Καὶ ἐξαροῦσι τάγμα παρεμβολῆς υἱῶν Δὰν, ἔσχατοι πασῶν τῶν παρεμβολῶν, σὺν δυνάμει αὐτῶν· καὶ ἐπὶ τῆς δυνάμεως αὐτῶν, Ἀχιέζερ ὁ τοῦ Ἀμισαδαΐ."
       }
     },
     {
@@ -1726,7 +1751,8 @@
       "translations": {
         "lxx": "And over the forces of the tribe of the sons of Aser, was Phageel the son of Echran.",
         "kjv": "And over the host of the tribe of the children of Asher was Pagiel the son of Ocran.",
-        "ron": "Peste cetele seminţiei fiilor lui Aşer era Paghiel, fiul lui Ocran;"
+        "ron": "Peste cetele seminţiei fiilor lui Aşer era Paghiel, fiul lui Ocran;",
+        "grk": "Καὶ ἐπὶ τῆς δυνάμεως φυλῆς υἱῶν Ἀσὴρ, Φαγεὴλ υἱὸς Ἐχράν."
       }
     },
     {
@@ -1778,7 +1804,8 @@
       "translations": {
         "lxx": "And over the forces of the tribe of the sons of Nephthali, was Achire the son of Ænan.",
         "kjv": "And over the host of the tribe of the children of Naphtali was Ahira the son of Enan.",
-        "ron": "Iar peste cetele seminţiei fiilor lui Neftali era Ahira, fiul lui Enan."
+        "ron": "Iar peste cetele seminţiei fiilor lui Neftali era Ahira, fiul lui Enan.",
+        "grk": "Καὶ ἐπὶ τῆς δυνάμεως φυλῆς υἱῶν Νεφθαλὶ, Ἀχιρὲ υἱὸς Αἰνάν."
       }
     },
     {
@@ -1830,7 +1857,8 @@
       "translations": {
         "lxx": "These are the armies of the children of Israel; and they set forward with their forces.",
         "kjv": "Thus were the journeyings of the children of Israel according to their armies, when they set forward.",
-        "ron": "Aceasta era rânduiala în care mergeau fiii lui Israel cu taberele lor. Şi aşa au plecat."
+        "ron": "Aceasta era rânduiala în care mergeau fiii lui Israel cu taberele lor. Şi aşa au plecat.",
+        "grk": "Αὗται αἱ στρατιαὶ υἱῶν Ἰσραήλ· καὶ ἐξῇραν σὺν δυνάμει αὐτῶν."
       }
     },
     {
@@ -1982,7 +2010,8 @@
       "translations": {
         "lxx": "And Moses said to Obab the son of Raguel the Madianite, the father-in-law of Moses, We are going forward to the place concerning which the Lord said, This will I give to you: Come with us, and we will do thee good, for the Lord has spoken good concerning Israel.",
         "kjv": "And Moses said unto Hobab, the son of Raguel the Midianite, Moses’ father in law, We are journeying unto the place of which the LORD said, I will give it you: come thou with us, and we will do thee good: for the LORD hath spoken good concerning Israel.",
-        "ron": "Atunci a zis Moise către Hobab fiul lui Raguel, madianitul, socrul lui Moise: \"Noi plecăm la locul acela, de care a zis Domnul: Vouă vi-l voi da. Hai cu noi şi-ţi vom face bine, căci Domnul a grăit bine de Israel\"."
+        "ron": "Atunci a zis Moise către Hobab fiul lui Raguel, madianitul, socrul lui Moise: \"Noi plecăm la locul acela, de care a zis Domnul: Vouă vi-l voi da. Hai cu noi şi-ţi vom face bine, căci Domnul a grăit bine de Israel\".",
+        "grk": "Καὶ εἶπε Μωυσῆς τῷ Ὀβὰβ υἱῷ Ῥαγουὴλ τῷ Μαδιανίτῃ τῷ γαμβρῷ Μωυσῆ, ἐξαίρομεν ἡμεῖς εἰς τὸν τόπον ὃν εἶπε Κύριος, τοῦτον δώσω ὑμῖν· δεῦρο μεθʼ ἡμῶν, καὶ εὖ σε ποιήσομεν, ὅτι Κύριος ἐλάλησε καλὰ περὶ Ἰσραήλ."
       }
     },
     {
@@ -2034,7 +2063,8 @@
       "translations": {
         "lxx": "And he said to him, I will not go, but I will go to my land and to my kindred.",
         "kjv": "And he said unto him, I will not go; but I will depart to mine own land, and to my kindred.",
-        "ron": "Acela însă a zis către el: \"Nu merg, ci mă duc în ţara mea şi la neamul meu\"."
+        "ron": "Acela însă a zis către el: \"Nu merg, ci mă duc în ţara mea şi la neamul meu\".",
+        "grk": "Καὶ εἶπε πρὸς αὐτόν, οὐ πορεύσομαι, ἀλλὰ εἰς τὴν γῆν μου, καὶ εἰς τὴν γενεάν μου."
       }
     },
     {
@@ -2091,7 +2121,8 @@
       "translations": {
         "lxx": "And he said, Leave us not, because thou hast been with us in the wilderness, and thou shalt be an elder among us.",
         "kjv": "And he said, Leave us not, I pray thee; forasmuch as thou knowest how we are to encamp in the wilderness, and thou mayest be to us instead of eyes.",
-        "ron": "Dar Moise a zis: \"Nu ne părăsi, pentru că tu ştii cum ne aşezăm noi taberele în pustie şi vei fi ochiul nostru."
+        "ron": "Dar Moise a zis: \"Nu ne părăsi, pentru că tu ştii cum ne aşezăm noi taberele în pustie şi vei fi ochiul nostru.",
+        "grk": "Καὶ εἶπε, μὴ ἐγκαταλίπῃς ἡμᾶς, οὗ ἕνεκεν ἦσθα μεθʼ ἡμῶν ἐν τῇ ἐρήμῳ, καὶ ἔσῃ ἐν ἡμῖν πρεσβύτης."
       }
     },
     {
@@ -2173,7 +2204,8 @@
       "translations": {
         "lxx": "And it shall come to pass if thou wilt go with us, it shall even come to pass that in whatsoever things the Lord shall do us good, we will also do thee good.",
         "kjv": "And it shall be, if thou go with us, yea, it shall be, that what goodness the LORD shall do unto us, the same will we do unto thee.",
-        "ron": "Dacă mergi cu noi, binele ce ni-l va face Domnul, îl vom face şi noi ţie\"."
+        "ron": "Dacă mergi cu noi, binele ce ni-l va face Domnul, îl vom face şi noi ţie\".",
+        "grk": "Καὶ ἔσται ἐὰν πορευθῇς μεθʼ ἡμῶν, καὶ ἔσται τὰ ἀγαθὰ ἐκεῖνα ὅσα ἂν ἀγαθοποιήσῃ Κύριος ἡμᾶς, καὶ εὖ σε ποιήσομεν."
       }
     },
     {
@@ -2285,7 +2317,8 @@
       "translations": {
         "lxx": "And they departed from the mount of the Lord a three days' journey; and the ark of the covenant of the Lord went before them a three days' journey to provide rest for them.",
         "kjv": "And they departed from the mount of the LORD three days’ journey: and the ark of the covenant of the LORD went before them in the three days’ journey, to search out a resting place for them.",
-        "ron": "Plecând ei de la muntele Domnului, au mers trei zile; iar chivotul legii Domnului a mers înaintea lor cale de trei zile, ca să aleagă pentru ei loc de odihnă."
+        "ron": "Plecând ei de la muntele Domnului, au mers trei zile; iar chivotul legii Domnului a mers înaintea lor cale de trei zile, ca să aleagă pentru ei loc de odihnă.",
+        "grk": "Καὶ ἐξῇραν ἐκ τοῦ ὄρους Κυρίου ὁδὸν τριῶν ἡμερῶν· καὶ ἡ κιβωτὸς τῆς διαθήκης Κυρίου προεπορεύετο προτέρα αὐτῶν ὁδὸν τριῶν ἡμερῶν κατασκέψασθαι αὐτοῖς ἀνάπαυσιν."
       }
     },
     {
@@ -2367,7 +2400,8 @@
       "translations": {
         "lxx": "And it came to pass when the ark set forward, that Moses said, Arise, O Lord, and let thine enemies be scattered: let all that hate thee flee.",
         "kjv": "And the cloud of the LORD was upon them by day, when they went out of the camp.",
-        "ron": "Norul Domnului îi umbrea ziua, când plecau de la popas."
+        "ron": "Norul Domnului îi umbrea ziua, când plecau de la popas.",
+        "grk": "Καὶ ἐγένετο ἐν τῷ ἐξαίρειν τὴν κιβωτὸν, καὶ εἶπε Μωυσῆς, ἐξεγέρθητι Κύριε, καὶ διασκορπισθήτωσαν οἱ ἐχθροί σου, φυγέτωσαν πάντες οἱ μισοῦντές σε."
       }
     },
     {
@@ -2419,7 +2453,8 @@
       "translations": {
         "lxx": "And in the resting he said, Turn again, O Lord, the thousands and tens of thousands in Israel.",
         "kjv": "And it came to pass, when the ark set forward, that Moses said, Rise up, LORD, and let thine enemies be scattered; and let them that hate thee flee before thee.",
-        "ron": "Când se ridica chivotul, ca să plece la drum, Moise zicea: \"Scoală, Doamne, şi să se risipească vrăjmaşii Tăi şi să fugă de la faţa Ta cei ce Te urăsc pe Tine!\""
+        "ron": "Când se ridica chivotul, ca să plece la drum, Moise zicea: \"Scoală, Doamne, şi să se risipească vrăjmaşii Tăi şi să fugă de la faţa Ta cei ce Te urăsc pe Tine!\"",
+        "grk": "Καὶ ἐν τῇ καταπαύσει εἶπεν, ἐπίστρεφε Κύριε χιλιάδας μυριάδας ἐν τῷ Ἰσραήλ."
       }
     },
     {
@@ -2471,7 +2506,8 @@
       "translations": {
         "lxx": "And the cloud overshadowed them by day, when they departed from the camp.",
         "kjv": "And when it rested, he said, Return, O LORD, unto the many thousands of Israel.",
-        "ron": "Iar când se oprea chivotul, el zicea: \"Întoarce-Te, Doamne, la miile şi zecile de mii ale lui Israel!\""
+        "ron": "Iar când se oprea chivotul, el zicea: \"Întoarce-Te, Doamne, la miile şi zecile de mii ale lui Israel!\"",
+        "grk": "Καὶ ἡ νεφέλη ἐγένετο σκιάζουσα ἐπʼ αὐτοῖς ἡμέρας, ἐν τῷ ἐξαίρειν αὐτοὺς ἐκ τῆς παρεμβολῆς."
       }
     }
   ],

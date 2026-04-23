@@ -51,7 +51,8 @@
       "translations": {
         "lxx": "And Abraam was old, advanced in days, and the Lord blessed Abraam in all things.",
         "kjv": "And Abraham was old, and well stricken in age: and the LORD had blessed Abraham in all things.",
-        "ron": "Avraam era acum bătrân şi vechi de zile şi Domnul binecuvântase pe Avraam cu de toate."
+        "ron": "Avraam era acum bătrân şi vechi de zile şi Domnul binecuvântase pe Avraam cu de toate.",
+        "grk": "Καὶ Ἁβραὰμ ἦν πρεσβύτερος προβεβηκὼς ἡμερῶν· καὶ Κύριος ηὐλόγησε τὸν Ἁβραὰμ κατὰ πάντα."
       }
     },
     {
@@ -128,7 +129,8 @@
       "translations": {
         "lxx": "And Abraam said to his servant the elder of his house, who had rule over all his possessions, Put thy hand under my thigh,",
         "kjv": "And Abraham said unto his eldest servant of his house, that ruled over all that he had, Put, I pray thee, thy hand under my thigh:",
-        "ron": "Atunci a zis Avraam către sluga cea mai bătrână din casa sa, care cârmuia toate câte avea: \"Pune mâna ta sub coapsa mea"
+        "ron": "Atunci a zis Avraam către sluga cea mai bătrână din casa sa, care cârmuia toate câte avea: \"Pune mâna ta sub coapsa mea",
+        "grk": "Καὶ εἶπεν Ἁβραὰμ τῷ παιδὶ αὐτοῦ τῷ πρεσβυτέρῳ τῆς οἰκίας αὐτοῦ, τῷ ἄρχοντι πάντων τῶν αὐτοῦ, θὲς τὴν χεῖρά σου ὑπὸ τὸν μηρόν μου."
       }
     },
     {
@@ -220,7 +222,8 @@
       "translations": {
         "lxx": "and I will adjure thee by the Lord the God of heaven, and the God of the earth, that thou take not a wife for my son Isaac from the daughters of the Chananites, with whom I dwell, in the midst of them.",
         "kjv": "And I will make thee swear by the LORD, the God of heaven, and the God of the earth, that thou shalt not take a wife unto my son of the daughters of the Canaanites, among whom I dwell:",
-        "ron": "Şi jură-mi pe Domnul Dumnezeul cerului şi pe Dumnezeul pământului că fiului meu Isaac nu-i vei lua femeie din fetele Canaaneilor, în mijlocul cărora locuiesc eu,"
+        "ron": "Şi jură-mi pe Domnul Dumnezeul cerului şi pe Dumnezeul pământului că fiului meu Isaac nu-i vei lua femeie din fetele Canaaneilor, în mijlocul cărora locuiesc eu,",
+        "grk": "Καὶ ἐξορκιῶ σε Κύριον τὸν Θεὸν τοῦ οὐρανοῦ καὶ τὸν Θεὸν τῆς γῆς, ἵνα μὴ λάβῃς γυναῖκα τῷ υἱῷ μου Ἰσαὰκ ἀπὸ τῶν θυγατέρων τῶν Χαναναίων, μεθʼ ὧν ἐγὼ οἰκῶ ἐν αὐτοις."
       }
     },
     {
@@ -282,7 +285,8 @@
       "translations": {
         "lxx": "But thou shalt go instead to my country, where I was born, and to my tribe, and thou shalt take from thence a wife for my son Isaac.",
         "kjv": "But thou shalt go unto my country, and to my kindred, and take a wife unto my son Isaac.",
-        "ron": "Ci vei merge în ţara mea, unde m-am născut eu, la rudele mele, şi vei lua de acolo femeie lui Isaac, fiul meu\"."
+        "ron": "Ci vei merge în ţara mea, unde m-am născut eu, la rudele mele, şi vei lua de acolo femeie lui Isaac, fiul meu\".",
+        "grk": "Ἀλλʼ ἢ εἰς τὴν γῆν μου, οὗ ἐγεννήθην, πορεύσῃ, καὶ εἰς τὴν φυλήν μου, καὶ λήψῃ γυναῖκα τῷ υἱῷ μου Ἰσαὰκ ἐκεῖθεν."
       }
     },
     {
@@ -379,7 +383,8 @@
       "translations": {
         "lxx": "And the servant said to him, Shall I carry back thy son to the land whence thou camest forth, if haply the woman should not be willing to return with me to this land?",
         "kjv": "And the servant said unto him, Peradventure the woman will not be willing to follow me unto this land: must I needs bring thy son again unto the land from whence thou camest?",
-        "ron": "Iar sluga a zis către el: \"Dar poate nu va vrea femeia să vină cu mine în pământul acesta; întoarce-voi, oare, pe fiul tău în pământul de unde ai ieşit?\""
+        "ron": "Iar sluga a zis către el: \"Dar poate nu va vrea femeia să vină cu mine în pământul acesta; întoarce-voi, oare, pe fiul tău în pământul de unde ai ieşit?\"",
+        "grk": "Εἶπε δὲ πρὸς αὐτὸν ὁ παῖς, μή ποτε οὐ βούληται ἡ γυνὴ πορευθῆναι μετʼ ἐμοῦ ὀπίσω εἰς τὴν γῆν ταύτην, ἀποστρέψω τὸν υἱόν σου εἰς τὴν γῆν, ὅθεν ἐξῆλθες ἐκεῖθεν;"
       }
     },
     {
@@ -431,7 +436,8 @@
       "translations": {
         "lxx": "And Abraam said to him, Take heed to thyself that thou carry not my son back thither.",
         "kjv": "And Abraham said unto him, Beware thou that thou bring not my son thither again.",
-        "ron": "Avraam însă a zis către el: \"Ia seama să nu întorci pe fiul meu acolo!"
+        "ron": "Avraam însă a zis către el: \"Ia seama să nu întorci pe fiul meu acolo!",
+        "grk": "Εἶπε δὲ πρὸς αὐτὸν Ἁβραάμ, πρόσεχε σεαυτῷ μὴ ἀποστρέψῃς τὸν υἱόν μου ἐκεῖ."
       }
     },
     {
@@ -588,7 +594,8 @@
       "translations": {
         "lxx": "The Lord the God of heaven, and the God of the earth, who took me out of my father's house, and out of the land whence I sprang, who spoke to me, and who swore to me, saying, I will give this land to thee and to thy seed, he shall send his angel before thee, and thou shalt take a wife to my son from thence.",
         "kjv": "The LORD God of heaven, which took me from my father’s house, and from the land of my kindred, and which spake unto me, and that sware unto me, saying, Unto thy seed will I give this land; he shall send his angel before thee, and thou shalt take a wife unto my son from thence.",
-        "ron": "Domnul Dumnezeul cerului şi Dumnezeul pământului, Cel ce m-a luat din casa tatălui meu şi din pământul în care m-am născut, Care mi-a grăit şi Care mi S-a jurat, zicând: ţie-ţi voi da pământul acesta şi urmaşilor tăi, Acela va trimite pe îngerul Său înaintea ta şi vei lua femeie feciorului meu de acolo."
+        "ron": "Domnul Dumnezeul cerului şi Dumnezeul pământului, Cel ce m-a luat din casa tatălui meu şi din pământul în care m-am născut, Care mi-a grăit şi Care mi S-a jurat, zicând: ţie-ţi voi da pământul acesta şi urmaşilor tăi, Acela va trimite pe îngerul Său înaintea ta şi vei lua femeie feciorului meu de acolo.",
+        "grk": "Κύριος ὁ Θεὸς τοῦ οὐρανοῦ καὶ ὁ Θεὸς τῆς γῆς, ὃς ἔλαβέ με ἐκ τοῦ οἴκου τοῦ πατρός μου, καἰ ἐκ τῆς γῆς ἧς ἐγεννήθην, ὃς ἐλάλησέ μοι, καὶ ὃς ὤμοσέ μοι, λέγων, σοὶ δώσω τὴν γῆν ταύτην καὶ τῷ σπέρματί σου, αὐτὸς ἀποστελεῖ τὸν Ἄγγελον αὐτοῦ ἔμπροσθέν σου, καὶ λήψῃ γυναῖκα τῷ υἱῷ μου ἐκεῖθεν."
       }
     },
     {
@@ -700,7 +707,8 @@
       "translations": {
         "lxx": "And if the woman should not be willing to come with thee into this land, thou shalt be clear from my oath, only carry not my son thither again.",
         "kjv": "And if the woman will not be willing to follow thee, then thou shalt be clear from this my oath: only bring not my son thither again.",
-        "ron": "Iar de nu va voi femeia aceea să vină cu tine în pământul acesta, vei fi slobod de jurământul meu, dar pe fiul meu să nu-l întorci acolo!\""
+        "ron": "Iar de nu va voi femeia aceea să vină cu tine în pământul acesta, vei fi slobod de jurământul meu, dar pe fiul meu să nu-l întorci acolo!\"",
+        "grk": "Ἐὰν δὲ μὴ θέλῃ ἡ γυνὴ πορευθῆναι μετὰ σοῦ εἰς τὴν γῆν ταύτην, καθαρὸς ἔσῃ ἀπὸ τοῦ ὅρκου μου· μόνον τὸν υἱόν μου μὴ ἀποστρέψῃς ἐκεῖ."
       }
     },
     {
@@ -772,7 +780,8 @@
       "translations": {
         "lxx": "And the servant put his hand under the thigh of his master Abraam, and swore to him concerning this matter.",
         "kjv": "And the servant put his hand under the thigh of Abraham his master, and sware to him concerning that matter.",
-        "ron": "Şi punându-şi sluga mâna sub coapsa lui Avraam, stăpânul său, i s-a jurat pentru toate acestea."
+        "ron": "Şi punându-şi sluga mâna sub coapsa lui Avraam, stăpânul său, i s-a jurat pentru toate acestea.",
+        "grk": "Καὶ ἔθηκεν ὁ παῖς τὴν χεῖρα αὐτοῦ ὑπὸ τὸν μηρὸν Ἁβραὰμ τοῦ κυρίου αὐτοῦ, καὶ ὤμοσεν αὐτῷ περὶ τοῦ ῥήματος τούτου."
       }
     },
     {
@@ -874,7 +883,8 @@
       "translations": {
         "lxx": "And the servant took ten camels of his master's camels, and he took of all the goods of his master with him, and he arose and went into Mesopotamia to the city of Nachor.",
         "kjv": "And the servant took ten camels of the camels of his master, and departed; for all the goods of his master were in his hand: and he arose, and went to Mesopotamia, unto the city of Nahor.",
-        "ron": "Apoi a luat sluga cu sine zece cămile din cămilele stăpânului său şi tot felul de lucruri scumpe de ale stăpânului său şi, sculându-se, s-a dus în Mesopotamia, în cetatea lui Nahor."
+        "ron": "Apoi a luat sluga cu sine zece cămile din cămilele stăpânului său şi tot felul de lucruri scumpe de ale stăpânului său şi, sculându-se, s-a dus în Mesopotamia, în cetatea lui Nahor.",
+        "grk": "Καὶ ἔλαβεν ὁ παῖς δέκα καμήλους ἀπὸ τῶν καμήλων τοῦ κυρίου αὐτοῦ, καὶ ἀπὸ πάντων τῶν ἀγαθῶν τοῦ κυρίου αὐτοῦ μεθʼ ἑαυτοῦ· καὶ ἀναστὰς ἐπορεύθη εἰς τὴν Μεσοποταμίαν εἰς τὴν πόλιν Ναχώρ."
       }
     },
     {
@@ -956,7 +966,8 @@
       "translations": {
         "lxx": "And he rested his camels without the city by the well of water towards evening, when damsels go forth to draw water.",
         "kjv": "And he made his camels to kneel down without the city by a well of water at the time of the evening, even the time that women go out to draw water.",
-        "ron": "Şi, într-o zi, spre seară, când ies femeile să scoată apă, a poposit cu cămilele la o fântână, afară din cetate."
+        "ron": "Şi, într-o zi, spre seară, când ies femeile să scoată apă, a poposit cu cămilele la o fântână, afară din cetate.",
+        "grk": "Καὶ ἐκοίμησε τὰς καμήλους ἔξω τῆς πόλεως παρὰ τὸ φρέαρ τοῦ ὕδατος τὸ πρὸς ὀψέ, ἡνίκα ἐκπορεύονται αἱ ὑδρευόμεναι."
       }
     },
     {
@@ -988,7 +999,8 @@
       "translations": {
         "lxx": "And he said, O Lord God of my master Abraam, prosper my way before me to day, and deal mercifully with my master Abraam.",
         "kjv": "And he said, O LORD God of my master Abraham, I pray thee, send me good speed this day, and shew kindness unto my master Abraham.",
-        "ron": "Şi a zis: \"Doamne Dumnezeul stăpânului meu Avraam, scoate-mi-o în cale astăzi şi fă milă cu stăpânul meu Avraam!"
+        "ron": "Şi a zis: \"Doamne Dumnezeul stăpânului meu Avraam, scoate-mi-o în cale astăzi şi fă milă cu stăpânul meu Avraam!",
+        "grk": "Καὶ εἶπε, Κύριε ὁ Θεὸς τοῦ κυρίου μου Ἁβραάμ, εὐόδωσον ἐναντίον ἐμοῦ σήμερον, καὶ ποίησον ἔλεος μετὰ τοῦ κυρίου μου Ἁβραάμ."
       }
     },
     {
@@ -1055,7 +1067,8 @@
       "translations": {
         "lxx": "Lo! I stand by the well of water, and the daughters of them that inhabit the city come forth to draw water.",
         "kjv": "Behold, I stand here by the well of water; and the daughters of the men of the city come out to draw water:",
-        "ron": "Iată, eu stau la fântâna aceasta şi fetele locuitorilor cetăţii au să iasă să scoată apă."
+        "ron": "Iată, eu stau la fântâna aceasta şi fetele locuitorilor cetăţii au să iasă să scoată apă.",
+        "grk": "Ἰδοὺ ἐγὼ ἕστηκα ἐπὶ τῆς πηγῆς τοῦ ὕδατος· αἱ δὲ θυγατέρες τῶν οἰκούντων τὴν πόλιν ἐκπορεύονται ἀντλῆσαι ὕδωρ."
       }
     },
     {
@@ -1217,7 +1230,8 @@
       "translations": {
         "lxx": "And it shall be, the virgin to whomsoever I shall say, Incline thy water-pot, that I may drink, and she shall say, Drink thou, and I will give thy camels drink, until they shall have done drinking—even this one thou hast prepared for thy servant Isaac, and hereby shall I know that thou hast dealt mercifully with my master Abraam.",
         "kjv": "And let it come to pass, that the damsel to whom I shall say, Let down thy pitcher, I pray thee, that I may drink; and she shall say, Drink, and I will give thy camels drink also: let the same be she that thou hast appointed for thy servant Isaac; and thereby shall I know that thou hast shewed kindness unto my master.",
-        "ron": "Deci fata căreia îi voi zice: Pleacă urciorul tău să beau şi care-mi va răspunde: \"Bea! Ba şi cămilele toate le voi adăpa până se vor sătura\", aceea să fie pe care Tu ai rânduit-o robului Tău Isaac şi prin aceasta voi cunoaşte că faci milă cu stăpânul meu Avraam."
+        "ron": "Deci fata căreia îi voi zice: Pleacă urciorul tău să beau şi care-mi va răspunde: \"Bea! Ba şi cămilele toate le voi adăpa până se vor sătura\", aceea să fie pe care Tu ai rânduit-o robului Tău Isaac şi prin aceasta voi cunoaşte că faci milă cu stăpânul meu Avraam.",
+        "grk": "Καὶ ἔσται ἡ παρθένος ᾗ ἂν ἐγὼ εἴπω, ἐπίκλινον τὴν ὑδρίαν σου, ἵνα πίω, καὶ εἴπῃ μοι, πίε σύ, καὶ τὰς καμήλους σου ποτιῶ, ἕως ἂν παύσωνται πίνουσαι, ταύτην ἡτοίμασας τῷ παιδί σου τῷ Ἰσαάκ· καὶ ἐν τούτῳ γνώσομαι, ὅτι ἐποίησας ἔλεος μετὰ τοῦ κυρίου μου Ἁβραάμ."
       }
     },
     {
@@ -1339,7 +1353,8 @@
       "translations": {
         "lxx": "And it came to pass before he had done speaking in his mind, that behold, Rebecca the daughter of Bathuel, the son of Melcha, the wife of Nachor, and the same the brother of Abraam, came forth, having a water-pot on her shoulders.",
         "kjv": "And it came to pass, before he had done speaking, that, behold, Rebekah came out, who was born to Bethuel, son of Milcah, the wife of Nahor, Abraham’s brother, with her pitcher upon her shoulder.",
-        "ron": "Dar nu sfârşise el încă a cugeta acestea în mintea sa, când iată că ieşi cu urciorul pe umăr Rebeca, fecioara care se născuse lui Batuel, fiul Milcăi, femeia lui Nahor, fratele lui Avraam."
+        "ron": "Dar nu sfârşise el încă a cugeta acestea în mintea sa, când iată că ieşi cu urciorul pe umăr Rebeca, fecioara care se născuse lui Batuel, fiul Milcăi, femeia lui Nahor, fratele lui Avraam.",
+        "grk": "Καὶ ἐγένετο πρὸ τοῦ συντελέσαι αὐτὸν λαλοῦντα ἐν τῇ διανοίᾳ αὐτοῦ, καὶ ἰδοὺ Ῥεβέκκα ἐξεπορεύετο ἡ τεχθεῖσα Βαθουήλ, υἱῷ Μελχὰς τῆς γυναικὸς Ναχώρ, ἀδελφοῦ δὲ Ἁβραάμ, ἔχουσα τὴν ὑδρίαν ἐπὶ τῶν ὤμων αὐτῆς."
       }
     },
     {
@@ -1426,7 +1441,8 @@
       "translations": {
         "lxx": "And the virgin was very beautiful in appearance, she was a virgin, a man had not known her; and she went down to the well, and filled her water-pot, and came up.",
         "kjv": "And the damsel was very fair to look upon, a virgin, neither had any man known her: and she went down to the well, and filled her pitcher, and came up.",
-        "ron": "Aceasta era foarte frumoasă la chip, fecioară, pe care nu o cunoscuse încă un bărbat. Şi venind ea la fântână, şi-a umplut urciorul şi a pornit înapoi."
+        "ron": "Aceasta era foarte frumoasă la chip, fecioară, pe care nu o cunoscuse încă un bărbat. Şi venind ea la fântână, şi-a umplut urciorul şi a pornit înapoi.",
+        "grk": "Ἡ δὲ παρθένος ἦν καλὴ τῇ ὄψει σφόδρα· παρθένος ἦν, ἀνὴρ οὐκ ἔγνω αὐτήν· καταβᾶσα δὲ ἐπὶ τὴν πηγὴν, ἔπλησε τὴν ὑδρίαν αὐτῆς, καὶ ἀνέβη."
       }
     },
     {
@@ -1483,7 +1499,8 @@
       "translations": {
         "lxx": "And the servant ran up to meet her, and said, Give me a little water to drink out of thy pitcher;",
         "kjv": "And the servant ran to meet her, and said, Let me, I pray thee, drink a little water of thy pitcher.",
-        "ron": "Atunci sluga lui Avraam a alergat înaintea ei şi i-a zis: \"Dă-mi să beau puţină apă din urciorul tău!\""
+        "ron": "Atunci sluga lui Avraam a alergat înaintea ei şi i-a zis: \"Dă-mi să beau puţină apă din urciorul tău!\"",
+        "grk": "Ἐπέδραμε δὲ ὁ παῖς εἰς συνάντησιν αὐτῆς, καὶ εἶπε, Πότισόν με μικρὸν ὕδωρ ἐκ τῆς ὑδρίας σου."
       }
     },
     {
@@ -1550,7 +1567,8 @@
       "translations": {
         "lxx": "and she said, Drink, Sir; and she hasted, and let down the pitcher upon her arm, and gave him to drink, till he ceased drinking.",
         "kjv": "And she said, Drink, my lord: and she hasted, and let down her pitcher upon her hand, and gave him drink.",
-        "ron": "Iar ea a zis: \"Bea, domnul meu!\" Şi îndată şi-a lăsat urciorul pe braţe şi i-a dat să bea apă până a încetat de a mai bea."
+        "ron": "Iar ea a zis: \"Bea, domnul meu!\" Şi îndată şi-a lăsat urciorul pe braţe şi i-a dat să bea apă până a încetat de a mai bea.",
+        "grk": "Ἡ δὲ εἶπε, πίε, κύριε· καὶ ἔσπευσε καὶ καθεῖλε τὴν ὑδρίαν ἐπὶ τὸν βραχίονα αὐτῆς, καὶ ἐπότισεν αὐτὸν, ἕων ἐπαύσατο πίνων."
       }
     },
     {
@@ -1587,7 +1605,8 @@
       "translations": {
         "lxx": "And she said, I will also draw water for thy camels, till they shall all have drunk.",
         "kjv": "And when she had done giving him drink, she said, I will draw water for thy camels also, until they have done drinking.",
-        "ron": "Apoi a zis: \"Şi cămilelor tale am să le scot apă până vor bea toate\"."
+        "ron": "Apoi a zis: \"Şi cămilelor tale am să le scot apă până vor bea toate\".",
+        "grk": "Καὶ εἶπε, καὶ ταῖς καμήλοις σου ὑδρεύσομαι, ἕως ἂν πᾶσαι πίωσι."
       }
     },
     {
@@ -1644,7 +1663,8 @@
       "translations": {
         "lxx": "And she hasted, and emptied the water-pot into the trough, and ran to the well to draw again, and drew water for all the camels.",
         "kjv": "And she hasted, and emptied her pitcher into the trough, and ran again unto the well to draw water, and drew for all his camels.",
-        "ron": "Şi îndată şi-a deşertat urciorul în adăpătoare şi a alergat iar la fântână să scoată apă şi a adăpat toate cămilele."
+        "ron": "Şi îndată şi-a deşertat urciorul în adăpătoare şi a alergat iar la fântână să scoată apă şi a adăpat toate cămilele.",
+        "grk": "Καὶ ἔσπευσε καὶ ἐξεκένωσε τὴν ὑδρίαν εἰς τὸ ποτιστήριον· καὶ ἔδραμεν ἐπὶ τὸ φρέαρ ἀντλῆσαι πάλιν· καὶ ὑδρεύσατο πάσαις ταῖς καμήλοις."
       }
     },
     {
@@ -1721,7 +1741,8 @@
       "translations": {
         "lxx": "And the man took great notice of her, and remained silent to know whether the Lord had made his way prosperous or not.",
         "kjv": "And the man wondering at her held his peace, to wit whether the LORD had made his journey prosperous or not.",
-        "ron": "Iar omul acela se uita la ea cu mirare şi tăcea, dorind să ştie de i-a binecuvântat Domnul călătoria sau nu."
+        "ron": "Iar omul acela se uita la ea cu mirare şi tăcea, dorind să ştie de i-a binecuvântat Domnul călătoria sau nu.",
+        "grk": "Ὁ δὲ ἄνθρωπος κατεμάνθανεν αὐτήν· καὶ παρεσιώπα τοῦ γνῶναι εἰ εὐώδωκε Κύριος τὴν ὁδὸν αὐτοῦ, ἢ οὔ."
       }
     },
     {
@@ -1818,7 +1839,8 @@
       "translations": {
         "lxx": "And it came to pass when all the camels ceased drinking, that the man took golden ear-rings, each of a drachm weight, and he put two bracelets on her hands, their weight was ten pieces of gold.",
         "kjv": "And it came to pass, as the camels had done drinking, that the man took a golden earring of half a shekel weight, and two bracelets for her hands of ten shekels weight of gold;",
-        "ron": "Şi dacă au încetat toate cămilele de a mai bea, a luat omul acela şi i-a dat un inel de aur, în greutate de o jumătate siclu, şi două brăţări la mâinile ei, în greutate de zece sicli de aur."
+        "ron": "Şi dacă au încetat toate cămilele de a mai bea, a luat omul acela şi i-a dat un inel de aur, în greutate de o jumătate siclu, şi două brăţări la mâinile ei, în greutate de zece sicli de aur.",
+        "grk": "Ἐγένετο δὲ ἡνίκα ἐπαύσαντο πᾶσαι αἱ κάμηλοι πίνουσαι, ἔλαβεν ὁ ἄνθρωπος ἐνώτια χρυσᾶ ἀνὰ δραχμὴν ὁλκῆς, καὶ δύο ψέλλια ἐπὶ τὰς χεῖρας αὐτῆς, δέκα χρυσῶν ὁλκὴ αὐτῶν."
       }
     },
     {
@@ -1895,7 +1917,8 @@
       "translations": {
         "lxx": "And he asked her, and said, Whose daughter art thou? Tell me if there is room for us to lodge with thy father.",
         "kjv": "And said, Whose daughter art thou? tell me, I pray thee: is there room in thy father’s house for us to lodge in?",
-        "ron": "Apoi a întrebat-o şi a zis: \"A cui fată eşti tu? Spune-mi, te rog, dacă se află în casa tatălui tău loc, ca să rămânem?\""
+        "ron": "Apoi a întrebat-o şi a zis: \"A cui fată eşti tu? Spune-mi, te rog, dacă se află în casa tatălui tău loc, ca să rămânem?\"",
+        "grk": "Καὶ ἐπηρώτησεν αὐτὴν, καὶ εἶπε, θυγάτηρ τίνος εἶ; ἀνάγγειλόν μοι, εἰ ἔστι παρὰ τῷ πατρί σου τόπος ἡμῖν του καταλῦσαι."
       }
     },
     {
@@ -1937,7 +1960,8 @@
       "translations": {
         "lxx": "And she said to him, I am the daughter of Bathuel the son of Melcha, whom she bore to Nachor.",
         "kjv": "And she said unto him, I am the daughter of Bethuel the son of Milcah, which she bare unto Nahor.",
-        "ron": "Iar ea i-a zis: \"Sunt fata lui Batuel al Milcăi, pe care ea l-a născut lui Nahor\"."
+        "ron": "Iar ea i-a zis: \"Sunt fata lui Batuel al Milcăi, pe care ea l-a născut lui Nahor\".",
+        "grk": "Ἡ δὲ εἶπεν αὐτῷ, θυγάτηρ Βαθουήλ εἰμι τοῦ Μελχάς, ὃν ἔτεκε τῷ Ναχώρ."
       }
     },
     {
@@ -1979,7 +2003,8 @@
       "translations": {
         "lxx": "And she said to him, We have both straw and much provender, and a place for resting.",
         "kjv": "She said moreover unto him, We have both straw and provender enough, and room to lodge in.",
-        "ron": "Apoi i-a mai zis: \"Avem şi paie şi fân mult şi la noi este şi loc, ca să rămâneţi\"."
+        "ron": "Apoi i-a mai zis: \"Avem şi paie şi fân mult şi la noi este şi loc, ca să rămâneţi\".",
+        "grk": "Καὶ εἶπεν αὐτῷ, Καὶ ἄχυρα καὶ χορτάσματα πολλὰ παρʼ ἡμῖν, καὶ τόπος τοῦ καταλῦσαι."
       }
     },
     {
@@ -2016,7 +2041,8 @@
       "translations": {
         "lxx": "And the man being well pleased, worshipped the Lord,",
         "kjv": "And the man bowed down his head, and worshipped the LORD.",
-        "ron": "Atunci s-a plecat omul acela şi s-a închinat Domnului şi a zis:"
+        "ron": "Atunci s-a plecat omul acela şi s-a închinat Domnului şi a zis:",
+        "grk": "Καὶ εὐδοκήσας ὁ ἄνθρωπος προσεκύνησε τῷ Κυρίῳ"
       }
     },
     {
@@ -2123,7 +2149,8 @@
       "translations": {
         "lxx": "and said, Blessed be the Lord the God of my master Abraam, who has not suffered his righteousness to fail, nor his truth from my master, and the Lord has brought me prosperously to the house of the brother of my lord.",
         "kjv": "And he said, Blessed be the LORD God of my master Abraham, who hath not left destitute my master of his mercy and his truth: I being in the way, the LORD led me to the house of my master’s brethren.",
-        "ron": "\"Binecuvântat să fie Domnul Dumnezeul stăpânului meu Avraam, Care n-a părăsit pe stăpânul meu cu mila şi bunăvoinţa Sa, de vreme ce m-a adus Domnul drept la casa fratelui stăpânului meu\"."
+        "ron": "\"Binecuvântat să fie Domnul Dumnezeul stăpânului meu Avraam, Care n-a părăsit pe stăpânul meu cu mila şi bunăvoinţa Sa, de vreme ce m-a adus Domnul drept la casa fratelui stăpânului meu\".",
+        "grk": "Καὶ εἶπεν, εὐλογητὸς Κύριος ὁ Θεὸς τοῦ κυρίου μου Ἁβραάμ, ὃς οὐκ ἐγκατέλειπε τὴν δικαιοσύνην αὐτοῦ, καὶ τὴν ἀλήθειαν, ἀπὸ τοῦ κυρίου μου· ἐμὲ τʼ εὐώδωκε Κύριος εἰς οἶκον τοῦ ἀδελφοῦ τοῦ κυρίου μου."
       }
     },
     {
@@ -2175,7 +2202,8 @@
       "translations": {
         "lxx": "And the damsel ran and reported to the house of her mother according to these words.",
         "kjv": "And the damsel ran, and told them of her mother’s house these things.",
-        "ron": "Iar fata a alergat acasă la mama sa şi a povestit toate acestea."
+        "ron": "Iar fata a alergat acasă la mama sa şi a povestit toate acestea.",
+        "grk": "Καὶ δραμοῦσα ἡ παῖς ἀνήγγειλεν εἰς τὸν οἶκον τῆς μητρὸς αὐτῆς, κατὰ τὰ ῥήματα ταῦτα."
       }
     },
     {
@@ -2252,7 +2280,8 @@
       "translations": {
         "lxx": "And Rebecca had a brother whose name was Laban; and Laban ran out to meet the man, to the well.",
         "kjv": "And Rebekah had a brother, and his name was Laban: and Laban ran out unto the man, unto the well.",
-        "ron": "Rebeca însă avea un frate, anume Laban. Şi a alergat Laban afară, la fântână, la omul acela,"
+        "ron": "Rebeca însă avea un frate, anume Laban. Şi a alergat Laban afară, la fântână, la omul acela,",
+        "grk": "Τῇ δὲ Ῥεβέκκᾷ ἀδελφὸς ἦν, ᾧ ὄνομα Λάβαν· καὶ ἔδραμε Λάβαν πρὸς τὸν ἄνθρωπον ἔξω ἐπὶ τὴν πηγήν."
       }
     },
     {
@@ -2359,7 +2388,8 @@
       "translations": {
         "lxx": "And it came to pass when he saw the ear-rings and the bracelets on the hands of his sister, and when he heard the words of Rebecca his sister, saying, Thus the man spoke to me, that he went to the man, as he stood by the camels at the well.",
         "kjv": "And it came to pass, when he saw the earring and bracelets upon his sister’s hands, and when he heard the words of Rebekah his sister, saying, Thus spake the man unto me; that he came unto the man; and, behold, he stood by the camels at the well.",
-        "ron": "Căci el văzuse inelul de aur şi brăţările la mâinile surorii sale Rebeca, şi auzise vorbele Rebecăi, sora sa, care spusese: \"Aşa şi aşa mi-a vorbit omul acela!\" Şi ajungând la el, l-a găsit stând cu cămilele la fântână."
+        "ron": "Căci el văzuse inelul de aur şi brăţările la mâinile surorii sale Rebeca, şi auzise vorbele Rebecăi, sora sa, care spusese: \"Aşa şi aşa mi-a vorbit omul acela!\" Şi ajungând la el, l-a găsit stând cu cămilele la fântână.",
+        "grk": "Καὶ ἐγένετο ἡνίκα εἶδε τὰ ἐνώτια, καὶ τὰ ψέλλια ἐν ταῖς χερσὶ τῆς ἀδελφῆς αὐτοῦ, καὶ ὅτε ἤκουσε τὰ ῥήματα Ῥεβέκκας τῆς ἀδελφῆς αὐτοῦ, λεγούσης, οὕτω λελάληκέ μοι ὁ ἄνθρωπος, καὶ ἦλθε πρὸς τὸν ἄνθρωπον, ἑστηκότος αὐτοῦ ἐπὶ τῶν καμήλων ἐπὶ τῆς πηγῆς."
       }
     },
     {
@@ -2436,7 +2466,8 @@
       "translations": {
         "lxx": "And he said to him, Come in hither, thou blessed of the Lord, why standest thou without, whereas I have prepared the house and a place for the camels?",
         "kjv": "And he said, Come in, thou blessed of the LORD; wherefore standest thou without? for I have prepared the house, and room for the camels.",
-        "ron": "Şi i-a zis: \"Intră, binecuvântatul Domnului! Pentru ce stai afară? Eu ţi-am gătit casă şi sălaş pentru cămilele tale!\""
+        "ron": "Şi i-a zis: \"Intră, binecuvântatul Domnului! Pentru ce stai afară? Eu ţi-am gătit casă şi sălaş pentru cămilele tale!\"",
+        "grk": "Καὶ εἶπεν αὐτῷ, δεῦρο εἴσελθε, εὐλογητὸς Κυροίυ· ἱνατί ἕστηκας ἔξω; ἐγὼ δὲ ἡτοίμασα τὴν οἰκίαν, καὶ τόπον ταῖς καμήλοις."
       }
     },
     {
@@ -2538,7 +2569,8 @@
       "translations": {
         "lxx": "And the man entered into the house, and unloaded the camels, and gave the camels straw and provender, and water to wash his feet, and the feet of the men that were with him.",
         "kjv": "And the man came into the house: and he ungirded his camels, and gave straw and provender for the camels, and water to wash his feet, and the men’s feet that were with him.",
-        "ron": "Şi a intrat omul acela în casă. Iar Laban a luat povara de pe cămile şi le-a dat paie şi fân, iar lui şi oamenilor, care erau cu el, le-a dat apă, ca să-şi spele picioarele."
+        "ron": "Şi a intrat omul acela în casă. Iar Laban a luat povara de pe cămile şi le-a dat paie şi fân, iar lui şi oamenilor, care erau cu el, le-a dat apă, ca să-şi spele picioarele.",
+        "grk": "Εἰσῆλθε δὲ ὁ ἄνθρωπος εἰς τὴν οἰκίαν, καὶ ἀπέσαξε τὰς καμήλους· καὶ ἔδωκεν ἄχυρα καὶ χορτάσματα ταῖς καμήλοις, καὶ ὕδωρ νίψασθαι τοῖς ποσὶν αὐτοῦ, καὶ τοῖς ποσὶ τῶν ἀνδρῶν τῶν μετʼ αὐτοῦ."
       }
     },
     {
@@ -2605,7 +2637,8 @@
       "translations": {
         "lxx": "And he set before them loaves to eat; but he said, I will not eat, until I have told my errand. And he said, Speak on.",
         "kjv": "And there was set meat before him to eat: but he said, I will not eat, until I have told mine errand. And he said, Speak on.",
-        "ron": "Apoi le-a adus de mâncare. Eliezer însă a zis: \"Nu voi mânca până nu voi spune la ce am venit\". Zis-a Laban: \"Spune!\""
+        "ron": "Apoi le-a adus de mâncare. Eliezer însă a zis: \"Nu voi mânca până nu voi spune la ce am venit\". Zis-a Laban: \"Spune!\"",
+        "grk": "Καὶ παρέθηκεν αὐτοῖς ἄρτους φαγεῖν· καὶ εἶπεν, οὐ μὴ φάγω, ἕως τοῦ λαλῆσαί με τὰ ῥήματά μου· καὶ εἶπεν, λάλησον."
       }
     },
     {
@@ -2637,7 +2670,8 @@
       "translations": {
         "lxx": "And he said, I am a servant of Abraam;",
         "kjv": "And he said, I am Abraham’s servant.",
-        "ron": "Atunci Eliezer a zis: \"Eu sunt sluga lui Avraam."
+        "ron": "Atunci Eliezer a zis: \"Eu sunt sluga lui Avraam.",
+        "grk": "Καὶ εἶπε, παῖς Ἁβραὰμ ἐγώ εἰμι."
       }
     },
     {
@@ -2719,7 +2753,8 @@
       "translations": {
         "lxx": "and the Lord has blessed my master greatly, and he is exalted, and he has given him sheep, and calves, and silver, and gold, servants and servant-maids, camels, and asses.",
         "kjv": "And the LORD hath blessed my master greatly; and he is become great: and he hath given him flocks, and herds, and silver, and gold, and menservants, and maidservants, and camels, and asses.",
-        "ron": "Domnul a binecuvântat foarte pe stăpânul meu şi l-a mărit şi i-a dat oi şi boi, argint şi aur, robi şi roabe, cămile şi asini."
+        "ron": "Domnul a binecuvântat foarte pe stăpânul meu şi l-a mărit şi i-a dat oi şi boi, argint şi aur, robi şi roabe, cămile şi asini.",
+        "grk": "Κύριος δὲ ηὐλόγησε τὸν κύριόν μου σφόδρα, καὶ ὑψώθη· καὶ ἔδωκεν αὐτῷ πρόβατα, καὶ μόσχους, καὶ ἀργύριον, καὶ χρυσίον, παῖδας, καὶ παιδίσκας, καμήλους, καὶ ὄνους."
       }
     },
     {
@@ -2796,7 +2831,8 @@
       "translations": {
         "lxx": "And Sarrha my master's wife bore one son to my master after he had grown old; and he gave him whatever he had.",
         "kjv": "And Sarah my master’s wife bare a son to my master when she was old: and unto him hath he given all that he hath.",
-        "ron": "Iar Sarra, femeia stăpânului meu, fiind acum bătrână, a născut stăpânului meu un fiu, căruia el i-a dat toate câte are."
+        "ron": "Iar Sarra, femeia stăpânului meu, fiind acum bătrână, a născut stăpânului meu un fiu, căruia el i-a dat toate câte are.",
+        "grk": "Καὶ ἔτεκε Σάῤῥα ἡ γυνὴ τοῦ κυρίου μου υἱὸν ἕνα τῷ κυρίῳ μου μετὰ τὸ γηράσαι αὐτόν· καὶ ἔδωκεν αὐτῷ ὅσα ἦν αὐτῷ."
       }
     },
     {
@@ -2868,7 +2904,8 @@
       "translations": {
         "lxx": "And my master caused me to swear, saying, Thou shalt not take a wife to my son of the daughters of the Chananites, among whom I sojourn in their land.",
         "kjv": "And my master made me swear, saying, Thou shalt not take a wife to my son of the daughters of the Canaanites, in whose land I dwell:",
-        "ron": "Şi m-a jurat stăpânul meu, zicând: \"Să nu iei femeie feciorului meu din fetele Canaaneilor, în pământul cărora trăiesc,"
+        "ron": "Şi m-a jurat stăpânul meu, zicând: \"Să nu iei femeie feciorului meu din fetele Canaaneilor, în pământul cărora trăiesc,",
+        "grk": "Καὶ ὥρκισέ με ὁ κύριός μου, λέγων, οὐ λήμψῃ γυναῖκα τῷ υἱῷ μου ἀπὸ τῶν θυγατέρων τῶν Χαναναίων, ἐν οἷς ἐγὼ παροικῶ ἐν τῇ γῇ αὐτῶν."
       }
     },
     {
@@ -2935,7 +2972,8 @@
       "translations": {
         "lxx": "But thou shalt go to the house of my father, and to my tribe, and thou shalt take thence a wife for my son.",
         "kjv": "But thou shalt go unto my father’s house, and to my kindred, and take a wife unto my son.",
-        "ron": "Ci să mergi la casa tatălui meu, la rudele mele şi să iei de acolo femeie pentru feciorul meu!\""
+        "ron": "Ci să mergi la casa tatălui meu, la rudele mele şi să iei de acolo femeie pentru feciorul meu!\"",
+        "grk": "Ἀλλʼ εἰς τὸν οἶκον τοῦ πατρός μου πορεύσῃ, καὶ εἰς τὴν φυλήν μου, καὶ λήψῃ γυναῖκα τῷ υἱῷ μου ἐκεῖθεν."
       }
     },
     {
@@ -2987,7 +3025,8 @@
       "translations": {
         "lxx": "And I said to my master, Haply the woman will not go with me.",
         "kjv": "And I said unto my master, Peradventure the woman will not follow me.",
-        "ron": "Iar eu am zis către stăpânul meu: \"Dar de nu va vrea femeia să vină cu mine?\""
+        "ron": "Iar eu am zis către stăpânul meu: \"Dar de nu va vrea femeia să vină cu mine?\"",
+        "grk": "Εἶπα δὲ τῷ κυρίῳ μου, μήποτε οὐ πορεύσεται ἡ γυνὴ μετʼ ἐμοῦ."
       }
     },
     {
@@ -3104,7 +3143,8 @@
       "translations": {
         "lxx": "And he said to me, The Lord God to whom I have been acceptable in his presence, himself shall send out his angel with thee, and shall prosper thy journey, and thou shalt take a wife for my son of my tribe, and of the house of my father.",
         "kjv": "And he said unto me, The LORD, before whom I walk, will send his angel with thee, and prosper thy way; and thou shalt take a wife for my son of my kindred, and of my father’s house:",
-        "ron": "El însă mi-a răspuns: \"Domnul Dumnezeu, înaintea Căruia umblu, va trimite cu tine pe îngerul Său, va binecuvânta calea ta şi vei lua femeie pentru feciorul meu din rudele mele şi din casa tatălui meu."
+        "ron": "El însă mi-a răspuns: \"Domnul Dumnezeu, înaintea Căruia umblu, va trimite cu tine pe îngerul Său, va binecuvânta calea ta şi vei lua femeie pentru feciorul meu din rudele mele şi din casa tatălui meu.",
+        "grk": "Καὶ εἶπέ μοι, Κύριος ὁ Θεὸς ᾧ εὐηρέστησα ἐναντίον αὐτοῦ, αὐτὸς ἐξαποστελεῖ τὸν Ἀγγελον αὐτοῦ μετὰ σοῦ, καὶ εὐοδώσει τὴν ὁδόν σου· καὶ λήψῃ γυναῖκα τῷ υἱῷ μου ἐκ τῆς φυλῆς μου, καὶ ἐκ τοῦ οἴκου τοῦ πατρός μου."
       }
     },
     {
@@ -3176,7 +3216,8 @@
       "translations": {
         "lxx": "Then shalt thou be clear from my curse, for whensoever thou shalt have come to my tribe, and they shall not give her to thee, then shalt thou be clear from my oath.",
         "kjv": "Then shalt thou be clear from this my oath, when thou comest to my kindred; and if they give not thee one, thou shalt be clear from my oath.",
-        "ron": "Atunci vei fi slobod de jurământul meu, când te vei duce la rudele mele şi de nu ţi-o vor da, vei fi dezlegat de jurământul meu."
+        "ron": "Atunci vei fi slobod de jurământul meu, când te vei duce la rudele mele şi de nu ţi-o vor da, vei fi dezlegat de jurământul meu.",
+        "grk": "Τότε ἀθῷος ἔσῃ ἀπὸ τῆς ἀρᾶς μου· ἡνίκα γὰρ ἐὰν ἔλθῃς εἰς τὴν φυλήν μου, καὶ μή σοι δῶσι, καὶ ἔσῃ ἀθῷος ἀπὸ τοῦ ὁρκισμοῦ μου."
       }
     },
     {
@@ -3283,7 +3324,8 @@
       "translations": {
         "lxx": "And having come this day to the well, I said, Lord God of my master Abraam, if thou prosperest my journey on which I am now going,",
         "kjv": "And I came this day unto the well, and said, O LORD God of my master Abraham, if now thou do prosper my way which I go:",
-        "ron": "Deci, ajungând eu astăzi la fântână, am zis: \"Doamne, Dumnezeul stăpânului meu Avraam, de este să mă faci să izbutesc în calea ce fac,"
+        "ron": "Deci, ajungând eu astăzi la fântână, am zis: \"Doamne, Dumnezeul stăpânului meu Avraam, de este să mă faci să izbutesc în calea ce fac,",
+        "grk": "Καὶ ἐλθὼν σήμερον ἐπὶ τὴν πηγὴν εἶπα, Κύριε ὁ Θεὸς τοῦ κυρίου μου Ἁβραὰμ, εἰ σὺ εὐοδοῖς τὴν ὁδόν μου, ἐν ᾗ νῦν ἐγὼ πορεύομαι ἐν αὐτῇ,"
       }
     },
     {
@@ -3405,7 +3447,8 @@
       "translations": {
         "lxx": "behold, I stand by the well of water, and the daughters of the men of the city come forth to draw water, and it shall be that the damsel to whom I shall say, Give me a little water to drink out of thy pitcher,",
         "kjv": "Behold, I stand by the well of water; and it shall come to pass, that when the virgin cometh forth to draw water, and I say to her, Give me, I pray thee, a little water of thy pitcher to drink;",
-        "ron": "Iată, eu stau la fântână; şi fata căreia eu îi voi zice când va veni să scoată apă: \"Dă-mi să beau puţină apă din urciorul tău!\""
+        "ron": "Iată, eu stau la fântână; şi fata căreia eu îi voi zice când va veni să scoată apă: \"Dă-mi să beau puţină apă din urciorul tău!\"",
+        "grk": "ἰδοὺ ἐγὼ ἐφέστηκα ἐπὶ τῆς πηγῆς τοῦ ὕδατος, καὶ αἱ θυγατέρες τῶν ἀνθρώπων τῆς πόλεως ἐκπορεύονται ἀντλῆσαι ὕδωρ· καὶ ἔσται ἡ παρθένος, ᾗ ἂν ἐγὼ εἴπω, πότισόν με ἐκ τῆς ὑδρίας σου μικρὸν ὕδωρ,"
       }
     },
     {
@@ -3512,7 +3555,8 @@
       "translations": {
         "lxx": "and she shall say to me, Both drink thou, and I will draw water for thy camels, this shall be the wife whom the Lord has prepared for his own servant Isaac; and hereby shall I know that thou hast wrought mercy with my master Abraam.",
         "kjv": "And she say to me, Both drink thou, and I will also draw for thy camels: let the same be the woman whom the LORD hath appointed out for my master’s son.",
-        "ron": "Iar ea îmi va zice: \"Bea şi tu, şi cămilele tale le voi adăpa\", aceea să fie femeia, pe care Domnul a rânduit-o pentru Isaac, robul Său şi fiul stăpânului meu, şi prin aceasta voi cunoaşte că Te milostiveşti spre stăpânul meu Avraam."
+        "ron": "Iar ea îmi va zice: \"Bea şi tu, şi cămilele tale le voi adăpa\", aceea să fie femeia, pe care Domnul a rânduit-o pentru Isaac, robul Său şi fiul stăpânului meu, şi prin aceasta voi cunoaşte că Te milostiveşti spre stăpânul meu Avraam.",
+        "grk": "καὶ εἴπῃ μοι, καὶ σὺ πίε, καὶ ταῖς καμήλοις σου ὑδρεύσομαι, αὕτη ἡ γυνὴ ἣν ἡτοίμασε Κύριος τῷ ἑαυτοῦ θεράποντι Ἰσαάκ· καὶ ἐν τούτῳ γνώσομαι, ὅτι πεποίηκας ἔλεος τῷ κυρίῳ μου Ἁβραάμ."
       }
     },
     {
@@ -3604,7 +3648,8 @@
       "translations": {
         "lxx": "And it came to pass before I had done speaking in my mind, straightway Rebecca came forth, having her pitcher on her shoulders; and she went down to the well, and drew water; and I said to her, Give me to drink.",
         "kjv": "And before I had done speaking in mine heart, behold, Rebekah came forth with her pitcher on her shoulder; and she went down unto the well, and drew water: and I said unto her, Let me drink, I pray thee.",
-        "ron": "Dar nu isprăvisem eu încă a grăi acestea în mintea mea, când iată a ieşit Rebeca, cu urciorul pe umăr; se pogorî la fântână şi scoase apă, şi eu i-am zis: \"Dă-mi să beau!\""
+        "ron": "Dar nu isprăvisem eu încă a grăi acestea în mintea mea, când iată a ieşit Rebeca, cu urciorul pe umăr; se pogorî la fântână şi scoase apă, şi eu i-am zis: \"Dă-mi să beau!\"",
+        "grk": "Καὶ ἐγένετο πρὸ τοῦ συντελέσαι με λαλοῦντα ἐν τῇ διανοίᾳ μου, εὐθὺς Ῥεβέκκα ἐξεπορεύετο, ἔχουσα τὴν ὑδρίαν ἐπὶ τῶν ὤμων· καὶ κατέβη ἐπὶ τὴν πηγὴν, καὶ ὑδρεύσατο· εἶπα δὲ αὐτῇ, πότισόν με."
       }
     },
     {
@@ -3656,7 +3701,8 @@
       "translations": {
         "lxx": "And she hasted and let down her pitcher on her arm from her head, and said, Drink thou, and I will give thy camels drink; and I drank, and she gave the camels drink.",
         "kjv": "And she made haste, and let down her pitcher from her shoulder, and said, Drink, and I will give thy camels drink also: so I drank, and she made the camels drink also.",
-        "ron": "Şi ea şi-a lăsat îndată urciorul de pe umăr, zicând: \"Bea tu şi cămilele tale le voi adăpa\". Şi am băut şi mi-a adăpat şi cămilele."
+        "ron": "Şi ea şi-a lăsat îndată urciorul de pe umăr, zicând: \"Bea tu şi cămilele tale le voi adăpa\". Şi am băut şi mi-a adăpat şi cămilele.",
+        "grk": "Καὶ σπεύσασα καθεῖλε τὴν ὑδρίαν ἐπὶ τὸν βραχίονα αὐτῆς ἀφʼ ἑαυτῆς, καὶ εἶπε, πίε σὺ, καὶ τὰς καμήλους σου ποτιῶ· καὶ ἔπιον, καὶ τὰς καμήλους ἐπότισε."
       }
     },
     {
@@ -3768,7 +3814,8 @@
       "translations": {
         "lxx": "And I asked her, and said, Whose daughter art thou? tell me; and she said, I am daughter of Bathuel the son of Nachor, whom Melcha bore to him; and I put on her the ear-rings, and the bracelets on her hands.",
         "kjv": "And I asked her, and said, Whose daughter art thou? And she said, The daughter of Bethuel, Nahor’s son, whom Milcah bare unto him: and I put the earring upon her face, and the bracelets upon her hands.",
-        "ron": "Apoi am întrebat-o şi am zis: \"A cui fată eşti tu? Spune-mi te rog!\" Şi ea a zis: \"Sunt fata lui Batuel, fiul lui Nahor, pe care i l-a născut Milca\". Atunci i-am dat un inel şi brăţări la mâini."
+        "ron": "Apoi am întrebat-o şi am zis: \"A cui fată eşti tu? Spune-mi te rog!\" Şi ea a zis: \"Sunt fata lui Batuel, fiul lui Nahor, pe care i l-a născut Milca\". Atunci i-am dat un inel şi brăţări la mâini.",
+        "grk": "Καὶ ἠρώτησα αὐτὴν, καὶ εἶπα, θυγάτηρ τίνος εἶ, ἀναγγειλόν μοι· ἡ δὲ ἔφη, θυγάτηρ Βαθουὴλ εἰμὶ υἱοῦ τοῦ Ναχὼρ, ὃν ἔτεκεν αὐτῷ Μελχά· καὶ περιέθηκα αὐτῇ τὰ ἐνώτια, καὶ τὰ ψέλλια περὶ τὰς χεῖρας αὐτῆς."
       }
     },
     {
@@ -3865,7 +3912,8 @@
       "translations": {
         "lxx": "And being well-pleased I worshipped the Lord, and I blessed the Lord the God of my master Abraam, who has prospered me in a true way, so that I should take the daughter of my master's brother for his son.",
         "kjv": "And I bowed down my head, and worshipped the LORD, and blessed the LORD God of my master Abraham, which had led me in the right way to take my master’s brother’s daughter unto his son.",
-        "ron": "După aceea m-am plecat şi m-am închinat Domnului şi am binecuvântat pe Domnul Dumnezeul stăpânului meu Avraam, Care m-a povăţuit de-a dreptul, ca să iau pe fata fratelui stăpânului meu pentru fiul lui."
+        "ron": "După aceea m-am plecat şi m-am închinat Domnului şi am binecuvântat pe Domnul Dumnezeul stăpânului meu Avraam, Care m-a povăţuit de-a dreptul, ca să iau pe fata fratelui stăpânului meu pentru fiul lui.",
+        "grk": "Καὶ εὐδοκήσας προσεκύνησα τῷ Κυρίῳ, καὶ εὐλόγησα Κύριον τὸν Θεὸν τοῦ κυρίου μου Ἁβραὰμ, ὃς εὐώδωσέ με ἐν ὁδῷ ἀληθείας λαβεῖν τὴν θυγατέρα τοῦ ἀδελφοῦ τοῦ κυρίου μου τῷ υἱῷ αὐτοῦ."
       }
     },
     {
@@ -3942,7 +3990,8 @@
       "translations": {
         "lxx": "If then ye will deal mercifully and justly with my lord, tell me, and if not, tell me, that I may turn to the right hand or to the left.",
         "kjv": "And now if ye will deal kindly and truly with my master, tell me: and if not, tell me; that I may turn to the right hand, or to the left.",
-        "ron": "Acum deci spuneţi-mi de vreţi să arătaţi milă şi bunăvoinţă stăpânului meu; iar de nu, să caut alta în dreapta şi în stânga\"."
+        "ron": "Acum deci spuneţi-mi de vreţi să arătaţi milă şi bunăvoinţă stăpânului meu; iar de nu, să caut alta în dreapta şi în stânga\".",
+        "grk": "Εἰ οὖν ποιεῖτε ὑμεῖς ἔλεος καὶ δικαιοσύνην πρὸς τὸν κύριόν μου· εἰ δὲ μὴ, ἀπαγγείλατέ μοι, ἵνα ἐπιστρέψω εἰς δεξιὰν ἤ ἀριστεράν."
       }
     },
     {
@@ -4014,7 +4063,8 @@
       "translations": {
         "lxx": "And Laban and Bathuel answered and said, This matter has come forth from the Lord, we shall not be able to answer thee bad or good.",
         "kjv": "Then Laban and Bethuel answered and said, The thing proceedeth from the LORD: we cannot speak unto thee bad or good.",
-        "ron": "Şi răspunzând Laban şi Batuel au zis: \"De la Domnul vine lucrul acesta şi noi nu-ţi putem spune nimic nici de bine, nici de rău."
+        "ron": "Şi răspunzând Laban şi Batuel au zis: \"De la Domnul vine lucrul acesta şi noi nu-ţi putem spune nimic nici de bine, nici de rău.",
+        "grk": "Ἀποκριθεὶς δὲ Λάβαν καὶ Βαθουὴλ εἶπαν, παρὰ κυρίου ἐξῆλθε τὸ πρᾶγμα τοῦτο· οὐ δυνησόμεθά σοι ἀντειπεῖν κακὸν ἢ καλόν."
       }
     },
     {
@@ -4081,7 +4131,8 @@
       "translations": {
         "lxx": "Behold, Rebecca is before thee, take her and go away, and let her be wife to the son of thy master, as the Lord has said.",
         "kjv": "Behold, Rebekah is before thee, take her, and go, and let her be thy master’s son’s wife, as the LORD hath spoken.",
-        "ron": "Iată, Rebeca este înaintea ta, ia-o şi du-te şi să fie soţia fiului stăpânului tău, cum a grăit Domnul!\""
+        "ron": "Iată, Rebeca este înaintea ta, ia-o şi du-te şi să fie soţia fiului stăpânului tău, cum a grăit Domnul!\"",
+        "grk": "Ἰδοὺ Ῥεβέκκα ἐνώπιόν σου· λαβὼν ἀπότρεχε· καὶ ἔστω γυνὴ τῷ υἱῷ τοῦ κυρίου σου, καθὰ ἐλάλησε Κύριος."
       }
     },
     {
@@ -4123,7 +4174,8 @@
       "translations": {
         "lxx": "And it came to pass when the servant of Abraam heard these words, he bowed himself to the Lord down to the earth.",
         "kjv": "And it came to pass, that, when Abraham’s servant heard their words, he worshipped the LORD, bowing himself to the earth.",
-        "ron": "Şi auzind cuvintele lor, sluga lui Avraam s-a închinat Domnului până la pământ."
+        "ron": "Şi auzind cuvintele lor, sluga lui Avraam s-a închinat Domnului până la pământ.",
+        "grk": "Ἐγένετο δὲ ἐν τῷ ἀκοῦσαι τὸν παῖδα τοῦ Ἁβραὰμ τῶν ῥημάτων αὐτῶν, προσεκύνησεν ἐπὶ τὴν γῆν τῷ κυρίῳ."
       }
     },
     {
@@ -4205,7 +4257,8 @@
       "translations": {
         "lxx": "And the servant having brought forth jewels of silver and gold and raiment, gave them to Rebecca, and gave gifts to her brother, and to her mother.",
         "kjv": "And the servant brought forth jewels of silver, and jewels of gold, and raiment, and gave them to Rebekah: he gave also to her brother and to her mother precious things.",
-        "ron": "Apoi a scos sluga lucruri de argint şi lucruri de aur şi haine şi le-a dat Rebecăi. Dat-a de asemenea daruri şi fratelui şi mamei ei."
+        "ron": "Apoi a scos sluga lucruri de argint şi lucruri de aur şi haine şi le-a dat Rebecăi. Dat-a de asemenea daruri şi fratelui şi mamei ei.",
+        "grk": "καὶ ἐξενέγκας ὁ παῖς σκεύη ἀργυρᾶ καὶ χρυσᾶ καὶ ἱματισμὸν, ἔδωκε τῇ Ῥεβέκκᾳ· καὶ δῶρα ἔδωκε τῷ ἀδελφῷ αὐτῆς, καὶ τῇ μητρὶ αὐτῆς."
       }
     },
     {
@@ -4292,7 +4345,8 @@
       "translations": {
         "lxx": "And both he and the men with him ate and drank and went to sleep. And he arose in the morning and said, Send me away, that I may go to my master.",
         "kjv": "And they did eat and drink, he and the men that were with him, and tarried all night; and they rose up in the morning, and he said, Send me away unto my master.",
-        "ron": "După aceea au mâncat şi au băut, el şi oamenii cei ce erau cu dânsul şi au rămas acolo. Iar dacă s-a sculat dimineaţa, a zis: \"Lăsaţi-mă să mă duc la stăpânul meu!\""
+        "ron": "După aceea au mâncat şi au băut, el şi oamenii cei ce erau cu dânsul şi au rămas acolo. Iar dacă s-a sculat dimineaţa, a zis: \"Lăsaţi-mă să mă duc la stăpânul meu!\"",
+        "grk": "Καὶ ἔφαγον καὶ ἔπιον καὶ αὐτὸς καὶ οἱ ἄνδρες οἱ μετʼ αὐτοῦ ὄντες, καὶ ἐκοιμήθησαν· καὶ ἀναστὰς τὸ πρωῒ εἶπεν, ἐκπέμψατέ με, ἵνα ἀπέλθω πρὸς τὸν κύριόν μου."
       }
     },
     {
@@ -4354,7 +4408,8 @@
       "translations": {
         "lxx": "And her brethren and her mother said, Let the virgin remain with us about ten days, and after that she shall depart.",
         "kjv": "And her brother and her mother said, Let the damsel abide with us a few days, at the least ten; after that she shall go.",
-        "ron": "Iar fratele şi mama Rebecăi au zis: \"Să mai rămână fata cu noi măcar vreo zece zile şi apoi te vei duce!\""
+        "ron": "Iar fratele şi mama Rebecăi au zis: \"Să mai rămână fata cu noi măcar vreo zece zile şi apoi te vei duce!\"",
+        "grk": "Εἶπαν δὲ οἱ ἀδελφοὶ αὐτῆς, καὶ ἡ μήτηρ, μεινάτω ἡ παρθένος μεθʼ ἡμῶν ἡμέρας ὡσεὶ δέκα, καὶ μετὰ ταῦτα ἀπελεύσεται."
       }
     },
     {
@@ -4421,7 +4476,8 @@
       "translations": {
         "lxx": "But he said to them, Hinder me not, for the Lord has prospered my journey for me; send me away, that I may depart to my master.",
         "kjv": "And he said unto them, Hinder me not, seeing the LORD hath prospered my way; send me away that I may go to my master.",
-        "ron": "El însă le-a zis: \"Nu mă zăboviţi! Căci Domnul m-a făcut să izbutesc în calea mea; lăsaţi-mă să mă duc la stăpânul meu!\""
+        "ron": "El însă le-a zis: \"Nu mă zăboviţi! Căci Domnul m-a făcut să izbutesc în calea mea; lăsaţi-mă să mă duc la stăpânul meu!\"",
+        "grk": "Ὁ δὲ εἶπε πρὸς αὐτοὺς, μὴ κατέχετέ με· καὶ Κύριος εὐώδωσε τὴν ὁδόν μου ἐν ἐμοί· ἐκπέμψατέ με, ἵνα ἀπέλθω πρὸς τὸν κύριόν μου."
       }
     },
     {
@@ -4463,7 +4519,8 @@
       "translations": {
         "lxx": "And they said, Let us call the damsel, and enquire at her mouth.",
         "kjv": "And they said, We will call the damsel, and enquire at her mouth.",
-        "ron": "Răspuns-au ei: \"Să chemăm copila şi s-o întrebăm ce gânduri are ea\"."
+        "ron": "Răspuns-au ei: \"Să chemăm copila şi s-o întrebăm ce gânduri are ea\".",
+        "grk": "Οἱ δὲ εἶπαν, Καλέσωμεν τὴν παῖδα, καὶ ἐρωτήσωμεν τὸ στόμα αὐτῆς."
       }
     },
     {
@@ -4515,7 +4572,8 @@
       "translations": {
         "lxx": "And they called Rebecca, and said to her, Wilt thou go with this man? and she said, I will go.",
         "kjv": "And they called Rebekah, and said unto her, Wilt thou go with this man? And she said, I will go.",
-        "ron": "Şi au chemat pe Rebeca şi i-au zis: \"Vrei să te duci oare cu omul acesta?\" Şi ea a zis: \"Mă duc!\""
+        "ron": "Şi au chemat pe Rebeca şi i-au zis: \"Vrei să te duci oare cu omul acesta?\" Şi ea a zis: \"Mă duc!\"",
+        "grk": "Καὶ ἐκάλεσαν τὴν Ῥεβέκκαν, καὶ εἶπαν αὐτῇ, πορεύσῃ μετὰ τοῦ ἀνθρώπου τούτου; ἡ δὲ εἶπε, πορεύσομαι."
       }
     },
     {
@@ -4577,7 +4635,8 @@
       "translations": {
         "lxx": "So they sent forth Rebecca their sister, and her goods, and the servant of Abraam, and his attendants.",
         "kjv": "And they sent away Rebekah their sister, and her nurse, and Abraham’s servant, and his men.",
-        "ron": "Atunci a lăsat Laban să plece Rebeca, sora sa, şi doica ei, şi sluga lui Avraam şi cei ce erau cu el."
+        "ron": "Atunci a lăsat Laban să plece Rebeca, sora sa, şi doica ei, şi sluga lui Avraam şi cei ce erau cu el.",
+        "grk": "Καὶ ἐξέπεμψαν Ῥεβέκκαν τὴν ἀδελφὴν αὐτῶν, καὶ τὰ ὑπάρχοντα αὐτῆς, καὶ τὸν παῖδα τοῦ Ἁβραὰμ, καὶ τοὺς μετʼ αὐτοῦ."
       }
     },
     {
@@ -4659,7 +4718,8 @@
       "translations": {
         "lxx": "And they blessed Rebecca, and said to her, Thou art our sister; become thou thousands of myriads, and let thy seed possess the cities of their enemies.",
         "kjv": "And they blessed Rebekah, and said unto her, Thou art our sister, be thou the mother of thousands of millions, and let thy seed possess the gate of those which hate them.",
-        "ron": "Şi au binecuvântat pe Rebeca şi i-au zis: \"Sora noastră, să se nască din tine mii şi zeci de mii şi să stăpânească urmaşii tăi porţile vrăjmaşilor lor!\""
+        "ron": "Şi au binecuvântat pe Rebeca şi i-au zis: \"Sora noastră, să se nască din tine mii şi zeci de mii şi să stăpânească urmaşii tăi porţile vrăjmaşilor lor!\"",
+        "grk": "Καὶ εὐλόγησαν Ῥεβέκκαν, καὶ εἶπαν αὐτῇ, ἀδελφὴ ἡμῶν εἶ, γίνου εἰς χιλιάδας μυριάδων, καὶ κληρονομησάτω τὸ σπέρμα σου τὰς πόλεις τῶν ὑπεναντίων."
       }
     },
     {
@@ -4746,7 +4806,8 @@
       "translations": {
         "lxx": "And Rebecca rose up and her maidens, and they mounted the camels and went with the man; and the servant having taken up Rebecca, departed.",
         "kjv": "And Rebekah arose, and her damsels, and they rode upon the camels, and followed the man: and the servant took Rebekah, and went his way.",
-        "ron": "Atunci, sculându-se Rebeca şi slujnicele ei şi suindu-se pe cămile, s-au dus cu omul acela, şi sluga lui Avraam, luând pe Rebeca, a plecat."
+        "ron": "Atunci, sculându-se Rebeca şi slujnicele ei şi suindu-se pe cămile, s-au dus cu omul acela, şi sluga lui Avraam, luând pe Rebeca, a plecat.",
+        "grk": "Ἀναστᾶσα δὲ Ῥεβέκκα καὶ αἱ ἅβραι αὐτῆς, ἐπέβησαν ἐπὶ τὰς καμήλους, καὶ ἐπορεύθησαν μετὰ τοῦ ἀνθρώπου· καὶ ἀναλαβὼν ὁ παῖς τὴν Ῥεβέκκαν ἀπῆλθεν."
       }
     },
     {
@@ -4823,7 +4884,8 @@
       "translations": {
         "lxx": "And Isaac went through the wilderness to the well of the vision, and he dwelt in the land toward the south.",
         "kjv": "And Isaac came from the way of the well Lahairoi; for he dwelt in the south country.",
-        "ron": "Isaac însă venise din Beer-Lahai-Roi, căci el locuia în părţile de miazăzi."
+        "ron": "Isaac însă venise din Beer-Lahai-Roi, căci el locuia în părţile de miazăzi.",
+        "grk": "Ἰσαὰκ δὲ διεπορεύετο διὰ τῆς ἐρήμου κατὰ τὸ φρέαρ τῆς ὁράσεως· αὐτὸς δὲ κατῴκει ἐν τῇ γῇ τῇ πρὸς Λίβα."
       }
     },
     {
@@ -4900,7 +4962,8 @@
       "translations": {
         "lxx": "And Isaac went forth into the plain toward evening to meditate; and having lifted up his eyes, he saw camels coming.",
         "kjv": "And Isaac went out to meditate in the field at the eventide: and he lifted up his eyes, and saw, and, behold, the camels were coming.",
-        "ron": "Iar spre seară a ieşit Isaac la câmp să se plimbe şi, ridicându-şi ochii, a văzut cămilele venind."
+        "ron": "Iar spre seară a ieşit Isaac la câmp să se plimbe şi, ridicându-şi ochii, a văzut cămilele venind.",
+        "grk": "Καὶ ἐξῆλθεν Ἰσαὰκ ἀδολεσχῆσαι εἰς τὸ πεδίον τὸ πρὸς δείλης, καὶ ἀναβλέψας τοῖς ὀφθαλμοῖς αὐτοῦ εἶδε καμήλους ἐρχομένας."
       }
     },
     {
@@ -4952,7 +5015,8 @@
       "translations": {
         "lxx": "And Rebecca lifted up her eyes, and saw Isaac; and she alighted briskly from the camel,",
         "kjv": "And Rebekah lifted up her eyes, and when she saw Isaac, she lighted off the camel.",
-        "ron": "Rebeca însă, căutând, a văzut pe Isaac şi s-a dat jos de pe cămilă"
+        "ron": "Rebeca însă, căutând, a văzut pe Isaac şi s-a dat jos de pe cămilă",
+        "grk": "Καὶ ἀναβλέψασα Ῥεβέκκα τοῖς ὀφθαλμοῖς εἶδε τὸν Ἰσαάκ· καὶ κατεπήδησεν ἀπὸ τῆς καμήλου."
       }
     },
     {
@@ -5074,7 +5138,8 @@
       "translations": {
         "lxx": "and said to the servant, Who is that man that walks in the plain to meet us? And the servant said, This is my master; and she took her veil and covered herself.",
         "kjv": "For she had said unto the servant, What man is this that walketh in the field to meet us? And the servant had said, It is my master: therefore she took a vail, and covered herself.",
-        "ron": "Şi a zis către slugă: \"Cine este omul acela care vine pe câmp în întâmpinarea noastră?\" Iar sluga i-a zis: \"Acesta-i stăpânul meu!\" Atunci ea şi-a luat vălul şi s-a acoperit."
+        "ron": "Şi a zis către slugă: \"Cine este omul acela care vine pe câmp în întâmpinarea noastră?\" Iar sluga i-a zis: \"Acesta-i stăpânul meu!\" Atunci ea şi-a luat vălul şi s-a acoperit.",
+        "grk": "Καὶ εἶπε τῷ παιδὶ, τίς ἐστιν ὁ ἄνθρωπος ἐκεῖνος ὁ πορευόμενος ἐν τῷ πεδίῳ εἰς συνάντησιν ἡμῖν; εἶπε δὲ ὁ παῖς, οὗτός ἐστιν ὁ κύριός μου· ἡ δὲ λαβοῦσα τὸ θέριστρον, περιεβάλετο."
       }
     },
     {
@@ -5116,7 +5181,8 @@
       "translations": {
         "lxx": "And the servant told Isaac all that he had done.",
         "kjv": "And the servant told Isaac all things that he had done.",
-        "ron": "Şi sluga povesti lui Isaac toate câte făcuse."
+        "ron": "Şi sluga povesti lui Isaac toate câte făcuse.",
+        "grk": "Καὶ διηγήσατο ὁ παῖς τῷ Ἰσαὰκ πάντα τὰ ῥήματα, ἃ ἐποίησεν."
       }
     },
     {
@@ -5203,7 +5269,8 @@
       "translations": {
         "lxx": "And Isaac went into the house of his mother, and took Rebecca, and she became his wife, and he loved her; and Isaac was comforted for Sarrha his mother.",
         "kjv": "And Isaac brought her into his mother Sarah’s tent, and took Rebekah, and she became his wife; and he loved her: and Isaac was comforted after his mother’s death.",
-        "ron": "Şi a dus-o Isaac în cortul mamei sale Sarra şi a luat pe Rebeca şi aceasta s-a făcut femeia lui şi a iubit-o. Şi s-a mângâiat Isaac de pierderea mamei sale, Sarra."
+        "ron": "Şi a dus-o Isaac în cortul mamei sale Sarra şi a luat pe Rebeca şi aceasta s-a făcut femeia lui şi a iubit-o. Şi s-a mângâiat Isaac de pierderea mamei sale, Sarra.",
+        "grk": "Εἰσῆλθε δὲ Ἰσαὰκ εἰς τὸν οἶκον τῆς μητρὸς αὐτοῦ, καὶ ἔλαβε τὴν Ῥεβέκκαν, καὶ ἐγένετο αὐτοῦ γυνὴ, καὶ ἠγάπησεν αὐτήν· καὶ παρεκλήθη Ἰσαὰκ περὶ Σάῤῥας τῆς μητρὸς αὐτοῦ."
       }
     }
   ],

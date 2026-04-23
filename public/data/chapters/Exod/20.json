@@ -36,7 +36,8 @@
       "translations": {
         "lxx": "And the Lord spoke all these words, saying:",
         "kjv": "And God spake all these words, saying,",
-        "ron": "Atunci a rostit Domnul înaintea lui Moise toate cuvintele acestea şi a zis:"
+        "ron": "Atunci a rostit Domnul înaintea lui Moise toate cuvintele acestea şi a zis:",
+        "grk": "Καὶ ἐλάλησε Κύριος πάντας τοὺς λόγους τούτους, λέγων,"
       }
     },
     {
@@ -93,7 +94,8 @@
       "translations": {
         "lxx": "I am the Lord thy God, who brought thee out of the land of Egypt, out of the house of bondage.",
         "kjv": "I am the LORD thy God, which have brought thee out of the land of Egypt, out of the house of bondage.",
-        "ron": "\"Eu sunt Domnul Dumnezeul tău, Care te-a scos din pământul Egiptului şi din casa robiei."
+        "ron": "\"Eu sunt Domnul Dumnezeul tău, Care te-a scos din pământul Egiptului şi din casa robiei.",
+        "grk": "ἐγώ εἰμι Κύριος ὁ Θεός σου, ὅστις ἐξήγαγόν σε ἐκ γῆς Αἰγύπτου, ἐξ οἴκου δουλείας."
       }
     },
     {
@@ -120,7 +122,8 @@
       "translations": {
         "lxx": "Thou shalt have no other gods beside me.",
         "kjv": "Thou shalt have no other gods before me.",
-        "ron": "Să nu ai alţi dumnezei afară de Mine!"
+        "ron": "Să nu ai alţi dumnezei afară de Mine!",
+        "grk": "Οὐκ ἔσονταί σοι θεοὶ ἕτεροι πλὴν ἐμοῦ."
       }
     },
     {
@@ -207,7 +210,8 @@
       "translations": {
         "lxx": "Thou shalt not make to thyself an idol, nor likeness of anything, whatever things are in the heaven above, and whatever are in the earth beneath, and whatever are in the waters under the earth.",
         "kjv": "Thou shalt not make unto thee any graven image, or any likeness of any thing that is in heaven above, or that is in the earth beneath, or that is in the water under the earth:",
-        "ron": "Să nu-ţi faci chip cioplit şi nici un fel de asemănare a nici unui lucru din câte sunt în cer, sus, şi din câte sunt pe pământ, jos, şi din câte sunt în apele de sub pământ!"
+        "ron": "Să nu-ţi faci chip cioplit şi nici un fel de asemănare a nici unui lucru din câte sunt în cer, sus, şi din câte sunt pe pământ, jos, şi din câte sunt în apele de sub pământ!",
+        "grk": "Οὐ ποιήσεις σεαυτῷ εἴδωλον, οὐδὲ παντὸς ὁμοίωμα, ὅσα ἐν τῷ οὐρανῷ ἄνω, καὶ ὅσα ἐν τῇ γῇ κάτω, καὶ ὅσα ἐν τοῖς ὕδασιν ὑποκάτω τῆς γῆς."
       }
     },
     {
@@ -319,7 +323,8 @@
       "translations": {
         "lxx": "Thou shalt not bow down to them, nor serve them; for I am the Lord thy God, a jealous God, recompensing the sins of the fathers upon the children, to the third and fourth generation to them that hate me,",
         "kjv": "Thou shalt not bow down thyself to them, nor serve them: for I the LORD thy God am a jealous God, visiting the iniquity of the fathers upon the children unto the third and fourth generation of them that hate me;",
-        "ron": "Să nu te închini lor, nici să le slujeşti, că Eu, Domnul Dumnezeul tău, sunt un Dumnezeu zelos, care pedepsesc pe copii pentru vina părinţilor ce Mă urăsc pe Mine, până la al treilea şi al patrulea neam,"
+        "ron": "Să nu te închini lor, nici să le slujeşti, că Eu, Domnul Dumnezeul tău, sunt un Dumnezeu zelos, care pedepsesc pe copii pentru vina părinţilor ce Mă urăsc pe Mine, până la al treilea şi al patrulea neam,",
+        "grk": "Οὐ προσκυνήσεις αὐτοῖς, οὐδὲ μὴ λατρεύσεις αὐτοῖς· ἐγὼ γάρ εἰμι Κύριος ὁ Θεός σου, Θεὸς ζηλωτὴς, ἀποδιδοὺς ἁμαρτίας πατέρων ἐπὶ τέκνα, ἕως τρίτης καὶ τετάρτης γενεᾶς τοῖς μισοῦσί με,"
       }
     },
     {
@@ -381,7 +386,8 @@
       "translations": {
         "lxx": "and bestowing mercy on them that love me to thousands of them, and on them that keep my commandments.",
         "kjv": "And shewing mercy unto thousands of them that love me, and keep my commandments.",
-        "ron": "Şi Mă milostivesc până la al miilea neam către cei ce Mă iubesc şi păzesc poruncile Mele."
+        "ron": "Şi Mă milostivesc până la al miilea neam către cei ce Mă iubesc şi păzesc poruncile Mele.",
+        "grk": "καὶ ποιῶν ἔλεος εἰς χιλιάδας τοῖς ἀγαπῶσί με, καὶ τοῖς φυλάσσουσι τὰ προστάγματά μου."
       }
     },
     {
@@ -448,7 +454,8 @@
       "translations": {
         "lxx": "Thou shalt not take the name of the Lord thy God in vain; for the Lord thy God will not acquit him that takes his name in vain.",
         "kjv": "Thou shalt not take the name of the LORD thy God in vain; for the LORD will not hold him guiltless that taketh his name in vain.",
-        "ron": "Să nu iei numele Domnului Dumnezeului tău în deşert, că nu va lăsa Domnul nepedepsit pe cel ce ia în deşert numele Lui."
+        "ron": "Să nu iei numele Domnului Dumnezeului tău în deşert, că nu va lăsa Domnul nepedepsit pe cel ce ia în deşert numele Lui.",
+        "grk": "Οὐ λήψῃ τὸ ὄνομα Κυρίου τοῦ Θεοῦ σου ἐπὶ ματαίῳ· οὐ γὰρ μὴ καθαρίσῃ Κύριος ὁ Θεός σου τὸν λαμβάνοντα τὸ ὄνομα αὐτοῦ ἐπὶ ματαίῳ."
       }
     },
     {
@@ -480,7 +487,8 @@
       "translations": {
         "lxx": "Remember the sabbath day to keep it holy.",
         "kjv": "Remember the sabbath day, to keep it holy.",
-        "ron": "Adu-ţi aminte de ziua odihnei, ca să o sfinţeşti."
+        "ron": "Adu-ţi aminte de ziua odihnei, ca să o sfinţeşti.",
+        "grk": "Μνήσθητι τὴν ἡμέραν τῶν σαββάτων ἁγιάζειν αὐτήν."
       }
     },
     {
@@ -527,7 +535,8 @@
       "translations": {
         "lxx": "Six days thou shalt labour, and shalt perform all thy work.",
         "kjv": "Six days shalt thou labour, and do all thy work:",
-        "ron": "Lucrează şase zile şi-ţi fă în acelea toate treburile tale,"
+        "ron": "Lucrează şase zile şi-ţi fă în acelea toate treburile tale,",
+        "grk": "Ἓξ ἡμέρας ἐργᾷ, καὶ ποιήσεις πάντα τὰ ἔργα σου."
       }
     },
     {
@@ -629,7 +638,8 @@
       "translations": {
         "lxx": "But on the seventh day is the sabbath of the Lord thy God; on it thou shalt do no work, thou, nor thy son, nor thy daughter, thy servant nor thy maidservant, thine ox nor thine ass, nor any cattle of thine, nor the stranger that sojourns with thee.",
         "kjv": "But the seventh day is the sabbath of the LORD thy God: in it thou shalt not do any work, thou, nor thy son, nor thy daughter, thy manservant, nor thy maidservant, nor thy cattle, nor thy stranger that is within thy gates:",
-        "ron": "Iar ziua a şaptea este odihna Domnului Dumnezeului tău: să nu faci în acea zi nici un lucru: nici tu, nici fiul tău, nici fiica ta, nici sluga ta, nici slujnica ta, nici boul tău, nici asinul tău, nici orice dobitoc al tău, nici străinul care rămâne la tine,"
+        "ron": "Iar ziua a şaptea este odihna Domnului Dumnezeului tău: să nu faci în acea zi nici un lucru: nici tu, nici fiul tău, nici fiica ta, nici sluga ta, nici slujnica ta, nici boul tău, nici asinul tău, nici orice dobitoc al tău, nici străinul care rămâne la tine,",
+        "grk": "Τῇ δὲ ἡμέρᾳ τῇ ἑβδόμῃ, σάββατα Κυρίῳ τῷ Θεῷ σου· οὐ ποιήσεις ἐν αὐτῇ πᾶν ἔργον σὺ, καὶ ὁ υἱός σου, καὶ ἡ θυγάτηρ σου, ὁ παῖς σου, καὶ ἡ παιδίσκη σου, ὁ βοῦς σου, καὶ τὸ ὑποζύγιόν σου, καὶ πᾶν κτῆνός σου, καὶ ὁ προσήλυτος ὁ παροικῶν ἐν σοί."
       }
     },
     {
@@ -735,7 +745,8 @@
       ],
       "translations": {
         "lxx": "For in six days the Lord made the heaven and the earth, and the sea and all things in them, and rested on the seventh day; therefore the Lord blessed the seventh day, and hallowed it.",
-        "kjv": "For in six days the LORD made heaven and earth, the sea, and all that in them is, and rested the seventh day: wherefore the LORD blessed the sabbath day, and hallowed it."
+        "kjv": "For in six days the LORD made heaven and earth, the sea, and all that in them is, and rested the seventh day: wherefore the LORD blessed the sabbath day, and hallowed it.",
+        "grk": "Ἐν γὰρ ἓξ ἡμέραις ἐποίησε Κύριος τὸν οὐρανὸν καὶ τὴν γῆν καὶ τὴν θὰλασσαν καὶ πάντα τὰ ἐν αὐτοῖς, καὶ κατέπαυσε τῇ ἡμέρᾳ τῇ ἑβδόμῃ· διὰ τοῦτο εὐλόγησε Κύριος τὴν ἡμέραν τὴν ἑβδόμην, καὶ ἡγίασεν αὐτήν."
       }
     },
     {
@@ -822,7 +833,8 @@
       "translations": {
         "lxx": "Honour thy father and thy mother, that it may be well with thee, and that thou mayest live long on the good land, which the Lord thy God gives to thee.",
         "kjv": "Honour thy father and thy mother: that thy days may be long upon the land which the LORD thy God giveth thee.",
-        "ron": "Cinsteşte pe tatăl tău şi pe mama ta, ca să-ţi fie bine şi să trăieşti ani mulţi pe pământul pe care Domnul Dumnezeul tău ţi-l va da ţie."
+        "ron": "Cinsteşte pe tatăl tău şi pe mama ta, ca să-ţi fie bine şi să trăieşti ani mulţi pe pământul pe care Domnul Dumnezeul tău ţi-l va da ţie.",
+        "grk": "Τίμα τὸν πατέρα σου, καὶ τὴν μητέρα σου, ἵνα εὖ σοι γένηται, καὶ ἵνα μακροχρόνιος γένῃ ἐπὶ τῆς γῆς τῆς ἀγαθῆς, ἧς Κύριος ὁ Θεός σου δίδωσί σοι."
       }
     },
     {
@@ -839,7 +851,8 @@
       "translations": {
         "lxx": "Thou shalt not commit adultery.",
         "kjv": "Thou shalt not kill.",
-        "ron": "Să nu ucizi!"
+        "ron": "Să nu ucizi!",
+        "grk": "Οὐ μοιχεύσεις."
       }
     },
     {
@@ -856,7 +869,8 @@
       "translations": {
         "lxx": "Thou shalt not steal.",
         "kjv": "Thou shalt not commit adultery.",
-        "ron": "Să nu fii desfrânat!"
+        "ron": "Să nu fii desfrânat!",
+        "grk": "Οὐ κλέψεις."
       }
     },
     {
@@ -873,7 +887,8 @@
       "translations": {
         "lxx": "Thou shalt not kill.",
         "kjv": "Thou shalt not steal.",
-        "ron": "Să nu furi!"
+        "ron": "Să nu furi!",
+        "grk": "Οὐ φονεύσεις."
       }
     },
     {
@@ -915,7 +930,8 @@
       "translations": {
         "lxx": "Thou shalt not bear false witness against thy neighbour.",
         "kjv": "Thou shalt not bear false witness against thy neighbour.",
-        "ron": "Să nu mărturiseşti strâmb împotriva aproapelui tău!"
+        "ron": "Să nu mărturiseşti strâmb împotriva aproapelui tău!",
+        "grk": "Οὐ ψευδομαρτυρήσεις κατὰ τοῦ πλησίον σου μαρτυρίαν ψευδῆ."
       }
     },
     {
@@ -1007,7 +1023,8 @@
       "translations": {
         "lxx": "Thou shalt not covet thy neighbour's wife; thou shalt not covet thy neighbour's house; nor his field, nor his servant, nor his maid, nor his ox, nor his ass, nor any of his cattle, nor whatever belongs to thy neighbour.",
         "kjv": "Thou shalt not covet thy neighbour’s house, thou shalt not covet thy neighbour’s wife, nor his manservant, nor his maidservant, nor his ox, nor his ass, nor any thing that is thy neighbour’s.",
-        "ron": "Să nu doreşti casa aproapelui tău; să nu doreşti femeia aproapelui tău, nici ogorul lui, nici sluga lui, nici slujnica lui, nici boul lui, nici asinul lui şi nici unul din dobitoacele lui şi nimic din câte are aproapele tău!\""
+        "ron": "Să nu doreşti casa aproapelui tău; să nu doreşti femeia aproapelui tău, nici ogorul lui, nici sluga lui, nici slujnica lui, nici boul lui, nici asinul lui şi nici unul din dobitoacele lui şi nimic din câte are aproapele tău!\"",
+        "grk": "Οὐκ ἐπιθυμήσεις τὴν γυναῖκα τοῦ πλησίον σου· οὐκ ἐπιθυμήσεις τὴν οἰκίαν τοῦ πλησίον σου, οὔτε τὸν ἀγρὸν αὐτοῦ, οὔτε τὸν παῖδα αὐτοῦ, οὔτε τὴν παιδίσκην αὐτοῦ, οὔτε τοῦ βοὸς αὐτοῦ, οὔτε τοῦ ὑποζυγίου αὐτοῦ, οὔτε παντὸς κτήνους αὐτοῦ, οὔτε ὅσα τῷ πλησίον σου ἐστί."
       }
     },
     {
@@ -1094,7 +1111,8 @@
       "translations": {
         "lxx": "And all the people perceived the thundering, and the flashes, and the voice of the trumpet, and the mountain smoking; and all the people feared and stood afar off,",
         "kjv": "And all the people saw the thunderings, and the lightnings, and the noise of the trumpet, and the mountain smoking: and when the people saw it, they removed, and stood afar off.",
-        "ron": "Şi tot poporul a auzit fulgerele şi tunetele şi sunetul trâmbiţelor, şi a văzut muntele fumegând; şi văzând, tot poporul s-a dat înapoi şi a stat departe, temându-se."
+        "ron": "Şi tot poporul a auzit fulgerele şi tunetele şi sunetul trâmbiţelor, şi a văzut muntele fumegând; şi văzând, tot poporul s-a dat înapoi şi a stat departe, temându-se.",
+        "grk": "Καὶ πᾶς ὁ λαὸς ἑώρα τὴν φωνὴν, καὶ τὰς λαμπάδας, καὶ τὴν φωνὴν τῆς σάλπιγγος, καὶ τὸ ὄρος τὸ καπνίζον· φοβηθέντες δὲ πᾶς ὁ λαὸς ἔστησαν μακρόθεν."
       }
     },
     {
@@ -1156,7 +1174,8 @@
       "translations": {
         "lxx": "and said to Moses, Speak thou to us, and let not God speak to us, lest we die.",
         "kjv": "And they said unto Moses, Speak thou with us, and we will hear: but let not God speak with us, lest we die.",
-        "ron": "Apoi a zis către Moise: \"Vorbeşte tu cu noi şi vom asculta, dar Dumnezeu să nu grăiască cu noi, ca să nu murim\"."
+        "ron": "Apoi a zis către Moise: \"Vorbeşte tu cu noi şi vom asculta, dar Dumnezeu să nu grăiască cu noi, ca să nu murim\".",
+        "grk": "Καὶ εἶπαν πρὸς Μωυσῆν, λάλησον σὺ ἡμῖν, καὶ μὴ λαλείτω πρὸς ἡμᾶς ὁ Θεὸς, μὴ ἀποθάνωμεν."
       }
     },
     {
@@ -1243,7 +1262,8 @@
       "translations": {
         "lxx": "And Moses says to them, Be of good courage, for God is come to you to try you, that his fear may be among you, that ye sin not.",
         "kjv": "And Moses said unto the people, Fear not: for God is come to prove you, and that his fear may be before your faces, that ye sin not.",
-        "ron": "Zis-a Moise către popor: \"Cutezaţi, că Dumnezeu a venit la voi, să vă pună la încercare pentru ca frica Lui să fie în voi, ca să nu greşiţi\"."
+        "ron": "Zis-a Moise către popor: \"Cutezaţi, că Dumnezeu a venit la voi, să vă pună la încercare pentru ca frica Lui să fie în voi, ca să nu greşiţi\".",
+        "grk": "Καὶ λέγει αὐτοῖς Μωυσῆς, θαρσεῖτε· ἕνεκεν γὰρ τοῦ πειράσαι ὑμᾶς παρεγενήθη ὁ Θεὸς πρὸς ὑμᾶς, ὅπως ἂν γένηται ὁ φόβος αὐτοῦ ἐν ὑμῖν, ἵνα μὴ ἁμαρτάνητε."
       }
     },
     {
@@ -1305,7 +1325,8 @@
       "translations": {
         "lxx": "And the people stood afar off, and Moses went into the darkness where God was.",
         "kjv": "And the people stood afar off, and Moses drew near unto the thick darkness where God was.",
-        "ron": "Şi a stat tot poporul departe, iar Moise s-a apropiat de întunericul unde era Dumnezeu."
+        "ron": "Şi a stat tot poporul departe, iar Moise s-a apropiat de întunericul unde era Dumnezeu.",
+        "grk": "Εἱστήκει δὲ ὁ λαὸς μακρόθεν, Μωυσῆς δὲ εἰσῆλθεν εἰς τὸν γνόφον, οὗ ἦν ὁ Θεός."
       }
     },
     {
@@ -1377,7 +1398,8 @@
       "translations": {
         "lxx": "And the Lord said to Moses, Thus shalt thou say to the house of Jacob, and thou shalt report it to the children of Israel, Ye have seen that I have spoken to you from heaven.",
         "kjv": "And the LORD said unto Moses, Thus thou shalt say unto the children of Israel, Ye have seen that I have talked with you from heaven.",
-        "ron": "Atunci Domnul a zis către Moise: \"Aşa să vorbeşti casei lui Iacov şi aşa să vesteşti fiilor lui Israel: Aţi văzut că am grăit cu voi din cer!"
+        "ron": "Atunci Domnul a zis către Moise: \"Aşa să vorbeşti casei lui Iacov şi aşa să vesteşti fiilor lui Israel: Aţi văzut că am grăit cu voi din cer!",
+        "grk": "Εἶπε δὲ Κύριος πρὸς Μωυσῆν, τάδε ἐρεῖς τῷ οἴκῳ Ἰακὼβ, καὶ ἀναγγελεῖς τοῖς υἱοῖς Ἰσραήλ· ὑμεῖς ἑωράκατε, ὅτι ἐκ τοῦ οὐρανοῦ λελάληκα πρὸς ὑμᾶς."
       }
     },
     {
@@ -1439,7 +1461,8 @@
       "translations": {
         "lxx": "Ye shall not make to yourselves gods of silver, and gods of gold ye shall not make to yourselves.",
         "kjv": "Ye shall not make with me gods of silver, neither shall ye make unto you gods of gold.",
-        "ron": "Să nu vă faceţi dumnezei de argint şi nici dumnezei de aur să nu vă faceţi."
+        "ron": "Să nu vă faceţi dumnezei de argint şi nici dumnezei de aur să nu vă faceţi.",
+        "grk": "Οὐ ποιήσετε ὑμῖν αὐτοῖς θεοὺς ἀργυροῦς, καὶ θεοὺς χρυσοῦς οὐ ποιήσετε ὑμῖν αὑτοῖς."
       }
     },
     {
@@ -1551,7 +1574,8 @@
       "translations": {
         "lxx": "Ye shall make to me an altar of earth; and upon it ye shall sacrifice your whole burnt-offerings, and your peace-offerings, and your sheep and your calves in every place, where I shall record my name; and I will come to thee and bless thee.",
         "kjv": "An altar of earth thou shalt make unto me, and shalt sacrifice thereon thy burnt offerings, and thy peace offerings, thy sheep, and thine oxen: in all places where I record my name I will come unto thee, and I will bless thee.",
-        "ron": "Să-Mi faci jertfelnic de pământ şi să aduci pe el arderile de tot ale tale, jertfele de izbăvire, oile şi boii tăi. În tot locul unde voi pune pomenirea numelui Meu, acolo voi veni la tine, ca să te binecuvântez."
+        "ron": "Să-Mi faci jertfelnic de pământ şi să aduci pe el arderile de tot ale tale, jertfele de izbăvire, oile şi boii tăi. În tot locul unde voi pune pomenirea numelui Meu, acolo voi veni la tine, ca să te binecuvântez.",
+        "grk": "Θυσιαστήριον ἐκ γῆς ποιήσετέ μοι, καὶ θύσετε ἐπʼ αὐτοῦ τὰ ὁλοκαυτώματα ὑμῶν, καὶ τὰ σωτήρια ὑμῶν, καὶ τὰ πρόβατα, καὶ τοὺς μόσχους ὑμῶν ἐν παντὶ τόπῳ, οὗ ἐὰν ἐπονομάσω τὸ ὄνομά μου ἐκεῖ, καὶ ἥξω πρὸς σὲ, καὶ εὐλογήσω σε."
       }
     },
     {
@@ -1623,7 +1647,8 @@
       "translations": {
         "lxx": "And if thou wilt make to me an altar of stones, thou shalt not build them hewn stones; for thou hast lifted up thy tool upon them, and they are defiled.",
         "kjv": "And if thou wilt make me an altar of stone, thou shalt not build it of hewn stone: for if thou lift up thy tool upon it, thou hast polluted it.",
-        "ron": "Iar de-Mi vei face jertfelnic de piatră, să nu-l faci de piatră cioplită; că de vei pune dalta ta pe ea, o vei spurca."
+        "ron": "Iar de-Mi vei face jertfelnic de piatră, să nu-l faci de piatră cioplită; că de vei pune dalta ta pe ea, o vei spurca.",
+        "grk": "Ἐὰν δὲ θυσιαστήριον ἐκ λίθων ποιῇς μοι, οὐκ οἰκοδομήσεις αὐτοὺς τμητούς· τὸ γὰρ ἐγχειρίδιόν σου ἐπιβέβληκας ἐπʼ αὐτοὺς, καὶ μεμίανται."
       }
     },
     {
@@ -1670,7 +1695,8 @@
       "translations": {
         "lxx": "Thou shalt not go up to my altar by steps, that thou mayest not uncover thy nakedness upon it.",
         "kjv": "Neither shalt thou go up by steps unto mine altar, that thy nakedness be not discovered thereon.",
-        "ron": "Şi să nu te sui pe trepte la jertfelnicul Meu, ca să nu se descopere acolo goliciunea ta!\""
+        "ron": "Şi să nu te sui pe trepte la jertfelnicul Meu, ca să nu se descopere acolo goliciunea ta!\"",
+        "grk": "Οὐκ ἀναβήσῃ ἐν ἀναβαθμίσιν ἐπὶ τὸ θυσιαστήριόν μου, ὅπως ἂν μὴ ἀποκαλύψῃς τὴν ἀσχημοσύνην σου ἐπʼ αὐτοῦ."
       }
     }
   ],

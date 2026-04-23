@@ -46,7 +46,8 @@
       "translations": {
         "lxx": "Aleph. I am the man that sees poverty, through the rod of his wrath upon me.",
         "kjv": "I AM the man that hath seen affliction by the rod of his wrath.",
-        "ron": "Eu sunt omul care am văzut nenorocirea sub varga aprinderii Lui."
+        "ron": "Eu sunt omul care am văzut nenorocirea sub varga aprinderii Lui.",
+        "grk": "ΑΛΕΦ. Ἐγὼ ἀνὴρ ὁ βλέπων πτωχείαν, ἐν ῥάβδῳ θυμοῦ αὐτοῦ ἐπʼ ἐμέ."
       }
     },
     {
@@ -88,7 +89,8 @@
       "translations": {
         "lxx": "He has taken me, and led me away into darkness, and not into light.",
         "kjv": "He hath led me, and brought me into darkness, but not into light.",
-        "ron": "El m-a purtat şi m-a dus în întuneric şi în beznă."
+        "ron": "El m-a purtat şi m-a dus în întuneric şi în beznă.",
+        "grk": "Παρέλαβέ με καὶ ἀπήγαγέ με εἰς σκότος, καὶ οὐ φῶς."
       }
     },
     {
@@ -125,7 +127,8 @@
       "translations": {
         "lxx": "Nay, against me has he turned his hand all the day.",
         "kjv": "Surely against me is he turned; he turneth his hand against me all the day.",
-        "ron": "Da, împotriva mea întoarce şi iar întoarce în toată vremea mâna Sa."
+        "ron": "Da, împotriva mea întoarce şi iar întoarce în toată vremea mâna Sa.",
+        "grk": "Πλὴν ἐν ἐμοὶ ἐπέστρεψε χεῖρα αὐτοῦ ὅλην τὴν ἡμέραν,"
       }
     },
     {
@@ -162,7 +165,8 @@
       "translations": {
         "lxx": "He has made old my flesh and my skin; he has broken my bones.",
         "kjv": "My flesh and my skin hath he made old; he hath broken my bones.",
-        "ron": "Mistuit-a trupul meu şi pielea mea, zdrobit-a oasele mele;"
+        "ron": "Mistuit-a trupul meu şi pielea mea, zdrobit-a oasele mele;",
+        "grk": "ἐπαλαίωσε σάρκα μου καὶ δέρμα μου, ὀστέα μου συνέτριψεν."
       }
     },
     {
@@ -219,7 +223,8 @@
       "translations": {
         "lxx": "Beth. He has built against me, and compassed my head, and brought travail upon me.",
         "kjv": "He hath builded against me, and compassed me with gall and travail.",
-        "ron": "A ridicat zid împotriva mea şi m-a înconjurat de venin şi de zbucium,"
+        "ron": "A ridicat zid împotriva mea şi m-a înconjurat de venin şi de zbucium,",
+        "grk": "ΒΗΘ. Ἀνῳκοδόμησε κατʼ ἐμοῦ, καὶ ἐκύκλωσε κεφαλήν μου, καὶ ἐμόχθησεν·"
       }
     },
     {
@@ -261,7 +266,8 @@
       "translations": {
         "lxx": "He has set me in dark places, as them that have long been dead.",
         "kjv": "He hath set me in dark places, as they that be dead of old.",
-        "ron": "Mutându-mă în împărăţia morii, ca pe morţii cei din veac."
+        "ron": "Mutându-mă în împărăţia morii, ca pe morţii cei din veac.",
+        "grk": "ἐν σκοτεινοῖς ἐκάθισέ με ὡς νεκροὺς αἰῶνος."
       }
     },
     {
@@ -298,7 +304,8 @@
       "translations": {
         "lxx": "He has builded against me, and I cannot come forth: he has made my brazen chain heavy.",
         "kjv": "He hath hedged me about, that I cannot get out: he hath made my chain heavy.",
-        "ron": "M-a împrejmuit cu zid şi n-am pe unde să ies, îngreuiat-a lanţurile mele;"
+        "ron": "M-a împrejmuit cu zid şi n-am pe unde să ies, îngreuiat-a lanţurile mele;",
+        "grk": "Ἀνῳκοδόμησε κατʼ ἐμοῦ, καὶ οὐκ ἐξελεύσομαι, ἐβάρυνε χαλκόν μου."
       }
     },
     {
@@ -340,7 +347,8 @@
       "translations": {
         "lxx": "Gimel. Yea, though I cry and shout, he shuts out my prayer.",
         "kjv": "Also when I cry and shout, he shutteth out my prayer.",
-        "ron": "Chiar când strig şi răcnesc, rugăciunea mea nu se aude;"
+        "ron": "Chiar când strig şi răcnesc, rugăciunea mea nu se aude;",
+        "grk": "ΓΙΜΕΛ. Καί γε κεκράξομαι καὶ βοήσω, ἀπέφραξε προσευχήν μου."
       }
     },
     {
@@ -382,7 +390,8 @@
       "translations": {
         "lxx": "Daleth. He has built up my ways, he has hedged my paths;",
         "kjv": "He hath inclosed my ways with hewn stone, he hath made my paths crooked.",
-        "ron": "El a astupat cărările mele cu piatră şi a întortochiat potecile mele."
+        "ron": "El a astupat cărările mele cu piatră şi a întortochiat potecile mele.",
+        "grk": "ΔΑΛΕΘ. Ἀνῳκοδόμησεν ὁδούς μου, ἐνέφραξε τρίβους μου,"
       }
     },
     {
@@ -434,7 +443,8 @@
       "translations": {
         "lxx": "he has troubled me, as a she-bear lying in wait: he is to me as a lion in secret places.",
         "kjv": "He was unto me as a bear lying in wait, and as a lion in secret places.",
-        "ron": "El a ajuns pentru mine ca un urs la pândă, ca un leu în ascunzătoare."
+        "ron": "El a ajuns pentru mine ca un urs la pândă, ca un leu în ascunzătoare.",
+        "grk": "ἐτάραξεν ἄρκος ἐνεδρεύουσα, αὐτός μοι λέων ἐν κρυφαίοις,"
       }
     },
     {
@@ -466,7 +476,8 @@
       "translations": {
         "lxx": "He pursued me after I departed, and brought me to a stand: he has utterly ruined me.",
         "kjv": "He hath turned aside my ways, and pulled me in pieces: he hath made me desolate.",
-        "ron": "Rătăcit-a căile mele, m-a sfâşiat şi m-a pustiit;"
+        "ron": "Rătăcit-a căile mele, m-a sfâşiat şi m-a pustiit;",
+        "grk": "κατεδίωξεν ἀφεστηκότα, καὶ κατέπαυσέ με, ἔθετό με ἠφανισμένην."
       }
     },
     {
@@ -513,7 +524,8 @@
       "translations": {
         "lxx": "He. He has bent his bow, and set me as a mark for the arrow.",
         "kjv": "He hath bent his bow, and set me as a mark for the arrow.",
-        "ron": "A încordat arcul Său şi m-a aşezat ca ţintă săgeţii Sale,"
+        "ron": "A încordat arcul Său şi m-a aşezat ca ţintă săgeţii Sale,",
+        "grk": "Η. Ἐνέτεινε τόξον αὐτοῦ, καὶ ἐστήλωσέ με ὡς σκοπὸν εἰς βέλος."
       }
     },
     {
@@ -545,7 +557,8 @@
       "translations": {
         "lxx": "He has caused the arrows of his quiver to enter into my reins.",
         "kjv": "He hath caused the arrows of his quiver to enter into my reins.",
-        "ron": "Trimiţând în rărunchii mei pe fiii tolbei Sale."
+        "ron": "Trimiţând în rărunchii mei pe fiii tolbei Sale.",
+        "grk": "Εἰσήγαγεν ἐν τοῖς νεφροῖς μου ἰοὺς φαρέτρας αὐτοῦ."
       }
     },
     {
@@ -592,7 +605,8 @@
       "translations": {
         "lxx": "I became a laughing-stock to all my people; and their song all the day.",
         "kjv": "I was a derision to all my people; and their song all the day.",
-        "ron": "Făcutu-m-am de râs faţă de poporul meu, cântecul lor de batjocură în fiecare zi."
+        "ron": "Făcutu-m-am de râs faţă de poporul meu, cântecul lor de batjocură în fiecare zi.",
+        "grk": "Ἐγενήθην γέλως παντὶ λαῷ μου, ψαλμὸς αὐτῶν ὅλην τὴν ἡμέραν."
       }
     },
     {
@@ -629,7 +643,8 @@
       "translations": {
         "lxx": "Vau. He has filled me with bitterness, he has drenched me with gall.",
         "kjv": "He hath filled me with bitterness, he hath made me drunken with wormwood.",
-        "ron": "El m-a săturat de amărăciuni, adăpatu-m-a cu pelin."
+        "ron": "El m-a săturat de amărăciuni, adăpatu-m-a cu pelin.",
+        "grk": "ΟΥΑΥ. Ἐχόρτασέ με πικρίας, ἐμέθυσέ με χολῆς,"
       }
     },
     {
@@ -666,7 +681,8 @@
       "translations": {
         "lxx": "And he has dashed out my teeth with gravel, he has fed me with ashes.",
         "kjv": "He hath also broken my teeth with gravel stones, he hath covered me with ashes.",
-        "ron": "A zdrobit de piatră dinţii mei şi m-a afundat în cenuşă."
+        "ron": "A zdrobit de piatră dinţii mei şi m-a afundat în cenuşă.",
+        "grk": "καὶ ἐξέβαλε ψήφῳ ὀδόντας μου· ἐψώμισέ με σποδὸν,"
       }
     },
     {
@@ -703,7 +719,8 @@
       "translations": {
         "lxx": "He has also removed my soul from peace: I forgot prosperity.",
         "kjv": "And thou hast removed my soul far off from peace: I forgat prosperity.",
-        "ron": "Tu ai răpit pacea sufletului meu, uitat-am fericirea"
+        "ron": "Tu ai răpit pacea sufletului meu, uitat-am fericirea",
+        "grk": "καὶ ἀπώσατο ἐξ εἰρήνης ψυχήν μου· ἐπελαθόμην ἀγαθά."
       }
     },
     {
@@ -740,7 +757,8 @@
       "translations": {
         "lxx": "Therefore my success has perished, and my hope from the Lord.",
         "kjv": "And I said, My strength and my hope is perished from the LORD:",
-        "ron": "ţi am zis: \"S-a dus puterea vieţii mele şi nădejdea mea în Domnul\"."
+        "ron": "ţi am zis: \"S-a dus puterea vieţii mele şi nădejdea mea în Domnul\".",
+        "grk": "Καὶ ἀπώλετο νῖκός μου, καὶ ἡ ἐλπίς μου ἀπὸ Κυρίου."
       }
     },
     {
@@ -782,7 +800,8 @@
       "translations": {
         "lxx": "Zain. I remembered by reason of my poverty, and because of persecution my bitterness and gall shall be remembered;",
         "kjv": "Remembering mine affliction and my misery, the wormwood and the gall.",
-        "ron": "Adu-ţi aminte de nevoia şi necazul meu, de pelin şi otravă!"
+        "ron": "Adu-ţi aminte de nevoia şi necazul meu, de pelin şi otravă!",
+        "grk": "ΖΑΙΝ. Ἐμνήσθην ἀπὸ πτωχείας μου, καὶ ἐκ διωγμοῦ πικρία καὶ χολή μου μνησθήσεται,"
       }
     },
     {
@@ -809,7 +828,8 @@
       "translations": {
         "lxx": "and my soul shall meditate with me.",
         "kjv": "My soul hath them still in remembrance, and is humbled in me.",
-        "ron": "Să-ţi aduci aminte că împovărat este în mine sufletul meu."
+        "ron": "Să-ţi aduci aminte că împovărat este în mine sufletul meu.",
+        "grk": "καὶ καταδολεσχήσει ἐπʼ ἐμὲ ἡ ψυχή μου."
       }
     },
     {
@@ -851,7 +871,8 @@
       "translations": {
         "lxx": "The Lord is my portion, says my soul; therefore will I wait for him.",
         "kjv": "This I recall to my mind, therefore have I hope.",
-        "ron": "Aceasta voi pune-o la inimă, de aceea voi nădăjdui:"
+        "ron": "Aceasta voi pune-o la inimă, de aceea voi nădăjdui:",
+        "grk": "Ταύτην τάξω εἰς τὴν καρδίαν μου, διατοῦτο ὑπομενῶ. ΗΘ. Τὰ ἐλέη Κυρίου, ὅτι οὐκ ἐξέλιπέ με, ὅτι οὐ συνετελέσθησαν οἱ οἰκτιρμοὶ αὐτοῦ· μῆνας εἰς τὰς πρωΐας ἐλέησον Κύριε, ὅτι οὐ συνετελέσθημεν, ὅτι οὐ συνετελέσθησαν οἱ οἰκτιρμοὶ αὐτοῦ. Καινὰ εἰς τὰς πρωΐας, πολλὴ ἡ πίστις σου. Μερίς μου Κύριος, εἶπεν ἡ ψυχή μου· διατοῦτο ὑπομενῶ αὐτῷ·"
       }
     },
     {
@@ -1016,7 +1037,8 @@
       "translations": {
         "lxx": "Teth. The Lord is good to them that wait for him: the soul which shall seek him",
         "kjv": "The LORD is good unto them that wait for him, to the soul that seeketh him.",
-        "ron": "Bun este Domnul cu cei ce se încred în El, pentru omul care Îl caută."
+        "ron": "Bun este Domnul cu cei ce se încred în El, pentru omul care Îl caută.",
+        "grk": "ΤΗΘ. Ἀγαθὸς Κύριος τοῖς ὑπομένουσιν αὐτὸν, ψυχὴ ἣ ζητήσει αὐτὸν, ἀγαθόν·"
       }
     },
     {
@@ -1068,7 +1090,8 @@
       "translations": {
         "lxx": "is good, and shall wait for, and quietly expect salvation of the Lord.",
         "kjv": "It is good that a man should both hope and quietly wait for the salvation of the LORD.",
-        "ron": "Bine este să aştepţi în tăcere ajutorul Domnului."
+        "ron": "Bine este să aştepţi în tăcere ajutorul Domnului.",
+        "grk": "καὶ ὑπομενεῖ, καὶ ἡσυχάσει εἰς τὸ σωτήριον Κυρίου."
       }
     },
     {
@@ -1115,7 +1138,8 @@
       "translations": {
         "lxx": "Teth. It is good for a man when he bears a yoke in his youth.",
         "kjv": "It is good for a man that he bear the yoke in his youth.",
-        "ron": "Bine este omului să poarte un jug din tinereţile lui."
+        "ron": "Bine este omului să poarte un jug din tinereţile lui.",
+        "grk": "ΤΗΘ. Ἀγαθὸν ἀνδρὶ, ὅταν ἄρῃ ζυγὸν ἐν νεότητι αὐτοῦ,"
       }
     },
     {
@@ -1157,7 +1181,8 @@
       "translations": {
         "lxx": "He will sit alone, and be silent, because he has borne it upon him.",
         "kjv": "He sitteth alone and keepeth silence, because he hath borne it upon him.",
-        "ron": "Să stea la o parte în tăcere, dacă Domnul îi dă poruncă!"
+        "ron": "Să stea la o parte în tăcere, dacă Domnul îi dă poruncă!",
+        "grk": "καθήσεται κατὰ μόνας, καὶ σιωπήσεται, ὅτι ᾖρεν ἐφʼ ἑαυτῷ."
       }
     },
     {
@@ -1240,7 +1265,8 @@
       "translations": {
         "lxx": "Jod. He will give his cheek to him that smites him: he will be filled full with reproaches.",
         "kjv": "He giveth his cheek to him that smiteth him: he is filled full with reproach.",
-        "ron": "Să dea obrazul lui spre lovire şi să se sature de ocară!"
+        "ron": "Să dea obrazul lui spre lovire şi să se sature de ocară!",
+        "grk": "ΙΩΔ. Δώσει τῷ παίοντι αὐτὸν σιαγόνα, χορτασθήσεται ὀνειδισμῶν·"
       }
     },
     {
@@ -1272,7 +1298,8 @@
       "translations": {
         "lxx": "For the Lord will not reject for ever.",
         "kjv": "For the LORD will not cast off for ever:",
-        "ron": "Căci Domnul nu aruncă pe oameni pentru totdeauna;"
+        "ron": "Căci Domnul nu aruncă pe oameni pentru totdeauna;",
+        "grk": "Ὅτι οὐκ εἰς τὸν αἰῶνα ἀπώσεται Κύριος."
       }
     },
     {
@@ -1319,7 +1346,8 @@
       "translations": {
         "lxx": "Chaph. For he that has brought down will pity, and that according to the abundance of his mercy.",
         "kjv": "But though he cause grief, yet will he have compassion according to the multitude of his mercies.",
-        "ron": "Ci El pedepseşte şi are milă după mulţimea milelor Lui."
+        "ron": "Ci El pedepseşte şi are milă după mulţimea milelor Lui.",
+        "grk": "ΧΑΦ. Ὅτι ὁ ταπεινώσας οἰκτειρήσει, καὶ κατὰ τὸ πλῆθος τοῦ ἐλέους αὐτοῦ,"
       }
     },
     {
@@ -1366,7 +1394,8 @@
       "translations": {
         "lxx": "He has not answered in anger from his heart, though he has brought low the children of a man.",
         "kjv": "For he doth not afflict willingly nor grieve the children of men.",
-        "ron": "Că nu de bună voie umileşte şi pedepseşte pe fiii oamenilor."
+        "ron": "Că nu de bună voie umileşte şi pedepseşte pe fiii oamenilor.",
+        "grk": "οὐκ ἀπεκριθη ἀπὸ καρδίας αὐτοῦ, καὶ ἐταπείνωσεν υἱοὺς ἀνδρός."
       }
     },
     {
@@ -1418,7 +1447,8 @@
       "translations": {
         "lxx": "Lamed. To bring down under his feet all the prisoners of the earth,",
         "kjv": "To crush under his feet all the prisoners of the earth,",
-        "ron": "Când călcăm în picioare pe toţi robii pământului,"
+        "ron": "Când călcăm în picioare pe toţi robii pământului,",
+        "grk": "ΛΑΜΕΔ. Τοῦ ταπεινῶσαι ὑπὸ τοὺς πόδας αὐτοῦ πάντας δεσμίους γῆς,"
       }
     },
     {
@@ -1465,7 +1495,8 @@
       "translations": {
         "lxx": "to turn aside the judgment of a man before the face of the Most High,",
         "kjv": "To turn aside the right of a man before the face of the most High,",
-        "ron": "Când călcăm dreptatea omului înaintea feţei Celui Preaînalt,"
+        "ron": "Când călcăm dreptatea omului înaintea feţei Celui Preaînalt,",
+        "grk": "τοῦ ἐκκλίναι κρίσιν ἀνδρὸς κατέναντι προσώπου ὑψίστου,"
       }
     },
     {
@@ -1517,7 +1548,8 @@
       "translations": {
         "lxx": "to condemn a man unjustly in his judgment, the Lord has not given commandment.",
         "kjv": "To subvert a man in his cause, the LORD approveth not.",
-        "ron": "Când nu dăm dreptate cuiva în pricina lui, oare Stăpânul a toate nu vede?"
+        "ron": "Când nu dăm dreptate cuiva în pricina lui, oare Stăpânul a toate nu vede?",
+        "grk": "καταδικάσαι ἄνθρωπον ἐν τῷ κρίνεσθαι αὐτὸν, Κύριος οὐκ εἶπε."
       }
     },
     {
@@ -1554,7 +1586,8 @@
       "translations": {
         "lxx": "Who has thus spoken, and it has come to pass? the Lord has not commanded it.",
         "kjv": "Who is he that saith, and it cometh to pass, when the Lord commandeth it not?",
-        "ron": "Cine este Cel ce a grăit şi s-a făcut, fără numai Domnul, Care a poruncit?"
+        "ron": "Cine este Cel ce a grăit şi s-a făcut, fără numai Domnul, Care a poruncit?",
+        "grk": "Τίς οὕτως εἶπε, καὶ ἐγενήθη; Κύριος οὐκ ἐνετείλατο."
       }
     },
     {
@@ -1591,7 +1624,8 @@
       "translations": {
         "lxx": "Out of the mouth of the Most High there shall not come forth evil and good.",
         "kjv": "Out of the mouth of the most High proceedeth not evil and good?",
-        "ron": "Nu iese oare din gura Celui Preaînalt binele şi răul?"
+        "ron": "Nu iese oare din gura Celui Preaînalt binele şi răul?",
+        "grk": "Ἐκ στόματος ὑψίστου οὐκ ἐξελεύσεται τὰ κακὰ καὶ τὸ ἀγαθόν."
       }
     },
     {
@@ -1648,7 +1682,8 @@
       "translations": {
         "lxx": "Mem. Why should a living man complain, a man concerning his sin?",
         "kjv": "Wherefore doth a living man complain, a man for the punishment of his sins?",
-        "ron": "De ce suspină omul toată viaţa, fiecare pentru păcatul lui?"
+        "ron": "De ce suspină omul toată viaţa, fiecare pentru păcatul lui?",
+        "grk": "ΜΗΜ. Τί γογγύσει ἄνθρωπος ζῶν, ἀνὴρ περὶ τῆς ἁμαρτίας αὐτοῦ;"
       }
     },
     {
@@ -1695,7 +1730,8 @@
       "translations": {
         "lxx": "Nun. Our way has been searched out and examined, and we will turn to the Lord.",
         "kjv": "Let us search and try our ways, and turn again to the LORD.",
-        "ron": "Să cercetăm căile noastre, luând aminte şi întorcându-ne la Domnul!"
+        "ron": "Să cercetăm căile noastre, luând aminte şi întorcându-ne la Domnul!",
+        "grk": "ΝΟΥΝ. Ἐξηρευνήθη ἡ ὁδὸς ἡμῶν καὶ ἠτάσθη, καὶ ἐπιστρέψομεν ἕως Κυρίου."
       }
     },
     {
@@ -1737,7 +1773,8 @@
       "translations": {
         "lxx": "Let us lift up our hearts with our hands to the lofty One in heaven.",
         "kjv": "Let us lift up our heart with our hands unto God in the heavens.",
-        "ron": "Să ridicăm inimile şi mâinile noastre la Domnul din cer!"
+        "ron": "Să ridicăm inimile şi mâinile noastre la Domnul din cer!",
+        "grk": "Ἀναλάβωμεν καρδίας ἡμῶν ἐπὶ χειρῶν πρὸς ὑψηλὸν ἐν οὐρανῷ."
       }
     },
     {
@@ -1774,7 +1811,8 @@
       "translations": {
         "lxx": "We have sinned, we have transgressed; and thou hast not pardoned.",
         "kjv": "We have transgressed and have rebelled: thou hast not pardoned.",
-        "ron": "Noi am păcătuit şi ne-am răzvrătit şi Tu ne-ai iertat."
+        "ron": "Noi am păcătuit şi ne-am răzvrătit şi Tu ne-ai iertat.",
+        "grk": "Ἡμαρτήσαμεν, ἠσεβήσαμεν, καὶ οὐχ ἱλάσθης."
       }
     },
     {
@@ -1816,7 +1854,8 @@
       "translations": {
         "lxx": "Samech. Thou hast visited us in wrath, and driven us away: thou hast slain, thou hast not pitied.",
         "kjv": "Thou hast covered with anger, and persecuted us: thou hast slain, thou hast not pitied.",
-        "ron": "Tu Te-ai învesmântat cu mânie şi ne-ai urmărit; Tu ai ucis fără milă;"
+        "ron": "Tu Te-ai învesmântat cu mânie şi ne-ai urmărit; Tu ai ucis fără milă;",
+        "grk": "ΣΑΜΕΧ. Ἐπεσκέπασας ἐν ʼθυμῷ, καὶ ἀπεδίωξας ἡμᾶς, ἀπέκτεινας, οὐκ ἐφείσω."
       }
     },
     {
@@ -1853,7 +1892,8 @@
       "translations": {
         "lxx": "Thou hast veiled thyself with a cloud because of prayer, that I might be blind,",
         "kjv": "Thou hast covered thyself with a cloud, that our prayer should not pass through.",
-        "ron": "Tu Te-ai ascuns în nori, ca să nu străbată rugăciunea la Tine;"
+        "ron": "Tu Te-ai ascuns în nori, ca să nu străbată rugăciunea la Tine;",
+        "grk": "Ἐπεσκέπασας νεφέλην σεαυτῷ ἕινεκεν προσευχῆς,"
       }
     },
     {
@@ -1905,7 +1945,8 @@
       "translations": {
         "lxx": "and be cast off. Ain. Thou hast set us alone in the midst of the nations.",
         "kjv": "Thou hast made us as the offscouring and refuse in the midst of the people.",
-        "ron": "Tu ai făcut din mine o măturătură şi un gunoi, în mijlocul popoarelor."
+        "ron": "Tu ai făcut din mine o măturătură şi un gunoi, în mijlocul popoarelor.",
+        "grk": "καμμύσαι με καὶ ἀπωσθῆναι. ΑΙΝ. Ἔθηκας ἡμᾶς ἐν μέσῳ τῶν λαῶν."
       }
     },
     {
@@ -1942,7 +1983,8 @@
       "translations": {
         "lxx": "All our enemies have opened their mouth against us.",
         "kjv": "All our enemies have opened their mouths against us.",
-        "ron": "Toţi duşmanii noştri au deschis gura împotriva noastră;"
+        "ron": "Toţi duşmanii noştri au deschis gura împotriva noastră;",
+        "grk": "Διήνοιξαν ἐφʼ ἡμᾶς τὸ στόμα αὐτῶν πάντες οἱ ἐχθροὶ ἡμῶν."
       }
     },
     {
@@ -1979,7 +2021,8 @@
       "translations": {
         "lxx": "Fear and wrath are come upon us, suspense and destruction.",
         "kjv": "Fear and a snare is come upon us, desolation and destruction.",
-        "ron": "De spaimă şi de groapă am avut parte, de pustiire şi de ruină."
+        "ron": "De spaimă şi de groapă am avut parte, de pustiire şi de ruină.",
+        "grk": "Φόβος καὶ θυμὸς ἐγενήθη ἡμῖν, ἔπαρσις καὶ συντριβή."
       }
     },
     {
@@ -2031,7 +2074,8 @@
       "translations": {
         "lxx": "Mine eye shall pour down torrents of water, for the destruction of the daughter of my people.",
         "kjv": "Mine eye runneth down with rivers of water for the destruction of the daughter of my people.",
-        "ron": "Şuvoaie de apă lăcrimează ochiul meu, din pricina prăpădului fiicei poporului meu."
+        "ron": "Şuvoaie de apă lăcrimează ochiul meu, din pricina prăpădului fiicei poporului meu.",
+        "grk": "Ἀφέσεις ὑδάτων κατάξει ὁ ὀφθαλμός μου ἐπὶ τὸ σύντριμμα τῆς θυγατρὸς τοῦ λαοῦ μου."
       }
     },
     {
@@ -2073,7 +2117,8 @@
       "translations": {
         "lxx": "Phe. Mine eye is drowned with tears, and I will not be silent, so that there shall be no rest,",
         "kjv": "Mine eye trickleth down, and ceaseth not, without any intermission,",
-        "ron": "Ochiul meu varsă lacrimi fără încetare, căci nu este uşurare,"
+        "ron": "Ochiul meu varsă lacrimi fără încetare, căci nu este uşurare,",
+        "grk": "ΦΗ. Ὁ ὀφθαλμός μου κατεπόθη, καὶ οὐ σιγήσομαι τοῦ μὴ εἶναι ἔκνηψιν,"
       }
     },
     {
@@ -2105,7 +2150,8 @@
       "translations": {
         "lxx": "until the Lord look down, and behold from heaven.",
         "kjv": "Till the LORD look down, and behold from heaven.",
-        "ron": "Până să se uite în jos şi să privească Domnul din ceruri."
+        "ron": "Până să se uite în jos şi să privească Domnul din ceruri.",
+        "grk": "ἕως οὗ διακύψῃ καὶ ἴδῃ Κύριος ἐξ οὐρανοῦ."
       }
     },
     {
@@ -2152,7 +2198,8 @@
       "translations": {
         "lxx": "Mine eye shall prey upon my soul, because of all the daughters of the city.",
         "kjv": "Mine eye affecteth mine heart because of all the daughters of my city.",
-        "ron": "Ochiul meu mă doare din pricina fiicelor cetăţii mele."
+        "ron": "Ochiul meu mă doare din pricina fiicelor cetăţii mele.",
+        "grk": "Ὁ ὀφθαλμός μου ἐπιφυλλιεῖ ἐπὶ τὴν ψυχήν μου παρὰ πάσας θυγατέρας πόλεως."
       }
     },
     {
@@ -2204,7 +2251,8 @@
       "translations": {
         "lxx": "Tsade. The fowlers chased me as a sparrow, all mine enemies destroyed my life in a pit without cause,",
         "kjv": "Mine enemies chased me sore, like a bird, without cause.",
-        "ron": "Ca pe o pasăre m-au vânat fără cuvânt vrăjmaşii mei,"
+        "ron": "Ca pe o pasăre m-au vânat fără cuvânt vrăjmaşii mei,",
+        "grk": "ΤΣΑΔΗ. Θηρεύοντες ἐθήρευσάν με ὡς στρουθίον· πάντες οἱ ἐχθροί μου δωρεὰν"
       }
     },
     {
@@ -2246,7 +2294,8 @@
       "translations": {
         "lxx": "and laid a stone upon me.",
         "kjv": "They have cut off my life in the dungeon, and cast a stone upon me.",
-        "ron": "Au vrut să nimicească în groapă viaţa mea, şi au aruncat cu pietre în mine."
+        "ron": "Au vrut să nimicească în groapă viaţa mea, şi au aruncat cu pietre în mine.",
+        "grk": "ἐθανάτωσαν ἐν λάκκῳ ζωήν μου, καὶ ἐπέθηκαν λίθον ἐπʼ ἐμοί."
       }
     },
     {
@@ -2293,7 +2342,8 @@
       "translations": {
         "lxx": "Water flowed over my head: I said, I am cut off.",
         "kjv": "Waters flowed over mine head; then I said, I am cut off.",
-        "ron": "Ape năvăleau peste capul meu şi cugetam: \"Sunt pierdut!\""
+        "ron": "Ape năvăleau peste capul meu şi cugetam: \"Sunt pierdut!\"",
+        "grk": "Ὑπερεχύθη ὕδωρ ἐπὶ τὴν κεφαλήν μου· εἶπα, ἄπωσμαι."
       }
     },
     {
@@ -2335,7 +2385,8 @@
       "translations": {
         "lxx": "Koph. I called upon thy name, O Lord, out of the lowest dungeon.",
         "kjv": "I called upon thy name, O LORD, out of the low dungeon.",
-        "ron": "Chemat-am numele Tău, Doamne, din groapa cea mai dedesubt."
+        "ron": "Chemat-am numele Tău, Doamne, din groapa cea mai dedesubt.",
+        "grk": "ΚΩΦ. Ἐπεκαλεσάμην τὸ ὄνομά σου, Κύριε, ἐκ λάκκου κατωτάτου·"
       }
     },
     {
@@ -2377,7 +2428,8 @@
       "translations": {
         "lxx": "Thou heardest my voice: close not thine ears to my supplication.",
         "kjv": "Thou hast heard my voice: hide not thine ear at my breathing, at my cry.",
-        "ron": "Tu ai auzit glasul meu: \"Nu astupa urechea la suspinul şi strigătul meu\"."
+        "ron": "Tu ai auzit glasul meu: \"Nu astupa urechea la suspinul şi strigătul meu\".",
+        "grk": "Φωνήν μου ἤκουσας· μὴ κρύψῃς τὰ ὦτά σου εἰς τὴν δέησίν μου·"
       }
     },
     {
@@ -2414,7 +2466,8 @@
       "translations": {
         "lxx": "Thou drewest nigh to my help: in the day wherein I called upon thee thou saidst to me, Fear not.",
         "kjv": "Thou drewest near in the day that I called upon thee: thou saidst, Fear not.",
-        "ron": "Tu erai aproape în ziua când Te-am strigat şi ai zis: \"Nu-ţi fie frică!\""
+        "ron": "Tu erai aproape în ziua când Te-am strigat şi ai zis: \"Nu-ţi fie frică!\"",
+        "grk": "Εἰς τὴν βοήθειάν μου ἤγγισας· ἐν ἡμέρᾳ ᾗ ἐπεκαλεσάμην σε εἶπάς μοι, μὴ φοβοῦ."
       }
     },
     {
@@ -2461,7 +2514,8 @@
       "translations": {
         "lxx": "Rechs. O Lord, thou hast pleaded the causes of my soul; thou hast redeemed my life.",
         "kjv": "O LORD, thou hast pleaded the causes of my soul; thou hast redeemed my life.",
-        "ron": "O, Doamne, Tu ai judecat pricina mea, Tu ai izbăvit viaţa mea!"
+        "ron": "O, Doamne, Tu ai judecat pricina mea, Tu ai izbăvit viaţa mea!",
+        "grk": "ΡΗΧΣ. Ἐδίκασας, Κύριε, τὰς δίκας τῆς ψυχῆς μου, ἐλυτρώσω τὴν ζωήν μου."
       }
     },
     {
@@ -2508,7 +2562,8 @@
       "translations": {
         "lxx": "Thou hast seen, O Lord, my troubles: thou hast judged my cause.",
         "kjv": "O LORD, thou hast seen my wrong: judge thou my cause.",
-        "ron": "Văzut-ai, Doamne, apăsarea mea, ajută-mi şi-mi fă dreptate!"
+        "ron": "Văzut-ai, Doamne, apăsarea mea, ajută-mi şi-mi fă dreptate!",
+        "grk": "Ἴδες, Κύριε, τὰς ταραχάς μου, ἔκρινας τὴν κρίσιν μου."
       }
     },
     {
@@ -2550,7 +2605,8 @@
       "translations": {
         "lxx": "Thou hast seen all their vengeance, thou hast looked on all their devices against me.",
         "kjv": "Thou hast seen all their vengeance and all their imaginations against me.",
-        "ron": "Tu ai văzut toată răzbunarea lor, toate uneltirile lor împotriva mea;"
+        "ron": "Tu ai văzut toată răzbunarea lor, toate uneltirile lor împotriva mea;",
+        "grk": "Εἶδες πᾶσαν τὴν ἐκδίκησιν αὐτῶν, εἰς πάντας διαλογισμοὺς αὐτῶν ἐν ἐμοί."
       }
     },
     {
@@ -2602,7 +2658,8 @@
       "translations": {
         "lxx": "Chsen. Thou hast heard their reproach and all their devices against me;",
         "kjv": "Thou hast heard their reproach, O LORD, and all their imaginations against me;",
-        "ron": "O, Doamne, Tu ai auzit ocările lor, toate chibzuielile lor împotriva mea,"
+        "ron": "O, Doamne, Tu ai auzit ocările lor, toate chibzuielile lor împotriva mea,",
+        "grk": "ΧΣΕΝ. Ἤκουσας τὸν ὀνειδισμὸν αὐτῶν, πάντας τοὺς διαλογισμοὺς αὐτῶν κατʼ ἐμοῦ,"
       }
     },
     {
@@ -2639,7 +2696,8 @@
       "translations": {
         "lxx": "the lips of them that rose up against me, and their plots against me all the day;",
         "kjv": "The lips of those that rose up against me, and their device against me all the day.",
-        "ron": "Graiurile potrivnicilor mei şi gândul lor ascuns împotriva mea."
+        "ron": "Graiurile potrivnicilor mei şi gândul lor ascuns împotriva mea.",
+        "grk": "χείλη ἐπανισταμένων μοι, καὶ μελέτας αὐτῶν κατʼ ἐμοῦ ὅλην τὴν ἡμέραν,"
       }
     },
     {
@@ -2676,7 +2734,8 @@
       "translations": {
         "lxx": "their sitting down and their rising up: look thou upon their eyes.",
         "kjv": "Behold their sitting down, and their rising up; I am their musick.",
-        "ron": "Priveşte: de stau sau de se scoală, eu sunt de râsul lor!"
+        "ron": "Priveşte: de stau sau de se scoală, eu sunt de râsul lor!",
+        "grk": "καθέδραν αὐτῶν, καὶ ἀνάστασιν αὐτῶν· ἐπίβλεψον ἐπὶ ὀφθαλμοὺς αὐτῶν."
       }
     },
     {
@@ -2713,7 +2772,8 @@
       "translations": {
         "lxx": "Thou wilt render them a recompence, O Lord, according to the works of their hands.",
         "kjv": "Render unto them a recompence, O LORD, according to the work of their hands.",
-        "ron": "Răsplăteşte-le, Doamne, după faptele mâinilor lor,"
+        "ron": "Răsplăteşte-le, Doamne, după faptele mâinilor lor,",
+        "grk": "Ἀποδώσεις αὐτοῖς ἀνταπόδομα, Κύριε, κατὰ τὰ ἔργα τῶν χειρῶν αὐτῶν."
       }
     },
     {
@@ -2750,7 +2810,8 @@
       "translations": {
         "lxx": "Thau. Thou wilt give them as a covering, the grief of my heart.",
         "kjv": "Give them sorrow of heart, thy curse unto them.",
-        "ron": "Dă-le învârtoşare inimii, blestemul Tău să fie pentru ei!"
+        "ron": "Dă-le învârtoşare inimii, blestemul Tău să fie pentru ei!",
+        "grk": "ΘΑΥ. Ἀποδώσεις αὐτοῖς ὑπερασπισμὸν, καρδίας μου μόχθον."
       }
     },
     {
@@ -2807,7 +2868,8 @@
       "translations": {
         "lxx": "Thou wilt persecute them in anger, and wilt consume them from under the heaven, O Lord.",
         "kjv": "Persecute and destroy them in anger from under the heavens of the LORD.",
-        "ron": "Urmăreşte-i cu mânie şi nimiceşte-i sub cerurile Tale, Doamne!"
+        "ron": "Urmăreşte-i cu mânie şi nimiceşte-i sub cerurile Tale, Doamne!",
+        "grk": "Σὺ αὐτοὺς καταδιώξεις ἐν ὀργῇ, καὶ ἐξαναλώσεις αὐτοὺς ὑποκάτωθεν τοῦ οὐρανοῦ, Κύριε."
       }
     }
   ],

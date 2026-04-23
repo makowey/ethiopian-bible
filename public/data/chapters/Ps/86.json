@@ -8,7 +8,8 @@
       "translation": "A Psalm of a Song for the sons of Core. His foundations are in the holy mountains.",
       "words": [],
       "translations": {
-        "ron": "Temelia Sionului pe munţii cei sfinţi. Domnul iubeşte porţile Sionului, mai mult decât toate locaşurile lui Iacob."
+        "ron": "Temelia Sionului pe munţii cei sfinţi. Domnul iubeşte porţile Sionului, mai mult decât toate locaşurile lui Iacob.",
+        "grk": "Τοῖς υἱοῖς Κορὲ ψαλμὸς ᾠδῆς. Οἱ θεμέλιοι αὐτοῦ ἐν τοῖς ὄρεσι τοῖς ἁγίοις."
       }
     },
     {
@@ -17,7 +18,8 @@
       "translation": "The Lord loves the gates of Sion, more than all the tabernacles of Jacob.",
       "words": [],
       "translations": {
-        "ron": "Lucruri mărite s-au grăit despre tine, cetatea lui Dumnezeu."
+        "ron": "Lucruri mărite s-au grăit despre tine, cetatea lui Dumnezeu.",
+        "grk": "Ἀγαπᾷ Κύριος τὰς πύλας Σιὼν, ὑπὲρ πάντα τὰ σκηνώματα Ἰακώβ."
       }
     },
     {
@@ -26,7 +28,8 @@
       "translation": "Glorious things have been spoken of thee, O city of God. Pause.",
       "words": [],
       "translations": {
-        "ron": "Îmi voi aduce aminte de Raav şi de Babilon, între cei ce mă cunosc pe mine; şi iată cei de alt neam şi Tirul şi poporul etiopienilor, aceştia acolo s-au născut."
+        "ron": "Îmi voi aduce aminte de Raav şi de Babilon, între cei ce mă cunosc pe mine; şi iată cei de alt neam şi Tirul şi poporul etiopienilor, aceştia acolo s-au născut.",
+        "grk": "Δεδοξασμένα ἐλαλήθη περὶ σοῦ ἡ πόλις τοῦ Θεοῦ· διάψαλμα."
       }
     },
     {
@@ -35,7 +38,8 @@
       "translation": "I will make mention of Raab and Babylon to them that know me: behold also the Philistines, and Tyre, and the people of the Ethiopians: these were born there.",
       "words": [],
       "translations": {
-        "ron": "Mamă va zice Sionului omul şi om s-a născut în el şi Însuşi Cel Preaînalt l-a întemeiat pe el."
+        "ron": "Mamă va zice Sionului omul şi om s-a născut în el şi Însuşi Cel Preaînalt l-a întemeiat pe el.",
+        "grk": "Μνησθήσομαι Ῥαὰβ, καὶ Βαβυλῶνος, τοῖς γινώσκουσί με· καὶ ἰδοὺ ἀλλόφυλοι καὶ Τύρος καὶ λαὸς Αἰθιόπων, οὗτοι ἐγεννήθησαν ἐκεῖ."
       }
     },
     {
@@ -44,7 +48,8 @@
       "translation": "A man shall say, Sion is my mother; and such a man was born in her; and the Highest himself has founded her.",
       "words": [],
       "translations": {
-        "ron": "Domnul va povesti în cartea popoarelor şi a căpeteniilor acestora, ce s-au născut în el."
+        "ron": "Domnul va povesti în cartea popoarelor şi a căpeteniilor acestora, ce s-au născut în el.",
+        "grk": "Μήτηρ Σιὼν ἐρεῖ ἄνθρωπος, καὶ ἄνθρωπος ἐγενήθη ἐν αὐτῇ, καὶ αὐτὸς ἐθεμελίωσεν αὐτὴν ὁ ὕψιστος."
       }
     },
     {
@@ -53,14 +58,18 @@
       "translation": "The Lord shall recount it in the writing of the people, and of these princes that were born in her. Pause.",
       "words": [],
       "translations": {
-        "ron": "Că în Tine este locaşul tuturor celor ce se veselesc."
+        "ron": "Că în Tine este locaşul tuturor celor ce se veselesc.",
+        "grk": "Κύριος διηγήσεται ἐν γραφῇ λαῶν, καὶ ἀρχόντων τούτων τῶν γεγενημένων ἐν αὐτῇ. διάψαλμα."
       }
     },
     {
       "num": 7,
       "geez": "",
       "translation": "The dwelling of all within thee is as the dwelling of those that rejoice.",
-      "words": []
+      "words": [],
+      "translations": {
+        "grk": "Ὡς εὐφραινομένων πάντων ἡ κατοικία ἐν σοί."
+      }
     }
   ]
 }

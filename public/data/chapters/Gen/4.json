@@ -71,7 +71,8 @@
       "translations": {
         "lxx": "And Adam knew Eve his wife, and she conceived and brought forth Cain and said, I have gained a man through God.",
         "kjv": "And Adam knew Eve his wife; and she conceived, and bare Cain, and said, I have gotten a man from the LORD.",
-        "ron": "După aceea a cunoscut Adam pe Eva, femeia sa, şi ea, zămislind, a născut pe Cain şi a zis: \"Am dobândit om de la Dumnezeu\"."
+        "ron": "După aceea a cunoscut Adam pe Eva, femeia sa, şi ea, zămislind, a născut pe Cain şi a zis: \"Am dobândit om de la Dumnezeu\".",
+        "grk": "Ἀδὰμ δὲ ἔγνω Εὔαν τὴν γυναῖκα αὐτοῦ, καὶ συλλαβοῦσα ἔτεκε τὸν Κάϊν· καὶ εἶπεν, ἐκτησάμην ἄνθρωπον διὰ τοῦ Θεοῦ."
       }
     },
     {
@@ -143,7 +144,8 @@
       "translations": {
         "lxx": "And she again bore his brother Abel. And Abel was a keeper of sheep, but Cain was a tiller of the ground.",
         "kjv": "And she again bare his brother Abel. And Abel was a keeper of sheep, but Cain was a tiller of the ground.",
-        "ron": "Apoi a mai născut pe Abel, fratele lui Cain. Abel a fost păstor de oi, iar Cain lucrător de pământ."
+        "ron": "Apoi a mai născut pe Abel, fratele lui Cain. Abel a fost păstor de oi, iar Cain lucrător de pământ.",
+        "grk": "Καὶ προσέθηκε τεκεῖν τὸν ἀδελφὸν αὐτοῦ τὸν Ἄβελ· καὶ ἐγένετο Ἄβελ ποιμὴν προβάτων, Κάϊν δὲ ἦν ἐργαζόμενος τὴν γῆν."
       }
     },
     {
@@ -200,7 +202,8 @@
       "translations": {
         "lxx": "And it was so after some time that Cain brought of the fruits of the earth a sacrifice to the Lord.",
         "kjv": "And in process of time it came to pass, that Cain brought of the fruit of the ground an offering unto the LORD.",
-        "ron": "Dar după un timp, Cain a adus jertfă lui Dumnezeu din roadele pământului."
+        "ron": "Dar după un timp, Cain a adus jertfă lui Dumnezeu din roadele pământului.",
+        "grk": "Καὶ ἐγένετο μεθʼ ἡμέρας ἤνεγκε Κάϊν ἀπὸ τῶν καρπῶν τῆς γῆς θυσίαν τῷ Κυρίῳ·"
       }
     },
     {
@@ -287,7 +290,8 @@
       "translations": {
         "lxx": "And Abel also brought of the firstborn of his sheep and of his fatlings, and God looked upon Abel and his gifts,",
         "kjv": "And Abel, he also brought of the firstlings of his flock and of the fat thereof. And the LORD had respect unto Abel and to his offering:",
-        "ron": "Şi a adus şi Abel din cele întâi-născute ale oilor sale şi din grăsimea lor. Şi a căutat Domnul spre Abel şi spre darurile lui,"
+        "ron": "Şi a adus şi Abel din cele întâi-născute ale oilor sale şi din grăsimea lor. Şi a căutat Domnul spre Abel şi spre darurile lui,",
+        "grk": "Καὶ Ἄβελ ἤνεγκε καὶ αὐτὸς ἀπὸ τῶν πρωτοτόκων τῶν προβάτων αὐτοῦ, καὶ ἀπὸ τῶν στεάτων αὐτῶν· καὶ ἐπεῖδεν ὁ Θεὸς ἐπὶ Ἄβελ, καὶ ἐπὶ τοῖς δώροις αὐτοῦ."
       }
     },
     {
@@ -349,7 +353,8 @@
       "translations": {
         "lxx": "but Cain and his sacrifices he regarded not, and Cain was exceedingly sorrowful and his countenance fell.",
         "kjv": "But unto Cain and to his offering he had not respect. And Cain was very wroth, and his countenance fell.",
-        "ron": "Iar spre Cain şi spre darurile lui n-a căutat. Şi s-a întristat Cain tare şi faţa lui era posomorâtă."
+        "ron": "Iar spre Cain şi spre darurile lui n-a căutat. Şi s-a întristat Cain tare şi faţa lui era posomorâtă.",
+        "grk": "Ἐπὶ δὲ Κάϊν, καὶ ἐπὶ ταῖς θυσίαις αὐτοῦ, οὐ προσέσχε· καὶ ἐλυπήθη Κάϊν λίαν, καὶ συνέπεσε τῷ προσώπῳ αὐτοῦ."
       }
     },
     {
@@ -401,7 +406,8 @@
       "translations": {
         "lxx": "And the Lord God said to Cain, Why art thou become very sorrowful and why is thy countenance fallen?",
         "kjv": "And the LORD said unto Cain, Why art thou wroth? and why is thy countenance fallen?",
-        "ron": "Atunci a zis Domnul Dumnezeu către Cain: \"Pentru ce te-ai întristat şi pentru ce s-a posomorât fata ta?"
+        "ron": "Atunci a zis Domnul Dumnezeu către Cain: \"Pentru ce te-ai întristat şi pentru ce s-a posomorât fata ta?",
+        "grk": "Καὶ εἶπε Κύριος ὁ Θεὸς τῷ Κάϊν, ἵνα τί περίλυπος ἐγένου, καὶ ἵνα τί συνέπεσε τὸ πρόσωπόν σου;"
       }
     },
     {
@@ -483,7 +489,8 @@
       "translations": {
         "lxx": "Hast thou not sinned if thou hast brought it rightly, but not rightly divided it? be still, to thee shall be his submission, and thou shalt rule over him.",
         "kjv": "If thou doest well, shalt thou not be accepted? and if thou doest not well, sin lieth at the door. And unto thee shall be his desire, and thou shalt rule over him.",
-        "ron": "Când faci bine, oare nu-ţi este faţa senină? Iar de nu faci bine, păcatul bate la uşă şi caută să te târască, dar tu biruieşte-l!\""
+        "ron": "Când faci bine, oare nu-ţi este faţa senină? Iar de nu faci bine, păcatul bate la uşă şi caută să te târască, dar tu biruieşte-l!\"",
+        "grk": "Οὐκ ἐὰν ὀρθῶς προσενέγκῃς, ὀρθῶς δὲ μὴ διέλῃς, ἥμαρτες; ἡσυχασον· πρός σὲ ἡ ἀποστροφὴ αὐτοῦ, καὶ σὺ ἄρξεις αὐτοῦ."
       }
     },
     {
@@ -585,7 +592,8 @@
       "translations": {
         "lxx": "And Cain said to Abel his brother, Let us go out into the plain; and it came to pass that when they were in the plain Cain rose up against Abel his brother, and slew him.",
         "kjv": "And Cain talked with Abel his brother: and it came to pass, when they were in the field, that Cain rose up against Abel his brother, and slew him.",
-        "ron": "După aceea Cain a zis către Abel, fratele său: \"Să ieşim la câmp!\" Iar când erau ei în câmpie, Cain s-a aruncat asupra lui Abel, fratele său, şi l-a omorât."
+        "ron": "După aceea Cain a zis către Abel, fratele său: \"Să ieşim la câmp!\" Iar când erau ei în câmpie, Cain s-a aruncat asupra lui Abel, fratele său, şi l-a omorât.",
+        "grk": "Καὶ εἶπεν Κάϊν πρὸς Ἄβελ τὸν ἀδελφὸν αὐτοῦ, διέλθωμεν εἰς τὸ πεδίον· καὶ ἐγένετο ἐν τῷ εἶναι αὐτοὺς ἐν τῷ πεδίῳ, ἀνέστη Κάϊν ἐπὶ Ἄβελ τὸν ἀδελφὸν αὐτοῦ, καὶ ἀπέκτεινεν αὐτόν."
       }
     },
     {
@@ -662,7 +670,8 @@
       "translations": {
         "lxx": "And the Lord God said to Cain, Where is Abel thy brother? and he said, I know not, am I my brother's keeper?",
         "kjv": "And the LORD said unto Cain, Where is Abel thy brother? And he said, I know not: Am I my brother’s keeper?",
-        "ron": "Atunci a zis Domnul Dumnezeu către Cain: \"Unde este Abel, fratele tău?\" Iar el a răspuns: \"Nu ştiu! Au doară eu sunt păzitorul fratelui meu?\""
+        "ron": "Atunci a zis Domnul Dumnezeu către Cain: \"Unde este Abel, fratele tău?\" Iar el a răspuns: \"Nu ştiu! Au doară eu sunt păzitorul fratelui meu?\"",
+        "grk": "Καὶ εἶπε Κύπιος ὁ Θεὸς πρὸς Κάϊν· ποῦ ἔστιν Ἄβελ ὁ ἀδελφός σου; καὶ εἶπεν, οὐ γινώσκω· μὴ φύλαξ τοῦ ἀδελφοῦ μου εἰμὶ ἐγώ;"
       }
     },
     {
@@ -729,7 +738,8 @@
       "translations": {
         "lxx": "And the Lord said, What hast thou done? the voice of thy brother's blood cries to me out of the ground.",
         "kjv": "And he said, What hast thou done? the voice of thy brother’s blood crieth unto me from the ground.",
-        "ron": "şi a zis Domnul: \"Ce ai făcut? Glasul sângelui fratelui tău strigă către Mine din pământ."
+        "ron": "şi a zis Domnul: \"Ce ai făcut? Glasul sângelui fratelui tău strigă către Mine din pământ.",
+        "grk": "Καὶ εἶπε Κύριος, τί πεποίηκας; φωνὴ αἵματος τοῦ ἀδελφοῦ σου βοᾷ πρός με ἐκ τῆς γῆς."
       }
     },
     {
@@ -796,7 +806,8 @@
       "translations": {
         "lxx": "And now thou art cursed from the earth which has opened her mouth to receive thy brother's blood from thy hand.",
         "kjv": "And now art thou cursed from the earth, which hath opened her mouth to receive thy brother’s blood from thy hand;",
-        "ron": "Şi acum eşti blestemat de pământul care şi-a deschis gura sa, ca să primească sângele fratelui tău din mâna ta."
+        "ron": "Şi acum eşti blestemat de pământul care şi-a deschis gura sa, ca să primească sângele fratelui tău din mâna ta.",
+        "grk": "Καὶ νῦν ἐπικατάρατος σὺ ἀπὸ τῆς γῆς, ἣ ἔχανε τὸ στόμα αὐτῆς δέξασθαι τὸ αἷμα τοῦ ἀδελφοῦ σου ἐκ τῆς χειρός σου."
       }
     },
     {
@@ -863,7 +874,8 @@
       "translations": {
         "lxx": "When thou tillest the earth, then it shall not continue to give its strength to thee: thou shalt be groaning and trembling on the earth.",
         "kjv": "When thou tillest the ground, it shall not henceforth yield unto thee her strength; a fugitive and a vagabond shalt thou be in the earth.",
-        "ron": "Când vei lucra pământul, acesta nu-şi va mai da roadele sale ţie; zbuciumat şi fugar vei fi tu pe pământ\"."
+        "ron": "Când vei lucra pământul, acesta nu-şi va mai da roadele sale ţie; zbuciumat şi fugar vei fi tu pe pământ\".",
+        "grk": "Ὅτε ἐργᾷ τὴν γῆν, καὶ οὐ προσθήσει τὴν ἰσχὺν αὐτῆς δοῦναί σοι· στένων καὶ τρέμων ἐσῃ ἐπὶ τῆς γῆς."
       }
     },
     {
@@ -910,7 +922,8 @@
       "translations": {
         "lxx": "And Cain said to the Lord God, My crime is too great for me to be forgiven.",
         "kjv": "And Cain said unto the LORD, My punishment is greater than I can bear.",
-        "ron": "Şi a zis Cain către Domnul Dumnezeu: \"Pedeapsa mea este mai mare decât aş putea-o purta."
+        "ron": "Şi a zis Cain către Domnul Dumnezeu: \"Pedeapsa mea este mai mare decât aş putea-o purta.",
+        "grk": "Καὶ εἶπε Κάϊν πρὸς Κύριον τὸν Θεὸν, μείζων ἡ αἰτία μου τοῦ ἀφεθῆναί με."
       }
     },
     {
@@ -997,7 +1010,8 @@
       "translations": {
         "lxx": "If thou castest me out this day from the face of the earth, and I shall be hidden from thy presence, and I shall be groaning and trembling upon the earth, then it will be that any one that finds me shall slay me.",
         "kjv": "Behold, thou hast driven me out this day from the face of the earth; and from thy face shall I be hid; and I shall be a fugitive and a vagabond in the earth; and it shall come to pass, that every one that findeth me shall slay me.",
-        "ron": "De mă izgoneşti acum din pământul acesta, mă voi ascunde de la faţa Ta şi voi fi zbuciumat şi fugar pe pământ, şi oricine mă va întâlni, mă va ucide\"."
+        "ron": "De mă izgoneşti acum din pământul acesta, mă voi ascunde de la faţa Ta şi voi fi zbuciumat şi fugar pe pământ, şi oricine mă va întâlni, mă va ucide\".",
+        "grk": "Εἰ ἐκβάλλεις με σήμερον ἀπὸ προσώπου τῆς γῆς, καὶ ἀπὸ τοῦ προσώπου σου κρυβήσομαι, καὶ ἔσομαι στένων καὶ τρέμων ἐπὶ τῆς γῆς, καὶ ἔσται πᾶς ὁ εὑρίσκων με, ἀποκτενεῖ με."
       }
     },
     {
@@ -1224,7 +1238,8 @@
       "translations": {
         "lxx": "And the Lord God said to him, Not so, any one that slays Cain shall suffer seven-fold vengeance; and the Lord God set a mark upon Cain that no one that found him might slay him.",
         "kjv": "And the LORD said unto him, Therefore whosoever slayeth Cain, vengeance shall be taken on him sevenfold. And the LORD set a mark upon Cain, lest any finding him should kill him.",
-        "ron": "Şi i-a zis Domnul Dumnezeu: \"Nu aşa, ci tot cel ce va ucide pe Cain înşeptit se va pedepsi\". Şi a pus Domnul Dumnezeu semn lui Cain, ca tot cel care îl va întâlni să nu-l omoare."
+        "ron": "Şi i-a zis Domnul Dumnezeu: \"Nu aşa, ci tot cel ce va ucide pe Cain înşeptit se va pedepsi\". Şi a pus Domnul Dumnezeu semn lui Cain, ca tot cel care îl va întâlni să nu-l omoare.",
+        "grk": "Καὶ εἴπεν αὐτῷ Κύριος ὁ Θεὸς, οὐχ οὕτω· πᾶς ὁ ἀποκτείνας Κάϊν, ἑπτὰ ἐκδικούμενα παραλύσει. Καὶ ἔθετο Κύριος ὁ Θεὸς σημεῖον τῷ Κάϊν, τοῦ μὴ ἀνελεῖν αὐτὸν πάντα τὸν εὑρίσκοντα αὐτόν."
       }
     },
     {
@@ -1341,7 +1356,8 @@
       "translations": {
         "lxx": "So Cain went forth from the presence of God and dwelt in the land of Nod over against Edem.",
         "kjv": "And Cain went out from the presence of the LORD, and dwelt in the land of Nod, on the east of Eden.",
-        "ron": "Şi s-a dus Cain de la faţa lui Dumnezeu şi a locuit în ţinutul Nod, la răsărit de Eden."
+        "ron": "Şi s-a dus Cain de la faţa lui Dumnezeu şi a locuit în ţinutul Nod, la răsărit de Eden.",
+        "grk": "Ἐξῆλθεν δὲ Κάϊν ἀπὸ προσώπου τοῦ Θεοῦ, καὶ ᾤκησεν ἐν γῇ Ναὶδ κατέναντι Ἐδέμ."
       }
     },
     {
@@ -1423,7 +1439,8 @@
       "translations": {
         "lxx": "And Cain knew his wife, and having conceived she bore Enoch; and he built a city; and he named the city after the name of his son, Enoch.",
         "kjv": "And Cain knew his wife; and she conceived, and bare Enoch: and he builded a city, and called the name of the city, after the name of his son, Enoch.",
-        "ron": "După aceea a cunoscut Cain pe femeia sa şi ea, zămislind, a născut pe Enoh. Apoi a zidit Cain o cetate şi a numit-o, după numele fiului său, Enoh."
+        "ron": "După aceea a cunoscut Cain pe femeia sa şi ea, zămislind, a născut pe Enoh. Apoi a zidit Cain o cetate şi a numit-o, după numele fiului său, Enoh.",
+        "grk": "Καὶ ἔγνω Κάϊν τὴν γυναῖκα αὐτοῦ· καὶ συλλαβοῦσα ἔτεκε τὸν Ἐνώχ. Καὶ ἦν οἰκοδομῶν πόλιν· καὶ ἐπῳνόμασε τὴν πόλιν ἐπὶ τῷ ὀνόματι τοῦ υἱοῦ αὐτοῦ, Ἐνώχ."
       }
     },
     {
@@ -1495,7 +1512,8 @@
       "translations": {
         "lxx": "And to Enoch was born Gaidad; and Gaidad begot Maleleel; and Maleleel begot Mathusala; and Mathusala begot Lamech.",
         "kjv": "And unto Enoch was born Irad: and Irad begat Mehujael: and Mehujael begat Methusael: and Methusael begat Lamech.",
-        "ron": "Iar lui Enoh i s-a născut Irad; lui Irad i s-a născut Maleleil; lui Maleleil i s-a născut Matusal, iar lui Matusal i s-a născut Lameh."
+        "ron": "Iar lui Enoh i s-a născut Irad; lui Irad i s-a născut Maleleil; lui Maleleil i s-a născut Matusal, iar lui Matusal i s-a născut Lameh.",
+        "grk": "Ἐγενήθη δὲ τῷ Ἐνὼχ Γαϊδάδ· καὶ Γαϊδὰδ ἐγέννησε τὸν Μαλελεὴλ· καὶ Μαλελεὴλ ἐγέννησε τὸν Μαθουσάλα· καὶ Μαθουσάλα ἐγέννησε τὸν Λάμεχ."
       }
     },
     {
@@ -1557,7 +1575,8 @@
       "translations": {
         "lxx": "And Lamech took to himself two wives; the name of the one was Ada, and the name of the second Sella.",
         "kjv": "And Lamech took unto him two wives: the name of the one was Adah, and the name of the other Zillah.",
-        "ron": "Lameh şi-a luat două femei: numele uneia era Ada şi numele celeilalte era Sela."
+        "ron": "Lameh şi-a luat două femei: numele uneia era Ada şi numele celeilalte era Sela.",
+        "grk": "Καὶ ἔλαβεν ἑαυτῷ Λάμεχ δύο γυναῖκας· ὄνομα τῇ μιᾷ, Ἀδά· καὶ ὄνομα τῇ δευτέρᾳ, Σελλά."
       }
     },
     {
@@ -1624,7 +1643,8 @@
       "translations": {
         "lxx": "And Ada bore Jobel; he was the father of those that dwell in tents, feeding cattle.",
         "kjv": "And Adah bare Jabal: he was the father of such as dwell in tents, and of such as have cattle.",
-        "ron": "Ada a născut pe Iabal; acesta a fost tatăl celor ce trăiesc în corturi, la turme."
+        "ron": "Ada a născut pe Iabal; acesta a fost tatăl celor ce trăiesc în corturi, la turme.",
+        "grk": "Καὶ ἔτεκεν Ἀδὰ τὸν Ἰωβήλ· οὗτος ἦν πατὴρ οἰκούντων ἐν σκηναῖς κτηνοτρόφων."
       }
     },
     {
@@ -1691,7 +1711,8 @@
       "translations": {
         "lxx": "And the name of his brother was Jubal; he it was who invented the psaltery and harp.",
         "kjv": "And his brother’s name was Jubal: he was the father of all such as handle the harp and organ.",
-        "ron": "Fratele lui se numea Iubal; acesta este tatăl tuturor celor ce cântă din chitară şi din cimpoi."
+        "ron": "Fratele lui se numea Iubal; acesta este tatăl tuturor celor ce cântă din chitară şi din cimpoi.",
+        "grk": "Καὶ ὄνομα τῷ ἀδελφῷ αὐτοῦ, Ἰουβάλ· οὗτος ἦν ὁ καταδείξας ψαλτήριον καὶ κιθάραν."
       }
     },
     {
@@ -1778,7 +1799,8 @@
       "translations": {
         "lxx": "And Sella also bore Thobel; he was a smith, a manufacturer both of brass and iron; and the sister of Thobel was Noëma.",
         "kjv": "And Zillah, she also bare Tubalcain, an instructer of every artificer in brass and iron: and the sister of Tubalcain was Naamah.",
-        "ron": "Sela a născut şi ea pe Tubalcain, care a fost făurar de unelte de aramă şi de fier. Şi sora lui se chema Noema."
+        "ron": "Sela a născut şi ea pe Tubalcain, care a fost făurar de unelte de aramă şi de fier. Şi sora lui se chema Noema.",
+        "grk": "Σελλὰ δὲ καὶ αὐτὴ ἔτεκε τὸν Θόβελ· καὶ ἦν σφυροκόπος χαλκεὺς χαλκοῦ καὶ σιδήρου. ἀδελφὴ δὲ Θόβελ, Νοεμά."
       }
     },
     {
@@ -1880,7 +1902,8 @@
       "translations": {
         "lxx": "And Lamech said to his wives, Ada and Sella, Hear my voice, ye wives of Lamech, consider my words, because I have slain a man to my sorrow and a youth to my grief.",
         "kjv": "And Lamech said unto his wives, Adah and Zillah, Hear my voice; ye wives of Lamech, hearken unto my speech: for I have slain a man to my wounding, and a young man to my hurt.",
-        "ron": "Şi a zis Lameh către femeile sale: \"Ada şi Sela, ascultaţi glasul meu! Femeile lui Lameh, luaţi aminte la cuvintele mele: Am ucis un om pentru rana mea şi un tânăr pentru vânătaia mea."
+        "ron": "Şi a zis Lameh către femeile sale: \"Ada şi Sela, ascultaţi glasul meu! Femeile lui Lameh, luaţi aminte la cuvintele mele: Am ucis un om pentru rana mea şi un tânăr pentru vânătaia mea.",
+        "grk": "Εἶπε δὲ Λάμεχ ταῖς ἑαυτοῦ γυναιξίν, Ἀδὰ καὶ Σελλὰ, ἀκούσατέ μου τῆς φωνῆς, γυναῖκες Λάμεχ, ἐνωτίσασθέ μου τοὺς λόγους· ὅτι ἄνδρα ἀπέκτεινα εἰς τραῦμα ἐμοὶ, καὶ νεανίσκον εἰς μώλωπα ἐμοί."
       }
     },
     {
@@ -1937,7 +1960,8 @@
       "translations": {
         "lxx": "Because vengeance has been exacted seven times on Cain's behalf, on Lamech's it shall be seventy times seven.",
         "kjv": "If Cain shall be avenged sevenfold, truly Lamech seventy and sevenfold.",
-        "ron": "Dacă pentru Cain va fi răzbunarea de şapte ori, apoi pentru Lameh de şaptezeci de ori câte şapte!\""
+        "ron": "Dacă pentru Cain va fi răzbunarea de şapte ori, apoi pentru Lameh de şaptezeci de ori câte şapte!\"",
+        "grk": "Ὅτι ἑπτάκις ἐκδεδίκηται ἐκ Κάϊν· ἐκ δὲ Λάμεχ, ἑβδομηκοντάκις ἑπτά."
       }
     },
     {
@@ -2064,7 +2088,8 @@
       "translations": {
         "lxx": "And Adam knew Eve his wife, and she conceived and bore a son, and called his name Seth, saying, For God has raised up to me another seed instead of Abel, whom Cain slew.",
         "kjv": "And Adam knew his wife again; and she bare a son, and called his name Seth: For God, said she, hath appointed me another seed instead of Abel, whom Cain slew.",
-        "ron": "Adam a cunoscut iarăşi pe Eva, femeia sa, şi ea, zămislind, a născut un fiu şi i-a pus numele Set, pentru că şi-a zis: \"Mi-a dat Dumnezeu alt fiu în locul lui Abel, pe care l-a ucis Cain."
+        "ron": "Adam a cunoscut iarăşi pe Eva, femeia sa, şi ea, zămislind, a născut un fiu şi i-a pus numele Set, pentru că şi-a zis: \"Mi-a dat Dumnezeu alt fiu în locul lui Abel, pe care l-a ucis Cain.",
+        "grk": "Ἔγνω δὲ Ἀδὰμ Εὔαν τὴν γυναῖκα αὐτοῦ· καὶ συλλαβοῦσα ἔτεκεν υἱόν· καὶ ἐπωνόμασε τὸ ὄνομα αὐτοῦ Σὴθ, λέγουσα, ἐξανέστησε γάρ μοι ὁ Θεὸς σπέρμα ἕτερον ἀντὶ Ἄβελ, ὃν ἀπέκτεινε Κάϊν."
       }
     },
     {
@@ -2136,7 +2161,8 @@
       "translations": {
         "lxx": "And Seth had a son, and he called his name Enos: he hoped to call on the name of the Lord God.",
         "kjv": "And to Seth, to him also there was born a son; and he called his name Enos: then began men to call upon the name of the LORD.",
-        "ron": "Lui Set de asemenea i s-a născut un fiu şi i-a pus numele Enos. Atunci au început oamenii a chema numele Domnului Dumnezeu."
+        "ron": "Lui Set de asemenea i s-a născut un fiu şi i-a pus numele Enos. Atunci au început oamenii a chema numele Domnului Dumnezeu.",
+        "grk": "Καὶ τῷ Σὴθ ἐγένετο υἱός· ἐπωνόμασε δὲ τὸ ὄνομα αὐτοῦ, Ἑνώς· οὗτος ἤλπισεν ἐπικαλεῖσθαι τὸ ὄνομα Κυρίου τοῦ Θεοῦ."
       }
     }
   ],

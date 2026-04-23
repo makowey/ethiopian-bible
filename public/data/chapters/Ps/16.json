@@ -8,7 +8,8 @@
       "translation": "A Prayer of David. Hearken, O Lord of my righteousness, attend to my petition; give ear to my prayer not uttered with deceitful lips.",
       "words": [],
       "translations": {
-        "ron": "Auzi, Doamne, dreptatea mea, ia aminte cererea mea, ascultă rugăciunea mea, din buze fără de viclenie."
+        "ron": "Auzi, Doamne, dreptatea mea, ia aminte cererea mea, ascultă rugăciunea mea, din buze fără de viclenie.",
+        "grk": "Προσευχὴ τοῦ Δαυίδ. Εἰσάκουσον Κύριε τῆς δικαιοσύνης μου, πρόσχες τῇ δεήσει μου· ἐνώτισαι τὴν προσευχήν μου οὐκ ἐν χείλεσι δολίοις."
       }
     },
     {
@@ -17,7 +18,8 @@
       "translation": "Let my judgment come forth from thy presence; let mine eyes behold righteousness.",
       "words": [],
       "translations": {
-        "ron": "De la faţa Ta judecata mea să iasă, ochii mei să vadă cele drepte."
+        "ron": "De la faţa Ta judecata mea să iasă, ochii mei să vadă cele drepte.",
+        "grk": "Ἐκ προσώπου σου τὸ κρίμα μου ἐξέλθοι, οἱ ὀφθαλμοί μου ἰδέτωσαν εὐθύτητας."
       }
     },
     {
@@ -26,7 +28,8 @@
       "translation": "Thou hast proved mine heart; thou hast visited me by night; thou hast tried me as with fire, and unrighteousness has not been found in me: I am purposed that my mouth shall not speak amiss.",
       "words": [],
       "translations": {
-        "ron": "Cercetat-ai inima mea, noaptea ai cercetat-o; cu foc m-ai lămurit, dar nu s-a aflat întru mine nedreptate."
+        "ron": "Cercetat-ai inima mea, noaptea ai cercetat-o; cu foc m-ai lămurit, dar nu s-a aflat întru mine nedreptate.",
+        "grk": "Ἐδοκίμασας τὴν καρδίαν μου, ἐπεσκέψω νυκτὸς, ἐπύρωσάς με, καὶ οὐχ εὑρέθη ἐν ἐμοὶ ἀδικία·"
       }
     },
     {
@@ -35,7 +38,8 @@
       "translation": "As for the works of men, by the words of thy lips I have guarded myself from hard ways.",
       "words": [],
       "translations": {
-        "ron": "Ca să nu grăiască gura mea lucruri omeneşti, pentru cuvintele buzelor Tale eu am păzit căi aspre."
+        "ron": "Ca să nu grăiască gura mea lucruri omeneşti, pentru cuvintele buzelor Tale eu am păzit căi aspre.",
+        "grk": "ὅπως ἂν μὴ λαλήσῃ τὸ στόμα μου. Τὰ ἔργα τῶν ἀνθρώπων, διὰ τοὺς λόγους τῶν χειλέων σου ἐγὼ ἐφύλαξα ὁδοὺς σκληράς."
       }
     },
     {
@@ -44,7 +48,8 @@
       "translation": "Direct my steps in thy paths, that my steps slip not.",
       "words": [],
       "translations": {
-        "ron": "Îndreaptă picioarele mele în cărările Tale, ca să nu şovăie paşii mei."
+        "ron": "Îndreaptă picioarele mele în cărările Tale, ca să nu şovăie paşii mei.",
+        "grk": "Κατάρτισαι τὰ διαβήματά μου ἐν ταῖς τρίβοις σου, ἵνα μὴ σαλευθῇ τὰ διαβήματά μου."
       }
     },
     {
@@ -53,7 +58,8 @@
       "translation": "I have cried, for thou heardest me, O God: incline thine ear to me, and hearken to my words.",
       "words": [],
       "translations": {
-        "ron": "Eu am strigat, că m-ai auzit Dumnezeule; pleacă urechea Ta către mine şi auzi cuvintele mele."
+        "ron": "Eu am strigat, că m-ai auzit Dumnezeule; pleacă urechea Ta către mine şi auzi cuvintele mele.",
+        "grk": "Ἐγὼ ἐκεκραξα, ὅτι ἐπήκουσας μου ὁ Θεός· κλῖνον τὸ οὖς σου ἐμοὶ, καὶ εἰσάκουσον τῶν ῥημάτων μου."
       }
     },
     {
@@ -62,7 +68,8 @@
       "translation": "Shew the marvels of thy mercies, thou that savest them that hope in thee.",
       "words": [],
       "translations": {
-        "ron": "Minunate fă milele Tale, Cel ce mântuieşti pe cei ce nădăjduiesc în Tine de cei ce stau împotriva dreptei Tale."
+        "ron": "Minunate fă milele Tale, Cel ce mântuieşti pe cei ce nădăjduiesc în Tine de cei ce stau împotriva dreptei Tale.",
+        "grk": "Θαυμάστωσον τὰ ἐλέη σου, ὁ σώζων τοὺς ἐλπίζοντας ἐπὶ σέ· ἐκ τῶν ἀνθεστηκότων τῇ δεξιᾷ σου,"
       }
     },
     {
@@ -71,7 +78,8 @@
       "translation": "Keep me as the apple of the eye from those that resist thy right hand: thou shalt screen me by the covering of thy wings,",
       "words": [],
       "translations": {
-        "ron": "Păzeşte-mă, Doamne, ca pe lumina ochilor; cu acoperământul aripilor Tale acoperă-mă"
+        "ron": "Păzeşte-mă, Doamne, ca pe lumina ochilor; cu acoperământul aripilor Tale acoperă-mă",
+        "grk": "φύλαξόν με ὡς κόρην ὀφθαλμοῦ· ἐν σκέπῃ τῶν πτερύγων σου σκεπάσεις με,"
       }
     },
     {
@@ -80,7 +88,8 @@
       "translation": "from the face of the ungodly that have afflicted me: mine enemies have compassed about my soul.",
       "words": [],
       "translations": {
-        "ron": "De faţa necredincioşilor care mă necăjesc pe mine. Vrăjmaşii mei sufletul meu l-au cuprins;"
+        "ron": "De faţa necredincioşilor care mă necăjesc pe mine. Vrăjmaşii mei sufletul meu l-au cuprins;",
+        "grk": "ἀπὸ προσώπου ἀσεβῶν τῶν ταλαιπωρησάντων με· οἱ ἐχθροί μου τὴν ψυχήν μου περιέσχον."
       }
     },
     {
@@ -89,7 +98,8 @@
       "translation": "They have enclosed themselves with their own fat: their mouth has spoken pride.",
       "words": [],
       "translations": {
-        "ron": "Cu grăsime inima lor şi-au încuiat, gura lor a grăit mândrie."
+        "ron": "Cu grăsime inima lor şi-au încuiat, gura lor a grăit mândrie.",
+        "grk": "Τὸ στέαρ αὐτῶν συνέκλεισαν, τὸ στόμα αὐτῶν ἐλάλησεν ὑπερηφανίαν."
       }
     },
     {
@@ -98,7 +108,8 @@
       "translation": "They have now cast me out and compassed me round about: they have set their eyes so as to bow them down to the ground.",
       "words": [],
       "translations": {
-        "ron": "Izgonindu-mă acum m-au înconjurat, ochii lor şi-au aţintit ca să mă plece la pământ."
+        "ron": "Izgonindu-mă acum m-au înconjurat, ochii lor şi-au aţintit ca să mă plece la pământ.",
+        "grk": "Ἐκβαλόντες με νυνὶ περιεκύκλωσάν με, τοὺς ὀφθαλμοὺς αὐτὼν ἔθεντο ἐκκλῖναι ἐν τῇ γῇ."
       }
     },
     {

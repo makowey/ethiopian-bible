@@ -41,7 +41,8 @@
       "translations": {
         "lxx": "Has the hand of the Lord no power to save? or has he made his ear heavy, so that he should not hear?",
         "kjv": "Behold, the LORD’s hand is not shortened, that it cannot save; neither his ear heavy, that it cannot hear:",
-        "ron": "Iată, mâna Domnului nu este prea scurtă ca să nu poată să izbăvească, şi urechea Lui prea tare ca să nu audă."
+        "ron": "Iată, mâna Domnului nu este prea scurtă ca să nu poată să izbăvească, şi urechea Lui prea tare ca să nu audă.",
+        "grk": "Μὴ οὐκ ἰσχύει ἡ χεὶρ Κυρίου τοῦ σῶσαι; ἢ ἐβάρυνε τὸ οὖς αὐτοῦ τοῦ μὴ εἰσακοῦσαι;"
       }
     },
     {
@@ -113,7 +114,8 @@
       "translations": {
         "lxx": "Nay, your iniquities separate between you and God, and because of your sins has he turned away his face from you, so as not to have mercy upon you.",
         "kjv": "But your iniquities have separated between you and your God, and your sins have hid his face from you, that he will not hear.",
-        "ron": "Ci nelegiuirile voastre au pus despărţire intre voi şi Dumnezeul vostru şi păcatele voastre L-au făcut să-Şi ascundă faţa ca să nu vă audă."
+        "ron": "Ci nelegiuirile voastre au pus despărţire intre voi şi Dumnezeul vostru şi păcatele voastre L-au făcut să-Şi ascundă faţa ca să nu vă audă.",
+        "grk": "Ἀλλὰ τὰ ἁμαρτήματα ὑμῶν διϊστῶσιν ἀναμέσον ὑμῶν καὶ ἀναμέσον τοῦ Θεοῦ, καὶ διὰ τὰς ἁμαρτίας ὑμῶν ἀπέστρεψεν τὸ πρόσωπον ἀφʼ ὑμῶν τοῦ μὴ ἐλεῆσαι."
       }
     },
     {
@@ -180,7 +182,8 @@
       "translations": {
         "lxx": "For your hands are defiled with blood, and your fingers with sins; your lips also have spoken iniquity, and your tongue meditates unrighteousness.",
         "kjv": "For your hands are defiled with blood, and your fingers with iniquity; your lips have spoken lies, your tongue hath muttered perverseness.",
-        "ron": "Pentru că mâinile voastre sunt întinate cu sânge şi degetele voastre cu nelegiuiri; buzele voastre grăiesc cuvinte mincinoase şi limba voastră, strâmbătate."
+        "ron": "Pentru că mâinile voastre sunt întinate cu sânge şi degetele voastre cu nelegiuiri; buzele voastre grăiesc cuvinte mincinoase şi limba voastră, strâmbătate.",
+        "grk": "Αἱ γὰρ χεῖρες ὑμῶν μεμολυσμέναι αἵματι, καὶ οἱ δάκτυλοι ὑμῶν ἐν ἁμαρτίαις, τὰ δὲ χείλη ὑμῶν ἐλάλησεν ἀνομίαν, καὶ ἡ γλῶσσα ὑμῶν ἀδικίαν μελετᾷ."
       }
     },
     {
@@ -217,7 +220,8 @@
       "translations": {
         "lxx": "None speaks justly, neither is there true judgment: they trust in vanities, and speak empty words; for they conceive trouble, and bring forth iniquity.",
         "kjv": "None calleth for justice, nor any pleadeth for truth: they trust in vanity, and speak lies; they conceive mischief, and bring forth iniquity.",
-        "ron": "Nimeni nu cheamă în sprijinul său dreptatea şi cu cinste nici un judecător nu hotărăşte; ci toţi îşi pun nădejdea în lucruri deşarte şi în vorbe fără rost: zămislesc silnicia şi nasc păcatul."
+        "ron": "Nimeni nu cheamă în sprijinul său dreptatea şi cu cinste nici un judecător nu hotărăşte; ci toţi îşi pun nădejdea în lucruri deşarte şi în vorbe fără rost: zămislesc silnicia şi nasc păcatul.",
+        "grk": "Οὐθεὶς λαλεῖ δίκαια, οὐδὲ ἐστι κρίσις ἀληθινή· πεποίθασιν ἐπὶ ματαίοις, καὶ λαλοῦσι κενὰ, ὅτι κύουσι πόνον, καὶ τίκτουσιν ἀνομίαν."
       }
     },
     {
@@ -314,7 +318,8 @@
       "translations": {
         "lxx": "They have hatched asps' eggs, and weave a spider's web: and he that is going to eat of their eggs, having crushed an addled egg, has found also in it a basilisk.",
         "kjv": "They hatch cockatrice’ eggs, and weave the spider’s web: he that eateth of their eggs dieth, and that which is crushed breaketh out into a viper.",
-        "ron": "Clocesc ouă de şarpe şi urzesc pânză de păianjen: cine mănâncă din ouăle lor moare, iar din cele sparte ies năpârci."
+        "ron": "Clocesc ouă de şarpe şi urzesc pânză de păianjen: cine mănâncă din ouăle lor moare, iar din cele sparte ies năpârci.",
+        "grk": "Ὠὰ ἀσπίδων ἔῤῥηξαν, καὶ ἱστὸν ἀράχνης ὑφαίνουσι, καὶ ὁ μέλλων τῶν ὠῶν αὐτῶν φαγεῖν, συντρίψας οὔριον, εὗρε καὶ ἐν αὐτῷ βασιλίσκου."
       }
     },
     {
@@ -371,7 +376,8 @@
       "translations": {
         "lxx": "Their web shall not become a garment, nor shall they at all clothe themselves with their works; for their works are works of iniquity.",
         "kjv": "Their webs shall not become garments, neither shall they cover themselves with their works: their works are works of iniquity, and the act of violence is in their hands.",
-        "ron": "Din pânza lor veşminte nu se pot face şi cu lucrul făcut de mâna lor nu se acoperă, căci lucrul lor este lucru rău; în mâinile lor sunt numai fapte silnice."
+        "ron": "Din pânza lor veşminte nu se pot face şi cu lucrul făcut de mâna lor nu se acoperă, căci lucrul lor este lucru rău; în mâinile lor sunt numai fapte silnice.",
+        "grk": "Ὁ ἱστὸς αὐτῶν οὐκ ἔσται εἰς ἱμάτιον, οὐδὲ μὴ περιβάλωνται ἀπὸ τῶν ἔργων αὐτῶν· τὰ γὰρ ἔργα αὐτῶν, ἔργα ἀνομίας."
       }
     },
     {
@@ -438,7 +444,8 @@
       "translations": {
         "lxx": "And their feet run to wickedness, swift to shed blood; their thoughts also are thoughts of murder; destruction and misery are in their ways;",
         "kjv": "Their feet run to evil, and they make haste to shed innocent blood: their thoughts are thoughts of iniquity; wasting and destruction are in their paths.",
-        "ron": "Picioarele lor aleargă spre rău, grabnice să verse sânge nevinovat; cugetele lor sunt cugete viclene; în calea lor sălăşluiesc pustiirea şi prăpădul."
+        "ron": "Picioarele lor aleargă spre rău, grabnice să verse sânge nevinovat; cugetele lor sunt cugete viclene; în calea lor sălăşluiesc pustiirea şi prăpădul.",
+        "grk": "Οἱ δὲ πόδες αὐτῶν ἐπὶ πονηρίαν τρέχουσι, ταχινοὶ ἐκχέαι αἷμα, καὶ οἱ διαλογισμοὶ αὐτὼν, διαλογισμοὶ ἀπὸ φόνων· σύντριμμα καὶ ταλαιπωρία ἐν ταῖς ὁδοῖς αὐτῶν,"
       }
     },
     {
@@ -510,7 +517,8 @@
       "translations": {
         "lxx": "and the way of peace they know not, neither is there judgment in their ways; for their paths by which they go are crooked, and they know not peace.",
         "kjv": "The way of peace they know not; and there is no judgment in their goings: they have made them crooked paths: whosoever goeth therein shall not know peace.",
-        "ron": "Nu cunosc drumul păcii şi pe urmele lor nu este nici o dreptate; cărările lor sunt întortocheate şi cine porneşte pe ele nu ştie de pace."
+        "ron": "Nu cunosc drumul păcii şi pe urmele lor nu este nici o dreptate; cărările lor sunt întortocheate şi cine porneşte pe ele nu ştie de pace.",
+        "grk": "καὶ ὁδὸν εἰρήνης οὐκ οἴδασι, καὶ οὐκ ἔστι κρίσις ἐν ταῖς ὁδοῖς αὐτῶν· αἱ γὰρ τρίβοι αὐτῶν διεστραμμέναι ἃς διοδεύουσι, καὶ οὐκ οἴδασιν εἰρήνην."
       }
     },
     {
@@ -597,7 +605,8 @@
       "translations": {
         "lxx": "Therefore has judgment departed from them, and righteousness shall not overtake them: while they waited for light, darkness came upon them; while they waited for brightness, they walked in perplexity.",
         "kjv": "Therefore is judgment far from us, neither doth justice overtake us: we wait for light, but behold obscurity; for brightness, but we walk in darkness.",
-        "ron": "Pentru aceasta, judecata este departe de noi şi dreptatea nu ne ajunge. Noi aşteptăm lumina, dar iată întunericul; aşteptăm revărsatul zorilor, dar umblăm în beznă."
+        "ron": "Pentru aceasta, judecata este departe de noi şi dreptatea nu ne ajunge. Noi aşteptăm lumina, dar iată întunericul; aşteptăm revărsatul zorilor, dar umblăm în beznă.",
+        "grk": "Διατοῦτο ἀπέστη ἡ κρίσις ἀπʼ αὐτῶν, καὶ οὐ μὴ καταλάβῃ αὐτοὺς δικαιοσύνη· ὑπομεινάντων αὐτῶν φῶς ἐγένετο αὐτοῖς σκότος, μείναντες αὐγὴν ἐν ἀωρίᾳ περιεπάτησαν."
       }
     },
     {
@@ -684,7 +693,8 @@
       "translations": {
         "lxx": "They shall feel for the wall as blind men, and shall feel for it as if they had no eyes: and they shall feel at noon-day as at midnight; they shall groan as dying men.",
         "kjv": "We grope for the wall like the blind, and we grope as if we had no eyes: we stumble at noon day as in the night; we are in desolate places as dead men.",
-        "ron": "Umblăm bâjbâind, ca orbii pe lângă zid; ca şi cei fără ochi bâjbâim mereu, ne poticnim în miezul zilei ca şi pe înserate; între oamenii în putere suntem ca nişte morţi."
+        "ron": "Umblăm bâjbâind, ca orbii pe lângă zid; ca şi cei fără ochi bâjbâim mereu, ne poticnim în miezul zilei ca şi pe înserate; între oamenii în putere suntem ca nişte morţi.",
+        "grk": "Ψηλαφήσουσιν ὡς τυφλοὶ τοῖχον, καὶ ὡς οὐχ ὑπαρχόντων ὀφθαλμῶν ψηλαφήσουσι· καὶ πεσοῦνται ἐν μεσημβρίᾳ ὡς ἐν μεσονυκτίῳ, ὡς ἀποθνήσκοντες στενάξουσιν·"
       }
     },
     {
@@ -761,7 +771,8 @@
       "translations": {
         "lxx": "They shall proceed together as a bear and as a dove: we have waited for judgment, and there is no salvation, it is gone far from us.",
         "kjv": "We roar all like bears, and mourn sore like doves: we look for judgment, but there is none; for salvation, but it is far off from us.",
-        "ron": "Mormăim toţi ca urşii, ne văităm ca porumbiţa, aşteptăm judecata, dar ea nu vine; mântuirea, dar ea este departe de noi."
+        "ron": "Mormăim toţi ca urşii, ne văităm ca porumbiţa, aşteptăm judecata, dar ea nu vine; mântuirea, dar ea este departe de noi.",
+        "grk": "Ὡς ἄρκος καὶ ὡς περιστερὰ ἅμα πορεύσονται· ἀνεμείναμεν κρίσιν, καὶ οὐκ ἔστι σωτηρία, μακρὰν ἀφέστηκεν ἀφʼ ἡμῶν."
       }
     },
     {
@@ -803,7 +814,8 @@
       "translations": {
         "lxx": "For our iniquity is great before thee, and our sins have risen up against us: for our iniquities are in us, and we know our unrighteous deeds.",
         "kjv": "For our transgressions are multiplied before thee, and our sins testify against us: for our transgressions are with us; and as for our iniquities, we know them;",
-        "ron": "Că păcatele noastre s-au înmulţit înaintea Ta şi nelegiuirile sunt mărturie împotriva noastră; fărădelegile noastre sunt de faţă şi faptele noastre nelegiuite le ştim:"
+        "ron": "Că păcatele noastre s-au înmulţit înaintea Ta şi nelegiuirile sunt mărturie împotriva noastră; fărădelegile noastre sunt de faţă şi faptele noastre nelegiuite le ştim:",
+        "grk": "Πολλὴ γὰρ ἡμῶν ἡ ἀνομία ἐναντίον σου, καὶ αἱ ἁμαρτίαι ἡμῶν ἀντέστησαν ἡμῖν· αἱ γὰρ ἀνομίαι ἡμῶν ἐν ἡμῖν, καὶ τὰ ἀδικήματα ἡμῶν ἔγνωμεν."
       }
     },
     {
@@ -870,7 +882,8 @@
       "translations": {
         "lxx": "We have sinned, and dealt falsely, and revolted from our God: we have spoken unrighteous words, and have been disobedient; we have conceived and uttered from our heart unrighteous words.",
         "kjv": "In transgressing and lying against the LORD, and departing away from our God, speaking oppression and revolt, conceiving and uttering from the heart words of falsehood.",
-        "ron": "Necredinţa şi tăgada Domnului, căderea de la credinţa în Dumnezeu, grăirea minciunii şi răzvrătirea, născocirea şi cugetarea la lucruri viclene."
+        "ron": "Necredinţa şi tăgada Domnului, căderea de la credinţa în Dumnezeu, grăirea minciunii şi răzvrătirea, născocirea şi cugetarea la lucruri viclene.",
+        "grk": "Ἠσεβήσαμεν καὶ ἐψευσάμεθα, καὶ ἀπέστημεν ὄπισθεν τοῦ Θεοῦ ἡμῶν· ἐλαλήσαμεν ἄδικα, καὶ ἠπειθήσαμεν· ἐκύομεν, καὶ ἐμελετήσαμεν ἀπὸ καρδίας ἡμῶν λόγους ἀδίκους·"
       }
     },
     {
@@ -927,7 +940,8 @@
       "translations": {
         "lxx": "And we have turned judgment back, and righteousness has departed afar off: for truth is consumed in their ways, and they could not pass by a straight path.",
         "kjv": "And judgment is turned away backward, and justice standeth afar off: for truth is fallen in the street, and equity cannot enter.",
-        "ron": "Şi lăsată la o parte este judecata, iar dreptatea stă departe; adevărul se poticneşte în pieţe şi fapta cinstită nu mai are loc."
+        "ron": "Şi lăsată la o parte este judecata, iar dreptatea stă departe; adevărul se poticneşte în pieţe şi fapta cinstită nu mai are loc.",
+        "grk": "Καὶ ἀπεστήσαμεν ὀπίσω τὴν κρίσιν, καὶ ἡ δικαιοσύνη μακρὰν ἀφέστηκεν· ὅτι κατηναλώθη ἐν ταῖς ὁδοῖς αὐτῶν ἡ ἀλήθεια, καὶ διʼ εὐθείας οὐκ ἐδύναντο διελθεῖν."
       }
     },
     {
@@ -969,7 +983,8 @@
       "translations": {
         "lxx": "And truth has been taken away, and they have turned aside their mind from understanding. And the Lord saw it, and it pleased him not that there was no judgment.",
         "kjv": "Yea, truth faileth; and he that departeth from evil maketh himself a prey: and the LORD saw it, and it displeased him that there was no judgment.",
-        "ron": "Adevărul nu mai este şi cel ce se dă la o parte din calea răutăţii este sfărâmat. Şi Dumnezeul nostru a văzut şi S-a mâniat că nu mai este dreptate."
+        "ron": "Adevărul nu mai este şi cel ce se dă la o parte din calea răutăţii este sfărâmat. Şi Dumnezeul nostru a văzut şi S-a mâniat că nu mai este dreptate.",
+        "grk": "Καὶ ἡ ἀλήθεια ᾖρται, καὶ μετέστησαν τὴν διάνοιαν τοῦ συνιέναι. Καὶ εἶδε Κύριος, καὶ οὐκ ἤρεσεν αὐτῷ, ὅτι οὐκ ἦν κρίσις."
       }
     },
     {
@@ -1036,7 +1051,8 @@
       "translations": {
         "lxx": "And he looked, and there was no man, and he observed, and there was none to help: so he defended them with his arm, and stablished them with his mercy.",
         "kjv": "And he saw that there was no man, and wondered that there was no intercessor: therefore his arm brought salvation unto him; and his righteousness, it sustained him.",
-        "ron": "Şi a văzut că nu este nici un om şi S-a mirat că nimeni nu mijloceşte. Atunci braţul Lui I-a venit în ajutor, şi dreptatea Sa a fost sprijinul Său."
+        "ron": "Şi a văzut că nu este nici un om şi S-a mirat că nimeni nu mijloceşte. Atunci braţul Lui I-a venit în ajutor, şi dreptatea Sa a fost sprijinul Său.",
+        "grk": "Καὶ εἶδε, καὶ οὐκ ἦν ἀνήρ, καὶ κατενοήσε, καὶ οὐκ ἦν ὁ ἀντιληψόμενος· καὶ ἠμύνατο αὐτοὺς τῷ βραχίονι αὐτοῦ, καὶ τῇ ἐλεημοσύνῃ ἐστηρίσατο."
       }
     },
     {
@@ -1113,7 +1129,8 @@
       "translations": {
         "lxx": "And he put on righteousness as a breast-plate, and placed the helmet of salvation on his head; and he clothed himself with the garment of vengeance, and with his cloak,",
         "kjv": "For he put on righteousness as a breastplate, and an helmet of salvation upon his head; and he put on the garments of vengeance for clothing, and was clad with zeal as a cloak.",
-        "ron": "S-a îmbrăcat cu dreptatea ca şi cu o platoşă şi a pus pe capul Său coiful izbăvirii; S-a îmbrăcat cu răzbunarea ca şi cu o haină şi S-a înfăşurat în râvna Sa ca şi într-o mantie."
+        "ron": "S-a îmbrăcat cu dreptatea ca şi cu o platoşă şi a pus pe capul Său coiful izbăvirii; S-a îmbrăcat cu răzbunarea ca şi cu o haină şi S-a înfăşurat în râvna Sa ca şi într-o mantie.",
+        "grk": "Καὶ ἐνεδύσατο δικαιοσύνην ὡς θώρακα, καὶ περιέθετο περικεφαλαίαν σωτηρίου ἐπὶ τῆς κεφαλῆς, καὶ περιεβάλετο ἱμάτιον ἐκδικήσεως, καὶ τὸ περιβόλαιον αὐτοῦ,"
       }
     },
     {
@@ -1155,7 +1172,8 @@
       "translations": {
         "lxx": "as one about to render a recompence, even reproach to his adversaries.",
         "kjv": "According to their deeds, accordingly he will repay, fury to his adversaries, recompence to his enemies; to the islands he will repay recompence.",
-        "ron": "După faptă şi răsplată: urgie împotriva vrăjmaşilor şi răsplată după faptă împotrivitorilor Lui; ţinuturilor celor de departe, răsplata cuvenită."
+        "ron": "După faptă şi răsplată: urgie împotriva vrăjmaşilor şi răsplată după faptă împotrivitorilor Lui; ţinuturilor celor de departe, răsplata cuvenită.",
+        "grk": "ὡς ἀνταποδώσων ἀνταπόδοσιν ὄνειδος τοῖς ὑπεναντίοις."
       }
     },
     {
@@ -1217,7 +1235,8 @@
       "translations": {
         "lxx": "So shall they of the west fear the name of the Lord, and they that come from the rising of the sun his glorious name: for the wrath of the Lord shall come as a mighty river, it shall come with fury.",
         "kjv": "So shall they fear the name of the LORD from the west, and his glory from the rising of the sun. When the enemy shall come in like a flood, the Spirit of the LORD shall lift up a standard against him.",
-        "ron": "Cei de la apus se vor teme de numele Domnului şi cei de la răsărit, de slava Lui; că va veni ca un şuvoi îngust pe care Duhul Domnului îl mână."
+        "ron": "Cei de la apus se vor teme de numele Domnului şi cei de la răsărit, de slava Lui; că va veni ca un şuvoi îngust pe care Duhul Domnului îl mână.",
+        "grk": "Καὶ φοβηθήσονται οἱ ἀπὸ δυσμῶν τὸ ὄνομα Κυρίου, καὶ οἱ ἀπʼ ἀνατολῶν ἡλίου τὸ ὄνομα τὸ ἔνδοξον· ἥξει γὰρ ὡς ποταμὸς βίαιος ἡ ὀργὴ παρὰ Κυρίου, ἥξει μετὰ θυμοῦ."
       }
     },
     {
@@ -1259,7 +1278,8 @@
       "translations": {
         "lxx": "And the deliverer shall come for Sion's sake, and shall turn away ungodliness from Jacob.",
         "kjv": "And the Redeemer shall come to Zion, and unto them that turn from transgression in Jacob, saith the LORD.",
-        "ron": "\"Pentru Sion El va veni ca un Mântuitor, pentru cei din Iacov care se vor căi de păcatele lor\", zice Domnul."
+        "ron": "\"Pentru Sion El va veni ca un Mântuitor, pentru cei din Iacov care se vor căi de păcatele lor\", zice Domnul.",
+        "grk": "Καὶ ἥξει ἕνεκεν Σιὼν ὁ ῥυόμενος, καὶ ἀποστρέψει ἀσεβείας ἀπὸ Ἰακώβ."
       }
     },
     {
@@ -1381,7 +1401,8 @@
       "translations": {
         "lxx": "And this shall be my covenant with them, said the Lord; My Spirit which is upon thee, and the words which I have put in thy mouth, shall never fail from thy mouth, nor from the mouth of thy seed, for the Lord has spoken it, henceforth and for ever.",
         "kjv": "As for me, this is my covenant with them, saith the LORD; My spirit that is upon thee, and my words which I have put in thy mouth, shall not depart out of thy mouth, nor out of the mouth of thy seed, nor out of the mouth of thy seed’s seed, saith the LORD, from henceforth and for ever.",
-        "ron": "Iată, acesta este legământul Meu cu ei, zice Domnul: \"Duhul Meu, Care odihneşte peste tine, şi cuvintele Mele pe care le-am pus în gura ta, să nu se depărteze din gura ta, nici din gura urmaşilor tăi şi nici din gura urmaşilor urmaşilor tăi, zice Domnul, de acum şi până în veac!\""
+        "ron": "Iată, acesta este legământul Meu cu ei, zice Domnul: \"Duhul Meu, Care odihneşte peste tine, şi cuvintele Mele pe care le-am pus în gura ta, să nu se depărteze din gura ta, nici din gura urmaşilor tăi şi nici din gura urmaşilor urmaşilor tăi, zice Domnul, de acum şi până în veac!\"",
+        "grk": "Καὶ αὕτη αὐτοῖς ἡ παρʼ ἐμοῦ διαθήκη, εἶπε Κύριος· τὸ πνεῦμα τὸ ἐμὸν, ὅ ἐστιν ἐπὶ σοί, καὶ τὰ ῥήματα, ἃ ἔδωκα εἰς τὸ στόμα σου, οὐ μὴ ἐκλίπῃ ἐκ τοῦ στόματός σου, καὶ ἐκ τοῦ στόματος τοῦ σπέρματός σου· εἶπε γὰρ Κύριος ἀπὸ τοῦ νῦν καὶ εἰς τὸν αἰῶνα."
       }
     }
   ],

@@ -8,7 +8,8 @@
       "translation": "A Song of Degrees. Out of the depths have I cried to thee, O Lord.",
       "words": [],
       "translations": {
-        "ron": "Dintru adâncuri am strigat către Tine; Doamne! Doamne, auzi glasul meu!"
+        "ron": "Dintru adâncuri am strigat către Tine; Doamne! Doamne, auzi glasul meu!",
+        "grk": "Ὠδὴ τῶν ἀναβαθμῶν. Ἐκ βαθέων ἐκέκραξά σοι Κύριε."
       }
     },
     {
@@ -17,7 +18,8 @@
       "translation": "O Lord, hearken to my voice; let thine ears be attentive to the voice of my supplication.",
       "words": [],
       "translations": {
-        "ron": "Fie urechile Tale cu luare-aminte la glasul rugăciunii mele."
+        "ron": "Fie urechile Tale cu luare-aminte la glasul rugăciunii mele.",
+        "grk": "Κύριε εἰσάκουσον τῆς φωνῆς μου· γενηθήτω τὰ ὦτά σου προσέχοντα εἰς τὴν φωνὴν τῆς δεήσεώς μου."
       }
     },
     {
@@ -26,7 +28,8 @@
       "translation": "If thou, O Lord, shouldest mark iniquities, O Lord, who shall stand?",
       "words": [],
       "translations": {
-        "ron": "De Te vei uita la fărădelegi, Doamne, Doamne, cine va suferi?"
+        "ron": "De Te vei uita la fărădelegi, Doamne, Doamne, cine va suferi?",
+        "grk": "Ἐὰν ἀνομίας παρατηρήσῃς Κύριε, Κύριε, τίς ὑποστήσεται;"
       }
     },
     {
@@ -35,7 +38,8 @@
       "translation": "For with thee is forgiveness: for thy name's sake",
       "words": [],
       "translations": {
-        "ron": "Că la Tine este milostivirea."
+        "ron": "Că la Tine este milostivirea.",
+        "grk": "Ὅτι παρὰ σοὶ ὁ ἱλασμός ἐστιν· ἕνεκεν τοῦ ὀνόματός σου"
       }
     },
     {
@@ -44,7 +48,8 @@
       "translation": "have I waited for thee, O Lord, my soul has waited for thy word.",
       "words": [],
       "translations": {
-        "ron": "Pentru numele Tău, Te-am aşteptat, Doamne; aşteptat-a sufletul meu spre cuvântul Tău,"
+        "ron": "Pentru numele Tău, Te-am aşteptat, Doamne; aşteptat-a sufletul meu spre cuvântul Tău,",
+        "grk": "ὑπέμεινά σε Κύριε, ὑπέμεινεν ἡ ψυχή μου εἰς τὸν λόγον σου,"
       }
     },
     {
@@ -53,7 +58,8 @@
       "translation": "My soul has hoped in the Lord; from the morning watch till night.",
       "words": [],
       "translations": {
-        "ron": "Nădăjduit-a sufletul meu în Domnul, din straja dimineţii până în noapte. Din straja dimineţii să nădăjduiască Israel spre Domnul."
+        "ron": "Nădăjduit-a sufletul meu în Domnul, din straja dimineţii până în noapte. Din straja dimineţii să nădăjduiască Israel spre Domnul.",
+        "grk": "ἤλπισεν ἡ ψυχή μου ἐπὶ τὸν Κύριον· ἀπὸ φυλακῆς πρωΐας μέχρι νυκτός,"
       }
     },
     {
@@ -62,7 +68,8 @@
       "translation": "Let Israel hope in the Lord: for with the Lord is mercy, and with him is plenteous redemption.",
       "words": [],
       "translations": {
-        "ron": "Că la Domnul este mila şi multă mântuire la El"
+        "ron": "Că la Domnul este mila şi multă mântuire la El",
+        "grk": "Ἐλπισάτω Ἰσραὴλ ἐπὶ τὸν Κύριον· ὅτι παρὰ τῷ Κυρίῳ τὸ ἔλεος, καὶ πολλὴ παρ αὐτῷ λύτρωσις."
       }
     },
     {
@@ -71,7 +78,8 @@
       "translation": "And he shall redeem Israel from all his iniquities.",
       "words": [],
       "translations": {
-        "ron": "Şi El va izbăvi pe Israel din toate fărădelegile lui."
+        "ron": "Şi El va izbăvi pe Israel din toate fărădelegile lui.",
+        "grk": "Καὶ αὐτὸς λυτρώσεται τὸν Ἰσραὴλ ἐκ πασῶν τῶν ἀνομιῶν αὐτοῦ."
       }
     }
   ]

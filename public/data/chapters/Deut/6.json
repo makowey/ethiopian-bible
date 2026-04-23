@@ -101,7 +101,8 @@
       "translations": {
         "lxx": "And these are the commands, and the ordinances, and the judgments, as many as the Lord our God gave commandment to teach you to do so in the land on which ye enter to inherit it.",
         "kjv": "Now these are the commandments, the statutes, and the judgments, which the LORD your God commanded to teach you, that ye might do them in the land whither ye go to possess it:",
-        "ron": "\"Iată poruncile, hotărârile şi legile pe care mi-a poruncit Domnul Dumnezeul vostru să vă învăţ, ca să le păziţi în pământul acela în care mergeţi, ca să-l luaţi în stăpânire:"
+        "ron": "\"Iată poruncile, hotărârile şi legile pe care mi-a poruncit Domnul Dumnezeul vostru să vă învăţ, ca să le păziţi în pământul acela în care mergeţi, ca să-l luaţi în stăpânire:",
+        "grk": "Καὶ αὗται αἱ ἐντολαὶ καὶ τὰ δικαιώματα καὶ τὰ κρίματα ὅσα ἐνετείλατο Κύριος ὁ Θεὸς ἡμῶν διδάξαι ὑμᾶς ποιεῖν οὕτως ἐν τῇ γῇ, εἰς ἣν ὑμεῖς εἰσπορεύεσθε ἐκεῖ κληρονομῆσαι αὐτήν."
       }
     },
     {
@@ -228,7 +229,8 @@
       "translations": {
         "lxx": "That ye may fear the Lord your God, keep ye all his ordinances, and his commandments, which I command thee to-day, thou, and thy sons, and thy sons' sons, all the days of thy life, that ye may live many days.",
         "kjv": "That thou mightest fear the LORD thy God, to keep all his statutes and his commandments, which I command thee, thou, and thy son, and thy son’s son, all the days of thy life; and that thy days may be prolonged.",
-        "ron": "Să te temi de Domnul Dumnezeul tău şi toate hotărârile Lui şi poruncile Lui, pe care ti le spun eu astăzi, să le păzeşti tu şi fiii tăi şi fiii fiilor tăi, în toate zilele vieţii tale, ca să se înmulţească zilele tale."
+        "ron": "Să te temi de Domnul Dumnezeul tău şi toate hotărârile Lui şi poruncile Lui, pe care ti le spun eu astăzi, să le păzeşti tu şi fiii tăi şi fiii fiilor tăi, în toate zilele vieţii tale, ca să se înmulţească zilele tale.",
+        "grk": "Ἵνα φοβῆσθε Κύριον τὸν Θεὸν ὑμῶν, φυλάσσεσθε πάντα τὰ δικαιώματα αὐτοῦ, καὶ τὰς ἐντολὰς αὐτοῦ, ἃς ἐγὼ ἐντέλλομαί σοι σήμερον, σὺ καὶ οἱ υἱοί σου, καὶ οἱ υἱοὶ τῶν υἱῶν σου πάσας τὰς ἡμέρας τῆς ζωῆς σου, ἵνα μακροημερεύσητε."
       }
     },
     {
@@ -445,7 +447,8 @@
       "translations": {
         "lxx": "Hear, therefore, O Israel, and observe to do them, that it may be well with thee, and that ye may be greatly multiplied, as the Lord God of thy fathers said that he would give thee a land flowing with milk and honey: and these are the ordinances, and the judgments, which the Lord commanded the children of Israel in the wilderness, when they had gone forth from the land of Egypt.",
         "kjv": "Hear therefore, O Israel, and observe to do it; that it may be well with thee, and that ye may increase mightily, as the LORD God of thy fathers hath promised thee, in the land that floweth with milk and honey.",
-        "ron": "Ascultă dar, Israele, şi sileşte-te să împlineşti acestea, ca să-ţi fie bine Şi să vă înmulţiţi foarte, precum ţi-a grăit Domnul Dumnezeul părinţilor tăi că-li va da pământul unde curge lapte şi miere. Acestea sunt hotărârile şi legile pe care le-a dat Domnul Dumnezeu fiilor lui Israel în pustie, după ieşirea lor din pământul Egiptului."
+        "ron": "Ascultă dar, Israele, şi sileşte-te să împlineşti acestea, ca să-ţi fie bine Şi să vă înmulţiţi foarte, precum ţi-a grăit Domnul Dumnezeul părinţilor tăi că-li va da pământul unde curge lapte şi miere. Acestea sunt hotărârile şi legile pe care le-a dat Domnul Dumnezeu fiilor lui Israel în pustie, după ieşirea lor din pământul Egiptului.",
+        "grk": "Καὶ ἄκουσον Ἰσραὴλ, καὶ φύλαξον ποιεῖν, ὅπως εὖ σοι ἠ·, καὶ ἵνα πληθυνθῆτε σφόδρα, καθάπερ ἐλάλησε Κύριος ὁ Θεὸς τῶν πατέρων σου δοῦναί σοι γῆν ῥέουσαν γάλα καὶ μέλι·"
       }
     },
     {
@@ -492,7 +495,8 @@
       "translations": {
         "lxx": "Hear, O Israel, The Lord our God is one Lord.",
         "kjv": "Hear, O Israel: The LORD our God is one LORD:",
-        "ron": "Ascultă, Israele, Domnul Dumnezeul nostru este singurul Domn."
+        "ron": "Ascultă, Israele, Domnul Dumnezeul nostru este singurul Domn.",
+        "grk": "καὶ ταῦτα τὰ δικαιώματα καὶ τὰ κρίματα, ὅσα ἐνετείλατο Κύριος τοῖς υἱοῖς Ἰσραὴλ ἐν τῇ ἐρήμῳ, ἐξελθόντων αὐτῶν ἐκ γῆν Αἰγύπτου. Ἄκουε Ἰσραὴλ, Κύριος ὁ Θεὸς ἡμῶν, Κύριος εἷς ἐστι."
       }
     },
     {
@@ -549,7 +553,8 @@
       "translations": {
         "lxx": "And thou shalt love the Lord thy God with all thy mind, and with all thy soul, and all thy strength.",
         "kjv": "And thou shalt love the LORD thy God with all thine heart, and with all thy soul, and with all thy might.",
-        "ron": "Să iubeşti pe Domnul Dumnezeul tău, din toată inima ta, din tot sufletul tău şi din toată puterea ta."
+        "ron": "Să iubeşti pe Domnul Dumnezeul tău, din toată inima ta, din tot sufletul tău şi din toată puterea ta.",
+        "grk": "Καὶ ἀγαπήσεις Κύριον τὸν Θεόν σου ἐξ ὅλης τῆς διανοίας σου, καὶ ἐξ ὅλης τῆς ψυχῆς σου, καὶ ἐξ ὅλης τῆς δυνάμεώς σου."
       }
     },
     {
@@ -616,7 +621,8 @@
       "translations": {
         "lxx": "And these words, all that I command thee this day, shall be in thy heart and in thy soul.",
         "kjv": "And these words, which I command thee this day, shall be in thine heart:",
-        "ron": "Cuvintele acestea, pe care ţi le spun eu astăzi, să le ai în inima ta şi în sufletul tău;"
+        "ron": "Cuvintele acestea, pe care ţi le spun eu astăzi, să le ai în inima ta şi în sufletul tău;",
+        "grk": "Καὶ ἔσται τὰ ῥήματα ταῦτα, ὅσα ἐγὼ ἐντέλλομαί σοι σήμερον, ἐν τῇ καρδίᾳ σου, καὶ ἐν τῇ ψυχῇ σου."
       }
     },
     {
@@ -708,7 +714,8 @@
       "translations": {
         "lxx": "And thou shalt teach them to thy children, and thou shalt speak of them sitting in the house, and walking by the way, and lying down, and rising up.",
         "kjv": "And thou shalt teach them diligently unto thy children, and shalt talk of them when thou sittest in thine house, and when thou walkest by the way, and when thou liest down, and when thou risest up.",
-        "ron": "Să le sădeşti în fiii tăi şi să vorbeşti de ele când şezi în casa ta, când mergi pe cale, când te culci şi când te scoli."
+        "ron": "Să le sădeşti în fiii tăi şi să vorbeşti de ele când şezi în casa ta, când mergi pe cale, când te culci şi când te scoli.",
+        "grk": "Καὶ προβιβάσεις αὐτὰ τοὺς υἱούς σου, καὶ λαλήσεις ἐν αὐτοῖς καθήμενος ἐν οἴκῳ, καὶ πορευόμενος ἐν ὁδῷ, καὶ κοιταζόμενος, καὶ διανιστάμενος."
       }
     },
     {
@@ -765,7 +772,8 @@
       "translations": {
         "lxx": "And thou shalt fasten them for a sign upon thy hand, and it shall be immoveable before thine eyes.",
         "kjv": "And thou shalt bind them for a sign upon thine hand, and they shall be as frontlets between thine eyes.",
-        "ron": "Să le legi ca semn la mână şi să le ai ca pe o tăbliţă pe fruntea ta."
+        "ron": "Să le legi ca semn la mână şi să le ai ca pe o tăbliţă pe fruntea ta.",
+        "grk": "Καὶ ἀφάψεις αὐτὰ εἰς σημεῖον ἐπὶ τῆς χειρός σου, καὶ ἔσται ἀσάλευτον πρὸ ὀφθαλμῶν σου."
       }
     },
     {
@@ -812,7 +820,8 @@
       "translations": {
         "lxx": "And ye shall write them on the lintels of your houses and of your gates.",
         "kjv": "And thou shalt write them upon the posts of thy house, and on thy gates.",
-        "ron": "Să le scrii pe uşorii casei tale şi pe porţile tale."
+        "ron": "Să le scrii pe uşorii casei tale şi pe porţile tale.",
+        "grk": "Καὶ γράψετε αὐτὰ ἐπὶ τὰς φλιὰς τῶν οἰκιῶν ὑμῶν, καὶ τῶν πυλῶν ὑμῶν."
       }
     },
     {
@@ -919,7 +928,8 @@
       "translations": {
         "lxx": "And it shall come to pass when the Lord thy God shall have brought thee into the land which he sware to thy fathers, to Abraam, and to Isaac, and to Jacob, to give thee great and beautiful cities which thou didst not build,",
         "kjv": "And it shall be, when the LORD thy God shall have brought thee into the land which he sware unto thy fathers, to Abraham, to Isaac, and to Jacob, to give thee great and goodly cities, which thou buildedst not,",
-        "ron": "Iar când te va duce Domnul Dumnezeul tău în pământul acela pentru care s-a jurat părinţilor tăi: lui Avraam, lui Isaac şi lui Iacov, ca să ţi-l dea cu cetăţi mari şi frumoase, pe care nu le-ai zidit tu,"
+        "ron": "Iar când te va duce Domnul Dumnezeul tău în pământul acela pentru care s-a jurat părinţilor tăi: lui Avraam, lui Isaac şi lui Iacov, ca să ţi-l dea cu cetăţi mari şi frumoase, pe care nu le-ai zidit tu,",
+        "grk": "Καὶ ἔσται ὅταν εἰσαγάγῃ σε Κύριος ὁ Θεός σου εἰς τὴν γῆν ἣν ὤμοσε τοῖς πατράσι σου, τῷ Ἁβραὰμ, καὶ τῷ Ἰσαακ, καὶ τῷ Ἰακώβ, δοῦναί σοι πόλεις μεγάλας καὶ καλὰς ἃς οὐκ ᾠκοδόμησας,"
       }
     },
     {
@@ -1016,7 +1026,8 @@
       "translations": {
         "lxx": "houses full of all good things which thou didst not fill, wells dug in the rock which thou didst not dig, vineyards and oliveyards which thou didst not plant, then having eaten and been filled,",
         "kjv": "And houses full of all good things, which thou filledst not, and wells digged, which thou diggedst not, vineyards and olive trees, which thou plantedst not; when thou shalt have eaten and be full;",
-        "ron": "Cu case pline de toate bunătăţile, pe care nu le-ai umplut tu, cu fântâni săpate în piatră, pe care nu le-ai săpat tu, cu vii şi cu măslini, pe care nu le-ai sădit tu, şi vei mânca şi te vei sătura,"
+        "ron": "Cu case pline de toate bunătăţile, pe care nu le-ai umplut tu, cu fântâni săpate în piatră, pe care nu le-ai săpat tu, cu vii şi cu măslini, pe care nu le-ai sădit tu, şi vei mânca şi te vei sătura,",
+        "grk": "οἰκίας πλήρεις πάντων ἀγαθῶν ἃς οὐκ ἐνέπλησας, λάκκους λελατομημένους οὓς οὐκ ἐξελατόμησας, ἀμπελῶνας καὶ ἐλαιῶνας οὓς οὐ κατεφύτευσας, καὶ φαγὼν καὶ ἐμπλησθεὶς, πρόσεχε σεαυτῷ μὴ ἐπιλάθῃ"
       }
     },
     {
@@ -1088,7 +1099,8 @@
       "translations": {
         "lxx": "beware lest thou forget the Lord thy God that brought thee forth out of the land of Egypt, out of the house of bondage.",
         "kjv": "Then beware lest thou forget the LORD, which brought thee forth out of the land of Egypt, from the house of bondage.",
-        "ron": "Atunci, păzeşte-te, să nu se ademenească inima ta, ca să uiţi pe Domnul Care te-a scos din pământul Egiptului şi din casa robiei."
+        "ron": "Atunci, păzeşte-te, să nu se ademenească inima ta, ca să uiţi pe Domnul Care te-a scos din pământul Egiptului şi din casa robiei.",
+        "grk": "Κυρίου τοῦ Θεοῦ σου τοῦ ἐξαγαγόντος σε ἐκ γῆς Αἰγύπτου, ἐξ οἴκου δουλείας."
       }
     },
     {
@@ -1155,7 +1167,8 @@
       "translations": {
         "lxx": "Thou shalt fear the Lord thy God, and him only shalt thou serve; and thou shalt cleave to him, and by his name thou shalt swear.",
         "kjv": "Thou shalt fear the LORD thy God, and serve him, and shalt swear by his name.",
-        "ron": "Să te temi de Domnul Dumnezeul tău şi numai Lui să-I slujeşti, de El să te lipeşti şi pe numele Lui să te juri."
+        "ron": "Să te temi de Domnul Dumnezeul tău şi numai Lui să-I slujeşti, de El să te lipeşti şi pe numele Lui să te juri.",
+        "grk": "Κύριον τὸν Θεόν σου φοβήθήσῃ, καὶ αὐτῷ μόνῳ λατρεύσεις, καὶ πρὸς αὐτὸν κολληθήσῃ, καὶ ἐπὶ τῷ ὀνόματι αὐτοῦ ὀμῇ."
       }
     },
     {
@@ -1212,7 +1225,8 @@
       "translations": {
         "lxx": "Go ye not after other gods of the gods of the nations round about you;",
         "kjv": "Ye shall not go after other gods, of the gods of the people which are round about you;",
-        "ron": "Să nu mergeţi după alţi dumnezei, după dumnezeii popoarelor, care se vor afla împrejurul vostru;"
+        "ron": "Să nu mergeţi după alţi dumnezei, după dumnezeii popoarelor, care se vor afla împrejurul vostru;",
+        "grk": "Οὐ πορεύεσθε ὀπίσω θεῶν ἑτέρων ἀπὸ τῶν θεῶν τῶν ἐθνῶν τῶν περικύκλῳ ὑμῶν,"
       }
     },
     {
@@ -1299,7 +1313,8 @@
       "translations": {
         "lxx": "for the Lord thy God in the midst of thee is a jealous God, lest the Lord thy God be very angry with thee, and destroy thee from off the face of the earth.",
         "kjv": "(For the LORD thy God is a jealous God among you) lest the anger of the LORD thy God be kindled against thee, and destroy thee from off the face of the earth.",
-        "ron": "Ca să nu se aprindă mânia Domnului Dumnezeului tău asupra ta şi să nu te piardă de pe faţa pământului, că Domnul Dumnezeul tău, Care se află în mijlocul tău, este Dumnezeu zelos."
+        "ron": "Ca să nu se aprindă mânia Domnului Dumnezeului tău asupra ta şi să nu te piardă de pe faţa pământului, că Domnul Dumnezeul tău, Care se află în mijlocul tău, este Dumnezeu zelos.",
+        "grk": "ὅτι ὁ Θεὸς ζηλωτὴς Κύριος ὁ Θεός σου ἐν σοί· μὴ ὀργισθεὶς θυμῷ Κύριος ὁ Θεός σου σοὶ, ἐξολοθρεύσῃ σε ἀπὸ προσώπου τῆς γῆς."
       }
     },
     {
@@ -1351,7 +1366,8 @@
       "translations": {
         "lxx": "Thou shalt not tempt the Lord thy God, as ye tempted him in the temptation.",
         "kjv": "Ye shall not tempt the LORD your God, as ye tempted him in Massah.",
-        "ron": "Să nu ispitiţi pe Domnul Dumnezeul vostru, cum L-aţi ispitit la Masa."
+        "ron": "Să nu ispitiţi pe Domnul Dumnezeul vostru, cum L-aţi ispitit la Masa.",
+        "grk": "Οὐκ ἐκπειράσεις Κύριον τὸν Θεόν σου, ὃν τρόπον ἐξεπειράσατε ἐν τῷ πειρασμῷ."
       }
     },
     {
@@ -1408,7 +1424,8 @@
       "translations": {
         "lxx": "Thou shalt by all means keep the commands of the Lord thy God, the testimonies, and the ordinances, which he commanded thee.",
         "kjv": "Ye shall diligently keep the commandments of the LORD your God, and his testimonies, and his statutes, which he hath commanded thee.",
-        "ron": "Să ţineţi bine poruncile Domnului Dumnezeului vostru, legile Lui şi hotărârile Lui, pe care vi le-a dat El."
+        "ron": "Să ţineţi bine poruncile Domnului Dumnezeului vostru, legile Lui şi hotărârile Lui, pe care vi le-a dat El.",
+        "grk": "Φυλάσσων φυλάξῃ τὰς ἐντολὰς Κυρίου τοῦ Θεοῦ σου, τὰ μαρτύρια, καὶ τὰ δικαιώματα, ὅσα ἐνετείλατό σοι."
       }
     },
     {
@@ -1510,7 +1527,8 @@
       "translations": {
         "lxx": "And thou shalt do that which is pleasing and good before the Lord thy God, that it may be well with thee, and that thou mayest go in and inherit the good land, which the Lord sware to your fathers,",
         "kjv": "And thou shalt do that which is right and good in the sight of the LORD: that it may be well with thee, and that thou mayest go in and possess the good land which the LORD sware unto thy fathers,",
-        "ron": "Să faci ceea ce este drept şi bine înaintea ochilor Domnului Dumnezeului tău, ca să-ţi fie bine şi ca să intri şi să iei în stăpânire pământul pe care Domnul cu jurământ 1-a făgăduit părinţilor tăi"
+        "ron": "Să faci ceea ce este drept şi bine înaintea ochilor Domnului Dumnezeului tău, ca să-ţi fie bine şi ca să intri şi să iei în stăpânire pământul pe care Domnul cu jurământ 1-a făgăduit părinţilor tăi",
+        "grk": "Καὶ ποιήσεις τὸ ἀρεστὸν καὶ τὸ καλὸν ἔναντι Κυρίου τοῦ Θεοῦ σου, ἵνα εὖ σοι γένηται, καὶ εἰσέλθῃς καὶ κληρονομήσῃς τὴν γῆν τὴν ἀγαθὴν, ἣν ὤμοσε Κύριος τοῖς πατράσιν ὑμῶν,"
       }
     },
     {
@@ -1567,7 +1585,8 @@
       "translations": {
         "lxx": "to chase all thine enemies from before thy face, as the Lord said.",
         "kjv": "To cast out all thine enemies from before thee, as the LORD hath spoken.",
-        "ron": "Şi ca să alunge El pe toţi vrăjmaşii tăi de la faţa ta, cum a zis Domnul."
+        "ron": "Şi ca să alunge El pe toţi vrăjmaşii tăi de la faţa ta, cum a zis Domnul.",
+        "grk": "ἐκδιῶξαι πάντας τοὺς ἐχθρούς σου πρὸ προσώπου σου, καθὰ ἐλάλησε Κύριος."
       }
     },
     {
@@ -1654,7 +1673,8 @@
       "translations": {
         "lxx": "And it shall come to pass when thy son shall ask thee at a future time, saying, What are the testimonies, and the ordinances, and the judgments, which the Lord our God has commanded us?",
         "kjv": "And when thy son asketh thee in time to come, saying, What mean the testimonies, and the statutes, and the judgments, which the LORD our God hath commanded you?",
-        "ron": "De te va întreba în viitor fiul tău şi va zice: Ce înseamnă aceste porunci, hotărâri şi legi pe care vi le-a dat Domnul Dumnezeul vostru? Să-i spui fiului tău:"
+        "ron": "De te va întreba în viitor fiul tău şi va zice: Ce înseamnă aceste porunci, hotărâri şi legi pe care vi le-a dat Domnul Dumnezeul vostru? Să-i spui fiului tău:",
+        "grk": "Καὶ ἔσται ὅταν ἐρωτήσῃ σε ὁ υἱός σου αὔριον, λέγων, τί ἐστι τὰ μαρτύρια, καὶ τὰ δικαιώματα καὶ τὰ κρίματα, ὅσα ἐνετείλατο Κύριος ὁ Θεὸς ἡμῶν ἡμῖν;"
       }
     },
     {
@@ -1736,7 +1756,8 @@
       "translations": {
         "lxx": "Then shalt thou say to thy son, We were slaves to Pharao in the land of Egypt, and the Lord brought us forth thence with a mighty hand, and with a high arm.",
         "kjv": "Then thou shalt say unto thy son, We were Pharaoh’s bondmen in Egypt; and the LORD brought us out of Egypt with a mighty hand:",
-        "ron": "Am fost robi la Faraon în Egipt şi Domnul Dumnezeu ne-a scos din Egipt cu mână tare şi cu braţ înalt."
+        "ron": "Am fost robi la Faraon în Egipt şi Domnul Dumnezeu ne-a scos din Egipt cu mână tare şi cu braţ înalt.",
+        "grk": "Καὶ ἐρεῖς τῷ υἱῷ σου, οἰκέται ἦμεν τῷ Φαραὼ ἐν γῇ Αἰγύπτῳ, καὶ ἐξήγαγεν ἡμᾶς Κύριος ἐκεῖθεν ἐν χειρὶ κραταιᾷ, καὶ ἐν βραχίονι ὑψηλῷ."
       }
     },
     {
@@ -1813,7 +1834,8 @@
       "translations": {
         "lxx": "And the Lord wrought signs and great and grievous wonders in Egypt, on Pharao and on his house before us.",
         "kjv": "And the LORD shewed signs and wonders, great and sore, upon Egypt, upon Pharaoh, and upon all his household, before our eyes:",
-        "ron": "Şi a arătat Domnul Dumnezeu semne şi minuni mari şi pedepse a adus înaintea ochilor noştri, asupra Egiptului, asupra lui Faraon, asupra a toată casa lui şi asupra oştirii lui;"
+        "ron": "Şi a arătat Domnul Dumnezeu semne şi minuni mari şi pedepse a adus înaintea ochilor noştri, asupra Egiptului, asupra lui Faraon, asupra a toată casa lui şi asupra oştirii lui;",
+        "grk": "Καὶ ἔδωκε Κύριος σημεῖα καὶ τέρατα μεγάλα καὶ πονηρὰ ἐν Αἰγύπτῳ ἐν Φαραὼ καὶ ἐν τῷ οἴκῳ αὐτοῦ ἐνώπιον ἡμῶν,"
       }
     },
     {
@@ -1895,7 +1917,8 @@
       "translations": {
         "lxx": "And he brought us out thence to give us this land, which he sware to give to our fathers.",
         "kjv": "And he brought us out from thence, that he might bring us in, to give us the land which he sware unto our fathers.",
-        "ron": "Iar pe noi ne-a scos de acolo Domnul Dumnezeul nostru ca să ne ducă şi să ne dea pământul pentru care s-a jurat părinţilor noştri că ni-l va da."
+        "ron": "Iar pe noi ne-a scos de acolo Domnul Dumnezeul nostru ca să ne ducă şi să ne dea pământul pentru care s-a jurat părinţilor noştri că ni-l va da.",
+        "grk": "καὶ ἡμᾶς ἐξήγαγεν ἐκεῖθεν δαῦναι ἡμῖν τὴν γῆν ταύτην, ἣν ὤμοσε δοῦναι τοῖς πατράσιν ἡμῶν."
       }
     },
     {
@@ -2012,7 +2035,8 @@
       "translations": {
         "lxx": "And the Lord charged us to observe all these ordinances; to fear the Lord our God, that it may be well with us for ever, that we may live, as even to-day.",
         "kjv": "And the LORD commanded us to do all these statutes, to fear the LORD our God, for our good always, that he might preserve us alive, as it is at this day.",
-        "ron": "Atunci ne-a poruncit Domnul să împlinim toate hotărârile acestea şi să ne temem de Domnul Dumnezeul nostru, ca să ne fie bine în toate zilele, ca şi acum."
+        "ron": "Atunci ne-a poruncit Domnul să împlinim toate hotărârile acestea şi să ne temem de Domnul Dumnezeul nostru, ca să ne fie bine în toate zilele, ca şi acum.",
+        "grk": "Καὶ ἐνετείλατο ἡμῖν Κύριος ποιεῖν πάντα τὰ δικαιώματα ταῦτα· φοβεῖσθαι Κύριον τὸν Θεὸν ἡμῶν, ἵνα εὖ ἠ· ἡμῖν πάσας τὰς ἡμέρας, ἵνα ζῶμεν ὥσπερ καὶ σήμερον."
       }
     },
     {
@@ -2104,7 +2128,8 @@
       "translations": {
         "lxx": "And there shall be mercy to us, if we take heed to keep all these commands before the Lord our God, as he has commanded us.",
         "kjv": "And it shall be our righteousness, if we observe to do all these commandments before the LORD our God, as he hath commanded us.",
-        "ron": "Şi va face milă cu noi de ne vom sili să împlinim toate aceste porunci ale legii înaintea feţei Domnului Dumnezeului nostru, cum ne-a poruncit\"."
+        "ron": "Şi va face milă cu noi de ne vom sili să împlinim toate aceste porunci ale legii înaintea feţei Domnului Dumnezeului nostru, cum ne-a poruncit\".",
+        "grk": "Καὶ ἐλεημοσύνη ἔσται ἡμῖν, ἐὰν φυλασσώμεθα ποιεῖν πάσας τὰς ἐντολὰς ταύτας ἐναντίον Κυρίου τοῦ Θεοῦ ἡμῶν, καθὰ ἐνετείλατο ἡμῖν."
       }
     }
   ],

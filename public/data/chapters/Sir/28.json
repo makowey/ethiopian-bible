@@ -45,7 +45,8 @@
       ],
       "translations": {
         "lxx": "He that revengeth shall find vengeance from the Lord, and he will surely keep his sins [in remembrance].",
-        "ron": "Cel care se răzbună, de la Domnul va afla pedeapsă şi păcatele lui le va ţine minte."
+        "ron": "Cel care se răzbună, de la Domnul va afla pedeapsă şi păcatele lui le va ţine minte.",
+        "grk": "Ὁ ἐκδίκων παρὰ Κυρίου εὑρήσει ἐκδίκησιν, καὶ τὰς ἁμαρτίας αὐτοῦ διατηρῶν διατηρήσει."
       }
     },
     {
@@ -111,7 +112,8 @@
       ],
       "translations": {
         "lxx": "Forgive thy neighbour the hurt that he hath done unto thee, so shall thy sins also be forgiven when thou prayest.",
-        "ron": "Iartă nedreptatea aproapelui tău şi, atunci când te vei ruga tu, ţi se vor ierta păcatele."
+        "ron": "Iartă nedreptatea aproapelui tău şi, atunci când te vei ruga tu, ţi se vor ierta păcatele.",
+        "grk": "Ἄφες ἀδίκημα τῷ πλησίον σου, καὶ τότε δεηθέντος σου αἱ ἁμαρτίαι σου λυθήσονται."
       }
     },
     {
@@ -187,7 +189,8 @@
       ],
       "translations": {
         "lxx": "One man beareth hatred against another, and doth he seek pardon from the Lord?",
-        "ron": "Omul care ţine mânie asupra omului, cum poate să ceară de la Dumnezeu vindecare?"
+        "ron": "Omul care ţine mânie asupra omului, cum poate să ceară de la Dumnezeu vindecare?",
+        "grk": "Ἄνθρωπος ἀνθρώπῳ συντηρεῖ ὀργὴν, καὶ παρὰ Κυρίου ζητεῖ ἴασιν."
       }
     },
     {
@@ -243,7 +246,8 @@
       ],
       "translations": {
         "lxx": "He sheweth no mercy to a man, which is like himself: and doth he ask forgiveness of his own sins?",
-        "ron": "De omul cel asemenea lui nu-i este milă şi pentru păcatele sale se roagă."
+        "ron": "De omul cel asemenea lui nu-i este milă şi pentru păcatele sale se roagă.",
+        "grk": "Ἐπʼ ἄνθρωπον ὅμοιον αὐτῷ οὐκ ἔχει ἔλεος, καὶ περὶ τῶν ἁμαρτιῶν αὐτοῦ δεῖται."
       }
     },
     {
@@ -299,7 +303,8 @@
       ],
       "translations": {
         "lxx": "Remember thy end, and let thy enmity cease; [remember] corruption and death, and abide in the commandments.",
-        "ron": "Adu-ţi aminte de cele mai de pe urmă, de stricăciune şi de moarte şi te păzeşte de vrajbă şi rămâi întru porunci."
+        "ron": "Adu-ţi aminte de cele mai de pe urmă, de stricăciune şi de moarte şi te păzeşte de vrajbă şi rămâi întru porunci.",
+        "grk": "Μνήσθητι τὰ ἔσχατα, καὶ παῦσαι ἔχθραίνων· καταφθορὰν καὶ θάνατον, καὶ ἔμμενε ἐντολαῖς."
       }
     },
     {
@@ -355,7 +360,8 @@
       ],
       "translations": {
         "lxx": "Remember the commandments, and bear no malice to thy neighbour: [remember] the covenant of the Highest, and wink at ignorance.",
-        "ron": "Adu-ţi aminte de porunci şi de aşezământul de lege al Celui Preaînalt şi nu te mânia pe aproapele, iertându-i lui neştiinţa."
+        "ron": "Adu-ţi aminte de porunci şi de aşezământul de lege al Celui Preaînalt şi nu te mânia pe aproapele, iertându-i lui neştiinţa.",
+        "grk": "Μνήσθητι ἐντολῶν, καὶ μὴ μηνίσῃς τῷ πλησίον· καὶ διαθήκην ὑψίστου, καὶ πάριδε ἄγνοιαν."
       }
     },
     {
@@ -406,7 +412,8 @@
       ],
       "translations": {
         "lxx": "Abstain from strife, and thou shalt diminish thy sins: for a furious man will kindle strife.",
-        "ron": "Depărtează-te de vrajbă şi vei împuţina păcatele, că omul mânios va aţâţa vrajbă."
+        "ron": "Depărtează-te de vrajbă şi vei împuţina păcatele, că omul mânios va aţâţa vrajbă.",
+        "grk": "Ἀπόσχου ἀπὸ μάχης, καὶ ἐλαττώσεις ἁμαρτίας· ἄνθρωπος γὰρ θυμώδης ἐκκαύσει μάχην."
       }
     },
     {
@@ -452,7 +459,8 @@
       ],
       "translations": {
         "lxx": "A sinful man disquieteth friends, and maketh debate among them that be at peace.",
-        "ron": "Şi omul păcătos va tulbura pe prieten şi, intre oamenii cei ce au pace, va arunca vrajbă."
+        "ron": "Şi omul păcătos va tulbura pe prieten şi, intre oamenii cei ce au pace, va arunca vrajbă.",
+        "grk": "Καὶ ἀνὴρ ἁμαρτωλὸς ταράξει φίλους, καὶ ἀναμέσον εἰρηνευόντων ἐμβάλλει διαβολήν."
       }
     },
     {
@@ -563,7 +571,8 @@
       ],
       "translations": {
         "lxx": "As the matter of the fire is, so it burneth: and as a man's strength is, so is his wrath; and according to his riches his anger riseth; and the stronger they are which contend, the more they will be inflamed.",
-        "ron": "Precum este materia focului, aşa se va aprinde şi după putere vrajba va creşte."
+        "ron": "Precum este materia focului, aşa se va aprinde şi după putere vrajba va creşte.",
+        "grk": "Κατὰ τὴν ὕλην πυρὸς οὕτως ἐκκαυθήσεται, κατὰ τὴν ἰσχὺν τοῦ ἀνθρώπου ὁ θυμὸς αὐτοῦ ἔσται, καὶ κατὰ τὸν πλοῦτον ἀνυψώσει ὀργὴν αὐτοῦ, καὶ κατὰ τὴν στερέωσιν τῆς μάχης ἐκκαυθήσεται."
       }
     },
     {
@@ -619,7 +628,8 @@
       ],
       "translations": {
         "lxx": "An hasty contention kindleth a fire: and an hasty fighting sheddeth blood.",
-        "ron": "După puterea omului va fi mânia lui; şi după cum este avuţia lui; va înălţa mânia sa."
+        "ron": "După puterea omului va fi mânia lui; şi după cum este avuţia lui; va înălţa mânia sa.",
+        "grk": "Ἔρις κατασπευδομένη ἐκκαίει πῦρ, καὶ μάχη κατασπεύδουσα ἐκχέει αἷμα."
       }
     },
     {
@@ -685,7 +695,8 @@
       ],
       "translations": {
         "lxx": "If thou blow the spark, it shall burn: if thou spit upon it, it shall be quenched: and both these come out of thy mouth.",
-        "ron": "Sfada grabnică aprinde foc şi vrajba grabnică varsă sânge."
+        "ron": "Sfada grabnică aprinde foc şi vrajba grabnică varsă sânge.",
+        "grk": "Ἐὰν φυσήσῃς σπινθῆρα ἐκκαήσεται, καὶ ἐὰν πτύσῃς ἐπʼ αὐτὸν σβεσθήσεται· καὶ ἀμφότερα ἐκ τοῦ στόματός σου ἐκπορεύεται."
       }
     },
     {
@@ -741,7 +752,8 @@
       ],
       "translations": {
         "lxx": "Curse the whisperer and double-tongued: for such have destroyed many that were at peace.",
-        "ron": "De vei sufla în scânteie, se va aprinde, şi de vei scuipa peste ea, se va stinge; amândouă ies din gura ta."
+        "ron": "De vei sufla în scânteie, se va aprinde, şi de vei scuipa peste ea, se va stinge; amândouă ies din gura ta.",
+        "grk": "Ψίθυρον καὶ δίγλωσσον καταρᾶσθαι, πολλοὺς γὰρ εἰρηνεύοντας ἀπώλεσαν."
       }
     },
     {
@@ -822,7 +834,8 @@
       ],
       "translations": {
         "lxx": "A backbiting tongue hath disquieted many, and driven them from nation to nation: strong cities hath it pulled down, and overthrown the houses of great men.",
-        "ron": "Pe bârfitor şi pe cel cu două limbi blestemaţi-i, că pe mulţi care aveau pace i-au pierdut."
+        "ron": "Pe bârfitor şi pe cel cu două limbi blestemaţi-i, că pe mulţi care aveau pace i-au pierdut.",
+        "grk": "Γλῶσσα τρίτη πολλοὺς ἐσάλευσε, καὶ διέστησεν αὐτοὺς ἀπὸ ἔθνους εἰς ἔθνος, καὶ πόλεις ὀχυρὰς καθεῖλε, καὶ οἰκίας μεγιστάνων κατέστρεψε."
       }
     },
     {
@@ -873,7 +886,8 @@
       ],
       "translations": {
         "lxx": "A backbiting tongue hath cast out virtuous women, and deprived them of their labours.",
-        "ron": "Limba clevetitoare pe mulţi i-a clătinat şi i-a risipit dintr-un neam într-alt neam şi cetăţi tari a surpat şi casele celor mari a stricat."
+        "ron": "Limba clevetitoare pe mulţi i-a clătinat şi i-a risipit dintr-un neam într-alt neam şi cetăţi tari a surpat şi casele celor mari a stricat.",
+        "grk": "Γλῶσσα τρίτη γυναῖκας ἀνδρείας ἐξέβαλε, καὶ ἐστέρησεν αὐτὰς τῶν πόνων αὐτῶν."
       }
     },
     {
@@ -914,7 +928,8 @@
       ],
       "translations": {
         "lxx": "Whoso hearkeneth unto it shall never find rest, and never dwell quietly.",
-        "ron": "Limba clevetitoare femei vrednice a izgonit şi le-a lipsit de ostenelile lor."
+        "ron": "Limba clevetitoare femei vrednice a izgonit şi le-a lipsit de ostenelile lor.",
+        "grk": "Ὁ προσέχων αὐτῇ οὐ μὴ εὕρῃ ἀνάπαυσιν, οὐδὲ κατασκηνώσει μεθʼ ἡσυχίας."
       }
     },
     {
@@ -965,7 +980,8 @@
       ],
       "translations": {
         "lxx": "The stroke of the whip maketh marks in the flesh: but the stroke of the tongue breaketh the bones.",
-        "ron": "Cel care ascultă de ea, nu va afla odihnă, nici nu va locui cu linişte."
+        "ron": "Cel care ascultă de ea, nu va afla odihnă, nici nu va locui cu linişte.",
+        "grk": "Πληγὴ μάστιγος ποιεῖ μώλωπας, πληγὴ δὲ γλώσσης συγκλάσει ὀστᾶ."
       }
     },
     {
@@ -1021,7 +1037,8 @@
       ],
       "translations": {
         "lxx": "Many have fallen by the edge of the sword: but not so many as have fallen by the tongue.",
-        "ron": "Lovitura biciului face vânătaie, iar lovitura limbii frânge oasele."
+        "ron": "Lovitura biciului face vânătaie, iar lovitura limbii frânge oasele.",
+        "grk": "Πολλοὶ ἔπεσαν ἐν στόματι μαχαίρας, καὶ οὐχ ὡς οἱ πεπτωκότες διὰ γλῶσσαν."
       }
     },
     {
@@ -1077,7 +1094,8 @@
       ],
       "translations": {
         "lxx": "Well is he that is defended from it, and hath not passed through the venom thereof, who hath not drawn the yoke thereof, nor hath been bound in her bands.",
-        "ron": "Mulţi au pierit de ascuţişul sabiei, dar mai mulţi de uneltirile limbii."
+        "ron": "Mulţi au pierit de ascuţişul sabiei, dar mai mulţi de uneltirile limbii.",
+        "grk": "Μακάριος ὁ σκεπασθεὶς ἀπʼ αὐτῆς, ὃς οὐ διῆλθεν ἐν τῷ θυμῷ αὐτῆς, ὃς οὐχ εἵλκυσε τὸν ζυγὸν αὐτῆς, καὶ ἐν τοῖς δεσμοῖς αὐτῆς οὐκ ἐδέθη."
       }
     },
     {
@@ -1113,7 +1131,8 @@
       ],
       "translations": {
         "lxx": "For the yoke thereof is a yoke of iron, and the bands thereof are bands of brass.",
-        "ron": "Fericit este cel care a scăpat de ea şi care n-a trecut în mânia ei,"
+        "ron": "Fericit este cel care a scăpat de ea şi care n-a trecut în mânia ei,",
+        "grk": "Ὁ γὰρ ζυγὸς αὐτῆς ζυγὸς σιδηροῦς, καὶ οἱ δεσμοὶ αὐτῆς δεσμοὶ χάλκεοι."
       }
     },
     {
@@ -1154,7 +1173,8 @@
       ],
       "translations": {
         "lxx": "The death thereof is an evil death, the grave were better than it.",
-        "ron": "Care n-a tras jugul ei şi cu legăturile ei nu s-a legat."
+        "ron": "Care n-a tras jugul ei şi cu legăturile ei nu s-a legat.",
+        "grk": "Θάνατος πονηρὸς ὁ θάνατος αὐτῆς, καὶ λυσιτελὴς μᾶλλον ὁ ᾅδης αὐτῆς."
       }
     },
     {
@@ -1185,7 +1205,8 @@
       ],
       "translations": {
         "lxx": "It shall not have rule over them that fear God, neither shall they be burned with the flame thereof.",
-        "ron": "Că jugul ei jug de fier este şi legăturile ei sunt legături de aramă."
+        "ron": "Că jugul ei jug de fier este şi legăturile ei sunt legături de aramă.",
+        "grk": "Οὐ μὴ κρατήσῃ εὐσεβῶν, καὶ ἐν τῇ φλογὶ αὐτῆς οὐ καήσονται."
       }
     },
     {
@@ -1271,7 +1292,8 @@
       ],
       "translations": {
         "lxx": "Such as forsake the Lord shall fall into it; and it shall burn in them, and not be quenched; it shall be sent upon them as a lion, and devour them as a leopard.",
-        "ron": "Moarte rea este moartea ei şi mai de folos este şeolul decât ea."
+        "ron": "Moarte rea este moartea ei şi mai de folos este şeolul decât ea.",
+        "grk": "Οἱ καταλείποντες Κύριον ἐμπεσοῦνται εἰς αὐτὴν, καὶ ἐν αὐτοῖς ἐκκαήσεται, καὶ οὐ μὴ σβεσθῇ· ἐξαποσταλήσεται ἐπʼ αὐτοῖς ὡς λέων, καὶ ὡς πάρδαλις λυμανεῖται αὐτούς."
       }
     },
     {
@@ -1322,7 +1344,8 @@
       ],
       "translations": {
         "lxx": "Look that thou hedge thy possession about with thorns, and bind up thy silver and gold,",
-        "ron": "Nu va birui pe cei binecredincioşi şi în văpaia ei nu vor arde."
+        "ron": "Nu va birui pe cei binecredincioşi şi în văpaia ei nu vor arde.",
+        "grk": "Ἴδε περίφραξον τὸ κτῆμά σου ἀκάνθαις, τὸ ἀργύριόν σου καὶ τὸ χρυσίον κατάδησον·"
       }
     },
     {
@@ -1373,7 +1396,8 @@
       ],
       "translations": {
         "lxx": "and weigh thy words in a balance, and make a door and bar for thy mouth.",
-        "ron": "Cei care părăsesc pe Domnul vor cădea într-însa şi se va aţâţa întru ei şi nu se va stinge."
+        "ron": "Cei care părăsesc pe Domnul vor cădea într-însa şi se va aţâţa întru ei şi nu se va stinge.",
+        "grk": "καὶ τοῖς λόγοις σου ποίησον ζυγὸν καὶ σταθμὸν, καὶ τῷ στόματί σου ποίησον θύραν καὶ μοχλόν."
       }
     },
     {
@@ -1419,7 +1443,8 @@
       ],
       "translations": {
         "lxx": "Beware thou slide not by it, lest thou fall before him that lieth in wait.",
-        "ron": "Se va trimite asupra lor, ca leul; şi ca pardosul fi va pierde."
+        "ron": "Se va trimite asupra lor, ca leul; şi ca pardosul fi va pierde.",
+        "grk": "Πρόσεχε μήπως ὀλισθήσῃς ἐν αὐτῇ, μὴ πέσῃς κατέναντι ἐνεδρεύοντος."
       }
     }
   ],

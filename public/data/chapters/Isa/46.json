@@ -86,7 +86,8 @@
       "translations": {
         "lxx": "Bel has fallen, Nabo is broken to pieces, their graven images are gone to the wild beasts and the cattle: ye take them packed up as a burden to the weary, exhausted, hungry, and at the same time helpless man;",
         "kjv": "Bel boweth down, Nebo stoopeth, their idols were upon the beasts, and upon the cattle: your carriages were heavy loaden; they are a burden to the weary beast.",
-        "ron": "Bel se prăbuşeşte, Nebo este răsturnat, chipurile lor aşezate pe vite şi pe dobitoace. Chipurile, pe care voi acum le purtaţi, sunt încărcate şi au ajuns o povară pentru vitele trudite."
+        "ron": "Bel se prăbuşeşte, Nebo este răsturnat, chipurile lor aşezate pe vite şi pe dobitoace. Chipurile, pe care voi acum le purtaţi, sunt încărcate şi au ajuns o povară pentru vitele trudite.",
+        "grk": "Ἔπεσε Βὴλ, συνετρίβη Ναβὼ, ἐγένετο τὰ γλυπτὰ αὐτῶν εἰς θηρία, καὶ τὰ κτήνη· αἴρετε αὐτὰ καταδεδεμένα ὡς φορτίον κοπιῶντι ἐκλευμένῳ,"
       }
     },
     {
@@ -148,7 +149,8 @@
       "translations": {
         "lxx": "who will not be able to save themselves from war, but they themselves are led away captive.",
         "kjv": "They stoop, they bow down together; they could not deliver the burden, but themselves are gone into captivity.",
-        "ron": "Idolii cad, se prăbuşesc laolaltă, nu pot să izbăvească pe cei care îi poartă; ei înşişi sunt duşi în robie."
+        "ron": "Idolii cad, se prăbuşesc laolaltă, nu pot să izbăvească pe cei care îi poartă; ei înşişi sunt duşi în robie.",
+        "grk": "καὶ πεινῶντι, οὐκ ἰσχύοντι, ἅμα, οἳ οὐ δυνήσονται σωθῆναι ἀπὸ πολέμου, αὐτοὶ δὲ αἰχμάλωτοι ἤχθησαν."
       }
     },
     {
@@ -225,7 +227,8 @@
       "translations": {
         "lxx": "Hear me, O house of Jacob, and all the remnant of Israel, who are borne by me from the womb, and taught by me from infancy, even to old age:",
         "kjv": "Hearken unto me, O house of Jacob, and all the remnant of the house of Israel, which are borne by me from the belly, which are carried from the womb:",
-        "ron": "\"Ascultaţi voi, cei din casa lui Iacov şi toţi cei care aţi mai rămas din casa lui Israel, pe care v-am purtat din sânul maicii voastre, de care am avut grijă de la naşterea voastră."
+        "ron": "\"Ascultaţi voi, cei din casa lui Iacov şi toţi cei care aţi mai rămas din casa lui Israel, pe care v-am purtat din sânul maicii voastre, de care am avut grijă de la naşterea voastră.",
+        "grk": "Ἀκούετέ μου οἶκος τοῦ Ἰακὼβ, καὶ πᾶν τὸ κατάλοιπον τοῦ Ἰσραὴλ, οἱ αἰρόμενοι ἐκ κοιλίας, καὶ παιδευόμενοι ἐκ παιδίου ἕως γήρως·"
       }
     },
     {
@@ -247,7 +250,8 @@
       "translations": {
         "lxx": "I am he; and until ye shall have grown old, I am he: I bear you, I have made, and I will relieve, I will take up and save you.",
         "kjv": "And even to your old age I am he; and even to hoar hairs will I carry you: I have made, and I will bear; even I will carry, and will deliver you.",
-        "ron": "Până la bătrâneţea voastră Eu sunt Acelaşi, până la adâncile voastre căruntele Eu vă voi ocroti. Precum am făcut în trecut, Mă leg înaintea voastră că vă voi ocroti şi vă voi izbăvi şi în viitor."
+        "ron": "Până la bătrâneţea voastră Eu sunt Acelaşi, până la adâncile voastre căruntele Eu vă voi ocroti. Precum am făcut în trecut, Mă leg înaintea voastră că vă voi ocroti şi vă voi izbăvi şi în viitor.",
+        "grk": "ἐγώ εἰμι, καὶ ἕως ἂν καταγηράσητε, ἐγώ εἰμι, ἐγὼ ἀνέχομαι ὑμῶν, ἐγὼ ἐποίησα, καὶ ἐγὼ ἀνήσω, ἐγὼ ἀναλήμψομαι, καὶ σώσω ὑμᾶς."
       }
     },
     {
@@ -294,7 +298,8 @@
       "translations": {
         "lxx": "To whom have ye compared me? see, consider, ye that go astray.",
         "kjv": "To whom will ye liken me, and make me equal, and compare me, that we may be like?",
-        "ron": "Cu cine Mă veţi pune alături şi Mă veţi face egal, cu cine Mă veţi asemăna, ca să fim deopotrivă?"
+        "ron": "Cu cine Mă veţi pune alături şi Mă veţi face egal, cu cine Mă veţi asemăna, ca să fim deopotrivă?",
+        "grk": "Τίνι με ὡμοιώσατε; ἴδετε, τεχνάσασθε, οἱ πλανώμενοι."
       }
     },
     {
@@ -391,7 +396,8 @@
       "translations": {
         "lxx": "They that furnish gold out of a purse, and silver by weight, will weigh it in a scale, and they hire a goldsmith and make idols, and bow down, and worship them.",
         "kjv": "They lavish gold out of the bag, and weigh silver in the balance, and hire a goldsmith; and he maketh it a god: they fall down, yea, they worship.",
-        "ron": "Ei scot aurul din pungile lor şi argintul în cântar îl cântăresc; plătesc un argintar ca să le facă un chip de dumnezeu, apoi se închină lui şi îl cinstesc."
+        "ron": "Ei scot aurul din pungile lor şi argintul în cântar îl cântăresc; plătesc un argintar ca să le facă un chip de dumnezeu, apoi se închină lui şi îl cinstesc.",
+        "grk": "Οἱ συμβαλλόμενοι χρυσίον ἐκ μαρσυππίου, καὶ ἀργύριον ἐν ζυγῷ, στήσουσιν ἐν σταθμῷ, καὶ μισθωσάμενοι χρυσοχόον ἐποίησαν χειροποίητα, καὶ κύψαντες προσκυνοῦσιν αὐτοῖς."
       }
     },
     {
@@ -478,7 +484,8 @@
       "translations": {
         "lxx": "They bear it upon the shoulder, and go; and if they put it upon its place, it remains, it cannot move: and whosoever shall cry to it, it cannot hear; it cannot save him from trouble.",
         "kjv": "They bear him upon the shoulder, they carry him, and set him in his place, and he standeth; from his place shall he not remove: yea, one shall cry unto him, yet can he not answer, nor save him out of his trouble.",
-        "ron": "Îl poartă pe umeri, îl duc, îl pun jos şi el stă fără să se clintească din locul său. El nu răspunde celui care strigă către el şi din primejdii nu-l scapă."
+        "ron": "Îl poartă pe umeri, îl duc, îl pun jos şi el stă fără să se clintească din locul său. El nu răspunde celui care strigă către el şi din primejdii nu-l scapă.",
+        "grk": "Αἴρουσιν αὐτὸ ἐπὶ τοῦ ὤμου, καὶ πορεύονται· ἐὰν δὲ θῶσιν αὐτό ἐπὶ τοῦ τόπου αὐτοῦ, μένει, οὐ μὴ κινηθῇ· καὶ ὃς ἐὰν βοήσῃ πρὸς αὐτὸν, οὐ μὴ εἰσακούσῃ, ἀπὸ κακῶν οὐ μὴ σώσῃ αὐτόν."
       }
     },
     {
@@ -525,7 +532,8 @@
       "translations": {
         "lxx": "Remember ye these things, and groan: repent, ye that have gone astray, return in your heart;",
         "kjv": "Remember this, and shew yourselves men: bring it again to mind, O ye transgressors.",
-        "ron": "Amintiţi-vă de aceasta şi învăţaţi-vă minte, păcătoşilor!"
+        "ron": "Amintiţi-vă de aceasta şi învăţaţi-vă minte, păcătoşilor!",
+        "grk": "Μνήσθητε ταῦτα, καὶ στενάξατε, μετανοήσατε οἱ πεπλανημένοι, ἐπιστρέψατε τῇ καρδίᾳ,"
       }
     },
     {
@@ -592,7 +600,8 @@
       "translations": {
         "lxx": "and remember the former things that were of old: for I am God, and there is none other beside me,",
         "kjv": "Remember the former things of old: for I am God, and there is none else; I am God, and there is none like me,",
-        "ron": "Aduceţi-vă aminte de vremurile străvechi, de la obârşia lor, că Eu sunt Dumnezeu şi nu este un altul. Eu sunt Dumnezeu şi nu este nimeni asemenea Mie!"
+        "ron": "Aduceţi-vă aminte de vremurile străvechi, de la obârşia lor, că Eu sunt Dumnezeu şi nu este un altul. Eu sunt Dumnezeu şi nu este nimeni asemenea Mie!",
+        "grk": "καὶ μνήσθητε τὰ πρότερα ἀπὸ τοῦ αἰῶνος, ὅτι ἐγώ εἰμι ὁ Θεὸς, καὶ οὐκ ἔστιν ἔτι πλὴν ἐμοῦ,"
       }
     },
     {
@@ -649,7 +658,8 @@
       "translations": {
         "lxx": "telling beforehand the latter events before they come to pass, and they are accomplished together: and I said, All my counsel shall stand, and I will do all things that I have planned:",
         "kjv": "Declaring the end from the beginning, and from ancient times the things that are not yet done, saying, My counsel shall stand, and I will do all my pleasure:",
-        "ron": "De la început Eu vestesc sfârşitul şi mai dinainte ceea ce are să se întâmple. Şi zic: Planul Meu va dăinui şi toată voia Mea o voi face!"
+        "ron": "De la început Eu vestesc sfârşitul şi mai dinainte ceea ce are să se întâmple. Şi zic: Planul Meu va dăinui şi toată voia Mea o voi face!",
+        "grk": "ἀναγγέλλων πρότερον τὰ ἔσχατα πρὶν γενέσθαι, καὶ ἅμα συνετελέσθη· καὶ εἶπα, πᾶσα ἡ βουλή μου στήσεται, καὶ πάντα ὅσα βεβούλευμαι, ποιήσω·"
       }
     },
     {
@@ -721,7 +731,8 @@
       "translations": {
         "lxx": "calling a bird from the east, and from a land afar off, for the things which I have planned: I have spoken, and brought him; I have created and made him; I have brought him, and prospered his way.",
         "kjv": "Calling a ravenous bird from the east, the man that executeth my counsel from a far country: yea, I have spoken it, I will also bring it to pass; I have purposed it, I will also do it.",
-        "ron": "De la răsărit chem o pasăre de pradă, dintr-un ţinut depărtat un om care să împlinească planul Meu. Am vorbit, voi împlini; am hotărât, voi înfăptui!"
+        "ron": "De la răsărit chem o pasăre de pradă, dintr-un ţinut depărtat un om care să împlinească planul Meu. Am vorbit, voi împlini; am hotărât, voi înfăptui!",
+        "grk": "Καλῶν ἀπὸ ἀνατολῶν πετεινὸν, καὶ ἀπὸ γῆς πόῤῥωθεν περὶ ὧν βεβούλευμαι, ἐλάλησα, καὶ ἤγαγον, ἔκτισα καὶ ἐποίησα, ἤγαγον αὐτὸν, καὶ εὐώδωσα τὴν ὁδὸν αὐτοῦ."
       }
     },
     {
@@ -773,7 +784,8 @@
       "translations": {
         "lxx": "Hearken to me, ye senseless ones, that are far from righteousness:",
         "kjv": "Hearken unto me, ye stouthearted, that are far from righteousness:",
-        "ron": "Ascultaţi-Mă voi, oameni cu inima împietrită, voi cei care staţi departe de mântuirea voastră!"
+        "ron": "Ascultaţi-Mă voi, oameni cu inima împietrită, voi cei care staţi departe de mântuirea voastră!",
+        "grk": "Ἀκούσατέ μου οἱ ἀπολωλεκότες τὴν καρδίαν, οἱ μακρὰν ἀπὸ τῆς δικαιοσύνης."
       }
     },
     {
@@ -815,7 +827,8 @@
       "translations": {
         "lxx": "I have brought near my righteousness, and I will not be slow with the salvation that is from me: I have given salvation in Sion to Israel for glory.",
         "kjv": "I bring near my righteousness; it shall not be far off, and my salvation shall not tarry: and I will place salvation in Zion for Israel my glory.",
-        "ron": "Apropia-voi mântuirea Mea, căci ea nu este departe şi izbăvirea Mea nu va zăbovi. Atunci voi pune mântuirea Mea în Sion şi slava Mea pentru Israel!\""
+        "ron": "Apropia-voi mântuirea Mea, căci ea nu este departe şi izbăvirea Mea nu va zăbovi. Atunci voi pune mântuirea Mea în Sion şi slava Mea pentru Israel!\"",
+        "grk": "Ἤγγισα τὴν δικαιοσύνην μου, καὶ τὴν σωτηρίαν τὴν παρʼ ἐμοῦ οὐ βραδυνῶ· δέδωκα ἐν Σιὼν σωτηρίαν τῷ Ἰσραὴλ εἰς δόξασμα."
       }
     }
   ],

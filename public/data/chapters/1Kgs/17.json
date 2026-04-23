@@ -8,7 +8,8 @@
       "translation": "And Eliu the prophet, the Thesbite of Thesbæ of Galaad, said to Achaab, As the Lord God of hosts, the God of Israel, lives, before whom I stand, there shall not be these years dew nor rain, except by the word of my mouth.",
       "words": [],
       "translations": {
-        "ron": "Atunci Ilie Tesviteanul, prooroc din Tesba Galaadului, a zis către Ahab: \"Viu este Domnul Dumnezeul lui Israel, înaintea Căruia slujesc au; în aceşti ani nu va fi nici rouă, nici ploaie decât numai când voi zice eu!\""
+        "ron": "Atunci Ilie Tesviteanul, prooroc din Tesba Galaadului, a zis către Ahab: \"Viu este Domnul Dumnezeul lui Israel, înaintea Căruia slujesc au; în aceşti ani nu va fi nici rouă, nici ploaie decât numai când voi zice eu!\"",
+        "grk": "Καὶ εἶπεν Ἠλιοὺ ὁ προφήτης Θεσβίτης ὁ ἐκ Θεσβῶν τῆς Γαλαὰδ πρὸς Ἀχαὰβ, ζῇ Κύριος ὁ Θεὸς τῶν δυνάμεων ὁ Θεὸς Ἰσραὴλ, ᾧ παρέστην ἐνώπιον αὐτοῦ, εἰ ἔσται τὰ ἔτη ταῦτα δρόσος καὶ ὑετὸς, ὅτι εἰ μὴ διὰ στόματος λόγου μου."
       }
     },
     {
@@ -17,7 +18,8 @@
       "translation": "And the word of the Lord came to Eliu, saying,",
       "words": [],
       "translations": {
-        "ron": "Şi a zis Domnul către Ilie:"
+        "ron": "Şi a zis Domnul către Ilie:",
+        "grk": "Καὶ ἐγένετο ῥῆμα Κυρίου πρὸς Ἠλιοὺ,"
       }
     },
     {
@@ -26,7 +28,8 @@
       "translation": "Depart hence eastward, and hide thee by the brook of Chorrath, that is before Jordan.",
       "words": [],
       "translations": {
-        "ron": "\"Du-te de aici, îndreaptă-te spre răsărit şi te ascunde la pârâul Cherit, care este în faţa Iordanului."
+        "ron": "\"Du-te de aici, îndreaptă-te spre răsărit şi te ascunde la pârâul Cherit, care este în faţa Iordanului.",
+        "grk": "πορεύου ἐντεῦθεν κατὰ ἀνατολὰς, καὶ κρύβηθι ἐν τῷ χειμάῤῥῳ Χοῤῥαθ τοῦ ἐπὶ προσώπου τοῦ Ἰορδάνου."
       }
     },
     {
@@ -35,7 +38,8 @@
       "translation": "And it shall be that thou shalt drink water of the brook, and I will charge the ravens to feed thee there.",
       "words": [],
       "translations": {
-        "ron": "Apă vei bea din acel pârâu, iar mâncare am poruncit corbilor să-ţi aducă acolo!\""
+        "ron": "Apă vei bea din acel pârâu, iar mâncare am poruncit corbilor să-ţi aducă acolo!\"",
+        "grk": "Καὶ ἔσται ἐκ τοῦ χειμάῤῥου πίεσαι ὕδωρ, καὶ τοῖς κόραξιν ἐντελοῦμαι διατρέφειν σε ἐκεῖ."
       }
     },
     {
@@ -44,7 +48,8 @@
       "translation": "And Eliu did according to the word of the Lord, and he sat by the brook of Chorrath before Jordan.",
       "words": [],
       "translations": {
-        "ron": "Şi a plecat Ilie şi a făcut după cuvântul Domnului; s-a dus şi a şezut la pârâul Cherit, care este în faţa Iordanului."
+        "ron": "Şi a plecat Ilie şi a făcut după cuvântul Domnului; s-a dus şi a şezut la pârâul Cherit, care este în faţa Iordanului.",
+        "grk": "Καὶ ἐποίησεν Ἠλιοὺ κατὰ τὸ ῥῆμα Κυρίου, καὶ ἐκάθισεν ἐν τῷ χειμάῤῥῳ Χοῤῥὰθ ἐπὶ προσώπου τοῦ Ἰορδάνου."
       }
     },
     {
@@ -53,7 +58,8 @@
       "translation": "And the ravens brought him loaves in the morning, and flesh in the evening, and he drank water of the brook.",
       "words": [],
       "translations": {
-        "ron": "Corbii îi aduceau pâine şi carne dimineaţa, pâine şi carne seara; iar apă bea din pârâu."
+        "ron": "Corbii îi aduceau pâine şi carne dimineaţa, pâine şi carne seara; iar apă bea din pârâu.",
+        "grk": "Καὶ οἱ κόρακες ἔφερον αὐτῷ ἄρτους τοπρωῒ, καὶ κρέα τοδείλης, καὶ ἐκ τοῦ χειμάῤῥου ἔπινεν ὕδωρ."
       }
     },
     {
@@ -62,7 +68,8 @@
       "translation": "And it came to pass after some time, that the brook was dried up, because there had been no rain upon the earth.",
       "words": [],
       "translations": {
-        "ron": "După o vreme pârâul a secat, nemaifiind ploaie pe pământ."
+        "ron": "După o vreme pârâul a secat, nemaifiind ploaie pe pământ.",
+        "grk": "Καὶ ἐγένετο μεθʼ ἡμέρας, καὶ ἐξηράνθη ὁ χειμάῤῥους, ὅτι οὐκ ἐγένετο ὑετὸς ἐπὶ τῆς γῆς."
       }
     },
     {
@@ -71,7 +78,8 @@
       "translation": "And the word of the Lord came to Eliu, saying,",
       "words": [],
       "translations": {
-        "ron": "Atunci a fost cuvântul Domnului către Ilie, zicând:"
+        "ron": "Atunci a fost cuvântul Domnului către Ilie, zicând:",
+        "grk": "Καὶ ἐγένετο ῥῆμα Κυρίου πρὸς Ἠλιοὺ,"
       }
     },
     {
@@ -80,7 +88,8 @@
       "translation": "Arise, and go to Sarepta of the Sidonian land: behold, I have there commanded a widow-woman to maintain thee.",
       "words": [],
       "translations": {
-        "ron": "Scoală şi du-te la Sarepta Sidonului şi şezi acolo, căci iată am poruncit unei femei văduve să te hrănească!"
+        "ron": "Scoală şi du-te la Sarepta Sidonului şi şezi acolo, căci iată am poruncit unei femei văduve să te hrănească!",
+        "grk": "ἀνάστηθι, καὶ πορεύου εἰς Σαρεπτὰ τῆς Σιδωνίας· ἰδοὺ ἐντέταλμαι ἐκεῖ γυναικὶ χήρᾳ τοῦ διατρέφειν σε."
       }
     },
     {
@@ -89,7 +98,8 @@
       "translation": "And he arose and went to Sarepta, and came to the gate of the city: and, behold, a widow-woman was there gathering sticks; and Eliu cried after her, and said to her, Fetch me, I pray thee, a little water in a vessel, that I may drink.",
       "words": [],
       "translations": {
-        "ron": "Şi s-a sculat el şi s-a dus la Sarepta. Şi când a ajuns la porţile cetăţii, iată o femeie văduvă aduna vreascuri şi a chemat-o Ilie şi i-a zis: \"Adu-mi puţină apă ca să beau! \""
+        "ron": "Şi s-a sculat el şi s-a dus la Sarepta. Şi când a ajuns la porţile cetăţii, iată o femeie văduvă aduna vreascuri şi a chemat-o Ilie şi i-a zis: \"Adu-mi puţină apă ca să beau! \"",
+        "grk": "Καὶ ἀνέστη καὶ ἐπορεύθη εἰς Σαρεπτὰ, καὶ ἦλθεν εἰς τὸν πυλῶνα τῆς πόλεως· καὶ ἰδοὺ ἐκεῖ γυνὴ χήρα συνέλεγε ξύλα· καὶ ἐβόησεν ὀπίσω αὐτῆς Ἠλιοὺ, καὶ εἶπεν αὐτῇ, λάβε δή μοι ὀλίγον ὕδωρ εἰς ἄγγος, καὶ πίομαι."
       }
     },
     {
@@ -98,7 +108,8 @@
       "translation": "And she went to fetch it; and Eliu cried after her, and said, Bring me, I pray thee, a morsel of the bread that is in thy hand.",
       "words": [],
       "translations": {
-        "ron": "Şi s-a dus ca să-i aducă, dar Ilie a strigat-o şi i-a zis: \"Adu-mi şi o bucată de pâine să mănânc!\""
+        "ron": "Şi s-a dus ca să-i aducă, dar Ilie a strigat-o şi i-a zis: \"Adu-mi şi o bucată de pâine să mănânc!\"",
+        "grk": "Καὶ ἐπορεύθη λαβεῖν, καὶ ἐβόησεν ὀπίσω αὐτῆς Ἠλιοὺ, καὶ εἶπε, λήψῃ δή μοι ψωμὸν ἄρτου τοῦ ἐν τῇ χειρί σου."
       }
     },
     {
@@ -107,7 +118,8 @@
       "translation": "And the woman said, As the Lord thy God lives, I have not a cake, but only a handful of meal in the pitcher, and a little oil in a cruse, and, behold, I am going to gather two sticks, and I shall go in and dress it for myself and my children, and we shall eat it and die.",
       "words": [],
       "translations": {
-        "ron": "Ea însă a zis: \"Viu este Domnul Dumnezeul tău, n-am nici o fărâmitură de pâine, ci numai o mână de făină într-un vas şi puţin untdelemn într-un urcior. Şi iată, am adunat câteva vreascuri şi mă duc să o gătesc pentru mine şi pentru fiul meu şi apoi să mâncăm şi să murim!\""
+        "ron": "Ea însă a zis: \"Viu este Domnul Dumnezeul tău, n-am nici o fărâmitură de pâine, ci numai o mână de făină într-un vas şi puţin untdelemn într-un urcior. Şi iată, am adunat câteva vreascuri şi mă duc să o gătesc pentru mine şi pentru fiul meu şi apoi să mâncăm şi să murim!\"",
+        "grk": "Καὶ εἶπεν ἡ γυνὴ, ζῇ Κύριος ὁ Θεός σου, εἰ ἔστι μοι ἐγκρυφίας, ἀλλʼ ἢ ὅσον δρὰξ ἀλεύρου ἐν τῇ ὑδρίᾳ, καὶ ὀλίγον ἔλαιον ἐν τῷ καψάκῃ· καὶ ἰδοὺ ἐγὼ συλλέξω δύο ξυλάρια, καὶ εἰσελεύσομαι καὶ ποιήσω αὐτὸ ἐμαυτῇ καὶ τοῖς τέκνοις μου, καὶ φαγόμεθα, καὶ ἀποθανούμεθα."
       }
     },
     {
@@ -116,7 +128,8 @@
       "translation": "And Eliu said to her, Be of good courage, go in and do according to thy word: but make me thereof a little cake, and thou shalt bring it out to me first, and thou shalt make some for thyself and thy children last.",
       "words": [],
       "translations": {
-        "ron": "Atunci i-a zis Ilie: \"Nu te teme, ci du-te şi fă cum ai zis; dar fă mai întâi de acolo o turtă pentru mine şi adu-mi-o, iar pentru tine şi pentru fiul tău vei face mai pe urmă."
+        "ron": "Atunci i-a zis Ilie: \"Nu te teme, ci du-te şi fă cum ai zis; dar fă mai întâi de acolo o turtă pentru mine şi adu-mi-o, iar pentru tine şi pentru fiul tău vei face mai pe urmă.",
+        "grk": "Καὶ εἶπε πρὸς αὐτὴν Ἠλιοὺ, θάρσει, εἴσελθε καὶ ποίησον κατὰ τὸ ῥῆμά σου· ἀλλὰ ποίησόν μοι ἐκεῖθεν ἐγκρυφίαν μικρὸν, καὶ ἐξοίσεις μοι ἐν πρώτοις, σαυτῇ δὲ καὶ τοῖς τέκνοις σου ποιήσεις ἐπʼ ἐσχάτῳ·"
       }
     },
     {
@@ -125,7 +138,8 @@
       "translation": "For thus saith the Lord, The pitcher of meal shall not fail, and the cruse of oil shall not diminish, until the day that the Lord gives rain upon the earth.",
       "words": [],
       "translations": {
-        "ron": "Căci aşa zice Domnul Dumnezeul lui Israel: Făina din vas nu va scădea şi untdelemnul din urcior nu se va împuţina până în ziua când va da Domnul ploaie pe pământ!\""
+        "ron": "Căci aşa zice Domnul Dumnezeul lui Israel: Făina din vas nu va scădea şi untdelemnul din urcior nu se va împuţina până în ziua când va da Domnul ploaie pe pământ!\"",
+        "grk": "Ὅτι τάδε λέγει Κύριος, ἡ ὑδρία τοῦ ἀλεύρου οὐκ ἐκλείψει, καὶ ὁ καψάκης τοῦ ἐλαίου οὐκ ἐλαττονήσει, ἕως ἡμέρας τοῦ δοῦναι Κύριον τὸν ὑετὸν ἐπὶ τῆς γῆς."
       }
     },
     {
@@ -134,7 +148,8 @@
       "translation": "And the woman went and did so, and did eat, she, and he, and her children.",
       "words": [],
       "translations": {
-        "ron": "Şi s-a dus ea şi a făcut aşa, cum i-a zis Ilie; şi s-a hrănit ea şi el şi casa ei o bucată de vreme."
+        "ron": "Şi s-a dus ea şi a făcut aşa, cum i-a zis Ilie; şi s-a hrănit ea şi el şi casa ei o bucată de vreme.",
+        "grk": "Καὶ ἐπορεύθη ἡ γυνὴ, καὶ ἐποίησε, καὶ ἤσθιεν αὐτὴ καὶ αὐτὸς καὶ τὰ τέκνα αὐτῆς."
       }
     },
     {
@@ -143,7 +158,8 @@
       "translation": "And the pitcher of meal failed not, and the cruse of oil was not diminished, according to the word of the Lord which he spoke by the hand of Eliu.",
       "words": [],
       "translations": {
-        "ron": "Căci făina din vas n-a scăzut şi untdelemnul din urcior nu s-a împuţinat, după cuvântul Domnului, grăit prin Ilie."
+        "ron": "Căci făina din vas n-a scăzut şi untdelemnul din urcior nu s-a împuţinat, după cuvântul Domnului, grăit prin Ilie.",
+        "grk": "Καὶ ἡ ὑδρία τοῦ ἀλεύρου οὐκ ἐξέλιπε, καὶ ὁ καψάκης τοῦ ἐλαίου οὐκ ἠλαττονήθη, κατὰ τὸ ῥῆμα Κυρίου ὃ ἐλάλησεν ἐν χειρὶ Ἠλιού."
       }
     },
     {
@@ -152,7 +168,8 @@
       "translation": "And it came to pass afterward, that the son of the woman the mistress of the house was sick; and his sickness was very severe, until there was no breath left in him.",
       "words": [],
       "translations": {
-        "ron": "După aceasta s-a îmbolnăvit copilul femeii, stăpâna casei, şi boala lui a fost atât de grea, că n-a mai rămas suflare într-însul."
+        "ron": "După aceasta s-a îmbolnăvit copilul femeii, stăpâna casei, şi boala lui a fost atât de grea, că n-a mai rămas suflare într-însul.",
+        "grk": "Καὶ ἐγένετο μετὰ ταῦτα, καὶ ἠῤῥώστησεν ὁ υἱὸς τῆς γυναικὸς τῆς κυρίας τοῦ οἴκου· καὶ ἦν ἡ ἀῤῥωστία αὐτοῦ κραταιὰ σφόδρα ἕως οὐχ ὑπελείφθη ἐν αὐτῷ πνεῦμα."
       }
     },
     {
@@ -161,7 +178,8 @@
       "translation": "And she said to Eliu, What have I to do with thee, O man of God? hast thou come in to me to bring my sins to remembrance, and to slay my son?",
       "words": [],
       "translations": {
-        "ron": "Şi a zis ea către Ilie: \"Ce ai avut cu mine, omul lui Dumnezeu? Ai venit la mine ca să-mi pomeneşti păcatele mele şi să-mi omori fiul?\""
+        "ron": "Şi a zis ea către Ilie: \"Ce ai avut cu mine, omul lui Dumnezeu? Ai venit la mine ca să-mi pomeneşti păcatele mele şi să-mi omori fiul?\"",
+        "grk": "Καὶ εἶπε πρὸς Ἠλιοὺ, τί ἐμοὶ καὶ σοὶ ἄνθρωπε τοῦ Θεοῦ; εἰσῆλθες πρὸς μὲ τοῦ ἀναμνῆσαι ἀδικίας μου, καὶ θανατῶσαι τὸν υἱόν μου;"
       }
     },
     {
@@ -170,7 +188,8 @@
       "translation": "And Eliu said to the woman, Give me thy son. And he took him out of her bosom, and took him up to the chamber in which he himself lodged, and laid him on the bed.",
       "words": [],
       "translations": {
-        "ron": "Iar Ilie a zis: \"Dă-mi pe fiul tău!\" Şi l-a luat din braţele ei şi l-a suit în foişor unde şedea el şi l-a pus pe patul său."
+        "ron": "Iar Ilie a zis: \"Dă-mi pe fiul tău!\" Şi l-a luat din braţele ei şi l-a suit în foişor unde şedea el şi l-a pus pe patul său.",
+        "grk": "Καὶ εἶπεν Ἠλιοὺ πρὸς τὴν γυναῖκα, δός μοι τὸν υἱόν σου· καὶ ἔλαβεν αὐτὸν ἐκ τοῦ κόλπου αὐτῆς, καὶ ἀνήνεγκεν αὐτὸν εἰς τὸ ὑπερῷον ἐν ᾧ αὐτὸς ἐκάθητο ἐκεῖ, καὶ ἐκοίμισεν αὐτὸν ἐπὶ τῆς κλίνης."
       }
     },
     {
@@ -179,7 +198,8 @@
       "translation": "And Eliu cried aloud, and said, Alas, O Lord, the witness of the widow with whom I sojourn, thou hast wrought evil for her in slaying her son.",
       "words": [],
       "translations": {
-        "ron": "Apoi a strigat Ilie către Domnul şi a zis: \"Doamne Dumnezeul meu, oare şi văduvei la care locuiesc îi faci rău, omorând pe fiul ei?\""
+        "ron": "Apoi a strigat Ilie către Domnul şi a zis: \"Doamne Dumnezeul meu, oare şi văduvei la care locuiesc îi faci rău, omorând pe fiul ei?\"",
+        "grk": "Καὶ ἀνεβόησεν Ἠλιοὺ, καὶ εἶπεν, οἵ μοι Κύριε, ὁ μάρτυς τῆς χήρας μεθʼ ἧς ἐγὼ κατοικῶ μετʼ αὐτῆς, σὺ κεκάκωκας τοῦ θανατῶσαι τὸν υἱὸν αὐτῆς."
       }
     },
     {
@@ -188,7 +208,8 @@
       "translation": "And he breathed on the child thrice, and called on the Lord, and said, O Lord my God, let, I pray thee, the soul of this child return to him.",
       "words": [],
       "translations": {
-        "ron": "Şi suflând de trei ori peste copil, a strigat către Domnul şi a zis: \"Doamne Dumnezeul meu, să se întoarcă sufletul acestui copil în el!\""
+        "ron": "Şi suflând de trei ori peste copil, a strigat către Domnul şi a zis: \"Doamne Dumnezeul meu, să se întoarcă sufletul acestui copil în el!\"",
+        "grk": "Καὶ ἐνεφύσησε τῷ παιδαρίῳ τρὶς, καὶ ἐπεκαλέσατο τὸν Κύριον, καὶ εἶπε, Κύριε ὁ Θεός μου, ἐπιστραφήτω δὴ ἡ ψυχὴ τοῦ παιδαρίου τούτου εἰς αὐτόν."
       }
     },
     {
@@ -197,7 +218,8 @@
       "translation": "And it was so, and the child cried out,",
       "words": [],
       "translations": {
-        "ron": "Şi a ascultat Domnul glasul lui Ilie; şi s-a întors sufletul copilului acestuia în el şi a înviat."
+        "ron": "Şi a ascultat Domnul glasul lui Ilie; şi s-a întors sufletul copilului acestuia în el şi a înviat.",
+        "grk": "Καὶ ἐγένετο οὕτως· καὶ ἀνεβόησε τὸ παιδάριον."
       }
     },
     {
@@ -206,7 +228,8 @@
       "translation": "and he brought him down from the upper chamber into the house, and gave him to his mother; and Eliu said, See, thy son lives.",
       "words": [],
       "translations": {
-        "ron": "Şi a luat Ilie copilul şi s-a coborât cu el din foişor în casă şi l-a dat mamei sale şi a zis Ilie: \"Iată copilul tău este viu!\""
+        "ron": "Şi a luat Ilie copilul şi s-a coborât cu el din foişor în casă şi l-a dat mamei sale şi a zis Ilie: \"Iată copilul tău este viu!\"",
+        "grk": "Καὶ κατήγαγεν αυτὸ ἀπὸ τοῦ ὑπερῴου εἰς τὸν οἶκον, καὶ ἔδωκεν αὐτὸ τῇ μητρὶ αὐτοῦ· καὶ εἶπεν Ἠλιοὺ, βλέπε, ζῇ ὁ υἱός σου."
       }
     },
     {
@@ -215,7 +238,8 @@
       "translation": "And the woman said to Eliu, Behold, I know that thou art a man of God, and the word of the Lord in thy mouth is true.",
       "words": [],
       "translations": {
-        "ron": "Atunci a zis femeia către Ilie: \"Acum cunosc şi eu că tu eşti omul lui Dumnezeu şi cu adevărat cuvântul lui Dumnezeu este în gura ta!\""
+        "ron": "Atunci a zis femeia către Ilie: \"Acum cunosc şi eu că tu eşti omul lui Dumnezeu şi cu adevărat cuvântul lui Dumnezeu este în gura ta!\"",
+        "grk": "Καὶ εἶπεν ἡ γυνὴ πρὸς Ἠλιοὺ, ἰδοὺ ἔγνωκα ὅτι σὺ ἄνθρωπος Θεοῦ, καὶ ῥῆμα Κυρίου ἐν τῷ στόματί σου ἀληθινόν."
       }
     }
   ]

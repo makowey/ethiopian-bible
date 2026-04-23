@@ -8,7 +8,8 @@
       "translation": "A Psalm for Thanksgiving. Make a joyful noise to the Lord, all the earth.",
       "words": [],
       "translations": {
-        "ron": "Strigaţi Domnului tot pământul, slujiţi Domnului cu veselie, intraţi înaintea Lui cu bucurie."
+        "ron": "Strigaţi Domnului tot pământul, slujiţi Domnului cu veselie, intraţi înaintea Lui cu bucurie.",
+        "grk": "Ψαλμὸς εἰς ἐξομολόγησιν. Ἀλαλάξατε τῷ Κυρίῳ πᾶσα ἡ γῆ,"
       }
     },
     {
@@ -17,7 +18,8 @@
       "translation": "Serve the Lord with gladness; come before his presence with exultation.",
       "words": [],
       "translations": {
-        "ron": "Cunoaşteţi că Domnul, El este Dumnezeul nostru; El ne-a făcut pe noi şi nu noi."
+        "ron": "Cunoaşteţi că Domnul, El este Dumnezeul nostru; El ne-a făcut pe noi şi nu noi.",
+        "grk": "δουλεύσατε τῷ Κυρίῳ ἐν εὐφροσύνῃ· εἰσέλθατε ἐνώπιον αὐτοῦ ἐν ἀγαλλιάσει."
       }
     },
     {
@@ -26,7 +28,8 @@
       "translation": "Know that the Lord he is God; he made us, and not we ourselves; we are his people, and the sheep of his pasture.",
       "words": [],
       "translations": {
-        "ron": "Iar noi poporul Lui şi oile păşunii Lui. Intraţi pe porţile Lui cu laudă şi în curţile Lui cu cântări lăudaţi-L pe El."
+        "ron": "Iar noi poporul Lui şi oile păşunii Lui. Intraţi pe porţile Lui cu laudă şi în curţile Lui cu cântări lăudaţi-L pe El.",
+        "grk": "Γνῶτε ὅτι Κύριος αὐτός ἐστιν ὁ Θεός· αὐτὸς ἐποίησεν ἡμᾶς, καὶ οὐχ ἡμεῖς, λαὸς αὐτοῦ καὶ πρόβατα τῆς νομῆς αὐτοῦ."
       }
     },
     {
@@ -35,14 +38,18 @@
       "translation": "Enter into his gates with thanksgiving, and his courts with hymns; give thanks to him, praise his name.",
       "words": [],
       "translations": {
-        "ron": "Cântaţi numele Lui! Că bun este Domnul; în veac este mila Lui şi din neam în neam adevărul Lui."
+        "ron": "Cântaţi numele Lui! Că bun este Domnul; în veac este mila Lui şi din neam în neam adevărul Lui.",
+        "grk": "Εἰσέλθατε εἰς τὰς πύλας αὐτοῦ ἐν ἐξομολογήσει, τὰς αὐλὰς αὐτοῦ ἐν ὕμνοις· ἐξομολογεῖσθε αὐτῷ, αἰνεῖτε τὸ ὄνομα αὐτοῦ."
       }
     },
     {
       "num": 5,
       "geez": "",
       "translation": "For the Lord is good, his mercy is for ever; and his truth endures to generation and generation.",
-      "words": []
+      "words": [],
+      "translations": {
+        "grk": "Ὅτι χρηστὸς Κύριος, εἰς τὸν αἰῶνα τὸ ἔλεος αὐτοῦ, καὶ ἕως γενεᾶς καὶ γενεᾶς ἡ ἀλήθεια αὐτοῦ."
+      }
     }
   ]
 }

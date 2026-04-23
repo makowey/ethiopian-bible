@@ -41,7 +41,8 @@
       "translations": {
         "lxx": "But Job answered and said,",
         "kjv": "But Job answered and said,",
-        "ron": "Atunci Iov a răspuns şi a grăit:"
+        "ron": "Atunci Iov a răspuns şi a grăit:",
+        "grk": "Ὑπολαβὼν δὲ Ἰὼβ, λέγει,"
       }
     },
     {
@@ -118,7 +119,8 @@
       "translations": {
         "lxx": "Oh that one would indeed weigh the wrath that is upon me, and take up my griefs in a balance together!",
         "kjv": "Oh that my grief were throughly weighed, and my calamity laid in the balances together!",
-        "ron": "\"O, dacă durerea mea s-ar cântări şi nenorocirea mea ar fi pusă la cântar!"
+        "ron": "\"O, dacă durerea mea s-ar cântări şi nenorocirea mea ar fi pusă la cântar!",
+        "grk": "Εἰ γάρ τις ἱστῶν στήσαι μου τὴν ὀργὴν, τὰς δὲ ὀδύνας μου ἄραι ἐν ζυγῷ ὁμοθυμαδὸν,"
       }
     },
     {
@@ -220,7 +222,8 @@
       "translations": {
         "lxx": "And verily they would be heavier than the sand by the seashore: but, as it seems, my words are vain.",
         "kjv": "For now it would be heavier than the sand of the sea: therefore my words are swallowed up.",
-        "ron": "Şi fiindcă este mai grea decât nisipul mărilor, de aceea cuvintele mele sunt bâlbâite!"
+        "ron": "Şi fiindcă este mai grea decât nisipul mărilor, de aceea cuvintele mele sunt bâlbâite!",
+        "grk": "καὶ δὴ ἄμμου παραλίας βαρυτέρα ἔσται· ἀλλʼ ὡς ἔοικε τὰ ῥήματά μου ἐστὶ φαῦλα."
       }
     },
     {
@@ -307,7 +310,8 @@
       "translations": {
         "lxx": "For the arrows of the Lord are in my body, whose violence drinks up my blood: whenever I am going to speak, they pierce me.",
         "kjv": "For the arrows of the Almighty are within me, the poison whereof drinketh up my spirit: the terrors of God do set themselves in array against me.",
-        "ron": "Pentru că săgeţile Celui Atotputernic stau înfipte în mine şi duhul meu bea veninul lor, de aceea spaimele lui Dumnezeu vin cete-cete împotriva mea."
+        "ron": "Pentru că săgeţile Celui Atotputernic stau înfipte în mine şi duhul meu bea veninul lor, de aceea spaimele lui Dumnezeu vin cete-cete împotriva mea.",
+        "grk": "Βέλη γὰρ Κυρίου ἐν τῷ σώματί μου ἐστὶν, ὧν ὁ θυμὸς αὐτῶν ἐκπίνει μου τὸ αἷμα· ὅταν ἄρξωμαι λαλεῖν, κεντοῦσί με."
       }
     },
     {
@@ -394,7 +398,8 @@
       "translations": {
         "lxx": "What then? will the wild ass bray for nothing, if he is not seeking food? or again, will the ox low at the manger, when he has fodder?",
         "kjv": "Doth the wild ass bray when he hath grass? or loweth the ox over his fodder?",
-        "ron": "Zbiară măgarul sălbatic când e lângă păşunea verde? Mugeşte boul când stă lângă nutreţ?"
+        "ron": "Zbiară măgarul sălbatic când e lângă păşunea verde? Mugeşte boul când stă lângă nutreţ?",
+        "grk": "Τί γάρ; μὴ διακενῆς κεκράξεται ὄνος ἄγριος, ἀλλʼ ἢ τὰ σῖτα ζητῶν; εἰ δὲ καὶ ῥήξει φωνὴν βοῦς ἐπὶ φάτνης ἔχων τὰ βρώματα;"
       }
     },
     {
@@ -486,7 +491,8 @@
       "translations": {
         "lxx": "Shall bread be eaten without salt? or again, is there taste in empty words?",
         "kjv": "Can that which is unsavoury be eaten without salt? or is there any taste in the white of an egg?",
-        "ron": "Poţi să mănânci ce n-are sare fără sare? Are vreun gust albuşul oului?"
+        "ron": "Poţi să mănânci ce n-are sare fără sare? Are vreun gust albuşul oului?",
+        "grk": "Εἰ βρωθήσεται ἄρτος ἄνευ ἁλός; εἰ δὲ καὶ ἔστι γεῦμα ἐν ῥήμασι κενοῖς;"
       }
     },
     {
@@ -523,7 +529,8 @@
       "translations": {
         "lxx": "For oh that he would grant my desire, and my petition might come, and the Lord would grant my hope!",
         "kjv": "Oh that I might have my request; and that God would grant me the thing that I long for!",
-        "ron": "Cine îmi va dărui îndeplinirea rugăciunii mele şi va face ca Dumnezeu să-mi dea ce aştept,"
+        "ron": "Cine îmi va dărui îndeplinirea rugăciunii mele şi va face ca Dumnezeu să-mi dea ce aştept,",
+        "grk": "Εἰ γὰρ δώῃ καὶ ἔλθοι μου ἡ αἴτησις, καὶ τὴν ἐλπίδα μου δώῃ ὁ Κύριος."
       }
     },
     {
@@ -595,7 +602,8 @@
       "translations": {
         "lxx": "Let the Lord begin and wound me, but let him not utterly destroy me.",
         "kjv": "Even that it would please God to destroy me; that he would let loose his hand, and cut me off!",
-        "ron": "Şi să primească să mă sfărâme şi să-şi întindă mâna şi să mă nimicească!"
+        "ron": "Şi să primească să mă sfărâme şi să-şi întindă mâna şi să mă nimicească!",
+        "grk": "Ἀρξάμενος ὁ Κύριος τρωσάτω με, εἰς τέλος δὲ μή με ἀνελέτω."
       }
     },
     {
@@ -657,7 +665,8 @@
       "translations": {
         "lxx": "Let the grave be my city, upon the walls of which I have leaped: I will not shrink from it; for I have not denied the holy words of my God.",
         "kjv": "Then should I yet have comfort; yea, I would harden myself in sorrow: let him not spare; for I have not concealed the words of the Holy One.",
-        "ron": "Dar va fi încă o mângâiere pentru mine şi voi tresălta, deşi împovărat de dureri nemiloase, fiindcă n-am ascuns poruncile Celui Sfânt."
+        "ron": "Dar va fi încă o mângâiere pentru mine şi voi tresălta, deşi împovărat de dureri nemiloase, fiindcă n-am ascuns poruncile Celui Sfânt.",
+        "grk": "Εἴη δέ μου πόλις τάφος, ἐφʼ ἧς ἐπὶ τειχέων ἡλλόμην, ἐπʼ αὐτῆς οὐ φείσομαι· οὐ γὰρ ἐψευσάμην ῥήματα ἅγια Θεοῦ μου."
       }
     },
     {
@@ -704,7 +713,8 @@
       "translations": {
         "lxx": "For what is my strength, that I continue? what is my time, that my soul endures?",
         "kjv": "What is my strength, that I should hope? and what is mine end, that I should prolong my life?",
-        "ron": "Ce putere mai am ca să aştept şi ce viitor mai am ca să prelungesc viaţa mea?"
+        "ron": "Ce putere mai am ca să aştept şi ce viitor mai am ca să prelungesc viaţa mea?",
+        "grk": "Τίς γάρ μου ἡ ἰσχύς, ὅτι ὑπομένω; τίς μου ὁ χρόνος, ὅτι ἀνέχεταί μου ἡ ψυχή;"
       }
     },
     {
@@ -751,7 +761,8 @@
       "translations": {
         "lxx": "Is my strength the strength of stones? or is my flesh of brass?",
         "kjv": "Is my strength the strength of stones? or is my flesh of brass?",
-        "ron": "Tăria mea este tăria pietrelor? Trupul meu este oare de aramă?"
+        "ron": "Tăria mea este tăria pietrelor? Trupul meu este oare de aramă?",
+        "grk": "Μὴ ἰσχὺς λίθων ἡ ἰσχύς μου; ἢ αἱ σάρκες μου εἰσὶ χάλκεαι;"
       }
     },
     {
@@ -793,7 +804,8 @@
       "translations": {
         "lxx": "Or have I not trusted in him? but help is far from me.",
         "kjv": "Is not my help in me? and is wisdom driven quite from me?",
-        "ron": "Aş putea găsi vreun sprijin în mine şi tot ajutorul n-a fugit, oare, departe de mine?"
+        "ron": "Aş putea găsi vreun sprijin în mine şi tot ajutorul n-a fugit, oare, departe de mine?",
+        "grk": "Ἢ οὐκ ἐπʼ αὐτῷ ἐπεποίθειν; βοήθεια δὲ ἀπʼ ἐμοῦ ἄπεστιν."
       }
     },
     {
@@ -870,7 +882,8 @@
       "translations": {
         "lxx": "Mercy has rejected me; and the visitation of the Lord has disregarded me.",
         "kjv": "To him that is afflicted pity should be shewed from his friend; but he forsaketh the fear of the Almighty.",
-        "ron": "Celui ce este în suferinţă i se cuvine mila prietenului său, dar el uită teama de Cel Atotputernic."
+        "ron": "Celui ce este în suferinţă i se cuvine mila prietenului său, dar el uită teama de Cel Atotputernic.",
+        "grk": "Ἀπείπατό με ἔλεος, ἐπισκοπὴ δὲ Κυρίου ὑπερεῖδέ με."
       }
     },
     {
@@ -937,7 +950,8 @@
       "translations": {
         "lxx": "My nearest relations have not regarded me; they have passed me by like a failing brook, or like a wave.",
         "kjv": "My brethren have dealt deceitfully as a brook, and as the stream of brooks they pass away;",
-        "ron": "Fraţii mei s-au arătat înşelători ca un puhoi, ca albia puhoaielor repezi."
+        "ron": "Fraţii mei s-au arătat înşelători ca un puhoi, ca albia puhoaielor repezi.",
+        "grk": "Οὐ προσεῖδόν με οἱ ἐγγύτατοί μου, ὥσπερ χειμάῤῥους ἐκλείπων, ἢ ὥσπερ κῦμα παρῆλθόν με"
       }
     },
     {
@@ -984,7 +998,8 @@
       "translations": {
         "lxx": "They who used to reverence me, now have come against me like snow or congealed ice.",
         "kjv": "Which are blackish by reason of the ice, and wherein the snow is hid:",
-        "ron": "Erau acoperite de ghiaţă, zăpada stătea grămadă peste ele;"
+        "ron": "Erau acoperite de ghiaţă, zăpada stătea grămadă peste ele;",
+        "grk": "Οἵτινές με διευλαβοῦντο, νῦν ἐπιπεπτώκασί μοι ὥσπερ χιὼν ἢ κρύσταλλος πεπηγώς·"
       }
     },
     {
@@ -1026,7 +1041,8 @@
       "translations": {
         "lxx": "When it has melted at the approach of heat, it is not known what it was.",
         "kjv": "What time they wax warm, they vanish: when it is hot, they are consumed out of their place.",
-        "ron": "Dar cum se topeşte zăpada, ele şi seacă şi, cum se încălzeşte, ele se usucă pe loc."
+        "ron": "Dar cum se topeşte zăpada, ele şi seacă şi, cum se încălzeşte, ele se usucă pe loc.",
+        "grk": "Καθὼς τακεῖσα θέρμης γενομένης, οὐκ ἐπεγνώσθη ὅπερ ἦν,"
       }
     },
     {
@@ -1068,7 +1084,8 @@
       "translations": {
         "lxx": "Thus I also have been deserted of all; and I am ruined, and become an outcast.",
         "kjv": "The paths of their way are turned aside; they go to nothing, and perish.",
-        "ron": "Caravanele se abat din drumul lor, ele înaintează în pustiu şi se rătăcesc."
+        "ron": "Caravanele se abat din drumul lor, ele înaintează în pustiu şi se rătăcesc.",
+        "grk": "οὕτω κᾀγὼ κατελείφηθν ὑπὸ πάντων, ἀπωλόμην δὲ καὶ ἔξοικος ἐγενόμην."
       }
     },
     {
@@ -1135,7 +1152,8 @@
       "translations": {
         "lxx": "Behold the ways of the Thæmanites, ye that mark the paths of the Sabæans.",
         "kjv": "The troops of Tema looked, the companies of Sheba waited for them.",
-        "ron": "Caravanele din Tema aşteaptă, convoaiele din Saba nădăjduiesc în ele."
+        "ron": "Caravanele din Tema aşteaptă, convoaiele din Saba nădăjduiesc în ele.",
+        "grk": "Ἴδετε ὁδοὺς Θαιμανῶν, ἀτραποὺς, Σαβῶν οἱ διορῶντες."
       }
     },
     {
@@ -1207,7 +1225,8 @@
       "translations": {
         "lxx": "They too that trust in cities and riches shall come to shame.",
         "kjv": "They were confounded because they had hoped; they came thither, and were ashamed.",
-        "ron": "Şi sunt uimiţi că au avut încredere; când sosesc lângă uscatele puhoaie sunt uimiţi."
+        "ron": "Şi sunt uimiţi că au avut încredere; când sosesc lângă uscatele puhoaie sunt uimiţi.",
+        "grk": "Καὶ αἰσχύνην ὀφειλήσουσιν, οἱ ἐπὶ πόλεσι καὶ χρήμασι πεποιθότες."
       }
     },
     {
@@ -1279,7 +1298,8 @@
       "translations": {
         "lxx": "But ye also have come to me without pity; so that beholding my wound ye are afraid.",
         "kjv": "For now ye are nothing; ye see my casting down, and are afraid.",
-        "ron": "Aşa aţi fost şi voi acum pentru mine: Vă scutură spaima şi vă este frică!"
+        "ron": "Aşa aţi fost şi voi acum pentru mine: Vă scutură spaima şi vă este frică!",
+        "grk": "Ἀτὰρ δὲ καὶ ὑμεῖς ἐπέβητέ μοι ἀνελεημόνως, ὥστε ἰδόντες τὸ ἐμὸν τραῦμα φοβήθητε."
       }
     },
     {
@@ -1381,7 +1401,8 @@
       "translations": {
         "lxx": "What? have I made any demand of you? or do I ask for strength from you,",
         "kjv": "Did I say, Bring unto me? or, Give a reward for me of your substance?",
-        "ron": "Nu cumva v-am zis: Daţi-mi de pomană şi împărţiţi din averile voastre pentru mine?"
+        "ron": "Nu cumva v-am zis: Daţi-mi de pomană şi împărţiţi din averile voastre pentru mine?",
+        "grk": "Τί γάρ; μήτι ὑμᾶς ἢτησα, ἢ τῆς παρʼ ὑμῶν ἰσχύος ἐπιδέομαι,"
       }
     },
     {
@@ -1448,7 +1469,8 @@
       "translations": {
         "lxx": "to deliver me from enemies, or to rescue me from the hand of the mighty ones?",
         "kjv": "Or, Deliver me from the enemy’s hand? or, Redeem me from the hand of the mighty?",
-        "ron": "Sau scăpaţi-mă din mâna unui duşman sau răscumpăraţi-mă din mâna tiranilor?"
+        "ron": "Sau scăpaţi-mă din mâna unui duşman sau răscumpăraţi-mă din mâna tiranilor?",
+        "grk": "ὥστε σῶσαί με ἑξ ἐχθρῶν, ἢ ἐκ χειρὸς δυναστῶν ῥύσασθαί με;"
       }
     },
     {
@@ -1505,7 +1527,8 @@
       "translations": {
         "lxx": "Teach ye me, and I will be silent: if in anything I have erred, tell me.",
         "kjv": "Teach me, and I will hold my tongue: and cause me to understand wherein I have erred.",
-        "ron": "Fiţi învăţătorii mei şi eu voi tăcea; lămuriţi-mă unde este păcatul meu!"
+        "ron": "Fiţi învăţătorii mei şi eu voi tăcea; lămuriţi-mă unde este păcatul meu!",
+        "grk": "Διδάξατέ με, ἐγὼ δὲ κωφεύσω· εἴ τι πεπλάνημαι, φράσατέ μοι."
       }
     }
   ],

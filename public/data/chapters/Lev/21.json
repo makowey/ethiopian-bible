@@ -81,7 +81,8 @@
       "translations": {
         "lxx": "And the Lord spoke to Moses, saying, Speak to the priests the sons of Aaron, and thou shalt tell them that they shall not defile themselves in their nation for the dead,",
         "kjv": "And the LORD said unto Moses, Speak unto the priests the sons of Aaron, and say unto them, There shall none be defiled for the dead among his people:",
-        "ron": "Zis-a Domnul către Moise: \"Grăieşte preoţilor, fiilor lui Aaron şi le spune:"
+        "ron": "Zis-a Domnul către Moise: \"Grăieşte preoţilor, fiilor lui Aaron şi le spune:",
+        "grk": "Καὶ εἶπε Κύριος πρὸς Μωυσῆν, λέγων, εἶπον τοῖς ἱερεύσι τοῖς υἱοῖς Ἀαρὼν, καὶ ἐρεῖς πρὸς αὐτούς, ἐν ταῖς ψυχαῖς οὐ μιανθήσονται ἐν τῷ ἔθνει αὐτῶν,"
       }
     },
     {
@@ -173,7 +174,8 @@
       "translations": {
         "lxx": "but they may mourn for a relative who is very near to them, for a father and mother, and sons and daughters, for a brother,",
         "kjv": "But for his kin, that is near unto him, that is, for his mother, and for his father, and for his son, and for his daughter, and for his brother,",
-        "ron": "Să nu se spurce prin atingere de mort din poporul lor. Să se atingă numai de rudenia de aproape a lor, de mama lor şi de tatăl lor, de fiul lor şi de fiica lor, de fratele lor;"
+        "ron": "Să nu se spurce prin atingere de mort din poporul lor. Să se atingă numai de rudenia de aproape a lor, de mama lor şi de tatăl lor, de fiul lor şi de fiica lor, de fratele lor;",
+        "grk": "ἀλλʼ ἢ ἐν τῷ οἰκείῳ τῷ ἔγγιστα αὐτῶν, ἐπὶ πατρὶ καὶ μητρὶ, καὶ υἱοῖς, καὶ θυγατράσιν, ἐπʼ ἀδελφῷ,"
       }
     },
     {
@@ -250,7 +252,8 @@
       "translations": {
         "lxx": "and for a virgin sister that is near to one, that is not espoused to a man; for these one shall defile himself.",
         "kjv": "And for his sister a virgin, that is nigh unto him, which hath had no husband; for her may he be defiled.",
-        "ron": "De sora lor fecioară, care trăieşte la ei şi e nemăritată, poate să se atingă, fără să se spurce."
+        "ron": "De sora lor fecioară, care trăieşte la ei şi e nemăritată, poate să se atingă, fără să se spurce.",
+        "grk": "καὶ ἐπʼ ἀδελφῇ παρθένῳ τῇ ἐγγιζούσῃ αὐτῷ, τῇ μὴ ἐκδεδομένῃ ἀνδρί, ἐπὶ τούτοις μιανθήσεται."
       }
     },
     {
@@ -297,7 +300,8 @@
       "translations": {
         "lxx": "He shall not defile himself suddenly among his people to profane himself.",
         "kjv": "But he shall not defile himself, being a chief man among his people, to profane himself.",
-        "ron": "De nimeni altul din poporul său să nu se atingă, ca să nu se spurce."
+        "ron": "De nimeni altul din poporul său să nu se atingă, ca să nu se spurce.",
+        "grk": "Οὐ μιανθήσεται ἐξάπινα ἐν τῷ λαῷ αὐτοῦ εἰς βεβήλωσιν αὐτοῦ."
       }
     },
     {
@@ -354,7 +358,8 @@
       "translations": {
         "lxx": "And ye shall not shave your head for the dead with a baldness on the top; and they shall not shave their beard, neither shall they make gashes on their flesh.",
         "kjv": "They shall not make baldness upon their head, neither shall they shave off the corner of their beard, nor make any cuttings in their flesh.",
-        "ron": "Să nu-şi radă capul, să nu-şi tundă marginea bărbii şi să nu-şi facă tăieturi pe trupurile lor pentru morţi."
+        "ron": "Să nu-şi radă capul, să nu-şi tundă marginea bărbii şi să nu-şi facă tăieturi pe trupurile lor pentru morţi.",
+        "grk": "Καὶ φαλάκρωμα οὐ ξυρηθήσεσθε τὴν κεφαλὴν ἐπὶ νεκρῷ· καὶ τὴν ὄψιν τοῦ πώγωνος οὐ ξυρήσονται· καὶ ἐπὶ τὰς σάρκας αὐτῶν οὐ κατατεμοῦσιν ἐντομίδας."
       }
     },
     {
@@ -441,7 +446,8 @@
       "translations": {
         "lxx": "They shall be holy to their God, and they shall not profane the name of their God; for they offer the sacrifices of the Lord as the gifts of their God, and they shall be holy.",
         "kjv": "They shall be holy unto their God, and not profane the name of their God: for the offerings of the LORD made by fire, and the bread of their God, they do offer: therefore they shall be holy.",
-        "ron": "Să fie sfinţi ai Dumnezeului lor şi să nu pângărească numele Dumnezeului lor, că ei aduc jertfă Domnului şi pâine Dumnezeului lor şi de aceea să fie sfinţi."
+        "ron": "Să fie sfinţi ai Dumnezeului lor şi să nu pângărească numele Dumnezeului lor, că ei aduc jertfă Domnului şi pâine Dumnezeului lor şi de aceea să fie sfinţi.",
+        "grk": "Ἅγιοι ἔσονται τῷ Θεῷ αὐτῶν, καὶ οὐ βεβηλώσουσι τὸ ὄνομα τοῦ Θεοῦ αὐτῶν· τὰς γὰρ θυσίας Κυρίου δῶρα τοῦ Θεοῦ αὐτῶν αὐτοὶ προσφέρουσι, καὶ ἔσονται ἅγιοι."
       }
     },
     {
@@ -518,7 +524,8 @@
       "translations": {
         "lxx": "They shall not take a woman who is a harlot and profaned, or a woman put away from her husband; for he is holy to the Lord his God.",
         "kjv": "They shall not take a wife that is a whore, or profane; neither shall they take a woman put away from her husband: for he is holy unto his God.",
-        "ron": "Să nu-şi ia de soţie femeie desfrânată sau necinstită; nici femeie lepădată de bărbatul ei, căci sunt sfinţi ai Domnului Dumnezeului lor."
+        "ron": "Să nu-şi ia de soţie femeie desfrânată sau necinstită; nici femeie lepădată de bărbatul ei, căci sunt sfinţi ai Domnului Dumnezeului lor.",
+        "grk": "Γυναῖκα πόρνην καὶ βεβηλωμένην οὐ λήψονται, καὶ γυναῖκα ἐκβεβλημένην ἀπὸ ἀνδρὸς αὐτῆς, ὅτι ἅγιός ἐστι Κυρίῳ τῷ Θεῷ αὐτοῦ."
       }
     },
     {
@@ -600,7 +607,8 @@
       "translations": {
         "lxx": "And thou shalt hallow him; he offers the gifts of the Lord your God: he shall be holy, for I the Lord that sanctify them am holy.",
         "kjv": "Thou shalt sanctify him therefore; for he offereth the bread of thy God: he shall be holy unto thee: for I the LORD, which sanctify you, am holy.",
-        "ron": "Cinsteşte-i ca pe sfinţi, căci ei aduc pâine Dumnezeului tău; sfinţi să vă fie, căci Eu, Domnul, Cel ce vă sfinţesc, sunt sfânt."
+        "ron": "Cinsteşte-i ca pe sfinţi, căci ei aduc pâine Dumnezeului tău; sfinţi să vă fie, căci Eu, Domnul, Cel ce vă sfinţesc, sunt sfânt.",
+        "grk": "Καὶ ἁγιάσεις αὐτόν· τὰ δῶρα Κυρίου τοῦ Θεοῦ ὑμῶν οὗτος προσφέρει, ἅγιος ἔσται· ὅτι ἅγιος ἐγὼ Κύριος ὁ ἁγιάζων αὐτούς."
       }
     },
     {
@@ -672,7 +680,8 @@
       "translations": {
         "lxx": "And if the daughter of a priest should be profaned to go a whoring, she profanes the name of her father: she shall be burnt with fire.",
         "kjv": "And the daughter of any priest, if she profane herself by playing the whore, she profaneth her father: she shall be burnt with fire.",
-        "ron": "Dacă fiica preotului se va spurca prin desfrânare, ea necinsteşte pe tatăl său: să fie arsă cu foc."
+        "ron": "Dacă fiica preotului se va spurca prin desfrânare, ea necinsteşte pe tatăl său: să fie arsă cu foc.",
+        "grk": "Καὶ θυγάτηρ ἀνθρώπου ἱερέως ἐὰν βεβηλωθῇ τοῦ ἐκπορνεύσαι, τὸ ὄνομα τοῦ πατρὸς αὐτῆς αὐτὴ βεβηλοῖ· ἐπὶ πυρὸς κατακαυθήσεται."
       }
     },
     {
@@ -764,7 +773,8 @@
       "translations": {
         "lxx": "And the priest that is chief among his brethren, the oil having been poured upon the head of the anointed one, and he having been consecrated to put on the garments, shall not take the mitre off his head, and shall not rend his garments:",
         "kjv": "And he that is the high priest among his brethren, upon whose head the anointing oil was poured, and that is consecrated to put on the garments, shall not uncover his head, nor rend his clothes;",
-        "ron": "Marele preot din fraţii tăi, pe capul căruia s-a turnat mirul de ungere şi care este sfinţit, ca să se îmbrace cu veşmintele sfinte, să nu-şi descopere capul său, nici să-şi sfâşie hainele;"
+        "ron": "Marele preot din fraţii tăi, pe capul căruia s-a turnat mirul de ungere şi care este sfinţit, ca să se îmbrace cu veşmintele sfinte, să nu-şi descopere capul său, nici să-şi sfâşie hainele;",
+        "grk": "Καὶ ὁ ἱερεὺς ὁ μέγας ἀπὸ τῶν ἀδελφῶν αὐτοῦ, τοῦ ἐπικεχυμένου ἐπὶ τὴν κεφαλὴν τοῦ ἐλαίου τοῦ χριστοῦ, καὶ τετελειωμένου ἐνδύσασθαι τὰ ἱμάτια, τὴν κεφαλὴν οὐκ ἀποκιδαρώσει, καὶ τὰ ἱμάτια οὐ διαῤῥήξει,"
       }
     },
     {
@@ -836,7 +846,8 @@
       "translations": {
         "lxx": "neither shall he go in to any dead body, neither shall he defile himself for his father or his mother.",
         "kjv": "Neither shall he go in to any dead body, nor defile himself for his father, or for his mother;",
-        "ron": "Şi nici de un mort să nu se apropie, nici chiar de tatăl său sau de mama sa să nu se atingă."
+        "ron": "Şi nici de un mort să nu se apropie, nici chiar de tatăl său sau de mama sa să nu se atingă.",
+        "grk": "καὶ ἐπὶ πάσῃ ψυχῇ τετελευτηκυίᾳ οὐκ εἰσελεύσεται, ἐπὶ πατρὶ αὐτοῦ οὐδὲ ἐπὶ μητρὶ αὐτοῦ οὐ μιανθήσεται."
       }
     },
     {
@@ -938,7 +949,8 @@
       "translations": {
         "lxx": "And he shall not go forth out of the sanctuary, and he shall not profane the sanctuary of his God, because the holy anointing oil of God is upon him: I am the Lord.",
         "kjv": "Neither shall he go out of the sanctuary, nor profane the sanctuary of his God; for the crown of the anointing oil of his God is upon him: I am the LORD.",
-        "ron": "De locaşul sfânt să nu se depărteze, ca să nu necinstească locaşul Dumnezeului său, căci mirul sfânt de ungere al Dumnezeului lui este asupra lui. Eu sunt Domnul."
+        "ron": "De locaşul sfânt să nu se depărteze, ca să nu necinstească locaşul Dumnezeului său, căci mirul sfânt de ungere al Dumnezeului lui este asupra lui. Eu sunt Domnul.",
+        "grk": "Καὶ ἐκ τῶν ἁγίων οὐκ ἐξελεύσεται, καὶ οὐ βεβηλώσει τὸ ἡγιασμένον τοῦ Θεοῦ αὐτοῦ, ὅτι τὸ ἅγιον ἔλαιον τὸ χριστὸν τοῦ Θεοῦ ἐπʼ αὐτῷ· ἐγὼ Κύριος."
       }
     },
     {
@@ -970,7 +982,8 @@
       "translations": {
         "lxx": "He shall take for a wife a virgin of his own tribe.",
         "kjv": "And he shall take a wife in her virginity.",
-        "ron": "Acesta îşi va lua de femeie fecioară din poporul său."
+        "ron": "Acesta îşi va lua de femeie fecioară din poporul său.",
+        "grk": "Οὗτος γυναῖκα παρθένον ἐκ τοῦ γένους αὐτοῦ λήψεται."
       }
     },
     {
@@ -1062,7 +1075,8 @@
       "translations": {
         "lxx": "But a widow, or one that is put away, or profaned, or a harlot, these he shall not take; but he shall take for a wife a virgin of his own people.",
         "kjv": "A widow, or a divorced woman, or profane, or an harlot, these shall he not take: but he shall take a virgin of his own people to wife.",
-        "ron": "Văduvă, sau lepădată, sau necinstită, sau desfrânată să nu ia, ci fecioară din poporul său să-şi ia de femeie."
+        "ron": "Văduvă, sau lepădată, sau necinstită, sau desfrânată să nu ia, ci fecioară din poporul său să-şi ia de femeie.",
+        "grk": "Χήραν δὲ καὶ ἐκβεβλημένην καὶ βεβηλωμένην καὶ πόρνην, ταύτας οὐ λήψεται, ἀλλʼ ἢ παρθένον ἐκ τοῦ λαοῦ αὐτοῦ λήψεται γυναῖκα."
       }
     },
     {
@@ -1114,7 +1128,8 @@
       "translations": {
         "lxx": "And he shall not profane his seed among his people: I am the Lord that sanctifies him.",
         "kjv": "Neither shall he profane his seed among his people: for I the LORD do sanctify him.",
-        "ron": "Să nu-şi spurce sămânţa sa în poporul său, că Eu sunt Domnul Dumnezeu, Cel ce îl sfinţesc\"!"
+        "ron": "Să nu-şi spurce sămânţa sa în poporul său, că Eu sunt Domnul Dumnezeu, Cel ce îl sfinţesc\"!",
+        "grk": "Καὶ οὐ βεβηλώσει τὸ σπέρμα αὐτοῦ ἐν τῷ λαῷ αὐτοῦ· ἐγὼ Κύριος ὁ ἁγιάζων αὐτόν."
       }
     },
     {
@@ -1146,7 +1161,8 @@
       "translations": {
         "lxx": "And the Lord spoke to Moses, saying,",
         "kjv": "And the LORD spake unto Moses, saying,",
-        "ron": "Grăit-a Domnul cu Moise şi a zis:"
+        "ron": "Grăit-a Domnul cu Moise şi a zis:",
+        "grk": "Καὶ ἐλάλησε Κύριος πρὸς Μωυσῆν, λέγων,"
       }
     },
     {
@@ -1238,7 +1254,8 @@
       "translations": {
         "lxx": "Say to Aaron, A man of thy tribe throughout your generations, who shall have a blemish on him, shall not draw nigh to offer the gifts of his God.",
         "kjv": "Speak unto Aaron, saying, Whosoever he be of thy seed in their generations that hath any blemish, let him not approach to offer the bread of his God.",
-        "ron": "\"Spune lui Aaron: Nimeni din neamul tău în viitor şi din rudele tale să nu se apropie, ca să aducă daruri Dumnezeului său, de va avea vreo meteahnă pe trupul său."
+        "ron": "\"Spune lui Aaron: Nimeni din neamul tău în viitor şi din rudele tale să nu se apropie, ca să aducă daruri Dumnezeului său, de va avea vreo meteahnă pe trupul său.",
+        "grk": "εἶπον Ἀαρὼν, ἄνθρωπος ἐκ τοῦ γένους σου εἰς τὰς γενεὰς ὑμῶν, τινὶ ἐὰν ᾖ ἐν αὐτῷ μῶμος, οὐ προσελεύσεται προσφέρειν τὰ δῶρα τοῦ Θεοῦ αὐτοῦ."
       }
     },
     {
@@ -1310,7 +1327,8 @@
       "translations": {
         "lxx": "No man who has a blemish on him shall draw nigh; a man lame, blind, with his nose disfigured, or his ears cut,",
         "kjv": "For whatsoever man he be that hath a blemish, he shall not approach: a blind man, or a lame, or he that hath a flat nose, or any thing superfluous,",
-        "ron": "Tot omul cu meteahnă pe trup să nu se apropie: nici orb, nici şchiop, nici ciung,"
+        "ron": "Tot omul cu meteahnă pe trup să nu se apropie: nici orb, nici şchiop, nici ciung,",
+        "grk": "πᾶς ἄνθρωπος ᾧ ἐστιν ἐν αὐτῷ μῶμος, οὐ προσελεύσεται· ἄνθρωπος τυφλὸς."
       }
     },
     {
@@ -1362,7 +1380,8 @@
       "translations": {
         "lxx": "a man who has a broken hand or a broken foot,",
         "kjv": "Or a man that is brokenfooted, or brokenhanded,",
-        "ron": "Nici cel cu piciorul rupt sau cu mâna ruptă, nici ghebos, nici cu vreun mădular uscat,"
+        "ron": "Nici cel cu piciorul rupt sau cu mâna ruptă, nici ghebos, nici cu vreun mădular uscat,",
+        "grk": "ἢ χωλὸς, ἢ κολοβόριν, ἢ ὠτότμητος, ἢ ἄνθρωπος ᾧ ἂν ᾖ ἐν αὐτῳ σύντριμμα χειρὸς, ἢ σύντριμμα ποδὸς,"
       }
     },
     {
@@ -1434,7 +1453,8 @@
       "translations": {
         "lxx": "or hump-backed, or blear-eyed, or that has lost his eye-lashes, or a man who has a malignant ulcer, or tetter, or one that has lost a testicle.",
         "kjv": "Or crookbackt, or a dwarf, or that hath a blemish in his eye, or be scurvy, or scabbed, or hath his stones broken;",
-        "ron": "Nici cel cu albeaţă pe ochi, nici chelul, nici pipernicitul, nici cel cu părţile bărbăteşti vătămate."
+        "ron": "Nici cel cu albeaţă pe ochi, nici chelul, nici pipernicitul, nici cel cu părţile bărbăteşti vătămate.",
+        "grk": "ἢ κυρτὸς, ἢ ἔφηλος, ἢ πτίλλος τοὺς ὀφθαλμούς, ἢ ἄνθρωπος ᾧ ἂν ᾖ ἐν αὐτῷ ψώρα ἀγρία, ἢ λειχὴν, ἢ μονόρχις."
       }
     },
     {
@@ -1551,7 +1571,8 @@
       "translations": {
         "lxx": "Whoever of the seed of Aaron the priest has a blemish on him, shall not draw nigh to offer sacrifices to thy God, because he has a blemish on him; he shall not draw nigh to offer the gifts of God.",
         "kjv": "No man that hath a blemish of the seed of Aaron the priest shall come nigh to offer the offerings of the LORD made by fire: he hath a blemish; he shall not come nigh to offer the bread of his God.",
-        "ron": "Nici un om din sămânţa preotului Aaron, care va avea pe trupul său vreo meteahnă, să nu se apropie ca să aducă jertfă Domnului; că are meteahnă şi de aceea să nu se apropie ca să aducă daruri Dumnezeului său."
+        "ron": "Nici un om din sămânţa preotului Aaron, care va avea pe trupul său vreo meteahnă, să nu se apropie ca să aducă jertfă Domnului; că are meteahnă şi de aceea să nu se apropie ca să aducă daruri Dumnezeului său.",
+        "grk": "Πᾶς ᾧ ἐστιν ἐν αὐτῷ μῶμος, ἐκ τοῦ σπέρματος Ἀαρὼν τοῦ ἱερέως, οὐκ ἐγγιεῖ τοῦ προσενεγκεῖν τὰς θυσίας τῷ Θεῷ σου, ὅτι μῶμος ἐν αὐτῷ· τὰ δῶρα τοῦ Θεοῦ οὐ προσελεύσεται προσενεγκεῖν."
       }
     },
     {
@@ -1598,7 +1619,8 @@
       "translations": {
         "lxx": "The gifts of God are most holy, and he shall eat of the holy things.",
         "kjv": "He shall eat the bread of his God, both of the most holy, and of the holy.",
-        "ron": "Darurile Dumnezeului său sunt sfinţenii mari, din sfinţenii poate să mănânce,"
+        "ron": "Darurile Dumnezeului său sunt sfinţenii mari, din sfinţenii poate să mănânce,",
+        "grk": "Τὰ δῶρα τοῦ Θεοῦ τὰ ἅγια τῶν ἁγίων, καὶ ἀπὸ τῶν ἁγίων φάγεται."
       }
     },
     {
@@ -1695,7 +1717,8 @@
       "translations": {
         "lxx": "Only he shall not approach the veil, and he shall not draw nigh to the altar, because he has a blemish; and he shall not profane the sanctuary of his God, for I am the Lord that sanctifies them.",
         "kjv": "Only he shall not go in unto the vail, nor come nigh unto the altar, because he hath a blemish; that he profane not my sanctuaries: for I the LORD do sanctify them.",
-        "ron": "Dar de perdea să nu treacă şi la jertfelnic să nu se apropie; să nu necinstească locaşul Meu cel sfânt, căci Eu sunt Domnul, Cel ce îi sfinţesc\"."
+        "ron": "Dar de perdea să nu treacă şi la jertfelnic să nu se apropie; să nu necinstească locaşul Meu cel sfânt, căci Eu sunt Domnul, Cel ce îi sfinţesc\".",
+        "grk": "Πλὴν πρὸς τὸ καταπέτασμα οὐ προσελεύσεται, καὶ πρὸς τὸ θυσιαστήριον οὐκ ἐγγιεῖ, ὅτι μῶμον ἔχει· καὶ οὐ βεβηλώσει τὸ ἅγιον τοῦ Θεοῦ αὐτοῦ, ὅτι ἐγώ εἰμι Κύριος ὁ ἁγιάζων αὐτούς."
       }
     },
     {
@@ -1742,7 +1765,8 @@
       "translations": {
         "lxx": "And Moses spoke to Aaron and his sons, and to all the children of Israel.",
         "kjv": "And Moses told it unto Aaron, and to his sons, and unto all the children of Israel.",
-        "ron": "Şi a spus Moise acestea lui Aaron, fiilor lui şi tuturor fiilor lui Israel."
+        "ron": "Şi a spus Moise acestea lui Aaron, fiilor lui şi tuturor fiilor lui Israel.",
+        "grk": "Καὶ ἐλάλησε Μωυσῆς πρὸς Ἀαρὼν καὶ τοὺς υἱοὺς αὐτοῦ, καὶ πρὸς πάντας υἱοὺς Ἱσραήλ."
       }
     }
   ],

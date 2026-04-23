@@ -8,7 +8,8 @@
       "translation": "A Psalm for David on the first day of the week. The earth is the Lord's and the fulness thereof; the world, and all that dwell in it.",
       "words": [],
       "translations": {
-        "ron": "Al Domnului este pământul şi plinirea lui; lumea şi toţi cei ce locuiesc în ea."
+        "ron": "Al Domnului este pământul şi plinirea lui; lumea şi toţi cei ce locuiesc în ea.",
+        "grk": "Ψαλμὸς τῷ Δαυὶδ τῆς μιᾶς σαββάτου. Τοῦ Κυρίου ἡ γῆ καὶ τὸ πλήρωμα αὐτῆς, ἡ οἰκουμένη καὶ πάντες οἱ κατοικοῦντες ἐν αὐτῇ."
       }
     },
     {
@@ -17,7 +18,8 @@
       "translation": "He has founded it upon the seas, and prepared it upon the rivers.",
       "words": [],
       "translations": {
-        "ron": "Acesta pe mări l-a întemeiat pe el şi pe râuri l-a aşezat pe el."
+        "ron": "Acesta pe mări l-a întemeiat pe el şi pe râuri l-a aşezat pe el.",
+        "grk": "Αὐτὸς ἐπὶ θαλασσῶν ἐθεμελιώσεν αὐτὴν, καὶ ἐπὶ ποταμῶν ἡτοίμασεν αὐτήν."
       }
     },
     {
@@ -26,7 +28,8 @@
       "translation": "Who shall go up to the mountain of the Lord, and who shall stand in his holy place?",
       "words": [],
       "translations": {
-        "ron": "Cine se va sui în muntele Domnului Şi cine va sta în locul cel sfânt al Lui?"
+        "ron": "Cine se va sui în muntele Domnului Şi cine va sta în locul cel sfânt al Lui?",
+        "grk": "Τίς ἀναβήσεται εἰς τὸ ὄρος τοῦ Κυρίου, καὶ τίς στήσεται ἐν τόπῳ ἁγίῳ αὐτοῦ;"
       }
     },
     {
@@ -35,7 +38,8 @@
       "translation": "He that is innocent in his hands and pure in his heart; who has not lifted up his soul to vanity, nor sworn deceitfully to his neighbour.",
       "words": [],
       "translations": {
-        "ron": "Cel nevinovat cu mâinile şi curat cu inima, care n-a luat în deşert sufletul său şi nu s-a jurat cu vicleşug aproapelui său."
+        "ron": "Cel nevinovat cu mâinile şi curat cu inima, care n-a luat în deşert sufletul său şi nu s-a jurat cu vicleşug aproapelui său.",
+        "grk": "Ἀθῶος χερσὶ καὶ καθαρὸς τῇ καρδίᾳ, ὃς οὐκ ἔλαβεν ἐπὶ ματαίῳ τὴν ψυχὴν αὐτοῦ, καὶ οὐκ ὤμοσεν ἐπὶ δόλῳ τῷ πλησίον αὐτοῦ."
       }
     },
     {
@@ -44,7 +48,8 @@
       "translation": "He shall receive a blessing from the Lord, and mercy from God his Saviour.",
       "words": [],
       "translations": {
-        "ron": "Acesta va lua binecuvântare de la Domnul şi milostenie de la Dumnezeu, Mântuitorul său."
+        "ron": "Acesta va lua binecuvântare de la Domnul şi milostenie de la Dumnezeu, Mântuitorul său.",
+        "grk": "Οὗτος λήψεται εὐλογίαν παρὰ Κυρίου, καὶ ἐλεημοσύνην παρὰ Θεοῦ σωτῆρος αὐτοῦ."
       }
     },
     {
@@ -53,7 +58,8 @@
       "translation": "This is the generation of them that seek him, that seek the face of the God of Jacob. Pause.",
       "words": [],
       "translations": {
-        "ron": "Acesta este neamul celor ce-L caută pe Domnul, al celor ce caută faţa Dumnezeului lui Iacob."
+        "ron": "Acesta este neamul celor ce-L caută pe Domnul, al celor ce caută faţa Dumnezeului lui Iacob.",
+        "grk": "Αὕτη ἡ γενεὰ ζητούντων αὐτὸν, ζητούντων τὸ πρόσωπον τοῦ Θεοῦ Ἰακώβ. διάψαλμα."
       }
     },
     {

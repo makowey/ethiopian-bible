@@ -36,7 +36,8 @@
       "translations": {
         "lxx": "Then Eliphaz the Thæmanite answered and said,",
         "kjv": "Then Eliphaz the Temanite answered and said,",
-        "ron": "Atunci Elifaz din Teman a deschis gura şi a zis:"
+        "ron": "Atunci Elifaz din Teman a deschis gura şi a zis:",
+        "grk": "Ὑπολαβὼν δὲ Ἐλιφὰς ὁ Θαιμανίτης, λέγει,"
       }
     },
     {
@@ -98,7 +99,8 @@
       "translations": {
         "lxx": "Hast thou been often spoken to in distress? but who shall endure the force of thy words?",
         "kjv": "If we assay to commune with thee, wilt thou be grieved? but who can withhold himself from speaking?",
-        "ron": "\"Să-ţi vorbim ori să nu-ţi vorbim? Necazul tău e crâncen! Dar cine ar putea să-şi înăbuşe cuvintele?"
+        "ron": "\"Să-ţi vorbim ori să nu-ţi vorbim? Necazul tău e crâncen! Dar cine ar putea să-şi înăbuşe cuvintele?",
+        "grk": "Μὴ πολλάκις σοι λελάληται ἐν κόπῳ; ἰσχὺν δὲ ῥημάτων σου τίς ὑποίσει;"
       }
     },
     {
@@ -140,7 +142,8 @@
       "translations": {
         "lxx": "For whereas thou hast instructed many, and hast strengthened the hands of the weak one,",
         "kjv": "Behold, thou hast instructed many, and thou hast strengthened the weak hands.",
-        "ron": "Iată, tu dădeai învăţătură multora şi întăreai multe mâini slăbite."
+        "ron": "Iată, tu dădeai învăţătură multora şi întăreai multe mâini slăbite.",
+        "grk": "Εἰ γὰρ σὺ ἐνουθέτησας πολλοὺς, καὶ χεῖρας ἀσθενοῦς παρεκάλεσας,"
       }
     },
     {
@@ -182,7 +185,8 @@
       "translations": {
         "lxx": "and hast supported the failing with words, and hast imparted courage to feeble knees.",
         "kjv": "Thy words have upholden him that was falling, and thou hast strengthened the feeble knees.",
-        "ron": "Cuvintele tale au ţinut în sus pe cei ce erau să cadă şi tu ai întărit genunchii care se clătinau."
+        "ron": "Cuvintele tale au ţinut în sus pe cei ce erau să cadă şi tu ai întărit genunchii care se clătinau.",
+        "grk": "ἀσθενοῦντάς τε ἐξανέστησας ῥήμασι, γόνασί τε ἀδυνατοῦσι θάρσος περιέθηκας."
       }
     },
     {
@@ -244,7 +248,8 @@
       "translations": {
         "lxx": "Yet now that pain has come upon thee, and touched thee, thou art troubled.",
         "kjv": "But now it is come upon thee, and thou faintest; it toucheth thee, and thou art troubled.",
-        "ron": "Acum când ţi-a venit şi ţie rândul, eşti la strâmtorare şi ţi-ai pierdut firea; acum când lovitura te-a ajuns, te-ai spăimântat!"
+        "ron": "Acum când ţi-a venit şi ţie rândul, eşti la strâmtorare şi ţi-ai pierdut firea; acum când lovitura te-a ajuns, te-ai spăimântat!",
+        "grk": "Νῦν δὲ ἥκει ἐπὶ σὲ πόνος καὶ ἥψατό σου, σὺ ἐσπούδασας."
       }
     },
     {
@@ -296,7 +301,8 @@
       "translations": {
         "lxx": "Is not thy fear founded in folly, thy hope also, and the mischief of thy way?",
         "kjv": "Is not this thy fear, thy confidence, thy hope, and the uprightness of thy ways?",
-        "ron": "Frica ta de Dumnezeu nu-ţi dă încredere şi desăvârşirea căilor tale nu-ţi dă nădejde?"
+        "ron": "Frica ta de Dumnezeu nu-ţi dă încredere şi desăvârşirea căilor tale nu-ţi dă nădejde?",
+        "grk": "Πότερον οὐχ ὁ φόβος σου ἐστὶν ἐν ἀφροσύνῃ, καὶ ἡ ἐλπίς σου καὶ ἡ κακία τῆς ὁδοῦ σου;"
       }
     },
     {
@@ -343,7 +349,8 @@
       "translations": {
         "lxx": "Remember then who has perished, being pure? or when were the true-hearted utterly destroyed?",
         "kjv": "Remember, I pray thee, who ever perished, being innocent? or where were the righteous cut off?",
-        "ron": "Ia adu-ţi aminte, care nevinovat s-a prăpădit şi unde le-a pierit urma celor drepţi în fala lui Dumnezeu?"
+        "ron": "Ia adu-ţi aminte, care nevinovat s-a prăpădit şi unde le-a pierit urma celor drepţi în fala lui Dumnezeu?",
+        "grk": "Μνήσθητι οὖν, τίς καθαρὸς ὢν ἀπώλετο, ἢ πότε ἀληθινοὶ ὁλόῤῥιζοι ἀπώλοντο;"
       }
     },
     {
@@ -400,7 +407,8 @@
       "translations": {
         "lxx": "Accordingly as I have seen men ploughing barren places, and they that sow them will reap sorrows for themselves.",
         "kjv": "Even as I have seen, they that plow iniquity, and sow wickedness, reap the same.",
-        "ron": "După cum am văzut eu, numai cei ce ară nelegiuirea şi seamănă răutatea au parte de asemenea roade."
+        "ron": "După cum am văzut eu, numai cei ce ară nelegiuirea şi seamănă răutatea au parte de asemenea roade.",
+        "grk": "Καθʼ ὃν τρόπον εἶδον τοὺς ἀροτριῶντας τὰ ἄτοπα, οἱ δὲ σπείροντες αὐτὰ ὀδύνας θεριοῦσιν ἑαυτοῖς."
       }
     },
     {
@@ -442,7 +450,8 @@
       "translations": {
         "lxx": "They shall perish by the command of the Lord, and shall be utterly consumed by the breath of his wrath.",
         "kjv": "By the blast of God they perish, and by the breath of his nostrils are they consumed.",
-        "ron": "La porunca Domnului, ei vor pieri, de suflarea mâniei Lui se vor stinge."
+        "ron": "La porunca Domnului, ei vor pieri, de suflarea mâniei Lui se vor stinge.",
+        "grk": "Ἀπὸ προστάγματος Κυρίου ἀπολοῦνται, ἀπὸ δὲ πνεύματος ὀργῆς αὐτοῦ ἀφανισθήσονται."
       }
     },
     {
@@ -489,7 +498,8 @@
       "translations": {
         "lxx": "The strength of the lion, and the voice of the lioness, and the exulting cry of serpents are quenched.",
         "kjv": "The roaring of the lion, and the voice of the fierce lion, and the teeth of the young lions, are broken.",
-        "ron": "Răcnetul leului şi glasul leopardului, precum şi dinţii puilor de lei se sfărâmă."
+        "ron": "Răcnetul leului şi glasul leopardului, precum şi dinţii puilor de lei se sfărâmă.",
+        "grk": "Σθένος λέοντος, φωνὴ δὲ λεαίνης, γαυρίαμα δὲ δρακόντων ἐσβέσθη."
       }
     },
     {
@@ -641,7 +651,8 @@
       "translations": {
         "lxx": "The old lion has perished for want of food, and the lions' whelps have forsaken one another.",
         "kjv": "The old lion perisheth for lack of prey, and the stout lion’s whelps are scattered abroad.",
-        "ron": "Leul bătrân moare că nu mai are ce mânca şi puii leoaicei se risipesc."
+        "ron": "Leul bătrân moare că nu mai are ce mânca şi puii leoaicei se risipesc.",
+        "grk": "Μυρμηκολέων ὤλετο παρὰ τὸ μὴ ἔχειν βορὰν, σκύμνοι δὲ λεόντων ἔλιπον ἀλλήλους."
       }
     },
     {
@@ -683,7 +694,8 @@
       "translations": {
         "lxx": "But as when terror falls upon men, with dread and a sound in the night,",
         "kjv": "In thoughts from the visions of the night, when deep sleep falleth on men,",
-        "ron": "În spaimele care vin din nălucirile nopţii, atunci când somn adânc se lasă peste oameni,"
+        "ron": "În spaimele care vin din nălucirile nopţii, atunci când somn adânc se lasă peste oameni,",
+        "grk": "Φόβῳ δὲ καὶ ἤχῳ νυκτερινῇ ἐπιπίπτων φόβος ἐπʼ ἀνθρώπους,"
       }
     },
     {
@@ -740,7 +752,8 @@
       "translations": {
         "lxx": "horror and trembling seized me, and caused all my bones greatly to shake.",
         "kjv": "Fear came upon me, and trembling, which made all my bones to shake.",
-        "ron": "Cutremur m-a apucat şi fiori mi-au scuturat toate oasele."
+        "ron": "Cutremur m-a apucat şi fiori mi-au scuturat toate oasele.",
+        "grk": "φρίκη μοι συνήντησεν καὶ τρόμος, καὶ μεγάλως μου τὰ ὀστᾶ διέσεισε,"
       }
     },
     {
@@ -787,7 +800,8 @@
       "translations": {
         "lxx": "And a spirit came before my face; and my hair and flesh quivered.",
         "kjv": "Then a spirit passed before my face; the hair of my flesh stood up:",
-        "ron": "Atunci un duh a trecut prin faţa mea; tot părul mi s-a zbârlit de groază."
+        "ron": "Atunci un duh a trecut prin faţa mea; tot părul mi s-a zbârlit de groază.",
+        "grk": "καὶ πνεῦμα ἐπὶ πρόσωπόν μου ἐπῆλθεν, ἔφριξαν δέ μου τρίχες καὶ σάρκες."
       }
     },
     {
@@ -864,7 +878,8 @@
       "translations": {
         "lxx": "I arose and perceived it not: I looked, and there was no form before my eyes: but I only heard a breath and a voice, saying,",
         "kjv": "It stood still, but I could not discern the form thereof: an image was before mine eyes, there was silence, and I heard a voice, saying,",
-        "ron": "A stat drept în picioare, dar n-am ştiut cine este; o umbră este înaintea ochilor mei, şi aud o voce uşoară care zice:"
+        "ron": "A stat drept în picioare, dar n-am ştiut cine este; o umbră este înaintea ochilor mei, şi aud o voce uşoară care zice:",
+        "grk": "Ἀνέστην καὶ οὐκ ἐπέγνων, εἶδον καὶ οὐκ ἦν μορφὴ πρὸ ὀφθαλμῶν μου, ἀλλʼ ἢ αὖραν καὶ φωνὴν ἤκουον."
       }
     },
     {
@@ -931,7 +946,8 @@
       "translations": {
         "lxx": "What, shall a mortal be pure before the Lord? or a man be blameless in regard to his works?",
         "kjv": "Shall mortal man be more just than God? shall a man be more pure than his maker?",
-        "ron": "\"Un om poate să fie drept în faţa lui Dumnezeu? O făptură omenească este ea curată înaintea Celui ce a zidit-o?"
+        "ron": "\"Un om poate să fie drept în faţa lui Dumnezeu? O făptură omenească este ea curată înaintea Celui ce a zidit-o?",
+        "grk": "Τί γάρ; μὴ καθαρὸς ἔσται βροτὸς ἐναντίον τοῦ Κυρίου; ἢ ἀπὸ τῶν ἔργων αὐτοῦ ἄμεμπτος ἀνήρ;"
       }
     },
     {
@@ -973,7 +989,8 @@
       "translations": {
         "lxx": "Whereas he trusts not in his servants, and perceives perverseness in his angels.",
         "kjv": "Behold, he put no trust in his servants; and his angels he charged with folly:",
-        "ron": "Dacă El nu se încrede în slujitorii Săi şi dacă găseşte vină chiar îngerilor Săi,"
+        "ron": "Dacă El nu se încrede în slujitorii Săi şi dacă găseşte vină chiar îngerilor Săi,",
+        "grk": "Εἰ κατὰ παίδων αὐτοῦ οὐ πιστεύει, κατὰ δὲ ἀγγέλων αὐτοῦ σκολιόν τι ἐπενόησε."
       }
     },
     {
@@ -1070,7 +1087,8 @@
       "translations": {
         "lxx": "But as for them that dwell in houses of clay, of whom we also are formed of the same clay, he smites them like a moth.",
         "kjv": "How much less in them that dwell in houses of clay, whose foundation is in the dust, which are crushed before the moth?",
-        "ron": "Cu cât mai vârtos celor ce locuiesc în locuinţe de lut, a căror obârşie este în ţărână şi pe care îi striveşte ca pe o molie."
+        "ron": "Cu cât mai vârtos celor ce locuiesc în locuinţe de lut, a căror obârşie este în ţărână şi pe care îi striveşte ca pe o molie.",
+        "grk": "Τοὺς δὲ κατοικοῦντας οἰκίας πηλίνας, ἐξ ὧν καὶ αὐτοὶ ἐκ τοῦ αὐτοῦ πηλοῦ ἐσμεν, ἔπαισεν αὐτοὺς σητὸς τρόπον,"
       }
     },
     {
@@ -1132,7 +1150,8 @@
       "translations": {
         "lxx": "And from morning to evening they no longer exist: they have perished, because they cannot help themselves.",
         "kjv": "They are destroyed from morning to evening: they perish for ever without any regarding it.",
-        "ron": "De dimineaţă până seara sunt zdrobiţi, pier pe vecie fără să-i scape nimeni."
+        "ron": "De dimineaţă până seara sunt zdrobiţi, pier pe vecie fără să-i scape nimeni.",
+        "grk": "καὶ ἀπὸ πρωΐθεν μέχρι ἑσπέρας οὐκ ἔτι εἰσὶ, παρὰ τὸ μὴ δύνασθαι αὐτοὺς ἑαυτοῖς βοηθῆσαι, ἀπώλοντο."
       }
     },
     {
@@ -1179,7 +1198,8 @@
       "translations": {
         "lxx": "For he blows upon them, and they are withered: they have perished for lack of wisdom.",
         "kjv": "Doth not their excellency which is in them go away? they die, even without wisdom.",
-        "ron": "Mor, dar nu mor de prea multă înţelepciune\"."
+        "ron": "Mor, dar nu mor de prea multă înţelepciune\".",
+        "grk": "Ἐνεφύσησε γὰρ αὐτοῖς καὶ ἐξηράνθησαν, ἀπώλοντο παρὰ τὸ μὴ ἔχειν αὐτοὺς σοφίαν."
       }
     }
   ],

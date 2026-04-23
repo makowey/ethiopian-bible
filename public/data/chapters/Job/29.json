@@ -26,7 +26,8 @@
       "translations": {
         "lxx": "And Job continued and said in his parable,",
         "kjv": "Moreover Job continued his parable, and said,",
-        "ron": "Apoi Iov a mers mai departe cu pildele sale şi a zis:"
+        "ron": "Apoi Iov a mers mai departe cu pildele sale şi a zis:",
+        "grk": "Ἔτι δὲ προσθεὶς Ἰὼβ εἶπε τῷ προοιμίῳ,"
       }
     },
     {
@@ -88,7 +89,8 @@
       "translations": {
         "lxx": "Oh that I were as in months past, wherein God preserved me!",
         "kjv": "Oh that I were as in months past, as in the days when God preserved me;",
-        "ron": "\"O, dacă aş fi încă o dată ca în lunile de mai înainte, ca în zilele când Dumnezeu mă ocrotea,"
+        "ron": "\"O, dacă aş fi încă o dată ca în lunile de mai înainte, ca în zilele când Dumnezeu mă ocrotea,",
+        "grk": "Τίς ἄν με θείη κατὰ μῆνα ἔμπροσθεν ἡμερῶν, ὧν με ὁ Θεὸς ἐφύλαξεν;"
       }
     },
     {
@@ -145,7 +147,8 @@
       "translations": {
         "lxx": "As when his lamp shone over my head; when by his light I walked through darkness.",
         "kjv": "When his candle shined upon my head, and when by his light I walked through darkness;",
-        "ron": "Ca atunci când El ţinea strălucitoare deasupra capului meu candela Sa şi, luminat de ea, eu străbăteam prin întuneric!"
+        "ron": "Ca atunci când El ţinea strălucitoare deasupra capului meu candela Sa şi, luminat de ea, eu străbăteam prin întuneric!",
+        "grk": "Ὡς ὅτε ηὔγει ὁ λύχνος αὐτοῦ ὑπὲρ κεφαλῆς μου, ὅτε τῷ φωτὶ αὐτοῦ ἐπορευόμην ἐν σκότει·"
       }
     },
     {
@@ -202,7 +205,8 @@
       "translations": {
         "lxx": "As when I steadfastly pursued my ways, when God took care of my house.",
         "kjv": "As I was in the days of my youth, when the secret of God was upon my tabernacle;",
-        "ron": "De ce nu sunt încă o dată ca în zilele toamnei mele, când Dumnezeu ţinea parte cortului meu,"
+        "ron": "De ce nu sunt încă o dată ca în zilele toamnei mele, când Dumnezeu ţinea parte cortului meu,",
+        "grk": "Ὅτε ἤμην ἐπιβρίθων ὁδοὺς, ὅτε ὁ Θεὸς ἐπισκοπὴν ἐποιεῖτο τοῦ οἴκου μου·"
       }
     },
     {
@@ -239,7 +243,8 @@
       "translations": {
         "lxx": "When I was very fruitful, and my children were about me;",
         "kjv": "When the Almighty was yet with me, when my children were about me;",
-        "ron": "Când Cel Atotputernic era încă cu mine şi împrejurul meu stăteau feciorii mei,"
+        "ron": "Când Cel Atotputernic era încă cu mine şi împrejurul meu stăteau feciorii mei,",
+        "grk": "Ὅτε ἤμην ὑλώδης λίαν, κύκλῳ δέ μου οἱ παῖδες·"
       }
     },
     {
@@ -301,7 +306,8 @@
       "translations": {
         "lxx": "when my ways were moistened with butter, and the mountains flowed for me with milk.",
         "kjv": "When I washed my steps with butter, and the rock poured me out rivers of oil;",
-        "ron": "Iar picioarele mele se scăldau în lapte şi stânca aspră izvora pentru mine pâraie de untdelemn?"
+        "ron": "Iar picioarele mele se scăldau în lapte şi stânca aspră izvora pentru mine pâraie de untdelemn?",
+        "grk": "Ὅτε ἐχέοντο αἱ ὁδοί μου βουτύρῳ, τὰ δὲ ὄρη μου ἐχέοντο γάλακτι·"
       }
     },
     {
@@ -353,7 +359,8 @@
       "translations": {
         "lxx": "When I went forth early in the city, and the seat was placed for me in the streets.",
         "kjv": "When I went out to the gate through the city, when I prepared my seat in the street!",
-        "ron": "Atunci când ieşeam la poarta de sus a cetăţii şi aşezam în piaţă scaunul meu,"
+        "ron": "Atunci când ieşeam la poarta de sus a cetăţii şi aşezam în piaţă scaunul meu,",
+        "grk": "Ὅτε ἐξεπορευόμην ὄρθριος ἐν πόλει, ἐν δὲ πλατείαις ἐτίθετό μου ὁ δίφρος."
       }
     },
     {
@@ -395,7 +402,8 @@
       "translations": {
         "lxx": "The young men saw me, and hid themselves: and all the old men stood up.",
         "kjv": "The young men saw me, and hid themselves: and the aged arose, and stood up.",
-        "ron": "Tineretul, văzându-mă, se ascundea cu sfială, iar cei bătrâni se ridicau în picioare şi rămâneau aşa."
+        "ron": "Tineretul, văzându-mă, se ascundea cu sfială, iar cei bătrâni se ridicau în picioare şi rămâneau aşa.",
+        "grk": "Ἰδόντες με νεανίσκοι ἐκρύβησαν, πρεσβῦται δὲ πάντες ἔστησαν."
       }
     },
     {
@@ -442,7 +450,8 @@
       "translations": {
         "lxx": "And the great men ceased speaking, and laid their finger on their mouth.",
         "kjv": "The princes refrained talking, and laid their hand on their mouth.",
-        "ron": "Fruntaşii poporului îşi opreau cuvântările şi îşi puneau mâna la gură."
+        "ron": "Fruntaşii poporului îşi opreau cuvântările şi îşi puneau mâna la gură.",
+        "grk": "Ἁδροὶ δὲ ἐπαύσαντο λαλοῦντες, δάκτυλον ἐπιθέντες ἐπὶ στόματι."
       }
     },
     {
@@ -484,7 +493,8 @@
       "translations": {
         "lxx": "And they that heard me blessed me, and their tongue clave to their throat.",
         "kjv": "The nobles held their peace, and their tongue cleaved to the roof of their mouth.",
-        "ron": "Glasul căpeteniilor scădea şi limba lor se lipea de cerul gurii."
+        "ron": "Glasul căpeteniilor scădea şi limba lor se lipea de cerul gurii.",
+        "grk": "Οἱ δὲ ἀκούσαντες ἐμακάρισάν με, καὶ γλῶσσα αὐτῶν τῷ λάρυγγι αὐτῶν ἐκολλήθη."
       }
     },
     {
@@ -536,7 +546,8 @@
       "translations": {
         "lxx": "For the ear heard, and blessed me; and the eye saw me, and turned aside.",
         "kjv": "When the ear heard me, then it blessed me; and when the eye saw me, it gave witness to me:",
-        "ron": "Căci urechea care mă auzea mă fericea şi ochiul care mă vedea îmi dădea mare mărturie."
+        "ron": "Căci urechea care mă auzea mă fericea şi ochiul care mă vedea îmi dădea mare mărturie.",
+        "grk": "Ὅτι οὖς ἤκουσε καὶ ἐμακάρισέ με, ὀφθαλμὸς δὲ ἰδών με ἐξέκλινε."
       }
     },
     {
@@ -598,7 +609,8 @@
       "translations": {
         "lxx": "For I saved the poor out of the hand of the oppressor, and helped the fatherless who had no helper.",
         "kjv": "Because I delivered the poor that cried, and the fatherless, and him that had none to help him.",
-        "ron": "Fiindcă scăpam de pieire pe cel sărman care striga după ajutor şi pe orfanul fără sprijin."
+        "ron": "Fiindcă scăpam de pieire pe cel sărman care striga după ajutor şi pe orfanul fără sprijin.",
+        "grk": "Διέσωσα γὰρ πτωχὸν ἐκ χειρὸς δυνάστου, καὶ ὀρφανῷ ᾧ οὐκ ἦν βοηθὸς, ἐβοήθησα."
       }
     },
     {
@@ -635,7 +647,8 @@
       "translations": {
         "lxx": "Let the blessing of the perishing one come upon me; yea, the mouth of the widow has blessed me.",
         "kjv": "The blessing of him that was ready to perish came upon me: and I caused the widow’s heart to sing for joy.",
-        "ron": "Binecuvântările celui ce era gata să piară veneau asupră-mi şi umpleam de bucurie inima văduvei."
+        "ron": "Binecuvântările celui ce era gata să piară veneau asupră-mi şi umpleam de bucurie inima văduvei.",
+        "grk": "Εὐλογία ἀπολλυμένου ἐπʼ ἐμὲ ἔλθοι, στόμα δὲ χήρας με εὐλόγησε·"
       }
     },
     {
@@ -687,7 +700,8 @@
       "translations": {
         "lxx": "Also I put on righteousness, and clothed myself with judgment like a mantle.",
         "kjv": "I put on righteousness, and it clothed me: my judgment was as a robe and a diadem.",
-        "ron": "Mă îmbrăcam întru dreptate, ca într-un veşmânt şi judecata mea cea dreaptă era mantia mea şi turbanul meu."
+        "ron": "Mă îmbrăcam întru dreptate, ca într-un veşmânt şi judecata mea cea dreaptă era mantia mea şi turbanul meu.",
+        "grk": "Δικαιοσύνην δὲ ἐνδεδύκειν, ἠμφιασάμην δὲ κρίμα ἶσα διπλοΐδι."
       }
     },
     {
@@ -724,7 +738,8 @@
       "translations": {
         "lxx": "I was the eye of the blind, and the foot of the lame.",
         "kjv": "I was eyes to the blind, and feet was I to the lame.",
-        "ron": "Eram ochii celui orb şi piciorul celui şchiop;"
+        "ron": "Eram ochii celui orb şi piciorul celui şchiop;",
+        "grk": "Ὀφθαλμὸς ἤμην τυφλῶν, ποὺς δὲ χωλῶν."
       }
     },
     {
@@ -771,7 +786,8 @@
       "translations": {
         "lxx": "I was the father of the helpless; and I searched out the cause which I knew not.",
         "kjv": "I was a father to the poor: and the cause which I knew not I searched out.",
-        "ron": "Eram tatăl celor neputincioşi şi cercetam cu sârguinţă pricinile care îmi erau necunoscute."
+        "ron": "Eram tatăl celor neputincioşi şi cercetam cu sârguinţă pricinile care îmi erau necunoscute.",
+        "grk": "Ἐγὼ ἤμην πατὴρ ἀδυνάτων, δίκην δὲ ἣν οὐκ ᾔδειν ἐξιχνίασα."
       }
     },
     {
@@ -818,7 +834,8 @@
       "translations": {
         "lxx": "And I broke the jaw-teeth of the unrighteous; I plucked the spoil out of the midst of their teeth.",
         "kjv": "And I brake the jaws of the wicked, and plucked the spoil out of his teeth.",
-        "ron": "Sfărâmam fălcile nelegiuitului şi smulgeam prada din dinţii lui."
+        "ron": "Sfărâmam fălcile nelegiuitului şi smulgeam prada din dinţii lui.",
+        "grk": "Συνέτριψα δὲ μύλας ἀδίκων, ἐκ μέσου τῶν ὀδόντων αὐτῶν ἅρπαγμα ἐξήρπασα."
       }
     },
     {
@@ -900,7 +917,8 @@
       "translations": {
         "lxx": "And I said, My age shall continue as the stem of a palm-tree; I shall live a long while.",
         "kjv": "Then I said, I shall die in my nest, and I shall multiply my days as the sand.",
-        "ron": "Şi îmi ziceam: Voi adormi în cuibul meu şi ca pasărea Phoenix voi înmulţi zilele mele."
+        "ron": "Şi îmi ziceam: Voi adormi în cuibul meu şi ca pasărea Phoenix voi înmulţi zilele mele.",
+        "grk": "Εἶπα δὲ, ἡ ἡλικία μου γηράσει ὥσπερ στέλεχος φοίνικος, πολὺν χρόνον βιώσω."
       }
     },
     {
@@ -942,7 +960,8 @@
       "translations": {
         "lxx": "My root was spread out by the water, and the dew would lodge on my crop.",
         "kjv": "My root was spread out by the waters, and the dew lay all night upon my branch.",
-        "ron": "Rădăcina mea se va răsfira pe lângă apă şi roua se va lăsa, noaptea, peste ramurile mele."
+        "ron": "Rădăcina mea se va răsfira pe lângă apă şi roua se va lăsa, noaptea, peste ramurile mele.",
+        "grk": "Ἡ ῥίζα διήνοικται ἐπὶ ὕδατος, καὶ δρόσος αὐλισθήσεται ἐν τῷ θερισμῷ μου."
       }
     },
     {
@@ -994,7 +1013,8 @@
       "translations": {
         "lxx": "My glory was fresh in me, and my bow prospered in his hand.",
         "kjv": "My glory was fresh in me, and my bow was renewed in my hand.",
-        "ron": "Slava mea va întineri neîncetat şi arcul meu se va înnoi în mâna mea."
+        "ron": "Slava mea va întineri neîncetat şi arcul meu se va înnoi în mâna mea.",
+        "grk": "Ἡ δόξα μου κενὴ μετʼ ἐμοῦ, καὶ τὸ τόξον μου ἐν χειρὶ αὐτοῦ πορεύεται."
       }
     },
     {
@@ -1036,7 +1056,8 @@
       "translations": {
         "lxx": "Men heard me, and gave heed, and they were silent at my counsel.",
         "kjv": "Unto me men gave ear, and waited, and kept silence at my counsel.",
-        "ron": "Oamenii mă ascultau şi stăteau fără grai şi aşteptau să audă sfatul meu."
+        "ron": "Oamenii mă ascultau şi stăteau fără grai şi aşteptau să audă sfatul meu.",
+        "grk": "Ἐμοῦ ἀκούσαντες προσέσχον, ἐσιώπησαν δὲ ἐπὶ τῇ ἐμῇ βουλῇ."
       }
     },
     {
@@ -1083,7 +1104,8 @@
       "translations": {
         "lxx": "At my word they spoke not again, and they were very glad whenever I spoke to them.",
         "kjv": "After my words they spake not again; and my speech dropped upon them.",
-        "ron": "După ce le vorbeam eu, ei nu mai spuneau nimic şi cuvântul meu cădea asupra lor picătură cu picătură."
+        "ron": "După ce le vorbeam eu, ei nu mai spuneau nimic şi cuvântul meu cădea asupra lor picătură cu picătură.",
+        "grk": "Ἐπὶ τῷ ἐμῷ ῥήματι οὐ προσέθεντο, περιχαρεῖς δὲ ἐγίνοντο ὁπόταν αὐτοῖς ἐλάλουν."
       }
     },
     {
@@ -1140,7 +1162,8 @@
       "translations": {
         "lxx": "As the thirsty earth expecting the rain, so they waited for my speech.",
         "kjv": "And they waited for me as for the rain; and they opened their mouth wide as for the latter rain.",
-        "ron": "Mă aşteptau precum aştepţi ploaia şi căscau gura lor, ca pentru bura de primăvară."
+        "ron": "Mă aşteptau precum aştepţi ploaia şi căscau gura lor, ca pentru bura de primăvară.",
+        "grk": "Ὥσπερ γῆ διψῶσα προσδεχομένη τὸν ὑετὸν, οὕτως οὗτοι τὴν ἐμὴν λαλιάν."
       }
     },
     {
@@ -1187,7 +1210,8 @@
       "translations": {
         "lxx": "Were I to laugh on them, they would not believe it; and the light of my face has not failed.",
         "kjv": "If I laughed on them, they believed it not; and the light of my countenance they cast not down.",
-        "ron": "Dacă le surâdeam, nu-şi credeau ochilor şi surâsul meu nu-l lăsau să se piardă."
+        "ron": "Dacă le surâdeam, nu-şi credeau ochilor şi surâsul meu nu-l lăsau să se piardă.",
+        "grk": "Ἐὰν γελάσω πρὸς αὐτοὺς, οὐ μὴ πιστεύσωσι, καὶ φῶς τοῦ προσώπου μου οὐκ ἀπέπιπτεν."
       }
     },
     {
@@ -1264,7 +1288,8 @@
       "translations": {
         "lxx": "I chose out their way, and sat chief, and dwelt as a king in the midst of warriors, as one comforting mourners.",
         "kjv": "I chose out their way, and sat chief, and dwelt as a king in the army, as one that comforteth the mourners.",
-        "ron": "Le arătam care este dreapta cale şi stăteam mereu în fruntea lor, stăteam ca un împărat, între ostaşii săi şi, oriunde-i duceam, ei veneau după mine."
+        "ron": "Le arătam care este dreapta cale şi stăteam mereu în fruntea lor, stăteam ca un împărat, între ostaşii săi şi, oriunde-i duceam, ei veneau după mine.",
+        "grk": "Ἐξελεξάμην ὁδὸν αὐτῶν, καὶ ἐκάθισα ἄρχων, καὶ κατεσκήνουν ὡσεὶ βασιλεὺς ἐν μονοζώνοις, ὃν τρόπον παθεινοὺς παρακαλῶν."
       }
     }
   ],

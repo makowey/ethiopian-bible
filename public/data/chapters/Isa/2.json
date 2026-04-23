@@ -61,7 +61,8 @@
       "translations": {
         "lxx": "The word which came to Esaias the son of Amos concerning Judea, and concerning Jerusalem.",
         "kjv": "The word that Isaiah the son of Amoz saw concerning Judah and Jerusalem.",
-        "ron": "Vedenia pe care a văzut-o Isaia, fiul lui Amos, pentru Iuda şi Ierusalim."
+        "ron": "Vedenia pe care a văzut-o Isaia, fiul lui Amos, pentru Iuda şi Ierusalim.",
+        "grk": "Ὁ λόγος ὁ γενόμενος πρὸς Ἡσαΐαν υἱὸν Ἀμὼς περὶ τῆς Ἰουδαίας, καὶ περὶ Ἱερουσαλήμ."
       }
     },
     {
@@ -163,7 +164,8 @@
       "translations": {
         "lxx": "For in the last days the mountain of the Lord shall be glorious, and the house of God shall be on the top of the mountains, and it shall be exalted above the hills; and all nations shall come to it.",
         "kjv": "And it shall come to pass in the last days, that the mountain of the LORD’s house shall be established in the top of the mountains, and shall be exalted above the hills; and all nations shall flow unto it.",
-        "ron": "Fi-va în vremurile cele de pe urmă, că muntele templului Domnului va fi întărit peste vârfurile munţilor şi se va ridica pe deasupra dealurilor. Şi toate popoarele vor curge într-acolo."
+        "ron": "Fi-va în vremurile cele de pe urmă, că muntele templului Domnului va fi întărit peste vârfurile munţilor şi se va ridica pe deasupra dealurilor. Şi toate popoarele vor curge într-acolo.",
+        "grk": "Ὅτι ἔσται ἐν ταῖς ἐσχάταις ἡμέραις ἐμφανὲς τὸ ὄρος Κυρίου, καὶ ὁ οἶκος τοῦ Θεοῦ ἐπʼ ἄκρου τῶν ὀρέων, καὶ ὑψωθήσεται ὑπεράνω τῶν βουνῶν, καὶ ἥξουσιν ἐπʼ αὐτὸ πάντα τὰ ἔθνη."
       }
     },
     {
@@ -260,7 +262,8 @@
       "translations": {
         "lxx": "And many nations shall go and say, Come, and let us go up to the mountain of the Lord, and to the house of the God of Jacob; and he will tell us his way, and we will walk in it: for out of Sion shall go forth the law, and the word of the Lord out of Jerusalem.",
         "kjv": "And many people shall go and say, Come ye, and let us go up to the mountain of the LORD, to the house of the God of Jacob; and he will teach us of his ways, and we will walk in his paths: for out of Zion shall go forth the law, and the word of the LORD from Jerusalem.",
-        "ron": "Multe popoare vor veni şi vor zice: \"Veniţi să ne suim în muntele Domnului, în casa Dumnezeului lui Iacov, ca El să ne înveţe căile Sale şi să mergem pe cărările Sale\". Căci din Sion va ieşi legea şi cuvântul lui Dumnezeu din Ierusalim."
+        "ron": "Multe popoare vor veni şi vor zice: \"Veniţi să ne suim în muntele Domnului, în casa Dumnezeului lui Iacov, ca El să ne înveţe căile Sale şi să mergem pe cărările Sale\". Căci din Sion va ieşi legea şi cuvântul lui Dumnezeu din Ierusalim.",
+        "grk": "Καὶ πορεύσονται ἔθνη πολλὰ, καὶ ἐροῦσι, δεῦτε καὶ ἀναβῶμεν εἰς τὸ ὄρος Κυρίου, καὶ εἰς τὸν οἶκον τοῦ Θεοῦ Ἰακὼβ, καὶ ἀναγγελεῖ ἡμῖν τὴν ὁδὸν αὐτοῦ, καὶ πορευσόμεθα ἐν αὐτῇ· ἐκ γὰρ Σιὼν ἐξελεύσεται νόμος, καὶ λόγος Κυρίου ἐξ Ἱερουσαλήμ."
       }
     },
     {
@@ -302,7 +305,8 @@
       "translations": {
         "lxx": "And he shall judge among the nations, and shall rebuke many people: and they shall beat their swords into plough-shares, and their spears into sickles: and nation shall not take up sword against nation, neither shall they learn to war any more.",
         "kjv": "And he shall judge among the nations, and shall rebuke many people: and they shall beat their swords into plowshares, and their spears into pruninghooks: nation shall not lift up sword against nation, neither shall they learn war any more.",
-        "ron": "El va judeca neamurile şi la popoare fără de număr va da legile Sale. Preface-vor săbiile în fiare de pluguri şi lăncile lor în cosoare. Nici un neam nu va mai ridica sabia împotriva altuia şi nu vor mai învăţa războiul."
+        "ron": "El va judeca neamurile şi la popoare fără de număr va da legile Sale. Preface-vor săbiile în fiare de pluguri şi lăncile lor în cosoare. Nici un neam nu va mai ridica sabia împotriva altuia şi nu vor mai învăţa războiul.",
+        "grk": "Καὶ κρινεῖ ἀναμέσον τῶν ἐθνῶν, καὶ ἐξελέγξει λαὸν πολύν· καὶ συγκόψουσι τὰς μαχαίρας αὐτῶν εἰς ἄροτρα, καὶ τὰς ζιβύνας αὐτῶν εἰς δρέπανα· καὶ οὐ λήψεται ἔθνος ἐπʼ ἔθνος μάχαιραν, καὶ οὐ μὴ μάθωσιν ἔτι πολεμεῖν."
       }
     },
     {
@@ -349,7 +353,8 @@
       "translations": {
         "lxx": "And now, O house of Jacob, come, and let us walk in the light of the Lord.",
         "kjv": "O house of Jacob, come ye, and let us walk in the light of the LORD.",
-        "ron": "Voi, cei din casa lui Iacov, veniţi să umblăm în lumina Domnului!"
+        "ron": "Voi, cei din casa lui Iacov, veniţi să umblăm în lumina Domnului!",
+        "grk": "Καὶ νῦν ὁ οἶκος Ἰακὼβ, δεῦτε πορευθῶμεν τῷ φωτὶ Κυρίου."
       }
     },
     {
@@ -446,7 +451,8 @@
       "translations": {
         "lxx": "For he has forsaken his people the house of Israel, because their land is filled as at the beginning with divinations, as the land of the Philistines, and many strange children were born to them.",
         "kjv": "Therefore thou hast forsaken thy people the house of Jacob, because they be replenished from the east, and are soothsayers like the Philistines, and they please themselves in the children of strangers.",
-        "ron": "Tu ai lepădat neamul Tău, casa lui Iacov. Ea este plină de vrăjitori şi de magi ca Filistenii şi ea face legământ cu cei de alt neam."
+        "ron": "Tu ai lepădat neamul Tău, casa lui Iacov. Ea este plină de vrăjitori şi de magi ca Filistenii şi ea face legământ cu cei de alt neam.",
+        "grk": "Ἀνῆκεν γὰρ τὸν λαὸν αὐτοῦ τὸν οἶκον τοῦ Ἰσραήλ· ὅτι ἐνεπλήσθη ὡς τὸ ἀπʼ ἀρχῆς ἡ χώρα αὐτῶν κληδονισμῶν, ὡς ἡ τῶν ἀλλοφύλων, καὶ τέκνα πολλὰ ἀλλόφυλα ἐγενήθη αὐτοῖς."
       }
     },
     {
@@ -518,7 +524,8 @@
       "translations": {
         "lxx": "For their land is filled with silver and gold, and there was no number of their treasures; their land also is filled with horses, and there was no number of their chariots.",
         "kjv": "Their land also is full of silver and gold, neither is there any end of their treasures; their land is also full of horses, neither is there any end of their chariots:",
-        "ron": "Pământul ei este plin de aur şi de argint, de comori fără număr, pământul ei este plin de cai şi de căruţe fără sfârşit."
+        "ron": "Pământul ei este plin de aur şi de argint, de comori fără număr, pământul ei este plin de cai şi de căruţe fără sfârşit.",
+        "grk": "Ἐνεπλήσθη γὰρ ἡ χώρα αὐτῶν ἀργυρίου καὶ χρυσίου, καὶ οὐκ ἦν ἀριθμὸς τῶν θησαυρῶν αὐτῶν· καὶ ἐνεπλήσθη ἡ γῆ ἵππων, καὶ οὐκ ἦν ἀριθμὸς τῶν ἁρμάτων αὐτῶν."
       }
     },
     {
@@ -570,7 +577,8 @@
       "translations": {
         "lxx": "And the land is filled with abominations, even the works of their hands; and they have worshipped the works which their fingers made.",
         "kjv": "Their land also is full of idols; they worship the work of their own hands, that which their own fingers have made:",
-        "ron": "Pământul ei este plin de idoli şi locuitorii se închină la lucrul mâinilor lor, înaintea celor făcuţi de degetele lor."
+        "ron": "Pământul ei este plin de idoli şi locuitorii se închină la lucrul mâinilor lor, înaintea celor făcuţi de degetele lor.",
+        "grk": "Καὶ ἐνεπλήσθη ἡ γῆ βδελυγμάτων τῶν ἔργων τῶν χειρῶν αὐτῶν, καὶ προσεκύνησαν οἷς ἐποίησαν οἱ δάκτυλοι αὐτῶν."
       }
     },
     {
@@ -612,7 +620,8 @@
       "translations": {
         "lxx": "And the mean man bowed down, and the great man was humbled: and I will not pardon them.",
         "kjv": "And the mean man boweth down, and the great man humbleth himself: therefore forgive them not.",
-        "ron": "Şi omul va fi umilit şi muritorul va fi pogorât şi Tu nu-i vei ierta!"
+        "ron": "Şi omul va fi umilit şi muritorul va fi pogorât şi Tu nu-i vei ierta!",
+        "grk": "Καὶ ἔκυψεν ἄνθρωπος, καὶ ἐταπεινώθη ἀνήρ, καὶ οὐ μὴ ἀνήσω αὐτούς."
       }
     },
     {
@@ -714,7 +723,8 @@
       "translations": {
         "lxx": "Now therefore enter ye into the rocks, and hide yourselves in the earth, for fear of the Lord, and by reason of the glory of his might, when he shall arise to strike terribly the earth.",
         "kjv": "Enter into the rock, and hide thee in the dust, for fear of the LORD, and for the glory of his majesty.",
-        "ron": "Intraţi în crăpăturile stâncilor şi ascundeţi-vă în pulbere, din pricina fricii de Dumnezeu, de strălucirea slavei Lui."
+        "ron": "Intraţi în crăpăturile stâncilor şi ascundeţi-vă în pulbere, din pricina fricii de Dumnezeu, de strălucirea slavei Lui.",
+        "grk": "Καὶ νῦν εἰσέλθετε εἰς τὰς πέτρας, καὶ κρύπτεσθε εἰς τὴν γῆν ἀπὸ προσώπου τοῦ φόβου Κυρίου, καὶ ἀπὸ τῆς δόξης τῆς ἰσχύος αὐτοῦ, ὅταν ἀναστῇ θραῦσαι τὴν γῆν."
       }
     },
     {
@@ -751,7 +761,8 @@
       "translations": {
         "lxx": "For the eyes of the Lord are high, but man is low; and the haughtiness of men shall be brought low, and the Lord alone shall be exalted in that day.",
         "kjv": "The lofty looks of man shall be humbled, and the haughtiness of men shall be bowed down, and the LORD alone shall be exalted in that day.",
-        "ron": "Ochii celui mândru vor fi smeriţi, mândria celor de rând va fi pogorâtă şi numai Domnul în ziua aceea va fi ridicat în slăvi,"
+        "ron": "Ochii celui mândru vor fi smeriţi, mândria celor de rând va fi pogorâtă şi numai Domnul în ziua aceea va fi ridicat în slăvi,",
+        "grk": "Οἱ γὰρ ὀφθαλμοὶ Κυρίου ὑψηλοί, ὁ δὲ ἄνθρωπος ταπεινός· καὶ ταπεινωθήσεται τὸ ὕψος τῶν ἀνθρώπων, καὶ ὑψωθήσεται Κύριος μόνος ἐν τῇ ἡμέρᾳ ἐκείνῃ."
       }
     },
     {
@@ -833,7 +844,8 @@
       "translations": {
         "lxx": "For the day of the Lord of hosts shall be upon every one that is proud and haughty, and upon every one that is high and towering, and they shall be brought down;",
         "kjv": "For the day of the LORD of hosts shall be upon every one that is proud and lofty, and upon every one that is lifted up; and he shall be brought low:",
-        "ron": "Că Domnul Savaot va avea ziua Lui, se va ridica împotriva a tot ceea ce este mândru şi semeţ şi-l va pogorî."
+        "ron": "Că Domnul Savaot va avea ziua Lui, se va ridica împotriva a tot ceea ce este mândru şi semeţ şi-l va pogorî.",
+        "grk": "Ἡμέρα γὰρ Κυρίου σαβαὼθ ἐπὶ πάντα ὑβριστὴν καὶ ὑπερήφανον καὶ ἐπὶ πάντα ὑψηλὸν καὶ μετέωρον, καὶ ταπεινωθήσονται."
       }
     },
     {
@@ -900,7 +912,8 @@
       "translations": {
         "lxx": "and upon every cedar of Libanus, of them that are high and towering, and upon every oak of Basan,",
         "kjv": "And upon all the cedars of Lebanon, that are high and lifted up, and upon all the oaks of Bashan,",
-        "ron": "Împotriva tuturor cedrilor Libanului şi stejarilor celor înalţi ai Vasanului."
+        "ron": "Împotriva tuturor cedrilor Libanului şi stejarilor celor înalţi ai Vasanului.",
+        "grk": "Καὶ ἐπὶ πᾶσαν κέδρον τοῦ Λιβάνου τῶν ὑψηλῶν καὶ μετεώρων, καὶ ἐπὶ πᾶν δένδρον βαλάνου Βασάν,"
       }
     },
     {
@@ -952,7 +965,8 @@
       "translations": {
         "lxx": "and upon every high mountain, and upon every high hill,",
         "kjv": "And upon all the high mountains, and upon all the hills that are lifted up,",
-        "ron": "Împotriva tuturor munţilor înalţi şi colinelor celor mândre."
+        "ron": "Împotriva tuturor munţilor înalţi şi colinelor celor mândre.",
+        "grk": "καὶ ἐπὶ πᾶν ὑψηλὸν ὄρος, καὶ ἐπὶ πάντα βουνὸν ὑψηλόν,"
       }
     },
     {
@@ -1004,7 +1018,8 @@
       "translations": {
         "lxx": "and upon every high tower, and upon every high wall,",
         "kjv": "And upon every high tower, and upon every fenced wall,",
-        "ron": "Împotriva tuturor turnurilor ridicate sus şi zidurilor întărite."
+        "ron": "Împotriva tuturor turnurilor ridicate sus şi zidurilor întărite.",
+        "grk": "καὶ ἐπὶ πάντα πύργον ὑψηλὸν, καὶ ἐπὶ πᾶν τεῖχος ὑψηλόν,"
       }
     },
     {
@@ -1061,7 +1076,8 @@
       "translations": {
         "lxx": "and upon every ship of the sea, and upon every display of fine ships.",
         "kjv": "And upon all the ships of Tarshish, and upon all pleasant pictures.",
-        "ron": "Împotriva tuturor corăbiilor Tarsisului şi lucrurilor de preţ."
+        "ron": "Împotriva tuturor corăbiilor Tarsisului şi lucrurilor de preţ.",
+        "grk": "καὶ ἐπὶ πᾶν πλοῖον θαλάσσης, καὶ ἐπὶ πᾶσαν θέαν πλοίων κάλλους."
       }
     },
     {
@@ -1128,7 +1144,8 @@
       "translations": {
         "lxx": "And every man shall be brought low, and the pride of men shall fall: and the Lord alone shall be exalted in that day.",
         "kjv": "And the loftiness of man shall be bowed down, and the haughtiness of men shall be made low: and the LORD alone shall be exalted in that day.",
-        "ron": "Mândria omului va fi pogorâtă şi semeţia celor muritori va fi smerită; în ziua aceea numai Domnul va fi înalt;"
+        "ron": "Mândria omului va fi pogorâtă şi semeţia celor muritori va fi smerită; în ziua aceea numai Domnul va fi înalt;",
+        "grk": "Καὶ ταπεινωθήσεται πᾶς ἄνθρωπος, καὶ πεσεῖται ὕβρις τῶν ἀνθρώπων, καὶ ὑψωθήσεται Κύριος μόνος ἐν τῇ ἡμέρᾳ ἐκείνῃ."
       }
     },
     {
@@ -1165,7 +1182,8 @@
       "translations": {
         "lxx": "And they shall hide all idols made with hands,",
         "kjv": "And the idols he shall utterly abolish.",
-        "ron": "Şi toţi idolii vor pieri."
+        "ron": "Şi toţi idolii vor pieri.",
+        "grk": "Καὶ τὰ χειροποίητα πάντα κατακρύψουσιν,"
       }
     },
     {
@@ -1272,7 +1290,8 @@
       "translations": {
         "lxx": "having carried them into the caves, and into the clefts of the rocks, and into the caverns of the earth, for fear of the Lord, and by reason of the glory of his might, when he shall arise to strike terribly the earth.",
         "kjv": "And they shall go into the holes of the rocks, and into the caves of the earth, for fear of the LORD, and for the glory of his majesty, when he ariseth to shake terribly the earth.",
-        "ron": "Iar oamenii vor intra în scorburile stâncilor, în prăpăstiile şi în crăpăturile pământului, de frica Domnului şi de strălucirea slavei Lui, când va veni El ca să lovească pământul."
+        "ron": "Iar oamenii vor intra în scorburile stâncilor, în prăpăstiile şi în crăpăturile pământului, de frica Domnului şi de strălucirea slavei Lui, când va veni El ca să lovească pământul.",
+        "grk": "εἰσενέγκαντες εἰς τὰ σπήλαια, καὶ εἰς τὰς σχισμὰς τῶν πετρῶν, καὶ εἰς τὰς τρώγλας τῆς γῆς, ἀπὸ προσώπου τοῦ φόβου Κυρίου, καὶ ἀπὸ τῆς δόξης τῆς ἰσχύος αὐτοῦ, ὅταν ἀναστῇ θραῦσαι τὴν γῆν."
       }
     },
     {
@@ -1344,7 +1363,8 @@
       "translations": {
         "lxx": "For in that day a man shall cast forth his silver and gold abominations, which they made in order to worship vanities and bats;",
         "kjv": "In that day a man shall cast his idols of silver, and his idols of gold, which they made each one for himself to worship, to the moles and to the bats;",
-        "ron": "În ziua aceea idolii de argint şi de aur, pe care omul i-a făcut ca să li se închine, vor fi părăsiţi ca să fie sălaş şobolanilor şi liliecilor."
+        "ron": "În ziua aceea idolii de argint şi de aur, pe care omul i-a făcut ca să li se închine, vor fi părăsiţi ca să fie sălaş şobolanilor şi liliecilor.",
+        "grk": "τῇ γὰρ ἡμέρᾳ ἐκείνῃ ἐκβαλεῖ ἄνθρωπος τὰ βδελύγματα αὐτοῦ τὰ ἀργυρᾶ καὶ τὰ χρυσᾶ, ἃ ἐποίησαν προσκυνεῖν τοῖς ματαίοις καὶ ταῖς νυκτερίσι,"
       }
     },
     {
@@ -1446,7 +1466,8 @@
       "translations": {
         "lxx": "to enter into the caverns of the solid rock, and into the clefts of the rocks, for fear of the Lord, and by reason of the glory of his might, when he shall arise to strike terribly the earth.",
         "kjv": "To go into the clefts of the rocks, and into the tops of the ragged rocks, for fear of the LORD, and for the glory of his majesty, when he ariseth to shake terribly the earth.",
-        "ron": "Iar el va intra în crăpăturile stâncilor şi în prăpăstiile munţilor, de frica Domnului şi de strălucirea slavei Lui, când va veni El ca să lovească pământul."
+        "ron": "Iar el va intra în crăpăturile stâncilor şi în prăpăstiile munţilor, de frica Domnului şi de strălucirea slavei Lui, când va veni El ca să lovească pământul.",
+        "grk": "τοῦ εἰσελθεῖν εἰς τὰς τρώγλας τῆς στερεᾶς πέτρας, καὶ εἰς τὰς σχισμὰς τῶν πετρῶν, ἀπὸ προσώπου τοῦ φόβου Κυρίου, καὶ ἀπὸ τῆς δόξης τῆς ἰσχύος αὐτοῦ, ὅταν ἀναστῇ θραῦσαι τὴν γῆν."
       }
     }
   ],

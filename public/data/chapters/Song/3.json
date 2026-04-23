@@ -116,7 +116,8 @@
       "translations": {
         "lxx": "By night on my bed I sought him whom my soul loves: I sought him, but found him not; I called him, but he hearkened not to me.",
         "kjv": "By night on my bed I sought him whom my soul loveth: I sought him, but I found him not.",
-        "ron": "Noaptea-n pat l-am căutat pe dragul sufletului meu, l-am căutat, dar, iată, nu l-am mai aflat."
+        "ron": "Noaptea-n pat l-am căutat pe dragul sufletului meu, l-am căutat, dar, iată, nu l-am mai aflat.",
+        "grk": "Ἐπὶ κοίτην μου ἐν νυξὶν, ἐζήτησα ὃν ἠγάπησεν ἡ ψυχή μου· ἐζήτησα αὐτὸν, καὶ οὐχ εὗρον αὐτόν· ἐκάλεσα αὐτὸν, καὶ οὐχ ὑπήκουσέ μου."
       }
     },
     {
@@ -198,7 +199,8 @@
       "translations": {
         "lxx": "I will rise now, and go about in the city, in the market-places, and in the streets, and I will seek him whom my soul loves: I sought him, but I found him not.",
         "kjv": "I will rise now, and go about the city in the streets, and in the broad ways I will seek him whom my soul loveth: I sought him, but I found him not.",
-        "ron": "Scula-mă-voi, mi-am zis, şi-n târg voi alerga, pe uliţe, prin pieţe, amănunţit voi căuta pe dragul sufletului meu. L-am căutat, nu l-am mai aflat."
+        "ron": "Scula-mă-voi, mi-am zis, şi-n târg voi alerga, pe uliţe, prin pieţe, amănunţit voi căuta pe dragul sufletului meu. L-am căutat, nu l-am mai aflat.",
+        "grk": "Ἀναστήσομαι δὴ καὶ κυκλώσω ἐν τῇ πόλει, ἐν ταῖς ἀγοραῖς, καὶ ἐν ταῖς πλατείαις, καὶ ζητήσω ὃν ἠγάπησεν ἡ ψυχή μου· ἐζήτησα αὐτὸν, καὶ οὐχ εὗρον αὐτόν."
       }
     },
     {
@@ -250,7 +252,8 @@
       "translations": {
         "lxx": "The watchmen who go their rounds in the city found me. I said, Have ye seen him whom my soul loves?",
         "kjv": "The watchmen that go about the city found me: to whom I said, Saw ye him whom my soul loveth?",
-        "ron": "Întâlnitu-m-am cu paznicii, cei ce târgul străjuiesc; \"N-aţi văzut, zic eu, pe dragul sufletului meu?\""
+        "ron": "Întâlnitu-m-am cu paznicii, cei ce târgul străjuiesc; \"N-aţi văzut, zic eu, pe dragul sufletului meu?\"",
+        "grk": "Εὕροσάν με οἱ τηροῦντες, οἱ κυκλοῦντες ἐν τῇ πόλει. Μὴ ὃν ἠγάπησεν ἡ ψυχή μου, ἴδετε;"
       }
     },
     {
@@ -362,7 +365,8 @@
       "translations": {
         "lxx": "It was as a little while after I parted from them, that I found him whom my soul loves: I held him, and did not let him go, until I brought him into my mother's house, and into the chamber of her that conceived me.",
         "kjv": "It was but a little that I passed from them, but I found him whom my soul loveth: I held him, and would not let him go, until I had brought him into my mother’s house, and into the chamber of her that conceived me.",
-        "ron": "Dar abia m-am despărţit de ei şi iată, eu l-am găsit, pe cel iubit; apucatu-l-am atunci şi nu l-am mai lăsat, până nu l-am dus la mama mea, până nu l-am dus în casa ei."
+        "ron": "Dar abia m-am despărţit de ei şi iată, eu l-am găsit, pe cel iubit; apucatu-l-am atunci şi nu l-am mai lăsat, până nu l-am dus la mama mea, până nu l-am dus în casa ei.",
+        "grk": "Ὡς μικρὸν ὅτε παρῆλθον ἀπʼ αὐτῶν, ἕως οὗ εὗρον ὃν ἠγάπησεν ἡ ψυχή μου· ἐκράτησα αὐτὸν καὶ οὐκ ἀφῆκα αὐτὸν, ἕως οὗ εἰσήγαγον αὐτὸν εἰς οἶκον μητρός μου, καὶ εἰς ταμεῖον τῆς συλλαβούσης με."
       }
     },
     {
@@ -449,7 +453,8 @@
       "translations": {
         "lxx": "I have charged you, O daughters of Jerusalem, by the powers and by the virtues of the field, that ye rouse not nor awake my love, until he please.",
         "kjv": "I charge you, O ye daughters of Jerusalem, by the roes, and by the hinds of the field, that ye stir not up, nor awake my love, till he please.",
-        "ron": "Vă jur, fete din Ierusalim, pe cerboaice, pe gazelele din câmp, nu treziţi pe draga mea, până nu-i va fi ei voia!"
+        "ron": "Vă jur, fete din Ierusalim, pe cerboaice, pe gazelele din câmp, nu treziţi pe draga mea, până nu-i va fi ei voia!",
+        "grk": "Ὥρκισα ὑμᾶς θυγατέρες Ἱερουσαλὴμ ἐν ταῖς δυνάμεσι, καὶ ἐν ταῖς ἰσχύσεσι τοῦ ἀγροῦ· ἐὰν ἐγείρητε καὶ ἐξεγείρητε τὴν ἀγάπην ἕως ἂν θελήσῃ."
       }
     },
     {
@@ -531,7 +536,8 @@
       "translations": {
         "lxx": "Who is this that comes up from the wilderness as pillars of smoke, perfumed with myrrh and frankincense, with all powders of the perfumer?",
         "kjv": "Who is this that cometh out of the wilderness like pillars of smoke, perfumed with myrrh and frankincense, with all powders of the merchant?",
-        "ron": "Cine este aceea care se ridică din pustiu, ca un stâlp de fum, par-c-ar arde smirnă şi tămâie, par-c-ar arde miresme iscusit gătite?"
+        "ron": "Cine este aceea care se ridică din pustiu, ca un stâlp de fum, par-c-ar arde smirnă şi tămâie, par-c-ar arde miresme iscusit gătite?",
+        "grk": "Τίς αὕτη ἡ ἀναβαίνουσα ἀπὸ τῆς ἐρήμου, ὡς στελέχη καπνοῦ τεθυμιαμένη σμύρναν καὶ λίβανον ἀπὸ πάντων κονιορτῶν μυρεψοῦ;"
       }
     },
     {
@@ -588,7 +594,8 @@
       "translations": {
         "lxx": "Behold Solomon's bed; sixty mighty men of the mighty ones of Israel are round about it.",
         "kjv": "Behold his bed, which is Solomon’s; threescore valiant men are about it, of the valiant of Israel.",
-        "ron": "Iat-o, este ea, lectica lui Solomon, înconjurată de şaizeci de voinici, viteji falnici din Israel."
+        "ron": "Iat-o, este ea, lectica lui Solomon, înconjurată de şaizeci de voinici, viteji falnici din Israel.",
+        "grk": "Ἰδοὺ ἡ κλίνη τοῦ Σαλωμὼν, ἑξήκοντα δυνατοὶ κύκλῳ αὐτῆς ἀπὸ δυνατῶν Ἰσραήλ·"
       }
     },
     {
@@ -640,7 +647,8 @@
       "translations": {
         "lxx": "They all hold a sword, being expert in war: every man has his sword upon his thigh because of fear by night.",
         "kjv": "They all hold swords, being expert in war: every man hath his sword upon his thigh because of fear in the night.",
-        "ron": "Toţi sunt înarmaţi, la război deprinşi. Fiecare poartă sabie la şold, pentru orice întâmplare şi frică de noapte."
+        "ron": "Toţi sunt înarmaţi, la război deprinşi. Fiecare poartă sabie la şold, pentru orice întâmplare şi frică de noapte.",
+        "grk": "Πάντες κατέχοντες ῥομφαίαν δεδιδαγμένοι πόλεμον· ἀνὴρ ῥομφαία αὐτοῦ ἐπὶ μηρὸν αὐτοῦ ἀπὸ θάμβους ἐν νυξί."
       }
     },
     {
@@ -712,7 +720,8 @@
       "translations": {
         "lxx": "King Solomon made himself a litter of woods of Lebanon.",
         "kjv": "King Solomon made himself a chariot of the wood of Lebanon.",
-        "ron": "Regele Solomon şi-a făcut tron de nuntă din lemn de cedru din Liban."
+        "ron": "Regele Solomon şi-a făcut tron de nuntă din lemn de cedru din Liban.",
+        "grk": "Φορεῖον ἐποίησεν ἑαυτῷ ὁ βασιλεὺς Σαλωμὼν ἀπὸ ξύλων τοῦ Λιβάνου·"
       }
     },
     {
@@ -759,7 +768,8 @@
       "translations": {
         "lxx": "He made the pillars of it silver, the bottom of it gold, the covering of it scarlet, in the midst of it a pavement of love, for the daughters of Jerusalem.",
         "kjv": "He made the pillars thereof of silver, the bottom thereof of gold, the covering of it of purple, the midst thereof being paved with love, for the daughters of Jerusalem.",
-        "ron": "Stâlpii lui sunt de argint, pereţii de aur curat, patul e de purpură, iar acoperişul este de scumpe alesături; darul dragostei alese a fetelor din Ierusalim."
+        "ron": "Stâlpii lui sunt de argint, pereţii de aur curat, patul e de purpură, iar acoperişul este de scumpe alesături; darul dragostei alese a fetelor din Ierusalim.",
+        "grk": "Στύλους αὐτοῦ ἐποίησεν ἀργύριον, καὶ ἀνάκλιτον αὐτοῦ χρύσεον· ἐπίβασις αὐτοῦ πορφυρᾶ, ἐντὸς αὐτοῦ λιθόστρωτον, ἀγάπην ἀπὸ θυγατέρων Ἱερουσαλήμ."
       }
     },
     {
@@ -816,7 +826,8 @@
       "translations": {
         "lxx": "Go forth, ye daughters of Sion, and behold king Solomon, with the crown wherewith his mother crowned him, in the day of his espousals, and in the day of the gladness of his heart.",
         "kjv": "Go forth, O ye daughters of Zion, and behold king Solomon with the crown wherewith his mother crowned him in the day of his espousals, and in the day of the gladness of his heart.",
-        "ron": "Ieşiţi, fetele Sionului, priviţi pe Solomon încoronat, cum a lui maică l-a încununat, în ziua sărbătoririi nunţii lui, în ziua bucuriei inimii lui!"
+        "ron": "Ieşiţi, fetele Sionului, priviţi pe Solomon încoronat, cum a lui maică l-a încununat, în ziua sărbătoririi nunţii lui, în ziua bucuriei inimii lui!",
+        "grk": "Θυγατέρες Σιὼν ἐξέλθατε, καὶ ἴδετε ἐν τῷ βασιλεῖ Σαλωμὼν, ἐν τῷ στεφάνῳ ᾧ ἐστεφάνωσεν αὐτὸν ἡ μήτηρ αὐτοῦ, ἐν ἡμέρᾳ νυμφεύσεως αὐτοῦ, καὶ ἐν ἡμέρᾳ εὐφροσύνης καρδίας αὐτοῦ."
       }
     },
     {

@@ -8,7 +8,8 @@
       "translation": "A Psalm of David, when he fled from the presence of his son Abessalom.",
       "words": [],
       "translations": {
-        "ron": "Doamne, cât s-au înmulţit cei ce mă necăjesc! Mulţi se scoală asupra mea;"
+        "ron": "Doamne, cât s-au înmulţit cei ce mă necăjesc! Mulţi se scoală asupra mea;",
+        "grk": "Ψαλμὸς τῷ Δαυὶδ, ὁπότε ἀπεδίδρασκεν ἀπὸ προσώπου Ἀβεσσαλὼμ τοῦ υἱοῦ αὐτοῦ."
       }
     },
     {
@@ -17,7 +18,8 @@
       "translation": "O Lord, why are they that afflict me multiplied? many rise up against me.",
       "words": [],
       "translations": {
-        "ron": "Mulţi zic sufletului meu: \"Nu este mântuire lui, întru Dumnezeul lui! \""
+        "ron": "Mulţi zic sufletului meu: \"Nu este mântuire lui, întru Dumnezeul lui! \"",
+        "grk": "Κύριε τί ἐπληθύνθησαν οἱ θλίβοντές με; πολλοὶ ἐπανίστανται ἐπʼ ἐμέ."
       }
     },
     {
@@ -26,7 +28,8 @@
       "translation": "Many say concerning my soul, There is no deliverance for him in his God. Pause.",
       "words": [],
       "translations": {
-        "ron": "Iar Tu, Doamne, sprijinitorul meu eşti, slava mea şi Cel ce înalţi capul meu."
+        "ron": "Iar Tu, Doamne, sprijinitorul meu eşti, slava mea şi Cel ce înalţi capul meu.",
+        "grk": "Πολλοὶ λέγουσι τῇ ψυχῇ μου, οὐκ ἔστι σωτηρία αὐτῷ ἐν τῷ Θεῷ αὐτοῦ· διάψαλμα."
       }
     },
     {
@@ -35,7 +38,8 @@
       "translation": "But thou, O Lord, art my helper: my glory, and the one that lifts up my head.",
       "words": [],
       "translations": {
-        "ron": "Cu glasul meu către Domnul am strigat şi m-a auzit din muntele cel sfânt al Lui."
+        "ron": "Cu glasul meu către Domnul am strigat şi m-a auzit din muntele cel sfânt al Lui.",
+        "grk": "Σὺ δὲ Κύριε, ἀντιλήπτωρ μου εἶ, δόξα μου, καὶ ὑψῶν τὴν κεφαλήν μου."
       }
     },
     {
@@ -44,7 +48,8 @@
       "translation": "I cried to the Lord with my voice, and he heard me out of his holy mountain. Pause.",
       "words": [],
       "translations": {
-        "ron": "Eu m-am culcat şi am adormit; sculatu-m-am, că Domnul mă va sprijini."
+        "ron": "Eu m-am culcat şi am adormit; sculatu-m-am, că Domnul mă va sprijini.",
+        "grk": "Φωνῇ μου πρὸς Κύριον ἐκέκραξα, καὶ ἐπήκουσέ μου ἐξ ὄρους ἁγίου αὐτοῦ· διάψαλμα."
       }
     },
     {
@@ -53,7 +58,8 @@
       "translation": "I lay down and slept; I awaked; for the Lord will help me.",
       "words": [],
       "translations": {
-        "ron": "Nu mă voi teme de mii de popoare, care împrejur mă împresoară."
+        "ron": "Nu mă voi teme de mii de popoare, care împrejur mă împresoară.",
+        "grk": "Ἐγὼ ἐκοιμήθην καὶ ὕπνωσα, ἐξηγέρθην, ὅτι Κύριος ἀντιλήψεταί μου."
       }
     },
     {
@@ -62,7 +68,8 @@
       "translation": "I will not be afraid of ten thousands of people, who beset me round about.",
       "words": [],
       "translations": {
-        "ron": "Scoală, Doamne, mântuieşte-mă, Dumnezeul meu, că Tu ai bătut pe toţi cei ce mă vrăjmăşesc în deşert; dinţii păcătoşilor ai zdrobit."
+        "ron": "Scoală, Doamne, mântuieşte-mă, Dumnezeul meu, că Tu ai bătut pe toţi cei ce mă vrăjmăşesc în deşert; dinţii păcătoşilor ai zdrobit.",
+        "grk": "Οὐ φοβηθήσομαι ἀπὸ μυριάδων λαοῦ, τῶν κύκλῳ ἐπιτιθεμένων μοι."
       }
     },
     {
@@ -71,14 +78,18 @@
       "translation": "Arise, Lord; deliver me, my God: for thou hast smitten all who were without cause mine enemies; thou hast broken the teeth of sinners.",
       "words": [],
       "translations": {
-        "ron": "A Domnului este mântuirea şi peste poporul Tău, binecuvântarea Ta."
+        "ron": "A Domnului este mântuirea şi peste poporul Tău, binecuvântarea Ta.",
+        "grk": "Ἀνάστα Κύριε, σῶσόν με ὁ Θεός μου· ὅτι σὺ ἐπάταξας πάντας τοὺς ἐχθραίνοντάς μοι ματαίως, ὀδόντας ἁμαρτωλῶν συνέτριψας."
       }
     },
     {
       "num": 9,
       "geez": "",
       "translation": "Deliverance is the Lord's, and thy blessing is upon thy people.",
-      "words": []
+      "words": [],
+      "translations": {
+        "grk": "Τοῦ Κυρίου ἡ σωτηρία, καὶ ἐπὶ τὸν λαόν σου ἡ εὐλογία σου."
+      }
     }
   ]
 }

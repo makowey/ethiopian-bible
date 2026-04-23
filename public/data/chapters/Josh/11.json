@@ -91,7 +91,8 @@
       "translations": {
         "lxx": "And when Jabis the king of Asor heard, he sent to Jobab king of Maron, and to the king of Symoön, and to the king of Aziph,",
         "kjv": "And it came to pass, when Jabin king of Hazor had heard those things, that he sent to Jobab king of Madon, and to the king of Shimron, and to the king of Achshaph,",
-        "ron": "Cum a auzit de aceasta, Iabin, regele Haţorului, a trimis la Iobab, regele Madonului, la regele Şimronului şi la regele Acşafului;"
+        "ron": "Cum a auzit de aceasta, Iabin, regele Haţorului, a trimis la Iobab, regele Madonului, la regele Şimronului şi la regele Acşafului;",
+        "grk": "Ὡς δὲ ἤκουσεν Ἰαβὶς βασιλεὺς Ἀσὼρ, ἀπέστειλε πρὸς Ἰωβὰβ βασιλέα Μαρῶν, καὶ πρὸς βασιλέα Συμοὼν, καὶ πρὸς βασιλέα Ἀζὶφ,"
       }
     },
     {
@@ -198,7 +199,8 @@
       "translations": {
         "lxx": "and to the kings who were by the great Sidon, to the hill country and to Araba opposite Keneroth, and to the plain, and to Phenaeddor,",
         "kjv": "And to the kings that were on the north of the mountains, and of the plains south of Chinneroth, and in the valley, and in the borders of Dor on the west,",
-        "ron": "La regii cei de la miazănoapte; din munţi, de pe podiş, de la miazăzi de Chinerot, în câmpie şi în ţinutul Dor, la apus;"
+        "ron": "La regii cei de la miazănoapte; din munţi, de pe podiş, de la miazăzi de Chinerot, în câmpie şi în ţinutul Dor, la apus;",
+        "grk": "καὶ πρὸς βασιλεῖς τοὺς κατὰ Σιδῶνα τὴν μεγάλην, εἰς τὴν ὀρεινὴν καὶ εἰς Ἄραβα ἀπέναντι Κενερὼθ, καὶ εἰς τὸ πεδίον, καὶ εἰς Φεναεδδὼρ,"
       }
     },
     {
@@ -310,7 +312,8 @@
       "translations": {
         "lxx": "and to the Chananites on the coast eastward, and to the Amorites on the coast, and the Chettites, and the Pherezites, and the Jebusites in the mountain, and the Evites, and those dwelling under mount Aermon in the land Massyma.",
         "kjv": "And to the Canaanite on the east and on the west, and to the Amorite, and the Hittite, and the Perizzite, and the Jebusite in the mountains, and to the Hivite under Hermon in the land of Mizpeh.",
-        "ron": "La Canaaneii din răsărit, de pe malul mării; la Amorei, la Hetei, la Ferezei, la Iebuseii din munţi şi la Heveii de sub Hermon, în pământul Miţpa."
+        "ron": "La Canaaneii din răsărit, de pe malul mării; la Amorei, la Hetei, la Ferezei, la Iebuseii din munţi şi la Heveii de sub Hermon, în pământul Miţpa.",
+        "grk": "καὶ εἰς τοὺς παραλίους Χαναναίους ἀπὸ ἀνατολῶν, καὶ εἰς τοὺς παραλίους Ἀμοῤῥαίους, καὶ τοὺς Χετταίους, καὶ Φερεζαίους, καὶ Ἰεβουσαίους τοὺς ἐν τῷ ὄρει, καὶ τοὺς Εὐαίους, καὶ τοὺς ὑπὸ τὴν Ἀερμὼν εἰς γῆν Μασσύμα."
       }
     },
     {
@@ -382,7 +385,8 @@
       "translations": {
         "lxx": "And they and their kings with them went forth, as the sand of the sea in multitude, and horses, and very many chariots.",
         "kjv": "And they went out, they and all their hosts with them, much people, even as the sand that is upon the sea shore in multitude, with horses and chariots very many.",
-        "ron": "Şi au ieşit aceştia împreună cu regii lor, popor mult la număr, ca nisipul de la marginea mării, şi cai şi care de război foarte multe."
+        "ron": "Şi au ieşit aceştia împreună cu regii lor, popor mult la număr, ca nisipul de la marginea mării, şi cai şi care de război foarte multe.",
+        "grk": "Καὶ ἐξῆλθον αὐτοὶ καὶ οἱ βασιλεῖς αὐτῶν μετʼ αὐτῶν, ὥσπερ ἡ ἄμμος τῆς θαλάσσης τῷ πλήθει, καὶ ἵπποι καὶ ἅρματα πολλὰ σφόδρα."
       }
     },
     {
@@ -449,7 +453,8 @@
       "translations": {
         "lxx": "And all the kings assembled in person, and came to the same place, and encamped at the waters of Maron to war with Israel.",
         "kjv": "And when all these kings were met together, they came and pitched together at the waters of Merom, to fight against Israel.",
-        "ron": "Şi s-au adunat toţi regii aceştia şi au tăbărât împreună la apele Merom, ca să se lupte cu Israel."
+        "ron": "Şi s-au adunat toţi regii aceştia şi au tăbărât împreună la apele Merom, ca să se lupte cu Israel.",
+        "grk": "Καὶ συνῆλθον πάντες οἱ βασιλεῖς αὐτοὶ καὶ παρεγένοντο ἐπὶ τὸ αὐτὸ, καὶ παρενέβαλον ἐπὶ τοῦ ὕδατος Μαρὼν πολεμῆσαι τὸν Ἰσραήλ."
       }
     },
     {
@@ -571,7 +576,8 @@
       "translations": {
         "lxx": "And the Lord said to Joshua, Be not afraid of them, for to-morrow at this time I will put them to flight before Israel: thou shalt hough their horses, and burn their chariots with fire.",
         "kjv": "And the LORD said unto Joshua, Be not afraid because of them: for to morrow about this time will I deliver them up all slain before Israel: thou shalt hough their horses, and burn their chariots with fire.",
-        "ron": "Domnul însă a zis: \"Nu te teme de faţa lor, căci mâine pe vremea aceasta îi voi da pe toţi aceia fiilor lui Israel ca să-i ucidă; cailor lor să le tai vinele picioarelor, iar carele să le arzi cu foc\"."
+        "ron": "Domnul însă a zis: \"Nu te teme de faţa lor, căci mâine pe vremea aceasta îi voi da pe toţi aceia fiilor lui Israel ca să-i ucidă; cailor lor să le tai vinele picioarelor, iar carele să le arzi cu foc\".",
+        "grk": "Καὶ εἶπε Κύριος πρὸς Ἰησοῦν, μὴ φοβηθῇς ἀπὸ προσώπου αὐτῶν, ὅτι αὔριον ταύτην τὴν ὥραν ἐγὼ παραδίδωμι τετροπωμένους αὐτοὺς ἐναντίον τοῦ Ἰσραήλ· τοὺς ἵππους αὐτῶν νευροκοπήσεις, καὶ τὰ ἅρματα αὐτῶν κατακαύσεις ἐν πυρί."
       }
     },
     {
@@ -653,7 +659,8 @@
       "translations": {
         "lxx": "And Joshua and all the men of war came upon them at the water of Maron suddenly; and they attacked them in the hill country.",
         "kjv": "So Joshua came, and all the people of war with him, against them by the waters of Merom suddenly; and they fell upon them.",
-        "ron": "Atunci Iosua împreună cu tot poporul bun de luptă a ieşit fără de veste înaintea lor, la apele Merom şi a năvălit în munţi asupra lor."
+        "ron": "Atunci Iosua împreună cu tot poporul bun de luptă a ieşit fără de veste înaintea lor, la apele Merom şi a năvălit în munţi asupra lor.",
+        "grk": "Καὶ ἦλθεν Ἰησοῦς καὶ πᾶς ὁ λαὸς ὁ πολεμιστὴς ἐπʼ αὐτοὺς ἐπὶ τὸ ὕδωρ Μαρὼν ἐξάπινα· καὶ ἐπέπεσαν ἐπʼ αὐτοὺς ἐν τῇ ὀρεινῇ."
       }
     },
     {
@@ -775,7 +782,8 @@
       "translations": {
         "lxx": "And the Lord delivered them into the power of Israel; and they smote them and pursued them to great Sidon, and to Maseron, and to the plains of Massoch eastward; and they destroyed them till there was not one of them left that survived.",
         "kjv": "And the LORD delivered them into the hand of Israel, who smote them, and chased them unto great Zidon, and unto Misrephothmaim, and unto the valley of Mizpeh eastward; and they smote them, until they left them none remaining.",
-        "ron": "Şi i-a dat pe ei Domnul în mâinile lui Israel şi i-a lovit şi i-a urmărit până la Sidonul cel Mare, până la Misrefot-Maim şi până în valea Miţpa, la răsărit, şi i-a ucis până n-a scăpat nimeni."
+        "ron": "Şi i-a dat pe ei Domnul în mâinile lui Israel şi i-a lovit şi i-a urmărit până la Sidonul cel Mare, până la Misrefot-Maim şi până în valea Miţpa, la răsărit, şi i-a ucis până n-a scăpat nimeni.",
+        "grk": "Καὶ παρέδωκεν αὐτοὺς Κύριος ὑποχειρίους Ἰσραήλ· καὶ κόπτοντες αὐτοὺς κατεδίωκον ἕως Σιδῶνος τῆς μεγάλης, καὶ ἕως Μασερὼν, καὶ ἕως τῶν πεδίων Μασσὼχ κατʼ ἀνατολάς· καὶ κατέκοψαν αὐτοὺς ἕως τοῦ μὴ καταλειφθῆναι αὐτῶν διασεσωσμένον."
       }
     },
     {
@@ -842,7 +850,8 @@
       "translations": {
         "lxx": "And Joshua did to them, as the Lord commanded him: he houghed their horses, and burned their chariots with fire.",
         "kjv": "And Joshua did unto them as the LORD bade him: he houghed their horses, and burnt their chariots with fire.",
-        "ron": "Şi a făcut Iosua cu ei cum îi zisese Domnul: cailor lor le-a tăiat vinele picioarelor şi carele lor le-a ars cu foc."
+        "ron": "Şi a făcut Iosua cu ei cum îi zisese Domnul: cailor lor le-a tăiat vinele picioarelor şi carele lor le-a ars cu foc.",
+        "grk": "Καὶ ἐποίησεν αὐτοῖς Ἰησοῦς, ὃν τρόπον ἐνετείλατο αὐτῷ Κύριος· τοὺς ἵππους αὐτῶν ἐνευροκόπησε, καὶ τὰ ἅρματα αὐτῶν ἐνέπρησε πυρί."
       }
     },
     {
@@ -929,7 +938,8 @@
       "translations": {
         "lxx": "And Joshua returned at that time, and took Asor and her king; now Asor in former time was the chief of these kingdoms.",
         "kjv": "And Joshua at that time turned back, and took Hazor, and smote the king thereof with the sword: for Hazor beforetime was the head of all those kingdoms.",
-        "ron": "Tot atunci întorcându-se, Iosua a luat Haţorul şi pe regele lui l-a omorât cu sabia. Haţorul fusese până atunci capul tuturor regatelor acestora."
+        "ron": "Tot atunci întorcându-se, Iosua a luat Haţorul şi pe regele lui l-a omorât cu sabia. Haţorul fusese până atunci capul tuturor regatelor acestora.",
+        "grk": "Καὶ ἐπεστράφη Ἰησοῦς ἐν τῷ καιρῷ ἐκείνῳ, καὶ κατελάβετο Ἀσὼρ, καὶ τὸν βασιλέα αὐτῆς· ἦν δὲ Ἀσὼρ τοπρότερον ἄρχουσα πασῶν τῶν βασιλειῶν τούτων."
       }
     },
     {
@@ -1026,7 +1036,8 @@
       "translations": {
         "lxx": "And they slew with the sword all that breathed in it, and utterly destroyed them all, and there was no living thing left in it; and they burnt Asor with fire.",
         "kjv": "And they smote all the souls that were therein with the edge of the sword, utterly destroying them: there was not any left to breathe: and he burnt Hazor with fire.",
-        "ron": "Şi a ucis toată suflarea din acesta cu sabia, dând toate pieirii; şi n-a rămas nici un suflet, iar Haţorul l-a ars cu foc."
+        "ron": "Şi a ucis toată suflarea din acesta cu sabia, dând toate pieirii; şi n-a rămas nici un suflet, iar Haţorul l-a ars cu foc.",
+        "grk": "Καὶ ἀπέκτειναν πᾶν ἐμπνέον ἐν αὐτῇ ἐν ξίφει, καὶ ἐξωλόθρευσαν πάντας, καὶ οὐ κατελείφθη ἐν αὐτῇ ἐμπνέον· καὶ τὴν Ἀσὼρ ἐνέπρησαν ἐν πυρί."
       }
     },
     {
@@ -1093,7 +1104,8 @@
       "translations": {
         "lxx": "And Joshua took all the cities of the kingdoms, and their kings, and slew them with the edge of the sword; and utterly slew them, as Moses the servant of the Lord commanded.",
         "kjv": "And all the cities of those kings, and all the kings of them, did Joshua take, and smote them with the edge of the sword, and he utterly destroyed them, as Moses the servant of the LORD commanded.",
-        "ron": "Astfel a luat Iosua toate cetăţile regatelor acestora şi pe toţi regii lor i-a ucis cu sabia, dându-i pieirii, cum poruncise Moise, sluga Domnului."
+        "ron": "Astfel a luat Iosua toate cetăţile regatelor acestora şi pe toţi regii lor i-a ucis cu sabia, dându-i pieirii, cum poruncise Moise, sluga Domnului.",
+        "grk": "Καὶ πάσας τὰς πόλεις τῶν βασιλειῶν, καὶ τοὺς βασιλεῖς αὐτῶν ἔλαβεν Ἰησοῦς, καὶ ἀνεῖλεν αὐτοὺς ἐν στόματι ξίφους· καὶ ἐξωλόθρευσαν αὐτοὺς, ὃν τρόπον συνέταξε Μωυσῆς ὁ παῖς Κυρίου."
       }
     },
     {
@@ -1160,7 +1172,8 @@
       "translations": {
         "lxx": "But all the walled cities Israel burnt not; but Israel burnt Asor only.",
         "kjv": "But as for the cities that stood still in their strength, Israel burned none of them, save Hazor only; that did Joshua burn.",
-        "ron": "Iar cetăţile cele întărite nu le-a ars Israel, afară de Haţor, pe care l-a ars Iosua."
+        "ron": "Iar cetăţile cele întărite nu le-a ars Israel, afară de Haţor, pe care l-a ars Iosua.",
+        "grk": "Ἀλλὰ πάσας τὰς πόλεις τὰς κεχωματισμένας οὐκ ἐνέπρησεν Ἰσραήλ· πλὴν Ἀσὼρ μόνην ἐνέπρησεν Ἰσραὴλ,"
       }
     },
     {
@@ -1257,7 +1270,8 @@
       "translations": {
         "lxx": "And the children of Israel took all its spoils to themselves; and they slew all the men with the edge of the sword, until he destroyed them; they left not one of them breathing.",
         "kjv": "And all the spoil of these cities, and the cattle, the children of Israel took for a prey unto themselves; but every man they smote with the edge of the sword, until they had destroyed them, neither left they any to breathe.",
-        "ron": "Toată prada cetăţilor acestora şi toate vitele le-au luat fiii lui Israel pentru ei, iar pe oameni i-au ucis cu sabia, i-au dat blestemului şi n-au lăsat din ei nici un suflet."
+        "ron": "Toată prada cetăţilor acestora şi toate vitele le-au luat fiii lui Israel pentru ei, iar pe oameni i-au ucis cu sabia, i-au dat blestemului şi n-au lăsat din ei nici un suflet.",
+        "grk": "καὶ πάντα τὰ σκῦλα αὐτῆς ἐπρονόμευσαν ἑαυτοῖς οἱ υἱοὶ Ἰσραήλ· αὐτοὺς δὲ πάντας ἐξωλόθρευσαν ἐν στόματι ξίφους, ἕως ἀπώλεσεν αὐτοὺς· οὐ κατέλιπον ἐξ αὐτῶν οὐδὲν ἐμπνέον."
       }
     },
     {
@@ -1354,7 +1368,8 @@
       "translations": {
         "lxx": "As the Lord commanded his servant Moses, even so Moses commanded Joshua; and so Joshua did, he transgressed no precept of all that Moses commanded him.",
         "kjv": "As the LORD commanded Moses his servant, so did Moses command Joshua, and so did Joshua; he left nothing undone of all that the LORD commanded Moses.",
-        "ron": "Precum poruncise Domnul lui Moise, sluga Sa, şi cum poruncise şi Moise lui Iosua, aşa a făcut Iosua: nu s-a abătut de la nimic, nici de la un cuvânt din câte poruncise Domnul lui Moise."
+        "ron": "Precum poruncise Domnul lui Moise, sluga Sa, şi cum poruncise şi Moise lui Iosua, aşa a făcut Iosua: nu s-a abătut de la nimic, nici de la un cuvânt din câte poruncise Domnul lui Moise.",
+        "grk": "Ὃν τρόπον συνέταξε Κύριος τῷ Μωυσῇ τῷ παιδὶ αὐτοῦ, καὶ Μωυσῆς ὡσαύτως ἐνετείλατο τῷ Ἰησοῖ· καὶ οὕτως ἐποίησεν Ἰησοῦς, οὐ παρέβη οὐδὲν ἀπὸ πάντων ὧν συνέταξεν αὐτῷ Μωυσῆς."
       }
     },
     {
@@ -1476,7 +1491,8 @@
       "translations": {
         "lxx": "And Joshua took all the hill country, and all the land of Nageb, and all the land of Gosom, and the plain country, and that toward the west, and the mountain of Israel and the low country by the mountain;",
         "kjv": "So Joshua took all that land, the hills, and all the south country, and all the land of Goshen, and the valley, and the plain, and the mountain of Israel, and the valley of the same;",
-        "ron": "Şi aşa a luat Iosua toată ţara aceea de sus şi tot ţinutul Negheb, tot ţinutul Goşen şi ţinuturile de jos, şesul şi muntele lui Israel şi locurile joase de pe lângă munte,"
+        "ron": "Şi aşa a luat Iosua toată ţara aceea de sus şi tot ţinutul Negheb, tot ţinutul Goşen şi ţinuturile de jos, şesul şi muntele lui Israel şi locurile joase de pe lângă munte,",
+        "grk": "Καὶ ἔλαβεν Ἰησοῦς πᾶσαν τὴν γῆν τὴν ὀρεινὴν, καὶ πᾶσαν τὴν γῆν Ναγὲβ, καὶ πᾶσαν τὴν γῆν Γοσὸμ, καὶ τὴν πεδινὴν, καὶ τὴν πρὸς δυσμαῖς, καὶ τὸ ὄρος Ἰσραὴλ, καὶ τὰ ταπεινὰ"
       }
     },
     {
@@ -1578,7 +1594,8 @@
       "translations": {
         "lxx": "from the mountain of Chelcha, and that which goes up to Seir, and as far as Balagad, and the plains of Libanus, under mount Aermon; and he took all their kings, and destroyed, and slew them.",
         "kjv": "Even from the mount Halak, that goeth up to Seir, even unto Baalgad in the valley of Lebanon under mount Hermon: and all their kings he took, and smote them, and slew them.",
-        "ron": "De la Muntele Pele, care se întinde spre Seir, până la Baal-Gad din valea Libanului, la poalele Hermonului; a luat pe toţi regii lor şi i-a lovit şi i-a ucis."
+        "ron": "De la Muntele Pele, care se întinde spre Seir, până la Baal-Gad din valea Libanului, la poalele Hermonului; a luat pe toţi regii lor şi i-a lovit şi i-a ucis.",
+        "grk": "τὰ πρὸς τῷ ὄρει ἀπὸ ὄρους Χελχὰ, καὶ ὃ προσαναβαίνει εἰς Σηεὶρ, καὶ ἕως Βαλαγὰδ, καὶ τὰ πεδία τοῦ Λιβάνου ὑπὸ τὸ ὄρος τὸ Ἀερμών· καὶ πάντας τοὺς βασιλεῖς αὐτῶν ἔλαβε, καὶ ἀνεῖλε, καὶ ἀπέκτεινε."
       }
     },
     {
@@ -1635,7 +1652,8 @@
       "translations": {
         "lxx": "And for many days Joshua waged war with these kings.",
         "kjv": "Joshua made war a long time with all those kings.",
-        "ron": "Dar Iosua a purtat multă vreme război cu toţi regii aceştia."
+        "ron": "Dar Iosua a purtat multă vreme război cu toţi regii aceştia.",
+        "grk": "Καὶ ἡμέρας πλείους ἐποίησεν Ἰησοῦς πρὸς τοὺς βασιλεῖς τούτους τὸν πόλεμον."
       }
     },
     {
@@ -1687,7 +1705,8 @@
       "translations": {
         "lxx": "And there was no city which Israel took not; they took all in war.",
         "kjv": "There was not a city that made peace with the children of Israel, save the Hivites the inhabitants of Gibeon: all other they took in battle.",
-        "ron": "Şi n-a fost cetate pe care să n-o fi luat cu fiii lui Israel; toate le-au luat cu război, afară de Ghibeon în care locuiau Heveii;"
+        "ron": "Şi n-a fost cetate pe care să n-o fi luat cu fiii lui Israel; toate le-au luat cu război, afară de Ghibeon în care locuiau Heveii;",
+        "grk": "Καὶ οὐκ ἦν πόλις, ἣν οὐκ ἔλαβεν Ἰσραήλ· πάντα ἐλάβοσαν ἐν πολέμῳ."
       }
     },
     {
@@ -1789,7 +1808,8 @@
       "translations": {
         "lxx": "For it was of the Lord to harden their hearts to go forth to war against Israel, that they might be utterly destroyed, that mercy should not be granted to them, but that they should be utterly destroyed, as the Lord said to Moses.",
         "kjv": "For it was of the LORD to harden their hearts, that they should come against Israel in battle, that he might destroy them utterly, and that they might have no favour, but that he might destroy them, as the LORD commanded Moses.",
-        "ron": "Căci aşa a fost de la Domnul, ca să-şi învârtoşeze inima lor şi să întâmpine pe Israel cu război, ca să fie daţi pieirii şi ca să nu găsească milă, ci să fie nimiciţi, cum poruncise Domnul lui Moise."
+        "ron": "Căci aşa a fost de la Domnul, ca să-şi învârtoşeze inima lor şi să întâmpine pe Israel cu război, ca să fie daţi pieirii şi ca să nu găsească milă, ci să fie nimiciţi, cum poruncise Domnul lui Moise.",
+        "grk": "Ὅτι διὰ Κυρίου ἐγένετο κατισχύσαι αὐτῶν τὴν καρδίαν συναντᾷν εἰς πόλεμον πρὸς Ἰσραὴλ, ἵνα ἐξολοθρευθῶσιν, ὅπως μὴ δοθῇ αὐτοῖς ἔλεος, ἀλλʼ ἵνα ἐξολοθρευθῶσιν, ὃν τρόπον εἶπε Κύριος πρὸς Μωυσῆν."
       }
     },
     {
@@ -1941,7 +1961,8 @@
       "translations": {
         "lxx": "And Joshua came at that time, and utterly destroyed the Enakim out of the hill country, from Chebron and from Dabir, and from Anaboth, and from all the race of Israel, and from all the mountain of Juda with their cities; and Joshua utterly destroyed them.",
         "kjv": "And at that time came Joshua, and cut off the Anakims from the mountains, from Hebron, from Debir, from Anab, and from all the mountains of Judah, and from all the mountains of Israel: Joshua destroyed them utterly with their cities.",
-        "ron": "Apoi a venit Iosua în vremea aceea şi a lovit pe toţi Anachimii de la munte, din Hebron, din Debir, din Anab, din toţi munţii lui Iuda şi din toţi munţii lui Israel şi i-a dat Iosua nimicirii împreună cu cetăţile lor."
+        "ron": "Apoi a venit Iosua în vremea aceea şi a lovit pe toţi Anachimii de la munte, din Hebron, din Debir, din Anab, din toţi munţii lui Iuda şi din toţi munţii lui Israel şi i-a dat Iosua nimicirii împreună cu cetăţile lor.",
+        "grk": "Καὶ ἦλθεν Ἰησοῦς ἐν τῷ καιρῷ ἐκείνῳ, καὶ ἐξωλόθρευσε τοὺς Ἐνακὶμ ἐκ τῆς ὀρεινῆς, ἐκ Χεβρὼν, καὶ ἐκ Δαβὶρ, καὶ ἐξ Ἀναβὼθ, καὶ ἐκ παντὸς Ἰούδα σὺν ταῖς πόλεσιν αὐτῶν· καὶ ἐξωλόθρευσεν αὐτοὺς Ἰησοῦς."
       }
     },
     {
@@ -2023,7 +2044,8 @@
       "translations": {
         "lxx": "There was not any one left of the Enakim by the children of Israel, only there was left of them in Gaza, and in Gath, and in Aseldo.",
         "kjv": "There was none of the Anakims left in the land of the children of Israel: only in Gaza, in Gath, and in Ashdod, there remained.",
-        "ron": "Şi n-a rămas niciunul din Anachimi în pământul fiilor lui Israel, ci numai în Gaza, în Gat şi în Aşdod au rămas din ei."
+        "ron": "Şi n-a rămas niciunul din Anachimi în pământul fiilor lui Israel, ci numai în Gaza, în Gat şi în Aşdod au rămas din ei.",
+        "grk": "Οὐ κατελείφθη τῶν Ἐνακὶμ ἀπὸ τῶν υἱῶν Ἰσραὴλ, ἀλλὰ πλὴν ἐν Γάζῃ, καὶ ἐν Γὲθ, καὶ ἐν Ἀσελδὼ κατελείφθη."
       }
     },
     {
@@ -2140,7 +2162,8 @@
       "translations": {
         "lxx": "And Joshua took all the land, as the Lord commanded Moses; and Joshua gave them for an inheritance to Israel by division according to their tribes; and the land ceased from war.",
         "kjv": "So Joshua took the whole land, according to all that the LORD said unto Moses; and Joshua gave it for an inheritance unto Israel according to their divisions by their tribes. And the land rested from war.",
-        "ron": "Aşa a luat Iosua tot pământul, cum poruncise Domnul lui Moise şi l-a dat Iosua de moştenire lui Israel, împărţindu-l între seminţiile lor. Şi s-a liniştit pământul de război."
+        "ron": "Aşa a luat Iosua tot pământul, cum poruncise Domnul lui Moise şi l-a dat Iosua de moştenire lui Israel, împărţindu-l între seminţiile lor. Şi s-a liniştit pământul de război.",
+        "grk": "Καὶ ἔλαβεν Ἰησοῦς πᾶσαν τὴν γῆν, καθότι ἐνετείλατο Κύριος τῷ Μωυσῇ· καὶ ἔδωκεν αὐτοὺς Ἰησοῦς ἐν κληρονομίᾳ Ἰσραὴλ ἐν μερισμῷ κατὰ φυλὰς αὐτῶν· καὶ ἡ γῆ κατέπαυσε πολεμουμένη."
       }
     }
   ],

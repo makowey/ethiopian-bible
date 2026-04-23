@@ -81,7 +81,8 @@
       "translations": {
         "lxx": "And Moses gathered all the congregation of the children of Israel together, and said, These are the words which the Lord has spoken for you to do them.",
         "kjv": "And Moses gathered all the congregation of the children of Israel together, and said unto them, These are the words which the LORD hath commanded, that ye should do them.",
-        "ron": "Atunci a adunat Moise toată obştea fiilor lui Israel şi le-a zis: \"Iată ce a poruncit Domnul să faceţi:"
+        "ron": "Atunci a adunat Moise toată obştea fiilor lui Israel şi le-a zis: \"Iată ce a poruncit Domnul să faceţi:",
+        "grk": "Καὶ συνήθροισε Μωυσῆς πᾶσαν συναγωγὴν υἱῶν Ἰσραὴλ, καὶ εἶπεν, οὗτοι οἱ λόγοι, οὓς εἶπε Κύριος ποιῆσαι αὐτούς."
       }
     },
     {
@@ -173,7 +174,8 @@
       "translations": {
         "lxx": "Six days shalt thou perform works, but on the seventh day shall be rest—a holy sabbath—a rest for the Lord: every one that does work on it, let him die.",
         "kjv": "Six days shall work be done, but on the seventh day there shall be to you an holy day, a sabbath of rest to the LORD: whosoever doeth work therein shall be put to death.",
-        "ron": "şase zile să lucraţi, iar ziua a şaptea să fie sfântă pentru voi, zi de odihnă, odihna Domnului; tot cel ce va lucra în ziua aceea va fi omorât."
+        "ron": "şase zile să lucraţi, iar ziua a şaptea să fie sfântă pentru voi, zi de odihnă, odihna Domnului; tot cel ce va lucra în ziua aceea va fi omorât.",
+        "grk": "Ἓξ ἡμέρας ποιήσεις ἔργα, τῇ δὲ ἡμέρᾳ τῇ ἑβδόμῃ κατάπαυσις· ἅγια, σάββατα· ἀνάπαυσις Κυρίῳ· πᾶς ὁ ποιῶν ἔργον ἐν αὐτῇ, τελευτάτω."
       }
     },
     {
@@ -225,7 +227,8 @@
       "translations": {
         "lxx": "Ye shall not burn a fire in any of your dwellings on the sabbath-day; I am the Lord.",
         "kjv": "Ye shall kindle no fire throughout your habitations upon the sabbath day.",
-        "ron": "În ziua odihnei să nu faceţi foc în toate locaşurile voastre. Eu sunt Domnul!\""
+        "ron": "În ziua odihnei să nu faceţi foc în toate locaşurile voastre. Eu sunt Domnul!\"",
+        "grk": "Οὐ καύσετε πῦρ ἐν πάσῃ κατοικίᾳ ὑμῶν τῇ ἡμέρᾳ τῶν σαββάτων· ἐγὼ Κύριος."
       }
     },
     {
@@ -312,7 +315,8 @@
       "translations": {
         "lxx": "And Moses spoke to all the congregation of the children of Israel, saying, This is the thing which the Lord has appointed you, saying,",
         "kjv": "And Moses spake unto all the congregation of the children of Israel, saying, This is the thing which the LORD commanded, saying,",
-        "ron": "Apoi a grăit Moise la toată obştea fiilor lui Israel şi a zis: \"Iată ce a mai poruncit Domnul să vă spun:"
+        "ron": "Apoi a grăit Moise la toată obştea fiilor lui Israel şi a zis: \"Iată ce a mai poruncit Domnul să vă spun:",
+        "grk": "Καὶ εἶπε Μωυσῆς πρὸς πᾶσαν συναγωγὴν υἱῶν Ἰσραὴλ, λέγων, τοῦτο τὸ ῥῆμα, ὃ συνέταξε Κύριος, λέγων,"
       }
     },
     {
@@ -389,7 +393,8 @@
       "translations": {
         "lxx": "Take of yourselves an offering for the Lord: every one that engages in his heart shall bring the first-fruits to the Lord; gold, silver, brass,",
         "kjv": "Take ye from among you an offering unto the LORD: whosoever is of a willing heart, let him bring it, an offering of the LORD; gold, and silver, and brass,",
-        "ron": "Aduceţi din ale voastre, daruri Domnului; fiecare să aducă Domnului daruri cât îl lasă inima: aur, argint şi aramă;"
+        "ron": "Aduceţi din ale voastre, daruri Domnului; fiecare să aducă Domnului daruri cât îl lasă inima: aur, argint şi aramă;",
+        "grk": "λάβετε παρʼ ὑμῶν αὐτῶν ἀφαίρεμα Κυρίῳ· πᾶς ὁ καταδεχόμενος τῇ καρδίᾳ, οἴσουσι τὰς ἀπαρχὰς Κυρίῳ, χρυσίον, ἀργύριον, χαλκὸν,"
       }
     },
     {
@@ -441,7 +446,8 @@
       "translations": {
         "lxx": "blue, purple, double scarlet spun, and fine linen spun, and goats' hair,",
         "kjv": "And blue, and purple, and scarlet, and fine linen, and goats’ hair,",
-        "ron": "Mătase violetă, stacojie şi vişinie, vison răsucit şi păr de capră;"
+        "ron": "Mătase violetă, stacojie şi vişinie, vison răsucit şi păr de capră;",
+        "grk": "ὑάκινθον, πορφύραν, κόκκινον διπλοῦν διανενησμένον, καὶ βύσσον κεκλωσμένην, καὶ τρίχας αἰγείας,"
       }
     },
     {
@@ -493,7 +499,8 @@
       "translations": {
         "lxx": "and rams' skins dyed red, and skins dyed blue, and incorruptible wood,",
         "kjv": "And rams’ skins dyed red, and badgers’ skins, and shittim wood,",
-        "ron": "Piei de berbec vopsite roşu, piei de viţel de mare şi lemn de salcâm;"
+        "ron": "Piei de berbec vopsite roşu, piei de viţel de mare şi lemn de salcâm;",
+        "grk": "καὶ δέρματα κριῶν ἠρυθροδανωμένα, καὶ δέρματα ὑακινθινα, καὶ ξύλα ἄσηπτα,"
       }
     },
     {
@@ -591,7 +598,8 @@
       "translations": {
         "lxx": "and sardine stones, and stones for engraving for the shoulder-piece and full-length robe.",
         "kjv": "And onyx stones, and stones to be set for the ephod, and for the breastplate.",
-        "ron": "Piatră de sardiu, pietre pentru prins la efod şi la hoşen."
+        "ron": "Piatră de sardiu, pietre pentru prins la efod şi la hoşen.",
+        "grk": "καὶ λίθους σαρδίου, καὶ λίθους εἰς τὴν γλυφὴν εἰς τὴν ἐπωμίδα καὶ τὸν ποδήρη."
       }
     },
     {
@@ -633,7 +641,8 @@
       "translations": {
         "lxx": "And every man that is wise in heart among you, let him come and work all things whatsoever the Lord has commanded.",
         "kjv": "And every wise hearted among you shall come, and make all that the LORD hath commanded;",
-        "ron": "Tot cel cu minte înţeleaptă dintre voi să vină şi să facă toate câte a poruncit Domnul:"
+        "ron": "Tot cel cu minte înţeleaptă dintre voi să vină şi să facă toate câte a poruncit Domnul:",
+        "grk": "Καὶ πᾶς σοφὸς τῇ καρδίᾳ ἐν ὑμῖν, ἐλθὼν ἐργαζέσθω πάντα ὅσα συνέταξε Κύριος·"
       }
     },
     {
@@ -665,7 +674,8 @@
       "translations": {
         "lxx": "The tabernacle, and the cords, and the coverings, and the rings, and the bars, and the posts,",
         "kjv": "The tabernacle, his tent, and his covering, his taches, and his boards, his bars, his pillars, and his sockets,",
-        "ron": "Cortul şi acoperămintele lui, acoperişul lui cel de deasupra, verigile şi scândurile lui, pârghiile, stâlpii şi postamentele lor;"
+        "ron": "Cortul şi acoperămintele lui, acoperişul lui cel de deasupra, verigile şi scândurile lui, pârghiile, stâlpii şi postamentele lor;",
+        "grk": "Τὴν σκηνὴν, καὶ τὰ παραρύματα, καὶ τὰ κατακαλύμματα, καὶ τὰ διατόνια, καὶ τοὺς μοχλοὺς, καὶ τοὺς στύλους,"
       }
     },
     {
@@ -692,7 +702,8 @@
       "translations": {
         "lxx": "and the curtains of the court, and its posts, and the emerald stones, and the incense, and the anointing oil,",
         "kjv": "The ark, and the staves thereof, with the mercy seat, and the vail of the covering,",
-        "ron": "Chivotul legii şi pârghiile lui, capacul lui şi perdeaua despărţitoare, pietre de smarald, tămâie şi mir de ungere;"
+        "ron": "Chivotul legii şi pârghiile lui, capacul lui şi perdeaua despărţitoare, pietre de smarald, tămâie şi mir de ungere;",
+        "grk": "καὶ τὴν κιβωτὸν τοῦ μαρτυρίου, καὶ τοὺς ἀναφορεῖς αὐτῆς, καὶ τὸ ἱλαστήριον αὐτῆς, καὶ τὸ καταπέτασμα, καὶ τὰ ἱστία τῆς αὐλῆς, καὶ τοὺς στύλους αὐτῆς, καὶ τοὺς λίθους τοὺς τῆς σμαράγδου, καὶ τὸ θυμίαμα, καὶ τὸ ἔλαιον τοῦ χρίσματος,"
       }
     },
     {
@@ -714,7 +725,8 @@
       "translations": {
         "lxx": "and the table and all its furniture,",
         "kjv": "The table, and his staves, and all his vessels, and the shewbread,",
-        "ron": "Masa cu pârghiile şi toate uneltele ei şi pâinile pentru punerea înainte,"
+        "ron": "Masa cu pârghiile şi toate uneltele ei şi pâinile pentru punerea înainte,",
+        "grk": "καὶ τὴν τράπεζαν καὶ πάντα τὰ σκεύη αὐτῆς,"
       }
     },
     {
@@ -741,7 +753,8 @@
       "translations": {
         "lxx": "and the candlestick for the light and all its furniture,",
         "kjv": "The candlestick also for the light, and his furniture, and his lamps, with the oil for the light,",
-        "ron": "Sfeşnicul pentru luminat cu toate obiectele lui, candelele lui şi untdelemnul de ars;"
+        "ron": "Sfeşnicul pentru luminat cu toate obiectele lui, candelele lui şi untdelemnul de ars;",
+        "grk": "καὶ τὴν λυχνίαν τοῦ φωτὸς καὶ πάντα τὰ σκεύη αὐτῆς,"
       }
     },
     {
@@ -809,7 +822,8 @@
       "translations": {
         "lxx": "and the altar and all its furniture;",
         "kjv": "The altar of burnt offering, with his brasen grate, his staves, and all his vessels, the laver and his foot,",
-        "ron": "Jertfelnicul pentru arderile de tot, împletitura de sârmă pentru el, pârghiile lui şi toate cele de trebuinţă pentru el; baia şi postamentul ei,"
+        "ron": "Jertfelnicul pentru arderile de tot, împletitura de sârmă pentru el, pârghiile lui şi toate cele de trebuinţă pentru el; baia şi postamentul ei,",
+        "grk": "καὶ τὸ θυσιαστήριον καὶ πάντα τὰ σκεύη αὐτοῦ,"
       }
     },
     {
@@ -933,7 +947,8 @@
       "translations": {
         "lxx": "and the holy garments of Aaron the priest, and the garments in which they shall do service; and the garments of priesthood for the sons of Aaron and the anointing oil, and the compound incense.",
         "kjv": "The cloths of service, to do service in the holy place, the holy garments for Aaron the priest, and the garments of his sons, to minister in the priest’s office.",
-        "ron": "Veşmintele sfinte pentru făcut slujba în locaşul sfânt; veşminte sfinte pentru Aaron preotul şi veşminte pentru fiii lui, pentru slujba preoţiei\"."
+        "ron": "Veşmintele sfinte pentru făcut slujba în locaşul sfânt; veşminte sfinte pentru Aaron preotul şi veşminte pentru fiii lui, pentru slujba preoţiei\".",
+        "grk": "καὶ τὰς στολὰς τὰς ἁγίας Ἀαρὼν τοῦ ἱερέως, καὶ τὰς στολὰς ἐν αἷς λειτουργήσουσιν ἐν αὐταῖς, καὶ τοὺς χιτῶνας τοῖς υἱοῖς Ἀαρὼν τῆς ἱερατίας, καὶ τὸ ἔλαιον τοῦ χρίσματος, καὶ τὸ θυμίαμα τῆς συνθέσεως."
       }
     },
     {
@@ -980,7 +995,8 @@
       "translations": {
         "lxx": "And all the congregation of the children of Israel went out from Moses. And they brought, they whose heart prompted them, and they to whomsoever it seemed good in their mind, each an offering:",
         "kjv": "And all the congregation of the children of Israel departed from the presence of Moses.",
-        "ron": "După aceea, plecând toată obştea fiilor lui Israel de la Moise,"
+        "ron": "După aceea, plecând toată obştea fiilor lui Israel de la Moise,",
+        "grk": "Καὶ ἐξῆλθε πᾶσα συναγωγὴ υἱῶν Ἰσραὴλ ἀπὸ Μωυσῆ."
       }
     },
     {
@@ -1097,7 +1113,8 @@
       "translations": {
         "lxx": "and they brought an offering to the Lord for all the works of the tabernacle of witness, and all its services, and for all the robes of the sanctuary.",
         "kjv": "And they came, every one whose heart stirred him up, and every one whom his spirit made willing, and they brought the LORD’s offering to the work of the tabernacle of the congregation, and for all his service, and for the holy garments.",
-        "ron": "A adus fiecare cât l-a lăsat inima sa şi cât l-a îndemnat cugetul să aducă dar Domnului, pentru facerea cortului adunării şi a tuturor lucrurilor lui şi pentru toate veşmintele sfinte."
+        "ron": "A adus fiecare cât l-a lăsat inima sa şi cât l-a îndemnat cugetul să aducă dar Domnului, pentru facerea cortului adunării şi a tuturor lucrurilor lui şi pentru toate veşmintele sfinte.",
+        "grk": "Καὶ ἤνεγκαν ἕκαστος, ὧν ἔφερεν ἡ καρδία αὐτῶν, καὶ ὅσοις ἔδοξε τῇ ψυχῇ αὐτῶν, ἀφαίρεμα· καὶ ἤνεγκαν ἀφαίρεμα Κυρίῳ εἰς πάντα τὰ ἔργα τῆς σκηνῆς τοῦ μαρτυρίου, καὶ εἰς πάντα τὰ κάτεργα αὐτῆς καὶ εἰς πάσας τὰς στολὰς τοῦ ἁγίου."
       }
     },
     {
@@ -1194,7 +1211,8 @@
       "translations": {
         "lxx": "And the men, even every one to whom it seemed good in his heart, brought from the women, even brought seals and ear-rings, and finger-rings, and necklaces, and bracelets, every article of gold.",
         "kjv": "And they came, both men and women, as many as were willing hearted, and brought bracelets, and earrings, and rings, and tablets, all jewels of gold: and every man that offered offered an offering of gold unto the LORD.",
-        "ron": "Şi veneau bărbaţii cu femeile şi fiecare, după cum îl lăsa inima, aducea verigi, cercei, inele, brăţări şi tot felul de lucruri de aur; cum voia fiecare să aducă Domnului daruri de aur."
+        "ron": "Şi veneau bărbaţii cu femeile şi fiecare, după cum îl lăsa inima, aducea verigi, cercei, inele, brăţări şi tot felul de lucruri de aur; cum voia fiecare să aducă Domnului daruri de aur.",
+        "grk": "Καὶ ἤνεγκαν οἱ ἄνδρες παρὰ τῶν γυναικῶν, πᾶς ᾧ ἔδοξε τῇ διανοίᾳ, ἤνεγκαν σφραγίδας, καὶ ἐνώτια, καὶ δακτυλίους, καὶ ἐμπλόκια, καὶ περιδέξια, πᾶν σκεῦος χρυσοῦν."
       }
     },
     {
@@ -1271,7 +1289,8 @@
       "translations": {
         "lxx": "And all as many as brought ornaments of gold to the Lord, and with whomsoever fine linen was found; and they brought skins dyed blue, and rams' skins dyed red.",
         "kjv": "And every man, with whom was found blue, and purple, and scarlet, and fine linen, and goats’ hair, and red skins of rams, and badgers’ skins, brought them.",
-        "ron": "Fiecare din cei ce aveau mătase violetă, stacojie şi vişinie, în şi păr de capră, piei de berbec vopsite roşu şi vânăt, le aducea."
+        "ron": "Fiecare din cei ce aveau mătase violetă, stacojie şi vişinie, în şi păr de capră, piei de berbec vopsite roşu şi vânăt, le aducea.",
+        "grk": "Καὶ πάντες ὅσοι ἤνεγκαν ἀφαιρέματα χρυσίου Κυρίῳ, καὶ παρʼ ᾧ εὑρέθη βύσσος· καὶ δέρματα ὑακίνθινα καὶ δέρματα κριῶν ἠρυθροδανωμένα ἤνεγκαν."
       }
     },
     {
@@ -1373,7 +1392,8 @@
       "translations": {
         "lxx": "And every one that offered an offering brought silver and brass, the offerings to the Lord; and they with whom was found incorruptible wood; and they brought offerings for all the works of the preparation.",
         "kjv": "Every one that did offer an offering of silver and brass brought the LORD’s offering: and every man, with whom was found shittim wood for any work of the service, brought it.",
-        "ron": "Fiecare din cei ce puteau să aducă în dar argint sau aramă, aducea din acestea Domnului; şi fiecare din cei ce aveau lemn de salcâm, aducea pentru toate cele de trebuinţă;"
+        "ron": "Fiecare din cei ce puteau să aducă în dar argint sau aramă, aducea din acestea Domnului; şi fiecare din cei ce aveau lemn de salcâm, aducea pentru toate cele de trebuinţă;",
+        "grk": "Καὶ πᾶς ὁ ἀφαιρῶν ἀφαίρεμα, ἤνεγκαν ἀργύριον καὶ χαλκὸν, τὰ ἀφαιρέματα Κυρίῳ· καὶ παρʼ οἷς εὑρέθη ξύλα ἄσηπτα· καὶ εἰς πάντα τὰ ἔργα τῆς παρασκευῆς ἤνεγκαν."
       }
     },
     {
@@ -1460,7 +1480,8 @@
       "translations": {
         "lxx": "And every woman skilled in her heart to spin with her hands, brought spun articles, the blue, and purple, and scarlet and fine linen.",
         "kjv": "And all the women that were wise hearted did spin with their hands, and brought that which they had spun, both of blue, and of purple, and of scarlet, and of fine linen.",
-        "ron": "Toate femeile cu minte iscusită torceau cu mâinile lor şi aduceau tort, mătase violetă, stacojie şi vişinie şi în."
+        "ron": "Toate femeile cu minte iscusită torceau cu mâinile lor şi aduceau tort, mătase violetă, stacojie şi vişinie şi în.",
+        "grk": "Καὶ πᾶσα γυνὴ σοφὴ τῇ διανοίᾳ ταῖς χερσὶ νήθειν, ἤνεγκαν νενησμένα, τὴν ὑάκινθον, καὶ τὴν πορφύραν, καὶ τὸ κόκκινον, καὶ τὴν βύσσον."
       }
     },
     {
@@ -1517,7 +1538,8 @@
       "translations": {
         "lxx": "And all the women to whom it seemed good in their heart in their wisdom, spun the goats' hair.",
         "kjv": "And all the women whose heart stirred them up in wisdom spun goats’ hair.",
-        "ron": "Toate femeile, pe care le trăgea inima şi ştiau să toarcă, torceau păr de capră;"
+        "ron": "Toate femeile, pe care le trăgea inima şi ştiau să toarcă, torceau păr de capră;",
+        "grk": "Καὶ πᾶσαι αἱ γυναῖκες, αἷς ἔδοξε τῇ διανοίᾳ αὐτῶν ἐν σοφίᾳ, ἔνησαν τὰς τρίχας τὰς αἰγείας."
       }
     },
     {
@@ -1584,7 +1606,8 @@
       "translations": {
         "lxx": "And the rulers brought the emerald stones, and the stones for setting in the ephod, and the oracle,",
         "kjv": "And the rulers brought onyx stones, and stones to be set, for the ephod, and for the breastplate;",
-        "ron": "Iar căpeteniile aduceau pietre de smarald şi pietre scumpe de pus la efod şi la hoşen,"
+        "ron": "Iar căpeteniile aduceau pietre de smarald şi pietre scumpe de pus la efod şi la hoşen,",
+        "grk": "Καὶ οἱ ἄρχοντες ἤνεγκαν τοὺς λίθους τῆς σμαράγδου, καὶ τοὺς λίθους τῆς πληρώσεως εἰς τὴν ἐπωμίδα, καὶ τὸ λογεῖον,"
       }
     },
     {
@@ -1616,7 +1639,8 @@
       "translations": {
         "lxx": "and the compounds both for the anointing oil, and the composition of the incense.",
         "kjv": "And spice, and oil for the light, and for the anointing oil, and for the sweet incense.",
-        "ron": "Precum şi miresme, untdelemn pentru candelabru, mir de ungere şi miresme de tămâiere."
+        "ron": "Precum şi miresme, untdelemn pentru candelabru, mir de ungere şi miresme de tămâiere.",
+        "grk": "καὶ τὰς συνθέσεις, καὶ εἰς τὸ ἔλαιον τῆς χρίσεως, καὶ τὴν συνθεσιν τοῦ θυμιάματος."
       }
     },
     {
@@ -1723,7 +1747,8 @@
       "translations": {
         "lxx": "And every man and woman whose mind inclined them to come in and do all the works as many as the Lord appointed them to do by Moses—they the children of Israel brought an offering to the Lord.",
         "kjv": "The children of Israel brought a willing offering unto the LORD, every man and woman, whose heart made them willing to bring for all manner of work, which the LORD had commanded to be made by the hand of Moses.",
-        "ron": "Deci tot bărbatul şi femeia din fiii lui Israel, pe care i-a tras inima să aducă pentru toate lucrurile ce poruncise Domnul prin Moise să se facă, au adus dar de bună voie Domnului."
+        "ron": "Deci tot bărbatul şi femeia din fiii lui Israel, pe care i-a tras inima să aducă pentru toate lucrurile ce poruncise Domnul prin Moise să se facă, au adus dar de bună voie Domnului.",
+        "grk": "Καὶ πᾶς ἀνὴρ καὶ γυνὴ, ὧν ἔφερεν ἡ διάνοια αὐτῶν εἰσελθόντας ποιεῖν πάντα τὰ ἔργα, ὅσα συνέταξε Κύριος ποιῆσαι αὐτὰ διὰ Μωυσῆ, ἤνεγκαν οἱ υἱοὶ Ἰσραὴλ, ἀφαίρεμα Κυρίῳ."
       }
     },
     {
@@ -1805,7 +1830,8 @@
       "translations": {
         "lxx": "And Moses said to the children of Israel, Behold, God has called by name Beseleel the son of Urias the son of Or, of the tribe of Juda,",
         "kjv": "And Moses said unto the children of Israel, See, the LORD hath called by name Bezaleel the son of Uri, the son of Hur, of the tribe of Judah;",
-        "ron": "Apoi a zis Moise către fiii lui Israel: \"Iată Domnul a chemat anume pe Beţaleel, fiul lui Uri al lui Or, din seminţia lui Iuda,"
+        "ron": "Apoi a zis Moise către fiii lui Israel: \"Iată Domnul a chemat anume pe Beţaleel, fiul lui Uri al lui Or, din seminţia lui Iuda,",
+        "grk": "Καὶ εἶπε Μωυσῆς τοῖς υἱοῖς Ἰσραὴλ, Ἰδοὺ ἀνακέκληκεν ὁ Θεὸς ἐξ ὀνόματος τὸν Βεσελεὴλ τὸν τοῦ Οὐρείου τὸν Ὢρ, ἐκ τῆς φυλῆς Ἰούδα,"
       }
     },
     {
@@ -1847,7 +1873,8 @@
       "translations": {
         "lxx": "and has filled him with a divine spirit of wisdom and understanding, and knowledge of all things,",
         "kjv": "And he hath filled him with the spirit of God, in wisdom, in understanding, and in knowledge, and in all manner of workmanship;",
-        "ron": "Şi l-a umplut de duhul dumnezeiesc al înţelepciunii, al priceperii, al ştiinţei şi a toată iscusinţa,"
+        "ron": "Şi l-a umplut de duhul dumnezeiesc al înţelepciunii, al priceperii, al ştiinţei şi a toată iscusinţa,",
+        "grk": "καὶ ἐνέπλησεν αὐτὸν πνεῦμα θεῖον σοφίας καὶ συνέσεως, καὶ ἐπιστήμης πάντων,"
       }
     },
     {
@@ -1934,7 +1961,8 @@
       "translations": {
         "lxx": "to labour skilfully in all works of cunning workmanship, to form the gold and the silver and the brass,",
         "kjv": "And to devise curious works, to work in gold, and in silver, and in brass,",
-        "ron": "Ca să lucreze ţesături iscusite, să facă lucruri de aur, de argint şi de aramă;"
+        "ron": "Ca să lucreze ţesături iscusite, să facă lucruri de aur, de argint şi de aramă;",
+        "grk": "ἀρχιτεκτονεῖν κατὰ πάντα τὰ ἔργα τῆς ἀρχιτεκτονίας, ποιεῖν τὸ χρυσίον καὶ τὸ ἀργύριον καὶ τὸν χαλκόν,"
       }
     },
     {
@@ -1986,7 +2014,8 @@
       "translations": {
         "lxx": "and to work in stone, and to fashion the wood, and to work in every work of wisdom.",
         "kjv": "And in the cutting of stones, to set them, and in carving of wood, to make any manner of cunning work.",
-        "ron": "Să cioplească pietrele scumpe pentru încrustat, să sape în lemn şi să facă tot felul de lucruri iscusite."
+        "ron": "Să cioplească pietrele scumpe pentru încrustat, să sape în lemn şi să facă tot felul de lucruri iscusite.",
+        "grk": "καὶ λιθουργῆσαι τὸν λίθον, καὶ κατεργάζεσθαι τὰ ξύλα, καὶ ποιεῖν ἐν παντὶ ἔργῳ σοφίας."
       }
     },
     {
@@ -2048,7 +2077,8 @@
       "translations": {
         "lxx": "And God gave improvement in understanding both to him, and to Eliab the son of Achisamach of the tribe of Dan.",
         "kjv": "And he hath put in his heart that he may teach, both he, and Aholiab, the son of Ahisamach, of the tribe of Dan.",
-        "ron": "Şi priceperea de a învăţa pe alţii a pus-o în inima lui, în a lui şi a lui Oholiab, fiul lui Ahisamac, din seminţia lui Dan."
+        "ron": "Şi priceperea de a învăţa pe alţii a pus-o în inima lui, în a lui şi a lui Oholiab, fiul lui Ahisamac, din seminţia lui Dan.",
+        "grk": "Καὶ προβιβάσαι γε ἔδωκεν ἐν τῇ διανοίᾳ αὐτῷ τε, καὶ τῷ Ἐλιὰβ τῷ τοῦ Ἀχισαμὰκ, ἐκ φυλῆς Δάν·"
       }
     },
     {
@@ -2160,7 +2190,8 @@
       "translations": {
         "lxx": "And God filled them with wisdom, understanding and perception, to understand to work all the works of the sanctuary, and to weave the woven and embroidered work with scarlet and fine linen, to do all work of curious workmanship and embroidery.",
         "kjv": "Them hath he filled with wisdom of heart, to work all manner of work, of the engraver, and of the cunning workman, and of the embroiderer, in blue, and in purple, in scarlet, and in fine linen, and of the weaver, even of them that do any work, and of those that devise cunning work.",
-        "ron": "A umplut inima acestora de înţelepciune, ca să facă pentru locaşul sfânt orice lucru de săpător şi de ţesător iscusit, de cusător pe pânză de mătase violetă, stacojie şi vişinie şi de în, şi de ţesător în stare de a face orice lucru şi a născoci ţesături iscusite\"."
+        "ron": "A umplut inima acestora de înţelepciune, ca să facă pentru locaşul sfânt orice lucru de săpător şi de ţesător iscusit, de cusător pe pânză de mătase violetă, stacojie şi vişinie şi de în, şi de ţesător în stare de a face orice lucru şi a născoci ţesături iscusite\".",
+        "grk": "Καὶ ἐνέπλησεν αὐτοὺς σοφίας, συνέσεως, διανοίας, πάντα συνιέναι ποιῆσαι τὰ ἔργα τοῦ ἁγίου, καὶ τὰ ὑφαντὰ καὶ ποικιλτὰ ὑφάναι τῷ κοκκίνῳ, καὶ τῇ βύσσῳ, ποιεῖν πᾶν ἔργον ἀρχιτεκτονίας, ποικιλίας."
       }
     }
   ],

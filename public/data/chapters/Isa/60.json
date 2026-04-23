@@ -56,7 +56,8 @@
       "translations": {
         "lxx": "Be enlightened, be enlightened, O Jerusalem, for thy light is come, and the glory of the Lord is risen upon thee.",
         "kjv": "Arise, shine; for thy light is come, and the glory of the LORD is risen upon thee.",
-        "ron": "Luminează-te, luminează-te, Ierusalime, că vine lumina ta, şi slava Domnului peste tine a răsărit!"
+        "ron": "Luminează-te, luminează-te, Ierusalime, că vine lumina ta, şi slava Domnului peste tine a răsărit!",
+        "grk": "Φωτίζου φωτίζου Ἱερουσαλὴμ, ἥκει γάρ σου τὸ φῶς, καὶ ἡ δόξα Κυρίου ἐπὶ σὲ ἀνατέταλκεν."
       }
     },
     {
@@ -133,7 +134,8 @@
       "translations": {
         "lxx": "Behold, darkness shall cover the earth, and there shall be gross darkness on the nations: but the Lord shall appear upon thee, and his glory shall be seen upon thee.",
         "kjv": "For, behold, the darkness shall cover the earth, and gross darkness the people: but the LORD shall arise upon thee, and his glory shall be seen upon thee.",
-        "ron": "Căci iată întunericul acoperă pământul, şi bezna, popoarele; iar peste tine răsare Domnul, şi slava Lui străluceşte peste tine."
+        "ron": "Căci iată întunericul acoperă pământul, şi bezna, popoarele; iar peste tine răsare Domnul, şi slava Lui străluceşte peste tine.",
+        "grk": "Ἰδοὺ, σκότος καλύψει γῆν, καὶ γνόφος ἐπʼ ἔθνη, ἐπὶ δὲ σὲ φανήσεται Κύριος, καὶ ἡ δόξα αὐτοῦ ἐπὶ σὲ ὀφθήσεται."
       }
     },
     {
@@ -170,7 +172,8 @@
       "translations": {
         "lxx": "And kings shall walk in thy light, and nations in thy brightness.",
         "kjv": "And the Gentiles shall come to thy light, and kings to the brightness of thy rising.",
-        "ron": "Şi vor umbla regi întru lumina ta şi neamuri întru strălucirea ta."
+        "ron": "Şi vor umbla regi întru lumina ta şi neamuri întru strălucirea ta.",
+        "grk": "Καὶ πορεύσονται βασιλεῖς τῷ φωτί σου, καὶ ἔθνη τῇ λαμπρότητί σου."
       }
     },
     {
@@ -252,7 +255,8 @@
       "translations": {
         "lxx": "Lift up thine eyes round about, and behold thy children gathered: all thy sons have come from far, and thy daughters shall be borne on men's shoulders.",
         "kjv": "Lift up thine eyes round about, and see: all they gather themselves together, they come to thee: thy sons shall come from far, and thy daughters shall be nursed at thy side.",
-        "ron": "Ridică împrejur ochii tăi şi vezi, că toţi se adună şi se îndreaptă către tine. Fiii tăi vin de departe şi fiicele tale sunt aduse pe umeri."
+        "ron": "Ridică împrejur ochii tăi şi vezi, că toţi se adună şi se îndreaptă către tine. Fiii tăi vin de departe şi fiicele tale sunt aduse pe umeri.",
+        "grk": "Ἆρον κύκλῳ τοὺς ὀφθαλμούς σου, καὶ ἴδε συνηγμένα τὰ τέκνα σου· ἥκασι πάντες οἱ υἱοί σου μακρόθεν, καὶ αἱ θυγατέρες σου ἐπʼ ὤμων ἀρθήσονται."
       }
     },
     {
@@ -324,7 +328,8 @@
       "translations": {
         "lxx": "Then shalt thou see, and fear, and be amazed in thine heart; for the wealth of the sea shall come round to thee, and of nations and peoples; and herds of camels shall come to thee,",
         "kjv": "Then thou shalt see, and flow together, and thine heart shall fear, and be enlarged; because the abundance of the sea shall be converted unto thee, the forces of the Gentiles shall come unto thee.",
-        "ron": "Atunci vei vedea, vei străluci şi va bate tare inima ta şi se va lărgi, căci către tine se va îndrepta bogăţia mării şi avuţiile popoarelor către tine vor curge."
+        "ron": "Atunci vei vedea, vei străluci şi va bate tare inima ta şi se va lărgi, căci către tine se va îndrepta bogăţia mării şi avuţiile popoarelor către tine vor curge.",
+        "grk": "Τότε ὄψῃ, καὶ φοβηθήσῃ, καὶ ἐκστήσῃ τῇ καρδίᾳ, ὅτι μεταβαλεῖ εἰς σὲ πλοῦτος θαλάσσης, καὶ ἐθνῶν καὶ λαῶν, καὶ ἥξουσί σοι ἀγέλαι καμήλων,"
       }
     },
     {
@@ -371,7 +376,8 @@
       "translations": {
         "lxx": "and the camels of Madiam and Gæpha shall cover thee: all from Saba shall come bearing gold, and shall bring frankincense, and they shall publish the salvation of the Lord.",
         "kjv": "The multitude of camels shall cover thee, the dromedaries of Midian and Ephah; all they from Sheba shall come: they shall bring gold and incense; and they shall shew forth the praises of the LORD.",
-        "ron": "Caravane de cămile te vor acoperi, şi dromadere din Madian şi Efa. Toate sosesc din Şeba, încărcate cu aur şi cu tămâie, cântând laudele Domnului."
+        "ron": "Caravane de cămile te vor acoperi, şi dromadere din Madian şi Efa. Toate sosesc din Şeba, încărcate cu aur şi cu tămâie, cântând laudele Domnului.",
+        "grk": "καὶ καλύψουσί σε κάμηλοι Μαδιὰμ καὶ Γαιφά· πάντες ἐκ Σαβὰ ἥξουσι φέροντες χρυσίον καὶ λίβανον οἴσουσιν, καὶ τὸ σωτήριον Κυρίου εὐαγγελιοῦνται."
       }
     },
     {
@@ -453,7 +459,8 @@
       "translations": {
         "lxx": "And all the flocks of Kedar shall be gathered, and the rams of Nabæoth shall come; and acceptable sacrifices shall be offered on my altar, and my house of prayer shall be glorified.",
         "kjv": "All the flocks of Kedar shall be gathered together unto thee, the rams of Nebaioth shall minister unto thee: they shall come up with acceptance on mine altar, and I will glorify the house of my glory.",
-        "ron": "Toate turmele Chedarului la tine se vor aduna, berbecii din Nebaiot te vor sluji pe tine şi ca o jertfă bineplăcută se vor urca pe jertfelnicul Meu, şi templul rugăciunii Mele se va slăvi."
+        "ron": "Toate turmele Chedarului la tine se vor aduna, berbecii din Nebaiot te vor sluji pe tine şi ca o jertfă bineplăcută se vor urca pe jertfelnicul Meu, şi templul rugăciunii Mele se va slăvi.",
+        "grk": "Καὶ πάντα τὰ πρόβατα Κηδὰρ συναχθήσονται, καὶ κριοὶ Ναβαιὼθ ἥξουσι, καὶ ἀνενεχθήσεται δεκτὰ ἐπὶ τὸ θυσιαστήριόν μου, καὶ ὁ οἶκος τῆς προσευχῆς μου δοξασθήσεται."
       }
     },
     {
@@ -515,7 +522,8 @@
       "translations": {
         "lxx": "Who are these that fly as clouds, and as doves with young ones to me?",
         "kjv": "Who are these that fly as a cloud, and as the doves to their windows?",
-        "ron": "Cine zboară ca norii şi ca porumbiţa spre sălaşul ei?"
+        "ron": "Cine zboară ca norii şi ca porumbiţa spre sălaşul ei?",
+        "grk": "Τίνες οἵδε, ὡς νεφέλαι πέτονται, καὶ ὡσεὶ περιστεραὶ σὺν νοσσοῖς ἐπʼ ἐμέ;"
       }
     },
     {
@@ -622,7 +630,8 @@
       "translations": {
         "lxx": "The isles have waited for me, and the ships of Tharsis among the first, to bring thy children from afar, and their silver and their gold with them, and that for the sake of the holy name of the Lord, and because the Holy One of Israel is glorified.",
         "kjv": "Surely the isles shall wait for me, and the ships of Tarshish first, to bring thy sons from far, their silver and their gold with them, unto the name of the LORD thy God, and to the Holy One of Israel, because he hath glorified thee.",
-        "ron": "Căci pentru Mine se adună corăbiile, în frunte cu cele din Tarsis, ca să aducă de departe pe feciorii tăi; aurul şi argintul lor pentru numele Dumnezeului tău şi pentru Sfântul lui Israel, Care te preamăreşte."
+        "ron": "Căci pentru Mine se adună corăbiile, în frunte cu cele din Tarsis, ca să aducă de departe pe feciorii tăi; aurul şi argintul lor pentru numele Dumnezeului tău şi pentru Sfântul lui Israel, Care te preamăreşte.",
+        "grk": "Ἐμὲ αἱ νῆσοι ὑπέμειναν, καὶ πλοῖα Θαρσεὶς ἐν πρώτοις, ἀγαγεῖν τὰ τέκνα σου μακρόθεν, καὶ τὸν ἄργυρον καὶ τὸν χρυσὸν αὐτῶν μετʼ αὐτῶν, καὶ διὰ τὸ ὄνομα Κυρίου τὸ ἅγιον, καὶ διὰ τὸ τὸν ἅγιον τοῦ Ἰσραὴλ ἔνδοξον εἶναι."
       }
     },
     {
@@ -684,7 +693,8 @@
       "translations": {
         "lxx": "And strangers shall build thy walls, and their kings shall wait upon thee: for by reason of my wrath I smote thee, and by reason of mercy I loved thee.",
         "kjv": "And the sons of strangers shall build up thy walls, and their kings shall minister unto thee: for in my wrath I smote thee, but in my favour have I had mercy on thee.",
-        "ron": "Feciorii de neam străin zidi-vor zidurile tale şi regii lor în slujba ta vor fi, că întru mânia Mea te-am lovit şi în îndurarea Mea M-am milostivit de tine."
+        "ron": "Feciorii de neam străin zidi-vor zidurile tale şi regii lor în slujba ta vor fi, că întru mânia Mea te-am lovit şi în îndurarea Mea M-am milostivit de tine.",
+        "grk": "Καὶ οἰκοδομήσουσιν ἀλλογενεῖς τὰ τείχη σου, καὶ οἱ βασιλεῖς αὐτῶν παραστήσονταί σοι· διὰ γὰρ ὀργήν μου ἐπάταξά σε, καὶ διὰ ἔλεον ἠγάπησά σε."
       }
     },
     {
@@ -766,7 +776,8 @@
       "translations": {
         "lxx": "And thy gates shall be opened continually; they shall not be shut day nor night; to bring in to thee the power of the Gentiles, and their kings as captives.",
         "kjv": "Therefore thy gates shall be open continually; they shall not be shut day nor night; that men may bring unto thee the forces of the Gentiles, and that their kings may be brought.",
-        "ron": "Porţile tale mereu vor fi în lături, zi şi noapte vor rămâne deschise, ca să se care la tine bogăţiile neamurilor, iar regii lor în fruntea lor vor fi."
+        "ron": "Porţile tale mereu vor fi în lături, zi şi noapte vor rămâne deschise, ca să se care la tine bogăţiile neamurilor, iar regii lor în fruntea lor vor fi.",
+        "grk": "Καὶ ἀνοιχθήσονται αἱ πύλαι σου διαπαντὸς, ἡμέρας καὶ νυκτὸς οὐ κλεισθήσονται, εἰσαγαγεῖν πρὸς σὲ δύναμιν ἐθνῶν, καὶ βασιλεῖς αὐτῶν ἀγομένους."
       }
     },
     {
@@ -818,7 +829,8 @@
       "translations": {
         "lxx": "For the nations and the kings which will not serve thee shall perish; and those nations shall be made utterly desolate.",
         "kjv": "For the nation and kingdom that will not serve thee shall perish; yea, those nations shall be utterly wasted.",
-        "ron": "Căci neamul şi regatul care nu vor sluji ţie vor pieri şi neamurile acelea vor fi nimicite."
+        "ron": "Căci neamul şi regatul care nu vor sluji ţie vor pieri şi neamurile acelea vor fi nimicite.",
+        "grk": "Τὰ γὰρ ἔθνη καὶ οἱ βασιλεῖς, οἵτινες οὐ δουλεύσουσί σοι, ἀπολοῦνται, καὶ τὰ ἔθνη ἐρημίᾳ ἐρημωθήσεται."
       }
     },
     {
@@ -885,7 +897,8 @@
       "translations": {
         "lxx": "And the glory of Libanus shall come to thee, with the cypress, and pine, and cedar together, to glorify my holy place.",
         "kjv": "The glory of Lebanon shall come unto thee, the fir tree, the pine tree, and the box together, to beautify the place of my sanctuary; and I will make the place of my feet glorious.",
-        "ron": "Mărirea Libanului, chiparosul, ulmul şi merişorul la tine vor veni, cu toţii laolaltă, ca să împodobească locaşul cel sfânt al Meu, şi Eu voi slăvi locul unde se odihnesc picioarele Mele."
+        "ron": "Mărirea Libanului, chiparosul, ulmul şi merişorul la tine vor veni, cu toţii laolaltă, ca să împodobească locaşul cel sfânt al Meu, şi Eu voi slăvi locul unde se odihnesc picioarele Mele.",
+        "grk": "Καὶ ἡ δόξα τοῦ Λιβάνου πρὸς σὲ ἥξει, ἐν κυπαρίσσῳ καὶ πεύκῃ καὶ κέδρῳ ἅμα, δοξάσαι τὸν τόπον τὸν ἅγιόν μου."
       }
     },
     {
@@ -977,7 +990,8 @@
       "translations": {
         "lxx": "And the sons of them that afflicted thee, and of them that provoked thee, shall come to thee in fear; and thou shalt be called Sion, the city of the Holy One of Israel.",
         "kjv": "The sons also of them that afflicted thee shall come bending unto thee; and all they that despised thee shall bow themselves down at the soles of thy feet; and they shall call thee, The city of the LORD, The Zion of the Holy One of Israel.",
-        "ron": "Şi feciorii asupritorilor tăi smeriţi la tine vor veni şi se vor închina la picioarele tale toţi cei ce te-au urât şi pe tine te vor numi: cetatea Domnului, Sionul Sfântului lui Israel."
+        "ron": "Şi feciorii asupritorilor tăi smeriţi la tine vor veni şi se vor închina la picioarele tale toţi cei ce te-au urât şi pe tine te vor numi: cetatea Domnului, Sionul Sfântului lui Israel.",
+        "grk": "Καὶ πορεύσονται πρὸς σὲ δεδοικότες υἱοὶ ταπεινωσάντων σε, καὶ παροξυνάντων σε, καὶ κληθήσῃ Πόλις Σιὼν ἀγίου Ἰσραήλ."
       }
     },
     {
@@ -1019,7 +1033,8 @@
       "translations": {
         "lxx": "Because thou hast become desolate and hated, and there was no helper, therefore I will make thee a perpetual gladness, a joy of many generations.",
         "kjv": "Whereas thou hast been forsaken and hated, so that no man went through thee, I will make thee an eternal excellency, a joy of many generations.",
-        "ron": "Din părăsită şi defăimată ce erai pe veci, voi face din tine mândria veacurilor, bucurie din neam în neam."
+        "ron": "Din părăsită şi defăimată ce erai pe veci, voi face din tine mândria veacurilor, bucurie din neam în neam.",
+        "grk": "Διὰ τὸ γεγενῆσθαί σε ἐνκαταλελειμμένην καὶ μεμισημένην, καὶ οὐκ ἦν ὁ βοηθῶν· καὶ θήσω σε ἀγαλλίαμα αἰώνιον, εὐφροσύνην γενεῶν γενεαῖς."
       }
     },
     {
@@ -1101,7 +1116,8 @@
       "translations": {
         "lxx": "And thou shalt suck the milk of the Gentiles, and shalt eat the wealth of kings: and shalt know that I am the Lord that saves thee and delivers thee, the Holy One of Israel.",
         "kjv": "Thou shalt also suck the milk of the Gentiles, and shalt suck the breast of kings: and thou shalt know that I the LORD am thy Saviour and thy Redeemer, the mighty One of Jacob.",
-        "ron": "Tu vei suge laptele neamurilor şi vei mânca bunătăţile regilor. Şi vei şti că Eu, Domnul, sunt Mântuitorul tău, că Cel puternic al lui Iacov este Răscumpărătorul tău."
+        "ron": "Tu vei suge laptele neamurilor şi vei mânca bunătăţile regilor. Şi vei şti că Eu, Domnul, sunt Mântuitorul tău, că Cel puternic al lui Iacov este Răscumpărătorul tău.",
+        "grk": "Καὶ θηλάσεις γάλα ἐθνῶν, καὶ πλοῦτον βασιλέων φάγεσαι, καὶ γνώσῃ ὅτι ἐγὼ Κύριος ὁ σώζων σε, καὶ ἐξαιρούμενός σε Θεὸς Ἰσραήλ."
       }
     },
     {
@@ -1183,7 +1199,8 @@
       "translations": {
         "lxx": "And for brass I will bring thee gold, and for iron I will bring thee silver, and instead of wood I will bring thee brass, and instead of stones, iron; and I will make thy princes peaceable, and thine overseers righteous.",
         "kjv": "For brass I will bring gold, and for iron I will bring silver, and for wood brass, and for stones iron: I will also make thy officers peace, and thine exactors righteousness.",
-        "ron": "În loc de aramă îţi voi aduce aur, în loc de fier, argint, în loc de lemn, aramă şi în loc de pietre, fier. Şi voi pune judecător al tău pacea şi stăpânitor peste tine dreptatea."
+        "ron": "În loc de aramă îţi voi aduce aur, în loc de fier, argint, în loc de lemn, aramă şi în loc de pietre, fier. Şi voi pune judecător al tău pacea şi stăpânitor peste tine dreptatea.",
+        "grk": "Καὶ ἀντὶ χαλκοῦ οἴσω σοι χρυσίον, ἀντὶ δὲ σιδήρου οἴσω σοι ἀργύριον, ἀντὶ δὲ ξύλων οἴσω σοι χαλκόν, ἀντὶ δὲ λίθων, σιδήρον· καὶ δώσω τοὺς ἄρχοντάς σου ἐν εἰρήνῃ, καὶ τοὺς ἐπισκόπους σου ἐν δικαιοσύνῃ·"
       }
     },
     {
@@ -1265,7 +1282,8 @@
       "translations": {
         "lxx": "And injustice shall no more be heard in thy land, nor destruction nor misery in thy coasts; but thy walls shall be called Salvation, and thy gates Sculptured Work.",
         "kjv": "Violence shall no more be heard in thy land, wasting nor destruction within thy borders; but thou shalt call thy walls Salvation, and thy gates Praise.",
-        "ron": "Şi nu se va mai auzi de silnicie în ţara ta, de pustiire şi de ruină în hotarele tale. Zidurile tale le vei numi mântuire şi porţile tale laudă."
+        "ron": "Şi nu se va mai auzi de silnicie în ţara ta, de pustiire şi de ruină în hotarele tale. Zidurile tale le vei numi mântuire şi porţile tale laudă.",
+        "grk": "Καὶ οὐκ ἀκουσθήσεται ἔτι ἀδικία ἐν τῇ γῇ σου, οὐδὲ σύντριμμα, οὐδὲ ταλαιπωρία ἐν τοῖς ὁρίοις σου, ἀλλὰ κληθήσεται Σωτήριον τὰ τείχη σου, καὶ αἱ πύλαι σου Γλύμμα."
       }
     },
     {
@@ -1377,7 +1395,8 @@
       "translations": {
         "lxx": "And thou shalt no more have the sun for a light by day, nor shall the rising of the moon lighten thy night; but the Lord shall be thine everlasting light, and God thy glory.",
         "kjv": "The sun shall be no more thy light by day; neither for brightness shall the moon give light unto thee: but the LORD shall be unto thee an everlasting light, and thy God thy glory.",
-        "ron": "Nu vei mai avea soarele ca lumină în timpul zilei şi strălucirea lunii nu te va mai lumina; ci Domnul va fi pentru tine o lumină veşnică şi Dumnezeul tău va fi slava ta."
+        "ron": "Nu vei mai avea soarele ca lumină în timpul zilei şi strălucirea lunii nu te va mai lumina; ci Domnul va fi pentru tine o lumină veşnică şi Dumnezeul tău va fi slava ta.",
+        "grk": "Καὶ οὐκ ἔσται σοι ἔτι ὁ ἥλιος εἰς φῶς ἡμέρας, οὐδὲ ἀνατολὴ σελήνης φωτιεῖ σοι τὴν νύκτα, ἀλλʼ ἔσται σοι Κύριος φῶς αἰώνιον, καὶ ὁ Θεὸς δόξα σου."
       }
     },
     {
@@ -1444,7 +1463,8 @@
       "translations": {
         "lxx": "For the sun shall no more set, nor shall the moon be eclipsed; for the Lord shall be thine everlasting light, and the days of thy mourning shall be completed.",
         "kjv": "Thy sun shall no more go down; neither shall thy moon withdraw itself: for the LORD shall be thine everlasting light, and the days of thy mourning shall be ended.",
-        "ron": "Soarele tău nu va mai asfinţi şi luna nu va mai descreşte; că Domnul va fi pentru tine lumină veşnică şi zilele întristării tale se vor sfârşi."
+        "ron": "Soarele tău nu va mai asfinţi şi luna nu va mai descreşte; că Domnul va fi pentru tine lumină veşnică şi zilele întristării tale se vor sfârşi.",
+        "grk": "Οὐ γὰρ δύσεται ὁ ἥλιος σοι, καὶ ἡ σελήνη σοι οὐκ ἐκλείψει· ἔσται γὰρ σοι Κύριός φῶς αἰώνιον, καὶ ἀναπληρωθήσονται αἱ ἡμέραι τοῦ πένθους σου."
       }
     },
     {
@@ -1506,7 +1526,8 @@
       "translations": {
         "lxx": "Thy people also shall be all righteous; they shall inherit the land for ever, preserving that which they have planted, even the works of their hands, for glory.",
         "kjv": "Thy people also shall be all righteous: they shall inherit the land for ever, the branch of my planting, the work of my hands, that I may be glorified.",
-        "ron": "În poporul tău vor fi numai drepţi şi vor stăpâni ţara pentru totdeauna; vlăstar pe care l-am sădit Eu, lucrul mâinilor Mele făcut spre slava Mea."
+        "ron": "În poporul tău vor fi numai drepţi şi vor stăpâni ţara pentru totdeauna; vlăstar pe care l-am sădit Eu, lucrul mâinilor Mele făcut spre slava Mea.",
+        "grk": "Καὶ ὁ λαός σου πᾶς δίκαιος, διʼ αἰῶνος κληρονομήσουσι τὴν γῆν, φυλάσσων τὸ φύτευμα, ἔργα χειρῶν αὐτοῦ, εἰς δόξαν."
       }
     },
     {
@@ -1578,7 +1599,8 @@
       "translations": {
         "lxx": "The little one shall become thousands, and the least a great nation; I the Lord will gather them in due time.",
         "kjv": "A little one shall become a thousand, and a small one a strong nation: I the LORD will hasten it in his time.",
-        "ron": "Cel mai mic va fi cât o mie, cel mai neînsemnat va fi cât un neam puternic: Eu, Domnul, am hotărât acestea şi la vreme voi fi împlinitorul lor."
+        "ron": "Cel mai mic va fi cât o mie, cel mai neînsemnat va fi cât un neam puternic: Eu, Domnul, am hotărât acestea şi la vreme voi fi împlinitorul lor.",
+        "grk": "Ὁ ὀλιγοστὸς ἔσται εἰς χιλιάδας, καὶ ὁ ἐλάχιστος εἰς ἔθνος μέγα· ἐγὼ Κύριος κατὰ καιρὸν συνάξω αὐτούς."
       }
     }
   ],

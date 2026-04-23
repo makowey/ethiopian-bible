@@ -8,7 +8,8 @@
       "translation": "A Psalm of David. Bless the Lord, O my soul. O Lord my God, thou art very great; thou hast clothed thyself with praise and honour:",
       "words": [],
       "translations": {
-        "ron": "Binecuvintează, suflete al meu, pe Domnul! Doamne, Dumnezeul meu, măritu-Te-ai foarte."
+        "ron": "Binecuvintează, suflete al meu, pe Domnul! Doamne, Dumnezeul meu, măritu-Te-ai foarte.",
+        "grk": "Τῷ Δαυίδ. Εὐλόγει ἡ ψυχή μου τὸν Κύριον. Κύριε ὁ Θεός μου ἐμεγαλύνθης σφόδρα· ἐξομολόγησιν καὶ εὐπρέπειαν ἐνεδύσω,"
       }
     },
     {
@@ -17,7 +18,8 @@
       "translation": "who dost robe thyself with light as with a garment; spreading out the heaven as a curtain.",
       "words": [],
       "translations": {
-        "ron": "Întru strălucire şi în mare podoabă Te-ai îmbrăcat; Cel ce Te îmbraci cu lumina ca ş i cu o haină;"
+        "ron": "Întru strălucire şi în mare podoabă Te-ai îmbrăcat; Cel ce Te îmbraci cu lumina ca ş i cu o haină;",
+        "grk": "ἀναβαλλόμενος φῶς ὡς ἱμάτιον, ἐκτείνων τὸν οὐρανὸν ὡσεὶ δέῤῥιν·"
       }
     },
     {
@@ -26,7 +28,8 @@
       "translation": "Who covers his chambers with waters; who makes the clouds his chariot; who walks on the wings of the wind.",
       "words": [],
       "translations": {
-        "ron": "Cel ce întinzi cerul ca un cort; Cel ce acoperi cu ape cele mai de deasupra ale lui;"
+        "ron": "Cel ce întinzi cerul ca un cort; Cel ce acoperi cu ape cele mai de deasupra ale lui;",
+        "grk": "Ὁ στεγάζων ἐν ὕδασι τὰ ὑπερῷα αὐτοῦ, ὁ τιθεὶς νέφη τὴν ἐπίβασιν αὐτοῦ· ὁ περιπατῶν ἐπὶ πτερύγων ἀνέμων·"
       }
     },
     {
@@ -35,7 +38,8 @@
       "translation": "Who makes his angels spirits, and his ministers a flaming fire.",
       "words": [],
       "translations": {
-        "ron": "Cel ce pui norii suirea Ta; Cel ce umbli peste aripile vânturilor;"
+        "ron": "Cel ce pui norii suirea Ta; Cel ce umbli peste aripile vânturilor;",
+        "grk": "Ὁ ποιῶν τοὺς ἀγγέλους αὐτοῦ πνεύματα, καὶ τοὺς λειτουργοὺς αὐτοῦ πῦρ φλέγον·"
       }
     },
     {
@@ -44,7 +48,8 @@
       "translation": "Who establishes the earth on her sure foundation: it shall not be moved for ever.",
       "words": [],
       "translations": {
-        "ron": "Cel ce faci pe îngerii Tăi duhuri şi pe slugile Tale pară de foc;"
+        "ron": "Cel ce faci pe îngerii Tăi duhuri şi pe slugile Tale pară de foc;",
+        "grk": "Ὁ θεμελιῶν τὴν γῆν ἐπὶ τὴν ἀσφάλειαν αὐτῆς, οὐ κλιθήσεται εἰς τὸν αἰῶνα τοῦ αἰῶνος."
       }
     },
     {
@@ -53,7 +58,8 @@
       "translation": "The deep, as it were a garment, is his covering: the waters shall stand on the hills.",
       "words": [],
       "translations": {
-        "ron": "Cel ce ai întemeiat pământul pe întărirea lui şi nu se va clătina în veacul veacului."
+        "ron": "Cel ce ai întemeiat pământul pe întărirea lui şi nu se va clătina în veacul veacului.",
+        "grk": "Ἄβυσσος ὡς ἱμάτιον τὸ περιβόλαιον αὐτοῦ, ἐπὶ τῶν ὀρέων στήσονται ὕδατα."
       }
     },
     {
@@ -62,7 +68,8 @@
       "translation": "At thy rebuke they shall flee; at the voice of thy thunder they shall be alarmed.",
       "words": [],
       "translations": {
-        "ron": "Adâncul ca o haină este îmbrăcămintea lui; peste munţi vor sta ape."
+        "ron": "Adâncul ca o haină este îmbrăcămintea lui; peste munţi vor sta ape.",
+        "grk": "Ἀπὸ ἐπιτιμήσεώς σου φεύξονται, ἀπὸ φωνῆς βροντῆς σου δειλιάσουσιν."
       }
     },
     {
@@ -71,7 +78,8 @@
       "translation": "They go up to the mountains, and down to the plains, to the place which thou hast founded for them.",
       "words": [],
       "translations": {
-        "ron": "De certarea Ta vor fugi, de glasul tunetului Tău se vor înfricoşa."
+        "ron": "De certarea Ta vor fugi, de glasul tunetului Tău se vor înfricoşa.",
+        "grk": "Ἀναβαίνουσιν ὄρη, καὶ καταβαίνουσι πεδία εἰς τόπον ὃν ἐθεμελίωσας αὐτοῖς."
       }
     },
     {
@@ -80,7 +88,8 @@
       "translation": "Thou hast set a bound which they shall not pass, neither shall they turn again to cover the earth.",
       "words": [],
       "translations": {
-        "ron": "Se suie munţi şi se coboară văi, în locul în care le-ai întemeiat pe ele."
+        "ron": "Se suie munţi şi se coboară văi, în locul în care le-ai întemeiat pe ele.",
+        "grk": "Ὅριον ἔθου ὃ οὐ παρελεύσονται, οὐδὲ ἐπιστρέψουσι καλύψαι τὴν γῆν."
       }
     },
     {
@@ -89,7 +98,8 @@
       "translation": "He sends forth his fountains among the valleys: the waters shall run between the mountains.",
       "words": [],
       "translations": {
-        "ron": "Hotar ai pus, pe care nu-l vor trece şi nici nu se vor întoarce să acopere pământul."
+        "ron": "Hotar ai pus, pe care nu-l vor trece şi nici nu se vor întoarce să acopere pământul.",
+        "grk": "Ὁ ἐξαποστέλλων πηγὰς ἐν φάραγξιν, ἀναμέσον τῶν ὀρέων διελεύσονται ὕδατα."
       }
     },
     {
@@ -98,7 +108,8 @@
       "translation": "They shall give drink to all the wild beasts of the field: the wild asses shall take of them to quench their thirst.",
       "words": [],
       "translations": {
-        "ron": "Cel ce trimiţi izvoare în văi, prin mijlocul munţilor vor trece ape;"
+        "ron": "Cel ce trimiţi izvoare în văi, prin mijlocul munţilor vor trece ape;",
+        "grk": "Ποτιοῦσι πάντα τὰ θηρία τοῦ ἀγροῦ, προσδέξονται ὄναγροι εἰς δίψαν αὐτῶν."
       }
     },
     {
@@ -107,7 +118,8 @@
       "translation": "By them shall the birds of the sky lodge: they shall utter a voice out of the midst of the rocks.",
       "words": [],
       "translations": {
-        "ron": "Adăpa-se-vor toate fiarele câmpului, asinii sălbatici setea îşi vor potoli."
+        "ron": "Adăpa-se-vor toate fiarele câmpului, asinii sălbatici setea îşi vor potoli.",
+        "grk": "Ἐπʼ αὐτὰ τὰ πετεινὰ τοῦ οὐρανοῦ κατασκηνώσει, ἐκ μέσου τῶν πετρῶν δώσουσι φωνήν."
       }
     },
     {
@@ -116,7 +128,8 @@
       "translation": "He waters the mountains from his chambers: the earth shall be satisfied with the fruit of thy works.",
       "words": [],
       "translations": {
-        "ron": "Peste acelea păsările cerului vor locui; din mijlocul stâncilor vor da glas."
+        "ron": "Peste acelea păsările cerului vor locui; din mijlocul stâncilor vor da glas.",
+        "grk": "Ποτίζων ὄρη ἐκ τῶν ὑπερῴων αὐτοῦ, ἀπὸ καρποῦ τῶν ἔργων σου χορτασθήσεται ἡ γῆ."
       }
     },
     {
@@ -125,7 +138,8 @@
       "translation": "He makes grass to grow for the cattle, and green herb for the service of men, to bring bread out of the earth;",
       "words": [],
       "translations": {
-        "ron": "Cel ce adăpi munţii din cele mai de deasupra ale Tale, din rodul lucrurilor Tale se va sătura pământul."
+        "ron": "Cel ce adăpi munţii din cele mai de deasupra ale Tale, din rodul lucrurilor Tale se va sătura pământul.",
+        "grk": "Ὁ ἐξανατέλλων χόρτον τοῖς κτήνεσι, καὶ χλόην τῇ δουλείᾳ τῶν ἀνθρώπων· τοῦ ἐξαγαγεῖν ἄρτον ἐκ τῆς γῆς,"
       }
     },
     {
@@ -134,7 +148,8 @@
       "translation": "and wine makes glad the heart of man, to make his face cheerful with oil: and bread strengthens man's heart.",
       "words": [],
       "translations": {
-        "ron": "Cel ce răsari iarbă dobitoacelor şi verdeaţă spre slujba oamenilor;"
+        "ron": "Cel ce răsari iarbă dobitoacelor şi verdeaţă spre slujba oamenilor;",
+        "grk": "καὶ οἶνος εὐφραίνει καρδίαν ἀνθρώπου· τοῦ ἱλαρύναι πρόσωπον ἐν ἐλαίῳ, καὶ ἄρτος καρδίαν ἀνθρώπου στηρίζει."
       }
     },
     {
@@ -143,7 +158,8 @@
       "translation": "The trees of the plain shall be full of sap; even the cedars of Libanus which he has planted.",
       "words": [],
       "translations": {
-        "ron": "Ca să scoată pâine din pământ şi vinul veseleşte inima omului;"
+        "ron": "Ca să scoată pâine din pământ şi vinul veseleşte inima omului;",
+        "grk": "Χορτασθήσεται τὰ ξύλα τοῦ πεδίου, αἱ κέδροι τοῦ Λιβάνου ἃς ἐφύτευσεν."
       }
     },
     {
@@ -152,7 +168,8 @@
       "translation": "There the sparrows will build their nests; and the house of the heron takes the lead among them.",
       "words": [],
       "translations": {
-        "ron": "Ca să veselească faţa cu untdelemn şi pâinea inima omului o întăreşte."
+        "ron": "Ca să veselească faţa cu untdelemn şi pâinea inima omului o întăreşte.",
+        "grk": "Ἐκεῖ στρουθία ἐννοσσεύσουσι, τοῦ ἐρωδιοῦ ἡ οἰκία ἡγεῖται αὐτῶν."
       }
     },
     {
@@ -161,7 +178,8 @@
       "translation": "The high mountains are a refuge for the stags, and the rock for the rabbits.",
       "words": [],
       "translations": {
-        "ron": "Sătura-se-vor copacii câmpului, cedrii Libanului pe care i-ai sădit; acolo păsările îşi vor face cuib."
+        "ron": "Sătura-se-vor copacii câmpului, cedrii Libanului pe care i-ai sădit; acolo păsările îşi vor face cuib.",
+        "grk": "Ὄρη τὰ ὑψηλὰ ταῖς ἐλάφοις, πέτρα καταφυγὴ τοῖς χοιρογρυλλίοις."
       }
     },
     {
@@ -170,7 +188,8 @@
       "translation": "He appointed the moon for seasons: the sun knows his going down.",
       "words": [],
       "translations": {
-        "ron": "Locaşul cocostârcului în chiparoşi. Munţii cei înalţi adăpost cerbilor stâncile scăpare iepurilor."
+        "ron": "Locaşul cocostârcului în chiparoşi. Munţii cei înalţi adăpost cerbilor stâncile scăpare iepurilor.",
+        "grk": "Ἐποίησε σελήνην εἰς καιροὺς, ὁ ἥλιος ἔγνω τὴν δύσιν αὐτοῦ."
       }
     },
     {
@@ -179,7 +198,8 @@
       "translation": "Thou didst make darkness, and it was night; in it all the wild beasts of the forest will be abroad:",
       "words": [],
       "translations": {
-        "ron": "Făcut-ai luna spre vremi, soarele şi-a cunoscut apusul său."
+        "ron": "Făcut-ai luna spre vremi, soarele şi-a cunoscut apusul său.",
+        "grk": "Ἔθου σκότος καὶ ἐγένετο νὺξ, ἐν αὐτῇ διελεύσονται πάντα τὰ θηρία τοῦ δρυμοῦ."
       }
     },
     {
@@ -188,7 +208,8 @@
       "translation": "even young lions roaring for prey, and to seek meat for themselves from God.",
       "words": [],
       "translations": {
-        "ron": "Pus-ai întuneric şi s-a făcut noapte, când vor ieşi toate fiarele pădurii;"
+        "ron": "Pus-ai întuneric şi s-a făcut noapte, când vor ieşi toate fiarele pădurii;",
+        "grk": "Σκυμνοι ὠρυόμενοι ἁρπάσαι, καὶ ζητῆσαι παρὰ τοῦ Θεοῦ βρῶσιν αὐτοῖς."
       }
     },
     {
@@ -197,7 +218,8 @@
       "translation": "The sun arises, and they shall be gathered together, and shall lie down in their dens.",
       "words": [],
       "translations": {
-        "ron": "Puii leilor mugesc ca să apuce şi să ceară de la Dumnezeu mâncarea lor."
+        "ron": "Puii leilor mugesc ca să apuce şi să ceară de la Dumnezeu mâncarea lor.",
+        "grk": "Ἀνέτειλεν ὁ ἥλιος καὶ συναχθήσονται, καὶ ἐν ταῖς μάνδραις αὐτῶν κοιτασθήσονται."
       }
     },
     {

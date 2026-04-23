@@ -71,7 +71,8 @@
       "translations": {
         "lxx": "And this is the blessing with which Moses the man of God blessed the children of Israel before his death.",
         "kjv": "And this is the blessing, wherewith Moses the man of God blessed the children of Israel before his death.",
-        "ron": "Iată acum şi binecuvântarea cu care Moise, omul lui Dumnezeu, a binecuvântat pe fiii lui Israel înainte de moartea sa."
+        "ron": "Iată acum şi binecuvântarea cu care Moise, omul lui Dumnezeu, a binecuvântat pe fiii lui Israel înainte de moartea sa.",
+        "grk": "Καὶ αὕτη ἡ εὐλογία ἣν ηὐλόγησε Μωυσῆς ἄνθρωπος τοῦ Θεοῦ τοὺς υἱοὺς Ἰσραὴλ πρὸ τῆς τελευτῆς αὐτοῦ."
       }
     },
     {
@@ -173,7 +174,8 @@
       "translations": {
         "lxx": "And he said, The Lord is come from Sina, and has appeared from Seir to us, and has hasted out of the mount of Pharan, with the ten thousands of Cades; on his right hand were his angels with him.",
         "kjv": "And he said, The LORD came from Sinai, and rose up from Seir unto them; he shined forth from mount Paran, and he came with ten thousands of saints: from his right hand went a fiery law for them.",
-        "ron": "Şi a zis el: \"Venit-a Domnul din Sinai şi ni S-a descoperit întru slava Sa în Seir; strălucit-a din Munţii Paranului şi a ieşit cu mulţime mare de sfinţi, având la dreapta focul legii."
+        "ron": "Şi a zis el: \"Venit-a Domnul din Sinai şi ni S-a descoperit întru slava Sa în Seir; strălucit-a din Munţii Paranului şi a ieşit cu mulţime mare de sfinţi, având la dreapta focul legii.",
+        "grk": "Καὶ εἶπε, Κύριος ἐκ Σινὰ ἥκει, καὶ ἐπέφανεν ἐκ Σηεὶρ ἡμῖν, καὶ κατέσπευσεν ἐξ ὄρους Φαρὰν, σὺν μυρίασι Κάδης, ἐκ δεξιῶν αὐτοῦ ἄγγελοι μετʼ αὐτοῦ."
       }
     },
     {
@@ -225,7 +227,8 @@
       "translations": {
         "lxx": "And he spared his people, and all his sanctified ones are under thy hands; and they are under thee; and he received of his words",
         "kjv": "Yea, he loved the people; all his saints are in thy hand: and they sat down at thy feet; every one shall receive of thy words.",
-        "ron": "Cu adevărat El a iubit pe poporul Său. Toţi sfinţii Lui sunt sub mâna Lui şi au căzut la picioarele Lui ca să asculte cuvintele Lui."
+        "ron": "Cu adevărat El a iubit pe poporul Său. Toţi sfinţii Lui sunt sub mâna Lui şi au căzut la picioarele Lui ca să asculte cuvintele Lui.",
+        "grk": "Καὶ ἐφείσατο τοῦ λαοῦ αὐτοῦ, καὶ πάντες οἱ ἡγιασμένοι ὑπὸ τὰς χεῖράς σου· καὶ οὗτοι ὑπὸ σέ εἰσί· καὶ ἐδέξατο ἀπὸ τῶν λόγων αὐτοῦ"
       }
     },
     {
@@ -282,7 +285,8 @@
       "translations": {
         "lxx": "the law which Moses charged us, an inheritance to the assemblies of Jacob.",
         "kjv": "Moses commanded us a law, even the inheritance of the congregation of Jacob.",
-        "ron": "Moise ne-a dat o lege, moştenire a obştii lui Iacov;"
+        "ron": "Moise ne-a dat o lege, moştenire a obştii lui Iacov;",
+        "grk": "νόμον, ὃν ἐνετείλατο ἡμῖν Μωυσῆς, κληρονομίαν συναγωγαῖς Ἰακώβ."
       }
     },
     {
@@ -344,7 +348,8 @@
       "translations": {
         "lxx": "And he shall be prince with the beloved one, when the princes of the people are gathered together with the tribes of Israel.",
         "kjv": "And he was king in Jeshurun, when the heads of the people and the tribes of Israel were gathered together.",
-        "ron": "El a fost regele lui Israel, când se adunau căpeteniile popoarelor împreună cu seminţiile lui Israel."
+        "ron": "El a fost regele lui Israel, când se adunau căpeteniile popoarelor împreună cu seminţiile lui Israel.",
+        "grk": "Καὶ ἔσται ἐν τῷ ἠγαπημένῳ ἄρχων, συναχθέντων ἀρχόντων λαῶν ἅμα φυλαῖς Ἰσραήλ."
       }
     },
     {
@@ -386,7 +391,8 @@
       "translations": {
         "lxx": "Let Ruben live, and not die; and let him be many in number.",
         "kjv": "Let Reuben live, and not die; and let not his men be few.",
-        "ron": "Să trăiască Ruben şi să nu moară, şi Simeon să nu fie puţin la număr!"
+        "ron": "Să trăiască Ruben şi să nu moară, şi Simeon să nu fie puţin la număr!",
+        "grk": "Ζήτω Ῥουβὴν, καὶ μὴ ἀποθανέτω, καὶ ἔστω πολὺς ἐν ἀριθμῷ."
       }
     },
     {
@@ -463,7 +469,8 @@
       "translations": {
         "lxx": "And this is the blessing of Juda; Hear, Lord, the voice of Juda, and do thou visit his people: his hands shall contend for him, and thou shalt be a help from his enemies.",
         "kjv": "And this is the blessing of Judah: and he said, Hear, LORD, the voice of Judah, and bring him unto his people: let his hands be sufficient for him; and be thou an help to him from his enemies.",
-        "ron": "Iar pentru Iuda a zis acestea: \"Ascultă, Doamne, glasul lui Iuda şi adu-l la poporul său; cu mâinile sale să se apere şi Tu să-i fii ajutor împotriva vrăjmaşilor lui\"."
+        "ron": "Iar pentru Iuda a zis acestea: \"Ascultă, Doamne, glasul lui Iuda şi adu-l la poporul său; cu mâinile sale să se apere şi Tu să-i fii ajutor împotriva vrăjmaşilor lui\".",
+        "grk": "Καὶ αὕτη Ἰούδα· εἰσάκουσον Κύριε φωνῆς Ἰούδα, καὶ εἰς τὸν λαὸν αὐτοῦ ἔλθοις ἄν· αἱ χεῖρες αὐτοῦ διακρινοῦσιν αὐτῷ, καὶ βοηθὸς ἐκ τῶν ἐχθρῶν ἔσῃ."
       }
     },
     {
@@ -545,7 +552,8 @@
       "translations": {
         "lxx": "And to Levi he said, Give to Levi his manifestations, and his truth to the holy man, whom they tempted in the temptation; they reviled him at the water of strife.",
         "kjv": "And of Levi he said, Let thy Thummim and thy Urim be with thy holy one, whom thou didst prove at Massah, and with whom thou didst strive at the waters of Meribah;",
-        "ron": "Pentru Levi a zis: \"Urimul Tău, Doamne, şi Tumimul Tău să fie pentru bărbatul Tău cel sfânt, pe care Tu l-ai încercat la Massa şi cu care Tu Te-ai certat la apele Meribei;"
+        "ron": "Pentru Levi a zis: \"Urimul Tău, Doamne, şi Tumimul Tău să fie pentru bărbatul Tău cel sfânt, pe care Tu l-ai încercat la Massa şi cu care Tu Te-ai certat la apele Meribei;",
+        "grk": "Καὶ τῷ Λευὶ εἶπε, δότε Λευὶ δήλους αὐτοῦ, καὶ ἀλήθειαν αὐτοῦ τῷ ἀνδρὶ τῷ ὁσίῳ, ὃν ἐπείρασαν αὐτὸν ἐν πείρᾳ· ἐλοιδόρησαν αὐτὸν ἐφʼ ὕδατος ἀντιλογίας·"
       }
     },
     {
@@ -617,7 +625,8 @@
       "translations": {
         "lxx": "Who says to his father and mother, I have not seen thee; and he knew not his brethren, and he refused to know his sons: he kept thine oracles, and observed thy covenant.",
         "kjv": "Who said unto his father and to his mother, I have not seen him; neither did he acknowledge his brethren, nor knew his own children: for they have observed thy word, and kept thy covenant.",
-        "ron": "Care a zis de tatăl său şi de mama sa: \"Nu i-am văzut\", şi pe fraţii săi nu i-a cunoscut şi de fiii săi nu ştie nimic; căci ei au ţinut cuvintele Tale şi legământul Tău l-au păzit;"
+        "ron": "Care a zis de tatăl său şi de mama sa: \"Nu i-am văzut\", şi pe fraţii săi nu i-a cunoscut şi de fiii săi nu ştie nimic; căci ei au ţinut cuvintele Tale şi legământul Tău l-au păzit;",
+        "grk": "Ὁ λέγων τῷ πατρὶ καὶ τῇ μητρὶ, οὐχ ἑώρακά σε, καὶ τοὺς ἀδελφοὺς αὐτοῦ οὐκ ἐπέγνω, καὶ τοὺς υἱοὺς αὐτοῦ ἀπέγνω· ἐφύλαξε τὰ λόγιά σου, καὶ τὴν διαθήκην σου διετήρησε."
       }
     },
     {
@@ -699,7 +708,8 @@
       "translations": {
         "lxx": "They shall declare thine ordinances to Jacob, and thy law to Israel: they shall place incense in the time of thy wrath continually upon thine altar.",
         "kjv": "They shall teach Jacob thy judgments, and Israel thy law: they shall put incense before thee, and whole burnt sacrifice upon thine altar.",
-        "ron": "Învaţă pe Iacov legile Tale şi pe Israel poruncile Tale; pune tămâie înaintea feţei Tale şi arderi de tot pe jertfelnicul Tău."
+        "ron": "Învaţă pe Iacov legile Tale şi pe Israel poruncile Tale; pune tămâie înaintea feţei Tale şi arderi de tot pe jertfelnicul Tău.",
+        "grk": "Δηλώσουσι τὰ δικαιώματά σου τῷ Ἰακὼβ, καὶ τὸν νόμον σου τῷ Ἰσραήλ· ἐπιθήσουσι θυμίαμα ἐν ὀργῇ σου διαπαντὸς ἐπὶ τὸ θυσιαστήριόν σου."
       }
     },
     {
@@ -781,7 +791,8 @@
       "translations": {
         "lxx": "Bless, Lord, his strength, and accept the works of his hands; break the loins of his enemies that have risen up against him, and let not them that hate him rise up.",
         "kjv": "Bless, LORD, his substance, and accept the work of his hands: smite through the loins of them that rise against him, and of them that hate him, that they rise not again.",
-        "ron": "Binecuvintează, Doamne, puterea lui şi lucrul mâinilor lui fie-ţi plăcut; loveşte coapsele celar ce se ridică împotriva lui şi celor ce-l urăsc, ca să nu se poată împotrivi\"."
+        "ron": "Binecuvintează, Doamne, puterea lui şi lucrul mâinilor lui fie-ţi plăcut; loveşte coapsele celar ce se ridică împotriva lui şi celor ce-l urăsc, ca să nu se poată împotrivi\".",
+        "grk": "Εὐλόγησον, Κύριε, τὴν ἰσχὺν αὐτοῦ, καὶ τὰ ἔργα τῶν χειρῶν αὐτοῦ δέξαι· κάταξον ὀσφῦν ἐχθρῶν ἐπανεστηκότων αὐτῷ, καὶ οἱ μισοῦντες αὐτὸν μὴ ἀναστήτωσαν."
       }
     },
     {
@@ -858,7 +869,8 @@
       "translations": {
         "lxx": "And to Benjamin he said, The beloved of the Lord shall dwell in confidence, and God overshadows him always, and he rested between his shoulders.",
         "kjv": "And of Benjamin he said, The beloved of the LORD shall dwell in safety by him; and the Lord shall cover him all the day long, and he shall dwell between his shoulders.",
-        "ron": "Pentru Veniamin a zis: \"Iubitul Domnului va sta lângă El fără primejdie şi Dumnezeu îl va ocroti în toată vremea şi el va odihni pe umerii Lui\"."
+        "ron": "Pentru Veniamin a zis: \"Iubitul Domnului va sta lângă El fără primejdie şi Dumnezeu îl va ocroti în toată vremea şi el va odihni pe umerii Lui\".",
+        "grk": "Καὶ τῷ Βενιαμὶν εἶπεν, ἠγαπημένος ὑπὸ Κυρίου κατασκηνώσει πεποιθὼς, καὶ ὁ Θεὸς σκιάζει ἐπʼ αὐτῷ πάσας τὰς ἡμέρας, καὶ ἀναμέσον τῶν ὤμων αὐτοῦ κατέπαυσε."
       }
     },
     {
@@ -940,7 +952,8 @@
       "translations": {
         "lxx": "And to Joseph he said, His land is of the blessing of the Lord, of the seasons of sky and dew, and of the deeps of wells below,",
         "kjv": "And of Joseph he said, Blessed of the LORD be his land, for the precious things of heaven, for the dew, and for the deep that coucheth beneath,",
-        "ron": "Pentru Iosif a zis: \"Să binecuvânteze Domnul pământul lui cu darurile cele alese ale cerului, cu roua şi cu darurile adâncului celui dedesubt;"
+        "ron": "Pentru Iosif a zis: \"Să binecuvânteze Domnul pământul lui cu darurile cele alese ale cerului, cu roua şi cu darurile adâncului celui dedesubt;",
+        "grk": "Καὶ τῷ Ἰωσὴφ εἶπεν, ἀπʼ εὐλογίας Κύριου ἡ γῆ αὐτοῦ, ἀπὸ ὡρῶν οὐρανοῦ, καὶ δρόσου, καὶ ἀπὸ ἀβύσσων πηγῶν κάτωθεν,"
       }
     },
     {
@@ -997,7 +1010,8 @@
       "translations": {
         "lxx": "and of the fruits of the changes of the sun in season, and of the produce of the months,",
         "kjv": "And for the precious fruits brought forth by the sun, and for the precious things put forth by the moon,",
-        "ron": "Cu roade alese din cele pe care le face să crească soarele şi cu cele mai bune roade care odrăslesc în fiecare lună;"
+        "ron": "Cu roade alese din cele pe care le face să crească soarele şi cu cele mai bune roade care odrăslesc în fiecare lună;",
+        "grk": "καὶ καθʼ ὥραν γεννημάτων ἡλίου τροπῶν, καὶ ἀπὸ συνόδων μηνῶν,"
       }
     },
     {
@@ -1049,7 +1063,8 @@
       "translations": {
         "lxx": "from the top of the ancient mountains, and from the top of the everlasting hills,",
         "kjv": "And for the chief things of the ancient mountains, and for the precious things of the lasting hills,",
-        "ron": "Cu cele mai alese din câte dau munţii cei vechi şi cu darurile alese ale dealurilor celor veşnice;"
+        "ron": "Cu cele mai alese din câte dau munţii cei vechi şi cu darurile alese ale dealurilor celor veşnice;",
+        "grk": "ἀπὸ κορυφῆς ὀρέων ἀρχῆς, καὶ ἀπὸ κορυφῆς βουνῶν ἀενάων,"
       }
     },
     {
@@ -1146,7 +1161,8 @@
       "translations": {
         "lxx": "and of the fulness of the land in season: and let the things pleasing to him that dwelt in the bush come on the head of Joseph, and on the crown of him who was glorified above his brethren.",
         "kjv": "And for the precious things of the earth and fulness thereof, and for the good will of him that dwelt in the bush: let the blessing come upon the head of Joseph, and upon the top of the head of him that was separated from his brethren.",
-        "ron": "Şi cu darurile cele alese ale pământului şi ale celor ce-l umplu. Binecuvântarea Celui ce S-a arătat în rug să vină pe capul lui Iosif, pe creştetul celui dintâi dintre fraţii lui!"
+        "ron": "Şi cu darurile cele alese ale pământului şi ale celor ce-l umplu. Binecuvântarea Celui ce S-a arătat în rug să vină pe capul lui Iosif, pe creştetul celui dintâi dintre fraţii lui!",
+        "grk": "καὶ καθʼ ὥραν γῆς πληρώσεως· καὶ τὰ δεκτὰ τῷ ὀφθέντι ἐν τῇ βάτῳ ἔλθοισαν ἐπὶ κεφαλὴν Ἰωσὴφ, καὶ ἐπὶ κορυφῆς δοξασθεὶς ἐπʼ ἀδελφοῖς."
       }
     },
     {
@@ -1258,7 +1274,8 @@
       "translations": {
         "lxx": "His beauty is as the firstling of his bull, his horns are the horns of a unicorn; with them he shall thrust the nations at once, even from the end of the earth: these are the ten thousands of Ephraim, and these are the thousands of Manasse.",
         "kjv": "His glory is like the firstling of his bullock, and his horns are like the horns of unicorns: with them he shall push the people together to the ends of the earth: and they are the ten thousands of Ephraim, and they are the thousands of Manasseh.",
-        "ron": "Frumuseţea lui să fie ca a taurului întâi născut şi coarnele lui să fie ca şi coarnele bivolului; cu acelea va împunge popoarele toate până la marginile pământului; acestea sunt mulţimile mari ale lui Efraim, acestea sunt miile lui Manase\"."
+        "ron": "Frumuseţea lui să fie ca a taurului întâi născut şi coarnele lui să fie ca şi coarnele bivolului; cu acelea va împunge popoarele toate până la marginile pământului; acestea sunt mulţimile mari ale lui Efraim, acestea sunt miile lui Manase\".",
+        "grk": "Πρωτότοκος ταύρου τὸ κάλλος αὐτοῦ, κέρατα μονοκέρωτος τὰ κέρατα αὐτοῦ· ἐν αὐτοῖς ἔθνη κερατιεῖ ἅμα, ἕως ἀπʼ ἄκρου γῆς· αὗται μυρίαδες Ἐφραὶμ, καὶ αὗται χιλιάδες Μανασσῆ."
       }
     },
     {
@@ -1305,7 +1322,8 @@
       "translations": {
         "lxx": "And to Zabulon he said, Rejoice, Zabulon, in thy going out, and Issachar in his tents.",
         "kjv": "And of Zebulun he said, Rejoice, Zebulun, in thy going out; and, Issachar, in thy tents.",
-        "ron": "Pentru Zabulon a zis: \"Veseleşte-te, Zabulon, în căile tale şi tu, Isahare, în corturile tale!"
+        "ron": "Pentru Zabulon a zis: \"Veseleşte-te, Zabulon, în căile tale şi tu, Isahare, în corturile tale!",
+        "grk": "Καὶ τῷ Ζαβουλὼν εἶπεν, εὐφράνθητι Ζαβουλὼν ἐν ἐξοδίᾳ σου, καὶ Ἰσσάχαρ ἐν τοῖς σκηνώμασιν αὐτοῦ."
       }
     },
     {
@@ -1402,7 +1420,8 @@
       "translations": {
         "lxx": "They shall utterly destroy the nations, and ye shall call men there, and there offer the sacrifice of righteousness; for the wealth of the sea shall suckle thee, and so shall the marts of them that dwell by the sea-coast.",
         "kjv": "They shall call the people unto the mountain; there they shall offer sacrifices of righteousness: for they shall suck of the abundance of the seas, and of treasures hid in the sand.",
-        "ron": "Chema-vor aceştia poporul pe munte şi acolo vor junghia jertfele cele legiuite, căci se hrănesc cu bogăţia mării şi cu comorile cele ascunse în nisip\"."
+        "ron": "Chema-vor aceştia poporul pe munte şi acolo vor junghia jertfele cele legiuite, căci se hrănesc cu bogăţia mării şi cu comorile cele ascunse în nisip\".",
+        "grk": "Ἔθνη ἐξολοθρεύσουσι· καὶ ἐπικαλέσεσθε ἐκεῖ, καὶ θύσετε ἐκεῖ θυσίαν δικαιοσύνης· ὅτι πλοῦτος θαλάσσης θηλάσει σε, καὶ ἐμπόρια παράλιον κατοικούντων."
       }
     },
     {
@@ -1464,7 +1483,8 @@
       "translations": {
         "lxx": "And to Gad he said, Blessed be he that enlarges Gad: as a lion he rested, having broken the arm and the ruler.",
         "kjv": "And of Gad he said, Blessed be he that enlargeth Gad: he dwelleth as a lion, and teareth the arm with the crown of the head.",
-        "ron": "Pentru Gad a zis: \"Binecuvântat. să fie cel ce a sporit pe Gad, care odihneşte ca un pui de leu şi sfărâmă şi braţ şi cap."
+        "ron": "Pentru Gad a zis: \"Binecuvântat. să fie cel ce a sporit pe Gad, care odihneşte ca un pui de leu şi sfărâmă şi braţ şi cap.",
+        "grk": "Καὶ τῷ Γὰδ εἶπεν, εὐλογημένος ἐμπλατύνων Γάδ· ὡς λέων ἐνεπαύσατο, συντρίψας βραχίονα καὶ ἄρχοντα."
       }
     },
     {
@@ -1591,7 +1611,8 @@
       "translations": {
         "lxx": "And he saw his first-fruits, that there the land of the princes gathered with the chiefs of the people was divided; the Lord wrought righteousness, and his judgment with Israel.",
         "kjv": "And he provided the first part for himself, because there, in a portion of the lawgiver, was he seated; and he came with the heads of the people, he executed the justice of the LORD, and his judgments with Israel.",
-        "ron": "Alesu-şi-a el pârga cea bună a ţării; acolo fost-a păstrată o moşie de căpetenie; venit-a în fruntea poporului şi a împlinit dreptatea Domnului şi judecăţile lui Israel\"."
+        "ron": "Alesu-şi-a el pârga cea bună a ţării; acolo fost-a păstrată o moşie de căpetenie; venit-a în fruntea poporului şi a împlinit dreptatea Domnului şi judecăţile lui Israel\".",
+        "grk": "Καὶ εἶδεν ἀπαρχὴν αὐτοῦ, ὅτι ἐκεῖ ἐμερίσθη γῆ ἀρχόντων συνηγμένων ἅμα ἀρχηγοῖς λαῶν· δικαιοσύνην Κύριος ἐποίησε, καὶ κρίσιν αὐτοῦ μετὰ Ἰσραήλ."
       }
     },
     {
@@ -1643,7 +1664,8 @@
       "translations": {
         "lxx": "And to Dan he said, Dan is a lion's whelp, and shall leap out of Basan.",
         "kjv": "And of Dan he said, Dan is a lion’s whelp: he shall leap from Bashan.",
-        "ron": "Pentru Dan a zis: \"Dan este pui de leu, care se aruncă din Vasan\"."
+        "ron": "Pentru Dan a zis: \"Dan este pui de leu, care se aruncă din Vasan\".",
+        "grk": "Καὶ τῷ Δὰν εἶπε, Δὰν σκύμνος λέοντος, καὶ ἐκπηδήσεται ἐκ τοῦ Βασάν."
       }
     },
     {
@@ -1720,7 +1742,8 @@
       "translations": {
         "lxx": "And to Nephthali he said, Nephthali has the fulness of good things; and let him be filled with blessing from the Lord: he shall inherit the west and the south.",
         "kjv": "And of Naphtali he said, O Naphtali, satisfied with favour, and full with the blessing of the LORD: possess thou the west and the south.",
-        "ron": "Pentru Neftali a zis: \"Neftali, tu cel sătul de bunăvoinţă şi plin de binecuvântarea Domnului, ia marea şi partea cea de miazăzi în stăpânire\"."
+        "ron": "Pentru Neftali a zis: \"Neftali, tu cel sătul de bunăvoinţă şi plin de binecuvântarea Domnului, ia marea şi partea cea de miazăzi în stăpânire\".",
+        "grk": "Καὶ τῷ Νεφθαλὶ εἶπε, Νεφθαλὶ πλησμονὴ δεκτῶν· καὶ ἐμπλησθήτω εὐλογία παρὰ Κυρίου· θάλασσαν καὶ Λίβα κληρονομήσει."
       }
     },
     {
@@ -1797,7 +1820,8 @@
       "translations": {
         "lxx": "And to Aser he said, Aser is blessed with children; and he shall be acceptable to his brethren: he shall dip his foot in oil.",
         "kjv": "And of Asher he said, Let Asher be blessed with children; let him be acceptable to his brethren, and let him dip his foot in oil.",
-        "ron": "Pentru Aşer a zis: \"Binecuvântat să fie Aşer între fii, iubit să fie de fraţii lui şi să-şi afunde în untdelemn piciorul lui."
+        "ron": "Pentru Aşer a zis: \"Binecuvântat să fie Aşer între fii, iubit să fie de fraţii lui şi să-şi afunde în untdelemn piciorul lui.",
+        "grk": "Καὶ τῷ Ἀσὴρ εἶπεν, εὐλογημένος ἀπὸ τέκνων Ἀσήρ, καὶ ἔσται δεκτὸς τοῖς ἀδελφοῖς αὐτοῦ· βάψει ἐν ἐλαίῳ τὸν πόδα αὐτοῦ."
       }
     },
     {
@@ -1844,7 +1868,8 @@
       "translations": {
         "lxx": "His sandal shall be iron and brass; as thy days, so shall be thy strength.",
         "kjv": "Thy shoes shall be iron and brass; and as thy days, so shall thy strength be.",
-        "ron": "De fier şi de aramă să fie zăvoarele şi liniştea ta să ţină cît zilele vieţii tale."
+        "ron": "De fier şi de aramă să fie zăvoarele şi liniştea ta să ţină cît zilele vieţii tale.",
+        "grk": "Σίδηρος καὶ χαλκὸς τὸ ὑπόδημα αὐτοῦ ἔσται· ὡς αἱ ἡμέραι σου, ἡ ἰσχύς σου."
       }
     },
     {
@@ -1911,7 +1936,8 @@
       "translations": {
         "lxx": "There is not any such as the God of the beloved; he who rides upon the heaven is thy helper, and the magnificent One of the firmament.",
         "kjv": "There is none like unto the God of Jeshurun, who rideth upon the heaven in thy help, and in his excellency on the sky.",
-        "ron": "Nimeni, o Israele, nu este ca Dumnezeu, Care să meargă pe ceruri întru ajutorul tău şi pe nori întru slava Sa."
+        "ron": "Nimeni, o Israele, nu este ca Dumnezeu, Care să meargă pe ceruri întru ajutorul tău şi pe nori întru slava Sa.",
+        "grk": "Οὐκ ἔστιν ὥσπερ ὁ Θεὸς τοῦ ἠγαπημένου, ὁ ἐπιβαίνων ἐπὶ τὸν οὐρανὸν βοηθός σου, καὶ ὁ μεγαλοπρεπὴς τοῦ στερεώματος."
       }
     },
     {
@@ -1993,7 +2019,8 @@
       "translations": {
         "lxx": "And the rule of God shall protect thee, and that under the strength of the everlasting arms; and he shall cast forth the enemy from before thy face, saying, Perish.",
         "kjv": "The eternal God is thy refuge, and underneath are the everlasting arms: and he shall thrust out the enemy from before thee; and shall say, Destroy them.",
-        "ron": "Dumnezeu este liman din vremi străvechi; căci cu braţul Lui cel veşnic El te sprijină şi din faţa ta gonind vrăjmaşii, zice: \"Stârpeşte-i!\""
+        "ron": "Dumnezeu este liman din vremi străvechi; căci cu braţul Lui cel veşnic El te sprijină şi din faţa ta gonind vrăjmaşii, zice: \"Stârpeşte-i!\"",
+        "grk": "Καὶ σκεπάσει σε Θεοῦ ἀρχὴ, καὶ ὑπὸ ἰσχὺν βραχιόνων ἀενάων· καὶ ἐκβαλεῖ ἀπὸ προσώπου σου ἐχθρὸν, λέγων, ἀπόλοιο."
       }
     },
     {
@@ -2085,7 +2112,8 @@
       "translations": {
         "lxx": "And Israel shall dwell in confidence alone on the land of Jacob, with corn and wine; and the sky shall be misty with dew upon thee.",
         "kjv": "Israel then shall dwell in safety alone: the fountain of Jacob shall be upon a land of corn and wine; also his heavens shall drop down dew.",
-        "ron": "Israel locuieşte neprimejduit. Ochiul lui Iacov priveşte îmbelşugat de pâine şi de vin, şi cerurile lui picură rouă."
+        "ron": "Israel locuieşte neprimejduit. Ochiul lui Iacov priveşte îmbelşugat de pâine şi de vin, şi cerurile lui picură rouă.",
+        "grk": "Καὶ κατασκηνώσει Ἰσραὴλ πεποιθὼς, μόνος ἐπὶ γῆς Ἰακὼβ, ἐπὶ σίτῳ καὶ οἴνῳ· καὶ ὁ οὐρανός σοι συννεφὴς δρόσῳ."
       }
     },
     {
@@ -2182,7 +2210,8 @@
       "translations": {
         "lxx": "Blessed art thou, O Israel; who is like to thee, O people saved by the Lord? thy helper shall hold his shield over thee, and his sword is thy boast; and thine enemies shall speak falsely to thee, and thou shalt tread upon their neck.",
         "kjv": "Happy art thou, O Israel: who is like unto thee, O people saved by the LORD, the shield of thy help, and who is the sword of thy excellency! and thine enemies shall be found liars unto thee; and thou shalt tread upon their high places.",
-        "ron": "Ferice de tine, Israele! Cine este asemenea ţie, popor izbăvit de Domnul, scutul şi ajutorul tău, sabia şi slava ta. Vrăjmaşii tăi se vor da înapoi înaintea ta şi tu vei călca peste grumajii lor!\""
+        "ron": "Ferice de tine, Israele! Cine este asemenea ţie, popor izbăvit de Domnul, scutul şi ajutorul tău, sabia şi slava ta. Vrăjmaşii tăi se vor da înapoi înaintea ta şi tu vei călca peste grumajii lor!\"",
+        "grk": "Μακάριος σὺ Ἰσραήλ· τίς ὅμοιός σοι λαὸς σωζόμενος ὑπὸ Κυρίου; ὑπερασπιεῖ ὁ βοηθός σου, καὶ ἡ μάχαιρα καύχημά σου· καὶ ψεύσονταί σε οἱ ἐχθροί σου· καὶ σὺ ἐπὶ τὸν τράχηλον αὐτῶν ἐπιβήσῃ."
       }
     }
   ],

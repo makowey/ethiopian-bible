@@ -91,7 +91,8 @@
       "translations": {
         "lxx": "This is the genealogy of men in the day in which God made Adam; in the image of God he made him:",
         "kjv": "This is the book of the generations of Adam. In the day that God created man, in the likeness of God made he him;",
-        "ron": "Iată acum cartea neamului lui Adam. Când a făcut Dumnezeu pe Adam, l-a făcut după chipul lui Dumnezeu."
+        "ron": "Iată acum cartea neamului lui Adam. Când a făcut Dumnezeu pe Adam, l-a făcut după chipul lui Dumnezeu.",
+        "grk": "Αὕτη ἡ βίβλος γενέσεως ἀνθρώπων· ᾗ ἡμέρᾳ ἐποίησεν ὁ Θεὸς τὸν Ἀδὰμ, κατʼ εἰκόνα Θεοῦ ἐποίησεν αὐτόν·"
       }
     },
     {
@@ -173,7 +174,8 @@
       "translations": {
         "lxx": "male and female he made them, and blessed them; and he called his name Adam, in the day in which he made them.",
         "kjv": "Male and female created he them; and blessed them, and called their name Adam, in the day when they were created.",
-        "ron": "Bărbat şi femeie a făcut şi i-a binecuvântat şi le-a pus numele: Om, în ziua în care i-a făcut."
+        "ron": "Bărbat şi femeie a făcut şi i-a binecuvântat şi le-a pus numele: Om, în ziua în care i-a făcut.",
+        "grk": "Ἄρσεν καὶ θῆλυ ἐποίησεν αὐτούς· καὶ εὐλόγησεν αὐτούς· καὶ ἐπωνόμασε τὸ ὄνομα αὐτοῦ Ἀδὰμ, ᾗ ἡμέρᾳ ἐποίησεν αὐτούς."
       }
     },
     {
@@ -245,7 +247,8 @@
       "translations": {
         "lxx": "And Adam lived two hundred and thirty years, and begot a son after his own form, and after his own image, and he called his name Seth.",
         "kjv": "And Adam lived an hundred and thirty years, and begat a son in his own likeness, after his image; and called his name Seth:",
-        "ron": "Adam a trăit două sute treizeci de ani şi atunci i s-a născut un fiu după asemănarea sa şi, după chipul său şi i-a pus numele Set."
+        "ron": "Adam a trăit două sute treizeci de ani şi atunci i s-a născut un fiu după asemănarea sa şi, după chipul său şi i-a pus numele Set.",
+        "grk": "Ἔζησεν δὲ Ἀδὰμ τριάκοντα καὶ διακόσια ἔτη, καὶ ἐγέννησε κατὰ τὴν ἰδέαν αὐτοῦ, καὶ κατὰ τὴν εἰκόνα αὐτοῦ, καὶ ἐπωνόμασε τὸ ὄνομα αὐτοῦ, Σήθ."
       }
     },
     {
@@ -302,7 +305,8 @@
       "translations": {
         "lxx": "And the days of Adam, which he lived after his begetting Seth, were seven hundred years; and he begot sons and daughters.",
         "kjv": "And the days of Adam after he had begotten Seth were eight hundred years: and he begat sons and daughters:",
-        "ron": "Zilele pe care le-a trăit Adam după naşterea lui Set au fost şapte sute de ani şi i s-au născut fii şi fiice."
+        "ron": "Zilele pe care le-a trăit Adam după naşterea lui Set au fost şapte sute de ani şi i s-au născut fii şi fiice.",
+        "grk": "Ἐγένοντο δὲ αἱ ἡμέραι Ἀδὰμ, ἃς ἔζησε μετὰ τὸ γεννῆσαι αὐτὸν τὸν Σὴθ, ἔτη ἑπτακόσια· καὶ ἐγέννησεν υἱοὺς καὶ θυγατέρας."
       }
     },
     {
@@ -344,7 +348,8 @@
       "translations": {
         "lxx": "And all the days of Adam which he lived were nine hundred and thirty years, and he died.",
         "kjv": "And all the days that Adam lived were nine hundred and thirty years: and he died.",
-        "ron": "Iar de toate, zilele vieţii lui Adam au fost nouă sute treizeci de ani şi apoi a murit."
+        "ron": "Iar de toate, zilele vieţii lui Adam au fost nouă sute treizeci de ani şi apoi a murit.",
+        "grk": "Καὶ ἐγένοντο πᾶσαι αἱ ἡμέραι Ἀδὰμ, ἃς ἔζησε, τριάκοντα καὶ ἐννακόσια ἔτη· καὶ ἀπέθανεν."
       }
     },
     {
@@ -381,7 +386,8 @@
       "translations": {
         "lxx": "Now Seth lived two hundred and five years, and begot Enos.",
         "kjv": "And Seth lived an hundred and five years, and begat Enos:",
-        "ron": "Set a trăit două sute cinci ani şi i s-a născut Enos."
+        "ron": "Set a trăit două sute cinci ani şi i s-a născut Enos.",
+        "grk": "Ἔζησε δὲ Σὴθ πέντε καὶ διακόσια ἔτη· καὶ ἐγέννησε τὸν Ἐνώς."
       }
     },
     {
@@ -438,7 +444,8 @@
       "translations": {
         "lxx": "And Seth lived after his begetting Enos, seven hundred and seven years, and he begot sons and daughters.",
         "kjv": "And Seth lived after he begat Enos eight hundred and seven years, and begat sons and daughters:",
-        "ron": "După naşterea lui Enos, Set a mai trăit şapte sute şapte ani, şi i s-au născut fii şi fiice."
+        "ron": "După naşterea lui Enos, Set a mai trăit şapte sute şapte ani, şi i s-au născut fii şi fiice.",
+        "grk": "Καὶ ἔζησε Σὴθ μετὰ τὸ γεννῆσαι αὐτὸν τὸν Ἐνὼς, ἑπτὰ ἔτη καὶ ἑπτακόσια· καὶ ἐγέννησεν υἱοὺς καὶ θυγατέρας."
       }
     },
     {
@@ -480,7 +487,8 @@
       "translations": {
         "lxx": "And all the days of Seth were nine hundred and twelve years, and he died.",
         "kjv": "And all the days of Seth were nine hundred and twelve years: and he died.",
-        "ron": "Iar de toate, zilele lui Set au fost nouă sute doisprezece ani şi apoi a murit."
+        "ron": "Iar de toate, zilele lui Set au fost nouă sute doisprezece ani şi apoi a murit.",
+        "grk": "Καὶ ἐγένοντο πᾶσαι αἱ ἡμέραι Σὴθ δώδεκα καὶ ἐννακόσια ἔτη· καὶ ἀπέθανε."
       }
     },
     {
@@ -517,7 +525,8 @@
       "translations": {
         "lxx": "And Enos lived an hundred and ninety years, and begot Cainan.",
         "kjv": "And Enos lived ninety years, and begat Cainan:",
-        "ron": "Enos a trăit o sută nouăzeci de ani şi atunci i s-a născut Cainan."
+        "ron": "Enos a trăit o sută nouăzeci de ani şi atunci i s-a născut Cainan.",
+        "grk": "Καὶ ἔζησεν Ἐνὼς ἔτη ἑκατὸν ἐννεήκοντα· καὶ ἐγέννησε τὸν Καϊνᾶν."
       }
     },
     {
@@ -574,7 +583,8 @@
       "translations": {
         "lxx": "And Enos lived after his begetting Cainan, seven hundred and fifteen years, and he begot sons and daughters.",
         "kjv": "And Enos lived after he begat Cainan eight hundred and fifteen years, and begat sons and daughters:",
-        "ron": "După naşterea lui Cainan, Enos a mai trăit şapte sute cincisprezece ani şi i s-au născut fii şi fiice."
+        "ron": "După naşterea lui Cainan, Enos a mai trăit şapte sute cincisprezece ani şi i s-au născut fii şi fiice.",
+        "grk": "Καὶ ἔζησεν Ἐνὼς μετὰ τὸ γεννῆσαι αὐτὸν τὸν Καϊνᾶν, πεντεκαίδεκα ἔτη καὶ ἑπτκόσια· καὶ ἐγέννησεν υἱοὺς καὶ θυγατέρας."
       }
     },
     {
@@ -616,7 +626,8 @@
       "translations": {
         "lxx": "And all the days of Enos were nine hundred and five years, and he died.",
         "kjv": "And all the days of Enos were nine hundred and five years: and he died.",
-        "ron": "Iar de toate, zilele lui Enos au fost nouă sute cinci ani şi apoi a murit."
+        "ron": "Iar de toate, zilele lui Enos au fost nouă sute cinci ani şi apoi a murit.",
+        "grk": "Καὶ ἐγένοντο πᾶσαι αἱ ἡμέραι Ἐνὼς πέντε ἔτη καὶ ἐννακόσια· καὶ ἀπέθανε."
       }
     },
     {
@@ -653,7 +664,8 @@
       "translations": {
         "lxx": "And Cainan lived an hundred and seventy years, and he begot Maleleel.",
         "kjv": "And Cainan lived seventy years, and begat Mahalaleel:",
-        "ron": "Cainan a trăit o sută şaptezeci de ani şi atunci i s-a născut Maleleil."
+        "ron": "Cainan a trăit o sută şaptezeci de ani şi atunci i s-a născut Maleleil.",
+        "grk": "Καὶ ἔζησεν Καϊνᾶν ἑβδομήκοντα καὶ ἑκατὸν ἔτη· καὶ ἐγέννησε τὸν Μαλελεήλ."
       }
     },
     {
@@ -710,7 +722,8 @@
       "translations": {
         "lxx": "And Cainan lived after his begetting Maleleel, seven hundred and forty years, and he begot sons and daughters.",
         "kjv": "And Cainan lived after he begat Mahalaleel eight hundred and forty years, and begat sons and daughters:",
-        "ron": "După naşterea lui Maleleil, Cainan a mai trăit şapte sute patruzeci de ani şi i s-au născut fii şi fiice."
+        "ron": "După naşterea lui Maleleil, Cainan a mai trăit şapte sute patruzeci de ani şi i s-au născut fii şi fiice.",
+        "grk": "Καὶ ἔζησε Καϊνᾶν μετὰ τὸ γεννῆσαι αὐτὸν τὸν Μαλελεὴλ, τεσσεράκοντα καὶ ἑπτακόσια ἔτη· καὶ ἐγέννησεν υἱοὺς καὶ θυγατέρας."
       }
     },
     {
@@ -752,7 +765,8 @@
       "translations": {
         "lxx": "And all the days of Cainan were nine hundred and ten years, and he died.",
         "kjv": "And all the days of Cainan were nine hundred and ten years: and he died.",
-        "ron": "Iar de toate, zilele lui Cainan au fost nouă sute zece ani şi apoi a murit."
+        "ron": "Iar de toate, zilele lui Cainan au fost nouă sute zece ani şi apoi a murit.",
+        "grk": "Καὶ ἐγένοντο πᾶσαι αἱ ἡμέραι Καϊνᾶν δέκα ἔτη καὶ ἐννακόσια· καὶ ἀπέθανε."
       }
     },
     {
@@ -789,7 +803,8 @@
       "translations": {
         "lxx": "And Maleleel lived an hundred and sixty and five years, and he begot Jared.",
         "kjv": "And Mahalaleel lived sixty and five years, and begat Jared:",
-        "ron": "Maleleil a trăit o sută şaizeci şi cinci de ani şi atunci i s-a născut Iared."
+        "ron": "Maleleil a trăit o sută şaizeci şi cinci de ani şi atunci i s-a născut Iared.",
+        "grk": "Καὶ ἔζησε Μαλελεὴλ πέντε καὶ ἑξήκοντα καὶ ἑκατὸν ἔτη· καὶ ἐγέννησε τὸν Ἰάρεδ."
       }
     },
     {
@@ -846,7 +861,8 @@
       "translations": {
         "lxx": "And Maleleel lived after his begetting Jared, seven hundred and thirty years, and he begot sons and daughters.",
         "kjv": "And Mahalaleel lived after he begat Jared eight hundred and thirty years, and begat sons and daughters:",
-        "ron": "După naşterea lui Iared, Maleleil a mai trăit şapte sute treizeci de ani şi i s-au născut fii şi fiice."
+        "ron": "După naşterea lui Iared, Maleleil a mai trăit şapte sute treizeci de ani şi i s-au născut fii şi fiice.",
+        "grk": "Καὶ ἔζησε Μαλελεὴλ μετὰ τὸ γεννῆσαι αὐτὸν τὸν Ἰάρεδ, ἔτη τριάκοντα καὶ ἑπτακόσια· καὶ ἐγέννησεν υἱοὺς καὶ θυγατέρας."
       }
     },
     {
@@ -888,7 +904,8 @@
       "translations": {
         "lxx": "And all the days of Maleleel were eight hundred and ninety and five years, and he died.",
         "kjv": "And all the days of Mahalaleel were eight hundred ninety and five years: and he died.",
-        "ron": "Iar de toate, zilele lui Maleleil au fost opt sute nouăzeci şi cinci de ani şi apoi a murit."
+        "ron": "Iar de toate, zilele lui Maleleil au fost opt sute nouăzeci şi cinci de ani şi apoi a murit.",
+        "grk": "Καὶ ἐγένοντο πᾶσαι αἱ ἡμέραι Μαλελεὴλ, ἔτη πέντε καὶ ἐννενήκοντα καὶ ὀκτακόσια· καὶ ἀπέθανε."
       }
     },
     {
@@ -925,7 +942,8 @@
       "translations": {
         "lxx": "And Jared lived an hundred and sixty and two years, and begot Enoch:",
         "kjv": "And Jared lived an hundred sixty and two years, and he begat Enoch:",
-        "ron": "Iared a trăit o sută şaizeci şi doi de ani şi atunci i s-a născut Enoh."
+        "ron": "Iared a trăit o sută şaizeci şi doi de ani şi atunci i s-a născut Enoh.",
+        "grk": "Καὶ ἔζησεν Ἰάρεδ δύο καὶ ἑξήκοντα ἔτη καὶ ἑκατὸν· καὶ ἐγέννησε τὸν Ἐνώχ."
       }
     },
     {
@@ -982,7 +1000,8 @@
       "translations": {
         "lxx": "and Jared lived after his begetting Enoch, eight hundred years, and he begot sons and daughters.",
         "kjv": "And Jared lived after he begat Enoch eight hundred years, and begat sons and daughters:",
-        "ron": "După naşterea lui Enoh, Iared a mai trăit opt sute de ani şi i s-au născut fii şi fiice."
+        "ron": "După naşterea lui Enoh, Iared a mai trăit opt sute de ani şi i s-au născut fii şi fiice.",
+        "grk": "Καὶ ἔζησεν Ἰάρεδ μετὰ τὸ γεννῆσαι αὐτὸν τὸν Ἐνὼχ, ὀκτακόσια ἔτη· καὶ ἐγέννησεν υἱοὺς καὶ θυγατέρας."
       }
     },
     {
@@ -1024,7 +1043,8 @@
       "translations": {
         "lxx": "And all the days of Jared were nine hundred and sixty and two years, and he died.",
         "kjv": "And all the days of Jared were nine hundred sixty and two years: and he died.",
-        "ron": "Iar de toate, zilele lui Iared au fost nouă sute şaizeci şi doi de ani şi apoi a murit."
+        "ron": "Iar de toate, zilele lui Iared au fost nouă sute şaizeci şi doi de ani şi apoi a murit.",
+        "grk": "Καὶ ἐγένοντο πᾶσαι αἱ ἡμέραι Ἰάρεδ, δύο καὶ ἑξήκοντα καὶ ἐννακόσια ἔτη· καὶ ἀπέθανε."
       }
     },
     {
@@ -1061,7 +1081,8 @@
       "translations": {
         "lxx": "And Enoch lived an hundred and sixty and five years, and begat Mathusala.",
         "kjv": "And Enoch lived sixty and five years, and begat Methuselah:",
-        "ron": "Enoh a trăit o sută şaizeci şi cinci de ani, şi atunci i s-a născut Matusalem."
+        "ron": "Enoh a trăit o sută şaizeci şi cinci de ani, şi atunci i s-a născut Matusalem.",
+        "grk": "Καὶ ἔζησεν Ἐνὼχ πέντε καὶ ἑξήκοντα καὶ ἑκατὸν ἔτη· καὶ ἐγέννησε τὸν Μαθουσάλα."
       }
     },
     {
@@ -1133,7 +1154,8 @@
       "translations": {
         "lxx": "And Enoch was well-pleasing to God after his begetting Mathusala, two hundred years, and he begot sons and daughters.",
         "kjv": "And Enoch walked with God after he begat Methuselah three hundred years, and begat sons and daughters:",
-        "ron": "Şi a umblat Enoh înaintea lui Dumnezeu, după naşterea lui Matusalem, două sute de ani şi i s-au născut fii şi fiice."
+        "ron": "Şi a umblat Enoh înaintea lui Dumnezeu, după naşterea lui Matusalem, două sute de ani şi i s-au născut fii şi fiice.",
+        "grk": "Εὐηρέστησε δὲ Ἐνὼχ τῷ Θεῷ μετὰ τὸ γεννῆσαι αὐτὸν τὸν Μαθουσάλα, διακόσια ἔτη· καὶ ἐγέννησεν υἱοὺς καὶ θυγατέρας."
       }
     },
     {
@@ -1170,7 +1192,8 @@
       "translations": {
         "lxx": "And all the days of Enoch were three hundred and sixty and five years.",
         "kjv": "And all the days of Enoch were three hundred sixty and five years:",
-        "ron": "Iar de toate, zilele lui Enoh au fost trei sute şaizeci şi cinci de ani."
+        "ron": "Iar de toate, zilele lui Enoh au fost trei sute şaizeci şi cinci de ani.",
+        "grk": "Καὶ ἐγένοντο πᾶσαι αἱ ἡμέραι Ἐνὼχ, πέντε καὶ ἑξήκοντα καὶ τριακόσια ἔτη."
       }
     },
     {
@@ -1227,7 +1250,8 @@
       "translations": {
         "lxx": "And Enoch was well-pleasing to God, and was not found, because God translated him.",
         "kjv": "And Enoch walked with God: and he was not; for God took him.",
-        "ron": "Şi a plăcut Enoh lui Dumnezeu şi apoi nu s-a mai aflat, pentru că l-a mutat Dumnezeu."
+        "ron": "Şi a plăcut Enoh lui Dumnezeu şi apoi nu s-a mai aflat, pentru că l-a mutat Dumnezeu.",
+        "grk": "Καὶ εὐηρέστησεν Ἐνὼχ τῷ Θεῷ· καὶ οὐχ εὑρίσκετο, ὅτι μετέθηκεν αὐτὸν ὁ Θεός."
       }
     },
     {
@@ -1264,7 +1288,8 @@
       "translations": {
         "lxx": "And Mathusala lived an hundred and sixty and seven years, and begot Lamech.",
         "kjv": "And Methuselah lived an hundred eighty and seven years, and begat Lamech:",
-        "ron": "Matusalem a trăit o sută optzeci şi şapte de ani şi atunci i s-a născut Lameh."
+        "ron": "Matusalem a trăit o sută optzeci şi şapte de ani şi atunci i s-a născut Lameh.",
+        "grk": "Καὶ ἔζησε Μαθουσάλα ἑπτὰ ἔτη καὶ ἑξήκοντα καὶ ἑκατόν· καὶ ἐγέννησε τὸν Λάμεχ."
       }
     },
     {
@@ -1321,7 +1346,8 @@
       "translations": {
         "lxx": "And Mathusala lived after his begetting Lamech eight hundred and two years, and begot sons and daughters.",
         "kjv": "And Methuselah lived after he begat Lamech seven hundred eighty and two years, and begat sons and daughters:",
-        "ron": "După naşterea lui Lameh, Matusalem a mai trăit şapte sute optzeci şi doi de ani şi i s-au născut fii şi fiice."
+        "ron": "După naşterea lui Lameh, Matusalem a mai trăit şapte sute optzeci şi doi de ani şi i s-au născut fii şi fiice.",
+        "grk": "Καὶ ἔζησε Μαθουσάλα μετὰ τὸ γεννῆσαι αὐτὸν τὸν Λάμεχ, δύο καὶ ὀκτακόσια ἔτη· καὶ ἐγέννησεν υἱοὺς καὶ θυγατέρας."
       }
     },
     {
@@ -1363,7 +1389,8 @@
       "translations": {
         "lxx": "And all the days of Mathusala which he lived, were nine hundred and sixty and nine years, and he died.",
         "kjv": "And all the days of Methuselah were nine hundred sixty and nine years: and he died.",
-        "ron": "Iar de toate, zilele lui Matusalem, pe care le-a trăit, au fost nouă sute şaizeci şi nouă de ani şi apoi a murit."
+        "ron": "Iar de toate, zilele lui Matusalem, pe care le-a trăit, au fost nouă sute şaizeci şi nouă de ani şi apoi a murit.",
+        "grk": "Καὶ ἐγένοντο πᾶσαι αἱ ἡμέραι Μαθουσάλα ἃς ἔζησεν, ἐννέα καὶ ἑξήκοντα καὶ ἐννακόσια ἔτη· καὶ ἀπέθανε."
       }
     },
     {
@@ -1405,7 +1432,8 @@
       "translations": {
         "lxx": "And Lamech lived an hundred and eighty and eight years, and begot a son.",
         "kjv": "And Lamech lived an hundred eighty and two years, and begat a son:",
-        "ron": "Lameh a trăit o sută optzeci şi opt de ani şi atunci i s-a născut un fiu."
+        "ron": "Lameh a trăit o sută optzeci şi opt de ani şi atunci i s-a născut un fiu.",
+        "grk": "Καὶ ἔζησε Λάμεχ ὀκτὼ καὶ ὀγδοήκοντα καὶ ἑκατὸν ἔτη· καὶ ἐγέννησεν υἱόν."
       }
     },
     {
@@ -1492,7 +1520,8 @@
       "translations": {
         "lxx": "And he called his name Noe, saying, This one will cause us to cease from our works, and from the toils of our hands, and from the earth, which the Lord God has cursed.",
         "kjv": "And he called his name Noah, saying, This same shall comfort us concerning our work and toil of our hands, because of the ground which the LORD hath cursed.",
-        "ron": "Şi i-a pus numele Noe, zicând: \"Acesta ne va mângâia în lucrul nostru şi în munca mâinilor noastre, la lucrarea pământului, pe care l-a blestemat Domnul Dumnezeu!\""
+        "ron": "Şi i-a pus numele Noe, zicând: \"Acesta ne va mângâia în lucrul nostru şi în munca mâinilor noastre, la lucrarea pământului, pe care l-a blestemat Domnul Dumnezeu!\"",
+        "grk": "Καὶ ἐπωνόμασε τὸ ὄνομα αὐτοῦ Νῶε, λέγων, οὗτος διαναπαύσει ἡμᾶς ἀπὸ τῶν ἔργων ἡμῶν, καὶ ἀπὸ τῶν λυπῶν τῶν χειρῶν ἡμῶν, καὶ ἀπὸ τῆς γῆς, ἧς κατηράσατο Κύριος ὁ Θεός."
       }
     },
     {
@@ -1549,7 +1578,8 @@
       "translations": {
         "lxx": "And Lamech lived after his begetting Noe, five hundred and sixty and five years, and begot sons and daughters.",
         "kjv": "And Lamech lived after he begat Noah five hundred ninety and five years, and begat sons and daughters:",
-        "ron": "Şi a mai trăit Lameh, după naşterea lui Noe, cinci sute şaizeci şi cinci de ani şi i s-au născut fii şi fiice."
+        "ron": "Şi a mai trăit Lameh, după naşterea lui Noe, cinci sute şaizeci şi cinci de ani şi i s-au născut fii şi fiice.",
+        "grk": "Καὶ ἔζησε Λάμεχ μετὰ τὸ γεννῆσαι αὐτὸν τὸν Νῶε, πεντακόσια καὶ ἑξήκοντα καὶ πέντε ἔτη· καὶ ἐγέννησεν υἱοὺς καὶ θυγατέρας."
       }
     },
     {
@@ -1591,7 +1621,8 @@
       "translations": {
         "lxx": "And all the days of Lamech were seven hundred and fifty-three years, and he died.",
         "kjv": "And all the days of Lamech were seven hundred seventy and seven years: and he died.",
-        "ron": "Iar de toate, zilele lui Lameh au fost şapte sute cincizeci şi trei de ani şi apoi a murit."
+        "ron": "Iar de toate, zilele lui Lameh au fost şapte sute cincizeci şi trei de ani şi apoi a murit.",
+        "grk": "Καὶ ἐγένοντο πᾶσαι αἱ ἡμέραι Λάμεχ, ἑπτακόσια καὶ πεντήκοντα τρία ἔτη· καὶ ἀπέθανε."
       }
     },
     {
@@ -1648,7 +1679,8 @@
       "translations": {
         "lxx": "And Noe was five hundred years old, and he begot three sons, Sem, Cham, and Japheth.",
         "kjv": "And Noah was five hundred years old: and Noah begat Shem, Ham, and Japheth.",
-        "ron": "Noe era de cinci sute de ani, când i s-au născut trei feciori: Sem, Ham şi Iafet."
+        "ron": "Noe era de cinci sute de ani, când i s-au născut trei feciori: Sem, Ham şi Iafet.",
+        "grk": "Καὶ ἦν Νῶε ἐτῶν πεντακοσίων· καὶ ἐγέννησε τρεῖς υἱοὺς, τὸν Σὴμ, τὸν Χὰμ, τὸν Ἰάφεθ."
       }
     }
   ],

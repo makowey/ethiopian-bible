@@ -36,7 +36,8 @@
       "translations": {
         "lxx": "But Jonas was very deeply grieved, and he was confounded.",
         "kjv": "But it displeased Jonah exceedingly, and he was very angry.",
-        "ron": "Şi Iona a fost cuprins de mare supărare şi s-a aprins de mânie."
+        "ron": "Şi Iona a fost cuprins de mare supărare şi s-a aprins de mânie.",
+        "grk": "Καὶ ἐλυπήθη Ἰωνᾶς λύπην μεγάλην· καὶ συνεχύθη,"
       }
     },
     {
@@ -178,7 +179,8 @@
       "translations": {
         "lxx": "And he prayed to the Lord, and said, O Lord, were not these my words when I was yet in my land? therefore I made haste to flee to Tharsis; because I knew that thou art merciful and compassionate, long-suffering, and abundant in kindness, and repentest of evil.",
         "kjv": "And he prayed unto the LORD, and said, I pray thee, O LORD, was not this my saying, when I was yet in my country? Therefore I fled before unto Tarshish: for I knew that thou art a gracious God, and merciful, slow to anger, and of great kindness, and repentest thee of the evil.",
-        "ron": "Şi a rugat pe Domnul, zicând: \"O, Doamne, iată tocmai ceea ce cugetam eu când eram în tara mea! Pentru aceasta eu am încercat să fug în Tarsis, că ştiam că Tu eşti Dumnezeu îndurat şi milostiv, îndelung-răbdător şi mult-milosârd şi Îţi pare rău de fărădelegi."
+        "ron": "Şi a rugat pe Domnul, zicând: \"O, Doamne, iată tocmai ceea ce cugetam eu când eram în tara mea! Pentru aceasta eu am încercat să fug în Tarsis, că ştiam că Tu eşti Dumnezeu îndurat şi milostiv, îndelung-răbdător şi mult-milosârd şi Îţi pare rău de fărădelegi.",
+        "grk": "καὶ προσεύξατο πρὸς Κύριον, καὶ εἶπεν, Κύριε, οὐχ οὗτοι οἱ λόγοι μου, ἔτι ὄντος μου ἐν τῇ γῇ μου; διατοῦτο προέφθασα τοῦ φυγεῖν εἰς Θαρσὶς, διότι ἔγνων ὅτι σὺ ἐλεήμων καὶ οἰκτίρμων, μακρόθυμος καὶ πολυέλεος, καὶ μετανοῶν ἐπὶ ταῖς κακίαις."
       }
     },
     {
@@ -235,7 +237,8 @@
       "translations": {
         "lxx": "And now, Lord God, take my life from me; for it is better for me to die than to live.",
         "kjv": "Therefore now, O LORD, take, I beseech thee, my life from me; for it is better for me to die than to live.",
-        "ron": "Şi acum, Doamne, ia-mi sufletul meu, căci este mai bine să mor decât să fiu viu!\""
+        "ron": "Şi acum, Doamne, ia-mi sufletul meu, căci este mai bine să mor decât să fiu viu!\"",
+        "grk": "Καὶ νῦν, δέσποτα Κύριε, λάβε τὴν ψυχήν μου ἀπʼ ἐμοῦ, ὅτι καλὸν τὸ ἀποθανεῖν με ἢ ζῇν με."
       }
     },
     {
@@ -277,7 +280,8 @@
       "translations": {
         "lxx": "And the Lord said to Jonas, Art thou very much grieved?",
         "kjv": "Then said the LORD, Doest thou well to be angry?",
-        "ron": "Şi a zis Domnul: \"Faci tu oare bine că ţi-ai aprins mânia?\""
+        "ron": "Şi a zis Domnul: \"Faci tu oare bine că ţi-ai aprins mânia?\"",
+        "grk": "Καὶ εἶπε Κύριος πρὸς Ἰωνᾶν, εἰ σφόδρα λελύπησαι σύ;"
       }
     },
     {
@@ -374,7 +378,8 @@
       "translations": {
         "lxx": "And Jonas went out from the city, and sat over against the city; and he made for himself there a booth, and he sat under it, until he should perceive what would become of the city.",
         "kjv": "So Jonah went out of the city, and sat on the east side of the city, and there made him a booth, and sat under it in the shadow, till he might see what would become of the city.",
-        "ron": "Atunci Iona a ieşit din cetate şi s-a aşezat la răsăritul ei, şi-a făcut o colibă şi a stat sub ea la umbră, ca să vadă ce se va întâmpla cu cetatea."
+        "ron": "Atunci Iona a ieşit din cetate şi s-a aşezat la răsăritul ei, şi-a făcut o colibă şi a stat sub ea la umbră, ca să vadă ce se va întâmpla cu cetatea.",
+        "grk": "Καὶ ἐξῆλθεν Ἰωνᾶς ἐκ τῆς πόλεως, καὶ ἐκάθισεν ἀπέναντι τῆς πόλεως· καὶ ἐποίησεν αὐτῷ ἐκεῖ σκηνὴν, καὶ ἐκάθητο ὑποκάτω αὐτῆς, ἕως οὗ ἀπίδῃ τί ἔσται τῇ πόλει."
       }
     },
     {
@@ -471,7 +476,8 @@
       "translations": {
         "lxx": "And the Lord God commanded a gourd, and it came up over the head of Jonas, to be a shadow over his head, to shade him from his calamities: and Jonas rejoiced with great joy for the gourd.",
         "kjv": "And the LORD God prepared a gourd, and made it to come up over Jonah, that it might be a shadow over his head, to deliver him from his grief. So Jonah was exceeding glad of the gourd.",
-        "ron": "Şi Domnul Dumnezeu a făcut să crească un vrej care s-a ridicat deasupra capului lui Iona, ca să-i ţină umbră şi să-i mai potolească mânia. Şi s-a bucurat Iona cu bucurie mare pentru vrej."
+        "ron": "Şi Domnul Dumnezeu a făcut să crească un vrej care s-a ridicat deasupra capului lui Iona, ca să-i ţină umbră şi să-i mai potolească mânia. Şi s-a bucurat Iona cu bucurie mare pentru vrej.",
+        "grk": "Καὶ προσέταξε Κύριος ὁ Θεὸς κολοκύνθῃ, καὶ ἀνέβη ὑπὲρ κεφαλῆς τοῦ Ἰωνᾶ, τοῦ εἶναι σκιὰν ὑπεράνω τῆς κεφαλῆς αὐτοῦ, τοῦ σκιάζειν αὐτῷ ἀπὸ τῶν κακῶν αὐτοῦ· καὶ ἐχάρη Ἰωνᾶς ἐπὶ τῇ κολοκύνθῃ χαρὰν μεγάλην."
       }
     },
     {
@@ -523,7 +529,8 @@
       "translations": {
         "lxx": "And God commanded a worm the next morning, and it smote the gourd, and it withered away.",
         "kjv": "But God prepared a worm when the morning rose the next day, and it smote the gourd that it withered.",
-        "ron": "Dar Dumnezeu, a doua zi, la revărsatul zorilor, a poruncit unui vierme să reteze vrejul. Iar el s-a uscat."
+        "ron": "Dar Dumnezeu, a doua zi, la revărsatul zorilor, a poruncit unui vierme să reteze vrejul. Iar el s-a uscat.",
+        "grk": "Καὶ προσέταξεν ὁ Θεὸς σκώληκι ἑωθινῇ τῇ ἐπαυρίον, καὶ ἐπάταξε τὴν κολόκυνθαν, καὶ ἀπεξηράνθη."
       }
     },
     {
@@ -625,7 +632,8 @@
       "translations": {
         "lxx": "And it came to pass at the rising of the sun, that God commanded a burning east wind; and the sun smote on the head of Jonas, and he fainted, and despaired of his life, and said, It is better for me to die than to live.",
         "kjv": "And it came to pass, when the sun did arise, that God prepared a vehement east wind; and the sun beat upon the head of Jonah, that he fainted, and wished in himself to die, and said, It is better for me to die than to live.",
-        "ron": "Şi la răsăritul soarelui a pornit Dumnezeu un vânt arzător de la răsărit şi soarele a dogorit capul lui Iona, încât el se prăpădea de căldură. Şi şi-a rugat moartea zicând: \"Mai bine este să mor decât să trăiesc!\""
+        "ron": "Şi la răsăritul soarelui a pornit Dumnezeu un vânt arzător de la răsărit şi soarele a dogorit capul lui Iona, încât el se prăpădea de căldură. Şi şi-a rugat moartea zicând: \"Mai bine este să mor decât să trăiesc!\"",
+        "grk": "Καὶ ἐγένετο ἅμα τῷ ἀνατεῖλαι τὸν ἥλιον, καὶ προσέταξεν ὁ Θεὸς πνεύματι καύσωνι συγκαίοντι, καὶ ἐπάταξεν ὁ ἥλιος ἐπὶ τὴν κεφαλὴν τοῦ Ἰωνᾶ· καὶ ὠλιγοψύχησε, καὶ ἀπελέγετο τὴν ψυχὴν αὐτοῦ, καὶ εἶπε, καλόν μοι ἀποθανεῖν με ἢ ζῇν."
       }
     },
     {
@@ -697,7 +705,8 @@
       "translations": {
         "lxx": "And God said to Jonas, Art thou very much grieved for the gourd? And he said, I am very much grieved, even to death.",
         "kjv": "And God said to Jonah, Doest thou well to be angry for the gourd? And he said, I do well to be angry, even unto death.",
-        "ron": "Şi a grăit Domnul către Iona: \"Ai tu dreptate să te mânii pentru vrej?\" Şi el a răspuns: \"Da, am dreptate să fiu supărat de moarte!\""
+        "ron": "Şi a grăit Domnul către Iona: \"Ai tu dreptate să te mânii pentru vrej?\" Şi el a răspuns: \"Da, am dreptate să fiu supărat de moarte!\"",
+        "grk": "Καὶ εἶπεν ὁ Θεὸς πρὸς Ἰωνᾶν, εἰ σφόδρα λελύπησαι σὺ ἐπὶ τῇ κολοκύνθῃ; καὶ εἶπε, σφόδρα λελύπημαι ἐγὼ ἕως θανάτου."
       }
     },
     {
@@ -764,7 +773,8 @@
       "translations": {
         "lxx": "And the Lord said, Thou hadst pity on the gourd, for which thou hast not suffered, neither didst thou rear it; which came up before night, and perished before another night:",
         "kjv": "Then said the LORD, Thou hast had pity on the gourd, for the which thou hast not laboured, neither madest it grow; which came up in a night, and perished in a night:",
-        "ron": "Şi a zis Domnul: \"Tu ţi-ai făcut necaz pentru acest vrej pentru care nu te-ai trudit şi nici nu l-ai crescut, care şi-a luat fiinţă într-o noapte şi într-alta a pierit!"
+        "ron": "Şi a zis Domnul: \"Tu ţi-ai făcut necaz pentru acest vrej pentru care nu te-ai trudit şi nici nu l-ai crescut, care şi-a luat fiinţă într-o noapte şi într-alta a pierit!",
+        "grk": "Καὶ εἶπε Κύριος, σὺ ἐφείσω ὑπὲρ τῆς κολοκύνθης, ὑπὲρ ἧς οὐκ ἐκακοπάθησας ἐπʼ αὐτὴν, καὶ οὐδὲ ἐξέθρεψας αὐτὴν, ἣ ἐγενήθη ὑπὸ νύκτα, καὶ ὑπὸ νύκτα ἀπώλετο·"
       }
     },
     {
@@ -866,7 +876,8 @@
       "translations": {
         "lxx": "and shall not I spare Nineve, the great city, in which dwell more than twelve myriads of human beings, who do not know their right hand or their left hand; and also much cattle?",
         "kjv": "And should not I spare Nineveh, that great city, wherein are more than sixscore thousand persons that cannot discern between their right hand and their left hand; and also much cattle?",
-        "ron": "Dar Mie cum să nu-Mi fie milă de cetatea cea mare a Ninivei cu mai mult de o sută douăzeci de mii de oameni, care nu ştiu să deosebească dreapta de stânga lor, şi cu un mare număr de dobitoace?\""
+        "ron": "Dar Mie cum să nu-Mi fie milă de cetatea cea mare a Ninivei cu mai mult de o sută douăzeci de mii de oameni, care nu ştiu să deosebească dreapta de stânga lor, şi cu un mare număr de dobitoace?\"",
+        "grk": "ἐγὼ δὲ οὐ φείσομαι ὑπὲρ Νινευὴ τῆς πόλεως τῆς μεγάλης, ἐν ᾗ κατοικοῦσι πλείους ἢ δώδεκα μυριάδες ἀνθρώπων, οἵτινες οὐκ ἔγνωσαν δεξιὰν αὐτῶν ἢ ἀριστερὰν αὐτῶν, καὶ κτήνη πολλά;"
       }
     }
   ],

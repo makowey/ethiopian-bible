@@ -56,7 +56,8 @@
       "translations": {
         "lxx": "And all the congregation lifted up their voice and cried; and the people wept all that night.",
         "kjv": "And all the congregation lifted up their voice, and cried; and the people wept that night.",
-        "ron": "Atunci toată obştea a ridicat strigăt şi a plâns poporul toată noaptea aceea;"
+        "ron": "Atunci toată obştea a ridicat strigăt şi a plâns poporul toată noaptea aceea;",
+        "grk": "Καὶ ἀναλαβοῦσα πᾶσα ἡ συναγωγὴ, ἐνέδωκε φωνήν· καὶ ἔκλαιεν ὁ λαὸς ὅλην τὴν νύκτα ἐκείνην."
       }
     },
     {
@@ -168,7 +169,8 @@
       "translations": {
         "lxx": "And all the children of Israel murmured against Moses and Aaron; and all the congregation said to them,",
         "kjv": "And all the children of Israel murmured against Moses and against Aaron: and the whole congregation said unto them, Would God that we had died in the land of Egypt! or would God we had died in this wilderness!",
-        "ron": "Cârtind împotriva lui Moise şi a lui Aaron, toţi fiii lui Israel şi toată obştea au zis către ei: \"Mai bine era să fi murit în pământul Egiptului sau să murim în pustiul acesta!"
+        "ron": "Cârtind împotriva lui Moise şi a lui Aaron, toţi fiii lui Israel şi toată obştea au zis către ei: \"Mai bine era să fi murit în pământul Egiptului sau să murim în pustiul acesta!",
+        "grk": "Καὶ διεγόγγυζον ἐπὶ Μωυσῆν καὶ Ἀαρὼν πάντες οἱ υἱοὶ Ἰσραήλ· καὶ εἶπαν πρὸς αὐτοὺς πᾶσα ἡ συναγωγὴ,"
       }
     },
     {
@@ -280,7 +282,8 @@
       "translations": {
         "lxx": "Would we had died in the land of Egypt! or in this wilderness, would we had died! and why does the Lord bring us into this land to fall in war? our wives and our children shall be for a prey: now then it is better to return into Egypt.",
         "kjv": "And wherefore hath the LORD brought us unto this land, to fall by the sword, that our wives and our children should be a prey? were it not better for us to return into Egypt?",
-        "ron": "La ce ne duce Domnul în pământul acela, ca să cădem în război? Femeile noastre şi copiii noştri vor fi pradă. Nu ar fi, oare, mai bine să ne întoarcem în Egipt?\""
+        "ron": "La ce ne duce Domnul în pământul acela, ca să cădem în război? Femeile noastre şi copiii noştri vor fi pradă. Nu ar fi, oare, mai bine să ne întoarcem în Egipt?\"",
+        "grk": "Ὄφελον ἀπεθάνομεν ἐν γῇ Αἰγύπτῳ, ἢ ἐν τῇ ἐρήμῳ ταύτῃ, εἰ ἀπεθάνομεν· καὶ ἱνατί Κύριος εἰσάγει ἡμᾶς εἰς τὴν γῆν ταύτην πεσεῖν ἐν πολέμῳ; αἱ γυναῖκες ἡμῶν καὶ τὰ παιδία ἔσονται εἰς διαρπαγήν· νῦν οὖν βέλτιόν ἐστιν ἀποστραφῆναι εἰς Αἴγυπτον."
       }
     },
     {
@@ -337,7 +340,8 @@
       "translations": {
         "lxx": "And they said one to another, Let us make a ruler, and return into Egypt.",
         "kjv": "And they said one to another, Let us make a captain, and let us return into Egypt.",
-        "ron": "Apoi au zis unii către alţii: \"Să ne alegem căpetenie şi să ne întoarcem în Egipt\"."
+        "ron": "Apoi au zis unii către alţii: \"Să ne alegem căpetenie şi să ne întoarcem în Egipt\".",
+        "grk": "Καὶ εἶπαν ἕτερος τῷ ἑτέρῳ, δῶμεν ἀρχηγὸν, καὶ ἀποστρέψωμεν εἰς Αἴγυπτον."
       }
     },
     {
@@ -394,7 +398,8 @@
       "translations": {
         "lxx": "And Moses and Aaron fell upon their face before all the congregation of the children of Israel.",
         "kjv": "Then Moses and Aaron fell on their faces before all the assembly of the congregation of the children of Israel.",
-        "ron": "Atunci au căzut Moise şi Aaron cu felele la pământ înaintea întregii adunări a obştii fiilor lui Israel."
+        "ron": "Atunci au căzut Moise şi Aaron cu felele la pământ înaintea întregii adunări a obştii fiilor lui Israel.",
+        "grk": "Καὶ ἔπεσε Μωυσῆς καὶ Ἀαρὼν ἐπὶ πρόσωπον ἐναντίον πάσης συναγωγῆς υἱῶν Ἰσραήλ."
       }
     },
     {
@@ -476,7 +481,8 @@
       "translations": {
         "lxx": "But Joshua the son of Naue, and Chaleb the son of Jephonne, of the number of them that spied out the land, rent their garments,",
         "kjv": "And Joshua the son of Nun, and Caleb the son of Jephunneh, which were of them that searched the land, rent their clothes:",
-        "ron": "Iar Iosua, fiul lui Navi şi Caleb al lui Iefone, care erau din cei ce cercetaseră tara, şi-au rupt hainele loz"
+        "ron": "Iar Iosua, fiul lui Navi şi Caleb al lui Iefone, care erau din cei ce cercetaseră tara, şi-au rupt hainele loz",
+        "grk": "Ἰησοῦς δὲ ὁ τοῦ Ναυὴ, καὶ Χάλεβ ὁ τοῦ Ἰεφοννὴ τῶν κατασκεψαμένων τὴν γῆν, διέῤῥηξαν τὰ ἱμάτια αὐτῶν,"
       }
     },
     {
@@ -543,7 +549,8 @@
       "translations": {
         "lxx": "and spoke to all the congregation of the children of Israel, saying, The land which we surveyed is indeed extremely good.",
         "kjv": "And they spake unto all the company of the children of Israel, saying, The land, which we passed through to search it, is an exceeding good land.",
-        "ron": "Şi au zis către obştea fiilor lui Israel: \"Pământul, pe care l-am străbătut noi, este foarte, foarte bun;"
+        "ron": "Şi au zis către obştea fiilor lui Israel: \"Pământul, pe care l-am străbătut noi, este foarte, foarte bun;",
+        "grk": "καὶ εἶπαν πρὸς πᾶσαν συναγωγὴν υἱῶν Ἰσραὴλ, λέγοντες, ἡ γῆ ἣν κατεσκεψάμεθα αὐτὴν, ἀγαθή ἐστι σφόδρα σφόδρα."
       }
     },
     {
@@ -635,7 +642,8 @@
       "translations": {
         "lxx": "If the Lord choose us, he will bring us into this land, and give it us; a land which flows with milk and honey.",
         "kjv": "If the LORD delight in us, then he will bring us into this land, and give it us; a land which floweth with milk and honey.",
-        "ron": "De va fi Domnul bun cu noi, ne va duce în pământul acela şi ni-l va da nouă; în pământul acela izvorăşte lapte şi miere."
+        "ron": "De va fi Domnul bun cu noi, ne va duce în pământul acela şi ni-l va da nouă; în pământul acela izvorăşte lapte şi miere.",
+        "grk": "Εἰ αἱρετίζει ἡμᾶς Κύριος, εἰσάξει ἡμᾶς εἰς τὴν γῆν ταύτην, καὶ δώσει αὐτὴν ἡμῖν· γῆ ἥτις ἐστὶ ῥέουσα γάλα καὶ μέλι."
       }
     },
     {
@@ -747,7 +755,8 @@
       "translations": {
         "lxx": "Only depart not from the Lord; and fear ye not the people of the land, for they are meat for us; for the season of prosperity is departed from them, but the Lord is among us: fear them not.",
         "kjv": "Only rebel not ye against the LORD, neither fear ye the people of the land; for they are bread for us: their defence is departed from them, and the LORD is with us: fear them not.",
-        "ron": "Deci nu vă ridicaţi împotriva Domnului şi nu vă temeţi de poporul pământului aceluia, căci va ajunge mâncarea noastră: ei n-au apărare, iar cu noi este Domnul. Nu vă temeţi de ei!\""
+        "ron": "Deci nu vă ridicaţi împotriva Domnului şi nu vă temeţi de poporul pământului aceluia, căci va ajunge mâncarea noastră: ei n-au apărare, iar cu noi este Domnul. Nu vă temeţi de ei!\"",
+        "grk": "Ἀλλὰ ἀπὸ τοῦ Κυρίου μὴ ἀποστάται γίνεσθε· ὑμεῖς δὲ μὴ φοβηθῆτε τὸν λαὸν τῆς γῆς, ὅτι κατάβρωμα ὑμῖν ἐστιν· ἀφέστηκε γὰρ ὁ καιρὸς ἀπʼ αὐτῶν· ὁ δὲ Κύριος ἐν ἡμῖν· μὴ φοβηθήτε αὐτούς."
       }
     },
     {
@@ -839,7 +848,8 @@
       "translations": {
         "lxx": "And all the congregation bade stone them with stones; and the glory of the Lord appeared in the cloud on the tabernacle of witness to all the children of Israel.",
         "kjv": "But all the congregation bade stone them with stones. And the glory of the LORD appeared in the tabernacle of the congregation before all the children of Israel.",
-        "ron": "Atunci toată obştea a zis: \"Să-i ucidem cu pietre!\" Dar iată slava Domnului s-a arătat în nor tuturor fiilor lui Israel la cortul adunării."
+        "ron": "Atunci toată obştea a zis: \"Să-i ucidem cu pietre!\" Dar iată slava Domnului s-a arătat în nor tuturor fiilor lui Israel la cortul adunării.",
+        "grk": "Καὶ εἶπε πᾶσα ἡ συναγωγὴ καταλιθοβολῆσαι αὐτοὺς ἐν λίθοις· καὶ ἡ δόξα Κυρίου ὤφθη ἐν τῇ νεφέλῃ ἐπὶ τῆς σκηνῆς τοῦ μαρτυρίου πᾶσι τοῖς υἱοῖς Ἰσραήλ."
       }
     },
     {
@@ -926,7 +936,8 @@
       "translations": {
         "lxx": "And the Lord said to Moses, How long does this people provoke me? and how long do they refuse to believe me for all the signs which I have wrought among them?",
         "kjv": "And the LORD said unto Moses, How long will this people provoke me? and how long will it be ere they believe me, for all the signs which I have shewed among them?",
-        "ron": "Şi a zis Domnul către Moise: \"Până când Mă va supăra poporul acesta şi până când nu va crede el în Mine, cu toate minunile ce am făcut în mijlocul lui?"
+        "ron": "Şi a zis Domnul către Moise: \"Până când Mă va supăra poporul acesta şi până când nu va crede el în Mine, cu toate minunile ce am făcut în mijlocul lui?",
+        "grk": "Καὶ εἶπε Κύριος πρὸς Μωυσῆν, ἕως τίνος παροξύνει με ὁ λαὸς οὗτος; καὶ ἕως τίνος οὐ πιστεύουσί μοι ἐπὶ πᾶσι τοῖς σημείοις, οἷς ἐποίησα ἐν αὐτοῖς;"
       }
     },
     {
@@ -1008,7 +1019,8 @@
       "translations": {
         "lxx": "I will smite them with death, and destroy them; and I will make of thee and of thy father's house a great nation, and much greater than this.",
         "kjv": "I will smite them with the pestilence, and disinherit them, and will make of thee a greater nation and mightier than they.",
-        "ron": "Îl voi lovi cu ciumă şi-l voi pierde şi te voi face pe tine şi casa tatălui tău popor numeros şi mai puternic decât acesta!\""
+        "ron": "Îl voi lovi cu ciumă şi-l voi pierde şi te voi face pe tine şi casa tatălui tău popor numeros şi mai puternic decât acesta!\"",
+        "grk": "Πατάξω αὐτοὺς θανάτῳ, καὶ ἀπολῶ αὐτούς· καὶ ποιήσω σε καὶ τὸν οἶκον τοῦ πατρός σου εἰς ἔθνος μέγα, καὶ πολὺ μᾶλλον ἢ τοῦτο."
       }
     },
     {
@@ -1075,7 +1087,8 @@
       "translations": {
         "lxx": "And Moses said to the Lord, So Egypt shall hear, for thou hast brought up this people from them by thy might.",
         "kjv": "And Moses said unto the LORD, Then the Egyptians shall hear it, (for thou broughtest up this people in thy might from among them;)",
-        "ron": "Moise însă a zis către Domnul: \"Vor auzi de aceasta Egiptenii, din mijlocul cărora ai scos Tu, cu puterea Ta, pe poporul acesta"
+        "ron": "Moise însă a zis către Domnul: \"Vor auzi de aceasta Egiptenii, din mijlocul cărora ai scos Tu, cu puterea Ta, pe poporul acesta",
+        "grk": "Καὶ εἶπε Μωυσῆς πρὸς Κύριον, καὶ ἀκούσεται Αἴγυπτος, ὅτι ἀνήγαγες τῇ ἰσχύϊ σου τὸν λαὸν τοῦτον ἐξ αὐτῶν."
       }
     },
     {
@@ -1257,7 +1270,8 @@
       "translations": {
         "lxx": "Moreover all the dwellers upon this land have heard that thou art Lord in the midst of this people, who, O Lord, art seen by them face to face, and thy cloud rests upon them, and thou goest before them by day in a pillar of a cloud, and by night in a pillar of fire.",
         "kjv": "And they will tell it to the inhabitants of this land: for they have heard that thou LORD art among this people, that thou LORD art seen face to face, and that thy cloud standeth over them, and that thou goest before them, by day time in a pillar of a cloud, and in a pillar of fire by night.",
-        "ron": "Şi vor spune locuitorilor pământului acestuia, care au auzit, că Tu, Doamne, Te afli în mijlocul poporului acestuia şi Tu, Doamne, le dai să Te vadă faţă către faţă, şi că Tu mergi înaintea lor, ziua în stâlp de nor şi noaptea în stâlp de foc."
+        "ron": "Şi vor spune locuitorilor pământului acestuia, care au auzit, că Tu, Doamne, Te afli în mijlocul poporului acestuia şi Tu, Doamne, le dai să Te vadă faţă către faţă, şi că Tu mergi înaintea lor, ziua în stâlp de nor şi noaptea în stâlp de foc.",
+        "grk": "Ἀλλὰ καὶ πάντες οἱ κατοικοῦντες ἐπὶ τῆς γῆς ταύτης ἀκηκόασιν, ὅτι σὺ εἶ Κύριος ἐν τῷ λαῷ τούτῷ, ὅστις ὀφθαλμοῖς κατʼ ὀφθαλμοὺς ὀπτάζῃ Κύριε, καὶ ἡ νεφέλη σου ἐφέστηκεν ἐπʼ αὐτῶν, καὶ ἐν στύλῳ νεφέλης σὺ πορεύῃ πρότερος αὐτῶν τὴν ἡμέραν, καὶ ἐν στύλῳ πυρὸς τὴν νύκτα."
       }
     },
     {
@@ -1334,7 +1348,8 @@
       "translations": {
         "lxx": "And if thou shalt destroy this nation as one man; then all the nations that have heard thy name shall speak, saying,",
         "kjv": "Now if thou shalt kill all this people as one man, then the nations which have heard the fame of thee will speak, saying,",
-        "ron": "Iar dacă Tu vei pierde pe poporul acesta, ca pe un om, atunci popoarele care au auzit de numele Tău vor zice:"
+        "ron": "Iar dacă Tu vei pierde pe poporul acesta, ca pe un om, atunci popoarele care au auzit de numele Tău vor zice:",
+        "grk": "Καὶ ἐκτρίψεις τὸν λαὸν τοῦτον ὡσεὶ ἄνθρωπον ἕνα· καὶ ἐροῦσι τὰ ἔθνη ὅσοι ἀκηκόασι τὸ ὄνομά σου, λέγοντες,"
       }
     },
     {
@@ -1406,7 +1421,8 @@
       "translations": {
         "lxx": "Because the Lord could not bring this people into the land which he sware to them, he has overthrown them in the wilderness.",
         "kjv": "Because the LORD was not able to bring this people into the land which he sware unto them, therefore he hath slain them in the wilderness.",
-        "ron": "Domnul n-a putut duce pe poporul acesta în pământul pe care cu jurământ l-a făgăduit să-l dea lor şi de aceea l-a pierdut în pustie."
+        "ron": "Domnul n-a putut duce pe poporul acesta în pământul pe care cu jurământ l-a făgăduit să-l dea lor şi de aceea l-a pierdut în pustie.",
+        "grk": "παρὰ τὸ μὴ δύνασθαι Κύριον εἰσαγαγεῖν τὸν λαὸν τοῦτον εἰς τὴν γῆν ἣν ὤμοσεν αὐτοῖς, κατέστρωσεν αὐτοὺς ἐν τῇ ἐρήμῳ."
       }
     },
     {
@@ -1458,7 +1474,8 @@
       "translations": {
         "lxx": "And now, O Lord, let thy strength be exalted, as thou spakest, saying,",
         "kjv": "And now, I beseech thee, let the power of my LORD be great, according as thou hast spoken, saying,",
-        "ron": "Deci, înalţă-se acum puterea Ta, Doamne, cum ai spus Tu, zicând:"
+        "ron": "Deci, înalţă-se acum puterea Ta, Doamne, cum ai spus Tu, zicând:",
+        "grk": "Καὶ νῦν ὑψωθήτω ἡ ἰσχύς σου Κύριε, ὃν τρόπον εἶπας, λέγων,"
       }
     },
     {
@@ -1580,7 +1597,8 @@
       "translations": {
         "lxx": "The Lord is long-suffering and merciful, and true, removing transgressions and iniquities and sins, and he will by no means clear the guilty, visiting the sins of the fathers upon the children to the third and fourth generation.",
         "kjv": "The LORD is longsuffering, and of great mercy, forgiving iniquity and transgression, and by no means clearing the guilty, visiting the iniquity of the fathers upon the children unto the third and fourth generation.",
-        "ron": "Domnul este îndelung-răbdător, mult-îndurat şi adevărat, iertând fărădelegile, greşelile şi păcatele şi nelăsând nepedepsit, ci pedepseşte nelegiuirile părinţilor în copii până la al treilea şi al patrulea neam."
+        "ron": "Domnul este îndelung-răbdător, mult-îndurat şi adevărat, iertând fărădelegile, greşelile şi păcatele şi nelăsând nepedepsit, ci pedepseşte nelegiuirile părinţilor în copii până la al treilea şi al patrulea neam.",
+        "grk": "Κύριος μακρόθυμος, καὶ πολυέλεος, καὶ ἀληθινὸς, ἀφαιρῶν ἀνομίας καὶ ἀδικίας καὶ ἁμαρτίας, καὶ καθαρισμῷ οὐ καθαριεῖ τὸν ἔνοχον, ἀποδιδοὺς ἁμαρτίας πατέρων ἐπὶ τέκνα ἕως τρίτης καὶ τετάρτης γενεᾶς."
       }
     },
     {
@@ -1677,7 +1695,8 @@
       "translations": {
         "lxx": "Forgive this people their sin according to thy great mercy, as thou wast favourable to them from Egypt until now.",
         "kjv": "Pardon, I beseech thee, the iniquity of this people according unto the greatness of thy mercy, and as thou hast forgiven this people, from Egypt even until now.",
-        "ron": "Iartă păcatul poporului acestuia, după mare mila Ta, precum ai iertat Tu poporul acesta din Egipt şi până acum\"."
+        "ron": "Iartă păcatul poporului acestuia, după mare mila Ta, precum ai iertat Tu poporul acesta din Egipt şi până acum\".",
+        "grk": "Ἄφες τὴν ἁμαρτίαν τῷ λαῷ τούτῳ κατὰ τὸ μέγα ἔλεός σου, καθάπερ ἵλεως ἐγένου αὐτοῖς ἀπʼ Αἰγύπτου ἕως τοῦ νῦν."
       }
     },
     {
@@ -1724,7 +1743,8 @@
       "translations": {
         "lxx": "And the Lord said to Moses, I am gracious to them according to thy word.",
         "kjv": "And the LORD said, I have pardoned according to thy word:",
-        "ron": "Zis-a Domnul către Moise: \"Voi ierta, după cuvântul tău,"
+        "ron": "Zis-a Domnul către Moise: \"Voi ierta, după cuvântul tău,",
+        "grk": "Καὶ εἶπε Κύριος πρὸς Μωυσῆν, ἵλεως αὐτοῖς εἰμι κατὰ τὸ ῥῆμά σου."
       }
     },
     {
@@ -1786,7 +1806,8 @@
       "translations": {
         "lxx": "But as I live and my name is living, so the glory of the Lord shall fill all the earth.",
         "kjv": "But as truly as I live, all the earth shall be filled with the glory of the LORD.",
-        "ron": "Dar viu sunt Eu şi viu e numele Meu şi de slava Domnului e plin tot pământul:"
+        "ron": "Dar viu sunt Eu şi viu e numele Meu şi de slava Domnului e plin tot pământul:",
+        "grk": "Ἀλλὰ ζῶ ἐγὼ καὶ ζῶν τὸ ὄνομά μου, καὶ ἐμπλήσει ἡ δόξα Κυρίου πᾶσαν τὴν γῆν."
       }
     },
     {
@@ -1888,7 +1909,8 @@
       "translations": {
         "lxx": "For all the men who see my glory, and the signs which I wrought in Egypt, and in the wilderness, and have tempted me this tenth time, and have not hearkened to my voice,",
         "kjv": "Because all those men which have seen my glory, and my miracles, which I did in Egypt and in the wilderness, and have tempted me now these ten times, and have not hearkened to my voice;",
-        "ron": "Toţi bărbaţii câţi au văzut slava Mea şi minunile pe care le-am făcut în pământul Egiptului şi în pustie, şi M-au ispitit până acum de zeci de ori şi n-au ascultat glasul Meu,"
+        "ron": "Toţi bărbaţii câţi au văzut slava Mea şi minunile pe care le-am făcut în pământul Egiptului şi în pustie, şi M-au ispitit până acum de zeci de ori şi n-au ascultat glasul Meu,",
+        "grk": "Ὅτι πάντες οἱ ἄνδρες οἱ ὁρώντες τὴν δόξαν μου, καὶ τὰ σημεῖα ἃ ἐποίησα ἐν Αἰγύπτῳ, καὶ ἐν τῇ ἐρήμῳ, καὶ ἐπείρασάν με τοῦτο δέκατον, καὶ οὐκ εἰσήκουσαν τῆς φωνῆς μου,"
       }
     },
     {
@@ -2055,7 +2077,8 @@
       "translations": {
         "lxx": "surely they shall not see the land, which I sware to their fathers; but their children which are with me here, as many as know not good or evil, every inexperienced youth, to them will I give the land; but none who have provoked me shall see it.",
         "kjv": "Surely they shall not see the land which I sware unto their fathers, neither shall any of them that provoked me see it:",
-        "ron": "Nu vor vedea pământul pe care Eu cu jurământ l-am făgăduit părinţilor lor; ci numai copiilor lor, care sunt aici cu Mine, care nu ştiu ce este binele şi ce este răul şi tuturor nevârstnicilor, care nu judecă, acelora le voi da pământul, iar toţi cei ce M-au amărât nu-l vor vedea;"
+        "ron": "Nu vor vedea pământul pe care Eu cu jurământ l-am făgăduit părinţilor lor; ci numai copiilor lor, care sunt aici cu Mine, care nu ştiu ce este binele şi ce este răul şi tuturor nevârstnicilor, care nu judecă, acelora le voi da pământul, iar toţi cei ce M-au amărât nu-l vor vedea;",
+        "grk": "ἦ μὴν οὐκ ὄψονται τὴν γῆν, ἣν ὤμοσα τοῖς πατράσιν αὐτῶν· ἀλλʼ ἢ τὰ τέκνα αὐτῶν ἅ ἐστι μετʼ ἐμοῦ ὧδε, ὅσοι οὐκ οἴδασιν ἀγαθὸν οὐδὲ κακὸν, πᾶς νεώτερος ἄπειρος, τούτοις δώσω τὴν γῆν· πάντες δὲ οἱ παροξύναντές με, οὐκ ὄψονται αὐτήν."
       }
     },
     {
@@ -2162,7 +2185,8 @@
       "translations": {
         "lxx": "But my servant Chaleb, because there was another spirit in him, and he followed me, I will bring him into the land into which he entered, and his seed shall inherit it.",
         "kjv": "But my servant Caleb, because he had another spirit with him, and hath followed me fully, him will I bring into the land whereinto he went; and his seed shall possess it.",
-        "ron": "Iar pe robul Meu Caleb, îl voi duce în pământul în care a umblat şi seminţia lui îl va moşteni, pentru că în el a fost alt duh şi pentru că el s-a supus Mie."
+        "ron": "Iar pe robul Meu Caleb, îl voi duce în pământul în care a umblat şi seminţia lui îl va moşteni, pentru că în el a fost alt duh şi pentru că el s-a supus Mie.",
+        "grk": "Ὁ δὲ παῖς μου Χάλεβ, ὅτι πνεῦμα ἕτερον ἐν αὐτῷ, καὶ ἐπηκολούθησέ μοι, εἰσάξω αὐτὸν εἰς τὴν γῆν εἰς ἣν εἰσῆλθεν ἐκεῖ, καὶ τὸ σπέρμα αὐτοῦ κληρονομήσει αὐτήν."
       }
     },
     {
@@ -2239,7 +2263,8 @@
       "translations": {
         "lxx": "But Amalec and the Chananite dwell in the valley: to-morrow turn and depart for the wilderness by the way of the Red Sea.",
         "kjv": "(Now the Amalekites and the Canaanites dwelt in the valley.) Tomorrow turn you, and get you into the wilderness by the way of the Red sea.",
-        "ron": "Amaleciţii şi Canaaneii locuiesc pe vale; mâine să vă întoarceţi şi să vă duceţi în pustie, spre Marea Roşie\"."
+        "ron": "Amaleciţii şi Canaaneii locuiesc pe vale; mâine să vă întoarceţi şi să vă duceţi în pustie, spre Marea Roşie\".",
+        "grk": "Ὁ δὲ Ἀμαλὴκ καὶ ὁ Χαναναῖος κατοικοῦσιν ἐν τῇ κοιλάδι· αὔριον ἐπιστράφητε καὶ ἀπάρατε ὑμεῖς εἰς τὴν ἔρημον, ὁδὸν θάλασσαν ἐρυθρᾶν."
       }
     },
     {
@@ -2281,7 +2306,8 @@
       "translations": {
         "lxx": "And the Lord spoke to Moses and Aaron, saying,",
         "kjv": "And the LORD spake unto Moses and unto Aaron, saying,",
-        "ron": "Şi a mai grăit Domnul cu Moise şi cu Aaron şi a zis:"
+        "ron": "Şi a mai grăit Domnul cu Moise şi cu Aaron şi a zis:",
+        "grk": "Καὶ εἶπε Κύριος πρὸς Μωυσῆν καὶ Ἀαρὼν, λέγων,"
       }
     },
     {
@@ -2358,7 +2384,8 @@
       "translations": {
         "lxx": "How long shall I endure this wicked congregation? I have heard their murmurings against me, even the murmuring of the children of Israel, which they have murmured concerning you.",
         "kjv": "How long shall I bear with this evil congregation, which murmur against me? I have heard the murmurings of the children of Israel, which they murmur against me.",
-        "ron": "\"Până când această obşte rea va cârti împotriva Mea? Cârtirea cu care fiii lui Israel cârtesc împotriva Mea, o aud."
+        "ron": "\"Până când această obşte rea va cârti împotriva Mea? Cârtirea cu care fiii lui Israel cârtesc împotriva Mea, o aud.",
+        "grk": "ἕως τίνος τὴν συναγωγὴν τὴν πονηρὰν ταύτην; ἅ αὐτοὶ γογγύζουσιν ἐναντίον μου, τὴν γόγγυσιν τῶν υἱῶν Ἰσραὴλ, ἣν ἐγόγγυσαν περὶ ὑμῶν, ἀκήκοα."
       }
     },
     {
@@ -2450,7 +2477,8 @@
       "translations": {
         "lxx": "Say to them, As I live, saith the Lord: surely as ye spoke into my ears, so will I do to you.",
         "kjv": "Say unto them, As truly as I live, saith the LORD, as ye have spoken in mine ears, so will I do to you:",
-        "ron": "Deci, spune-le: Viu sunt Eu, zice Domnul! După cum aţi zis în auzul Meu, aşa voi face cu voi:"
+        "ron": "Deci, spune-le: Viu sunt Eu, zice Domnul! După cum aţi zis în auzul Meu, aşa voi face cu voi:",
+        "grk": "Εἶπον αὐτοῖς, ζῶ ἐγὼ, λέγει Κύριος· ἦ μὴν ὃν τρόπον λελαλήκατε εἰς τὰ ὦτά μου, οὕτω ποιήσω ὑμῖν."
       }
     },
     {
@@ -2537,7 +2565,8 @@
       "translations": {
         "lxx": "Your carcases shall fall in this wilderness; and all those of you that were reviewed, and those of you that were numbered from twenty years old and upward, all that murmured against me,",
         "kjv": "Your carcases shall fall in this wilderness; and all that were numbered of you, according to your whole number, from twenty years old and upward, which have murmured against me,",
-        "ron": "În pustia aceasta vor cădea oasele voastre şi voi toţi cei număraţi, de la douăzeci de ani în sus, care aţi cârtit împotriva Mea, oricâţi aţi fi la număr,"
+        "ron": "În pustia aceasta vor cădea oasele voastre şi voi toţi cei număraţi, de la douăzeci de ani în sus, care aţi cârtit împotriva Mea, oricâţi aţi fi la număr,",
+        "grk": "Ἐν τῇ ἐρήμῳ ταύτῃ πεσεῖται τὰ κῶλα ὑμῶν· καὶ πᾶσα ἡ ἐπισκοπὴ ὑμῶν, καὶ οἱ κατηριθμημένοι ὑμῶν ἀπὸ εἰκοσαετοῦς καὶ ἐπάνω, ὅσοι ἐγόγγυσαν ἐπʼ ἐμοί·"
       }
     },
     {
@@ -2639,7 +2668,8 @@
       "translations": {
         "lxx": "ye shall not enter into the land for which I stretched out my hand to establish you upon it; except only Chaleb the son of Jephonne, and Joshua the son of Naue.",
         "kjv": "Doubtless ye shall not come into the land, concerning which I sware to make you dwell therein, save Caleb the son of Jephunneh, and Joshua the son of Nun.",
-        "ron": "Nu veţi intra în pământul pentru care, ridicându-Mi mâna, M-am jurat să vă aşez, ci numai Caleb, fiul lui Iefone, şi Iosua, fiul lui Navi."
+        "ron": "Nu veţi intra în pământul pentru care, ridicându-Mi mâna, M-am jurat să vă aşez, ci numai Caleb, fiul lui Iefone, şi Iosua, fiul lui Navi.",
+        "grk": "εἰ ὑμεῖς εἰσελεύσεσθε εἰς τὴν γῆν ἐφʼ ἣν ἐξέτεινα τὴν χεῖρά μου κατασκηνῶσαι ὑμᾶς ἐπʼ αὐτῆς· ἀλλʼ ἢ Χάλεβ υἱὸς Ἰεφοννὴ, καὶ Ἰησοῦς ὁ τοῦ Ναυὴ."
       }
     },
     {
@@ -2731,7 +2761,8 @@
       "translations": {
         "lxx": "And your little ones, who ye said should be a prey, them will I bring into the land; and they shall inherit the land, which ye rejected.",
         "kjv": "But your little ones, which ye said should be a prey, them will I bring in, and they shall know the land which ye have despised.",
-        "ron": "Pe copiii voştri, despre care voi ziceaţi că vor ajunge pradă vrăjmaşilor, îi voi duce acolo şi ei vor cunoaşte pământul pe care voi l-aţi nesocotit;"
+        "ron": "Pe copiii voştri, despre care voi ziceaţi că vor ajunge pradă vrăjmaşilor, îi voi duce acolo şi ei vor cunoaşte pământul pe care voi l-aţi nesocotit;",
+        "grk": "Καὶ τὰ παιδία, ἃ εἴπατε ἐν διαρπαγῇ ἔσεσθαι, εἰσάξω αὐτοὺς εἰς τὴν γῆν· καὶ κληρονομήσουσι τὴν γῆν, ἣν ὑμεῖς ἁπέστητε ἀπʼ αὐτῆς."
       }
     },
     {
@@ -2768,7 +2799,8 @@
       "translations": {
         "lxx": "And your carcases shall fall in this wilderness.",
         "kjv": "But as for you, your carcases, they shall fall in this wilderness.",
-        "ron": "Iar oasele voastre vor cădea în pustia aceasta."
+        "ron": "Iar oasele voastre vor cădea în pustia aceasta.",
+        "grk": "Καὶ τὰ κῶλα ὑμῶν πεσεῖται ἐν τῇ ἐρήμῳ ταύτῃ."
       }
     },
     {
@@ -2810,7 +2842,8 @@
       "translations": {
         "lxx": "And your sons shall be fed in the wilderness forty years, and they shall bear your fornication, until your carcases be consumed in the wilderness.",
         "kjv": "And your children shall wander in the wilderness forty years, and bear your whoredoms, until your carcases be wasted in the wilderness.",
-        "ron": "Copiii voştri vor rătăci prin pustie patruzeci de ani şi vor suferi pedeapsă pentru desfrânarea voastră, până vor cădea toate oasele voastre în pustie."
+        "ron": "Copiii voştri vor rătăci prin pustie patruzeci de ani şi vor suferi pedeapsă pentru desfrânarea voastră, până vor cădea toate oasele voastre în pustie.",
+        "grk": "Οἱ δὲ υἱοὶ ὑμῶν ἔσονται νεμόμενοι ἐν τῇ ἐρήμῳ τεσσαράκοντα ἔτη· καὶ ἀνοίσουσι τὴν πορνείαν ὑμῶν, ἕως ἂν ἀναλωθῇ τὰ κῶλα ὑμῶν ἐν τῇ ἐρήμῳ,"
       }
     },
     {
@@ -2932,7 +2965,8 @@
       "translations": {
         "lxx": "According to the number of the days during which ye spied the land, forty days, a day for a year, ye shall bear your sins forty years, and ye shall know my fierce anger.",
         "kjv": "After the number of the days in which ye searched the land, even forty days, each day for a year, shall ye bear your iniquities, even forty years, and ye shall know my breach of promise.",
-        "ron": "După numărul celor patruzeci de zile, în care aţi iscodit pământul Canaan, veţi purta pedeapsa pentru păcatele voastre patruzeci de ani, câte un an pentru fiecare zi, ca să cunoaşteţi ce înseamnă să fiţi părăsiţi de Mine."
+        "ron": "După numărul celor patruzeci de zile, în care aţi iscodit pământul Canaan, veţi purta pedeapsa pentru păcatele voastre patruzeci de ani, câte un an pentru fiecare zi, ca să cunoaşteţi ce înseamnă să fiţi părăsiţi de Mine.",
+        "grk": "κατὰ τὸν ἀριθμὸν τῶν ἡμερῶν ὅσας κατεσκέψασθε τὴν γῆν, τεσσαράκοντα ἡμέρας, ἡμέραν τοῦ ἐνιαυτοῦ, λήμψεσθε τὰς ἁμαρτίας ὑμῶν τεσσαράκοντα ἔτη· καὶ γνώσεσθε τὸν θυμὸν τῆς ὀργῆς μου."
       }
     },
     {
@@ -3034,7 +3068,8 @@
       "translations": {
         "lxx": "I the Lord have spoken, Surely will I do thus to this evil congregation that has risen up together against me: in this wilderness they shall be utterly consumed, and there they shall die.",
         "kjv": "I the LORD have said, I will surely do it unto all this evil congregation, that are gathered together against me: in this wilderness they shall be consumed, and there they shall die.",
-        "ron": "Eu, Domnul, am grăit! Şi aşa voi face cu toată obştea aceasta rea, care s-a ridicat împotriva Mea: în pustia aceasta vor pieri şi vor muri toţi!\""
+        "ron": "Eu, Domnul, am grăit! Şi aşa voi face cu toată obştea aceasta rea, care s-a ridicat împotriva Mea: în pustia aceasta vor pieri şi vor muri toţi!\"",
+        "grk": "Ἐγὼ Κύριος ἐλάλησα, ἦ μὴν οὕτω ποιήσω τῇ συναγωγῇ τῇ πονηρᾷ ταύτῃ, τῇ ἐπισυνισταμένῃ ἐπʼ ἐμέ· ἐν τῇ ἐρήμῳ ταύτη ἐξαναλωθήσονται, καὶ ἐκεῖ ἀποθανοῦνται."
       }
     },
     {
@@ -3156,7 +3191,8 @@
       "translations": {
         "lxx": "And the men whom Moses sent to spy out the land, and who came and murmured against it to the assembly so as to bring out evil words concerning the land,—",
         "kjv": "And the men, which Moses sent to search the land, who returned, and made all the congregation to murmur against him, by bringing up a slander upon the land,",
-        "ron": "Şi oamenii pe care-i trimisese Moise să iscodească pământul şi care la întoarcere au întărâtat împotriva lui toată obştea aceasta, răspândind zvonuri rele despre ţara aceea,"
+        "ron": "Şi oamenii pe care-i trimisese Moise să iscodească pământul şi care la întoarcere au întărâtat împotriva lui toată obştea aceasta, răspândind zvonuri rele despre ţara aceea,",
+        "grk": "Καὶ οἱ ἄνθρωποι, οὓς ἀπέστειλεν Μωυσῆς κατασκέψασθαι τὴν γῆν, καὶ παραγενηθέντες διεγόγγυσαν κατʼ αὐτῆς πρὸς τὴν συναγωγὴν ἐξενέγκαι ῥήματα πονηρὰ περὶ τῆς γῆς,"
       }
     },
     {
@@ -3233,7 +3269,8 @@
       "translations": {
         "lxx": "the men that spoke evil reports against the land, even died of the plague before the Lord.",
         "kjv": "Even those men that did bring up the evil report upon the land, died by the plague before the LORD.",
-        "ron": "Au murit loviţi înaintea Domnului, pentru că au răspândit zvonurile despre ţara aceea."
+        "ron": "Au murit loviţi înaintea Domnului, pentru că au răspândit zvonurile despre ţara aceea.",
+        "grk": "καὶ ἀπέθανον οἱ ἄνθρωποι οἱ κατείπαντες πονηρὰ κατὰ τῆς γῆς ἐν τῇ πληγῇ ἔναντι Κυρίου."
       }
     },
     {
@@ -3325,7 +3362,8 @@
       "translations": {
         "lxx": "And Joshua the son of Naue and Chaleb the son of Jephonne still lived of those men that went to spy out the land.",
         "kjv": "But Joshua the son of Nun, and Caleb the son of Jephunneh, which were of the men that went to search the land, lived still.",
-        "ron": "Numai Iosua, fiul lui Navi, şi Caleb, fiul lui Iefone, au rămas vii dintre bărbaţii aceia care fuseseră să iscodească ţara Canaan."
+        "ron": "Numai Iosua, fiul lui Navi, şi Caleb, fiul lui Iefone, au rămas vii dintre bărbaţii aceia care fuseseră să iscodească ţara Canaan.",
+        "grk": "Καὶ Ἰησοῦς υἱὸς Ναυὴ καὶ Χάλεβ υἱὸς Ἰεφοννὴ ἔζησαν ἀπὸ τῶν ἀνθρώπων ἐκείνων τῶν πεπορευμένων κατασκέψασθαι τὴν γῆν."
       }
     },
     {
@@ -3387,7 +3425,8 @@
       "translations": {
         "lxx": "And Moses spoke these words to all the children of Israel; and the people mourned exceedingly.",
         "kjv": "And Moses told these sayings unto all the children of Israel: and the people mourned greatly.",
-        "ron": "Cuvintele acestea le-a spus Moise înaintea tuturor fiilor lui Israel şi poporul s-a întristat foarte tare."
+        "ron": "Cuvintele acestea le-a spus Moise înaintea tuturor fiilor lui Israel şi poporul s-a întristat foarte tare.",
+        "grk": "Καὶ ἐλάλησε Μωυσῆς τὰ ῥήματα ταῦτα πρὸς πάντας υἱοὺς Ἰσραήλ· καὶ ἐπενθησεν ὁ λαὸς σφόδρα."
       }
     },
     {
@@ -3489,7 +3528,8 @@
       "translations": {
         "lxx": "And they rose early in the morning and went up to the top of the mountain, saying, Behold, we that are here will go up to the place of which the Lord has spoken, because we have sinned.",
         "kjv": "And they rose up early in the morning, and gat them up into the top of the mountain, saying, Lo, we be here, and will go up unto the place which the LORD hath promised: for we have sinned.",
-        "ron": "Sculându-se ei deci dis-de-dimineaţă, s-au dus pe vârful muntelui, zicând: \"Iată, ne ducem la locul acela de care ne-a grăit Domnul, căci am greşit!\""
+        "ron": "Sculându-se ei deci dis-de-dimineaţă, s-au dus pe vârful muntelui, zicând: \"Iată, ne ducem la locul acela de care ne-a grăit Domnul, căci am greşit!\"",
+        "grk": "Καὶ ὀρθρίσαντες τοπρωῒ ἀνέβησαν εἰς τὴν κορυφὴν τοῦ ὄρους, λέγοντες, ἰδοὺ, οἵδε ἡμεῖς ἀναβησόμεθα εἰς τὸν τόπον ὃν εἶπε Κύριος, ὅτι ἡμάρτομεν."
       }
     },
     {
@@ -3556,7 +3596,8 @@
       "translations": {
         "lxx": "And Moses said, Why do ye transgress the word of the Lord? ye shall not prosper.",
         "kjv": "And Moses said, Wherefore now do ye transgress the commandment of the LORD? but it shall not prosper.",
-        "ron": "Moise însă le-a zis: \"Pentru ce călcaţi porunca Domnului? Nu veţi izbuti."
+        "ron": "Moise însă le-a zis: \"Pentru ce călcaţi porunca Domnului? Nu veţi izbuti.",
+        "grk": "Καὶ εἶπε Μωυσῆς, ἱνατί ὑμεῖς παραβαίνετε τὸ ῥῆμα Κυρίου; οὐκ εὔοδα ἔσται ὑμῖν."
       }
     },
     {
@@ -3608,7 +3649,8 @@
       "translations": {
         "lxx": "Go not up, for the Lord is not with you; so shall ye fall before the face of your enemies.",
         "kjv": "Go not up, for the LORD is not among you; that ye be not smitten before your enemies.",
-        "ron": "Nu vă duceţi, căci Domnul nu este între voi şi veţi cădea înaintea vrăjmaşilor voştri;"
+        "ron": "Nu vă duceţi, căci Domnul nu este între voi şi veţi cădea înaintea vrăjmaşilor voştri;",
+        "grk": "Μὴ ἀναβαίνετε, οὐ γάρ ἐστι Κύριος μεθʼ ὑμῶν· καὶ πεσεῖσθε πρὸ προσώπου τῶν ἐχθρῶν ὑμῶν."
       }
     },
     {
@@ -3695,7 +3737,8 @@
       "translations": {
         "lxx": "For Amalec and the Chananite are there before you, and ye shall fall by the sword; because ye have disobeyed the Lord and turned aside, and the Lord will not be among you.",
         "kjv": "For the Amalekites and the Canaanites are there before you, and ye shall fall by the sword: because ye are turned away from the LORD, therefore the LORD will not be with you.",
-        "ron": "Căci Amaleciţii şi Canaaneii sunt acolo înaintea voastră şi veţi cădea de sabie, pentru că v-aţi abătut de la Domnul şi Domnul nu va fi cu voi\"."
+        "ron": "Căci Amaleciţii şi Canaaneii sunt acolo înaintea voastră şi veţi cădea de sabie, pentru că v-aţi abătut de la Domnul şi Domnul nu va fi cu voi\".",
+        "grk": "Ὅτι ὁ Ἀμαλὴκ καὶ ὁ Χαναναῖος ἐκεῖ ἔμπροσθεν ὑμῶν, καὶ πεσεῖσθε μαχαίρᾳ, οὗ εἵνεκεν ἀπεστράφητε ἀπειθοῦντες Κυρίῳ, καὶ οὐκ ἔσται Κύριος ἐν ὑμῖν."
       }
     },
     {
@@ -3772,7 +3815,8 @@
       "translations": {
         "lxx": "And having forced their passage, they went up to the top of the mountain; but the ark of the covenant of the Lord and Moses stirred not out of the camp.",
         "kjv": "But they presumed to go up unto the hill top: nevertheless the ark of the covenant of the LORD, and Moses, departed not out of the camp.",
-        "ron": "Dar ei au îndrăznit să se urce pe vârful muntelui; iar chivotul legii Domnului şi Moise n-au părăsit tabăra."
+        "ron": "Dar ei au îndrăznit să se urce pe vârful muntelui; iar chivotul legii Domnului şi Moise n-au părăsit tabăra.",
+        "grk": "Καὶ διαβιασάμενοι, ἀνέβησαν ἐπὶ τὴν κορυφὴν τοῦ ὄρους· ἡ δὲ κιβωτὸς τῆς διαθήκης Κυρίου καὶ Μωυσῆς οὐκ ἐκινήθησαν ἐκ τῆς παρεμβολῆς."
       }
     },
     {
@@ -3854,7 +3898,8 @@
       "translations": {
         "lxx": "And Amalec and the Chananite that dwelt in that mountain came down, and routed them, and destroyed them unto Herman; and they returned to the camp.",
         "kjv": "Then the Amalekites came down, and the Canaanites which dwelt in that hill, and smote them, and discomfited them, even unto Hormah.",
-        "ron": "Atunci s-au suit Amaleciţii şi Canaaneii care trăiau în muntele acela şi i-au înfrânt şi i-au gonit până la Horma şi s-au întors în tabără."
+        "ron": "Atunci s-au suit Amaleciţii şi Canaaneii care trăiau în muntele acela şi i-au înfrânt şi i-au gonit până la Horma şi s-au întors în tabără.",
+        "grk": "Καὶ κατέβη ὁ Ἀμαλὴκ καὶ ὁ Χαναναῖος ὁ ἐνκαθήμενος ἐν τῷ ὄρει ἐκείνῳ, καὶ ἐτρέψαντο αὐτοὺς, καὶ κατέκοψαν αὐτοὺς ἕως Ἑρμάν· καὶ ἀπεστράφησαν εἰς τὴν παρεμβολήν."
       }
     }
   ],

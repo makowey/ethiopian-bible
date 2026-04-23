@@ -66,7 +66,8 @@
       "translations": {
         "lxx": "Behold, the Lord is about to lay waste the world, and will make it desolate, and will lay bare the surface of it, and scatter them that dwell therein.",
         "kjv": "Behold, the LORD maketh the earth empty, and maketh it waste, and turneth it upside down, and scattereth abroad the inhabitants thereof.",
-        "ron": "Iată Domnul pustieşte pământul şi îl preface în deşert, răstoarnă faţa lui şi împrăştie pe locuitori."
+        "ron": "Iată Domnul pustieşte pământul şi îl preface în deşert, răstoarnă faţa lui şi împrăştie pe locuitori.",
+        "grk": "Ἰδοὺ Κύριος καταφθείρει τὴν οἰκουμένην, καὶ ἐρημώσει αὐτὴν, καὶ ἀνακαλύψει τὸ πρόσωπον αὐτῆς, καὶ διασπερεῖ τοὺς ἐνοικοῦντας ἐν αὐτῇ."
       }
     },
     {
@@ -173,7 +174,8 @@
       "translations": {
         "lxx": "And the people shall be as the priest, and the servant as the lord, and the maid as the mistress; the buyer shall be as the seller, the lender as the borrower, and the debtor as his creditor.",
         "kjv": "And it shall be, as with the people, so with the priest; as with the servant, so with his master; as with the maid, so with her mistress; as with the buyer, so with the seller; as with the lender, so with the borrower; as with the taker of usury, so with the giver of usury to him.",
-        "ron": "Şi preotului i se întâmplă ca şi poporului, stăpânului ca şi robului, slugii ca şi stăpânei sale; vânzătorului ca şi cumpărătorului, celui care dă cu împrumut ca şi celui care se împrumută, datornicului ca şi cel căruia îi este dator."
+        "ron": "Şi preotului i se întâmplă ca şi poporului, stăpânului ca şi robului, slugii ca şi stăpânei sale; vânzătorului ca şi cumpărătorului, celui care dă cu împrumut ca şi celui care se împrumută, datornicului ca şi cel căruia îi este dator.",
+        "grk": "Καὶ ἔσται ὁ λαὸς ὡς ἱερεύς, καὶ ὁ παῖς ὡς ὁ κύριος, καὶ ἡ θεράπαινα ὡς ἡ κυρία· ἔσται ὁ ἀγοράζων ὡς ὁ πωλῶν, ὁ δανείζων ὡς ὁ δανειζόμενος, καὶ ὁ ὀφείλων ὡς ᾧ ὀφείλει."
       }
     },
     {
@@ -245,7 +247,8 @@
       "translations": {
         "lxx": "The earth shall be completely laid waste, and the earth shall be utterly spoiled: for the mouth of the Lord has spoken these things.",
         "kjv": "The land shall be utterly emptied, and utterly spoiled: for the LORD hath spoken this word.",
-        "ron": "Pământul va fi pustiit, el va fi jefuit, că Domnul a grăit cuvântul acesta."
+        "ron": "Pământul va fi pustiit, el va fi jefuit, că Domnul a grăit cuvântul acesta.",
+        "grk": "Φθορᾷ φθαρήσεται ἡ γῆ, καὶ προνομῇ προνομευθήσεται ἡ γῆ· τὸ γὰρ στόμα Κυρίου ἐλάλησε ταῦτα."
       }
     },
     {
@@ -292,7 +295,8 @@
       "translations": {
         "lxx": "The earth mourns, and the world is ruined, the lofty ones of the earth are mourning.",
         "kjv": "The earth mourneth and fadeth away, the world languisheth and fadeth away, the haughty people of the earth do languish.",
-        "ron": "Pământul este în chin şi sleit, lumea tânjeşte şi se istoveşte, cerul împreună cu pământul vor pieri."
+        "ron": "Pământul este în chin şi sleit, lumea tânjeşte şi se istoveşte, cerul împreună cu pământul vor pieri.",
+        "grk": "Ἐπένθησεν ἡ γῆ, καὶ ἐφθάρη ἡ οἰκουμένη, ἐπένθησαν οἱ ὑψηλοὶ τῆς γῆς."
       }
     },
     {
@@ -374,7 +378,8 @@
       "translations": {
         "lxx": "And she has sinned by reason of her inhabitants; because they have transgressed the law, and changed the ordinances, even the everlasting covenant.",
         "kjv": "The earth also is defiled under the inhabitants thereof; because they have transgressed the laws, changed the ordinance, broken the everlasting covenant.",
-        "ron": "Pământul este pângărit sub locuitorii lui, căci ei au călcat legea, au înfrânt orânduiala şi legământul stricatu-l-au pe veci!"
+        "ron": "Pământul este pângărit sub locuitorii lui, căci ei au călcat legea, au înfrânt orânduiala şi legământul stricatu-l-au pe veci!",
+        "grk": "Ἡ δὲ ἠνόμησε διὰ τοὺς κατοικοῦντας αὐτήν, διότι παρήλθοσαν τὸν νόμον, καὶ ἤλλαξαν τὰ προστάγματα διαθήκην αἰώνιον."
       }
     },
     {
@@ -436,7 +441,8 @@
       "translations": {
         "lxx": "Therefore a curse shall consume the earth, because the inhabitants thereof have sinned: therefore the dwellers in the earth shall be poor, and few men shall be left.",
         "kjv": "Therefore hath the curse devoured the earth, and they that dwell therein are desolate: therefore the inhabitants of the earth are burned, and few men left.",
-        "ron": "Pentru aceasta, blestemul mistuie pământul şi locuitorii îndură pedeapsa lor; drept aceea cei ce locuiesc pe pământ sunt mistuiţi, iar oamenii rămaşi sunt puţini la număr!"
+        "ron": "Pentru aceasta, blestemul mistuie pământul şi locuitorii îndură pedeapsa lor; drept aceea cei ce locuiesc pe pământ sunt mistuiţi, iar oamenii rămaşi sunt puţini la număr!",
+        "grk": "Διατοῦτο ἀρὰ ἔδεται τὴν γῆν, ὅτι ἡμάρτοσαν οἱ κατοικοῦντες αὐτήν· διατοῦτο πτωχοὶ ἔσονται οἱ ἐνοικοῦντες ἐν τῇ γῇ, καὶ καταλειφθήσονται ἄνθρωποι ὀλίγοι."
       }
     },
     {
@@ -493,7 +499,8 @@
       "translations": {
         "lxx": "The wine shall mourn, the vine shall mourn, all the merry-hearted shall sigh.",
         "kjv": "The new wine mourneth, the vine languisheth, all the merryhearted do sigh.",
-        "ron": "Via tânjeşte, viţele sale sunt firave, cei cu inima veselă suspină."
+        "ron": "Via tânjeşte, viţele sale sunt firave, cei cu inima veselă suspină.",
+        "grk": "Πενθήσει οἶνος, πενθήσει ἄμπελος, στενάξουσιν πάντες οἱ εὐφραινόμενοι τὴν ψυχήν."
       }
     },
     {
@@ -555,7 +562,8 @@
       "translations": {
         "lxx": "The mirth of timbrels has ceased, the sound of the harp has ceased.",
         "kjv": "The mirth of tabrets ceaseth, the noise of them that rejoice endeth, the joy of the harp ceaseth.",
-        "ron": "Glasul cel plin de veselie al lirei a încetat, chiotele zgomotoase nu mai sunt, încetat-a glasul harpei."
+        "ron": "Glasul cel plin de veselie al lirei a încetat, chiotele zgomotoase nu mai sunt, încetat-a glasul harpei.",
+        "grk": "Πέπαυται εὐφροσύνη τυμπάνων, πέπαυται φωνὴ κιθάρας."
       }
     },
     {
@@ -602,7 +610,8 @@
       "translations": {
         "lxx": "They are ashamed, they have not drunk wine; strong drink has become bitter to them that drink it.",
         "kjv": "They shall not drink wine with a song; strong drink shall be bitter to them that drink it.",
-        "ron": "La cântec nu se mai bea, şi amar este vinul pentru băutor."
+        "ron": "La cântec nu se mai bea, şi amar este vinul pentru băutor.",
+        "grk": "Ἠσχύνθησαν, οὐκ ἔπιον οἶνον, πικρὸν ἐγένετο τὸ σίκερα τοῖς πίνουσιν."
       }
     },
     {
@@ -654,7 +663,8 @@
       "translations": {
         "lxx": "All the city has become desolate: one shall shut his house so that none shall enter.",
         "kjv": "The city of confusion is broken down: every house is shut up, that no man may come in.",
-        "ron": "Cetatea pustiită este în ruină, intrarea fiecărei case este închisă."
+        "ron": "Cetatea pustiită este în ruină, intrarea fiecărei case este închisă.",
+        "grk": "Ἠρημώθη πᾶσα πόλις, κλείσει οἰκίαν τοῦ μὴ εἰσελθεῖν."
       }
     },
     {
@@ -706,7 +716,8 @@
       "translations": {
         "lxx": "There is a howling for the wine everywhere; all the mirth of the land has ceased, all the mirth of the land has departed.",
         "kjv": "There is a crying for wine in the streets; all joy is darkened, the mirth of the land is gone.",
-        "ron": "Pe uliţă lumea strigă: \"Nici un strop de vin!\" Nu mai este bucurie, veselia este izgonită de pe pământ."
+        "ron": "Pe uliţă lumea strigă: \"Nici un strop de vin!\" Nu mai este bucurie, veselia este izgonită de pe pământ.",
+        "grk": "Ὀλολύζεται περὶ τοῦ οἴνου πανταχῇ, πέπαυται πᾶσα εὐφροσύνη τῆς γῆς, ἀπῆλθε πᾶσα εὐφροσύνη τῆς γῆς."
       }
     },
     {
@@ -753,7 +764,8 @@
       "translations": {
         "lxx": "And cities shall be left desolate, and houses being left shall fall to ruin.",
         "kjv": "In the city is left desolation, and the gate is smitten with destruction.",
-        "ron": "În cetate au rămas numai dărâmături, porţi sfărâmate şi stricate."
+        "ron": "În cetate au rămas numai dărâmături, porţi sfărâmate şi stricate.",
+        "grk": "Καὶ καταλειφθήσονται πόλεις ἔρημοι, καὶ οἶκοι ἐγκαταλελειμμένοι ἀπολοῦνται."
       }
     },
     {
@@ -800,7 +812,8 @@
       "translations": {
         "lxx": "All this shall be in the land in the midst of the nations, as if one should strip an olive tree, so shall they strip them; but when the vintage is done,",
         "kjv": "When thus it shall be in the midst of the land among the people, there shall be as the shaking of an olive tree, and as the gleaning grapes when the vintage is done.",
-        "ron": "Aşa se va întâmpla în mijlocul acestui ţinut, înăuntrul popoarelor, ca şi când se scutură măslinii şi ca pe urma culesului viei."
+        "ron": "Aşa se va întâmpla în mijlocul acestui ţinut, înăuntrul popoarelor, ca şi când se scutură măslinii şi ca pe urma culesului viei.",
+        "grk": "Ταῦτα πάντα ἔσονται ἐν τῇ γῇ ἐν μέσῳ τῶν ἐθνῶν· ὃν τρόπον ἐάν τις καλαμήσηται ἐλαίαν, οὕτως καλαμήσονται αὐτούς· καὶ ἐὰν παύσηται ὁ τρυγητὸς,"
       }
     },
     {
@@ -867,7 +880,8 @@
       "translations": {
         "lxx": "these shall cry aloud; and they that are left on the land shall rejoice together in the glory of the Lord: the water of the sea shall be troubled.",
         "kjv": "They shall lift up their voice, they shall sing for the majesty of the LORD, they shall cry aloud from the sea.",
-        "ron": "Aceia înalţă glasul şi cântă, preaslăvesc mărirea Domnului la apus."
+        "ron": "Aceia înalţă glasul şi cântă, preaslăvesc mărirea Domnului la apus.",
+        "grk": "οὗτοι βοῇ φωνήσουσιν. οἱ δὲ καταλειφθέντες ἐπὶ τῆς γῆς εὐφρανθήσονται ἅμα τῇ δόξῃ Κυρίου, ταραχθήσεται τὸ ὕδωρ τῆς θαλάσσης."
       }
     },
     {
@@ -924,7 +938,8 @@
       "translations": {
         "lxx": "Therefore shall the glory of the Lord be in the isles of the sea; the name of the Lord shall be glorious.",
         "kjv": "Wherefore glorify ye the LORD in the fires, even the name of the LORD God of Israel in the isles of the sea.",
-        "ron": "Pentru aceasta, în insule se preaslăveşte Domnul, în insulele mării numele Domnului Dumnezeului lui Israel."
+        "ron": "Pentru aceasta, în insule se preaslăveşte Domnul, în insulele mării numele Domnului Dumnezeului lui Israel.",
+        "grk": "Διατοῦτο ἡ δόξα Κυρίου ἐν ταῖς νήσοις ἔσται τῆς θαλάσσης, τὸ ὄνομα Κυρίου ἔνδοξον ἔσται."
       }
     },
     {
@@ -981,7 +996,8 @@
       "translations": {
         "lxx": "O Lord God of Israel, from the ends of the earth we have heard wonderful things, and there is hope to the godly: but they shall say, Woe to the despisers, that despise the law.",
         "kjv": "From the uttermost part of the earth have we heard songs, even glory to the righteous. But I said, My leanness, my leanness, woe unto me! the treacherous dealers have dealt treacherously; yea, the treacherous dealers have dealt very treacherously.",
-        "ron": "De la marginile pământului auzim cântând: \"Slavă celui drept!\" Şi eu am zis: \"Vai de cei fără de lege, care lucrează, depărtându-se de lege!\""
+        "ron": "De la marginile pământului auzim cântând: \"Slavă celui drept!\" Şi eu am zis: \"Vai de cei fără de lege, care lucrează, depărtându-se de lege!\"",
+        "grk": "Κύριε ὁ Θεὸς Ἰσραὴλ, ἀπὸ τῶν πτερύγων τῆς γῆς τέρατα ἠκούσαμεν, ἐλπὶς τῷ εὐσεβεῖ· καὶ ἐροῦσιν, οὐαὶ τοῖς ἀθετοῦσιν, οἱ ἀθετοῦντες τὸν νόμον."
       }
     },
     {
@@ -1033,7 +1049,8 @@
       "translations": {
         "lxx": "Fear, and a pit, and a snare, are upon you that dwell on the earth.",
         "kjv": "Fear, and the pit, and the snare, are upon thee, O inhabitant of the earth.",
-        "ron": "Groază, laţ şi groapă pentru voi, locuitori ai pământului!"
+        "ron": "Groază, laţ şi groapă pentru voi, locuitori ai pământului!",
+        "grk": "Φόβος καὶ βόθυνος καὶ παγὶς ἐφʼ ὑμᾶς τοὺς ἐνοικοῦντας ἐπὶ τῆς γῆς."
       }
     },
     {
@@ -1090,7 +1107,8 @@
       "translations": {
         "lxx": "And it shall come to pass, that he that flees from the fear shall fall into the pit; and he that comes up out of the pit shall be caught by the snare: for windows have been opened in heaven, and the foundations of the earth shall be shaken,",
         "kjv": "And it shall come to pass, that he who fleeth from the noise of the fear shall fall into the pit; and he that cometh up out of the midst of the pit shall be taken in the snare: for the windows from on high are open, and the foundations of the earth do shake.",
-        "ron": "Cel care va fugi de groază va cădea în groapă, cel care va scăpa din mijlocul gropii se va prinde în laţ! Zăgazurile cele de sus se vor deschide şi temeliile pământului se vor clătina."
+        "ron": "Cel care va fugi de groază va cădea în groapă, cel care va scăpa din mijlocul gropii se va prinde în laţ! Zăgazurile cele de sus se vor deschide şi temeliile pământului se vor clătina.",
+        "grk": "Καὶ ἔσται ὁ φεύγων τὸν φόβον, ἐμπεσεῖται εἰς τὸν βόθυνον· καὶ ὁ ἐκβαίνων ἐκ τοῦ βοθύνου, ἁλώσεται ὑπὸ τῆς παγίδος· ὅτι θυρίδες ἐκ τοῦ οὐρανοῦ ἀνεῴχθησαν, καὶ σεισθήσεται τὰ θεμέλια τῆς γῆς."
       }
     },
     {
@@ -1127,7 +1145,8 @@
       "translations": {
         "lxx": "the earth shall be utterly confounded, and the earth shall be completely perplexed.",
         "kjv": "The earth is utterly broken down, the earth is clean dissolved, the earth is moved exceedingly.",
-        "ron": "Pământul se sfărâmă, pământul sare în bucăţi, se clatină pământul."
+        "ron": "Pământul se sfărâmă, pământul sare în bucăţi, se clatină pământul.",
+        "grk": "Ταραχῇ ταραχθήσεται ἡ γῆ, καὶ ἀπορίᾳ ἀπορηθήσεται ἡ γῆ."
       }
     },
     {
@@ -1229,7 +1248,8 @@
       "translations": {
         "lxx": "It reels as a drunkard and one oppressed with wine, and the earth shall be shaken as a storehouse of fruits; for iniquity has prevailed upon it, and it shall fall, and shall not be able to rise.",
         "kjv": "The earth shall reel to and fro like a drunkard, and shall be removed like a cottage; and the transgression thereof shall be heavy upon it; and it shall fall, and not rise again.",
-        "ron": "Pământul se mişcă încoace şi încolo ca un om beţiv, se dă în sus şi în jos ca un scrânciob; păcatele apasă asupra lui, ca să nu se mai scoale!"
+        "ron": "Pământul se mişcă încoace şi încolo ca un om beţiv, se dă în sus şi în jos ca un scrânciob; păcatele apasă asupra lui, ca să nu se mai scoale!",
+        "grk": "Ἔκλινεν ὡς ὁ μεθύων καὶ κραιπαλῶν, καὶ σεισθήσεται ὡς ὀπωροφυλάκιον ἡ γῆ· κατίσχυσεν γὰρ ἐπʼ αὐτῆς ἡ ἀνομία, καὶ πεσεῖται, καὶ οὐ μὴ δύνηται ἀναστῆναι."
       }
     },
     {
@@ -1296,7 +1316,8 @@
       "translations": {
         "lxx": "And God shall bring his hand upon the host of heaven, and upon the kings of the earth.",
         "kjv": "And it shall come to pass in that day, that the LORD shall punish the host of the high ones that are on high, and the kings of the earth upon the earth.",
-        "ron": "Şi în ziua aceea Domnul va cerceta cu asprime, acolo sus, oştirea cea de sus şi pe pământ pe regii pământului."
+        "ron": "Şi în ziua aceea Domnul va cerceta cu asprime, acolo sus, oştirea cea de sus şi pe pământ pe regii pământului.",
+        "grk": "Καὶ ἐπάξει ὁ Θεὸς ἐπὶ τὸν κόσμον τοῦ οὐρανοῦ τὴν χεῖρα, καὶ ἐπὶ τοὺς βασιλεῖς τῆς γῆς."
       }
     },
     {
@@ -1343,7 +1364,8 @@
       "translations": {
         "lxx": "And they shall gather the multitude thereof into prisons, and they shall shut them into a strong hold: after many generations they shall be visited.",
         "kjv": "And they shall be gathered together, as prisoners are gathered in the pit, and shall be shut up in the prison, and after many days shall they be visited.",
-        "ron": "Şi ca robii vor fi închişi într-o închisoare sub pământ şi după multe zile vor fi cercetaţi."
+        "ron": "Şi ca robii vor fi închişi într-o închisoare sub pământ şi după multe zile vor fi cercetaţi.",
+        "grk": "Καὶ συνάξουσι συναγωγὴν αὐτῆς εἰς δεσμωτήριον, καὶ ἀποκλείσουσιν εἰς ὀχύρωμα· διὰ πολλῶν γενεῶν ἐπισκοπὴ ἔσται αὐτῶν."
       }
     },
     {
@@ -1420,7 +1442,8 @@
       "translations": {
         "lxx": "And the brick shall decay, and the wall shall fall; for the Lord shall reign from out of Sion, and out of Jerusalem, and shall be glorified before his elders.",
         "kjv": "Then the moon shall be confounded, and the sun ashamed, when the LORD of hosts shall reign in mount Zion, and in Jerusalem, and before his ancients gloriously.",
-        "ron": "Luna va fi roşie, iar soarele va pierde din lumina lui, căci Domnul Savaot va fi rege şi slava Lui va străluci înaintea bătrânilor în muntele Sionului şi în Ierusalim!"
+        "ron": "Luna va fi roşie, iar soarele va pierde din lumina lui, căci Domnul Savaot va fi rege şi slava Lui va străluci înaintea bătrânilor în muntele Sionului şi în Ierusalim!",
+        "grk": "Καὶ τακήσεται ἡ πλίνθος, καὶ πεσεῖται τὸ τεῖχος· ὅτι βασιλεύσει Κύριος ἐκ Σιὼν, καὶ ἐξ Ἱερουσαλὴμ, καὶ ἐνώπιον τῶν πρεσβυτέρων δοξασθήσεται."
       }
     }
   ],

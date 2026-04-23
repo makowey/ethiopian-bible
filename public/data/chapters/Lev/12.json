@@ -31,7 +31,8 @@
       "translations": {
         "lxx": "And the Lord spoke to Moses, saying,",
         "kjv": "And the LORD spake unto Moses, saying,",
-        "ron": "Şi a grăit Domnul lui Moise şi a zis:"
+        "ron": "Şi a grăit Domnul lui Moise şi a zis:",
+        "grk": "Καὶ ἐλάλησε Κύριος πρὸς Μωυσῆν, λέγων,"
       }
     },
     {
@@ -148,7 +149,8 @@
       "translations": {
         "lxx": "Speak to the children of Israel, and thou shalt say to them, Whatsoever woman shall have conceived and born a male child shall be unclean seven days, she shall be unclean according to the days of separation for her monthly courses.",
         "kjv": "Speak unto the children of Israel, saying, If a woman have conceived seed, and born a man child: then she shall be unclean seven days; according to the days of the separation for her infirmity shall she be unclean.",
-        "ron": "\"Grăieşte fiilor lui Israel şi le zi: Dacă femeia va zămisli şi va naşte prunc de parte bărbătească, necurată va fi şapte zile, cum e necurată şi în zilele regulei ei."
+        "ron": "\"Grăieşte fiilor lui Israel şi le zi: Dacă femeia va zămisli şi va naşte prunc de parte bărbătească, necurată va fi şapte zile, cum e necurată şi în zilele regulei ei.",
+        "grk": "λάλησον τοῖς υἱοῖς Ἰσραὴλ, καὶ ἐρεῖς πρὸς αὐτοὺς, γυνὴ ἥτις ἐὰν σπερματισθῇ, καὶ τέκῃ ἄρσεν, καὶ ἀκάθαρτος ἔσται ἑπτὰ ἡμέρας· κατὰ τὰς ἡμέρας τοῦ χωρισμοῦ τῆς ἀφέδρου αὐτῆς, ἀκάθαρτος ἔσται."
       }
     },
     {
@@ -185,7 +187,8 @@
       "translations": {
         "lxx": "And on the eighth day she shall circumcise the flesh of his foreskin.",
         "kjv": "And in the eighth day the flesh of his foreskin shall be circumcised.",
-        "ron": "Iar în ziua a opta se va tăia pruncul împrejur."
+        "ron": "Iar în ziua a opta se va tăia pruncul împrejur.",
+        "grk": "Καὶ τῇ ἡμέρᾳ τῇ ὀγδόῃ περιτεμεῖ τὴν σάρκα τῆς ἀκροβυστίας αὐτοῦ."
       }
     },
     {
@@ -277,7 +280,8 @@
       "translations": {
         "lxx": "And for thirty-three days she shall continue in her unclean blood; she shall touch nothing holy, and shall not enter the sanctuary, until the days of her purification be fulfilled.",
         "kjv": "And she shall then continue in the blood of her purifying three and thirty days; she shall touch no hallowed thing, nor come into the sanctuary, until the days of her purifying be fulfilled.",
-        "ron": "Femeia să mai şadă treizeci şi trei de zile şi să se curăţe de sângele său; de nimic sfânt să nu se atingă, şi la locaşul sfânt să nu meargă, până se vor împlini zilele curăţirii ei."
+        "ron": "Femeia să mai şadă treizeci şi trei de zile şi să se curăţe de sângele său; de nimic sfânt să nu se atingă, şi la locaşul sfânt să nu meargă, până se vor împlini zilele curăţirii ei.",
+        "grk": "Καὶ τριάκοντα καὶ τρεῖς ἡμέρας καθήσεται ἐν αἵματι ἀκαθάρτῳ αὐτῆς· παντὸς ἁγίου οὐξ ἅψεται, καὶ εἰς τὸ ἁγιαστήριον οὐκ εἰσελεύσεται, ἕως ἂν πληρωθῶσιν αἱ ἡμέραι καθάρσεως αὐτῆς."
       }
     },
     {
@@ -374,7 +378,8 @@
       "translations": {
         "lxx": "But if she should have born a female child, then she shall be unclean twice seven days, according to the time of her monthly courses; and for sixty-six days shall she remain in her unclean blood.",
         "kjv": "But if she bear a maid child, then she shall be unclean two weeks, as in her separation: and she shall continue in the blood of her purifying threescore and six days.",
-        "ron": "Iar de va naşte fată, necurată va fi două săptămâni, ca şi în timpul regulei ei; apoi să mai stea şaizeci şi şase de zile pentru a se curăţi de sângele său."
+        "ron": "Iar de va naşte fată, necurată va fi două săptămâni, ca şi în timpul regulei ei; apoi să mai stea şaizeci şi şase de zile pentru a se curăţi de sângele său.",
+        "grk": "Ἐὰν δὲ θῆλυ τέκῃ, καὶ ἀκάθαρτος ἔσται δὶς ἑπτὰ ἡμέρας, κατὰ τὴν ἄφεδρον αὐτῆς· καὶ ἑξήκοντα ἡμέρας καὶ ἓξ καθεσθήσεται ἐν αἵματι ἀκαθάρτῳ αὐτῆς."
       }
     },
     {
@@ -516,7 +521,8 @@
       "translations": {
         "lxx": "And when the days of her purification shall have been fulfilled for a son or a daughter, she shall bring a lamb of a year old without blemish for a whole-burnt-offering, and a young pigeon or turtle-dove for a sin-offering to the door of the tabernacle of witness, to the priest.",
         "kjv": "And when the days of her purifying are fulfilled, for a son, or for a daughter, she shall bring a lamb of the first year for a burnt offering, and a young pigeon, or a turtledove, for a sin offering, unto the door of the tabernacle of the congregation, unto the priest:",
-        "ron": "După ce se vor împlini zilele curăţirii ei pentru fiu sau pentru fiică, să aducă preotului la uşa cortului un miel de un an ardere de tot şi un pui de porumbel sau o turturică, jertfă pentru păcat;"
+        "ron": "După ce se vor împlini zilele curăţirii ei pentru fiu sau pentru fiică, să aducă preotului la uşa cortului un miel de un an ardere de tot şi un pui de porumbel sau o turturică, jertfă pentru păcat;",
+        "grk": "Καὶ ὅταν ἀναπληρωθῶσιν αἱ ἡμέραι καθάρσεως αὐτῆς ἐφʼ υἱῷ ἢ ἐπὶ θυγατρι, προσοίσει ἀμνὸν ἐνιαύσιον ἄμωμον εἰς ὁλοκαύτωμα, καὶ νοσσὸν περιστερᾶς ἢ τρυγόνα περὶ ἁμαρτίας ἐπὶ τὴν θύραν τῆς σκηνῆς τοῦ μαρτυρίου, πρὸς τὸν ἱερέα."
       }
     },
     {
@@ -613,7 +619,8 @@
       "translations": {
         "lxx": "And he shall present it before the Lord, and the priest shall make atonement for her, and shall purge her from the fountain of her blood; this is the law of her who bears a male or a female.",
         "kjv": "Who shall offer it before the LORD, and make an atonement for her; and she shall be cleansed from the issue of her blood. This is the law for her that hath born a male or a female.",
-        "ron": "Preotul va înfăţişa acestea înaintea Domnului şi o va curăţi şi curată va fi de curgerea sângelui ei. Aceasta e rânduiala pentru ceea ce a născut prunc de parte bărbătească sau de parte femeiască."
+        "ron": "Preotul va înfăţişa acestea înaintea Domnului şi o va curăţi şi curată va fi de curgerea sângelui ei. Aceasta e rânduiala pentru ceea ce a născut prunc de parte bărbătească sau de parte femeiască.",
+        "grk": "Καὶ προσοίσει αὐτὸν ἔναντι Κυρίου· καὶ ἐξιλάσεται περὶ αὐτῆς ὁ ἱερεὺς, καὶ καθαριεῖ αὐτὴν ἀπὸ τῆς πηγῆς τοῦ αἵματος αὐτῆς· οὗτος ὁ νόμος τῆς τικτούσης ἄρσεν ἢ θῆλυ."
       }
     },
     {
@@ -735,7 +742,8 @@
       "translations": {
         "lxx": "And if she cannot afford a lamb, then shall she take two turtle-doves or two young pigeons, one for a whole-burnt-offering, and one for a sin-offering; and the priest shall make atonement for her, and she shall be purified.",
         "kjv": "And if she be not able to bring a lamb, then she shall bring two turtles, or two young pigeons; the one for the burnt offering, and the other for a sin offering: and the priest shall make an atonement for her, and she shall be clean.",
-        "ron": "Iar de nu-i va da mâna să aducă un miel, să ia două turturele sau doi pui de porumbel, unul pentru ardere de tot şi altul jertfă pentru păcat, şi o va curăţi preotul şi curată va fi\"."
+        "ron": "Iar de nu-i va da mâna să aducă un miel, să ia două turturele sau doi pui de porumbel, unul pentru ardere de tot şi altul jertfă pentru păcat, şi o va curăţi preotul şi curată va fi\".",
+        "grk": "Ἐὰν δὲ μὴ εὑρίσκῃ ἡ χεὶρ αὐτῆς τὸ ἱκανὸν εἰς ἀμνὸν, καὶ λήψεται δύο τρυγόνας ἢ δύο νοσσοὺς περιστερῶν, μίαν εἰς ὁλοκαύτωμα, καὶ μίαν περὶ ἁμαρτίας· καὶ ἐξιλάσεται περὶ αὐτῆς ὁ ἱερεὺς, καὶ καθαρισθήσεται."
       }
     }
   ],

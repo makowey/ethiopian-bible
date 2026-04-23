@@ -56,7 +56,8 @@
       "translations": {
         "lxx": "A fair name is better than much wealth, and good favour is above silver and gold.",
         "kjv": "A GOOD name is rather to be chosen than great riches, and loving favour rather than silver and gold.",
-        "ron": "Un nume (bun) este mai de preţ decât bogăţia; cinstea este mai preţioasă decât argintul şi decât aurul."
+        "ron": "Un nume (bun) este mai de preţ decât bogăţia; cinstea este mai preţioasă decât argintul şi decât aurul.",
+        "grk": "Αἱρετώτερον ὄνομα καλὸν ἢ πλοῦτος πολύς, ὑπὲρ δὲ ἀργύριον καὶ χρυσίον χάρις ἀγαθή."
       }
     },
     {
@@ -103,7 +104,8 @@
       "translations": {
         "lxx": "The rich and the poor meet together; but the Lord made them both.",
         "kjv": "The rich and poor meet together: the LORD is the maker of them all.",
-        "ron": "Bogatul şi săracul se întâlnesc unul cu altul; dar Cine i-a făcut este Domnul."
+        "ron": "Bogatul şi săracul se întâlnesc unul cu altul; dar Cine i-a făcut este Domnul.",
+        "grk": "Πλούσιος καὶ πτωχὸς συνήντησαν ἀλλήλοις, ἀμφοτέρους δὲ ὁ κύριος ἐποίησε."
       }
     },
     {
@@ -170,7 +172,8 @@
       "translations": {
         "lxx": "An intelligent man seeing a bad man severely punished is himself instructed, but fools pass by and are punished.",
         "kjv": "A prudent man foreseeth the evil, and hideth himself: but the simple pass on, and are punished.",
-        "ron": "Cel iscusit vede nenorocirea şi se ascunde, cei simpli trec mai departe şi suferă."
+        "ron": "Cel iscusit vede nenorocirea şi se ascunde, cei simpli trec mai departe şi suferă.",
+        "grk": "Πανοῦργος ἰδὼν πονηρὸν τιμωρούμενον κραταιῶς αὐτὸς παιδεύεται, οἱ δὲ ἄφρονες παρελθόντες ἐζημιώθησαν."
       }
     },
     {
@@ -217,7 +220,8 @@
       "translations": {
         "lxx": "The fear of the Lord is the offspring of wisdom, and wealth, and glory, and life.",
         "kjv": "By humility and the fear of the LORD are riches, and honour, and life.",
-        "ron": "Rodul umilinţei şi a temerii de Dumnezeu sunt: bogăţia, mărirea şi viaţa."
+        "ron": "Rodul umilinţei şi a temerii de Dumnezeu sunt: bogăţia, mărirea şi viaţa.",
+        "grk": "Γενεὰ σοφίας φόβος Κυρίου, καὶ πλοῦτος, καὶ δόξα, καὶ ζωή."
       }
     },
     {
@@ -274,7 +278,8 @@
       "translations": {
         "lxx": "Thistles and snares are in perverse ways; but he that keeps his soul will refrain from them.",
         "kjv": "Thorns and snares are in the way of the froward: he that doth keep his soul shall be far from them.",
-        "ron": "Mărăcini şi curse sunt în calea celui viclean; cel ce îşi fereşte sufletul lui sa dă la o parte de ele."
+        "ron": "Mărăcini şi curse sunt în calea celui viclean; cel ce îşi fereşte sufletul lui sa dă la o parte de ele.",
+        "grk": "Τρίβολοι καὶ παγίδες ἐν ὁδοῖς σκολιαῖς, ὁ δὲ φυλάσσων τὴν ἑαυτοῦ ψυχὴν ἀφέξεται αὐτῶν."
       }
     },
     {
@@ -362,7 +367,8 @@
       "translations": {
         "lxx": "The rich will rule over the poor, and servants will lend to their own masters.",
         "kjv": "The rich ruleth over the poor, and the borrower is servant to the lender.",
-        "ron": "Bogatul stăpâneşte pe cei săraci, şi cel ce împrumută este slujitor celui de la care se împrumută."
+        "ron": "Bogatul stăpâneşte pe cei săraci, şi cel ce împrumută este slujitor celui de la care se împrumută.",
+        "grk": "Πλούσιοι πτωχῶν ἄρξουσι, καὶ οἰκέται ἰδίοις δεσπόταις δανειοῦσιν."
       }
     },
     {
@@ -414,7 +420,8 @@
       "translations": {
         "lxx": "God loves a cheerful and liberal man; but a man shall fully prove the folly of his works.",
         "kjv": "He that soweth iniquity shall reap vanity: and the rod of his anger shall fail.",
-        "ron": "Cel ce seamănă nedreptatea seceră nenorocire, iar toiagul mâniei lui îl va bate pe el."
+        "ron": "Cel ce seamănă nedreptatea seceră nenorocire, iar toiagul mâniei lui îl va bate pe el.",
+        "grk": "Ὁ σπείρων φαῦλα θερίσει κακὰ, πληγὴν δὲ ἔργων αὐτοῦ συντελέσει· ἄνδρα ἱλαρὸν καὶ δότην εὐλογεῖ ὁ Θεὸς, ματαιότητα δὲ ἔργων αὐτοῦ συντελέσει."
       }
     },
     {
@@ -486,7 +493,8 @@
       "translations": {
         "lxx": "He that gives liberally secures victory and honour; but he takes away the life of them that possess them.",
         "kjv": "He that hath a bountiful eye shall be blessed; for he giveth of his bread to the poor.",
-        "ron": "Omul blând va fi binecuvântat, căci din pâinea ui dă celui sărac."
+        "ron": "Omul blând va fi binecuvântat, căci din pâinea ui dă celui sărac.",
+        "grk": "Ὁ ἐλεῶν πτωχὸν αὐτὸς διατραφήσεται, τῶν γὰρ ἑαυτοῦ ἄρτων ἔδωκε τῷ πτωχῷ· νίκην καὶ τιμὴν περιποιεῖται ὁ δῶρα δοὺς, τὴν μέντοι ψυχὴν ἀφαιρεῖται τῶν κεκτημένων."
       }
     },
     {
@@ -543,7 +551,8 @@
       "translations": {
         "lxx": "Cast out a pestilent person from the council, and strife shall go out with him; for when he sits in the council he dishonours all.",
         "kjv": "Cast out the scorner, and contention shall go out; yea, strife and reproach shall cease.",
-        "ron": "Alungă pe cel batjocoritor şi cearta va lua sfârşit şi pricina şi defăimarea vor înceta."
+        "ron": "Alungă pe cel batjocoritor şi cearta va lua sfârşit şi pricina şi defăimarea vor înceta.",
+        "grk": "Ἔκβαλε ἐκ συνεδρίου λοιμὸν, καὶ συνεξελεύσεται αὐτῷ νεῖκος, ὅταν γὰρ καθίσῃ ἐν συνεδρίῳ πάντας ἀτιμάζει."
       }
     },
     {
@@ -615,7 +624,8 @@
       "translations": {
         "lxx": "The Lord loves holy hearts, and all blameless persons are acceptable with him: a king rules with his lips.",
         "kjv": "He that loveth pureness of heart, for the grace of his lips the king shall be his friend.",
-        "ron": "Cel ce iubeşte curăţia inimii şi ale cărui buze sunt ( pline) de vorbe alese are de prieten pe conducător."
+        "ron": "Cel ce iubeşte curăţia inimii şi ale cărui buze sunt ( pline) de vorbe alese are de prieten pe conducător.",
+        "grk": "Ἀγαπᾷ Κύριος ὁσίας καρδίας, δεκτοὶ δὲ αὐτῷ πάντες ἄμωμοι· χείλεσι ποιμαίνει βασιλεύς."
       }
     },
     {
@@ -682,7 +692,8 @@
       "translations": {
         "lxx": "But the eyes of the Lord preserve discretion; but the transgressor despises wise words.",
         "kjv": "The eyes of the LORD preserve knowledge, and he overthroweth the words of the transgressor.",
-        "ron": "Ochii Domnului păzesc ştiinţa şi dărâmă cuvintele celui fără de lege."
+        "ron": "Ochii Domnului păzesc ştiinţa şi dărâmă cuvintele celui fără de lege.",
+        "grk": "Οἱ δὲ ὀφθαλμοὶ Κυρίου διατηροῦσιν αἴσθησιν, φαυλίζει δὲ λόγους παράνομος."
       }
     },
     {
@@ -734,7 +745,8 @@
       "translations": {
         "lxx": "The sluggard makes excuses, and says, There is a lion in the ways, and murderers in the streets.",
         "kjv": "The slothful man saith, There is a lion without, I shall be slain in the streets.",
-        "ron": "Cel leneş pune pricini şi zice: \"Afară este un leu, aş putea să fiu sugrumat în mijlocul uliţelor\"."
+        "ron": "Cel leneş pune pricini şi zice: \"Afară este un leu, aş putea să fiu sugrumat în mijlocul uliţelor\".",
+        "grk": "Προφασίζεται, καὶ λέγει ὀκνηρὸς, λέων ἐν ταῖς ὁδοῖς, ἐν δὲ ταῖς πλατείαις φονευταί."
       }
     },
     {
@@ -806,7 +818,8 @@
       "translations": {
         "lxx": "Evil ways are before a man, and he does not like to turn away from them; but it is needful to turn aside from a perverse and bad way.",
         "kjv": "The mouth of strange women is a deep pit: he that is abhorred of the LORD shall fall therein.",
-        "ron": "O groapă fără fund este gura femeilor străine; cel ce este lovit de mânia Domnului cade în ea."
+        "ron": "O groapă fără fund este gura femeilor străine; cel ce este lovit de mânia Domnului cade în ea.",
+        "grk": "Βόθρος βαθὺς στόμα παρανόμου, ὁ δὲ μισηθεὶς ὑπὸ Κυρίου ἐμπεσεῖται εἰς αὐτόν. εἰσὶν ὁδοὶ κακαὶ ἐνώπιον ἀνδρὸς, καὶ οὐκ ἀγαπᾷ τοῦ ἀποστρέψαι ἀπʼ αὐτῶν, ἀποστρέφειν δὲ δεῖ ἀπὸ ὁδοῦ σκολιᾶς καὶ κακῆς."
       }
     },
     {
@@ -863,7 +876,8 @@
       "translations": {
         "lxx": "Folly is attached to the heart of a child, but the rod and instruction are then far from him.",
         "kjv": "Foolishness is bound in the heart of a child; but the rod of correction shall drive it far from him.",
-        "ron": "Dacă nebunia se pripăşeşte în inima celui tânăr, numai varga certării o va îndepărta de el."
+        "ron": "Dacă nebunia se pripăşeşte în inima celui tânăr, numai varga certării o va îndepărta de el.",
+        "grk": "Ἄνοια ἐξῆπται καρδίας νέου, ῥάβδος δὲ καὶ παιδεία μακρὰν ἀπʼ αὐτοῦ."
       }
     },
     {
@@ -935,7 +949,8 @@
       "translations": {
         "lxx": "He that oppresses the poor, increases his own substance, yet gives to the rich so as to make it less.",
         "kjv": "He that oppresseth the poor to increase his riches, and he that giveth to the rich, shall surely come to want.",
-        "ron": "Dacă împilezi pe un sărac, îţi înmulţeşti averea, dacă dai unui bogat sărăceşti."
+        "ron": "Dacă împilezi pe un sărac, îţi înmulţeşti averea, dacă dai unui bogat sărăceşti.",
+        "grk": "Ὁ συκοφαντῶν πένητα, πολλὰ ποιεῖ τὰ ἑαυτοῦ, δίδωσι δὲ πλουσίῳ ἐπʼ ἐλάσσονι."
       }
     },
     {
@@ -992,7 +1007,8 @@
       "translations": {
         "lxx": "Incline thine ear to the words of wise men: hear also my word, and apply thine heart,",
         "kjv": "Bow down thine ear, and hear the words of the wise, and apply thine heart unto my knowledge.",
-        "ron": "Pleacă urechea ta şi ascultă cuvintele celor iscusiţi şi inima ta îndreapt-o spre ştiinţa mea."
+        "ron": "Pleacă urechea ta şi ascultă cuvintele celor iscusiţi şi inima ta îndreapt-o spre ştiinţa mea.",
+        "grk": "Λόγοις σοφῶν παράβαλλε σὸν οὖς, καὶ ἄκουε ἐμὸν λόγον, τὴν δὲ σὴν καρδίαν ἐπίστησον, ἵνα γνῷς ὅτι καλοί εἰσι·"
       }
     },
     {
@@ -1054,7 +1070,8 @@
       "translations": {
         "lxx": "that thou mayest know that they are good: and if thou lay them to heart, they shall also gladden thee on thy lips.",
         "kjv": "For it is a pleasant thing if thou keep them within thee; they shall withal be fitted in thy lips.",
-        "ron": "Este plăcut dacă tu le păstrezi înlăuntrul tău. O, de-ar sta toate pe buzele tale!"
+        "ron": "Este plăcut dacă tu le păstrezi înlăuntrul tău. O, de-ar sta toate pe buzele tale!",
+        "grk": "καὶ ἐὰν ἐμβάλῃς αὐτοὺς εἰς τὴν καρδίαν σου, εὐφρανοῦσί σε ἅμα ἐπὶ σοῖς χείλεσιν·"
       }
     },
     {
@@ -1136,7 +1153,8 @@
       "translations": {
         "lxx": "That thy hope may be in the Lord, and he may make thy way known to thee.",
         "kjv": "That thy trust may be in the LORD, I have made known to thee this day, even to thee.",
-        "ron": "Pentru a-ţi pune nădejdea în Domnul, vreau să-ţi dau învăţătură astăzi."
+        "ron": "Pentru a-ţi pune nădejdea în Domnul, vreau să-ţi dau învăţătură astăzi.",
+        "grk": "Ἵνα σου γένηται ἐπὶ Κύριον ἡ ἐλπὶς, καὶ γνωρίσῃ σοι τὴν ὁδόν σου."
       }
     },
     {
@@ -1223,7 +1241,8 @@
       "translations": {
         "lxx": "And do thou too repeatedly record them for thyself on the table of thine heart, for counsel and knowledge.",
         "kjv": "Have not I written to thee excellent things in counsels and knowledge,",
-        "ron": "Oare nu ţi-am aşezat în scris în nenumărate rânduri sfaturi şi învăţături,"
+        "ron": "Oare nu ţi-am aşezat în scris în nenumărate rânduri sfaturi şi învăţături,",
+        "grk": "Καὶ σὺ δὲ ἀπόγραψαι αὐτὰ σεαυτῷ τρισσῶς, εἰς βουλὴν καὶ γνῶσιν ἐπὶ τὸ πλάτος τῆς καρδίας σου."
       }
     },
     {
@@ -1295,7 +1314,8 @@
       "translations": {
         "lxx": "I therefore teach thee truth, and knowledge good to hear; that thou mayest answer words of truth to them that question thee.",
         "kjv": "That I might make thee know the certainty of the words of truth; that thou mightest answer the words of truth to them that send unto thee?",
-        "ron": "Ca să-ţi fac cunoscut credincioşia cuvintelor adevărate şi să răspunzi prin cuvinte de bună credinţă, celor ce te întreabă?"
+        "ron": "Ca să-ţi fac cunoscut credincioşia cuvintelor adevărate şi să răspunzi prin cuvinte de bună credinţă, celor ce te întreabă?",
+        "grk": "Διδάσκω οὖν σε ἀληθῆ λόγον, καὶ γνῶσιν ἀγαθὴν ὑπακούειν, τοῦ ἀποκρίνεσθαί σε λόγους ἀληθείας τοῖς προβαλλομένοις σοι."
       }
     },
     {
@@ -1372,7 +1392,8 @@
       "translations": {
         "lxx": "Do no violence to the poor, for he is needy: neither dishonour the helpless man in the gates.",
         "kjv": "Rob not the poor, because he is poor: neither oppress the afflicted in the gate:",
-        "ron": "Nu jefui pe sărac, pentru că el e sărac şi nu asupri pe cel nenorocit la poarta (cetăţii),"
+        "ron": "Nu jefui pe sărac, pentru că el e sărac şi nu asupri pe cel nenorocit la poarta (cetăţii),",
+        "grk": "Μὴ ἀποβιάζου πένητα, πτωχὸς γὰρ ἐστι, καὶ μὴ ἀτιμάσῃς ἀσθενῆ ἐν πύλαις."
       }
     },
     {
@@ -1424,7 +1445,8 @@
       "translations": {
         "lxx": "For the Lord will plead his cause, and thou shalt deliver thy soul in safety.",
         "kjv": "For the LORD will plead their cause, and spoil the soul of those that spoiled them.",
-        "ron": "Căci Domnul va apăra pricina lor şi va ridica viaţa celor care îi vor fi jefuit."
+        "ron": "Căci Domnul va apăra pricina lor şi va ridica viaţa celor care îi vor fi jefuit.",
+        "grk": "Ὁ γὰρ Κύριος κρινεῖ αὐτοῦ τὴν κρίσιν, καὶ ῥύσῃ σὴν ἄσυλον ψυχήν."
       }
     },
     {
@@ -1496,7 +1518,8 @@
       "translations": {
         "lxx": "Be not companion to a furious man; neither lodge with a passionate man:",
         "kjv": "Make no friendship with an angry man; and with a furious man thou shalt not go:",
-        "ron": "Nu te întovărăşi cu omul mânios şi cu cel înfierbântat de furie să n-ai nici un amestec,"
+        "ron": "Nu te întovărăşi cu omul mânios şi cu cel înfierbântat de furie să n-ai nici un amestec,",
+        "grk": "Μὴ ἴσθι ἑταῖρος ἀνδρὶ θυμώδει, φίλῳ δὲ ὀργίλῳ μὴ συναυλίζου·"
       }
     },
     {
@@ -1563,7 +1586,8 @@
       "translations": {
         "lxx": "lest thou learn of his ways, and get snares to thy soul.",
         "kjv": "Lest thou learn his ways, and get a snare to thy soul.",
-        "ron": "Ca să nu te deprinzi pe calea lui şi să-ti întinzi o cursă pentru viata ta."
+        "ron": "Ca să nu te deprinzi pe calea lui şi să-ti întinzi o cursă pentru viata ta.",
+        "grk": "μήποτε μάθῃς τῶν ὁδῶν αὐτοῦ, καὶ λάβῃς βρόχους τῇ σῇ ψυχῇ."
       }
     },
     {
@@ -1650,7 +1674,8 @@
       "translations": {
         "lxx": "Become not surety from respect of a man's person.",
         "kjv": "Be not thou one of them that strike hands, or of them that are sureties for debts.",
-        "ron": "Nu fi dintre aceia care dau mâna, care se pun chezaşi pentru datorii."
+        "ron": "Nu fi dintre aceia care dau mâna, care se pun chezaşi pentru datorii.",
+        "grk": "Μὴ δίδου σεαυτὸν εἰς ἐγγύην αἰσχυνόμενος πρόσωπον·"
       }
     },
     {
@@ -1687,7 +1712,8 @@
       "translations": {
         "lxx": "For if those have not whence to give compensation, they will take the bed that is under thee.",
         "kjv": "If thou hast nothing to pay, why should he take away thy bed from under thee?",
-        "ron": "Dacă nu ai cu ce plăti, pentru ce te învoieşti ca să ţi se ia şi patul de sub tine?"
+        "ron": "Dacă nu ai cu ce plăti, pentru ce te învoieşti ca să ţi se ia şi patul de sub tine?",
+        "grk": "Ἐὰν γὰρ μὴ ἔχῃ πόθεν ἀποτίσῃς, λήψονται τὸ στρῶμα τὸ ὑπὸ τὰς πλευράς σου."
       }
     },
     {
@@ -1749,7 +1775,8 @@
       "translations": {
         "lxx": "Remove not the old landmarks, which thy fathers placed.",
         "kjv": "Remove not the ancient landmark, which thy fathers have set.",
-        "ron": "Nu muta hotarul străvechi pe care l-au însemnat părinţii tăi."
+        "ron": "Nu muta hotarul străvechi pe care l-au însemnat părinţii tăi.",
+        "grk": "Μὴ μέταιρε ὅρια αἰώνια, ἃ ἔθεντο οἱ πατέρες σου."
       }
     }
   ],

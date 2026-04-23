@@ -8,7 +8,8 @@
       "translation": "Adam, Seth, Enos,",
       "words": [],
       "translations": {
-        "ron": "Adam, Set, Enos;"
+        "ron": "Adam, Set, Enos;",
+        "grk": "ἈΔΑΜ, Σὴθ, Ἐνὼς,"
       }
     },
     {
@@ -17,7 +18,8 @@
       "translation": "and Cainan, Maleleel, Jared,",
       "words": [],
       "translations": {
-        "ron": "Chenan, Mahalaleel, Iared;"
+        "ron": "Chenan, Mahalaleel, Iared;",
+        "grk": "καὶ Καϊνᾶν, Μαλελεὴλ, Ἰάρεδ,"
       }
     },
     {
@@ -26,7 +28,8 @@
       "translation": "Enoch, Mathusala, Lamech,",
       "words": [],
       "translations": {
-        "ron": "Enoh, Matusalem, Lameh;"
+        "ron": "Enoh, Matusalem, Lameh;",
+        "grk": "Ἐνὼχ, Μαθουσάλα, Λάμεχ,"
       }
     },
     {
@@ -35,7 +38,8 @@
       "translation": "Noe: the sons of Noe, Sem, Cham, Japheth.",
       "words": [],
       "translations": {
-        "ron": "Noe, Sem, Ham şi Iafet."
+        "ron": "Noe, Sem, Ham şi Iafet.",
+        "grk": "Νῶε· υἱοὶ Νῶε, Σὴμ, Χὰμ, Ἰάφεθ."
       }
     },
     {
@@ -44,7 +48,8 @@
       "translation": "The sons of Japheth, Gamer, Magog, Madaim, Jovan, Helisa, Thobel, Mosoch, and Thiras.",
       "words": [],
       "translations": {
-        "ron": "Fiii lui Iafet: Gomer, Magog, Madai, Iavan, Elişa, Tubal, Meşec şi Tiras."
+        "ron": "Fiii lui Iafet: Gomer, Magog, Madai, Iavan, Elişa, Tubal, Meşec şi Tiras.",
+        "grk": "Υἱοὶ Ἰάφεθ, Γαμὲρ, Μαγὼγ, Μαδαῒμ, Ἰωϋὰν, Ἑλισὰ, Θοβὲλ, Μοσὸχ, καὶ Θίρας."
       }
     },
     {
@@ -53,7 +58,8 @@
       "translation": "And the sons of Gamer, Aschanaz, and Riphath, and Thorgama.",
       "words": [],
       "translations": {
-        "ron": "Fiii lui Gomer: Aşchenaz, Rifat şi Togarma."
+        "ron": "Fiii lui Gomer: Aşchenaz, Rifat şi Togarma.",
+        "grk": "Καὶ οἱ υἱοὶ Γαμὲρ, Ἀσχανὰζ, καὶ Ῥιφὰθ, καὶ Θοργαμά."
       }
     },
     {
@@ -62,7 +68,8 @@
       "translation": "And the sons of Jovan, Helisa, and Tharsis, the Citians, and Rhodians.",
       "words": [],
       "translations": {
-        "ron": "Fiii lui Iavan: Elişa, Tarşiş, Chitim şi Dodanim."
+        "ron": "Fiii lui Iavan: Elişa, Tarşiş, Chitim şi Dodanim.",
+        "grk": "Καὶ οἱ υἱοὶ Ἰωϋὰν, Ἑλισὰ, καὶ Θαρσὶς, Κίτιοι, καὶ Ῥόδιοι."
       }
     },
     {
@@ -71,7 +78,8 @@
       "translation": "And the sons of Cham, Chus, and Mesraim, Phud and Chanaan.",
       "words": [],
       "translations": {
-        "ron": "Fiii lui Ham: Cuş, Miţraim, Put şi Canaan."
+        "ron": "Fiii lui Ham: Cuş, Miţraim, Put şi Canaan.",
+        "grk": "Καὶ υἱοὶ Χὰμ, Χοὺς, καὶ Μεσραῒμ, Φοὺδ, καὶ Χαναάν."
       }
     },
     {
@@ -80,7 +88,8 @@
       "translation": "And the sons of Chus, Saba, and Evila, and Sabatha, and Regma, and Sebethaca: and the sons of Regma, Saba, and Dadan.",
       "words": [],
       "translations": {
-        "ron": "Fiii lui Cuş: Seba, Havila, Savta Rama şi Sabteca. Fiii lui Rama: Şeba şi Dedan."
+        "ron": "Fiii lui Cuş: Seba, Havila, Savta Rama şi Sabteca. Fiii lui Rama: Şeba şi Dedan.",
+        "grk": "Καὶ υἱοὶ Χοὺς, Σαβὰ, καὶ Εὐιλὰ, καὶ Σαβαθὰ, καὶ Ῥεγμὰ, καὶ Σεβεθαχά· καὶ υἱοὶ Ῥεγμὰ, Σαβὰ, καὶ Δαδάν."
       }
     },
     {
@@ -89,7 +98,8 @@
       "translation": "And Chus begot Nebrod: he began to be a mighty hunter on the earth.",
       "words": [],
       "translations": {
-        "ron": "Lui Cuş i s-a mai născut de asemenea şi Nimrod. Acesta a început să fie puternic pe pământ."
+        "ron": "Lui Cuş i s-a mai născut de asemenea şi Nimrod. Acesta a început să fie puternic pe pământ.",
+        "grk": "Καὶ Χοὺς ἐγέννησε τὸν Νεβρώδ· οὗτος ἤρξατο εἶναι γίγας κυνηγὸς ἐπὶ τῆς γῆς."
       }
     },
     {
@@ -98,7 +108,8 @@
       "translation": "The sons of Sem, Ælam, and Assur,",
       "words": [],
       "translations": {
-        "ron": "Fiii lui Sem: Elam, Asur, Arpaxad, Lud şi Aram. Fiii lui Aram: Ut, Hul, Gheter şi Meşec."
+        "ron": "Fiii lui Sem: Elam, Asur, Arpaxad, Lud şi Aram. Fiii lui Aram: Ut, Hul, Gheter şi Meşec.",
+        "grk": "Υἱοὶ Σὴμ, Αἰλὰμ, καὶ Ἀσσοὺρ,"
       }
     },
     {
@@ -107,7 +118,8 @@
       "translation": "and Arphaxad, Sala,",
       "words": [],
       "translations": {
-        "ron": "Iar fiii lui Sim sunt: Arpaxad, Cainan, Selah,"
+        "ron": "Iar fiii lui Sim sunt: Arpaxad, Cainan, Selah,",
+        "grk": "καὶ Ἀρφαξὰδ, Σάλα,"
       }
     },
     {
@@ -116,7 +128,8 @@
       "translation": "Eber, Pheleg, Ragan,",
       "words": [],
       "translations": {
-        "ron": "Eber, Peleg, Reu,"
+        "ron": "Eber, Peleg, Reu,",
+        "grk": "Ἔβερ, Φαλὲγ, Ῥαγὰν,"
       }
     },
     {
@@ -125,7 +138,8 @@
       "translation": "Seruch, Nachor, Tharrha,",
       "words": [],
       "translations": {
-        "ron": "Serug, Nahor, Terah"
+        "ron": "Serug, Nahor, Terah",
+        "grk": "Σεροὺχ, Ναχὼρ, Θάῤῥα,"
       }
     },
     {
@@ -134,7 +148,8 @@
       "translation": "Abraam.",
       "words": [],
       "translations": {
-        "ron": "Şi Avram, adică Avraam."
+        "ron": "Şi Avram, adică Avraam.",
+        "grk": "Ἁβραάμ·"
       }
     },
     {
@@ -143,7 +158,8 @@
       "translation": "And the sons of Abraam, Isaac, and Ismael.",
       "words": [],
       "translations": {
-        "ron": "Fiii lui Avraam sunt Isaac şi Ismael."
+        "ron": "Fiii lui Avraam sunt Isaac şi Ismael.",
+        "grk": "Υἱοὶ δὲ Ἁβραὰμ, Ἰσαὰκ, καὶ Ἰσμαήλ."
       }
     },
     {
@@ -152,7 +168,8 @@
       "translation": "And these are their generations: the first-born of Ismael, Nabæoth, and Kedar, Nabdeel, Massam,",
       "words": [],
       "translations": {
-        "ron": "Iată spiţa neamului lor: Nebaiot, întâiul născut al lui Ismael, apoi: Chedar, Adbeel, Mibsam,"
+        "ron": "Iată spiţa neamului lor: Nebaiot, întâiul născut al lui Ismael, apoi: Chedar, Adbeel, Mibsam,",
+        "grk": "Αὗται δὲ αἱ γενέσεις αὐτῶν· πρωτότοκος Ἰσμαὴλ, Ναβαιὼθ, καὶ Κηδὰρ, Ναβδεὴλ, Μασσὰμ,"
       }
     },
     {
@@ -161,7 +178,8 @@
       "translation": "Masma, Iduma, Masse, Chondan, Thæman,",
       "words": [],
       "translations": {
-        "ron": "Mişma, Duma, Maşa, Hadad, Tema,"
+        "ron": "Mişma, Duma, Maşa, Hadad, Tema,",
+        "grk": "Μασμὰ, Ἰδουμὰ, Μασσὴ, Χονδὰν, Θαιμὰν,"
       }
     },
     {
@@ -170,7 +188,8 @@
       "translation": "Jettur, Naphes, Kedma: these are the sons of Ismael.",
       "words": [],
       "translations": {
-        "ron": "Ietur, Nafiş şi Chedma. Aceştia sunt fiii lui Ismael."
+        "ron": "Ietur, Nafiş şi Chedma. Aceştia sunt fiii lui Ismael.",
+        "grk": "Ἰεττοὺρ, Ναφὲς, Κεδμά· οὗτοι υἱοὶ Ἰσμαήλ."
       }
     },
     {
@@ -179,7 +198,8 @@
       "translation": "And the sons of Chettura Abraam's concubine:—and she bore him Zembram, Jexan, Madiam, Madam, Sobac, Soe: and the sons of Jexan; Dædan, and Sabai;",
       "words": [],
       "translations": {
-        "ron": "Fiii Cheturei, ţiitoarea lui Avraam. Ea a născut pe Zimran, Iocşan, Medan, Madian, Işbac şi Şuah. Fiii lui Iocşan sunt: Şeba şi Dedan. Fiii lui Dedan sunt: Raguel, Navdeel, Aşurim, Letuşim şi Leumim."
+        "ron": "Fiii Cheturei, ţiitoarea lui Avraam. Ea a născut pe Zimran, Iocşan, Medan, Madian, Işbac şi Şuah. Fiii lui Iocşan sunt: Şeba şi Dedan. Fiii lui Dedan sunt: Raguel, Navdeel, Aşurim, Letuşim şi Leumim.",
+        "grk": "Καὶ υἱοὶ Χεττούρας παλλακῆς Ἁβραάμ· καὶ ἔτεκεν αὐτῷ τὸν Ζεμβρὰμ, Ἰεξὰν, Μαδιὰμ, Μαδὰμ, Σοβὰκ, Σωέ· καὶ υἱοὶ Ἰεξὰν, Δαιδὰν, καὶ Σαβαΐ."
       }
     },
     {
@@ -188,7 +208,8 @@
       "translation": "and the sons of Madiam; Gephar, and Opher, and Enoch, and Abida, and Eldada; all these were the sons of Chettura.",
       "words": [],
       "translations": {
-        "ron": "Fiii lui Madian sunt: Efa, Efer, Enoh, Abida şi Eldaa. Toţi aceştia sunt fiii Cheturei."
+        "ron": "Fiii lui Madian sunt: Efa, Efer, Enoh, Abida şi Eldaa. Toţi aceştia sunt fiii Cheturei.",
+        "grk": "Καὶ υἱοὶ Μαδιὰμ, Γεφὰρ, καὶ Ὀφὲρ, καὶ Ἐνὼχ, καὶ Ἀβιδὰ, καὶ Ἐλδαδά· πάντες οὗτοι υἱοὶ Χεττούρας."
       }
     },
     {
@@ -197,7 +218,8 @@
       "translation": "And Abraam begot Isaac: and the sons of Isaac were Jacob, and Esau.",
       "words": [],
       "translations": {
-        "ron": "Lui Avraam i s-a născut Isaac. Fiii lui Isaac sunt: Isav şi Israel."
+        "ron": "Lui Avraam i s-a născut Isaac. Fiii lui Isaac sunt: Isav şi Israel.",
+        "grk": "Καὶ ἐγέννησεν Ἁβραὰμ τὸν Ἰσαάκ· καὶ υἱοὶ Ἰσαὰκ, Ἰακὼβ, καὶ Ἡσαῦ."
       }
     },
     {
@@ -206,7 +228,8 @@
       "translation": "The sons of Esau, Eliphaz, and Raguel, and Jeul, and Jeglom, and Core.",
       "words": [],
       "translations": {
-        "ron": "Fiii lui Isav sunt: Elifaz, Raguel, Ieuş, Ialam şi Core."
+        "ron": "Fiii lui Isav sunt: Elifaz, Raguel, Ieuş, Ialam şi Core.",
+        "grk": "Υἱοὶ Ἡσαῦ, Ἐλιφὰζ, καὶ Ῥαγουὴλ, καὶ Ἰεοὺλ, καὶ Ἰεγλὸμ, καὶ Κορέ."
       }
     },
     {
@@ -215,7 +238,8 @@
       "translation": "The sons of Eliphaz: Thæman, and Omar, Sophar, and Goötham, and Kenez, and Thamna, and Amalec.",
       "words": [],
       "translations": {
-        "ron": "Fiii lui Elifaz sunt: Teman, Omar, Ţefi, Gatam, Chenaz; iar Temna, concubina lui Elifaz, i-a născut pe Amalec."
+        "ron": "Fiii lui Elifaz sunt: Teman, Omar, Ţefi, Gatam, Chenaz; iar Temna, concubina lui Elifaz, i-a născut pe Amalec.",
+        "grk": "Υἱοὶ Ἐλιφὰζ, Θαιμὰν, καὶ Ὠμὰρ, Σωφὰρ, καὶ Γοωθὰμ, καὶ Κενὲζ, καὶ Θαμνὰ, καὶ Ἀμαλήκ."
       }
     },
     {
@@ -224,7 +248,8 @@
       "translation": "And the sons of Raguel, Naches, Zare, Some, and Moze.",
       "words": [],
       "translations": {
-        "ron": "Fiii lui Raguel sunt: Nahat, Zerah, Şama şi Miza."
+        "ron": "Fiii lui Raguel sunt: Nahat, Zerah, Şama şi Miza.",
+        "grk": "Καὶ υἱοὶ Ῥαγουὴλ, Ναχὲς, Ζαρὲ, Σομὲ, καὶ Μοζέ."
       }
     },
     {
@@ -233,7 +258,8 @@
       "translation": "The sons of Seir, Lotan, Sobal, Sebegon, Ana, Deson, Osar, and Disan.",
       "words": [],
       "translations": {
-        "ron": "Fiii lui Seir sunt: Lotan, Şobal, Ţibeon, Ana, Dişon, Eţer şi Dişan."
+        "ron": "Fiii lui Seir sunt: Lotan, Şobal, Ţibeon, Ana, Dişon, Eţer şi Dişan.",
+        "grk": "Υἱοὶ Σηῒρ, Λωτὰν, Σωβὰλ, Σεβεγὼν, Ἀνὰ, Δησὼν, Ὠσὰρ, καὶ Δισάν."
       }
     },
     {
@@ -242,7 +268,8 @@
       "translation": "And the sons of Lotan, Chorri, and Æman; and the sister of Lotan was Thamna.",
       "words": [],
       "translations": {
-        "ron": "Fiii lui Lotan sunt: Hori şi Heman; iar sora lui Lotan se numea Timna."
+        "ron": "Fiii lui Lotan sunt: Hori şi Heman; iar sora lui Lotan se numea Timna.",
+        "grk": "Καὶ υἱοὶ Λωτὰν, Χοῤῥὶ, καὶ Αἰμὰν· ἀδελφὴ δὲ Λωτὰν Θαμνά. Υἱοὶ Σωβὰλ, Ἀλὼν, Μαχανὰθ, Ταιβὴλ, Σωφὶ, καὶ Ὠνὰν·"
       }
     },
     {
@@ -251,7 +278,8 @@
       "translation": "The sons of Sobal; Alon, Machanath, Tæbel, Sophi, and Onan: and the sons of Sebegon; Æth, and Sonan.",
       "words": [],
       "translations": {
-        "ron": "Fiii lui Şobal sunt: Alvan, Manahat, Ebal, Şefo şi Onam. Fiii lui Ţibeon sunt: Aia şi Ana."
+        "ron": "Fiii lui Şobal sunt: Alvan, Manahat, Ebal, Şefo şi Onam. Fiii lui Ţibeon sunt: Aia şi Ana.",
+        "grk": "υἱοὶ δὲ Σεβεγὼν, Ἀῒθ, καὶ Σωνάν."
       }
     },
     {
@@ -260,7 +288,8 @@
       "translation": "The sons of Sonan, Dæson: and the sons of Dæson; Emeron, and Asebon, and Jethram, and Charran.",
       "words": [],
       "translations": {
-        "ron": "Fiii lui Ana sunt: Dişon şi Olibama; fiii lui Dişon sunt: Hemdan, Eşban, Itran şi Cheran."
+        "ron": "Fiii lui Ana sunt: Dişon şi Olibama; fiii lui Dişon sunt: Hemdan, Eşban, Itran şi Cheran.",
+        "grk": "Υἱοὶ Σωνὰν. Δαισών· υἱοὶ δὲ Δαισὼν, Ἐμερὼν, καὶ Ἀσεβὼν, καὶ Ἰεθρὰμ, καὶ Χαῤῥάν."
       }
     },
     {
@@ -269,7 +298,8 @@
       "translation": "And the sons of Hosar, Balaam, and Zucam, and Acan: the sons of Disan, Os, and Aran.",
       "words": [],
       "translations": {
-        "ron": "Fiii lui Eţer sunt: Bilhan, Zaavan şi Acan; fiii lui Dişan sunt: Uţ şi Aran."
+        "ron": "Fiii lui Eţer sunt: Bilhan, Zaavan şi Acan; fiii lui Dişan sunt: Uţ şi Aran.",
+        "grk": "Καὶ υἱοὶ Ὡσὰρ, Βαλαὰμ, καὶ Ζουκὰμ, καὶ Ἀκάν· υἱοὶ Δισὰν, Ὢς καὶ Ἀράν."
       }
     },
     {
@@ -278,7 +308,8 @@
       "translation": "And these are their kings, Balac the son of Beor; and the name of his city was Dennaba.",
       "words": [],
       "translations": {
-        "ron": "Aceştia sunt regii care au domnit în pământul Edom, înainte de a se ridica rege, peste fiii lui Israel, Bela, fiul lui Beor, cetatea căruia se numea Dinhaba."
+        "ron": "Aceştia sunt regii care au domnit în pământul Edom, înainte de a se ridica rege, peste fiii lui Israel, Bela, fiul lui Beor, cetatea căruia se numea Dinhaba.",
+        "grk": "Καὶ οὗτοι οἱ βασιλεῖς αὐτῶν· Βαλὰκ υἱὸς Βεὼρ, καὶ ὄνομα τῇ πόλει αὐτοῦ Δενναβά."
       }
     },
     {
@@ -287,7 +318,8 @@
       "translation": "And Balac died, and Jobab the son of Zara of Bosorrha reigned in his stead.",
       "words": [],
       "translations": {
-        "ron": "Murind Bela, după el a fost făcut rege Iobab, fiul lui Zerah din Boţra."
+        "ron": "Murind Bela, după el a fost făcut rege Iobab, fiul lui Zerah din Boţra.",
+        "grk": "Καὶ ἀπέθανε Βαλὰκ, καὶ ἐβασίλευσεν ἀντʼ αὐτοῦ Ἰωβὰβ υἱὸς Ζαρὰ ἐκ Βοσόῤῥας."
       }
     },
     {
@@ -296,7 +328,8 @@
       "translation": "And Jobab died, and Asom of the land of the Thæmanites reigned in his stead.",
       "words": [],
       "translations": {
-        "ron": "După moartea lui Iobab s-a făcut rege Huşam, în ţara Temaniţilor."
+        "ron": "După moartea lui Iobab s-a făcut rege Huşam, în ţara Temaniţilor.",
+        "grk": "Καὶ ἀπέθανεν Ἰωβὰβ καὶ ἐβασίλευσεν ἀντʼ αὐτοῦ Ἁσὸμ ἐκ γῆς Θαιμανών."
       }
     },
     {
@@ -305,7 +338,8 @@
       "translation": "And Asom died, and Adad the son of Barad reigned in his stead, who smote Madiam in the plain of Moab: and the name of his city was Gethaim.",
       "words": [],
       "translations": {
-        "ron": "Murind Huşam, s-a făcut rege după el Hadad, fiul lui Bedad, care a lovit pe Madianiţi în câmpia Moabului. Oraşul lui se numea Avit."
+        "ron": "Murind Huşam, s-a făcut rege după el Hadad, fiul lui Bedad, care a lovit pe Madianiţi în câmpia Moabului. Oraşul lui se numea Avit.",
+        "grk": "Καὶ ἀπέθανεν Ἁσόμ, καὶ ἐβασίλευσεν ἀντʼ αὐτοῦ Ἀδὰδ υἱὸς Βαρὰδ, ὁ πατάξας Μαδιὰμ ἐν τῷ πεδίῳ Μωὰβ· καὶ ὄνομα τῇ πόλει αὐτοῦ Γεθαίμ."
       }
     },
     {
@@ -314,7 +348,8 @@
       "translation": "And Adad died, and Sebla of Masecca reigned in his stead.",
       "words": [],
       "translations": {
-        "ron": "Murind Hadad, s-a făcut rege după el Şamla, din Masreca;"
+        "ron": "Murind Hadad, s-a făcut rege după el Şamla, din Masreca;",
+        "grk": "Καὶ ἀπέθανεν Ἁδὰδ, καὶ ἐβασίλευσεν ἀντʼ αὐτοῦ Σεβλὰ ἐκ Μασεκκάς."
       }
     },
     {
@@ -323,7 +358,8 @@
       "translation": "And Sebla died, and Saul of Rhoboth by the river reigned in his stead.",
       "words": [],
       "translations": {
-        "ron": "Murind Şamla, s-a făcut rege după el Şaul, din Rehobotul cel de lângă râu."
+        "ron": "Murind Şamla, s-a făcut rege după el Şaul, din Rehobotul cel de lângă râu.",
+        "grk": "Καὶ ἀπέθανε Σεβλὰ, καὶ ἐβασίλευσεν ἀντʼ αὐτοῦ Σαοὺλ ἐκ Ῥωβὼθ τῆς παρὰ ποταμόν."
       }
     },
     {
@@ -332,7 +368,8 @@
       "translation": "And Saul died, and Balaennor son of Achobor reigned in his stead.",
       "words": [],
       "translations": {
-        "ron": "Murind Şaul, s-a făcut rege după el Baal-Hanan, fiul lui Acbor."
+        "ron": "Murind Şaul, s-a făcut rege după el Baal-Hanan, fiul lui Acbor.",
+        "grk": "Καὶ ἀπέθανε Σαοὺλ, καὶ ἐβασίλευσεν ἀντʼ αὐτοῦ Βαλαεννὼρ υἱὸς Ἀχωβώρ."
       }
     },
     {
@@ -341,7 +378,8 @@
       "translation": "And Balaennor died, and Adad son of Barad reigned in his stead; and the name of his city was Phogor.",
       "words": [],
       "translations": {
-        "ron": "Murind Baal-Hanan, s-a făcut rege după el Hadad. Numele cetăţii lui era Pau, iar numele femeii lui era Mehetabeel, fiica lui Matred, fiica lui Mezahab."
+        "ron": "Murind Baal-Hanan, s-a făcut rege după el Hadad. Numele cetăţii lui era Pau, iar numele femeii lui era Mehetabeel, fiica lui Matred, fiica lui Mezahab.",
+        "grk": "Καὶ ἀπέθανε Βαλαεννὼρ, καὶ ἐβασίλευσεν ἀντʼ αὐτοῦ Ἀδὰδ υἱὸς Βαρὰδ, καὶ ὄνομα τῇ πόλει αὐτοῦ, Φογώρ."
       }
     },
     {
@@ -350,7 +388,8 @@
       "translation": "The princes of Edom: prince Thamna, prince Golada, prince Jether,",
       "words": [],
       "translations": {
-        "ron": "Murind Hadad, au urmat căpetenii peste Edom: căpetenia Timna, căpetenia Alia, căpetenia Ietet,"
+        "ron": "Murind Hadad, au urmat căpetenii peste Edom: căpetenia Timna, căpetenia Alia, căpetenia Ietet,",
+        "grk": "Ἡγεμόνες Ἐδώμ· ἡγεμὼν Θαμνὰ, ἡγεμὼν Γωλαδὰ, ἡγεμὼν Ἰεθὲρ,"
       }
     },
     {
@@ -359,7 +398,8 @@
       "translation": "prince Elibamas, prince Elas, prince Phinon,",
       "words": [],
       "translations": {
-        "ron": "Căpetenia Oholibama, căpetenia Ela, căpetenia Pinon,"
+        "ron": "Căpetenia Oholibama, căpetenia Ela, căpetenia Pinon,",
+        "grk": "ἡγεμὼν Ἐλιβαμὰς, ἡγεμὼν Ἠλὰς, ἡγεμὼν Φινὼν,"
       }
     },
     {
@@ -368,7 +408,8 @@
       "translation": "prince Kenez, prince Thæman, prince Babsar, prince Magediel,",
       "words": [],
       "translations": {
-        "ron": "Căpetenia Chenaz, căpetenia Teman, căpetenia Mibţar,"
+        "ron": "Căpetenia Chenaz, căpetenia Teman, căpetenia Mibţar,",
+        "grk": "ἡγεμὼν Κενέζ, ἡγεμὼν Θαιμὰν, ἡγεμὼν Βαβσὰρ,"
       }
     },
     {
@@ -377,7 +418,8 @@
       "translation": "prince Zaphoin. These are the princes of Edom.",
       "words": [],
       "translations": {
-        "ron": "Căpetenia Magdiel, căpetenia Iram. Acestea sunt căpeteniile Edomului."
+        "ron": "Căpetenia Magdiel, căpetenia Iram. Acestea sunt căpeteniile Edomului.",
+        "grk": "ἡγεμὼν Μαγεδιὴλ, ἡγεμὼν Ζαφωΐν· οὗτοι ἡγεμόνες Ἐδώμ."
       }
     }
   ]

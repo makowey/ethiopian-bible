@@ -86,7 +86,8 @@
       "translations": {
         "lxx": "And the Lord said to Moses, Now thou shalt see what I will do to Pharao; for he shall send them forth with a mighty hand, and with a high arm shall he cast them out of his land.",
         "kjv": "Then the LORD said unto Moses, Now shalt thou see what I will do to Pharaoh: for with a strong hand shall he let them go, and with a strong hand shall he drive them out of his land.",
-        "ron": "Atunci a zis Domnul către Moise: \"Acum ai să vezi ce am să fac lui Faraon, că sub lucrarea mâinii Mele celei tari el îi va lăsa şi sub lucrarea braţului Meu celui puternic el îi va alunga din pământul său\"."
+        "ron": "Atunci a zis Domnul către Moise: \"Acum ai să vezi ce am să fac lui Faraon, că sub lucrarea mâinii Mele celei tari el îi va lăsa şi sub lucrarea braţului Meu celui puternic el îi va alunga din pământul său\".",
+        "grk": "Καὶ εἶπε Κύριος πρὸς Μωυσῆν, ἤδη ὄψει ἃ ποιήσω τῷ Φαραῷ· ἐν γὰρ χειρὶ κραταίᾳ ἐξαποστελεῖ αὐτούς, καὶ ἐν βραχίονι ὑψηλῷ ἐκβαλεῖ αὐτοὺς ἐκ τῆς γῆς αὐτοῦ."
       }
     },
     {
@@ -133,7 +134,8 @@
       "translations": {
         "lxx": "And God spoke to Moses and said to him, I am the Lord.",
         "kjv": "And God spake unto Moses, and said unto him, I am the LORD:",
-        "ron": "Apoi a grăit Domnul cu Moise şi a zis către el: \"Eu sunt Domnul"
+        "ron": "Apoi a grăit Domnul cu Moise şi a zis către el: \"Eu sunt Domnul",
+        "grk": "Ἐλάλησε δὲ ὁ Θεὸς πρὸς Μωυσῆν, καὶ εἶπε πρὸς αὐτὸν, ἐγὼ Κύριος."
       }
     },
     {
@@ -195,7 +197,8 @@
       "translations": {
         "lxx": "And I appeared to Abraam and Isaac and Jacob, being their God, but I did not manifest to them my name Lord.",
         "kjv": "And I appeared unto Abraham, unto Isaac, and unto Jacob, by the name of God Almighty, but by my name JEHOVAH was I not known to them.",
-        "ron": "Şi M-am arătat lui Avraam, lui Isaac şi lui Iacov ca Dumnezeu Atotputernic, iar cu numele Meu de Domnul nu M-am făcut cunoscut lor."
+        "ron": "Şi M-am arătat lui Avraam, lui Isaac şi lui Iacov ca Dumnezeu Atotputernic, iar cu numele Meu de Domnul nu M-am făcut cunoscut lor.",
+        "grk": "Καὶ ὤφθην πρὸς Ἀβραὰμ καὶ Ἰσαὰκ καὶ Ἰακὼβ, Θεὸς ὢν αὐτῶν· καὶ τὸ ὄνομά μου Κύριος οὐκ ἐδήλωσα αὐτοῖς."
       }
     },
     {
@@ -262,7 +265,8 @@
       "translations": {
         "lxx": "And I established my covenant with them, to give them the land of the Chananites, the land wherein they sojourned, in which also they dwelt as strangers.",
         "kjv": "And I have also established my covenant with them, to give them the land of Canaan, the land of their pilgrimage, wherein they were strangers.",
-        "ron": "Mai mult: am făcut legământ cu ei, ca să le dau pământul Canaan, pământul pribegiei lor, în care rătăceau ei."
+        "ron": "Mai mult: am făcut legământ cu ei, ca să le dau pământul Canaan, pământul pribegiei lor, în care rătăceau ei.",
+        "grk": "Καὶ ἔστησα τὴν διαθήκην μου πρὸς αὐτοὺς, ὥστε δοῦναι αὐτοῖς τὴν γῆν τῶν Χαναναίων, τὴν γῆν ἣν παρῳκήκασιν, ἐν ᾗ καὶ παρῴκησαν ἐπʼ αὐτῆς."
       }
     },
     {
@@ -324,7 +328,8 @@
       "translations": {
         "lxx": "And I hearkened to the groaning of the children of Israel (the affliction with which the Egyptians enslave them) and I remembered the covenant with you.",
         "kjv": "And I have also heard the groaning of the children of Israel, whom the Egyptians keep in bondage; and I have remembered my covenant.",
-        "ron": "Şi, în sfârşit, am auzit suspinul fiilor lui Israel, pe care îi ţin Egiptenii în robie, şi Mi-am adus aminte de legământul Meu cu voi."
+        "ron": "Şi, în sfârşit, am auzit suspinul fiilor lui Israel, pe care îi ţin Egiptenii în robie, şi Mi-am adus aminte de legământul Meu cu voi.",
+        "grk": "Καὶ ἐγὼ εἰσήκουσα τὸν στεναγμὸν τῶν υἱῶν Ἰσραήλ, ὃν οἱ Αἰγύπτιοι καταδουλοῦνται αὐτούς, καὶ ἐμνήσθην τῆς διαθήκης ὑμῶν."
       }
     },
     {
@@ -421,7 +426,8 @@
       "translations": {
         "lxx": "Go, speak to the children of Israel, saying, I am the Lord; and I will lead you forth from the tyranny of the Egyptians, and I will deliver you from bondage, and I will ransom you with a high arm, and great judgment.",
         "kjv": "Wherefore say unto the children of Israel, I am the LORD, and I will bring you out from under the burdens of the Egyptians, and I will rid you out of their bondage, and I will redeem you with a stretched out arm, and with great judgments:",
-        "ron": "Mergi dar de vorbeşte fiilor lui Israel şi le spune: Eu sunt Domnul şi am să vă scot de la munca cea grea a Egiptenilor şi am să vă izbăvesc din robia lor; am să vă izbăvesc cu braţ înalt şi cu pedepse mari;"
+        "ron": "Mergi dar de vorbeşte fiilor lui Israel şi le spune: Eu sunt Domnul şi am să vă scot de la munca cea grea a Egiptenilor şi am să vă izbăvesc din robia lor; am să vă izbăvesc cu braţ înalt şi cu pedepse mari;",
+        "grk": "Βάδιζε, εἶπον τοῖς υἱοῖς Ἰσραὴλ, λέγων, ἐγὼ Κύριος· καὶ ἐξάξω ὑμᾶς ἀπὸ τῆς δυναστείας τῶν Αἰγυπτίων, καὶ ῥύσομαι ὑμᾶς ἐκ τῆς δουλείας, καὶ λυτρώσομαι ὑμᾶς ἐν βραχίονι ὑψηλῷ καὶ κρίσει μεγάλῃ·"
       }
     },
     {
@@ -513,7 +519,8 @@
       "translations": {
         "lxx": "And I will take you to me a people for myself, and will be your God; and ye shall know that I am the Lord your God, who brought you out from the tyranny of the Egyptians.",
         "kjv": "And I will take you to me for a people, and I will be to you a God: and ye shall know that I am the LORD your God, which bringeth you out from under the burdens of the Egyptians.",
-        "ron": "Am să vă primesc să-Mi fiţi popor, iar Eu să vă fiu Dumnezeu şi voi veţi cunoaşte că Eu sunt Domnul Dumnezeul vostru, Care v-a scos din pământul Egiptului şi de sub munca apăsătoare a Egiptenilor."
+        "ron": "Am să vă primesc să-Mi fiţi popor, iar Eu să vă fiu Dumnezeu şi voi veţi cunoaşte că Eu sunt Domnul Dumnezeul vostru, Care v-a scos din pământul Egiptului şi de sub munca apăsătoare a Egiptenilor.",
+        "grk": "Καὶ λὴψομαι ἐμαυτῷ ὑμᾶς λαὸν ἐμοὶ, καὶ ἔσομαι ὑμῶν Θεός· καὶ γνώσεσθε ὅτι ἐγὼ Κύριος ὁ Θεὸς ὑμῶν, ὁ ἐξαγαγὼν ὑμᾶς ἐκ τῆς καταδυναστείας τῶν Αἰγυπτίων."
       }
     },
     {
@@ -605,7 +612,8 @@
       "translations": {
         "lxx": "And I will bring you into the land concerning which I stretched out my hand to give it to Abraam and Isaac and Jacob, and I will give it you for an inheritance: I am the Lord.",
         "kjv": "And I will bring you in unto the land, concerning the which I did swear to give it to Abraham, to Isaac, and to Jacob; and I will give it you for an heritage: I am the LORD.",
-        "ron": "Apoi am să vă duc în pământul acela pentru care Mi-am ridicat mâna să-l dau lui Avraam, lui Isaac şi lui Iacov, şi pe care am să-l dau vouă în stăpânire, căci Eu sunt Domnul!\""
+        "ron": "Apoi am să vă duc în pământul acela pentru care Mi-am ridicat mâna să-l dau lui Avraam, lui Isaac şi lui Iacov, şi pe care am să-l dau vouă în stăpânire, căci Eu sunt Domnul!\"",
+        "grk": "Καὶ εἰσάξω ὑμᾶς εἰς τὴν γῆν, εἰς ἣν ἐξέτεινα τὴν χεῖρά μου, δοῦναι αὐτὴν τῷ Ἀβραὰμ, καὶ Ἰσαὰκ, καὶ Ἰακὼβ, καὶ δώσω ὑμῖν αὐτὴν ἐν κληρῷ· ἐγὼ Κύριος."
       }
     },
     {
@@ -672,7 +680,8 @@
       "translations": {
         "lxx": "And Moses spoke thus to the sons of Israel, and they hearkened not to Moses for faint-heartedness, and for their hard tasks.",
         "kjv": "And Moses spake so unto the children of Israel: but they hearkened not unto Moses for anguish of spirit, and for cruel bondage.",
-        "ron": "Şi a grăit Moise aşa fiilor lui Israel; dar ei n-au ascultat pe Moise din pricina deznădejdii şi a greutăţii muncilor lor."
+        "ron": "Şi a grăit Moise aşa fiilor lui Israel; dar ei n-au ascultat pe Moise din pricina deznădejdii şi a greutăţii muncilor lor.",
+        "grk": "Ἐλάλησε δὲ Μωυσῆς οὕτω τοῖς υἱοῖς Ἰσραήλ· καὶ οὐκ εἰσήκουσαν Μωυσῇ ἀπὸ τῆς ὀλιγοψυχίας, καὶ ἀπὸ τῶν ἔργων τῶν σκληρῶν."
       }
     },
     {
@@ -699,7 +708,8 @@
       "translations": {
         "lxx": "And the Lord spoke to Moses, saying,",
         "kjv": "And the LORD spake unto Moses, saying,",
-        "ron": "Şi iarăşi a grăit Domnul cu Moise şi i-a zis:"
+        "ron": "Şi iarăşi a grăit Domnul cu Moise şi i-a zis:",
+        "grk": "Εἶπε δὲ Κύριος πρὸς Μωυσῆν λέγων,"
       }
     },
     {
@@ -761,7 +771,8 @@
       "translations": {
         "lxx": "Go in, speak to Pharao king of Egypt, that he send forth the children of Israel out of his land.",
         "kjv": "Go in, speak unto Pharaoh king of Egypt, that he let the children of Israel go out of his land.",
-        "ron": "Intră şi spune lui Faraon, regele Egiptului, ca să lase pe fiii lui Israel să iasă din ţara lui!"
+        "ron": "Intră şi spune lui Faraon, regele Egiptului, ca să lase pe fiii lui Israel să iasă din ţara lui!",
+        "grk": "εἴσελθε, λάλησον Φαραῷ βασιλεῖ Αἰγύπτου, ἵνα ἐξαποστείλῃ τοὺς υἱοὺς Ἰσραὴλ ἐκ τῆς γῆς αὐτοῦ."
       }
     },
     {
@@ -843,7 +854,8 @@
       "translations": {
         "lxx": "And Moses spoke before the Lord, saying, Behold, the children of Israel hearkened not to me, and how shall Pharao hearken to me? and I am not eloquent.",
         "kjv": "And Moses spake before the LORD, saying, Behold, the children of Israel have not hearkened unto me; how then shall Pharaoh hear me, who am of uncircumcised lips?",
-        "ron": "Dar Moise a grăit înaintea Domnului şi a zis: \"Iată, fiii lui Israel nu mă ascultă. Cum, dar, mă va asculta Faraon? Şi apoi eu sunt şi gângav\"."
+        "ron": "Dar Moise a grăit înaintea Domnului şi a zis: \"Iată, fiii lui Israel nu mă ascultă. Cum, dar, mă va asculta Faraon? Şi apoi eu sunt şi gângav\".",
+        "grk": "Ἐλάλησε δὲ Μωυσῆς ἔναντι Κυρίου, λέγων, ἰδοὺ οἱ υἱοὶ Ἰσραὴλ οὐκ εἰσήκουσάν μου, καὶ πῶς εἰσακούσεταί μου Φαραώ; ἐγὼ δὲ ἄλογός εἰμι."
       }
     },
     {
@@ -925,7 +937,8 @@
       "translations": {
         "lxx": "And the Lord spoke to Moses and Aaron, and gave them a charge to Pharao king of Egypt, that he should send forth the children of Israel out of the land of Egypt.",
         "kjv": "And the LORD spake unto Moses and unto Aaron, and gave them a charge unto the children of Israel, and unto Pharaoh king of Egypt, to bring the children of Israel out of the land of Egypt.",
-        "ron": "Domnul însă a grăit lui Moise şi Aaron şi le-a poruncit să spună lui Faraon, regele Egiptului, să dea drumul fiilor lui Israel din ţara Egiptului."
+        "ron": "Domnul însă a grăit lui Moise şi Aaron şi le-a poruncit să spună lui Faraon, regele Egiptului, să dea drumul fiilor lui Israel din ţara Egiptului.",
+        "grk": "Εἶπε δὲ Κύριος πρὸς Μωυσῆν καὶ Ἀαρὼν, καὶ συνέταξεν αὐτοῖς πρὸς Φαραὼ βασιλέα Αἰγύπτου, ὥστε ἐξαποστεῖλαι τοὺς υἱοὺς Ἰσραὴλ ἐκ γῆς Αἰγύπτου."
       }
     },
     {
@@ -967,7 +980,8 @@
       "translations": {
         "lxx": "And these are the heads of the houses of their families: the sons of Ruben the first-born of Israel; Enoch and Phallus, Asron, and Charmi, this is the kindred of Ruben.",
         "kjv": "These be the heads of their fathers’ houses: The sons of Reuben the firstborn of Israel; Hanoch, and Pallu, Hezron, and Carmi: these be the families of Reuben.",
-        "ron": "Iată acum începătorii familiilor strămoşeşti: Fiii lui Ruben, întâi-născutul lui Israel: Enoh şi Falu, Heţron şi Carmi. Acestea sunt familiile lui Ruben."
+        "ron": "Iată acum începătorii familiilor strămoşeşti: Fiii lui Ruben, întâi-născutul lui Israel: Enoh şi Falu, Heţron şi Carmi. Acestea sunt familiile lui Ruben.",
+        "grk": "Καὶ οὗτοι ἀρχηγοὶ οἴκων πατριῶν αὐτῶν· υἱοὶ Ῥουβὴν, πρωτοτόκου Ἰσραήλ· Ἑνὼχ, καὶ Φαλλοὺς, Ἀσρὼν, καὶ Χαρμεί· αὕτη ἡ συγγένεια Ῥουβήν."
       }
     },
     {
@@ -1034,7 +1048,8 @@
       "translations": {
         "lxx": "And the sons of Symeon, Jemuel and Jamin, and Aod, and Jachin and Saar, and Saul the son of a Phœnician woman, these are the families of the sons of Symeon.",
         "kjv": "And the sons of Simeon; Jemuel, and Jamin, and Ohad, and Jachin, and Zohar, and Shaul the son of a Canaanitish woman: these are the families of Simeon.",
-        "ron": "Fiii lui Simeon: Iemuel şi Iamin, Ohad şi Iachin, Ţohar şi Saul, fiii canaaneencii. Acestea sunt familiile lui Simeon."
+        "ron": "Fiii lui Simeon: Iemuel şi Iamin, Ohad şi Iachin, Ţohar şi Saul, fiii canaaneencii. Acestea sunt familiile lui Simeon.",
+        "grk": "Καὶ υἱοὶ Συμεών· Ἰεμουὴλ, καὶ Ἰαμεὶμ, καὶ Ἀὼδ, καὶ Ἰαχεὶν, καὶ Σαὰρ, καὶ Σαοὺλ ὁ ἐκ τῆς Φοινίσσης· αὗται αἱ πατριαὶ τῶν υἱῶν Συμεών."
       }
     },
     {
@@ -1116,7 +1131,8 @@
       "translations": {
         "lxx": "And these are the names of the sons of Levi according to their kindreds, Gedson, Caath, and Merari; and the years of the life of Levi were a hundred and thirty-seven.",
         "kjv": "And these are the names of the sons of Levi according to their generations; Gershon, and Kohath, and Merari: and the years of the life of Levi were an hundred thirty and seven years.",
-        "ron": "Iar numele fiilor lui Levi, înşiraţi cum s-au născut, sunt acestea: Gherşon, Cahat şi Merari. Iar anii vieţii lui Levi au fost o sută treizeci şi şapte."
+        "ron": "Iar numele fiilor lui Levi, înşiraţi cum s-au născut, sunt acestea: Gherşon, Cahat şi Merari. Iar anii vieţii lui Levi au fost o sută treizeci şi şapte.",
+        "grk": "Καὶ ταῦτα τὰ ὀνόματα τῶν υἱῶν Λευὶ κατὰ συγγενείας αὐτῶν· Γεδσὼν, Καὰθ, καὶ Μεραρεί· καὶ τὰ ἔτη τῆς ζωῆς Λευὶ ἑκατὸν τριάκοντα ἑπτά."
       }
     },
     {
@@ -1188,7 +1204,8 @@
       "translations": {
         "lxx": "And these are the sons of Gedson, Lobeni and Semei, the houses of their family. And the sons of Caath,",
         "kjv": "The sons of Gershon; Libni, and Shimi, according to their families.",
-        "ron": "Fiii lui Gherşon: Libni şi Şimei, cu familiile lor."
+        "ron": "Fiii lui Gherşon: Libni şi Şimei, cu familiile lor.",
+        "grk": "Καὶ οὗτοι υἱοὶ Γεδσών· Λοβενεὶ, καὶ Σεμεεί· οἶκοι πατριᾶς αὐτῶν."
       }
     },
     {
@@ -1240,7 +1257,8 @@
       "translations": {
         "lxx": "Ambram and Issaar, Chebron, and Oziel; and the years of the life of Caath were a hundred and thirty-three years.",
         "kjv": "And the sons of Kohath; Amram, and Izhar, and Hebron, and Uzziel: and the years of the life of Kohath were an hundred thirty and three years.",
-        "ron": "Fiii lui Cahat: Amram, Iţhar, Hebron şi Uziel. Iar anii vieţii lui Cahat au fost o sută treizeci şi trei de ani."
+        "ron": "Fiii lui Cahat: Amram, Iţhar, Hebron şi Uziel. Iar anii vieţii lui Cahat au fost o sută treizeci şi trei de ani.",
+        "grk": "Καὶ υἱοὶ Καάθ· Ἀμβρὰμ, καὶ Ἰσσαάρ, Χεβρὼν, καὶ Ὀζειήλ· καὶ τὰ ἔτη τῆς ζωῆς Καὰθ ἑκατὸν τριάκοντα τρία ἔτη."
       }
     },
     {
@@ -1302,7 +1320,8 @@
       "translations": {
         "lxx": "And the sons of Merari, Moöli, and Omusi, these are the houses of the families of Levi, according to their kindreds.",
         "kjv": "And the sons of Merari; Mahali and Mushi: these are the families of Levi according to their generations.",
-        "ron": "Fiii lui Merari: Mahli şi Muşi. Acesta este neamul lui Levi, după familiile lui."
+        "ron": "Fiii lui Merari: Mahli şi Muşi. Acesta este neamul lui Levi, după familiile lui.",
+        "grk": "Καὶ υἱοὶ Μεραρεί· Μοολεὶ, καὶ Ὀμουσεί. οὗτοι οἱ οἶκοι πατριῶν Λευὶ κατὰ συγγενείας αὐτῶν."
       }
     },
     {
@@ -1359,7 +1378,8 @@
       "translations": {
         "lxx": "And Ambram took to wife Jochabed the daughter of his father's brother, and she bore to him both Aaron and Moses, and Mariam their sister: and the years of the life of Ambram were a hundred and thirty-two years.",
         "kjv": "And Amram took him Jochebed his father’s sister to wife; and she bare him Aaron and Moses: and the years of the life of Amram were an hundred and thirty and seven years.",
-        "ron": "Amram însă a luat de femeie pe Iochebed, fata unchiului său, şi aceasta i-a născut pe Aaron şi pe Moise, precum şi pe Mariam, sora lor. Iar anii vieţii lui Amram au fost o sută treizeci şi şapte de ani."
+        "ron": "Amram însă a luat de femeie pe Iochebed, fata unchiului său, şi aceasta i-a născut pe Aaron şi pe Moise, precum şi pe Mariam, sora lor. Iar anii vieţii lui Amram au fost o sută treizeci şi şapte de ani.",
+        "grk": "Καὶ ἔλαβεν Ἀμβρὰν τὴν Ἰωχαβὲδ, θυγατέρα τοῦ ἀδελφοῦ τοῦ πατρὸς αὐτοῦ, ἑαυτῷ εἰς γυναῖκα· καὶ ἐγέννησεν αὐτῷ τόν τε Ἀαρὼν καὶ τὸν Μωυσῆν, καὶ Μαριὰμ τὴν ἀδελφὴν αὐτῶν· τὰ δὲ ἔτη τῆς ζωῆς Ἀμβρὰμ, ἑκατὸν τριάκοντα δύο ἔτη."
       }
     },
     {
@@ -1461,7 +1481,8 @@
       "translations": {
         "lxx": "And the sons of Issaar, Core, and Naphec, and Zechri.",
         "kjv": "And the sons of Izhar; Korah, and Nepheg, and Zichri.",
-        "ron": "Fiii lui Iţhar: Core, Nefeg şi Zicri."
+        "ron": "Fiii lui Iţhar: Core, Nefeg şi Zicri.",
+        "grk": "Καὶ υἱοὶ Ἰσσαάρ· Κορὲ, καὶ Ναφὲκ, καὶ Ζεχρεί."
       }
     },
     {
@@ -1498,7 +1519,8 @@
       "translations": {
         "lxx": "And the sons of Oziel, Misael, and Elisaphan, and Segri.",
         "kjv": "And the sons of Uzziel; Mishael, and Elzaphan, and Zithri.",
-        "ron": "Fiii lui Uziel: Misael, Elţafan şi Sitri."
+        "ron": "Fiii lui Uziel: Misael, Elţafan şi Sitri.",
+        "grk": "Καὶ υἱοὶ Ὀζειήλ· Μισαὴλ, καὶ Ἐλισαφὰν, καὶ Σεγρεί."
       }
     },
     {
@@ -1535,7 +1557,8 @@
       "translations": {
         "lxx": "And Aaron took to himself to wife Elisabeth daughter of Aminadab sister of Naasson, and she bore to him both Nadab and Abiud, and Eleazar and Ithamar.",
         "kjv": "And Aaron took him Elisheba, daughter of Amminadab, sister of Naashon, to wife; and she bare him Nadab, and Abihu, Eleazar, and Ithamar.",
-        "ron": "Iar Aaron şi-a luat de soţie pe Elisaveta, fata lui Aminadab şi sora lui Naason; aceasta i-a născut pe Nadab şi pe Abiud, pe Eleazar şi pe Itamar."
+        "ron": "Iar Aaron şi-a luat de soţie pe Elisaveta, fata lui Aminadab şi sora lui Naason; aceasta i-a născut pe Nadab şi pe Abiud, pe Eleazar şi pe Itamar.",
+        "grk": "Ἔλαβε δὲ Ἀαρὼν τὴν Ἐλισαβὲθ θυγατέρα Ἀμιναδὰβ, ἀδελφὴν Ναασσὼν, αὐτῷ γυναῖκα· καὶ ἔτεκεν αὐτῷ τόν τε Ναδὰβ, καὶ Ἀβιοὺδ, καὶ τὸν Ἐλεάζαρ, καὶ Ἰθάμαρ."
       }
     },
     {
@@ -1622,7 +1645,8 @@
       "translations": {
         "lxx": "And the sons of Core, Asir, and Elkana, and Abiasar, these are the generations of Core.",
         "kjv": "And the sons of Korah; Assir, and Elkanah, and Abiasaph: these are the families of the Korhites.",
-        "ron": "Fiii lui Core: Asir, Elcana şi Abiasaf. Acestea sunt familiile lui Core."
+        "ron": "Fiii lui Core: Asir, Elcana şi Abiasaf. Acestea sunt familiile lui Core.",
+        "grk": "Υἱοὶ δὲ Κορέ· Ἀσεὶρ, καὶ Ἑλκανὰ, καὶ Ἀβιασάρ· αὗται αἱ γενέσεις Κορέ."
       }
     },
     {
@@ -1674,7 +1698,8 @@
       "translations": {
         "lxx": "And Eleazar the son of Aaron took to himself for a wife one of the daughters of Phutiel, and she bore to him Phinees. These are the heads of the family of the Levites, according to their generations.",
         "kjv": "And Eleazar Aaron’s son took him one of the daughters of Putiel to wife; and she bare him Phinehas: these are the heads of the fathers of the Levites according to their families.",
-        "ron": "Eleazar, fiul lui Aaron, şi-a luat de femeie pe una din fiicele lui Putiel şi aceasta i-a născut pe Finees. Aceştia sunt începătorii familiilor strămoşeşti ale leviţilor."
+        "ron": "Eleazar, fiul lui Aaron, şi-a luat de femeie pe una din fiicele lui Putiel şi aceasta i-a născut pe Finees. Aceştia sunt începătorii familiilor strămoşeşti ale leviţilor.",
+        "grk": "Καὶ Ἐλεάζαρ ὁ τοῦ Ἀαρὼν ἔλαβε τῶν θυγατέρων Φουτιὴλ αὐτῷ γυναῖκα· καὶ ἔτεκεν αὐτῷ τὸν Φινεές· αὗται αἱ ἀρχαὶ πατριᾶς Λευιτῶν, κατὰ γενέσεις αὐτῶν."
       }
     },
     {
@@ -1756,7 +1781,8 @@
       "translations": {
         "lxx": "This is Aaron and Moses, whom God told to bring out the children of Israel out of the land of Egypt with their forces.",
         "kjv": "These are that Aaron and Moses, to whom the LORD said, Bring out the children of Israel from the land of Egypt according to their armies.",
-        "ron": "Acesta este acel Aaron şi acel Moise, cărora Dumnezeu le-a zis: \"Scoateţi pe fiii lui Israel din pământul Egiptului cu oştirea lor!\""
+        "ron": "Acesta este acel Aaron şi acel Moise, cărora Dumnezeu le-a zis: \"Scoateţi pe fiii lui Israel din pământul Egiptului cu oştirea lor!\"",
+        "grk": "Οὗτος Ἀαρὼν καὶ Μωυσῆς, οἷς εἶπεν αὐτοῖς ὁ Θεὸς ἐξαγαγεῖν τοὺς υἱοὺς Ἰσραὴλ ἐκ γῆς Αἰγύπτου σὺν δυνάμει αὐτῶν."
       }
     },
     {
@@ -1838,7 +1864,8 @@
       "translations": {
         "lxx": "These are they that spoke with Pharao king of Egypt, and Aaron himself and Moses brought out the children of Israel from the land of Egypt,",
         "kjv": "These are they which spake to Pharaoh king of Egypt, to bring out the children of Israel from Egypt: these are that Moses and Aaron.",
-        "ron": "Şi aceştia au spus lui Faraon, regele Egiptului, să dea drumul fiilor lui Israel din pământul Egiptului. Acesta este acel Aaron şi acesta este acel Moise"
+        "ron": "Şi aceştia au spus lui Faraon, regele Egiptului, să dea drumul fiilor lui Israel din pământul Egiptului. Acesta este acel Aaron şi acesta este acel Moise",
+        "grk": "Οὗτοί εἰσιν οἱ διαλεγόμενοι πρὸς Φαραὼ βασιλέα Αἰγύπτου· καὶ ἐξήγαγον τοὺς υἱοὺς Ἰσραὴλ ἐκ γῆς Αἰγύπτου αὐτὸς Ἀαρὼν καὶ Μωυσὴς,"
       }
     },
     {
@@ -1930,7 +1957,8 @@
       "translations": {
         "lxx": "in the day in which the Lord spoke to Moses in the land of Egypt;",
         "kjv": "And it came to pass on the day when the LORD spake unto Moses in the land of Egypt,",
-        "ron": "Din timpul când a grăit Domnul cu Moise în ţara Egiptului"
+        "ron": "Din timpul când a grăit Domnul cu Moise în ţara Egiptului",
+        "grk": "ᾗ ἡμέρᾳ ἐλάλησε Κύριος Μωυσῇ ἐν γῇ Αἰγύπτῳ."
       }
     },
     {
@@ -2042,7 +2070,8 @@
       "translations": {
         "lxx": "then the Lord spoke to Moses, saying, I am the Lord: speak to Pharao king of Egypt whatsoever I say to thee.",
         "kjv": "That the LORD spake unto Moses, saying, I am the LORD: speak thou unto Pharaoh king of Egypt all that I say unto thee.",
-        "ron": "Şi i-a zis lui: \"Eu sunt Domnul!\" Spune lui Faraon, regele Egiptului, câte-ii vorbesc Eu"
+        "ron": "Şi i-a zis lui: \"Eu sunt Domnul!\" Spune lui Faraon, regele Egiptului, câte-ii vorbesc Eu",
+        "grk": "Καὶ ἐλάλησε Κύριος πρὸς Μωυσῆν, λέγων, ἐγὼ Κύριος· λάλησον πρὸς Φαραὼ βασιλέα Αἰγύπτου ὅσα ἐγὼ λέγω πρὸς σέ."
       }
     },
     {
@@ -2099,7 +2128,8 @@
       "translations": {
         "lxx": "And Moses said before the Lord, Behold, I am not able in speech, and how shall Pharao hearken to me?",
         "kjv": "And Moses said before the LORD, Behold, I am of uncircumcised lips, and how shall Pharaoh hearken unto me?",
-        "ron": "Iar Moise a răspuns Domnului: \"Iată eu sunt greoi la vorbă. Cum dar mă va asculta Faraon?\""
+        "ron": "Iar Moise a răspuns Domnului: \"Iată eu sunt greoi la vorbă. Cum dar mă va asculta Faraon?\"",
+        "grk": "Καὶ εἶπε Μωυσῆς ἐναντίον Κυρίου, ἰδοὺ ἐγὼ ἰσχνόφωνός εἰμι, καὶ πῶς εἰσακούσεταί μου Φαραώ,"
       }
     }
   ],

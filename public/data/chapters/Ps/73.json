@@ -8,7 +8,8 @@
       "translation": "A Psalm of instruction for Asaph. Wherefore hast thou rejected us, O God, for ever? wherefore is thy wrath kindled against the sheep of thy pasture?",
       "words": [],
       "translations": {
-        "ron": "Pentru ce m-ai lepădat, Dumnezeule, până în sfârşit? Aprinsu-s-a inima Ta peste oile păşunii Tale."
+        "ron": "Pentru ce m-ai lepădat, Dumnezeule, până în sfârşit? Aprinsu-s-a inima Ta peste oile păşunii Tale.",
+        "grk": "Συνέσεως τῷ Ἀσάφ. Ἱνατί ἀπόσω ὁ Θεὸς εἰς τέλος; ὠργίσθη ὁ θυμός σου ἐπὶ πρόβατα νομῆς σου;"
       }
     },
     {
@@ -17,7 +18,8 @@
       "translation": "Remember thy congregation which thou hast purchased from the beginning; thou didst ransom the rod of thine inheritance; this mount Sion wherein thou hast dwelt.",
       "words": [],
       "translations": {
-        "ron": "Adu-ţi aminte de poporul Tău, pe care l-ai câştigat de la început."
+        "ron": "Adu-ţi aminte de poporul Tău, pe care l-ai câştigat de la început.",
+        "grk": "Μνήσθητι τῆς συναγωγῆς σου ἧς ἐκτήσω ἀπʼ ἀρχῆς· ἐλυτρώσω ῥάβδον κληρονομίας σου· ὄρος Σιὼν τοῦτο ὃ κατεσκήνωσας ἐν αὐτῷ."
       }
     },
     {
@@ -26,7 +28,8 @@
       "translation": "Lift up thine hands against their pride continually; because of all that the enemy has done wickedly in thy holy places.",
       "words": [],
       "translations": {
-        "ron": "Izbăvit-ai toiagul moştenirii Tale, muntele Sionului, acesta în care ai locuit."
+        "ron": "Izbăvit-ai toiagul moştenirii Tale, muntele Sionului, acesta în care ai locuit.",
+        "grk": "Ἔπαρον τὰς χεῖράς σου ἐπὶ τὰς ὑπερηφανίας αὐτῶν εἰς τέλος· ὅσα ἐπονηρεύσατο ὁ ἐχθρὸς ἐν τοῖς ἁγίοις σου."
       }
     },
     {
@@ -35,7 +38,8 @@
       "translation": "And they that hate thee have boasted in the midst of thy feast; they have set up their standards for signs,",
       "words": [],
       "translations": {
-        "ron": "Ridică mâinile Tale împotriva mândriilor lor, până la sfârşit, că rău a făcut vrăjmaşul în locul cel sfânt al Tău."
+        "ron": "Ridică mâinile Tale împotriva mândriilor lor, până la sfârşit, că rău a făcut vrăjmaşul în locul cel sfânt al Tău.",
+        "grk": "Καὶ ἐνεκαυχήσαντο οἱ μισοῦντές σε ἐν μέσῳ τῆς ἑορτῆς σου·"
       }
     },
     {
@@ -44,7 +48,8 @@
       "translation": "ignorantly as it were in the entrance above;",
       "words": [],
       "translations": {
-        "ron": "Şi s-au fălit cei ce Te urăsc pe Tine în mijlocul locului de prăznuire al Tău, pus-au semnele lor drept semne;"
+        "ron": "Şi s-au fălit cei ce Te urăsc pe Tine în mijlocul locului de prăznuire al Tău, pus-au semnele lor drept semne;",
+        "grk": "ἔθεντο τὰ σημεῖα αὐτῶν σημεῖα, καὶ οὐκ ἔγνωσαν, ὡς εἰς τὴν εἴσοδον ὑπεράνω· ὡς ἐν δρυμῷ ξύλων ἀξίναις ἐξέκοψαν"
       }
     },
     {
@@ -53,7 +58,8 @@
       "translation": "they cut down its doors at once with axes as in a wood of trees; they have broken it down with hatchet and stone cutter.",
       "words": [],
       "translations": {
-        "ron": "Sfărâmat-au intrarea cea de deasupra."
+        "ron": "Sfărâmat-au intrarea cea de deasupra.",
+        "grk": "τὰς θύρας αὐτῆς ἐπιτοαυτὸ, ἐν πελέκει καὶ λαξευτηρίῳ κατέῤῥαξαν αὐτήν."
       }
     },
     {
@@ -62,7 +68,8 @@
       "translation": "They have burnt thy sanctuary with fire to the ground; they have profaned the habitation of thy name.",
       "words": [],
       "translations": {
-        "ron": "Ca în codru cu topoarele au tăiat uşile locaşului Tău, cu topoare şi ciocane l-au sfărâmat."
+        "ron": "Ca în codru cu topoarele au tăiat uşile locaşului Tău, cu topoare şi ciocane l-au sfărâmat.",
+        "grk": "Ἐνεπύρισαν ἐν πυρὶ τὸ ἁγιαστήριόν σου εἰς τὴν γῆν, ἐβεβήλωσαν τὸ σκήνωμα τοῦ ὀνόματός σου."
       }
     },
     {
@@ -71,7 +78,8 @@
       "translation": "They have said in their heart, even all their kindred together, Come, let us abolish the feasts of the Lord from the earth.",
       "words": [],
       "translations": {
-        "ron": "Ars-au cu foc locaşul cel sfânt al Tău, până la pământ; spurcat-au locul numelui Tău."
+        "ron": "Ars-au cu foc locaşul cel sfânt al Tău, până la pământ; spurcat-au locul numelui Tău.",
+        "grk": "Εἶπαν ἐν τῇ καρδίᾳ αὐτῶν, ἡ συγγένεια αὐτῶν ἐπιτοαυτὸ, δεῦτε, καταπαύσωμεν τὰς ἑορτὰς Κυρίου ἀπὸ τῆς γῆς."
       }
     },
     {
@@ -80,7 +88,8 @@
       "translation": "We have not seen our signs; there is no longer a prophet; and God will not know us any more.",
       "words": [],
       "translations": {
-        "ron": "Zis-au în inima lor împreună cu neamul lor: \"Veniţi să ardem toate locurile de prăznuire ale lui Dumnezeu de pe pământ\"."
+        "ron": "Zis-au în inima lor împreună cu neamul lor: \"Veniţi să ardem toate locurile de prăznuire ale lui Dumnezeu de pe pământ\".",
+        "grk": "Τὰ σημεῖα ἡμῶν οὐκ εἴδομεν, οὐκ ἔστιν ἔτι προφήτης, καὶ ἡμᾶς οὐ γνώσεται ἔτι."
       }
     },
     {
@@ -89,7 +98,8 @@
       "translation": "How long, O God, shall the enemy reproach? shall the enemy provoke thy name for ever?",
       "words": [],
       "translations": {
-        "ron": "Semnele noastre nu le-am văzut; nu mai este profet şi pe noi nu ne va mai cunoaşte."
+        "ron": "Semnele noastre nu le-am văzut; nu mai este profet şi pe noi nu ne va mai cunoaşte.",
+        "grk": "Ἕως πότε ὁ Θεὸς, ὀνειδιεῖ ὁ ἐχθρὸς, παροξυνεῖ ὁ ὑπεναντίος τὸ ὄνομά σου εἰς τέλος;"
       }
     },
     {
@@ -98,7 +108,8 @@
       "translation": "Wherefore turnest thou away thine hand, and thy right hand from the midst of thy bosom for ever?",
       "words": [],
       "translations": {
-        "ron": "Până când, Dumnezeule, Te va ocărî vrăjmaşul, până când va huli potrivnicul numele Tău, până în sfârşit?"
+        "ron": "Până când, Dumnezeule, Te va ocărî vrăjmaşul, până când va huli potrivnicul numele Tău, până în sfârşit?",
+        "grk": "Ἱνατί ἀποστρέφεις τὴν χεῖρά σου, καὶ τὴν δεξιάν σου ἐκ μέσου τοῦ κόλπου σου εἰς τέλος;"
       }
     },
     {
@@ -107,7 +118,8 @@
       "translation": "But God is our King of old; he has wrought salvation in the midst of the earth.",
       "words": [],
       "translations": {
-        "ron": "Pentru ce întorci mâna Ta şi dreapta Ta din sânul Tău, până în sfârşit?"
+        "ron": "Pentru ce întorci mâna Ta şi dreapta Ta din sânul Tău, până în sfârşit?",
+        "grk": "Ὁ δὲ Θεὸς βασιλεὺς ἡμῶν πρὸ αἰῶνος, εἰργάσατο σωτηρίαν ἐν μέσῳ τῆς γῆς."
       }
     },
     {
@@ -116,7 +128,8 @@
       "translation": "Thou didst establish the sea, in thy might, thou didst break to pieces the heads of the dragons in the water.",
       "words": [],
       "translations": {
-        "ron": "Dar Dumnezeu, Împăratul nostru înainte de veac, a făcut mântuire în mijlocul pământului."
+        "ron": "Dar Dumnezeu, Împăratul nostru înainte de veac, a făcut mântuire în mijlocul pământului.",
+        "grk": "Σὺ ἐκραταίωσας ἐν τῇ δυνάμει σου τὴν θάλασσαν, σὺ συνέτριψας τὰς κεφαλὰς τῶν δρακόντων ἐπὶ τοῦ ὕδατος. Σὺ συνέτριψας τὰς κεφαλὰς τοῦ δράκοντος,"
       }
     },
     {
@@ -125,7 +138,8 @@
       "translation": "Thou didst break to pieces the heads of the dragon; thou didst give him for meat to the Ethiopian nations.",
       "words": [],
       "translations": {
-        "ron": "Tu ai despărţit, cu puterea Ta, marea; Tu ai zdrobit capetele balaurilor din apă;"
+        "ron": "Tu ai despărţit, cu puterea Ta, marea; Tu ai zdrobit capetele balaurilor din apă;",
+        "grk": "ἔδωκας αὐτὸν βρῶμα λαοῖς τοῖς Αἰθίοψι."
       }
     },
     {
@@ -134,7 +148,8 @@
       "translation": "Thou didst cleave fountains and torrents; thou driedst up mighty rivers.",
       "words": [],
       "translations": {
-        "ron": "Tu ai sfărâmat capul balaurului; datu-l-ai pe el mâncare popoarelor pustiului."
+        "ron": "Tu ai sfărâmat capul balaurului; datu-l-ai pe el mâncare popoarelor pustiului.",
+        "grk": "Σὺ διέῤῥηξας πηγὰς καὶ χειμάῤῥους, σὺ ἐξήρανας ποταμοὺς ἠθάμ."
       }
     },
     {
@@ -143,7 +158,8 @@
       "translation": "The day is thine, and the night is thine; thou hast prepared the sun and the moon.",
       "words": [],
       "translations": {
-        "ron": "Tu ai deschis izvoare şi pâraie; Tu ai secat râurile Itanului."
+        "ron": "Tu ai deschis izvoare şi pâraie; Tu ai secat râurile Itanului.",
+        "grk": "Σή ἐστιν ἡ ἡμέρα, καὶ σή ἐστιν ἡ νὺξ, σὺ κατηρτίσω ἥλιον καὶ σελήνην."
       }
     },
     {
@@ -152,7 +168,8 @@
       "translation": "Thou hast made all the borders of the earth; thou hast made summer and spring.",
       "words": [],
       "translations": {
-        "ron": "A Ta este ziua şi a Ta este noaptea. Tu ai întocmit lumina şi soarele."
+        "ron": "A Ta este ziua şi a Ta este noaptea. Tu ai întocmit lumina şi soarele.",
+        "grk": "Σὺ ἐποίησας πάντα τὰ ὅρια τῆς γῆς, θέρος καὶ ἔαρ σὺ ἐποίησας."
       }
     },
     {
@@ -161,7 +178,8 @@
       "translation": "Remember this thy creation: an enemy has reproached the Lord, and a foolish people has provoked thy name.",
       "words": [],
       "translations": {
-        "ron": "Tu ai făcut toate marginile pământului; vara şi primăvara Tu le-ai zidit."
+        "ron": "Tu ai făcut toate marginile pământului; vara şi primăvara Tu le-ai zidit.",
+        "grk": "Μνήσθητι ταύτης τῆς κτίσεώς σου· ἐχθρὸς ὠνείδισε τὸν Κύριον, καὶ λαὸς ἄφρων παρώξυνε τὸ ὄνομά σου."
       }
     },
     {
@@ -170,7 +188,8 @@
       "translation": "Deliver not to the wild beasts a soul that gives praise to thee: forget not for ever the souls of thy poor.",
       "words": [],
       "translations": {
-        "ron": "Adu-Ţi aminte de aceasta: Vrăjmaşul a ocărât pe Domnul şi poporul cel fără de minte a hulit numele Tău."
+        "ron": "Adu-Ţi aminte de aceasta: Vrăjmaşul a ocărât pe Domnul şi poporul cel fără de minte a hulit numele Tău.",
+        "grk": "Μὴ παραδῷς τοῖς θηρίοις ψυχὴν ἐξομολογουμένην σοι, τῶν ψυχῶν τῶν πενήτων σου μὴ ἐπιλάθῃ εἰς τέλος."
       }
     },
     {
@@ -179,7 +198,8 @@
       "translation": "Look upon thy covenant: for the dark places of the earth are filled with the habitations of iniquity.",
       "words": [],
       "translations": {
-        "ron": "Să nu dai fiarelor sufletul ce Te laudă pe Tine; sufletele săracilor Tăi să nu le uiţi până în sfârşit."
+        "ron": "Să nu dai fiarelor sufletul ce Te laudă pe Tine; sufletele săracilor Tăi să nu le uiţi până în sfârşit.",
+        "grk": "Ἐπίβλεψον εἰς τὴν διαθήκην σου, ὅτι ἐπληρωθήσαν οἱ ἐσκοτωμένοι τῆς γῆς οἴκων ἀνομιῶν."
       }
     },
     {
@@ -188,7 +208,8 @@
       "translation": "Let not the afflicted and shamed one be rejected: the poor and needy shall praise thy name.",
       "words": [],
       "translations": {
-        "ron": "Caută spre legământul Tău, că s-au umplut ascunzişurile pământului de locuinţele fărădelegilor."
+        "ron": "Caută spre legământul Tău, că s-au umplut ascunzişurile pământului de locuinţele fărădelegilor.",
+        "grk": "Μὴ ἀποστραφήτω τεταπεινωμένος καὶ κατῃσχυμμένος, πτωχὸς καὶ πένης αἰνέσουσι τὸ ὄνομά σου."
       }
     },
     {
@@ -197,7 +218,8 @@
       "translation": "Arise, O God, plead thy cause: remember thy reproaches that come from the foolish one all the day.",
       "words": [],
       "translations": {
-        "ron": "Să nu se întoarcă ruşinat cel umilit; săracul şi sărmanul şă laude numele Tău."
+        "ron": "Să nu se întoarcă ruşinat cel umilit; săracul şi sărmanul şă laude numele Tău.",
+        "grk": "Ἀνάστα ὁ Θεὸς, δίκασον τὴν δίκην σου, μνήσθητι τῶν ὀνειδισμῶν σου τῶν ὑπὸ ἄφρονος ὅλην τὴν ἡμέραν."
       }
     },
     {
@@ -206,7 +228,8 @@
       "translation": "Forget not the voice of thy suppliants: let the pride of them that hate thee continually ascend before thee.",
       "words": [],
       "translations": {
-        "ron": "Scoală-Te, Dumnezeule, apără pricina Ta; adu-Ţi aminte de ocara de fiecare zi, cu care Te necinsteşte cel fără de minte."
+        "ron": "Scoală-Te, Dumnezeule, apără pricina Ta; adu-Ţi aminte de ocara de fiecare zi, cu care Te necinsteşte cel fără de minte.",
+        "grk": "Μὴ ἐπιλάθῃ τῆς φωνῆς τῶν ἱκετῶν σου, ἡ ὑπερηφανία τῶν μισούντων σε ἀναβαίη διαπαντὸς πρὸς σέ."
       }
     }
   ]

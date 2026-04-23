@@ -51,7 +51,8 @@
       "translations": {
         "lxx": "But call, if any one will hearken to thee, or if thou shalt see any of the holy angels.",
         "kjv": "Call now, if there be any that will answer thee; and to which of the saints wilt thou turn?",
-        "ron": "Strigă acum, dacă o fi cineva care să-ţi răspundă. Către care din sfinţii îngeri te vei îndrepta?"
+        "ron": "Strigă acum, dacă o fi cineva care să-ţi răspundă. Către care din sfinţii îngeri te vei îndrepta?",
+        "grk": "Ἐπικαλέσαι δὲ εἴ τις σοι ὑπακούσεται, ἢ εἴ τινα ἀγγέλων ἁγίων ὄψῃ·"
       }
     },
     {
@@ -98,7 +99,8 @@
       "translations": {
         "lxx": "For wrath destroys the foolish one, and envy slays him that has gone astray.",
         "kjv": "For wrath killeth the foolish man, and envy slayeth the silly one.",
-        "ron": "Mânia ucide pe cel fără de minte, iar aprinderea omoară pe cel rătăcit."
+        "ron": "Mânia ucide pe cel fără de minte, iar aprinderea omoară pe cel rătăcit.",
+        "grk": "Καὶ γὰρ ἄφρονα ἀναιρεῖ ὀργὴ, πεπλανημένον δὲ θανατοῖ ζῆλος."
       }
     },
     {
@@ -160,7 +162,8 @@
       "translations": {
         "lxx": "And I have seen foolish ones taking root: but suddenly their habitation was devoured.",
         "kjv": "I have seen the foolish taking root: but suddenly I cursed his habitation.",
-        "ron": "Am văzut pe nebun prinzând rădăcină şi pe loc am blestemat sălaşul lui:"
+        "ron": "Am văzut pe nebun prinzând rădăcină şi pe loc am blestemat sălaşul lui:",
+        "grk": "Ἐγὼ δὲ ἑώρακα ἄφρονας ῥίζαν βάλλοντας, ἀλλʼ εὐθέως ἐβρώθη αὐτῶν ἡ δίαιτα."
       }
     },
     {
@@ -207,7 +210,8 @@
       "translations": {
         "lxx": "Let their children be far from safety, and let them be crushed at the doors of vile men, and let there be no deliverer.",
         "kjv": "His children are far from safety, and they are crushed in the gate, neither is there any to deliver them.",
-        "ron": "Să se depărteze copiii lui de orice izbăvire şi să fie călcaţi în picioare la poartă şi nimeni să nu le vină într-ajutor."
+        "ron": "Să se depărteze copiii lui de orice izbăvire şi să fie călcaţi în picioare la poartă şi nimeni să nu le vină într-ajutor.",
+        "grk": "Πόῤῥω γένοιντο οἱ υἱοὶ αὐτῶν ἀπὸ σωτηρίας, κολαβρισθείησαν δὲ ἐπὶ θύραις ἡσσόνων, καὶ οὐκ ἔσται ὁ ἐξαιρούμενος."
       }
     },
     {
@@ -264,7 +268,8 @@
       "translations": {
         "lxx": "For what they have collected, the just shall eat; but they shall not be delivered out of calamities: let their strength be utterly exhausted.",
         "kjv": "Whose harvest the hungry eateth up, and taketh it even out of the thorns, and the robber swalloweth up their substance.",
-        "ron": "Secerişul lui să-l mănânce flămânzii şi să-l ducă cu ei în ascunzişuri şi toată averea lui s-o soarbă însetaţii!"
+        "ron": "Secerişul lui să-l mănânce flămânzii şi să-l ducă cu ei în ascunzişuri şi toată averea lui s-o soarbă însetaţii!",
+        "grk": "Ἃ γὰρ ἐκεῖνοι συνήγαγον, δίκαιοι ἔδονται, αὐτοὶ δὲ ἐκ κακῶν οὐκ ἐξαίρετοι ἔσονται· ἐκσιφωνισθείη αὐτῶν ἡ ἰσχύς."
       }
     },
     {
@@ -326,7 +331,8 @@
       "translations": {
         "lxx": "For labour cannot by any means come out of the earth, nor shall trouble spring out of the mountains:",
         "kjv": "Although affliction cometh not forth of the dust, neither doth trouble spring out of the ground;",
-        "ron": "Pentru că nelegiuirea nu iese din pământ şi necazul nu răsare din pulbere,"
+        "ron": "Pentru că nelegiuirea nu iese din pământ şi necazul nu răsare din pulbere,",
+        "grk": "Οὐ γὰρ μὴ ἐξέλθῃ ἐκ τῆς γῆς κόπος, οὐδὲ ἐξ ὀρέων ἀναβλαστήσει πόνος."
       }
     },
     {
@@ -373,7 +379,8 @@
       "translations": {
         "lxx": "yet man is born to labour, and even so the vulture's young seek the high places.",
         "kjv": "Yet man is born unto trouble, as the sparks fly upward.",
-        "ron": "Ci omul îşi naşte singur suferinţa, precum vulturii se ridică în aer, prin puterile lor;"
+        "ron": "Ci omul îşi naşte singur suferinţa, precum vulturii se ridică în aer, prin puterile lor;",
+        "grk": "Ἀλλὰ ἄνθρωπος γεννᾶται κόπῳ, νεοσσοὶ δὲ γυπὸς τὰ ὑψηλὰ πέτονται."
       }
     },
     {
@@ -455,7 +462,8 @@
       "translations": {
         "lxx": "Nevertheless I will beseech the Lord, and will call upon the Lord, the sovereign of all;",
         "kjv": "I would seek unto God, and unto God would I commit my cause:",
-        "ron": "Dar eu alerg la Dumnezeu şi Lui Îi arăt necazul meu."
+        "ron": "Dar eu alerg la Dumnezeu şi Lui Îi arăt necazul meu.",
+        "grk": "Οὐ μὴν δὲ ἀλλὰ ἐγὼ δεηθήσομαι Κυρίου, Κύριον δὲ τὸν πάντων δεσπότην ἐπικαλέσομαι,"
       }
     },
     {
@@ -487,7 +495,8 @@
       "translations": {
         "lxx": "who does great things and untraceable, glorious things also, and marvellous, of which there is no number:",
         "kjv": "Which doeth great things and unsearchable; marvellous things without number:",
-        "ron": "El face lucruri mari şi nepătrunse, lucruri minunate şi fără număr."
+        "ron": "El face lucruri mari şi nepătrunse, lucruri minunate şi fără număr.",
+        "grk": "τὸν ποιοῦντα μεγάλα καὶ ἀνεξιχνίαστα, ἔνδοξά τε καὶ ἐξαίσια, ὧν οὐκ ἔστιν ἀριθμὸς,"
       }
     },
     {
@@ -539,7 +548,8 @@
       "translations": {
         "lxx": "who gives rain upon the earth, sending water on the earth:",
         "kjv": "Who giveth rain upon the earth, and sendeth waters upon the fields:",
-        "ron": "El dă ploaie pe pământ şi trimite apă pe câmpii."
+        "ron": "El dă ploaie pe pământ şi trimite apă pe câmpii.",
+        "grk": "τὸν διδόντα ὑετὸν ἐπὶ τὴν γῆν, ἀποστέλλοντα ὕδωρ ἐπὶ τὴν ὑπʼ οὐρανὸν,"
       }
     },
     {
@@ -571,7 +581,8 @@
       "translations": {
         "lxx": "who exalts the lowly, and raises up them that are lost:",
         "kjv": "To set up on high those that be low; that those which mourn may be exalted to safety.",
-        "ron": "El înalţă pe cei smeriţi şi izbăveşte pe cei necăjiţi."
+        "ron": "El înalţă pe cei smeriţi şi izbăveşte pe cei necăjiţi.",
+        "grk": "τὸν ποιοῦντα ταπεινοὺς εἰς ὕψος, καὶ ἀπολωλότας ἐξεγείροντα,"
       }
     },
     {
@@ -618,7 +629,8 @@
       "translations": {
         "lxx": "frustrating the counsels of the crafty, and their hands shall not perform the truth:",
         "kjv": "He disappointeth the devices of the crafty, so that their hands cannot perform their enterprise.",
-        "ron": "El destramă planurile celor vicleni şi cu mâinile lor nu pot să izbândească."
+        "ron": "El destramă planurile celor vicleni şi cu mâinile lor nu pot să izbândească.",
+        "grk": "διαλλάσσοντα βουλὰς πανούργων, καὶ οὐ μὴ ποιήσουσιν αἱ χεῖρες αὐτῶν ἀληθές·"
       }
     },
     {
@@ -675,7 +687,8 @@
       "translations": {
         "lxx": "who takes the wise in their wisdom, and subverts the counsel of the crafty.",
         "kjv": "He taketh the wise in their own craftiness: and the counsel of the froward is carried headlong.",
-        "ron": "El prinde pe înţelepţi în isteţimea lor şi sfatul celor înşelători iese prost."
+        "ron": "El prinde pe înţelepţi în isteţimea lor şi sfatul celor înşelători iese prost.",
+        "grk": "ὁ καταλαμβάνων σοφοὺς ἐν τῇ φρονήσει, βουλὴν δὲ πολυπλόκων ἐξέστησεν."
       }
     },
     {
@@ -747,7 +760,8 @@
       "translations": {
         "lxx": "In the day darkness shall come upon them, and let them grope in the noon-day even as in the night:",
         "kjv": "They meet with darkness in the day time, and grope in the noonday as in the night.",
-        "ron": "Ziua în amiaza mare dau de întuneric şi umblă ca pe timp de noapte în ceas de zi."
+        "ron": "Ziua în amiaza mare dau de întuneric şi umblă ca pe timp de noapte în ceas de zi.",
+        "grk": "Ἡμέρας συναντήσεται αὐτοῖς σκότος, τὸ δὲ μεσημβρινὸν ψηλαφήσαισαν ἶσα νυκτὶ,"
       }
     },
     {
@@ -809,7 +823,8 @@
       "translations": {
         "lxx": "and let them perish in war, and let the weak escape from the hand of the mighty.",
         "kjv": "But he saveth the poor from the sword, from their mouth, and from the hand of the mighty.",
-        "ron": "Dar Dumnezeu scapă din gura lor pe omul dosădit şi din mâna celui puternic pe cel sărac."
+        "ron": "Dar Dumnezeu scapă din gura lor pe omul dosădit şi din mâna celui puternic pe cel sărac.",
+        "grk": "ἀπόλοιντο δὲ ἐν πολέμῳ· ἀδύνατος δὲ ἐξέλθοι ἐκ χειρὸς δυνάστου."
       }
     },
     {
@@ -866,7 +881,8 @@
       "translations": {
         "lxx": "And let the weak have hope, but the mouth of the unjust be stopped.",
         "kjv": "So the poor hath hope, and iniquity stoppeth her mouth.",
-        "ron": "Astfel, sărmanul prinde nădejde şi nedreptatea îşi închide gura."
+        "ron": "Astfel, sărmanul prinde nădejde şi nedreptatea îşi închide gura.",
+        "grk": "Εἴη δὲ ἀδυνάτῳ ἐλπὶς, ἀδίκου δὲ στόμα ἐμφραχθείη."
       }
     },
     {
@@ -918,7 +934,8 @@
       "translations": {
         "lxx": "But blessed is the man whom the Lord has reproved; and reject not thou the chastening of the Almighty.",
         "kjv": "Behold, happy is the man whom God correcteth: therefore despise not thou the chastening of the Almighty:",
-        "ron": "Fericit este omul pe care Dumnezeu îl mustră! Şi să nu dispreţuieşti certarea Celui Atotputernic."
+        "ron": "Fericit este omul pe care Dumnezeu îl mustră! Şi să nu dispreţuieşti certarea Celui Atotputernic.",
+        "grk": "Μακάριος δὲ ἄνθρωπος ὃν ἤλεγξεν ὁ Κύριος, νουθέτημα δὲ παντοκράτορος μὴ ἀπαναίνου."
       }
     },
     {
@@ -960,7 +977,8 @@
       "translations": {
         "lxx": "For he causes a man to be in pain, and restores him again: he smites, and his hands heal.",
         "kjv": "For he maketh sore, and bindeth up: he woundeth, and his hands make whole.",
-        "ron": "Căci El răneşte şi El leagă rana, El loveşte şi mâinile Lui tămăduiesc."
+        "ron": "Căci El răneşte şi El leagă rana, El loveşte şi mâinile Lui tămăduiesc.",
+        "grk": "Αὐτὸς γὰρ ἀλγεῖν ποιεῖ, καὶ πάλιν ἀποκαθίστησιν· ἔπαισε, καὶ αἱ χεῖρες αὐτοῦ ἰάσαντο."
       }
     },
     {
@@ -1017,7 +1035,8 @@
       "translations": {
         "lxx": "Six times he shall deliver thee out of distresses: and in the seventh harm shall not touch thee.",
         "kjv": "He shall deliver thee in six troubles: yea, in seven there shall no evil touch thee.",
-        "ron": "De şase ori din nevoi te va scoate, iar a şaptea oară, răul te va ocoli."
+        "ron": "De şase ori din nevoi te va scoate, iar a şaptea oară, răul te va ocoli.",
+        "grk": "Ἑξάκις ἐξ ἀναγκῶν σε ἐξελεῖται, ἐν δὲ τῷ ἑβδόμῳ οὐ μὴ ἅψηταί σου κακόν."
       }
     },
     {
@@ -1064,7 +1083,8 @@
       "translations": {
         "lxx": "In famine he shall deliver thee from death: and in war he shall free thee from the power of the sword.",
         "kjv": "In famine he shall redeem thee from death: and in war from the power of the sword.",
-        "ron": "În timp de foamete, te va scăpa de la moarte şi în bătălie din primejdia sabiei."
+        "ron": "În timp de foamete, te va scăpa de la moarte şi în bătălie din primejdia sabiei.",
+        "grk": "Ἐν λιμῷ ῥύσεταί σε ἐκ θανάτου, ἐν πολέμῳ δὲ ἐκ χειρὸς σιδήρου λύσει σε."
       }
     },
     {
@@ -1121,7 +1141,8 @@
       "translations": {
         "lxx": "He shall hide thee from the scourge of the tongue: and thou shalt not be afraid of coming evils.",
         "kjv": "Thou shalt be hid from the scourge of the tongue: neither shalt thou be afraid of destruction when it cometh.",
-        "ron": "Vei fi la adăpost de biciul bârfelii şi nu te vei teme de prăpăd când va veni."
+        "ron": "Vei fi la adăpost de biciul bârfelii şi nu te vei teme de prăpăd când va veni.",
+        "grk": "Ἀπὸ μάστιγος γλώσσης σε κρύψει, καὶ οὐ μὴ φοβηθῇς ἀπὸ κακῶν ἐρχομένων."
       }
     },
     {
@@ -1173,7 +1194,8 @@
       "translations": {
         "lxx": "Thou shalt laugh at the unrighteous and the lawless: and thou shalt not be afraid of wild beasts.",
         "kjv": "At destruction and famine thou shalt laugh: neither shalt thou be afraid of the beasts of the earth.",
-        "ron": "Îţi vei râde de pustiire şi de foamete şi nu-ţi va păsa de fiarele pământului."
+        "ron": "Îţi vei râde de pustiire şi de foamete şi nu-ţi va păsa de fiarele pământului.",
+        "grk": "Ἀδίκων καὶ ἀνόμων καταγελάσῃ· ἀπὸ δὲ θηρίων ἀγρίων οὐ μὴ φοβηθῇς·"
       }
     },
     {
@@ -1230,7 +1252,8 @@
       "translations": {
         "lxx": "For the wild beasts of the field shall be at peace with thee.",
         "kjv": "For thou shalt be in league with the stones of the field: and the beasts of the field shall be at peace with thee.",
-        "ron": "Căci vei avea legământ cu pietrele câmpului şi fiara sălbatică va trăi cu tine în pace."
+        "ron": "Căci vei avea legământ cu pietrele câmpului şi fiara sălbatică va trăi cu tine în pace.",
+        "grk": "Θῆρες γὰρ ἄγριοι εἰρηνεύσουσί σοι."
       }
     },
     {
@@ -1307,7 +1330,8 @@
       "translations": {
         "lxx": "Then shalt thou know that thy house shall be at peace, and the provision for thy tabernacle shall not fail.",
         "kjv": "And thou shalt know that thy tabernacle shall be in peace; and thou shalt visit thy habitation, and shalt not sin.",
-        "ron": "Tu vei şti cortul tău la adăpost şi când îţi vei cerceta locuinţa nu vei avea dezamăgire."
+        "ron": "Tu vei şti cortul tău la adăpost şi când îţi vei cerceta locuinţa nu vei avea dezamăgire.",
+        "grk": "Εἶτα γνώσῃ ὅτι εἰρηνεύσει σου ὁ οἶκος· ἡ δὲ δίαιτα τῆς σκηνῆς σου οὐ μὴ ἁμάρτῃ."
       }
     },
     {
@@ -1369,7 +1393,8 @@
       "translations": {
         "lxx": "And thou shalt know that thy seed shall be abundant; and thy children shall be like the herbage of the field.",
         "kjv": "Thou shalt know also that thy seed shall be great, and thine offspring as the grass of the earth.",
-        "ron": "Vei şti că urmaşii tăi sunt numeroşi şi că odraslele tale sunt multe ca iarba pământului."
+        "ron": "Vei şti că urmaşii tăi sunt numeroşi şi că odraslele tale sunt multe ca iarba pământului.",
+        "grk": "Γνώσῃ δὲ ὅτι πολὺ τὸ σπέρμα σου, τὰ δὲ τέκνα σου ἔσται ὥσπερ τὸ παμβότανον τοῦ ἀγροῦ."
       }
     }
   ],

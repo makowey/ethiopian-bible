@@ -71,7 +71,8 @@
       "translations": {
         "lxx": "My son, attend to my wisdom, and apply thine ear to my words;",
         "kjv": "My son, attend unto my wisdom, and bow thine ear to my understanding:",
-        "ron": "Fiul meu, ia aminte la înţelepciunea mea şi la sfatul meu cel bun pleacă urechea ta,"
+        "ron": "Fiul meu, ia aminte la înţelepciunea mea şi la sfatul meu cel bun pleacă urechea ta,",
+        "grk": "Υἱὲ, ἐμῇ σοφίᾳ πρόσεχε, ἐμοῖς δὲ λόγοις παράβαλλε σὸν οὖς,"
       }
     },
     {
@@ -98,7 +99,8 @@
       "translations": {
         "lxx": "that thou mayest keep good understanding, and the discretion of my lips gives thee a charge. Give no heed to a worthless woman;",
         "kjv": "That thou mayest regard discretion, and that thy lips may keep knowledge.",
-        "ron": "Ca să-ţi poţi păstra judecata şi ca buzele tale să păzească ştiinţa."
+        "ron": "Ca să-ţi poţi păstra judecata şi ca buzele tale să păzească ştiinţa.",
+        "grk": "ἵνα φυλάξῃς ἔννοιαν ἀγαθήν· αἴσθησις δὲ ἐμῶν χειλέων ἐντέλλεταί σοι·"
       }
     },
     {
@@ -175,7 +177,8 @@
       "translations": {
         "lxx": "for honey drops from the lips of a harlot, who for a season pleases thy palate:",
         "kjv": "For the lips of a strange woman drop as an honeycomb, and her mouth is smoother than oil:",
-        "ron": "Nu te uita la femeia linguşitoare, căci buzele celei străine picură miere şi cerul gurii sale e mai alunecător decât untdelemnul,"
+        "ron": "Nu te uita la femeia linguşitoare, căci buzele celei străine picură miere şi cerul gurii sale e mai alunecător decât untdelemnul,",
+        "grk": "Μὴ πρόσεχε φαύλῃ γυναικί. Μέλι γὰρ ἀποστάζει ἀπὸ χειλέων γυναικὸς πόρνης, ἣ πρὸς καιρὸν λιπαίνει σὸν φάρυγγα,"
       }
     },
     {
@@ -232,7 +235,8 @@
       "translations": {
         "lxx": "but afterwards thou wilt find her more bitter than gall, and sharper than a two-edged sword.",
         "kjv": "But her end is bitter as wormwood, sharp as a two-edged sword.",
-        "ron": "Dar la sfârşit ea este mai amară decât pelinul, mai tăioasă decât o sabie cu două ascuţişuri."
+        "ron": "Dar la sfârşit ea este mai amară decât pelinul, mai tăioasă decât o sabie cu două ascuţişuri.",
+        "grk": "ὕστερον μέντοι πικρότερον χολῆς εὑρήσεις, καὶ ἠκονημένον μᾶλλον μαχαίρας διστόμου."
       }
     },
     {
@@ -289,7 +293,8 @@
       "translations": {
         "lxx": "For the feet of folly lead those who deal with her down to the grave with death; and her steps are not established.",
         "kjv": "Her feet go down to death; her steps take hold on hell.",
-        "ron": "Picioarele ei coboară către moarte; paşii ei duc de-a dreptul în împărăţia morţii."
+        "ron": "Picioarele ei coboară către moarte; paşii ei duc de-a dreptul în împărăţia morţii.",
+        "grk": "Τῆς γὰρ ἀφροσύνης οἱ πόδες κατάγουσι τοὺς χρωμένους αὐτῇ μετὰ θανάτου εἰς τὸν ᾅδην, τὰ δὲ ἴχνη αὐτῆς οὐκ ἐρείδεται."
       }
     },
     {
@@ -361,7 +366,8 @@
       "translations": {
         "lxx": "For she goes not upon the paths of life; but her ways are slippery, and not easily known.",
         "kjv": "Lest thou shouldest ponder the path of life, her ways are moveable, that thou canst not know them.",
-        "ron": "Ea nu ia seama la calea vieţii, paşii ei merg în neştire, nici ea nu ştie unde."
+        "ron": "Ea nu ia seama la calea vieţii, paşii ei merg în neştire, nici ea nu ştie unde.",
+        "grk": "Ὁδοὺς γὰρ ζωῆς οὐκ ἐπέρχεται, σφαλεραὶ δὲ αἱ τροχιαὶ αὐτῆς, καὶ οὐκ εὔγνωστοι."
       }
     },
     {
@@ -408,7 +414,8 @@
       "translations": {
         "lxx": "Now then, my son, hear me, and make not my words of none effect.",
         "kjv": "Hear me now therefore, O ye children, and depart not from the words of my mouth.",
-        "ron": "Și acum, fiul meu, ascultă-mă și nu te îndepărta de la cuvintele gurii mele."
+        "ron": "Și acum, fiul meu, ascultă-mă și nu te îndepărta de la cuvintele gurii mele.",
+        "grk": "Νῦν οὖν υἱὲ ἄκουέ μου, καὶ μὴ ἀκύρους ποιήσεις ἐμοὺς λόγους."
       }
     },
     {
@@ -460,7 +467,8 @@
       "translations": {
         "lxx": "Remove thy way far from her; draw not near to the doors of her house:",
         "kjv": "Remove thy way far from her, and come not nigh the door of her house:",
-        "ron": "Fereşte-ţi calea ta de ea şi nu te apropia de uşa casei ei,"
+        "ron": "Fereşte-ţi calea ta de ea şi nu te apropia de uşa casei ei,",
+        "grk": "Μακρὰν ποίησον ἀπʼ αὐτῆς σὴν ὁδόν· μὴ ἐγγίσῃς πρὸς θύραις οἴκων αὐτῆς,"
       }
     },
     {
@@ -512,7 +520,8 @@
       "translations": {
         "lxx": "lest thou give away thy life to others, and thy substance to the merciless:",
         "kjv": "Lest thou give thine honour unto others, and thy years unto the cruel:",
-        "ron": "Ca să nu dai vârtutea ta altora şi anii tăi unuia fără de milă;"
+        "ron": "Ca să nu dai vârtutea ta altora şi anii tăi unuia fără de milă;",
+        "grk": "ἵνα μὴ πρόῃ ἄλλοις ζωήν σου, καὶ σὸν βίον ἀνελεήμοσιν·"
       }
     },
     {
@@ -569,7 +578,8 @@
       "translations": {
         "lxx": "lest strangers be filled with thy strength, and thy labours come into the houses of strangers;",
         "kjv": "Lest strangers be filled with thy wealth; and thy labours be in the house of a stranger;",
-        "ron": "Ca străinii să nu se îndestuleze de strădania ta şi ostenelile tale să nu treacă în casa altuia;"
+        "ron": "Ca străinii să nu se îndestuleze de strădania ta şi ostenelile tale să nu treacă în casa altuia;",
+        "grk": "Ἵνα μὴ πλησθῶσιν ἀλλότριοι σῆς ἰσχύος, οἱ δὲ σοὶ πόνοι εἰς οἴκους ἀλλοτρίων ἔλθεσι·"
       }
     },
     {
@@ -611,7 +621,8 @@
       "translations": {
         "lxx": "and thou repent at last, when the flesh of thy body is consumed,",
         "kjv": "And thou mourn at the last, when thy flesh and thy body are consumed,",
-        "ron": "Ca să nu suspini la sfârşit, când trupul tău şi carnea ta vor fi fără de vlagă,"
+        "ron": "Ca să nu suspini la sfârşit, când trupul tău şi carnea ta vor fi fără de vlagă,",
+        "grk": "Καὶ μεταμεληθήσῃ ἐπʼ ἐσχάτων, ἡνίκα ἂν κατατριβῶσι σάρκες σώματός σου,"
       }
     },
     {
@@ -663,7 +674,8 @@
       "translations": {
         "lxx": "and thou shalt say, How have I hated instruction, and my heart avoided reproofs!",
         "kjv": "And say, How have I hated instruction, and my heart despised reproof;",
-        "ron": "Şi să zici: \"Pentru ce am urât povaţa şi de ce inima mea a urgisit certarea?"
+        "ron": "Şi să zici: \"Pentru ce am urât povaţa şi de ce inima mea a urgisit certarea?",
+        "grk": "καὶ ἐρεῖς, πῶς ἐμίσησα παιδείαν, καὶ ἐλέγχους ἐξέκλινεν ἡ καρδία μου;"
       }
     },
     {
@@ -705,7 +717,8 @@
       "translations": {
         "lxx": "I heard not the voice of him that instructed me, and taught me, neither did I apply mine ear.",
         "kjv": "And have not obeyed the voice of my teachers, nor inclined mine ear to them that instructed me!",
-        "ron": "De ce nu am ascultat de îndemnul dascălilor mei şi spre cei ce mă învăţau n-am plecat urechea mea?"
+        "ron": "De ce nu am ascultat de îndemnul dascălilor mei şi spre cei ce mă învăţau n-am plecat urechea mea?",
+        "grk": "Οὐκ ἤκουον φωνὴν παιδεύοντός με καὶ διδάσκοντός με, οὐδὲ παρέβαλλον τὸ οὖς μου."
       }
     },
     {
@@ -747,7 +760,8 @@
       "translations": {
         "lxx": "I was almost in all evil in the midst of the congregation and assembly.",
         "kjv": "I was almost in all evil in the midst of the congregation and assembly.",
-        "ron": "Puţin a trebuit să nu mă nenorocesc, în plină adunare şi în mijlocul obştei\"."
+        "ron": "Puţin a trebuit să nu mă nenorocesc, în plină adunare şi în mijlocul obştei\".",
+        "grk": "Παρʼ ὀλίγον ἐγενόμην ἐν παντὶ κακῷ, ἐν μέσῳ ἐκκλησίας καὶ συναγωγῆς."
       }
     },
     {
@@ -834,7 +848,8 @@
       "translations": {
         "lxx": "Drink waters out of thine own vessels, and out of thine own springing wells.",
         "kjv": "Drink waters out of thine own cistern, and running waters out of thine own well.",
-        "ron": "Bea apă din puţul tău şi din pârâiaşele care curg din izvorul tău."
+        "ron": "Bea apă din puţul tău şi din pârâiaşele care curg din izvorul tău.",
+        "grk": "Πίνε ὕδατα ἀπὸ σῶν ἀγγείων, καὶ ἀπὸ σῶν φρεάτων πηγῆς."
       }
     },
     {
@@ -896,7 +911,8 @@
       "translations": {
         "lxx": "Let not waters out of thy fountain be spilt by thee, but let thy waters go into thy streets.",
         "kjv": "Let thy fountains be dispersed abroad, and rivers of waters in the streets.",
-        "ron": "Să nu se risipească izvoarele tale pe uliţă, nici pâraiele tale prin pieţe."
+        "ron": "Să nu se risipească izvoarele tale pe uliţă, nici pâraiele tale prin pieţe.",
+        "grk": "Μὴ ὑπερεκχείσθω σοι ὕδατα ἐκ τῆς σῆς πηγῆς, εἰς δὲ σὰς πλατείας διαπορευέσθω τὰ σὰ ὕδατα."
       }
     },
     {
@@ -928,7 +944,8 @@
       "translations": {
         "lxx": "Let them be only thine own, and let no stranger partake with thee.",
         "kjv": "Let them be only thine own, and not strangers’ with thee.",
-        "ron": "Să fie numai pentru tine singur, iar nu pentru străinii care sînt cu tine!"
+        "ron": "Să fie numai pentru tine singur, iar nu pentru străinii care sînt cu tine!",
+        "grk": "Ἔστω σοι μόνῳ ὑπάρχοντα, καὶ μηδεὶς ἀλλότριος μετασχέτω σοι."
       }
     },
     {
@@ -970,7 +987,8 @@
       "translations": {
         "lxx": "Let thy fountain of water be truly thine own; and rejoice with the wife of thy youth.",
         "kjv": "Let thy fountain be blessed: and rejoice with the wife of thy youth.",
-        "ron": "Binecuvântat să fie izvorul tău şi să te mângâi cu femeia ta din tinereţe."
+        "ron": "Binecuvântat să fie izvorul tău şi să te mângâi cu femeia ta din tinereţe.",
+        "grk": "Ἡ πηγή σου τοῦ ὕδατος ἔστω σοι ἰδία, καὶ συνευφραίνου μετὰ γυναικὸς τῆς ἐκ νεότητός σου."
       }
     },
     {
@@ -1032,7 +1050,8 @@
       "translations": {
         "lxx": "Let thy loving hart and thy graceful colt company with thee, and let her be considered thine own, and be with thee at all times; for ravished with her love thou shalt be greatly increased.",
         "kjv": "Let her be as the loving hind and pleasant roe; let her breasts satisfy thee at all times; and be thou ravished always with her love.",
-        "ron": "Cerboaică preaiubită şi gazelă plină de farmec să-ţi fie ea; dragostea de ea să te îmbete totdeauna şi iubirea ei să te desfăteze."
+        "ron": "Cerboaică preaiubită şi gazelă plină de farmec să-ţi fie ea; dragostea de ea să te îmbete totdeauna şi iubirea ei să te desfăteze.",
+        "grk": "Ἔλαφος φιλίας καὶ πῶλος σῶν χαρίτων ὁμιλείτω σοι, ἡ δὲ ἰδία ἡγείσθω σου καὶ συνέστω σοι ἐν παντὶ καιρῷ· ἐν γὰρ τῇ ταύτης φιλίᾳ συμπεριφερόμενος, πολλοστὸς ἔσῃ."
       }
     },
     {
@@ -1094,7 +1113,8 @@
       "translations": {
         "lxx": "Be not intimate with a strange woman, neither fold thyself in the arms of a woman not thine own.",
         "kjv": "And why wilt thou, my son, be ravished with a strange woman, and embrace the bosom of a stranger?",
-        "ron": "Pentru ce, fiul meu, să te momească femeie străină şi tu să îmbrăţişezi sânul unei necunoscute?"
+        "ron": "Pentru ce, fiul meu, să te momească femeie străină şi tu să îmbrăţişezi sânul unei necunoscute?",
+        "grk": "Μὴ πολὺς ἴσθι πρὸς ἀλλοτρίαν, μηδὲ συνέχου ἀγκάλαις τῆς μὴ ἰδίας."
       }
     },
     {
@@ -1136,7 +1156,8 @@
       "translations": {
         "lxx": "For the ways of a man are before the eyes of God, and he looks on all his paths.",
         "kjv": "For the ways of man are before the eyes of the LORD, and he pondereth all his goings.",
-        "ron": "Căci cărările omului sunt înaintea Domnului şi El ia seama la toate căile lui."
+        "ron": "Căci cărările omului sunt înaintea Domnului şi El ia seama la toate căile lui.",
+        "grk": "Ἐνώπιον γάρ εἰσι τῶν τοῦ Θεοῦ ὀφθαλμῶν ὁδοὶ ἀνδρὸς, εἰς δὲ πάσας τὰς τροχιὰς αὐτοῦ σκοπεύει."
       }
     },
     {
@@ -1203,7 +1224,8 @@
       "translations": {
         "lxx": "Iniquities ensnare a man, and every one is bound in the chains of his own sins.",
         "kjv": "His own iniquities shall take the wicked himself, and he shall be holden with the cords of his sins.",
-        "ron": "Cel fără de lege este prins în laţurile fărădelegilor lui şi de funiile păcatelor lui este înfăşurat."
+        "ron": "Cel fără de lege este prins în laţurile fărădelegilor lui şi de funiile păcatelor lui este înfăşurat.",
+        "grk": "Παρανομίαι ἄνδρα ἀγρεύουσι, σειραῖς δὲ τῶν ἑαυτοῦ ἁμαρτιῶν ἕκαστος σφίγγεται."
       }
     },
     {
@@ -1250,7 +1272,8 @@
       "translations": {
         "lxx": "Such a man dies with the uninstructed; and he is cast forth from the abundance of his own substance, and has perished through folly.",
         "kjv": "He shall die without instruction; and in the greatness of his folly he shall go astray.",
-        "ron": "El va muri în păcatele lui şi de mulţimea nebuniei lui va pieri."
+        "ron": "El va muri în păcatele lui şi de mulţimea nebuniei lui va pieri.",
+        "grk": "Οὗτος τελευτᾷ μετὰ ἀπαιδεύτων, ἐκ δὲ πλήθους τῆς ἑαυτοῦ βιότητος ἐξεῤῥίφη, καὶ ἀπώλετο διʼ ἀφροσύνην."
       }
     },
     {

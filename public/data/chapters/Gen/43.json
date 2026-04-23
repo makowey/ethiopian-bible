@@ -36,7 +36,8 @@
       "translations": {
         "lxx": "But the famine prevailed in the land.",
         "kjv": "And the famine was sore in the land.",
-        "ron": "Dar întărindu-se foametea pe pământ,"
+        "ron": "Dar întărindu-se foametea pe pământ,",
+        "grk": "Ὁ δὲ λιμὸς ἐνίσχυσεν ἐπὶ τῆς γῆς."
       }
     },
     {
@@ -128,7 +129,8 @@
       "translations": {
         "lxx": "And it came to pass, when they had finished eating the corn which they had brought out of Egypt, that their father said to them, Go again; buy us a little food.",
         "kjv": "And it came to pass, when they had eaten up the corn which they had brought out of Egypt, their father said unto them, Go again, buy us a little food.",
-        "ron": "Şi isprăvind de mâncat grâul ce-l aduseseră din Egipt, a zis tatăl lor către ei: \"Duceţi-vă iar de mai cumpăraţi bucate!\""
+        "ron": "Şi isprăvind de mâncat grâul ce-l aduseseră din Egipt, a zis tatăl lor către ei: \"Duceţi-vă iar de mai cumpăraţi bucate!\"",
+        "grk": "Ἐγένετο δὲ ἡνίκα συνετέλεσαν καταφαγεῖν τὸν σῖτον, ὃν ἤνεγκαν ἐξ Αἰγύπτου, καὶ εἶπεν αὐτοῖς ὁ πατὴρ αὐτῶν, πάλιν πορευθέντες πρίασθε ἡμῖν μικρὰ βρώματα."
       }
     },
     {
@@ -230,7 +232,8 @@
       "translations": {
         "lxx": "And Judas spoke to him, saying, The man, the lord of the country, positively testified to us, saying, Ye shall not see my face, unless your younger brother be with you.",
         "kjv": "And Judah spake unto him, saying, The man did solemnly protest unto us, saying, Ye shall not see my face, except your brother be with you.",
-        "ron": "Răspunsu-i-a Iuda şi a zis: \"Omul acela, stăpânul ţării, ne-a grăit cu jurământ şi ne-a zis: De nu va veni cu voi fratele vostru cel mai mic, nu veţi mai vedea faţa mea."
+        "ron": "Răspunsu-i-a Iuda şi a zis: \"Omul acela, stăpânul ţării, ne-a grăit cu jurământ şi ne-a zis: De nu va veni cu voi fratele vostru cel mai mic, nu veţi mai vedea faţa mea.",
+        "grk": "Εἶπε δὲ αὐτῷ Ἰούδας, λέγων, διαμαρτυρίᾳ μεμαρτύρηται ἡμῖν ὁ ἄνθρωπος ὁ κύριος τῆς γῆς, λέγων, οὐκ ὄψεσθε τὸ πρόσωπόν μου, ἐὰν μὴ ὁ ἀδελφὸς ὑμῶν ὁ νεώτερος μεθʼ ὑμῶν ᾖ."
       }
     },
     {
@@ -282,7 +285,8 @@
       "translations": {
         "lxx": "If, then, thou send our brother with us, we will go down, and buy thee food;",
         "kjv": "If thou wilt send our brother with us, we will go down and buy thee food:",
-        "ron": "Deci, dacă trimiţi pe fratele nostru cu noi, ne ducem să-ţi cumpărăm bucate;"
+        "ron": "Deci, dacă trimiţi pe fratele nostru cu noi, ne ducem să-ţi cumpărăm bucate;",
+        "grk": "Εἰ μὲν οὖν ἀποστέλλῃς τὸν ἀδελφὸν ἡμῶν μεθʼ ἡμῶν, καταβησόμεθα, καὶ ἀγοράσομέν σοι βρώματα."
       }
     },
     {
@@ -379,7 +383,8 @@
       "translations": {
         "lxx": "but if thou send not our brother with us, we will not go: for the man spoke to us, saying, Ye shall not see my face, unless your younger brother be with you.",
         "kjv": "But if thou wilt not send him, we will not go down: for the man said unto us, Ye shall not see my face, except your brother be with you.",
-        "ron": "Iar de nu trimiţi pe fratele nostru cu noi, nu ne ducem, căci omul acela a zis: Nu veţi mai vedea faţa mea, de nu va veni cu voi fratele vostru!\""
+        "ron": "Iar de nu trimiţi pe fratele nostru cu noi, nu ne ducem, căci omul acela a zis: Nu veţi mai vedea faţa mea, de nu va veni cu voi fratele vostru!\"",
+        "grk": "Εἰ δὲ μὴ ἀποστέλλῃς τὸν ἀδελφὸν ἡμῶν μεθʼ ἡμῶν, οὐ πορευσόμεθα· ὁ γὰρ ἄνθρωπος εἶπεν ἡμῖν, λέγων, οὐκ ὄψεσθέ μου τὸ πρόσωπον, ἐὰν μὴ ὁ ἀδελφὸς ὑμῶν ὁ νεώτερος μεθʼ ὑμῶν ᾖ."
       }
     },
     {
@@ -456,7 +461,8 @@
       "translations": {
         "lxx": "And Israel said, Why did ye harm me, inasmuch as ye told the man that ye had a brother?",
         "kjv": "And Israel said, Wherefore dealt ye so ill with me, as to tell the man whether ye had yet a brother?",
-        "ron": "Zis-a Israel: \"De ce mi-aţi făcut răul acesta, spunând omului aceluia că mai aveţi un frate?\""
+        "ron": "Zis-a Israel: \"De ce mi-aţi făcut răul acesta, spunând omului aceluia că mai aveţi un frate?\"",
+        "grk": "Εἶπε δὲ Ἰσραὴλ, τί ἐκακοποιήσατέ με, ἀναγγείλαντες τῷ ἀνθρώπῳ ὅτι ἐστὶν ὑμῖν ἀδελφός;"
       }
     },
     {
@@ -578,7 +584,8 @@
       "translations": {
         "lxx": "And they said, The man closely questioned us about our family also, saying, Does your father yet live, and have ye a brother? and we answered him according to this question: did we know that he would say to us, Bring your brother?",
         "kjv": "And they said, The man asked us straitly of our state, and of our kindred, saying, Is your father yet alive? have ye another brother? and we told him according to the tenor of these words: could we certainly know that he would say, Bring your brother down?",
-        "ron": "Iar ei au răspuns: \"Omul acela a întrebat despre noi şi despre neamul nostru, zicând: Mai trăieşte oare tatăl vostru şi mai aveţi voi vreun frate? Şi noi i-am răspuns la aceste întrebări. N-am ştiut că ne va zice: Aduceţi pe fratele vostru!\""
+        "ron": "Iar ei au răspuns: \"Omul acela a întrebat despre noi şi despre neamul nostru, zicând: Mai trăieşte oare tatăl vostru şi mai aveţi voi vreun frate? Şi noi i-am răspuns la aceste întrebări. N-am ştiut că ne va zice: Aduceţi pe fratele vostru!\"",
+        "grk": "Οἱ δὲ εἶπαν, ἐρωτῶν ἐπηρώτησεν ἡμᾶς ὁ ἄνθρωπος καὶ τὴν γενεὰν ἡμῶν, λέγων, εἰ ἔτι ὁ πατὴρ ὑμῶν ζῇ, καὶ εἰ ἔστιν ὑμῖν ἀδελφός· καὶ ἀπηγγείλαμεν αὐτῷ κατὰ τὴν ἐπερώτησιν ταύτην· μὴ ᾔδειμεν ὅτι ἐρεῖ ἡμῖν, ἀγάγετε τὸν ἀδελφὸν ὑμῶν;"
       }
     },
     {
@@ -660,7 +667,8 @@
       "translations": {
         "lxx": "And Judas said to his father Israel, Send the boy with me, and we will arise and go, that we may live and not die, both we and thou, and our store.",
         "kjv": "And Judah said unto Israel his father, Send the lad with me, and we will arise and go; that we may live, and not die, both we, and thou, and also our little ones.",
-        "ron": "Iuda însă a zis către Israel, tatăl său: \"Trimite băiatul cu mine şi să ne sculăm să mergem, ca să trăim şi să nu murim nici noi, nici tu, nici copiii noştri."
+        "ron": "Iuda însă a zis către Israel, tatăl său: \"Trimite băiatul cu mine şi să ne sculăm să mergem, ca să trăim şi să nu murim nici noi, nici tu, nici copiii noştri.",
+        "grk": "Εἶπε δὲ Ἰούδας πρὸς Ἰσραὴλ τὸν πατέρα αὐτοῦ, ἀπόστειλον τὸ παιδάριον μετʼ ἐμοῦ· καὶ ἀναστάντες πορευσόμεθα, ἵνα ζῶμεν καὶ μὴ ἀποθάνωμεν καὶ ἡμεῖς, καὶ σὺ, καὶ ἡ ἀποσκευὴ ἡμῶν."
       }
     },
     {
@@ -747,7 +755,8 @@
       "translations": {
         "lxx": "And I engage for him; at my hand do thou require him; if I bring him not to thee, and place him before thee, I shall be guilty toward thee for ever.",
         "kjv": "I will be surety for him; of my hand shalt thou require him: if I bring him not unto thee, and set him before thee, then let me bear the blame for ever:",
-        "ron": "Răspund eu de el. Din mâna mea să-l ceri. De nu ţi-l voi aduce şi de nu ţi-l voi înfăţişa, să rămân vinovat faţă de tine în toate zilele vieţii mele."
+        "ron": "Răspund eu de el. Din mâna mea să-l ceri. De nu ţi-l voi aduce şi de nu ţi-l voi înfăţişa, să rămân vinovat faţă de tine în toate zilele vieţii mele.",
+        "grk": "Ἐγὼ δὲ ἐκδέχομαι αὐτόν· ἐκ χειρός μου ζήτησον αὐτόν· ἐὰν μὴ ἀγάγω αὐτὸν πρός σε, καὶ στήσω αὐτὸν ἐναντίον σου, ἡμαρτηκὼς ἔσομαι εἰς σὲ πάσας τὰς ἡμέραν."
       }
     },
     {
@@ -789,7 +798,8 @@
       "translations": {
         "lxx": "For if we had not tarried, we should now have returned twice.",
         "kjv": "For except we had lingered, surely now we had returned this second time.",
-        "ron": "De n-am fi zăbovit atât, ne-am fi întors acum a doua oară\"."
+        "ron": "De n-am fi zăbovit atât, ne-am fi întors acum a doua oară\".",
+        "grk": "Εἰ μὴ γὰρ ἐβραδύναμεν, ἤδη ἂν ὑπεστρέψαμεν δίς."
       }
     },
     {
@@ -921,7 +931,8 @@
       "translations": {
         "lxx": "And Israel, their father, said to them, If it be so, do this; take of the fruits of the earth in your vessels, and carry down to the man presents of gum and honey, and frankincense, and stacte, and turpentine, and walnuts.",
         "kjv": "And their father Israel said unto them, If it must be so now, do this; take of the best fruits in the land in your vessels, and carry down the man a present, a little balm, and a little honey, spices, and myrrh, nuts, and almonds:",
-        "ron": "Zis-a Israel, tatăl lor, către ei: \"Dacă este aşa, iată ce să faceţi: luaţi în sacii voştri din roadele pământului acestuia şi duceţi ca dar omului aceluia: puţin balsam şi puţină miere, tămâie şi smirnă, migdale şi fistic."
+        "ron": "Zis-a Israel, tatăl lor, către ei: \"Dacă este aşa, iată ce să faceţi: luaţi în sacii voştri din roadele pământului acestuia şi duceţi ca dar omului aceluia: puţin balsam şi puţină miere, tămâie şi smirnă, migdale şi fistic.",
+        "grk": "Εἶπε δὲ αὐτοῖς Ἰσραὴλ ὁ πατὴρ αὐτῶν, εἰ οὕτως ἐστὶ, τοῦτο ποιήσατε· λάβετε ἀπὸ τῶν καρπῶν τῆς γῆς ἐν τοῖς ἀγγείοις ὑμῶν, καὶ καταγάγετε τῷ ἀνθρώπῳ δῶρα τῆς ῥητίνης, καὶ τοῦ μέλιτος, θυμίαμά τε καὶ στακτὴν, καὶ τερέινθον, καὶ κάρυα."
       }
     },
     {
@@ -993,7 +1004,8 @@
       "translations": {
         "lxx": "And take double money in your hands, and the money that was returned in your sacks, carry back with you, lest peradventure it is a mistake.",
         "kjv": "And take double money in your hand; and the money that was brought again in the mouth of your sacks, carry it again in your hand; peradventure it was an oversight:",
-        "ron": "Luaţi şi alt argint cu voi, iar argintul care v-a fost pus înapoi în sacii voştri întoarceţi-l cu mâinile voastre; poate că a fost pus din greşeală."
+        "ron": "Luaţi şi alt argint cu voi, iar argintul care v-a fost pus înapoi în sacii voştri întoarceţi-l cu mâinile voastre; poate că a fost pus din greşeală.",
+        "grk": "Καὶ τὸ ἀργύριον δισσὸν λάβετε ἐν ταῖς χερσὶν ὑμῶν· τὸ ἀργύριον τὸ ἀποστραφὲν ἐν τοῖς μαρσίπποις ὑμῶν ἀποστρέψατε μεθʼ ὑμῶν· μή ποτε ἀγνόημά ἐστι."
       }
     },
     {
@@ -1040,7 +1052,8 @@
       "translations": {
         "lxx": "And take your brother; and arise, go down to the man.",
         "kjv": "Take also your brother, and arise, go again unto the man:",
-        "ron": "Luaţi şi pe fratele vostru şi, sculându-vă, mergeţi iar la omul acela."
+        "ron": "Luaţi şi pe fratele vostru şi, sculându-vă, mergeţi iar la omul acela.",
+        "grk": "Καὶ τὸν ἀδελφὸν ὑμῶν λάβετε· καὶ ἀναστάντες κατάβητε πρὸς τὸν ἄνθρωπον."
       }
     },
     {
@@ -1137,7 +1150,8 @@
       "translations": {
         "lxx": "And my God give you favour in the sight of the man, and send away your other brother, and Benjamin, for I accordingly as I have been bereaved, am bereaved.",
         "kjv": "And God Almighty give you mercy before the man, that he may send away your other brother, and Benjamin. If I be bereaved of my children, I am bereaved.",
-        "ron": "Iar Dumnezeul cel Atotputernic să vă dea trecere la omul acela, ca să vă dea şi pe celălalt frate al vostru, şi pe Veniamin. Cât despre mine, apoi de-mi va fi dat să rămân fără copii, atunci să rămân!\""
+        "ron": "Iar Dumnezeul cel Atotputernic să vă dea trecere la omul acela, ca să vă dea şi pe celălalt frate al vostru, şi pe Veniamin. Cât despre mine, apoi de-mi va fi dat să rămân fără copii, atunci să rămân!\"",
+        "grk": "Ὁ δὲ Θεός μου δώῃ ὑμῖν χάριν ἐναντίον τοῦ ἀνθρώπου καὶ ἀποστείλαι τὸν ἀδελφὸν ὑμῶν τὸν ἕνα, καὶ τὸν Βενιαμίν· ἐγὼ μὲν γὰρ καθάπερ ἠτέκνωμαι, ἠτέκνωμαι."
       }
     },
     {
@@ -1234,7 +1248,8 @@
       "translations": {
         "lxx": "And the men having taken these presents, and the double money, took in their hands also Benjamin; and they rose up and went down to Egypt, and stood before Joseph.",
         "kjv": "And the men took that present, and they took double money in their hand, and Benjamin; and rose up, and went down to Egypt, and stood before Joseph.",
-        "ron": "Şi au luat ei darurile acestea; luat-au şi argint, de două ori mai mult, şi pe Veniamin şi, sculându-se, au plecat în Egipt şi s-au înfăţişat înaintea lui Iosif."
+        "ron": "Şi au luat ei darurile acestea; luat-au şi argint, de două ori mai mult, şi pe Veniamin şi, sculându-se, au plecat în Egipt şi s-au înfăţişat înaintea lui Iosif.",
+        "grk": "Λαβόντες δὲ οἱ ἄνδρες τὰ δῶρα ταῦτα καὶ τὸ ἀργύριον διπλοῦν, ἔλαβον ἐν ταῖς χερσὶν αὐτῶν καὶ τὸν Βενιαμείν· καὶ ἀναστάντες κατέβησαν εἰς Αἴγυπτον· καὶ ἔστησαν ἐναντίον Ἰωσήφ."
       }
     },
     {
@@ -1361,7 +1376,8 @@
       "translations": {
         "lxx": "And Joseph saw them and his brother Benjamin, born of the same mother; and he said to the steward of his household, Bring the men into the house, and slay beasts and make ready, for the men are to eat bread with me at noon.",
         "kjv": "And when Joseph saw Benjamin with them, he said to the ruler of his house, Bring these men home, and slay, and make ready; for these men shall dine with me at noon.",
-        "ron": "Iar Iosif, văzând printre ei şi pe Veniamin, fratele său cel de o mamă cu el, a zis către ispravnicul casei sale: \"Bagă pe oamenii aceia în casă şi junghie din vite şi găteşte, pentru că la amiază oamenii aceia au să mănânce la masă cu mine!\""
+        "ron": "Iar Iosif, văzând printre ei şi pe Veniamin, fratele său cel de o mamă cu el, a zis către ispravnicul casei sale: \"Bagă pe oamenii aceia în casă şi junghie din vite şi găteşte, pentru că la amiază oamenii aceia au să mănânce la masă cu mine!\"",
+        "grk": "Εἶδε δὲ Ἰωσὴφ αὐτοὺς, καὶ τὸν Βενιαμὶν τὸν ἀδελφὸν αὐτοῦ τὸν ὁμομήτριον· καὶ εἶπε τῷ ἐπὶ τῆς οἰκίας αὐτοῦ, εἰσάγαγε τοὺς ἀνθρώπους εἰς τὴν οἰκίαν, καὶ σφάξον θύματα, καὶ ἑτοίμασον· μετʼ ἐμοῦ γὰρ φάγονται οἱ ἄνθρωποι ἄρτους τὴν μεσημβρίαν."
       }
     },
     {
@@ -1428,7 +1444,8 @@
       "translations": {
         "lxx": "And the man did as Joseph said; and he brought the men into the house of Joseph.",
         "kjv": "And the man did as Joseph bade; and the man brought the men into Joseph’s house.",
-        "ron": "A făcut deci omul acela cum îi poruncise Iosif: a băgat pe oamenii aceia în casa lui Iosif."
+        "ron": "A făcut deci omul acela cum îi poruncise Iosif: a băgat pe oamenii aceia în casa lui Iosif.",
+        "grk": "Ἐποίησε δὲ ὁ ἄνθρωπος καθὰ εἶπεν Ἰωσήφ· καὶ εἰσήγαγε τοὺς ἀνθρώπους εἰς τὸν οἶκον Ἰωσήφ."
       }
     },
     {
@@ -1555,7 +1572,8 @@
       "translations": {
         "lxx": "And the men, when they perceived that they were brought into the house of Joseph, said, We are brought in because of the money that was returned in our sacks at the first; even in order to inform against us, and lay it to our charge; to take us for servants, and our asses.",
         "kjv": "And the men were afraid, because they were brought into Joseph’s house; and they said, Because of the money that was returned in our sacks at the first time are we brought in; that he may seek occasion against us, and fall upon us, and take us for bondmen, and our asses.",
-        "ron": "Iar oamenii aceia, văzând că i-au băgat în casa lui Iosif, au zis: \"Pentru argintul, care ni s-a înapoiat deunăzi în sacii noştri, ne bagă înăuntru, ca să se lege de noi şi să ne năpăstuiască şi să ne ia robi pe noi şi asinii noştri\"."
+        "ron": "Iar oamenii aceia, văzând că i-au băgat în casa lui Iosif, au zis: \"Pentru argintul, care ni s-a înapoiat deunăzi în sacii noştri, ne bagă înăuntru, ca să se lege de noi şi să ne năpăstuiască şi să ne ia robi pe noi şi asinii noştri\".",
+        "grk": "Ἰδόντες δὲ οἱ ἄνδρες ὅτι εἰσήχθησαν εἰς τὸν οἶκον τοῦ Ἰωσήφ, εἶπαν, διὰ τὸ ἀργύριον τὸ ἀποστραφὲν ἐν τοῖς μαρσίπποις ἡμῶν τὴν ἀρχὴν, ἡμεῖς εἰσαγόμεθα, τοῦ συκοφαντῆσαι ἡμᾶς καὶ ἐπιθέσθαι ἡμῖν, τοῦ λαβεῖν ἡμᾶς εἰς παῖδας, καὶ τοὺς ὄνους ἡμῶν."
       }
     },
     {
@@ -1617,7 +1635,8 @@
       "translations": {
         "lxx": "And having approached the man who was over the house of Joseph, they spoke to him in the porch of the house,",
         "kjv": "And they came near to the steward of Joseph’s house, and they communed with him at the door of the house,",
-        "ron": "Atunci apropiindu-se ei de ispravnicul casei lui Iosif, au grăit cu dânsul, la uşa casei, şi au zis:"
+        "ron": "Atunci apropiindu-se ei de ispravnicul casei lui Iosif, au grăit cu dânsul, la uşa casei, şi au zis:",
+        "grk": "Προσελθόντες δὲ πρὸς τὸν ἄνθρωπον τὸν ἐπὶ τοῦ οἴκου τοῦ Ἰωσὴφ, ἐλάλησαν αὐτῷ ἐν τῷ πυλῶνι τοῦ οἴκου,"
       }
     },
     {
@@ -1664,7 +1683,8 @@
       "translations": {
         "lxx": "saying, We pray thee, Sir; we came down at first to buy food.",
         "kjv": "And said, O sir, we came indeed down at the first time to buy food:",
-        "ron": "\"0, domnul nostru! Noi am mai venit o dată să cumpărăm bucate,"
+        "ron": "\"0, domnul nostru! Noi am mai venit o dată să cumpărăm bucate,",
+        "grk": "λέγοντες, δεόμεθα, κύριε· κατέβηεν τὴν ἀρχὴν πρίασθαι βρώματα."
       }
     },
     {
@@ -1766,7 +1786,8 @@
       "translations": {
         "lxx": "And it came to pass, when we came to unlade, and opened our sacks, there was also this money of each in his sack; we have now brought back our money by weight in our hands.",
         "kjv": "And it came to pass, when we came to the inn, that we opened our sacks, and, behold, every man’s money was in the mouth of his sack, our money in full weight: and we have brought it again in our hand.",
-        "ron": "Dar s-a întâmplat că, ajungând la popasul de noapte şi dezlegând sacii noştri, iată argintul fiecăruia era în sacul lui; şi acum tot argintul nostru, după greutatea lui, îl înapoiem cu mâinile noastre;"
+        "ron": "Dar s-a întâmplat că, ajungând la popasul de noapte şi dezlegând sacii noştri, iată argintul fiecăruia era în sacul lui; şi acum tot argintul nostru, după greutatea lui, îl înapoiem cu mâinile noastre;",
+        "grk": "Ἐγένετο δὲ ἡνίκα ἤλθομεν εἰς τὸ καταλῦσαι, καὶ ἠνοίξαμεν τοὺς μαρσίππους ἡμῶν, καὶ τόδε τὸ ἀργύριον ἑκάστου ἐν τῷ μαρσίππῳ αὐτοῦ· τὸ ἀργύριον ἡμῶν ἐν σταθμῷ ἀπεστρέψαμεν νῦν ἐν ταῖς χερσὶν ἡμῶν."
       }
     },
     {
@@ -1848,7 +1869,8 @@
       "translations": {
         "lxx": "And we have brought other money with us to buy food; we know not who put the money into our sacks.",
         "kjv": "And other money have we brought down in our hands to buy food: we cannot tell who put our money in our sacks.",
-        "ron": "Iar pentru cumpărat bucate, acum am adus alt argint, şi nu ştim cine a pus argintul în sacii noştri\"."
+        "ron": "Iar pentru cumpărat bucate, acum am adus alt argint, şi nu ştim cine a pus argintul în sacii noştri\".",
+        "grk": "Καὶ ἀργύριον ἕτερον ἠνέγκαμεν μεθʼ ἑαυτῶν, ἀγοράσαι βρώματα· οὐκ οἴδαμεν τίς ἐνέβαλεν τὸ ἀργύριον εἰς τοὺς μαρσίππους ἡμῶν."
       }
     },
     {
@@ -1950,7 +1972,8 @@
       "translations": {
         "lxx": "And he said to them, God deal mercifully with you; be not afraid; your God, and the God of your fathers, has given you treasures in your sacks, and I have enough of your good money. And he brought Symeon out to them.",
         "kjv": "And he said, Peace be to you, fear not: your God, and the God of your father, hath given you treasure in your sacks: I had your money. And he brought Simeon out unto them.",
-        "ron": "Iar acela le-a zis: \"Fiţi liniştiţi şi nu vă temeţi; Dumnezeul vostru ş i Dumnezeul tatălui vostru v-a dat comoara în sacii voştri, căci eu am primit tot argintul cuvenit de la voi\". Şi le-a adus pe Simeon."
+        "ron": "Iar acela le-a zis: \"Fiţi liniştiţi şi nu vă temeţi; Dumnezeul vostru ş i Dumnezeul tatălui vostru v-a dat comoara în sacii voştri, căci eu am primit tot argintul cuvenit de la voi\". Şi le-a adus pe Simeon.",
+        "grk": "Εἶπε δὲ αὐτοῖς, ἵλεως ὑμῖν, μὴ φοβεῖσθε· ὁ Θεὸς ὑμῶν, καὶ ὁ Θεὸς τῶν πατέρων ὑμῶν, ἔδωκεν ὑμῖν θησαυροὺς ἐν τοῖς μαρσίπποις ὑμῶν· καὶ τὸ ἀργύριον ὑμῶν εὐδοκιμοῦν ἀπέχω· καὶ ἐξήγαγε πρὸς αὐτοὺς τὸν Συμεών."
       }
     },
     {
@@ -1992,7 +2015,8 @@
       "translations": {
         "lxx": "And he brought water to wash their feet; and gave provender to their asses.",
         "kjv": "And the man brought the men into Joseph’s house, and gave them water, and they washed their feet; and he gave their asses provender.",
-        "ron": "Apoi omul acela a băgat pe oamenii aceia în casa lui Iosif şi le-a dat apă de şi-au spălat picioarele; şi a dat şi nutreţ pentru asinii lor."
+        "ron": "Apoi omul acela a băgat pe oamenii aceia în casa lui Iosif şi le-a dat apă de şi-au spălat picioarele; şi a dat şi nutreţ pentru asinii lor.",
+        "grk": "Καὶ ἤνεγκεν ὕδωρ νίψαι τοὺς πόδας αὐτῶν· καὶ ἔδωκε χορτάσματα τοῖς ὄνοις αὐτῶν."
       }
     },
     {
@@ -2059,7 +2083,8 @@
       "translations": {
         "lxx": "And they prepared their gifts, until Joseph came at noon, for they heard that he was going to dine there.",
         "kjv": "And they made ready the present against Joseph came at noon: for they heard that they should eat bread there.",
-        "ron": "Iar ei şi-au pregătit darurile până la amiază, când avea să vină Iosif, căci auziseră că vor prânzi acolo."
+        "ron": "Iar ei şi-au pregătit darurile până la amiază, când avea să vină Iosif, căci auziseră că vor prânzi acolo.",
+        "grk": "Ἡτοίμασαν δὲ τὰ δῶρα, ἕως τοῦ ἐλθεῖν τὸν Ἰωσὴφ μεσημβρίας· ἤκουσαν γὰρ ὅτι ἐκεῖ μέλλει ἀριστᾷν."
       }
     },
     {
@@ -2156,7 +2181,8 @@
       "translations": {
         "lxx": "And Joseph entered into the house, and they brought him the gifts which they had in their hands, into the house; and they did him reverence with their face to the ground.",
         "kjv": "And when Joseph came home, they brought him the present which was in their hand into the house, and bowed themselves to him to the earth.",
-        "ron": "După ce a venit Iosif acasă, i-au adus în casă darurile ce aveau cu ei şi i s-au închinat cu feţele până la pământ."
+        "ron": "După ce a venit Iosif acasă, i-au adus în casă darurile ce aveau cu ei şi i s-au închinat cu feţele până la pământ.",
+        "grk": "Εἰσῆλθε δὲ Ἰωσὴφ εἰς τὴν οἰκίαν, καὶ προσήνεγκαν αὐτῷ τὰ δῶρα, ἃ εἶχον ἐν ταῖς χερσὶν αὐτῶν, εἰς τὸν οἶκον· καὶ προσεκύνησαν αὐτῷ ἐπὶ πρόσωπον ἐπὶ τὴν γῆν."
       }
     },
     {
@@ -2223,7 +2249,8 @@
       "translations": {
         "lxx": "And he asked them, How are ye? and he said to them, Is your father, the old man of whom ye spoke, well? Does he yet live?",
         "kjv": "And he asked them of their welfare, and said, Is your father well, the old man of whom ye spake? Is he yet alive?",
-        "ron": "El însă i-a întrebat: \"Cum vă aflaţi?\" Apoi a zis: \"E sănătos bătrânul vostru tată, de care mi-aţi vorbit deunăzi? Mai trăieşte el oare?\""
+        "ron": "El însă i-a întrebat: \"Cum vă aflaţi?\" Apoi a zis: \"E sănătos bătrânul vostru tată, de care mi-aţi vorbit deunăzi? Mai trăieşte el oare?\"",
+        "grk": "Ἠρώτησε δὲ αὐτοὺς, πῶς ἔχετε; καὶ εἶπεν αὐτοῖς, εἰ ὑγιαίνει ὁ πατὴρ ὑμῶν ὁ πρεσβύτης, ὃν εἴπατε; ἔτι ζῇ;"
       }
     },
     {
@@ -2325,7 +2352,8 @@
       "translations": {
         "lxx": "And they said, Thy servant our father is well; he is yet alive. And he said, Blessed be that man by God;—and they bowed, and did him reverence.",
         "kjv": "And they answered, Thy servant our father is in good health, he is yet alive. And they bowed down their heads, and made obeisance.",
-        "ron": "Iar ei au zis: \"Tatăl nostru, robul tău, e sănătos şi trăieşte!\" Şi Iosif a zis: \"Binecuvântat de Dumnezeu este omul acela!\" Iar ei s-au plecat şi i s-au închinat."
+        "ron": "Iar ei au zis: \"Tatăl nostru, robul tău, e sănătos şi trăieşte!\" Şi Iosif a zis: \"Binecuvântat de Dumnezeu este omul acela!\" Iar ei s-au plecat şi i s-au închinat.",
+        "grk": "Οἱ δὲ εἶπαν, ὑγιαίνει ὁ παῖς σου ὁ πατὴρ ἡμῶν, ἔτι ζῇ. Καὶ εἶπεν, εὐλογημένος ὁ ἄνθρωπος ἐκεῖνος τῷ Θεῷ· καὶ κύψαντες προσεκύνησαν αὐτῷ."
       }
     },
     {
@@ -2447,7 +2475,8 @@
       "translations": {
         "lxx": "And Joseph lifted up his eyes, and saw his brother Benjamin, born of the same mother; and he said, Is this your younger brother, whom ye spoke of bringing to me? and he said, God have mercy on thee, my son.",
         "kjv": "And he lifted up his eyes, and saw his brother Benjamin, his mother’s son, and said, Is this your younger brother, of whom ye spake unto me? And he said, God be gracious unto thee, my son.",
-        "ron": "Şi ridicându-şi Iosif ochii şi văzând pe Veniamin, fratele său de o mamă cu el, a zis: \"Acesta-i fratele vostru cel mai mic, pe care mi-aii spus că-l veţi aduce la mine?\" Iar ei au răspuns: \"Acesta!\" Şi a zis Iosif către el: \"Dumnezeu să Se milostivească spre tine, fiule!\""
+        "ron": "Şi ridicându-şi Iosif ochii şi văzând pe Veniamin, fratele său de o mamă cu el, a zis: \"Acesta-i fratele vostru cel mai mic, pe care mi-aii spus că-l veţi aduce la mine?\" Iar ei au răspuns: \"Acesta!\" Şi a zis Iosif către el: \"Dumnezeu să Se milostivească spre tine, fiule!\"",
+        "grk": "Ἀναβλέψας δὲ τοῖς ὀφθαλμοῖς αὐτοῦ Ἰωσὴφ, εἶδε Βενιαμὶν τὸν ἀδελφὸν αὐτοῦ τὸν ὁμομήτριον· καὶ εἶπεν, οὗτος ὁ ἀδελφὸς ὑμῶν ὁ νεώτερος, ὃν εἴπατε πρός με ἀγαγεῖν; καὶ εἶπεν, ὁ Θεὸς ἐλεήσαι σε, τέκνον."
       }
     },
     {
@@ -2499,7 +2528,8 @@
       "translations": {
         "lxx": "And Joseph was troubled, for his bowels yearned over his brother, and he sought to weep; and he went into his chamber, and wept there.",
         "kjv": "And Joseph made haste; for his bowels did yearn upon his brother: and he sought where to weep; and he entered into his chamber, and wept there.",
-        "ron": "Dar s-a depărtat Iosif repede, pentru că inima sa ardea pentru fratele său şi căuta să plângă. Şi intrând în camera sa, ţa plâns acolo."
+        "ron": "Dar s-a depărtat Iosif repede, pentru că inima sa ardea pentru fratele său şi căuta să plângă. Şi intrând în camera sa, ţa plâns acolo.",
+        "grk": "Ἐταράχθη δὲ Ἰωσήφ· συνεστρέφετο γὰρ τὰ ἔγκατα αὐτοῦ ἐπὶ τῷ ἀδελφῷ αὐτοῦ, καὶ ἐζήτει κλαῦσαι· εἰσελθὼν δὲ εἰς τὸ ταμεῖον, ἔκλαυσεν ἐκεῖ."
       }
     },
     {
@@ -2551,7 +2581,8 @@
       "translations": {
         "lxx": "And he washed his face and came out, and refrained himself, and said, Set on bread.",
         "kjv": "And he washed his face, and went out, and refrained himself, and said, Set on bread.",
-        "ron": "Apoi, spălându-şi faţa, a ieşit şi stăpânindu-se a zis: \"Daţi mâncarea!\""
+        "ron": "Apoi, spălându-şi faţa, a ieşit şi stăpânindu-se a zis: \"Daţi mâncarea!\"",
+        "grk": "Καὶ νιψάμενος τὸ πρόσωπον, ἐξελθὼν ἐνεκρατεύσατο· καὶ εἶπε, παράθετε ἄρτους."
       }
     },
     {
@@ -2703,7 +2734,8 @@
       "translations": {
         "lxx": "And they set on bread for him alone, and for them by themselves, and for the Egyptians feasting with him by themselves, for the Egyptians could not eat bread with the Hebrews, for it is an abomination to the Egyptians.",
         "kjv": "And they set on for him by himself, and for them by themselves, and for the Egyptians, which did eat with him, by themselves: because the Egyptians might not eat bread with the Hebrews; for that is an abomination unto the Egyptians.",
-        "ron": "Şi i s-a dat lui deosebi şi lor iarăşi deosebi, şi Egiptenilor celor ce mâncau cu dânşii tot deosebi, căci Egiptenii nu puteau să mănânce la un loc cu Evreii, pentru că aceştia sunt spurcaţi pentru Egipteni."
+        "ron": "Şi i s-a dat lui deosebi şi lor iarăşi deosebi, şi Egiptenilor celor ce mâncau cu dânşii tot deosebi, căci Egiptenii nu puteau să mănânce la un loc cu Evreii, pentru că aceştia sunt spurcaţi pentru Egipteni.",
+        "grk": "Καὶ παρέθηκαν αὐτῷ μόνῳ, καὶ αὐτοῖς καθʼ ἑαυτούς, καὶ τοῖς Αἰγυπτίοις τοῖς συνδειπνοῦσι μετʼ αὐτοῦ καθʼ ἑαυτούς· οὐ γὰρ ἐδύναντο οἱ Αἰγύπτιοι συνεσθίειν μετὰ τῶν Ἐβραίων ἄρτους· βδέλυγμα γάρ ἐστι τοῖς Αἰγυπτίοις."
       }
     },
     {
@@ -2770,7 +2802,8 @@
       "translations": {
         "lxx": "And they sat before him, the first-born according to his seniority, and the younger according to his youth; and the men looked with amazement every one at his brother.",
         "kjv": "And they sat before him, the firstborn according to his birthright, and the youngest according to his youth: and the men marvelled one at another.",
-        "ron": "Şi s-au aşezat ei înaintea lui, cel întâi-născut după vârsta lui şi cel mai tânăr după vârsta lui, şi se mirau între ei oamenii aceştia."
+        "ron": "Şi s-au aşezat ei înaintea lui, cel întâi-născut după vârsta lui şi cel mai tânăr după vârsta lui, şi se mirau între ei oamenii aceştia.",
+        "grk": "Ἐκάθισαν δὲ ἐναντίον αὐτοῦ, ὁ πρωτότοκος κατὰ τὰ πρεσβεῖα αὐτοῦ, καὶ ὁ νεώτερος κατὰ τὴν νεότητα αὐτοῦ· ἐξίσταντο δὲ οἱ ἄνθρωποι ἕκαστος πρὸς τὸν ἀδελφὸν αὐτοῦ."
       }
     },
     {
@@ -2857,7 +2890,8 @@
       "translations": {
         "lxx": "And they took their portions from him to themselves; but Benjamin's portion was five times as much as the portions of the others. And they drank and were filled with drink with him.",
         "kjv": "And he took and sent messes unto them from before him: but Benjamin’s mess was five times so much as any of theirs. And they drank, and were merry with him.",
-        "ron": "Apoi el a dat fiecăruia porţii de dinaintea lui, iar partea lui Veniamin era de cinci ori mai mare decât a celorlalţi. Şi au băut şi s-au veselit cu el."
+        "ron": "Apoi el a dat fiecăruia porţii de dinaintea lui, iar partea lui Veniamin era de cinci ori mai mare decât a celorlalţi. Şi au băut şi s-au veselit cu el.",
+        "grk": "Ἦραν δὲ μερίδα παρʼ αὐτοῦ πρὸς ἑαυτούς· ἐμεγαλύνθη δὲ ἡ μερὶς Βενιαμεὶν παρὰ τὰς μερίδας πάντων πενταπλασίως πρὸς τὰς ἐκείνων· ἔπιον δὲ καὶ ἐμεθύσθησαν μετʼ αὐτοῦ."
       }
     }
   ],

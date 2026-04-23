@@ -65,7 +65,8 @@
       ],
       "translations": {
         "lxx": "In that day Tobit remembered the money which he had committed to Gabael in Rages of Media,",
-        "ron": "În ziua aceea şi-a adus aminte Tobit de argintul pe care-l încredinţase spre păstrare lui Gabael în Ragheşul Mediei."
+        "ron": "În ziua aceea şi-a adus aminte Tobit de argintul pe care-l încredinţase spre păstrare lui Gabael în Ragheşul Mediei.",
+        "grk": "Ἐν τῇ ἡμέρᾳ ἐκείνῃ ἐμνήσθη Τωβὶτ περὶ τοῦ ἀργυρίου, οὗ παρέθετο Γαβαὴλ ἐν Ῥάγοις τῆς Μηδίας."
       }
     },
     {
@@ -146,7 +147,8 @@
       ],
       "translations": {
         "lxx": "and said with himself, I have wished for death; wherefore do I not call for my son Tobias, that I may signify to him of the money before I die?",
-        "ron": "Şi el şi-a zis în sine: \"Eu mi-am cerut moarte. Aş face bine să chem pe fiul meu Tobie, ca să-i spun de aceşti talanţi până nu mor!\""
+        "ron": "Şi el şi-a zis în sine: \"Eu mi-am cerut moarte. Aş face bine să chem pe fiul meu Tobie, ca să-i spun de aceşti talanţi până nu mor!\"",
+        "grk": "Καὶ εἶπεν ἐν ἑαυτῷ, ἐγὼ ᾐτησάμην θάνατον, τί οὐ καλῶ Τωβίαν τὸν υἱόν μου, ἵνα αὐτῷ ὑποδείξω, πρὶν ἀποθανεῖν με;"
       }
     },
     {
@@ -247,7 +249,8 @@
       ],
       "translations": {
         "lxx": "And when he had called him, he said, My son, when I am dead, bury me; and despise not thy mother, but honour her all the days of thy life, and do that which shall please her, and grieve her not.",
-        "ron": "Şi chemându-l, i-a zis: \"Fiule, când voi muri, să mă îngropi şi să nu părăseşti pe mama ta; cinsteşte-o în toate zilele vieţii tale, fă ce-i place ei şi să nu-i pricinuieşti amărăciuni!"
+        "ron": "Şi chemându-l, i-a zis: \"Fiule, când voi muri, să mă îngropi şi să nu părăseşti pe mama ta; cinsteşte-o în toate zilele vieţii tale, fă ce-i place ei şi să nu-i pricinuieşti amărăciuni!",
+        "grk": "Καὶ καλέσας αὐτὸν, εἶπε, παιδίον, ἐὰν ἀποθάνω, θάψον με, καὶ μὴ ὑπερίδῃς τὴν μητέρα σου· τίμα αὐτὴν πάσας τὰς ἡμέρας τῆς ζωῆς σου, καὶ ποίει τὸ ἀρεστὸν αὐτῇ, καὶ μὴ λυπήσῃς αὐτήν."
       }
     },
     {
@@ -348,7 +351,8 @@
       ],
       "translations": {
         "lxx": "Remember, my son, that she saw many dangers for thee, when thou wast in her womb; and when she is dead, bury her by me in one grave.",
-        "ron": "Adu-ţi aminte, fiule, că ea a înfruntat multe primejdii pentru tine, când te-a purtat în pântece. Şi când ea va muri, s-o îngropi lângă mine în acelaşi mormânt."
+        "ron": "Adu-ţi aminte, fiule, că ea a înfruntat multe primejdii pentru tine, când te-a purtat în pântece. Şi când ea va muri, s-o îngropi lângă mine în acelaşi mormânt.",
+        "grk": "Μνήσθητι, παιδίον, ὅτι πολλοὺς κινδύνους ἑώρακεν ἐπὶ σοὶ ἐν τῇ κοιλίᾳ· ὅταν ἀποθάνῃ, θάψον αὐτὴν παρʼ ἐμοὶ ἐν ἑνὶ τάφῳ."
       }
     },
     {
@@ -454,7 +458,8 @@
       ],
       "translations": {
         "lxx": "My son, be mindful of the Lord our God all thy days, and let not thy will be set to sin, or to transgress his commandments: do uprightly all thy life long, and follow not the ways of unrighteousness.",
-        "ron": "Adu-ţi aminte în toate zilele, fiule, de Domnul Dumnezeul nostru şi să nu doreşti a greşi şi a călca poruncile Lui. Să faci fapte bune, în toate zilele vieţii tale, şi să nu umbli pe căile nedreptăţii."
+        "ron": "Adu-ţi aminte în toate zilele, fiule, de Domnul Dumnezeul nostru şi să nu doreşti a greşi şi a călca poruncile Lui. Să faci fapte bune, în toate zilele vieţii tale, şi să nu umbli pe căile nedreptăţii.",
+        "grk": "Πάσας τὰς ἡμέρας, παιδίον, Κυρίου τοῦ Θεοῦ ἡμῶν μνημόνευε, καὶ μὴ θελήσῃς ἁμαρτάνειν καὶ παραβῆναι τὰς ἐντολὰς αὐτοῦ· δικαιοσύνην ποίει πάσας τὰς ἡμέρας τῆς ζωῆς σου, καὶ μὴ πορευθῇς ταῖς ὁδοῖς τῆς ἀδικίας."
       }
     },
     {
@@ -535,7 +540,8 @@
       ],
       "translations": {
         "lxx": "For if thou deal truly, thy doings shall prosperously succeed to thee, and to all them that live justly.",
-        "ron": "Căci dacă tu lucrezi întru adevăr, vei izbuti în toate lucrările tale, ca toţi cei ce umblă după adevăr!"
+        "ron": "Căci dacă tu lucrezi întru adevăr, vei izbuti în toate lucrările tale, ca toţi cei ce umblă după adevăr!",
+        "grk": "Διότι ποιουντός σου τὴν ἀλήθειαν, εὐοδίαι ἔσονται ἐν τοῖς ἔργοις σου, καὶ πᾶσι τοῖς ποιοῦσι τὴν δικαιοσύνην."
       }
     },
     {
@@ -626,7 +632,8 @@
       ],
       "translations": {
         "lxx": "Ask counsel of all that are wise, and despise not any counsel that is profitable.",
-        "ron": "Dă milostenie din averea ta şi să nu aibă ochiul tău părere de rău când vei face milostenie. De la nici un sărac să nu-ţi întorci faţa ta, şi atunci nici de la tine nu se va întoarce faţa lui Dumnezeu."
+        "ron": "Dă milostenie din averea ta şi să nu aibă ochiul tău părere de rău când vei face milostenie. De la nici un sărac să nu-ţi întorci faţa ta, şi atunci nici de la tine nu se va întoarce faţa lui Dumnezeu.",
+        "grk": "Ἐκ τῶν ὑπαρχόντων σοι ποίει ἐλεημοσύνην, καὶ μὴ φθονεσάτω σου ὁ ὀφθαλμὸς ἐν τῷ ποιεῖν σε ἐλεημοσύνην· μὴ ἀποστρέψῃς τὸ πρόσωπόν σου ἀπὸ παντὸς πτωχοῦ, καὶ ἀπὸ σοῦ οὐ μὴ ἀποστραφῇ τὸ πρόσωπον τοῦ Θεοῦ. Ὡς σοὶ ὑπάρχοι κατὰ τὸ πλῆθος, ποίησον ἐξ αὐτῶν ἐλεημοσύνην· ἐὰν ὀλίγον σοι ὑπάρχῃ, κατὰ τὸ ὀλίγον μὴ φοβοῦ ποιεῖν ἐλεημοσύνην. Θέμα γὰρ ἀγαθὸν θησαυρίζεις σεαυτῷ εἰς ἡμέραν ἀνάγκης. Διότι ἐλεημοσύνη ἐκ θανάτου ῥύεται, καὶ οὐκ ἐᾴ εἰσελθεῖν εἰς τὸ σκότος. Δῶρον γὰρ ἀγαθόν ἐστιν ἐλεημοσύνη πᾶσι τοῖς ποιοῦσιν αὐτὴν ἐνώπιον τοῦ ὑψίστου. Πρόσεχε σεαυτῷ, παιδίον, ἀπὸ πάσης πορνείας, καὶ γυναῖκα πρῶτον λάβε ἀπὸ τοῦ σπέρματος τῶν πατέρων σου· μὴ λάβῃς γυναῖκα ἀλλοτρίαν, ἣ οὐκ ἔστιν ἐκ τῆς φυλῆς τοῦ πατέρος σου, διότι υἱοὶ προφητῶν ἐσμέν, Νῶε, Ἁβραάμ, Ἰσαάκ, Ἰακώβ. Οἱ πατέρες ἡμῶν ἀπὸ τοῦ αἰῶνος, μνήσθητι, παιδίον, ὅτι αὐτοὶ πάντες ἔλαβον γυναῖκας ἐκ τῶν ἀδελφῶν αὐτῶν, καὶ εὐλογήθησαν ἐν τοῖς τέκνοις αὐτῶν, καὶ τὸ σπέρμα αὐτῶν κληρονομήσει γῆν. Καὶ νῦν, παιδίον, ἀγάπα τοὺς ἀδελφούς σου, καὶ μὴ ὑπερηφανεύου τῇ καρδίᾳ σου ἀπὸ τῶν ἀδελφῶν σου, καὶ τῶν υἱῶν καὶ θυγατέρων τοῦ λαοῦ σου, λαβεῖν σεαυτῷ ἐξ αὐτῶν γυναῖκα· διότι ἐν τῇ ὑπερηφανίᾳ ἀπώλεια καὶ ἀκαταστασία πολλή, καὶ ἐν τῇ ἀχρειότητι ἐλάττωσις καὶ ἔνδεια μεγάλη· ἡ γὰρ ἀχρειότης μήτηρ ἐστὶ τοῦ λιμοῦ. Μισθὸς παντὸς ἀνθρώπου ὃς ἐὰν ἐργάσηται, παρὰ σοὶ μὴ αὐλισθήτω, ἀλλʼ ἀπόδος αὐτῷ παρʼ αὐτίκα· ἐὰν δουλεύσῃς τῷ Θεῷ, ἀποδοθήσεταί σοι· πρόσεχε σεαυτῷ, παιδίον, ἐν πᾶσι τοῖς ἔργοις σου, καὶ ἴσθι πεπαιδευμένος ἐν πάσῃ ἀναστροφῇ σου. Καὶ ὃ μισεῖς, μηδενὶ ποιήσῃς· οἶνον εἰς μέθην μὴ πίῃς, καὶ μὴ πορευθήτω μετὰ σοῦ μέθη ἐν τῇ ὁδῷ σου. Ἐκ τοῦ ἄρτου σου δίδου πεινῶντι, καὶ ἐκ τῶν ἱματίων σου τοῖς γυμνοῖς· πᾶν ὃ ἐὰν περισσεύσῃ σοι, ποίει ἐλεημοσύνην, καὶ μὴ φθονεσάτω σου ὁ ὀφθαλμὸς ἐν τῷ ποιεῖν σε ἐλεημοσύνην. Εκχεον τοὺς ἄρτους σου ἐπὶ τὸν τάφον τῶν δικαίων, καὶ μὴ δῷς τοῖς ἁμαρτωλοῖς. Συμβουλίαν παρὰ παντὸς φρονίμου ζήτησον, καὶ μὴ καταφρονήσῃς ἐπὶ πάσης συμβουλίας χρησίμης."
       }
     },
     {
@@ -1812,7 +1819,8 @@
       ],
       "translations": {
         "lxx": "Bless the Lord thy God alway, and desire of him that thy ways may be directed, and that all thy paths and counsels may prosper: for every nation hath not counsel; but the Lord himself giveth all good things, and he humbleth whom he will, as he will; now therefore, my son, remember my commandments, neither let them be put out of thy mind.",
-        "ron": "Binecuvintează pe Domnul Dumnezeu în tot timpul şi cere de la El să călăuzească căile tale şi ca toate gândurile tale să izbândească, căci înţelepciunea nu este dată la tot neamul, şi Domnul dă tot binele şi, pe cine voieşte, îl ridică sau îl coboară până în adâncul locaşului morţilor. Ţine minte deci, fiule, poruncile mele şi să nu se şteargă ele din inima ta."
+        "ron": "Binecuvintează pe Domnul Dumnezeu în tot timpul şi cere de la El să călăuzească căile tale şi ca toate gândurile tale să izbândească, căci înţelepciunea nu este dată la tot neamul, şi Domnul dă tot binele şi, pe cine voieşte, îl ridică sau îl coboară până în adâncul locaşului morţilor. Ţine minte deci, fiule, poruncile mele şi să nu se şteargă ele din inima ta.",
+        "grk": "Καὶ ἐν παντὶ καιρῷ εὐλόγει Κύριον τὸν Θεὸν, καὶ παρʼ αὐτοῦ αἴτησον, ὅπως αἱ ὁδοί σου εὐθεῖαι γένωνται, καὶ πᾶσαι αἱ τρίβοι καὶ βουλαὶ σου εὐοδωθῶσι· διότι πᾶν ἔθνος οὐκ ἔχει βουλὴν, ἀλλʼ αὐτὸς ὁ Κύριος δίδωσι πάντα τὰ ἀγαθὰ, καὶ ὃν ἐὰν θέλῃ, ταπεινοῖ καθὼς βούλεται· καὶ νῦν, παιδίον, μνημόνευε τῶν ἐντολῶν μου, καὶ μὴ ἐξαλειφθήτωσαν ἐκ τῆς καρδίας σου."
       }
     },
     {
@@ -1888,7 +1896,8 @@
       ],
       "translations": {
         "lxx": "And now I signify this to thee, that I committed ten talents to Gabael the son of Gabrias at Rages in Media.",
-        "ron": "Şi acum îţi descopăr că am dat zece talanţi de argint în păstrarea lui Gabael, fiul lui Gabri, din Ragheşul Mediei. Nu te teme, fiule, că am sărăcit! Tu ai o mare bogăţie, dacă te vei teme de Domnul şi, îndepărtându-te de orice păcat, vei face cele plăcute înaintea Lui\"."
+        "ron": "Şi acum îţi descopăr că am dat zece talanţi de argint în păstrarea lui Gabael, fiul lui Gabri, din Ragheşul Mediei. Nu te teme, fiule, că am sărăcit! Tu ai o mare bogăţie, dacă te vei teme de Domnul şi, îndepărtându-te de orice păcat, vei face cele plăcute înaintea Lui\".",
+        "grk": "Καὶ νῦν ὑποδεικνύω σοι τὰ δέκα τάλαντα τοῦ ἀργυρίου, ἃ παρεθέμην Γαβαήλῳ τῷ τοῦ Γαβρία ἐν Ῥάγοις τῆς Μηδίας."
       }
     },
     {
@@ -1993,7 +2002,8 @@
         }
       ],
       "translations": {
-        "lxx": "And fear not, my son, that we are made poor: for thou hast much wealth, if thou fear God, and depart from all sin, and do that which is pleasing in his sight."
+        "lxx": "And fear not, my son, that we are made poor: for thou hast much wealth, if thou fear God, and depart from all sin, and do that which is pleasing in his sight.",
+        "grk": "Καὶ μὴ φοβοῦ, παιδίον, ὅτι ἐπτωχεύσαμεν· ὑπάρχει σοι πολλὰ, ἐὰν φοβηθῇς τὸν Θεὸν, καὶ ἀποστῇς ἀπὸ πάσης ἁμαρτίας, καὶ ποιήσῃς τὸ ἀρεστὸν ἐνώπιον αὐτοῦ."
       }
     }
   ],
