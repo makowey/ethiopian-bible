@@ -41,6 +41,7 @@ export const VerseView = memo(function VerseView({
   const handleCopy = useCallback(() => {
     const text = verse.translations?.ron
       || verse.translations?.lxx
+      || verse.translations?.grk
       || verse.translations?.kjv
       || verse.translation
       || ''
