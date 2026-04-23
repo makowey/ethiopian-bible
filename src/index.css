@@ -29,12 +29,16 @@
   --color-ai:              #8b5e18;
   --color-ai-bg:           rgba(139, 94, 24, 0.07);
   --color-ai-border:       rgba(139, 94, 24, 0.28);
+  --color-grk:             #3d6b5a;
+  --color-grk-bg:          rgba(61, 107, 90, 0.07);
+  --color-grk-border:      rgba(61, 107, 90, 0.30);
   --color-border:          rgba(100, 70, 20, 0.12);
   --color-border-strong:   rgba(100, 70, 20, 0.22);
   --font-geez:   "Noto Sans Ethiopic", "Abyssinica SIL", serif;
   --font-body:   "Crimson Pro", "Georgia", serif;
   --font-ui:     "Inter", system-ui, sans-serif;
   --font-title:  "Cinzel", "Crimson Pro", serif;
+  --font-grk:    "GFS Didot", "Palatino Linotype", Palatino, Georgia, serif;
 }
 
 /* ─── Base ────────────────────────────────────────────────── */

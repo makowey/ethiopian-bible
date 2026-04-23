@@ -21,6 +21,7 @@ export interface Translations {
   ron?: string              // Romanian Orthodox Bible (Biblia Ortodoxă, based on LXX)
   'geez-source'?: string
   ai?: TranslationEntry     // AI-assisted translation with confidence metadata
+  grk?: string
 }
 
 export interface Verse {
@@ -87,6 +88,7 @@ export interface ReaderSettings {
   showRon: boolean
   showGeezSource: boolean
   showAiTranslation: boolean
+  showGrk: boolean
   fontSize: number
 }
 
@@ -98,5 +100,6 @@ export const DEFAULT_SETTINGS: ReaderSettings = {
   showRon: true,
   showGeezSource: true,
   showAiTranslation: true,
+  showGrk: false,
   fontSize: 20,
 }
